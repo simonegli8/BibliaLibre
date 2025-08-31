@@ -31,7 +31,7 @@ Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁ
 Program.PreprocessImportUSFM = txt =>
 {
     // Unify name of God
-    txt = txt.Replace(@"\nd Señor\nd*", "SEÑOR");
+    //txt = txt.Replace(@"\nd Señor\nd*", "SEÑOR");
     // Remove titles
     txt = Regex.Replace(txt, @"\\s[0-9].*?(?:\r?\n|$)", "", RegexOptions.Singleline);
     txt = txt.Replace("―", "");

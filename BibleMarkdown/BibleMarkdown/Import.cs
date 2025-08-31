@@ -122,16 +122,17 @@ namespace BibleMarkdown
 
 						src = Regex.Replace(src, @"\\p[ \t]*", $"{Environment.NewLine}{Environment.NewLine}"); // replace new paragraph with empty line
 						src = Regex.Replace(src, @"\|([a-zA-Z-]+=""[^""]*""\s*)+", ""); // remove word attributes
-						src = Regex.Replace(src, @"\\em(.*?)\\em\*", "*$1*", RegexOptions.Singleline); // italics
-						src = Regex.Replace(src, @"\\bd(.*?)\\bd\*", "**$1**", RegexOptions.Singleline); // bold
-						src = Regex.Replace(src, @"\\it(.*?)\\it\*", "*$1*", RegexOptions.Singleline); //italics
-						src = Regex.Replace(src, @"\\sc(.*?)\\sc\*", "[$1]{.smallcaps}", RegexOptions.Singleline); // smallcaps
-						src = Regex.Replace(src, @"\\wj(.*?)\\wj\*", "[$1]{.wj}", RegexOptions.Singleline); // words of jesus
+						src = Regex.Replace(src, @"\\em\s*(.*?)\s*\\em\*", "*$1*", RegexOptions.Singleline); // italics
+						src = Regex.Replace(src, @"\\bd\s*(.*?)\s*\\bd\*", "**$1**", RegexOptions.Singleline); // bold
+						src = Regex.Replace(src, @"\\it\s*(.*?)\s*\\it\*", "*$1*", RegexOptions.Singleline); //italics
+						src = Regex.Replace(src, @"\\sc\s*(.*?)\s*\\sc\*", "[$1]{.smallcaps}", RegexOptions.Singleline); // smallcaps
+						src = Regex.Replace(src, @"\\wj\s*(.*?)\s*\\wj\*", "[$1]{.wj}", RegexOptions.Singleline); // words of jesus
+						src = Regex.Replace(src, @"\\nd\s*(.*?)\s*\\nd\*", "[$1]{.smallcaps}", RegexOptions.Singleline); // name of God
 
 						src = Regex.Replace(src, @"\\\+?\w+(\*|[ \t]*)?", "", RegexOptions.Singleline); // remove usfm tags
 						src = Regex.Replace(src, @" +", " "); // remove multiple spaces
 						src = Regex.Replace(src, @"\^\[([0-9]+)[.,:]([0-9]+)", "^[**$1:$2**"); // bold verse references in footnotes
-						src = Regex.Replace(src, @"((?<![0-9]+)\.(?![0-9]+)|\?|!|;|(?<![0-9]+):(?![0-9]+)|(?<![0-9]+),(?![0-9]+))(\w|“|¿|¡)", "$1 $2"); // Add space after dot
+						src = Regex.Replace(src, @"((?<![0-9]+|\s|{)\.(?![0-9]+)|\?|!|;|(?<![0-9]+):(?![0-9]+)|(?<![0-9]+),(?![0-9]+))(\w|“|¿|¡)", "$1 $2"); // Add space after dot
 						src = Regex.Replace(src, @"(?<!^|(?:^|\n)[ \t]*\r?\n|(?:^|\n)#+[ \t]+[^\n]*\n)#", $"{Environment.NewLine}#", RegexOptions.Singleline); // add blank line over title
 						if (LowercaseFirstWords) // needed for ReinaValera1909, it has uppercase words on every beginning of a chapter
 						{
