@@ -6,13 +6,35 @@ using System.Text.RegularExpressions;
 using System.Xml.Linq;
 using System.Threading.Tasks;
 using System.Diagnostics.Contracts;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace BibleMarkdown
 {
 	partial class Program
 	{
 
-		static void ImportFromUSFM(string mdpath, string srcpath)
+		static void ImportFromBibleMarkdown(string mdpath, string srcpath)
+		{
+			srcpath = Path.Combine(srcpath, "bibmark");
+			if (!Directory.Exists(srcpath)) return;
+			var sources = Directory.EnumerateFiles(srcpath)
+				.Where(file => file.EndsWith(".md"));
+			if (sources.Any())
+			{
+				if (FromSource)
+				{
+					Imported = true;
+
+					foreach (var source in sources)
+					{
+						var dest = Path.Combine(mdpath, Path.GetFileName(source));
+						File.Copy(source, dest, true);
+					}
+				}
+			}
+		}
+
+        static void ImportFromUSFM(string mdpath, string srcpath)
 		{
 			var sources = Directory.EnumerateFiles(srcpath)
 				.Where(file => file.EndsWith(".usfm"));
@@ -99,7 +121,8 @@ namespace BibleMarkdown
 							return res;
 						});
 
-						src = Regex.Replace(src, @"\\v\s+([0-9]+)", "^$1^"); // verse numbers
+						if (Program.ParagraphVerses) src = Regex.Replace(src, @"\\v\s+([0-9]+)", "§$1"); // verse numbers
+						else src = Regex.Replace(src, @"\\v\s+([0-9]+)", "^$1^"); // verse numbers
 
 						// footnotes
 						int n = 0;
@@ -141,6 +164,7 @@ namespace BibleMarkdown
 						}
 
 						src = Regex.Replace(src, @"\^[0-9]+\^(?=\s*(\^[0-9]+\^|#|$|\^[a-zA-Z]\^\[))", "", RegexOptions.Singleline); // remove empty verses
+						src = Regex.Replace(src, @"§[0-9]+(?=\s*(§[0-9]+|#|$|\^[a-zA-Z]\^\[))", "", RegexOptions.Singleline); // remove empty verses
 						src = Regex.Replace(src, @"(?<!\s|^)(\^[0-9]+\^)", " $1", RegexOptions.Singleline);
 						src = Regex.Replace(src, @"(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n)(##.*?\r?\n)?(?<verse0>.*?)(?=\s*\^1\^)", match => // set italics on verse 0
 						{
@@ -153,6 +177,7 @@ namespace BibleMarkdown
 						if (EachVerseOnNewLine)
 						{
 							src = Regex.Replace(src, @"(?<!^)(\^[0-9]+\^)", $"{Environment.NewLine}$1", RegexOptions.Multiline);
+							src = Regex.Replace(src, @"(?<!^)(§[0-9]+)", $"{Environment.NewLine}$1", RegexOptions.Multiline);
 						}
 
 						var md = Path.Combine(mdpath, $"{booknostr}-{book}.md");
@@ -297,7 +322,14 @@ namespace BibleMarkdown
 
 							string verse = m.Groups[3].Value;
 							string text = Regex.Replace(m.Groups[4].Value, @"\r?\n", " ").Trim();
-							s.Append($"{(verse == "1" ? "" : (EachVerseOnNewLine ? $"{Environment.NewLine}" : " "))}^{verse}^ {text}");
+							if (Program.ParagraphVerses)
+							{
+								s.Append($"{(verse == "1" ? "" : (EachVerseOnNewLine ? $"{Environment.NewLine}" : " "))}§{verse} {text}");
+							}
+							else
+							{
+								s.Append($"{(verse == "1" ? "" : (EachVerseOnNewLine ? $"{Environment.NewLine}" : " "))}^{verse}^ {text}");
+							}
 						}
 					}
 					md = Path.Combine(mdpath, $"{bookno++:D2}-{book}.md");
@@ -359,7 +391,8 @@ namespace BibleMarkdown
 										else text.Append(" ");
 									}
 									firstverse = false;
-									text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
+									if (Program.ParagraphVerses) text.Append($"§{((int)verse.Attribute("vnumber"))} ");
+									else text.Append($"^{((int)verse.Attribute("vnumber"))}^ ");
 									text.Append(verse.Value);
 								}
 							}
@@ -427,7 +460,8 @@ namespace BibleMarkdown
 										else text.Append(" ");
 									}
 									firstverse = false;
-									text.Append($"^{((int)verse.Attribute("n"))}^ ");
+									if (Program.ParagraphVerses) text.Append($"§{((int)verse.Attribute("vnumber"))} ");
+									else text.Append($"^{((int)verse.Attribute("n"))}^ ");
 									text.Append(verse.Value);
 								}
 							}
@@ -484,11 +518,12 @@ namespace BibleMarkdown
 					bookItem.Items.Add(chapterItem);
 
 					int verse = -1;
-					var tokens = Regex.Matches(chapter.Body, @"\^(?<verse>[0-9]+)\^|(?<paragraph>\\)|(?<footnote>\^\[(?>\[(?<c>)|[^\[\]]+|\](?<-c>))*(?(c)(?!))\])|(?<=\n)###\s+(?<title>.*?)(\r?\n|$)", RegexOptions.Singleline)
+					var tokens = Regex.Matches(chapter.Body, @"\^(?<verse>[0-9]+)\^|§(?<verse2>[0-9]+)|(?<paragraph>\\)|(?<footnote>\^\[(?>\[(?<c>)|[^\[\]]+|\](?<-c>))*(?(c)(?!))\])|(?<=\n)###\s+(?<title>.*?)(\r?\n|$)", RegexOptions.Singleline)
 						.Select(match =>
 						{
 
 							if (match.Groups["verse"].Success) verse = int.Parse(match.Groups["verse"].Value);
+							else if (match.Groups["verse2"].Success) verse = int.Parse(match.Groups["verse2"].Value);
 
 							return new
 							{
@@ -869,7 +904,7 @@ namespace BibleMarkdown
 						int chapter = 0;
 						int verse = -1;
 
-						src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\s*\^[0-9]+\^|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\s*\\?\s*\^1\^|\s*#|\s*$)", m =>
+						src = Regex.Replace(src, @"(?<=^|\n)#[ \t]+(?<chapter>[0-9]+)(\s*\r?\n|$)|\^(?<verse>[0-9]+)\^.*?(?=\s*\^[0-9]+\^|\s*§[0-9]+|\s*#|\s*$)|§(?<verse2>[0-9]+).*?(?=\s*\^[0-9]+\^|\s*§[0-9]+|\s*#|\s*$)|(?<=(^|\n)#[ \t]+[0-9]+[ \t]*\r?\n(##[ \t]+.*?\r?\n)?)(?<empty>.*?)(?=\s*\\?\s*\^1\^|\s*\\?\s*§1|\s*#|\s*$)", m =>
 						// empty is special text at the beginning of a psalm without verse number
 						{
 							var txt = m.Value;
@@ -881,6 +916,10 @@ namespace BibleMarkdown
 							else if (m.Groups["verse"].Success) // verse
 							{
 								int.TryParse(m.Groups["verse"].Value, out verse);
+							}
+							else if (m.Groups["verse2"].Success) // verse
+							{
+								int.TryParse(m.Groups["verse2"].Value, out verse);
 							}
 							else if (m.Groups["empty"].Success) //introduction line of a psalm
 							{
@@ -917,7 +956,7 @@ namespace BibleMarkdown
 						}, RegexOptions.Singleline);
 
 						// remove whitespace before a verse on a new line
-						src = Regex.Replace(src, @"(?<=(^|\n))[ \t]+(\^[0-9]+\^)", "$2", RegexOptions.Singleline);
+						src = Regex.Replace(src, @"(?<=(^|\n))[ \t]+(\^[0-9]+\^|§[0-9]+)", "$2", RegexOptions.Singleline);
 
 						// hack because of bad output
 						// remove empty line after ## title

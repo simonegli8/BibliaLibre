@@ -27,6 +27,7 @@ namespace BibleMarkdown
 		public static bool FromSource = false;
 		public static bool Imported = false;
 		public static bool Help = false;
+		public static bool ParagraphVerses = true;
 		public static Func<string, string> Preprocess = s => s;
 		public static Func<string, string> PreprocessImportUSFM = s => s;
 		static string language;
@@ -174,10 +175,11 @@ namespace BibleMarkdown
 				VerseMaps.Load(path);
 				ImportFromBibleEdit(srcpath);
 				ImportFromUSFM(path, srcpath);
-				ImportFromTXT(path, srcpath);
+                ImportFromTXT(path, srcpath);
 				ImportFromZefania(path, srcpath);
 				ImportFromXmlOther(path, srcpath);
-				ImportFramework(path);
+                ImportFromBibleMarkdown(path, srcpath);
+                ImportFramework(path);
 			}
 			CreateFramework(path);
 			CreateVerseStats(path);

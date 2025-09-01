@@ -58,6 +58,7 @@ namespace BibleMarkdown
 			if (Regex.IsMatch(text, @"(//|/\*)!verse-paragraphs(\s|\r?\n|\*/)", RegexOptions.Singleline)) // each verse in a separate paragraph. For use in Psalms & Proverbs
 			{
 				text = Regex.Replace(text, @"(\^[0-9]+\^[^#]*?)(\s*?)(?=\^[0-9]+\^)", "$1\\\n", RegexOptions.Singleline);
+				text = Regex.Replace(text, @"(§[0-9]+[^#]*?)(\s*?)(?=§[0-9]+)", "$1\\\n", RegexOptions.Singleline);
 			}
 
 			// text = Regex.Replace(text, @"\^([0-9]+)\^", @"\bibleverse{$1}"); // verses
@@ -71,6 +72,7 @@ namespace BibleMarkdown
 			text = Regex.Replace(text, @"([\u0590-\u05fe]+)", "[$1]{.hebrew}");
 			text = Regex.Replace(text, @"([\u0370-\u03ff\u1f00-\u1fff]+)", "[$1]{.greek}");
 			text = Regex.Replace(text, @"\^([0-9]+)\^", "[$1]{.bibleverse}");
+			text = Regex.Replace(text, @"§([0-9]+)", "[$1]{.bibleverse}");
 
 			/*
 			text = Regex.Replace(text, @" ^# (.*?)$", @"\chapter{$1}", RegexOptions.Multiline);
@@ -237,7 +239,7 @@ namespace BibleMarkdown
 				int verse = 0;
 				int nverses = 0;
 				int totalverses = 0;
-				var matches = Regex.Matches(txt, @"((^|\n)#\s+(?<chapter>[0-9]+))|(\^(?<verse>[0-9]+)\^(?!\s*[#\^$]))", RegexOptions.Singleline);
+				var matches = Regex.Matches(txt, @"((^|\n)#\s+(?<chapter>[0-9]+))|(\^(?<verse>[0-9]+)\^(?!\s*[#\^§$]))|(§(?<verse2>[0-9]+)(?!\s*[#\^§$]))", RegexOptions.Singleline);
 				foreach (Match m in matches)
 				{
 					if (m.Groups[1].Success)
@@ -255,6 +257,12 @@ namespace BibleMarkdown
 					else if (m.Groups["verse"].Success)
 					{
 						int.TryParse(m.Groups["verse"].Value, out verse);
+						nverses = Math.Max(nverses, verse);
+
+					}
+					else if (m.Groups["verse2"].Success)
+					{
+						int.TryParse(m.Groups["verse2"].Value, out verse);
 						nverses = Math.Max(nverses, verse);
 
 					}
@@ -333,12 +341,13 @@ namespace BibleMarkdown
 					var chaptertext = chapter.Groups["text"].Value;
 
 					var tokens = Regex.Matches(chaptertext,
-						@"\^(?<verse>[0-9]+)\^|(?<footnote>\^\[(?>\[(?<c>)|[^\[\]]+|\](?<-c>))*(?(c)(?!))\])(?=(?<endofverse>\s*?((\^[0-9]+\^)|\n#|$)))|(?<=\r?\n)(?<blank>\r?\n)(?!\s*?(?:\^[a-zA-Z]+\^\[|#|$))(?=\s*\^[0-9]+\^)|(?<=\r?\n|^)##(?<title>.*?)(?=\r?\n|$)",
+						@"\^(?<verse>[0-9]+)\^|§(?<verse2>[0-9]+)|(?<footnote>\^\[(?>\[(?<c>)|[^\[\]]+|\](?<-c>))*(?(c)(?!))\])(?=(?<endofverse>\s*?((\^[0-9]+\^|§[0-9]+)|\n#|$)))|(?<=\r?\n)(?<blank>\r?\n)(?!\s*?(?:\^[a-zA-Z]+\^\[|#|$))(?=\s*\^[0-9]+\^|\s*§[0-9]+)|(?<=\r?\n|^)##(?<title>.*?)(?=\r?\n|$)",
 						RegexOptions.Singleline);
-					int verse = 0;
+					int verse = -1;
 
 					foreach (Match token in tokens)
 						if (token.Groups["verse"].Success) verse = int.Parse(token.Groups["verse"].Value);
+						else if (token.Groups["verse2"].Success) verse = int.Parse(token.Groups["verse2"].Value);
 						/* else if (token.Groups["footnote"].Success && token.Groups["endofverse"].Success)
 						{
 							var item = new FootnoteItem(book, token.Groups["footnote"].Value, chapterItem.Chapter, verse);
@@ -358,7 +367,8 @@ namespace BibleMarkdown
 							items.Add(item);
 							bookItem.Items.Add(item);
 						}
-				}
+						if (verse == -1) verse = 0;
+                }
 			}
 
 			// ImportParallelVerses(items);
@@ -392,9 +402,9 @@ namespace BibleMarkdown
 				else if (item is TitleItem)
 				{
 					var titleItem = (TitleItem)item;
-					if (Location.Compare(lastlocation, item.Location) != 0) result.AppendLine($"^{item.Verse}^");
+					if (Location.Compare(lastlocation, item.Location) != 0) result.AppendLine(Program.ParagraphVerses ? $"§{item.Verse}" : $"^{item.Verse}^");
 					var title = new XElement("Title");
-					title.Value = titleItem.Title;
+					title.Value = titleItem.Title.Trim();
 					title.Add(new XAttribute("Verse", item.Verse));
 					if (chapterxml != null) chapterxml.Add(title);
 					else Log("Error: No chapter for framework.");
@@ -403,7 +413,7 @@ namespace BibleMarkdown
 				else if (item is FootnoteItem)
 				{
 					var footnoteItem = (FootnoteItem)item;
-					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Verse}^ ");
+					if (Location.Compare(lastlocation, item.Location) != 0) result.Append(Program.ParagraphVerses ? $"§{item.Verse} " : $"^{item.Verse}^ ");
 					var footnote = new XElement("Footnote");
 					footnote.Value = footnoteItem.Footnote;
 					footnote.Add(new XAttribute("Verse", item.Verse));
@@ -413,7 +423,7 @@ namespace BibleMarkdown
 				}
 				else if (item is ParagraphItem)
 				{
-					if (Location.Compare(lastlocation, item.Location) != 0) result.Append($"^{item.Location.Verse}^ ");
+					if (Location.Compare(lastlocation, item.Location) != 0) result.Append(Program.ParagraphVerses ? $"§{item.Verse} " : $"^{item.Verse}^ ");
 					var paragraph = new XElement("Paragraph");
 					paragraph.Add(new XAttribute("Verse", item.Verse));
 					if (chapterxml != null) chapterxml.Add(paragraph);
@@ -439,7 +449,7 @@ namespace BibleMarkdown
 
 			var name = Books.Name(mdfile);
 			var txt = File.ReadAllText(mdfile);
-			if (string.IsNullOrEmpty(usfm)) txt = @$"\h {name}{Environment.NewLine}\toc1 {name}{Environment.NewLine}{Environment.NewLine}\\rem From here on, this file is autogenerated by bibmark. You may edit the header section, as it will not be changed by bibmark.{Environment.NewLine}{Environment.NewLine}{txt}";
+			if (string.IsNullOrEmpty(usfm)) txt = @$"\h {name}{Environment.NewLine}\toc1 {name}{Environment.NewLine}{Environment.NewLine}\rem From here on, this file is autogenerated by bibmark. You may edit the header section, as it will not be changed by bibmark.{Environment.NewLine}{Environment.NewLine}{txt}";
 			txt = Regex.Replace(txt, @"(^|\n)#[ \t]+([0-9]+)", @$"\c $2{Environment.NewLine}\p", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(^|\n)##[ \t]+([^\r\n]*?)\r?\n", @$"\s1 $2{Environment.NewLine}\p", RegexOptions.Singleline);
 			txt = Regex.Replace(txt, @"(?<!^|\n)\[([0-9]+)\]\{\.bibleverse\}", $@"{Environment.NewLine}\v $1", RegexOptions.Singleline);
@@ -449,9 +459,16 @@ namespace BibleMarkdown
 			txt = Regex.Replace(txt, @"\*", "", RegexOptions.Singleline); // remove italics
 			txt = Regex.Replace(txt, @"\[([^]]*)\]\{\.smallcaps\}", @"\sc $1\sc*", RegexOptions.Singleline); // smallcaps
 			txt = Regex.Replace(txt, @"\[([^]]*)\]\{\.wj\}", @"\wj $1\wj*", RegexOptions.Singleline); // words of Jesus
-
+			txt = Regex.Replace(txt, @"\\\*(.*?)\*\\", m =>
+			{
+				var lines = m.Groups[1].Value.Split('\n')
+					.Select(line => $"\\rem {line.Trim()}");
+				return $"{Environment.NewLine}{string.Join(Environment.NewLine, lines)}";
+			}, RegexOptions.Singleline); // comments
+			txt = Regex.Replace(txt, @"//(.*?\r?\n)", "\\rem $1", RegexOptions.Singleline); // single line comments
+                                                                                
 			// remove bibmark footnotes.
-			bool replaced = true;
+            bool replaced = true;
 			while (replaced)
 			{
 				replaced = false;
