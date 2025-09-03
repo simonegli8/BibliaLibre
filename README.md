@@ -1,10 +1,10 @@
 # Biblia Libre
 
-Biblia Libre is a collection of OpenSource & Public Domain Bibles. The Bibles use a specific version of Markdown, BibleMarkdown. Bible Markdown is normal pandoc Markdown with the following extensions:
+Biblia Libre is a collection of OpenSource & Public Domain Bibles. The Bibles use a specific version of Markdown, BibleMarkdown. Bible Markdown is normal Pandoc Markdown with the following extensions:
 
 - For Footnotes you can make them more readable, by placing a marker ^label^ at the place of the footnote, but specifying the footnote later in the text with ordinary ^label^[Footnote] markdown. "label" must be a letter or word without any digits.
 - You can have comments by bracing them with /\* and \*/ or by leading with // until the end of the line. /\* \*/ Comments can span multiple lines.
-- Verse numbers are noted with superscript Markdown notation, like this ^1^ In the beginning was the Word and the Word was with God and the Word was God. ^2^ This was in the beginning...
+- Verse numbers are denoted with a § character followed by a number, like this: §1 In the beginning was the Word and the Word was with God and the Word was God. §2 This was in the beginning...
 - if the text contains the comment //!verse-paragraphs, each verse is rendered in a paragraph. For use in Psalms and Proverbs.
 - Chapter numbers are denoted with a # markdown title and Chapter headings with a ## markdown title
 - A special comment //!replace /regularexpression/replacement/regularexpression/replacement/... can be placed in the text. All the regular expressions will be replaced. You can choose another delimiter char than /, the first character encountered will be used as delimiter.
