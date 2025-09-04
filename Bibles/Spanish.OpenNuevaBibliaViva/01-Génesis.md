@@ -45,12 +45,12 @@
 §3 Y bendijo el séptimo día y lo instituyó como día santo, porque en ese día descansó después de haber creado todo.
 
 ## La creacion del hombre y de la mujer en el paraíso
-§4 Aquí termina la historia de la creación del cielo y de la tierra. Cuando Dios el [Señor]{.smallcaps} hizo la tierra y el cielo, 
-§5 todavía no había ninguna clase de vegetación en la tierra, porque Dios el [Señor]{.smallcaps} aún no había hecho llover. Además, no había quien trabajara la tierra, porque todavía Dios no había hecho al hombre. 
-§6 Sin embargo, de la tierra brotaba agua que regaba el suelo. §7 Entonces Dios el [Señor]{.smallcaps} formó el cuerpo del hombre del polvo de la tierra y sopló en su nariz el aliento de vida. Fue así como el hombre se convirtió en un ser vivo.
+§4 Aquí termina la historia de la creación del cielo y de la tierra. Cuando Dios el SEÑOR hizo la tierra y el cielo, 
+§5 todavía no había ninguna clase de vegetación en la tierra, porque Dios el SEÑOR aún no había hecho llover. Además, no había quien trabajara la tierra, porque todavía Dios no había hecho al hombre. 
+§6 Sin embargo, de la tierra brotaba agua que regaba el suelo. §7 Entonces Dios el SEÑOR formó el cuerpo del hombre del polvo de la tierra y sopló en su nariz el aliento de vida. Fue así como el hombre se convirtió en un ser vivo.
 
-§8 Luego Dios el [Señor]{.smallcaps} plantó un jardín en Edén, hacia el oriente, y puso en él al hombre que había creado. 
-§9 Dios el [Señor]{.smallcaps} hizo que en el jardín se diera toda clase de árboles hermosos y de frutos deliciosos. En el centro del jardín plantó el árbol de la vida y también el árbol del conocimiento del bien y del mal.
+§8 Luego Dios el SEÑOR plantó un jardín en Edén, hacia el oriente, y puso en él al hombre que había creado. 
+§9 Dios el SEÑOR hizo que en el jardín se diera toda clase de árboles hermosos y de frutos deliciosos. En el centro del jardín plantó el árbol de la vida y también el árbol del conocimiento del bien y del mal.
 
 ## El río en el paraíso y sus ramales
 §10 De la tierra de Edén salía un río que corría a través del huerto para regarlo. Después el río se dividía en cuatro brazos. 
@@ -59,13 +59,13 @@
 §14 El tercero era el río Tigris, que es el que pasa al oriente de Asiria. Y el cuarto era el río Éufrates.
 
 ## El mandamiento de Dios por Adam
-§15 Dios el [Señor]{.smallcaps} puso al hombre en el jardín de Edén para que lo labrara y lo cuidara, 
+§15 Dios el SEÑOR puso al hombre en el jardín de Edén para que lo labrara y lo cuidara, 
 §16 y a la vez le dio esta orden: «Puedes comer del fruto de todos los árboles que hay en el jardín, 
 §17 pero del árbol del conocimiento del bien y del mal no podrás comer, porque el día que comas del fruto de ese árbol, morirás».
 
 ## La creación de la mujer y la fundación del matrimonio
-§18 Dios el [Señor]{.smallcaps} dijo: «No es bueno que el hombre esté solo. Le voy a hacer una compañera que sea de ayuda para él en todas sus necesidades». 
-§19-20 Dios el [Señor]{.smallcaps} formó, del polvo de la tierra, todos los animales del campo y todas las aves del cielo. Luego se los llevó al hombre para que este les pusiera nombre. Así que el hombre les puso a todos los animales el nombre con que se conocen en la actualidad. Pero entre todos esos animales no se encontró ninguno que le sirviera al hombre de pareja adecuada. §21 Entonces Dios el [Señor]{.smallcaps} hizo que cayera sobre el hombre un sueño profundo, le sacó una costilla y cerró la carne en el lugar de donde la había sacado.
+§18 Dios el SEÑOR dijo: «No es bueno que el hombre esté solo. Le voy a hacer una compañera que sea de ayuda para él en todas sus necesidades». 
+§19-20 Dios el SEÑOR formó, del polvo de la tierra, todos los animales del campo y todas las aves del cielo. Luego se los llevó al hombre para que este les pusiera nombre. Así que el hombre les puso a todos los animales el nombre con que se conocen en la actualidad. Pero entre todos esos animales no se encontró ninguno que le sirviera al hombre de pareja adecuada. §21 Entonces Dios el SEÑOR hizo que cayera sobre el hombre un sueño profundo, le sacó una costilla y cerró la carne en el lugar de donde la había sacado.
 
 §22 Con la costilla hizo a la mujer y se la llevó al hombre. 
 §23 Al verla, el hombre exclamó: «¡Esta sí es hueso de mis huesos y carne de mi carne! Se llamará “mujer”^a^ porque fue sacada del hombre». 
@@ -73,7 +73,7 @@
 
 # 3 
 ## La tentacion y la caída del hombre
-§1 La serpiente, que era el más astuto de todos los animales del campo creados por Dios el [Señor]{.smallcaps}, se le acercó a la mujer y le preguntó: ¿Es verdad que Dios no les permite comer de ningún árbol que hay en el jardín?
+§1 La serpiente, que era el más astuto de todos los animales del campo creados por Dios el SEÑOR, se le acercó a la mujer y le preguntó: ¿Es verdad que Dios no les permite comer de ningún árbol que hay en el jardín?
 
 §2 La mujer le contestó: Sí podemos comer los frutos de cualquier árbol, 
 §3 menos del que está en el centro del jardín. Dios nos dijo que si comemos o tocamos el fruto de ese árbol, moriremos.
@@ -85,19 +85,19 @@
 §7 Tan pronto lo comieron, se dieron cuenta de que estaban desnudos y sintieron vergüenza. Entonces cosieron hojas de higuera para cubrir su desnudez.
 
 ## El interrogatorio y el castigo
-§8 Aquella tarde, a la hora en que sopla la brisa, el hombre y la mujer oyeron que Dios andaba por el jardín. Entonces corrieron a esconderse entre los árboles, para que Dios el [Señor]{.smallcaps} no los viera.
+§8 Aquella tarde, a la hora en que sopla la brisa, el hombre y la mujer oyeron que Dios andaba por el jardín. Entonces corrieron a esconderse entre los árboles, para que Dios el SEÑOR no los viera.
 
-§9 Pero Dios el [Señor]{.smallcaps} llamó al hombre y le preguntó: ¿Dónde estás?
+§9 Pero Dios el SEÑOR llamó al hombre y le preguntó: ¿Dónde estás?
 
 §10 El hombre le contestó: Oí que andabas por el jardín y me dio miedo, pues estoy desnudo. Así que me escondí.
 
-§11 ¿Quién te dijo que estás desnudo? —le preguntó Dios el [Señor]{.smallcaps}—. ¿Acaso comiste del fruto del árbol que te ordené que no comieras?
+§11 ¿Quién te dijo que estás desnudo? —le preguntó Dios el SEÑOR—. ¿Acaso comiste del fruto del árbol que te ordené que no comieras?
 
 §12 El hombre contestó: La mujer que me diste para que me acompañara me dio del fruto de ese árbol, y yo lo comí.
 
-§13 Entonces Dios el [Señor]{.smallcaps} le preguntó a la mujer: ¿Qué es lo que has hecho? Ella respondió: La serpiente me engañó, y por eso comí de ese fruto.
+§13 Entonces Dios el SEÑOR le preguntó a la mujer: ¿Qué es lo que has hecho? Ella respondió: La serpiente me engañó, y por eso comí de ese fruto.
 
-§14 Entonces Dios el [Señor]{.smallcaps} le dijo a la serpiente: Por haber hecho esto, te maldeciré. Serás la más desdichada de todos los animales, incluyendo los domésticos y los salvajes. A partir de este momento andarás arrastrándote sobre tu vientre y comerás polvo durante toda tu vida. 
+§14 Entonces Dios el SEÑOR le dijo a la serpiente: Por haber hecho esto, te maldeciré. Serás la más desdichada de todos los animales, incluyendo los domésticos y los salvajes. A partir de este momento andarás arrastrándote sobre tu vientre y comerás polvo durante toda tu vida. 
 §15 Habrá siempre enemistad entre ti y la mujer, y entre tu descendencia y la de ella. El descendiente de la mujer te aplastará la cabeza, mientras tú solamente le morderás el talón.
 
 §16 Luego Dios le dijo a la mujer: Haré que sufras bastante durante tus embarazos y que al tener tus hijos sientas mucho dolor. Y a pesar de eso, seguirás deseando a tu marido, y él tendrá dominio sobre ti.
@@ -107,33 +107,33 @@
 §19 Para obtener tu alimento tendrás que trabajar mucho, hasta el día de tu muerte; ese día volverás a la tierra de la cual fuiste hecho, pues eres polvo y al polvo tendrás que volver.
 
 ## La expulsión del paraíso
-§20 Luego el hombre le puso a su mujer el nombre de Eva, pues ella sería la madre de todos los seres humanos. §21 Dios el [Señor]{.smallcaps} hizo túnicas de pieles de animales, y con ellas vistió al hombre y a su mujer.
+§20 Luego el hombre le puso a su mujer el nombre de Eva, pues ella sería la madre de todos los seres humanos. §21 Dios el SEÑOR hizo túnicas de pieles de animales, y con ellas vistió al hombre y a su mujer.
 
 §22 Y dijo: «Ahora el ser humano es como uno de nosotros, pues sabe lo que es bueno y lo que es malo, no conviene que tome del fruto del árbol de la vida y viva para siempre». 
-§23 Entonces Dios el [Señor]{.smallcaps} expulsó al hombre y a la mujer del jardín de Edén, y puso al hombre a que trabajara la tierra de la cual fue hecho. 
+§23 Entonces Dios el SEÑOR expulsó al hombre y a la mujer del jardín de Edén, y puso al hombre a que trabajara la tierra de la cual fue hecho. 
 §24 Después de haber expulsado al hombre y a la mujer, Dios puso al oriente del jardín de Edén a los querubines, y una espada encendida que giraba en todas las direcciones, para evitar que nadie pudiera llegar hasta el árbol de la vida. 
 
 # 4 
 ## Caín y Abel
-§1 Adán tuvo relaciones con su esposa Eva, y ella quedó embarazada, y dio a luz a su hijo Caín, y dijo: «Gracias al [Señor]{.smallcaps}, he tenido un hijo varón». 
-§2 Después volvió a tener otro hijo al cual le puso por nombre Abel. Abel fue pastor de ovejas, en cambio Caín fue un agricultor. §3 Después de algún tiempo, Caín le dio al [Señor]{.smallcaps} una ofrenda de lo que había cosechado. 
-§4 También Abel le dio una ofrenda al [Señor]{.smallcaps}. Le ofreció las primeras y mejores crías de sus ovejas. Al [Señor]{.smallcaps} le agradó Abel y su ofrenda, 
-§5 pero no se agradó de Caín ni de su ofrenda. Por eso Caín se enojó muchísimo y andaba amargado. §6 Entonces el [Señor]{.smallcaps} le preguntó: «¿Por qué estás tan enojado y andas amargado? 
+§1 Adán tuvo relaciones con su esposa Eva, y ella quedó embarazada, y dio a luz a su hijo Caín, y dijo: «Gracias al SEÑOR, he tenido un hijo varón». 
+§2 Después volvió a tener otro hijo al cual le puso por nombre Abel. Abel fue pastor de ovejas, en cambio Caín fue un agricultor. §3 Después de algún tiempo, Caín le dio al SEÑOR una ofrenda de lo que había cosechado. 
+§4 También Abel le dio una ofrenda al SEÑOR. Le ofreció las primeras y mejores crías de sus ovejas. Al SEÑOR le agradó Abel y su ofrenda, 
+§5 pero no se agradó de Caín ni de su ofrenda. Por eso Caín se enojó muchísimo y andaba amargado. §6 Entonces el SEÑOR le preguntó: «¿Por qué estás tan enojado y andas amargado? 
 §7 Si hicieras lo correcto podrías andar con tu frente en alto. Pero si actúas mal, el pecado, como una fiera, está listo a lanzarse sobre ti y destruirte. Sin embargo, tú puedes dominarlo». §8 Un día Caín invitó a su hermano a dar un paseo. Cuando estaban en el campo, Caín atacó a su hermano y lo mató.
 
 ## El castigo de Caín
-§9 Poco tiempo después el [Señor]{.smallcaps} le preguntó a Caín: ¿Dónde está Abel, tu hermano? Caín le contestó: No lo sé. ¿Acaso tengo la obligación de cuidar a mi hermano?
+§9 Poco tiempo después el SEÑOR le preguntó a Caín: ¿Dónde está Abel, tu hermano? Caín le contestó: No lo sé. ¿Acaso tengo la obligación de cuidar a mi hermano?
 
-§10 Pero el [Señor]{.smallcaps} le dijo: ¿Qué hiciste? Desde la tierra, la sangre de tu hermano me pide justicia. 
+§10 Pero el SEÑOR le dijo: ¿Qué hiciste? Desde la tierra, la sangre de tu hermano me pide justicia. 
 §11 Por eso, quedarás bajo la maldición de la tierra, la cual se ha tragado la sangre de tu hermano, al que tú mataste. 
 §12 Cuando trabajes la tierra, no te dará cosechas. Vivirás en el mundo como un fugitivo, sin poder encontrar descanso.
 
-§13 Caín le dijo al [Señor]{.smallcaps}: Ese castigo es más de lo que puedo soportar. 
+§13 Caín le dijo al SEÑOR: Ese castigo es más de lo que puedo soportar. 
 §14 Hoy me echas de esta tierra, y tendré que vivir lejos de tu presencia. Tendré que vivir huyendo como un fugitivo, expuesto a que cualquiera que me encuentre me mate.
 
-§15 El [Señor]{.smallcaps} le contestó: Eso no sucederá. Si alguien te mata, será castigado siete veces. Luego el [Señor]{.smallcaps} le puso una marca a Caín, para que nadie lo matara.
+§15 El SEÑOR le contestó: Eso no sucederá. Si alguien te mata, será castigado siete veces. Luego el SEÑOR le puso una marca a Caín, para que nadie lo matara.
 
-§16 Entonces Caín se alejó de la presencia del [Señor]{.smallcaps} y fue a vivir en la región de Nod —tierra de los errantes—, al oriente del Edén.
+§16 Entonces Caín se alejó de la presencia del SEÑOR y fue a vivir en la región de Nod —tierra de los errantes—, al oriente del Edén.
 
 ## Los hijos de Caín
 §17 Caín tuvo relaciones con su esposa, la cual quedó embarazada y dio a luz a Enoc. Caín fundó una ciudad y le puso el nombre de Enoc, en honor a su hijo. §18 Enoc fue el padre de Irad, Irad fue padre de Mejuyael, Mejuyael fue padre de Metusael, y este fue el padre de Lamec. §19 Lamec tuvo dos esposas: Ada y Zila. 
@@ -143,7 +143,7 @@
 
 ## El nacimiento de Seth
 §25 Adán volvió a tener relaciones con su esposa, la cual dio a luz un hijo al que le puso por nombre Set, pues dijo: «Dios me ha dado otro hijo en lugar de Abel, al que Caín mató». 
-§26 También Set tuvo un hijo, al que llamó Enós. Desde ese tiempo la gente comenzó a invocar el nombre del [Señor]{.smallcaps}. 
+§26 También Set tuvo un hijo, al que llamó Enós. Desde ese tiempo la gente comenzó a invocar el nombre del SEÑOR. 
 
 # 5 
 ## La descendiencia de Seth hasta Noé
@@ -170,11 +170,11 @@
 ## Los matrimonios de los hijos de Dios con las hijas de los hombres
 §1 La población comenzó a multiplicarse sobre la tierra. 
 §2 Entonces los hijos de Dios^a^ se fijaron en la belleza de las mujeres y tomaron como mujeres a todas las que quisieron. 
-§3 Por eso el [Señor]{.smallcaps} dijo: «No dejaré que el ser humano viva muchísimos años, porque su maldad ha aumentado. De modo que sólo lo dejaré vivir ciento veinte años». 
+§3 Por eso el SEÑOR dijo: «No dejaré que el ser humano viva muchísimos años, porque su maldad ha aumentado. De modo que sólo lo dejaré vivir ciento veinte años». 
 ^a^[**6:2** Algunos comentaristas creen que la expresión «hijos de Dios» se refiere a seres del mundo espiritual; y otros, al «linaje piadoso de Set».]§4 En aquellos días y aun después, cuando los hijos de Dios tuvieron relaciones con mujeres, nacieron gigantes que fueron famosos por su valentía.
 
 ## La maldad de los hombres. Anuncio del diluvio
-§5-6 Cuando el [Señor]{.smallcaps} Dios vio el alcance de la maldad humana, y que la gente sólo pensaba en hacer lo malo, le dolió haberla creado y se llenó de mucho pesar. §7 Entonces Dios dijo: «Voy a borrar de la tierra todo lo que he creado, hombres, animales, reptiles y aves. ¡Lamento haberlos creado!». §8 Pero Noé contaba con la aprobación del [Señor]{.smallcaps}.
+§5-6 Cuando el SEÑOR Dios vio el alcance de la maldad humana, y que la gente sólo pensaba en hacer lo malo, le dolió haberla creado y se llenó de mucho pesar. §7 Entonces Dios dijo: «Voy a borrar de la tierra todo lo que he creado, hombres, animales, reptiles y aves. ¡Lamento haberlos creado!». §8 Pero Noé contaba con la aprobación del SEÑOR.
 
 ## Llamado de Noé y la construcción del arca
 §9 Esta es la historia de Noé y de sus descendientes. Noé era un hombre justo y bueno, y todo el tiempo vivía conforme a la voluntad de Dios. 
@@ -189,7 +189,7 @@
 
 # 7 
 ## El diluvio. Noé entra la arca
-§1 Después el [Señor]{.smallcaps} le dijo a Noé: «Entra en el barco con toda tu familia, porque tú eres el único hombre bueno que vive en este tiempo. 
+§1 Después el SEÑOR le dijo a Noé: «Entra en el barco con toda tu familia, porque tú eres el único hombre bueno que vive en este tiempo. 
 §2 Mete en el barco siete machos y siete hembras de todos los animales que se consideran puros; pero de los que se consideran impuros sólo lleva un macho y una hembra. 
 §3 Lleva también siete machos y siete hembras de todas las aves que existen, para conservar su especie en la tierra. 
 §4 Porque dentro de siete días haré que comience una lluvia que durará cuarenta días con sus noches, y todo lo que vive en la tierra morirá».
@@ -205,7 +205,7 @@
 
 §13 Fue en aquel día que Noé entró en el barco con su esposa, sus hijos Sem, Cam y Jafet, y sus nueras. 
 §14-15 Con ellos había en el barco parejas de toda clase de animales, domésticos y silvestres, reptiles y aves. 
-§16 Habían entrado de dos en dos, macho y hembra, tal como Dios lo había ordenado. Después el [Señor]{.smallcaps} cerró la puerta del barco.
+§16 Habían entrado de dos en dos, macho y hembra, tal como Dios lo había ordenado. Después el SEÑOR cerró la puerta del barco.
 
 §17 Estuvo lloviendo sobre la tierra durante cuarenta días. Como el nivel de las aguas subió, el barco comenzó a flotar sobre las aguas. 
 §18 A medida que el agua subía, el barco flotaba sin peligro sobre ellas. 
@@ -240,8 +240,8 @@
 §19 También salieron todos los animales, según su propia especie: los animales salvajes y los domésticos, las aves y los reptiles.
 
 ## El holocausto de Noé y la promesa de Dios
-§20 Después Noé construyó un altar para adorar al [Señor]{.smallcaps}. En ese altar Noé le ofreció a Dios animales y aves adecuados para el sacrificio, es decir, que eran puros. 
-§21 Al [Señor]{.smallcaps} le agradó mucho el olor de los sacrificios, y se dijo a sí mismo: «Nunca más volveré a maldecir la tierra por culpa de la humanidad, pues todos los seres humanos están inclinados hacia el mal desde que son niños. ¡Jamás volveré a destruir a los seres vivos, como lo hice en esta ocasión! 
+§20 Después Noé construyó un altar para adorar al SEÑOR. En ese altar Noé le ofreció a Dios animales y aves adecuados para el sacrificio, es decir, que eran puros. 
+§21 Al SEÑOR le agradó mucho el olor de los sacrificios, y se dijo a sí mismo: «Nunca más volveré a maldecir la tierra por culpa de la humanidad, pues todos los seres humanos están inclinados hacia el mal desde que son niños. ¡Jamás volveré a destruir a los seres vivos, como lo hice en esta ocasión! 
 §22 Mientras exista la tierra, habrá siembra y cosecha; siempre habrá frío y calor, verano e invierno, los días y las noches». 
 
 # 9 
@@ -265,7 +265,7 @@
 §20-21 Noé, que era agricultor, plantó una viña e hizo vino. Un día bebió tanto vino que se emborrachó y se quedó desnudo, tendido en el piso de su carpa. 
 §22 En esas, Cam, el padre de Canaán, entró a la carpa y vio a Noé desnudo. Al salir de la carpa le contó a sus hermanos que había visto a su padre desnudo. 
 §23 Entonces Sem y Jafet tomaron una túnica, se la echaron sobre los hombros y, para evitar ver la desnudez de su padre, entraron caminando hacia atrás y lo cubrieron. 
-§24-25 Cuando Noé despertó de su borrachera y supo lo que le había hecho su hijo menor, dijo: «¡Maldito sea Canaán y sus descendientes! ¡Serán esclavos de los descendientes de Sem y Jafet! ¡Serán los esclavos de más bajo rango!». §26 Luego Noé dijo: «¡Bendito sea el [Señor]{.smallcaps}, Dios de Sem! ¡Que Canaán sea esclavo de Sem!
+§24-25 Cuando Noé despertó de su borrachera y supo lo que le había hecho su hijo menor, dijo: «¡Maldito sea Canaán y sus descendientes! ¡Serán esclavos de los descendientes de Sem y Jafet! ¡Serán los esclavos de más bajo rango!». §26 Luego Noé dijo: «¡Bendito sea el SEÑOR, Dios de Sem! ¡Que Canaán sea esclavo de Sem!
 
 §27 ¡Que Dios prospere mucho a Jafet, y que viva en los campamentos de Sem! ¡Que Canaán sea esclavo de Jafet!».
 
@@ -279,7 +279,7 @@
 §2 Los hijos de Jafet fueron: Gómer, Magog, Maday, Javán, Tubal, Mésec, Tirás. §3 Los hijos de Gómer fueron: Asquenaz, Rifat y Togarma. §4 Los hijos de Javán fueron: Elisá, Tarsis, Quitín y Rodanín. §5 Estos se fueron a vivir en las islas y costas, y fundaron naciones en diversos lugares, con sus propios idiomas.
 
 §6 Los hijos de Cam fueron: Cus, Misrayin, Fut y Canaán. §7 Los hijos de Cus fueron: Seba, Javilá, Sabtá, Ragama y Sabteca. Los hijos de Ragama fueron: Sabá y Dedán. §8 Cus fue el padre de Nimrod, que llegó a ser el primer guerrero muy famoso. 
-§9 Con la ayuda del [Señor]{.smallcaps} llegó a ser un cazador muy valiente. Por eso, se hizo popular decir: «Tan valiente como Nimrod, quien llegó a ser un excelente cazador porque el [Señor]{.smallcaps} lo ayudó». 
+§9 Con la ayuda del SEÑOR llegó a ser un cazador muy valiente. Por eso, se hizo popular decir: «Tan valiente como Nimrod, quien llegó a ser un excelente cazador porque el SEÑOR lo ayudó». 
 §10 Las ciudades más importantes de su reino fueron Babel, Érec, Acad y Calné. Todas estas ciudades estaban en la región de Sinar. 
 §11-12 De allí salió para Asur, donde edificó las ciudades de Nínive, Rejobot Ir, Cala y la importante ciudad de Resén, que estaba situada entre Nínive y Cala. §13-14 Misrayin fue el antepasado de los ludeos, los anameos, los leabitas, los naftuitas, los patruseos, los caslujitas y los caftoritas, que son los antepasados de los filisteos. §15 Canaán fue el padre de Sidón, su hijo mayor, y de Het.
 
@@ -298,7 +298,7 @@
 §3 Un día decidieron hacer ladrillos y cocerlos en el fuego. De ese modo usaron los ladrillos en lugar de piedras. Además, emplearon el alquitrán en lugar de mezcla. 
 §4 Después dijeron: «Construyamos una ciudad con una torre altísima, que toque el cielo. Así nos haremos muy famosos y no tendremos que vivir por siempre errantes».
 
-§5 Entonces el [Señor]{.smallcaps} bajó para ver la ciudad y la torre que estaban edificando, 
+§5 Entonces el SEÑOR bajó para ver la ciudad y la torre que estaban edificando, 
 §6 y pensó: «Esto lo pueden hacer porque forman un solo pueblo y hablan el mismo idioma. Esa torre es sólo la primera de muchas otras obras que harán. ¡Todo lo que se propongan hacer lo harán y nadie podrá detenerlos! 
 §7 Vamos, descendamos y hagamos que hablen diversos idiomas, para que no puedan entenderse». §8 Así, pues, Dios los esparció por toda la tierra, lo que impidió que terminaran la construcción de la ciudad. 
 §9 Por esta razón la ciudad se llamó Babel, porque fue allí donde Dios los confundió haciendo que hablaran diversos idiomas, y los esparció por toda la tierra.
@@ -339,18 +339,18 @@
 
 # 12 
 ## El llamado de Abram
-§1 El [Señor]{.smallcaps} le dijo a Abram: «Deja tu tierra, tus familiares y la casa de tu padre, y vete a la región que te voy a mostrar. 
+§1 El SEÑOR le dijo a Abram: «Deja tu tierra, tus familiares y la casa de tu padre, y vete a la región que te voy a mostrar. 
 §2 Te voy a convertir en una nación muy grande; te voy a bendecir, y te haré un hombre muy famoso. ¡Serás de bendición para muchas personas! 
 §3 A los que te bendigan, yo los bendeciré; pero a quienes te maldigan, yo los maldeciré. ¡Por medio de ti, yo bendeciré a todos los pueblos del mundo!».
 
 ## La Inmigración de Abram a Canaán
-§4 Tal como el [Señor]{.smallcaps} se lo había ordenado, Abram salió de Jarán, y con él también se fue Lot. En aquel tiempo Abram tenía setenta y cinco años. 
+§4 Tal como el SEÑOR se lo había ordenado, Abram salió de Jarán, y con él también se fue Lot. En aquel tiempo Abram tenía setenta y cinco años. 
 §5 Cuando Abram salió hacia la región de Canaán se llevó a su esposa Saray, a su sobrino Lot y a toda la gente que había comprado en Jarán. También se llevó todas las cosas y animales que había conseguido. 
 §6 Abram atravesó toda la región de Canaán hasta que llegó a Siquén, donde está la encina sagrada de Moré. En ese tiempo, los cananeos eran los que vivían en aquella región.
 
-§7 El [Señor]{.smallcaps} se le apareció allí a Abram y le dijo: «Esta tierra se la voy a dar a tus descendientes». Entonces Abram construyó un altar para adorar al [Señor]{.smallcaps}, porque se le había aparecido allí.
+§7 El SEÑOR se le apareció allí a Abram y le dijo: «Esta tierra se la voy a dar a tus descendientes». Entonces Abram construyó un altar para adorar al SEÑOR, porque se le había aparecido allí.
 
-§8 Después, Abram salió de aquel lugar y viajó hacia el sur, a la región montañosa que queda entre Betel por el oeste y Hai por el este. Allí estableció su campamento e hizo un altar al [Señor]{.smallcaps}, e invocó su nombre. 
+§8 Después, Abram salió de aquel lugar y viajó hacia el sur, a la región montañosa que queda entre Betel por el oeste y Hai por el este. Allí estableció su campamento e hizo un altar al SEÑOR, e invocó su nombre. 
 §9 Luego, Abram continuó su viaje hacia el sur, deteniéndose en varios lugares, hasta que llegó a la región del Néguev.
 
 ## Abram y Sarai en Egipto
@@ -361,7 +361,7 @@
 
 §14 Y así fue. Cuando llegaron a Egipto, todos hablaban de la belleza de Saray. 
 §15 Los funcionarios del faraón también la vieron. Entonces fueron y le contaron al faraón que aquella mujer era muy hermosa. Luego, la llevaron a vivir al palacio. 
-§16 Para congraciarse con Saray, el faraón trató muy bien a Abram y le regaló ovejas, vacas, esclavos y esclavas, burros y burras, y camellos. §17 Pero, debido a que el faraón llevó a Saray a su palacio, el [Señor]{.smallcaps} lo castigó a él y a su familia con terribles enfermedades. 
+§16 Para congraciarse con Saray, el faraón trató muy bien a Abram y le regaló ovejas, vacas, esclavos y esclavas, burros y burras, y camellos. §17 Pero, debido a que el faraón llevó a Saray a su palacio, el SEÑOR lo castigó a él y a su familia con terribles enfermedades. 
 §18 Entonces el faraón mandó a llamar a Abram, y le dijo: «¿Por qué me has hecho esto? ¿Por qué no me dijiste que Saray es tu esposa? 
 §19 Casi la tomo como esposa, confiado en que dijiste que era tu hermana. ¡Aquí está! ¡Tómala y vete!».
 
@@ -372,7 +372,7 @@
 §1 Cuando Abram salió de Egipto con su esposa, con Lot y con todas sus posesiones, se dirigió hacia la región del Néguev. 
 §2 Abram era muy rico, pues tenía oro, plata y mucho ganado. 
 §3 Desde el Néguev, Abram avanzó lentamente hasta llegar a Betel. Una vez allí, se dirigió al lugar donde había acampado antes, es decir, entre Betel y Hai. 
-§4 En ese mismo lugar Abram había construido un altar para invocar el nombre del [Señor]{.smallcaps}.
+§4 En ese mismo lugar Abram había construido un altar para invocar el nombre del SEÑOR.
 
 ## Abram se separa de Lot
 §5 También Lot, que iba con Abram, tenía muchas ovejas, vacas y carpas. 
@@ -381,17 +381,17 @@
 §9 Mira, ahí tienes una gran extensión de tierra. Escoge dónde quieres irte a vivir. Si te vas a la región que está a la izquierda, entonces yo me iré a la que está a la derecha; pero si te vas a la derecha, entonces yo me iré a la izquierda».
 
 ## Salida de Lot por el valle del Jordán
-§10 Lot contempló toda la extensa llanura del Jordán, y vio que toda esa región, hasta Zoar, era muy buena para la agricultura, pues tenía mucha agua. Era como el jardín del [Señor]{.smallcaps} o como la tierra de Egipto. Así era esa región antes de que el [Señor]{.smallcaps} destruyera a Sodoma y a Gomorra. 
+§10 Lot contempló toda la extensa llanura del Jordán, y vio que toda esa región, hasta Zoar, era muy buena para la agricultura, pues tenía mucha agua. Era como el jardín del SEÑOR o como la tierra de Egipto. Así era esa región antes de que el SEÑOR destruyera a Sodoma y a Gomorra. 
 §11 De modo que Lot escogió la región que estaba al oriente, es decir, la llanura del Jordán, y se fue a vivir allá. Fue así como Abram y Lot se separaron. 
 §12 Abram se quedó viviendo en Canaán, mientras que Lot habitó entre las ciudades de la llanura, cerca de la ciudad de Sodoma. 
-§13 Los habitantes de Sodoma eran muy perversos y ofendían mucho al [Señor]{.smallcaps} con sus horribles pecados.
+§13 Los habitantes de Sodoma eran muy perversos y ofendían mucho al SEÑOR con sus horribles pecados.
 
 ## Dios promete a Abram el país de Canán
-§14-15 Después de que Lot se fue, el [Señor]{.smallcaps} le dijo a Abram: «Mira toda la tierra que tienes a tu alrededor por el norte, el sur, el oriente y el occidente. Toda esa tierra será para ti y para todos tus descendientes. 
+§14-15 Después de que Lot se fue, el SEÑOR le dijo a Abram: «Mira toda la tierra que tienes a tu alrededor por el norte, el sur, el oriente y el occidente. Toda esa tierra será para ti y para todos tus descendientes. 
 §16 Además, tu descendencia será tan numerosa como el polvo de la tierra. De modo que sólo quien sea capaz de contar el polvo de la tierra, podrá contar a tus descendientes. 
 §17 Ahora, pues, levántate y recorre toda esa región, a lo largo y a lo ancho, porque te la voy a regalar».
 
-§18 Así que Abram se fue a vivir junto al bosque de encinas de Mamré, que queda cerca de Hebrón. Allí construyó un altar para el [Señor]{.smallcaps}. 
+§18 Así que Abram se fue a vivir junto al bosque de encinas de Mamré, que queda cerca de Hebrón. Allí construyó un altar para el SEÑOR. 
 
 # 14 
 ## Guerra del rey Kedorlaomer en el valle del Jordan
@@ -418,48 +418,48 @@
 ## La humildad de Abram con el rey de Sodoma
 §21 El rey de Sodoma le dijo a Abram: Entrégame las personas que liberaste y quédate con todas las cosas que has recuperado.
 
-§22-23 Pero Abram le contestó: Le prometí al [Señor]{.smallcaps}, el Dios Altísimo, creador del cielo y de la tierra, que no me quedaría con nada de lo que es tuyo, ni siquiera con un cordón o una correa de una sandalia. Así no podrás decir jamás: “Abram se hizo rico, porque se quedó con mis bienes”. 
+§22-23 Pero Abram le contestó: Le prometí al SEÑOR, el Dios Altísimo, creador del cielo y de la tierra, que no me quedaría con nada de lo que es tuyo, ni siquiera con un cordón o una correa de una sandalia. Así no podrás decir jamás: “Abram se hizo rico, porque se quedó con mis bienes”. 
 §24 No quiero nada para mí. Lo único que acepto de ti son los alimentos que ya comieron mis criados. Pero mis amigos Aner, Escol y Mamré sí tomarán lo que les corresponde. 
 
 # 15 
 ## Dios promete a Abram un hijo
-§1 Poco tiempo después, el [Señor]{.smallcaps} le dijo a Abram: Abram, no tengas miedo, porque yo te protejo, y te voy a dar una recompensa muy grande.
+§1 Poco tiempo después, el SEÑOR le dijo a Abram: Abram, no tengas miedo, porque yo te protejo, y te voy a dar una recompensa muy grande.
 
-§2-3 Pero Abram contestó: Mi [Señor]{.smallcaps} y Dios, ¿para qué me servirá todo lo que me vas a dar, si no tengo hijos? En ese caso, como no me has dado un hijo, todo lo que me regales le quedará a Eliezer de Damasco, que es uno de mis criados. §4 Entonces el [Señor]{.smallcaps} le dijo: Vas a tener un hijo, y será él quien se quede con todo lo que tienes. ¡De modo que ningún extraño se quedará con tus bienes!
+§2-3 Pero Abram contestó: Mi SEÑOR y Dios, ¿para qué me servirá todo lo que me vas a dar, si no tengo hijos? En ese caso, como no me has dado un hijo, todo lo que me regales le quedará a Eliezer de Damasco, que es uno de mis criados. §4 Entonces el SEÑOR le dijo: Vas a tener un hijo, y será él quien se quede con todo lo que tienes. ¡De modo que ningún extraño se quedará con tus bienes!
 
-§5 Luego el [Señor]{.smallcaps} hizo que Abram saliera de su carpa, y le dijo: Intenta contar todas las estrellas que hay en el cielo, y verás que no puedes. ¡Pues, así de numerosos serán tus descendientes! §6 Y Abram le creyó al [Señor]{.smallcaps}, y esto le agradó al [Señor]{.smallcaps} y, por eso, lo consideró un hombre justo.
+§5 Luego el SEÑOR hizo que Abram saliera de su carpa, y le dijo: Intenta contar todas las estrellas que hay en el cielo, y verás que no puedes. ¡Pues, así de numerosos serán tus descendientes! §6 Y Abram le creyó al SEÑOR, y esto le agradó al SEÑOR y, por eso, lo consideró un hombre justo.
 
 ## Dios confirme su promesa
-§7 Y le dijo: Yo soy el [Señor]{.smallcaps} que te saqué de la ciudad de Ur de los caldeos, para regalarte esta tierra. §8 Pero Abram le respondió: Mi [Señor]{.smallcaps} y Dios, ¿cómo podré estar seguro de que me la vas a regalar?
+§7 Y le dijo: Yo soy el SEÑOR que te saqué de la ciudad de Ur de los caldeos, para regalarte esta tierra. §8 Pero Abram le respondió: Mi SEÑOR y Dios, ¿cómo podré estar seguro de que me la vas a regalar?
 
-§9 Entonces el [Señor]{.smallcaps} le dijo: Trae una ternera, una cabra y un carnero, de tres años cada uno. También consigue una tórtola y un pichón de paloma. §10 Abram consiguió estos animales, los partió por la mitad, y puso una mitad frente a la otra. Pero las aves no las partió. 
+§9 Entonces el SEÑOR le dijo: Trae una ternera, una cabra y un carnero, de tres años cada uno. También consigue una tórtola y un pichón de paloma. §10 Abram consiguió estos animales, los partió por la mitad, y puso una mitad frente a la otra. Pero las aves no las partió. 
 §11 Entonces las aves de rapiña se lanzaban sobre los cuerpos de los animales muertos, pero Abram las espantaba.
 
-§12 Al anochecer, Abram se quedó profundamente dormido, y se sintió rodeado de una oscuridad aterradora. §13 Entonces el [Señor]{.smallcaps} le dijo: Abram, ten la seguridad de que tus descendientes van a vivir como esclavos en una tierra extraña, y los tratarán mal durante unos cuatrocientos años. 
+§12 Al anochecer, Abram se quedó profundamente dormido, y se sintió rodeado de una oscuridad aterradora. §13 Entonces el SEÑOR le dijo: Abram, ten la seguridad de que tus descendientes van a vivir como esclavos en una tierra extraña, y los tratarán mal durante unos cuatrocientos años. 
 §14 Pero yo castigaré a la nación que los esclavice, y haré que tus descendientes salgan libres y con mucha riqueza. 
 §15 En cuanto a ti, debes saber que morirás en paz y a una edad muy avanzada. 
 §16 Después de cuatro generaciones, tus descendientes regresarán a esta tierra. En ese momento será tanta la maldad de los amorreos que viven aquí, que tendré que castigarlos. §17 Cuando el sol se ocultó, y anocheció por completo, Abram vio que por entre los animales muertos se paseaba un horno que echaba humo y una antorcha encendida. 
-§18 Ese día el [Señor]{.smallcaps} hizo un pacto con Abram, y le dijo: A tus descendientes les voy a dar toda la tierra que va desde el río de Egipto hasta el gran río, es decir, el río Éufrates. 
+§18 Ese día el SEÑOR hizo un pacto con Abram, y le dijo: A tus descendientes les voy a dar toda la tierra que va desde el río de Egipto hasta el gran río, es decir, el río Éufrates. 
 §19-21 Esta tierra es la que habitan actualmente los quenitas, los quenizitas, los cadmoneos, los hititas, los ferezeos, los refaítas, los amorreos, los cananeos, los gergeseos y los jebuseos. 
 
 # 16 
 ## Sarai da a su sierva Agar como mujer á Abram
 §1 Saray, la esposa de Abram, no había podido tener hijos. Pero como tenía una esclava egipcia llamada Agar, 
-§2-3 Saray la tomó y se la llevó a Abram para que durmiera con ella. Saray le dijo a Abram: Como el [Señor]{.smallcaps} no me ha permitido tener hijos, te ruego que te acuestes con mi esclava, para que yo pueda tener hijos por medio de ella. Abram estuvo de acuerdo con lo que le propuso Saray. Esto ocurrió cuando ya llevaban diez años viviendo en Canaán. §4 Así que Abram se acostó con Agar, y ella quedó embarazada. Cuando Agar supo que estaba embarazada, comenzó a portarse mal con Saray, su dueña. 
-§5 Por eso, Saray le dijo a Abram: ¡Tú tienes la culpa de que esta esclava me trate con desprecio! Yo te permití que durmieras con ella, y ahora que sabe que está embarazada se porta mal conmigo. ¡Que sea el [Señor]{.smallcaps} el que determine quién de nosotros tiene la culpa!
+§2-3 Saray la tomó y se la llevó a Abram para que durmiera con ella. Saray le dijo a Abram: Como el SEÑOR no me ha permitido tener hijos, te ruego que te acuestes con mi esclava, para que yo pueda tener hijos por medio de ella. Abram estuvo de acuerdo con lo que le propuso Saray. Esto ocurrió cuando ya llevaban diez años viviendo en Canaán. §4 Así que Abram se acostó con Agar, y ella quedó embarazada. Cuando Agar supo que estaba embarazada, comenzó a portarse mal con Saray, su dueña. 
+§5 Por eso, Saray le dijo a Abram: ¡Tú tienes la culpa de que esta esclava me trate con desprecio! Yo te permití que durmieras con ella, y ahora que sabe que está embarazada se porta mal conmigo. ¡Que sea el SEÑOR el que determine quién de nosotros tiene la culpa!
 
 §6 Entonces Abram le dijo a Saray: La muchacha es tu esclava, así que haz con ella lo que quieras. Saray comenzó a maltratar tanto a Agar, que esta decidió huir.
 
 ## Dios se aparece a Agar á una fuente de agua en el desierto
-§7 El ángel del [Señor]{.smallcaps} la encontró en el desierto, junto a un pozo que se halla en el camino que va hacia la región de Sur, 
+§7 El ángel del SEÑOR la encontró en el desierto, junto a un pozo que se halla en el camino que va hacia la región de Sur, 
 §8 y le preguntó: Agar, esclava de Saray, ¿de dónde vienes, y a dónde vas? Estoy huyendo de Saray, mi dueña —respondió Agar.
 
-§9 Entonces el ángel del [Señor]{.smallcaps} le dijo: Regresa adonde tu dueña, y obedécela. 
-§10 Además, el ángel del [Señor]{.smallcaps} le dijo: Tus descendientes serán tan numerosos que no será posible contarlos. 
-§11 Estás embarazada y tendrás un hijo, y lo llamarás Ismael (Dios oye), porque el [Señor]{.smallcaps} ha escuchado tu dolor. 
+§9 Entonces el ángel del SEÑOR le dijo: Regresa adonde tu dueña, y obedécela. 
+§10 Además, el ángel del SEÑOR le dijo: Tus descendientes serán tan numerosos que no será posible contarlos. 
+§11 Estás embarazada y tendrás un hijo, y lo llamarás Ismael (Dios oye), porque el SEÑOR ha escuchado tu dolor. 
 §12 Ismael será un hombre rebelde, como un potro salvaje. Peleará contra todos, y todos pelearán contra él; pero vivirá cerca de sus hermanos.
 
-§13 Agar llamó al [Señor]{.smallcaps}, que hablaba con ella, «el Dios que me ve», pues se decía para sus adentros: «He visto al Dios que me ve». 
+§13 Agar llamó al SEÑOR, que hablaba con ella, «el Dios que me ve», pues se decía para sus adentros: «He visto al Dios que me ve». 
 §14 Por eso, a este pozo, que está entre Cades y Béred, se le conoce como el «Pozo del Viviente que me ve».
 
 §15 Así que Agar le dio un hijo a Abram, el cual lo llamó Ismael. 
@@ -467,7 +467,7 @@
 
 # 17 
 ## Dios confirme su pacto con Abram
-§1 Cuando Abram tenía noventa y nueve años, el [Señor]{.smallcaps} se le apareció y le dijo: Yo soy el Dios Todopoderoso. Vive siempre de acuerdo con mi voluntad y haz lo correcto, 
+§1 Cuando Abram tenía noventa y nueve años, el SEÑOR se le apareció y le dijo: Yo soy el Dios Todopoderoso. Vive siempre de acuerdo con mi voluntad y haz lo correcto, 
 §2 y yo te prometo que te daré una descendencia numerosísima.
 
 §3 Entonces Abram se inclinó hasta tocar el suelo con su frente. Dios, por su parte, continuó diciéndole: §4 El pacto que voy a hacer contigo es este: Serás el padre de muchas naciones. 
@@ -504,7 +504,7 @@
 
 # 18 
 ## Dios visita a Abraham
-§1 El [Señor]{.smallcaps} se le apareció a Abraham junto al bosque de encinas de Mamré. Ese día Abraham estaba sentado a la entrada de su carpa, a la hora más caliente del día. 
+§1 El SEÑOR se le apareció a Abraham junto al bosque de encinas de Mamré. Ese día Abraham estaba sentado a la entrada de su carpa, a la hora más caliente del día. 
 §2 Abraham levantó la mirada y vio que tres hombres se dirigían hacia él. Se levantó de un salto y corrió al encuentro de ellos. Se inclinó hasta tocar el suelo con su frente, 
 §3 y dijo: Mi señor, le ruego por favor que no pase de largo, sino que se quede aquí un momento. 
 §4 Voy a pedir que les traigan agua para que se laven los pies, y podrán quedarse a descansar bajo la sombra de este árbol. 
@@ -520,34 +520,34 @@
 §11 Ahora bien, Abraham y Sara eran muy viejos, y hacía tiempo que Sara no tenía la menstruación. 
 §12 Por eso, Sara no pudo evitar reírse, mientras pensaba: «¿Será posible que vaya a tener semejante placer, siendo que tanto mi marido como yo somos muy viejos?».
 
-§13 Entonces el [Señor]{.smallcaps} le dijo a Abraham: ¿Por qué se rio Sara? ¿A caso no cree que pueda tener un hijo a pesar de su edad? 
-§14 ¿Hay algo que sea difícil para el [Señor]{.smallcaps}? Como te dije, el próximo año, por este tiempo, volveré a visitarte, y para entonces Sara tendrá un hijo.
+§13 Entonces el SEÑOR le dijo a Abraham: ¿Por qué se rio Sara? ¿A caso no cree que pueda tener un hijo a pesar de su edad? 
+§14 ¿Hay algo que sea difícil para el SEÑOR? Como te dije, el próximo año, por este tiempo, volveré a visitarte, y para entonces Sara tendrá un hijo.
 
-§15 Cuando Sara escuchó esto, tuvo miedo y quiso defenderse. Por eso dijo: No me reí. Pero el [Señor]{.smallcaps} le contestó: Sí te reíste.
+§15 Cuando Sara escuchó esto, tuvo miedo y quiso defenderse. Por eso dijo: No me reí. Pero el SEÑOR le contestó: Sí te reíste.
 
 ## La intercesión de Abraham por Sodoma
 §16 Cuando terminaron de comer, los visitantes se levantaron para seguir su viaje hacia Sodoma. Abraham los acompañó hasta cierto lugar, y los despidió. 
-§17 Pero el [Señor]{.smallcaps} pensó: «¿Le ocultaré a Abraham lo que estoy pensando hacer? 
+§17 Pero el SEÑOR pensó: «¿Le ocultaré a Abraham lo que estoy pensando hacer? 
 §18 ¿Acaso no lo convertiré en una nación grande y poderosa, y haré que sea una fuente de bendición para todas las naciones de la tierra? 
-§19 Estoy seguro de que enseñará a sus descendientes a obedecerme, de modo que cuando él muera ellos continúen practicando la justicia y la honestidad. Yo, por mi parte, le cumpliré a Abraham todo lo que le he prometido». §20 Así que el [Señor]{.smallcaps} le dijo a Abraham: Ya no puedo aguantar más la queja que hay contra Sodoma y Gomorra, pues su pecado es muy grande. 
+§19 Estoy seguro de que enseñará a sus descendientes a obedecerme, de modo que cuando él muera ellos continúen practicando la justicia y la honestidad. Yo, por mi parte, le cumpliré a Abraham todo lo que le he prometido». §20 Así que el SEÑOR le dijo a Abraham: Ya no puedo aguantar más la queja que hay contra Sodoma y Gomorra, pues su pecado es muy grande. 
 §21 Bajaré a Sodoma para ver si de verdad sus habitantes son tan malos. Voy a comprobar personalmente si lo que se dice de ellos es verdad o mentira.
 
-§22-23 Dos de los varones siguieron su camino hacia Sodoma, pero el [Señor]{.smallcaps} se quedó con Abraham por un momento. Entonces Abraham se le acercó y le dijo: ¿Vas a exterminar juntamente al justo con el malvado? 
+§22-23 Dos de los varones siguieron su camino hacia Sodoma, pero el SEÑOR se quedó con Abraham por un momento. Entonces Abraham se le acercó y le dijo: ¿Vas a exterminar juntamente al justo con el malvado? 
 §24 Si encontraras cincuenta justos en la ciudad, ¿acabarías con todos, y no perdonarías a la gente de ese lugar por amor a los cincuenta justos? 
 §25 ¡Jamás se te vaya a ocurrir matar al justo junto con el malvado! ¡Jamás vayas a tratar de la misma manera al justo y al malvado! ¿Acaso el Juez de toda la tierra no hará lo que es correcto?
 
-§26 Y el [Señor]{.smallcaps} le contestó: Si encontrara cincuenta justos, perdonaría a todos los demás, por amor a los justos. §27 Y Abraham volvió a decir: Puesto que ya comencé a hablar a mi [Señor]{.smallcaps}, te ruego que me escuches, aunque tan solo soy un ser humano. 
-§28 Supongamos que haya solamente cuarenta y cinco justos, ¿destruirías la ciudad por los cinco que faltan? Y el [Señor]{.smallcaps} le dijo: Si encontrara en la ciudad cuarenta y cinco justos, no la destruiría.
+§26 Y el SEÑOR le contestó: Si encontrara cincuenta justos, perdonaría a todos los demás, por amor a los justos. §27 Y Abraham volvió a decir: Puesto que ya comencé a hablar a mi SEÑOR, te ruego que me escuches, aunque tan solo soy un ser humano. 
+§28 Supongamos que haya solamente cuarenta y cinco justos, ¿destruirías la ciudad por los cinco que faltan? Y el SEÑOR le dijo: Si encontrara en la ciudad cuarenta y cinco justos, no la destruiría.
 
-§29 Insistió Abraham con sus ruegos: Supongamos que hubiera solamente cuarenta. Y el [Señor]{.smallcaps} le contestó: No la destruiría si encontrara cuarenta justos.
+§29 Insistió Abraham con sus ruegos: Supongamos que hubiera solamente cuarenta. Y el SEÑOR le contestó: No la destruiría si encontrara cuarenta justos.
 
-§30 No te enojes conmigo, mi [Señor]{.smallcaps} —le rogó Abraham—, si digo algo más. ¿Y si hubiera sólo treinta? Y el [Señor]{.smallcaps} le contestó: No destruiría la ciudad si encontrara en ella treinta justos.
+§30 No te enojes conmigo, mi SEÑOR —le rogó Abraham—, si digo algo más. ¿Y si hubiera sólo treinta? Y el SEÑOR le contestó: No destruiría la ciudad si encontrara en ella treinta justos.
 
-§31 Entonces Abraham dijo: Es atrevimiento mío hablarte así mi [Señor]{.smallcaps}, pero permíteme continuar: Supongamos que haya solamente veinte. Y el [Señor]{.smallcaps} le contestó: No destruiría la ciudad, por amor a los veinte.
+§31 Entonces Abraham dijo: Es atrevimiento mío hablarte así mi SEÑOR, pero permíteme continuar: Supongamos que haya solamente veinte. Y el SEÑOR le contestó: No destruiría la ciudad, por amor a los veinte.
 
-§32 Finalmente, Abraham dijo: No te molestes mi [Señor]{.smallcaps}; hablaré sólo una vez más. Supongamos que sólo encontraras diez justos. Y el [Señor]{.smallcaps} le contestó: Entonces, por amor a los diez, no destruiría la ciudad.
+§32 Finalmente, Abraham dijo: No te molestes mi SEÑOR; hablaré sólo una vez más. Supongamos que sólo encontraras diez justos. Y el SEÑOR le contestó: Entonces, por amor a los diez, no destruiría la ciudad.
 
-§33 Cuando el [Señor]{.smallcaps} terminó de conversar con Abraham, continuó el viaje hacia Sodoma; y Abraham regresó a su carpa. 
+§33 Cuando el SEÑOR terminó de conversar con Abraham, continuó el viaje hacia Sodoma; y Abraham regresó a su carpa. 
 
 # 19 
 ## La caída de Sodoma y Gomorrha
@@ -568,22 +568,22 @@
 
 ## La salvacion de Lot
 §12 Luego le preguntaron a Lot: Si tienes en la ciudad hijos, hijas, yernos y cualquier otro familiar ¡sácalos de inmediato! 
-§13 El [Señor]{.smallcaps} nos ha enviado a destruir esta ciudad, porque ha recibido muchísimas quejas contra los habitantes de este lugar. Así que el [Señor]{.smallcaps} no puede perdonarlos más, y ha decidido destruir este lugar.
+§13 El SEÑOR nos ha enviado a destruir esta ciudad, porque ha recibido muchísimas quejas contra los habitantes de este lugar. Así que el SEÑOR no puede perdonarlos más, y ha decidido destruir este lugar.
 
-§14 Inmediatamente Lot fue y les dijo a los novios de sus hijas: ¡Apresúrense! ¡Salgan de la ciudad, porque el [Señor]{.smallcaps} va a destruirla! Pero los jóvenes creyeron que Lot estaba bromeando.
+§14 Inmediatamente Lot fue y les dijo a los novios de sus hijas: ¡Apresúrense! ¡Salgan de la ciudad, porque el SEÑOR va a destruirla! Pero los jóvenes creyeron que Lot estaba bromeando.
 
-§15 Al amanecer, los ángeles le insistieron a Lot: ¡Date prisa! ¡Toma a tu esposa y a tus dos hijas y sal con ellas de la ciudad, si no quieren morir junto con todos los demás! §16 Como Lot se tardaba mucho en salir, los ángeles lo tomaron de la mano, junto con su esposa y sus hijas, y los sacaron de la ciudad. Hicieron esto, porque el [Señor]{.smallcaps} tuvo compasión de Lot y de su familia. §17 Apenas salieron de la ciudad, uno de los ángeles les dijo: ¡Corran para que se salven de morir! ¡No miren hacia atrás, ni se detengan en ninguna parte de esta llanura! ¡Vayan a las montañas, para que no perezcan!
+§15 Al amanecer, los ángeles le insistieron a Lot: ¡Date prisa! ¡Toma a tu esposa y a tus dos hijas y sal con ellas de la ciudad, si no quieren morir junto con todos los demás! §16 Como Lot se tardaba mucho en salir, los ángeles lo tomaron de la mano, junto con su esposa y sus hijas, y los sacaron de la ciudad. Hicieron esto, porque el SEÑOR tuvo compasión de Lot y de su familia. §17 Apenas salieron de la ciudad, uno de los ángeles les dijo: ¡Corran para que se salven de morir! ¡No miren hacia atrás, ni se detengan en ninguna parte de esta llanura! ¡Vayan a las montañas, para que no perezcan!
 
 §18-19 Pero Lot les dijo: Por favor, señores míos, ya que han sido tan buenos y misericordiosos conmigo al salvarme la vida, yo les ruego que no me envíen a las montañas, ya que me da miedo que la destrucción me alcance en el camino, y muera. 
 §20 Más bien déjenme ir a aquella pequeña ciudad que está más cerca de aquí, para salvar mi vida. En realidad es una ciudad muy pequeña.
 
 §21-22 Muy bien —dijo uno de los ángeles—. Acepto tu súplica y no destruiré esa pequeña ciudad. Pero ¡date prisa! porque nada podemos hacer hasta que te hayas refugiado en ella. Desde aquel tiempo esa ciudad fue llamada Zoar (ciudad pequeña). §23 Salía el sol cuando Lot llegó a Zoar.
 
-§24 Entonces el [Señor]{.smallcaps} hizo que desde el cielo lloviera fuego y azufre sobre Sodoma y Gomorra. 
+§24 Entonces el SEÑOR hizo que desde el cielo lloviera fuego y azufre sobre Sodoma y Gomorra. 
 §25 De este modo destruyó completamente esas ciudades, junto con todos sus habitantes. También acabó con toda la vegetación que había en esa llanura. 
 §26 Pero la esposa de Lot miró hacia atrás, y quedó convertida en una estatua de sal.
 
-§27 Aquella mañana, Abraham se levantó temprano y regresó al lugar donde había estado conversando con el [Señor]{.smallcaps}. 
+§27 Aquella mañana, Abraham se levantó temprano y regresó al lugar donde había estado conversando con el SEÑOR. 
 §28 Miró hacia Sodoma y Gomorra, y hacia toda la llanura, y vio que del suelo salía humo, como el humo que sale de un horno.
 
 §29 Fue así como Dios destruyó esas ciudades de la llanura donde Lot había vivido. Pero Dios se acordó de Abraham y, por eso, libró a Lot de perecer en aquella catástrofe.
@@ -617,11 +617,11 @@
 §14 Entonces el rey Abimélec le dio a Abraham ovejas, bueyes y esclavos de ambos sexos, y le devolvió a Sara. §15 Mi reino está a tu vista —le dijo el rey—. Elige el lugar que más te agrade para vivir. §16 Y, volviéndose a Sara, le dijo: Mira, yo le voy a dar a tu hermano mil monedas de plata para compensar cualquier daño que pudiera haberte hecho, y para dar por terminado este asunto tan molesto. De esta manera se restaurará tu buen nombre, y nadie podrá hablar mal de ti.
 
 §17 Entonces Abraham oró por Abimélec. Y Dios sanó a Abimélec, a su esposa y a sus siervas, y les permitió tener hijos, 
-§18 porque el [Señor]{.smallcaps} había dejado estériles a las mujeres que estaban en la casa de Abimélec, debido a lo ocurrido con Sara, la esposa de Abraham. 
+§18 porque el SEÑOR había dejado estériles a las mujeres que estaban en la casa de Abimélec, debido a lo ocurrido con Sara, la esposa de Abraham. 
 
 # 21 
 ## Nacimiento de Isaac
-§1 El [Señor]{.smallcaps} se acordó de Sara y le cumplió lo que le había prometido. 
+§1 El SEÑOR se acordó de Sara y le cumplió lo que le había prometido. 
 §2 Por eso, Sara quedó embarazada y le dio un hijo a Abraham en su vejez, en el tiempo que Dios le había dicho. 
 §3 Al hijo que Sara le dio Abraham le dio el nombre de Isaac. 
 §4 Cuando el niño cumplió ocho días, Abraham lo circuncidó, tal como Dios le había ordenado. 
@@ -654,7 +654,7 @@
 §29 Entonces Abimélec le preguntó: ¿Para qué son esas siete corderas que has separado?
 
 §30 Abraham contestó: Es un regalo que te hago como confirmación pública de que este pozo es mío. §31 Desde ese momento el pozo fue llamado Berseba (pozo del juramento), porque allí los dos hicieron un juramento. §32 Después de haber hecho este pacto en Berseba, el rey Abimélec y Ficol, el comandante de su ejército, volvieron al país de los filisteos. 
-§33 Y Abraham plantó un árbol tamarisco allí en Berseba, e invocó el nombre del [Señor]{.smallcaps}, el Dios eterno. 
+§33 Y Abraham plantó un árbol tamarisco allí en Berseba, e invocó el nombre del SEÑOR, el Dios eterno. 
 §34 Y vivió Abraham en Filistea durante mucho tiempo. 
 
 # 22 
@@ -672,16 +672,16 @@
 §9 Cuando llegaron al lugar que Dios le había indicado, Abraham edificó un altar y colocó la leña. Luego ató a su hijo Isaac y lo puso en el altar, sobre la leña. 
 §10 Enseguida Abraham tomó el cuchillo, para matar a su hijo.
 
-§11 En ese momento, el ángel del [Señor]{.smallcaps} le gritó desde el cielo: ¡Abraham! ¡Abraham! Aquí estoy —contestó Abraham.
+§11 En ese momento, el ángel del SEÑOR le gritó desde el cielo: ¡Abraham! ¡Abraham! Aquí estoy —contestó Abraham.
 
 §12 ¡Suelta el cuchillo! No le hagas ningún daño al muchacho —le dijo el ángel—. Ahora sé que de verdad tienes temor de Dios, porque no te negaste a darme a tu único hijo.
 
 §13 Entonces Abraham miró hacia atrás y vio que un carnero estaba enredado por los cuernos en un arbusto. Fue, tomó el carnero y lo ofreció en holocausto, en lugar de su hijo. 
-§14 Por eso, Abraham le puso a ese lugar el nombre de «el [Señor]{.smallcaps} proveerá». Hasta hoy se dice: «En un monte el [Señor]{.smallcaps} proveerá».
+§14 Por eso, Abraham le puso a ese lugar el nombre de «el SEÑOR proveerá». Hasta hoy se dice: «En un monte el SEÑOR proveerá».
 
 ## La aprobación de Dios y promesas por Abraham
-§15 Poco después, el ángel del [Señor]{.smallcaps} llamó nuevamente a Abraham desde el cielo, 
-§16 y le dijo: Ya que me obedeciste y no me negaste a tu único hijo, juro por mí mismo —lo digo yo, el [Señor]{.smallcaps}—, que 
+§15 Poco después, el ángel del SEÑOR llamó nuevamente a Abraham desde el cielo, 
+§16 y le dijo: Ya que me obedeciste y no me negaste a tu único hijo, juro por mí mismo —lo digo yo, el SEÑOR—, que 
 §17 te bendeciré muchísimo. Tu descendencia será tan numerosa como las estrellas del cielo y como la arena del mar. Además, tus descendientes poseerán las ciudades de sus enemigos. 
 §18 Por haberme obedecido, todas las naciones del mundo serán bendecidas por medio de tus descendientes.
 
@@ -719,19 +719,19 @@
 ## Abraham envía a su criado para buscar una esposa por Isaac
 §1 Abraham estaba muy viejo, y Dios lo había bendecido en todo. 
 §2 Un día Abraham le dijo a su mayordomo, que era el más viejo de sus siervos: Coloca tu mano en mi entrepierna, 
-§3 y júrame por el nombre del [Señor]{.smallcaps}, el Dios del cielo y de la tierra, que no dejarás que mi hijo se case con una muchacha de esta tierra de Canaán, donde yo vivo. 
+§3 y júrame por el nombre del SEÑOR, el Dios del cielo y de la tierra, que no dejarás que mi hijo se case con una muchacha de esta tierra de Canaán, donde yo vivo. 
 §4 Para que esto no ocurra, irás a mi tierra, a casa de mi familia, y buscarás allí una esposa para mi hijo Isaac.
 
 §5 El criado le dijo a Abraham: Supongamos que yo no pueda hallar una muchacha que quiera venir conmigo a este lugar. Entonces, ¿debo hacer que Isaac se vaya a vivir al país del cual usted salió?
 
 §6 ¡No! —advirtió Abraham—. Cuídate de no hacerlo bajo ninguna circunstancia. 
-§7 Porque el [Señor]{.smallcaps}, Dios del cielo, que me ordenó dejar mi tierra y mi familia, y prometió darme esta tierra como propiedad para mí y mis descendientes, enviará a su ángel delante de ti y hará que encuentres allí una doncella para que sea la esposa de mi hijo. 
+§7 Porque el SEÑOR, Dios del cielo, que me ordenó dejar mi tierra y mi familia, y prometió darme esta tierra como propiedad para mí y mis descendientes, enviará a su ángel delante de ti y hará que encuentres allí una doncella para que sea la esposa de mi hijo. 
 §8 Pero si no lo logras, quedas libre de tu juramento. Pero bajo ninguna circunstancia llevarás a mi hijo para allá. §9 Entonces el criado colocó su mano en la entrepierna de su amo Abraham, y le juró seguir sus instrucciones.
 
 ## La viaje del criado por Haran
 §10 Tomó diez camellos de su amo, y los cargó con muchos regalos, de las mejores cosas que Abraham tenía, y se fue hacia el pueblo de Najor en Aram Najarayin. 
 §11 Una vez allí, hizo que los camellos se arrodillaran junto a un pozo de agua que estaba a las afueras de la ciudad. Era la hora de la puesta del sol, cuando las mujeres salían a buscar agua. 
-§12 Luego comenzó a orar: «[Señor]{.smallcaps}, Dios de mi amo Abraham, sé misericordioso con mi amo y ayúdame para cumplir el propósito de mi viaje. 
+§12 Luego comenzó a orar: «SEÑOR, Dios de mi amo Abraham, sé misericordioso con mi amo y ayúdame para cumplir el propósito de mi viaje. 
 §13 Mira, aquí estoy junto al pozo de agua, a la hora en que las muchachas del pueblo vienen a sacar agua. 
 §14 Permíteme saber cuál es la joven que tú has escogido para que sea la esposa de tu siervo Isaac. Te suplico que esa joven sea a quien yo le diga: “Por favor, baje su cántaro para que yo pueda tomar un poco de agua”, y que me conteste: “Tome usted, y también le voy a dar de beber a los camellos”. De esta manera podré estar bien seguro de que en verdad amas a mi amo Abraham».
 
@@ -741,7 +741,7 @@
 
 §18 Con mucho gusto, señor —dijo ella. Y con prontitud inclinó el cántaro para que él pudiera beber. §19 Cuando el criado terminó de beber, la muchacha dijo: También sacaré agua para sus camellos, para que beban hasta que queden satisfechos. §20 Acto seguido vació el cántaro en el bebedero y fue corriendo varias veces al pozo a sacar agua, hasta que hubo la suficiente para todos los camellos.
 
-§21 Mientras tanto, el criado la observaba en silencio, preguntándose si el [Señor]{.smallcaps} le había contestado la oración.
+§21 Mientras tanto, el criado la observaba en silencio, preguntándose si el SEÑOR le había contestado la oración.
 
 ## El criado llega a la casa de Nachôr
 §22 Cuando los camellos terminaron de beber, el criado sacó un pendiente de oro, que pesaba unos seis gramos, y se lo puso a Rebeca en la nariz. También le colocó en los brazos dos brazaletes que pesaban ciento veinte gramos cada uno. §23 Luego el criado le preguntó: ¿Por favor, dígame quién es su papá? ¿Habrá lugar en casa de su padre para pasar la noche?
@@ -749,42 +749,42 @@
 §24 Mi padre es Betuel, hijo de Milca, que es esposa de Najor —contestó ella—. 
 §25 Y en nuestra casa tenemos abundante comida para los camellos, y una pieza para huéspedes.
 
-§26 El criado, entonces, se arrodilló y adoró al [Señor]{.smallcaps} 
-§27 con la siguiente oración: «¡Alabado sea el [Señor]{.smallcaps}, Dios de mi amo Abraham, pues siempre ha sido tan bueno y leal con él! ¡Gracias por haberme guiado directamente a los familiares de mi amo!».
+§26 El criado, entonces, se arrodilló y adoró al SEÑOR 
+§27 con la siguiente oración: «¡Alabado sea el SEÑOR, Dios de mi amo Abraham, pues siempre ha sido tan bueno y leal con él! ¡Gracias por haberme guiado directamente a los familiares de mi amo!».
 
 §28 La muchacha corrió hasta la casa para contarle estas cosas a su familia. 
 §29-30 Rebeca tenía un hermano llamado Labán. Cuando este escuchó todo lo que la muchacha les contó, y además vio el pendiente y los brazaletes que llevaba puestos, salió corriendo hacia el pozo, donde todavía estaba el hombre de pie junto a los camellos. 
-§31 Al verlo, le dijo: ¡Venga, usted, bendito del [Señor]{.smallcaps}, y quédese con nosotros! No tiene por qué quedarse aquí afuera. ¡Ya le he preparado un lugar para usted. También hay sitio para los camellos!
+§31 Al verlo, le dijo: ¡Venga, usted, bendito del SEÑOR, y quédese con nosotros! No tiene por qué quedarse aquí afuera. ¡Ya le he preparado un lugar para usted. También hay sitio para los camellos!
 
 §32 El criado siguió a Labán a la casa. Luego, Labán les llevó agua, para que el criado y sus acompañantes se lavaran los pies. También les quitó a los camellos las cargas que llevaban y les dio suficiente comida. 
 §33 Cuando les sirvieron la comida, el criado de Abraham dijo: No quiero comer nada hasta haberles dicho por qué estoy aquí. Muy bien —dijo Labán—, danos tu mensaje.
 
 ## El cortejo por la novia
 §34 Soy siervo de Abraham —explicó—. 
-§35 El [Señor]{.smallcaps} ha colmado de bendiciones a mi amo, de modo que él es considerado un gran hombre entre la gente de la tierra donde vive. Dios le ha dado grandes rebaños de ovejas y de vacas, además le ha dado una gran fortuna en plata y oro, y muchos esclavos y esclavas, camellos y burros. 
+§35 El SEÑOR ha colmado de bendiciones a mi amo, de modo que él es considerado un gran hombre entre la gente de la tierra donde vive. Dios le ha dado grandes rebaños de ovejas y de vacas, además le ha dado una gran fortuna en plata y oro, y muchos esclavos y esclavas, camellos y burros. 
 §36 Como si esto fuera poco, Sara, la esposa de mi amo, siendo ya muy anciana, le dio un hijo a mi amo. A ese hijo mi amo le ha dado todo lo que posee. 
 §37-38 Y mi amo hizo que yo le prometiera que no dejaría que Isaac se casara con una de las mujeres de Canaán, que es la tierra donde él vive. Por eso, me pidió que viniera a esta lejana tierra, para buscar entre sus familiares una esposa para su hijo. 
 §39 Yo le pregunté: “¿Y si no puedo encontrar una muchacha que quiera venir?”. Él me respondió: 
-§40 “Vendrá, porque mi [Señor]{.smallcaps}, en cuya presencia he andado, enviará su ángel contigo y hará que tu misión tenga éxito. Por tanto, busca una muchacha entre la familia de mi padre. 
-§41 En caso de que mis familiares no quieran dejar venir a la muchacha, tú quedarás libre de la promesa que me has hecho”. §42 »Pues bien, esta tarde, cuando llegué al manantial, hice la siguiente oración: “[Señor]{.smallcaps}, Dios de mi amo Abraham, si tú me estás guiando para que mi misión tenga éxito, guíame en la forma siguiente: 
+§40 “Vendrá, porque mi SEÑOR, en cuya presencia he andado, enviará su ángel contigo y hará que tu misión tenga éxito. Por tanto, busca una muchacha entre la familia de mi padre. 
+§41 En caso de que mis familiares no quieran dejar venir a la muchacha, tú quedarás libre de la promesa que me has hecho”. §42 »Pues bien, esta tarde, cuando llegué al manantial, hice la siguiente oración: “SEÑOR, Dios de mi amo Abraham, si tú me estás guiando para que mi misión tenga éxito, guíame en la forma siguiente: 
 §43 Aquí estoy junto a este pozo, te ruego que me ayudes. Voy a decirle a una muchacha que venga a sacar agua de este pozo: ‘Por favor, deme un poco de agua para beber’. 
 §44 Si ella me responde: ‘Con mucho gusto, y también le daré agua a los camellos’, entonces sabré que es la muchacha que has escogido para que sea la esposa del hijo de mi amo”. §45 »Mientras yo decía estas cosas, apareció Rebeca con el cántaro al hombro, se dirigió al pozo, sacó agua y llenó el cántaro. Yo le dije: “Por favor, deme de beber”. 
 §46 Ella con prontitud inclinó hacia mi el cántaro para que pudiera beber y me dijo: “Con mucho gusto, señor, y también sacaré agua para sus camellos”. ¡Y así lo hizo! 
 §47 Entonces le pregunté: “¿De qué familia es usted?”. Y ella me dijo: “Soy de la familia de Najor. Mi padre es Betuel, hijo de Najor y de Milca”. Entonces le puse el pendiente en la nariz, y los brazaletes en los brazos. 
-§48 Luego me arrodillé y adoré al [Señor]{.smallcaps}. Sí, alabé al [Señor]{.smallcaps}, el Dios de mi amo Abraham, porque me había llevado por el camino correcto, hasta encontrar en la casa del hermano de mi amo la esposa para su hijo Isaac. 
+§48 Luego me arrodillé y adoré al SEÑOR. Sí, alabé al SEÑOR, el Dios de mi amo Abraham, porque me había llevado por el camino correcto, hasta encontrar en la casa del hermano de mi amo la esposa para su hijo Isaac. 
 §49 Ahora, díganme si van a ser bondadosos y leales con mi amo Abraham; si no piensan serlo, también díganmelo. Así yo sabré qué camino tomar.
 
 ## La despedida de Rebeca
-§50 Entonces Labán y Betuel contestaron: Es evidente que esto es obra del [Señor]{.smallcaps}, de modo que en ese caso nosotros no podemos hacer nada. 
-§51 Mire, aquí está Rebeca. Tómela y llévesela, para que sea la esposa del hijo de su amo, tal como el [Señor]{.smallcaps} lo ha dispuesto.
+§50 Entonces Labán y Betuel contestaron: Es evidente que esto es obra del SEÑOR, de modo que en ese caso nosotros no podemos hacer nada. 
+§51 Mire, aquí está Rebeca. Tómela y llévesela, para que sea la esposa del hijo de su amo, tal como el SEÑOR lo ha dispuesto.
 
-§52 Al oír la respuesta, el mayordomo de Abraham cayó de rodillas delante del [Señor]{.smallcaps}. 
+§52 Al oír la respuesta, el mayordomo de Abraham cayó de rodillas delante del SEÑOR. 
 §53 Enseguida sacó joyas de plata y de oro y hermosos vestidos para Rebeca, y también les hizo valiosos regalos a la madre y al hermano de ella. 
 §54 Luego el criado y sus acompañantes cenaron y pasaron allí la noche. Al día siguiente, cuando se levantaron, el criado dijo: Debo regresar a casa de mi amo.
 
 §55 Pero el hermano y la mamá de Rebeca le dijeron: Queremos que Rebeca se quede con nosotros unos diez días más. Después de ese tiempo se podrá ir.
 
-§56 Pero él les rogó: No retarden mi regreso. El [Señor]{.smallcaps} ha hecho que mi misión tenga éxito, así que déjenme regresar a donde mi amo.
+§56 Pero él les rogó: No retarden mi regreso. El SEÑOR ha hecho que mi misión tenga éxito, así que déjenme regresar a donde mi amo.
 
 §57 Bien —respondieron—. Llamemos a la muchacha y preguntémosle si quiere irse o no. §58 Llamaron a Rebeca y le preguntaron: ¿Quieres irte con este señor? Y ella respondió: Sí, me voy con él.
 
@@ -816,8 +816,8 @@
 ## El nacimiento de Esau y Jacob
 §19 Esta es la historia de Isaac, el hijo de Abraham. 
 §20 Isaac tenía cuarenta años cuando se casó con Rebeca, la hija de Betuel y hermana de Labán. Betuel y Labán eran arameos y vivían en Padán Aram. 
-§21 Como Rebeca no podía tener hijos, Isaac oró al [Señor]{.smallcaps} a favor de ella. El [Señor]{.smallcaps} escuchó su oración, de modo que Rebeca quedó embarazada. 
-§22 Pronto se dio cuenta que iba a tener mellizos porque los niños luchaban dentro de su vientre. Preocupada, Rebeca se dijo así misma: «Si las cosas van a seguir así, ¿para qué quiero seguir viviendo?». Entonces fue a consultar al [Señor]{.smallcaps}, 
+§21 Como Rebeca no podía tener hijos, Isaac oró al SEÑOR a favor de ella. El SEÑOR escuchó su oración, de modo que Rebeca quedó embarazada. 
+§22 Pronto se dio cuenta que iba a tener mellizos porque los niños luchaban dentro de su vientre. Preocupada, Rebeca se dijo así misma: «Si las cosas van a seguir así, ¿para qué quiero seguir viviendo?». Entonces fue a consultar al SEÑOR, 
 §23 Y Dios le dijo: «En tu vientre hay dos naciones; dos pueblos divididos desde antes de nacer. Uno será más fuerte que el otro, y el mayor servirá al menor».
 
 §24 Llegado el momento, Rebeca dio a luz. 
@@ -842,7 +842,7 @@
 # 26 
 ## Isaac se muda a Gerar cuando hay hambre
 §1 En aquella época hubo mucha hambre en esa región, tal como había ocurrido antes en el tiempo de Abraham. Isaac entonces se trasladó a la ciudad de Guerar, donde vivía Abimélec el rey de los filisteos. 
-§2 Allí se le apareció el [Señor]{.smallcaps} y le dijo: «No vayas a Egipto. Quédate en el lugar que yo te indique. 
+§2 Allí se le apareció el SEÑOR y le dijo: «No vayas a Egipto. Quédate en el lugar que yo te indique. 
 §3 Vive en este país, y yo estaré contigo y te bendeciré, porque toda esta tierra te la daré a ti y a todos tus descendientes, tal como le prometí a Abraham, tu padre. 
 §4 Haré que tus descendientes sean tan numerosos como las estrellas, y les daré todas estas tierras. Por causa de tus descendientes serán bendecidas todas las naciones de la tierra. 
 §5 Haré esto por cuanto Abraham obedeció mis mandamientos y mis leyes».
@@ -856,7 +856,7 @@
 §11 Entonces Abimélec proclamó públicamente: «Cualquiera que le haga algún daño a este hombre o a su esposa, morirá».
 
 ## La creciente riqueza de Isaac; Disputas de fuentes;
-§12 Ese año las cosechas de Isaac fueron enormes: cosechó cien veces lo sembrado, porque el [Señor]{.smallcaps} lo bendijo. 
+§12 Ese año las cosechas de Isaac fueron enormes: cosechó cien veces lo sembrado, porque el SEÑOR lo bendijo. 
 §13 Día a día Isaac fue adquiriendo bienes, hasta que llegó a ser muy rico. 
 §14 Tenía grandes rebaños de ovejas y de vacas, y muchos esclavos. Por esta razón los filisteos le tenían envidia. 
 §15 Así que llenaron de tierra los pozos que habían cavado los siervos de su padre Abraham. 
@@ -866,18 +866,18 @@
 
 §18 Allí Isaac volvió a abrir los pozos de Abraham, los mismos que los filisteos habían tapado después de la muerte de Abraham. Isaac les puso los mismos nombres que les había dado su padre. §19 Un día, los pastores de Isaac abrieron un hoyo en el valle y encontraron un manantial. 
 §20 Pero cuando los pastores del lugar lo vieron lo reclamaron como suyo. Esta es nuestra tierra, por lo tanto el pozo es nuestro —dijeron, y disputaron con los pastores de Isaac. Por eso, Isaac llamó a ese pozo Pelea, porque habían peleado por él. 
-§21 Los hombres de Isaac cavaron otro pozo y nuevamente pelearon por él. A este pozo Isaac le puso el nombre de Enemistad. §22 Isaac se fue de allí y cavó otro pozo, pero esta vez no pelearon por él. Entonces Isaac le puso el nombre de Lugar de Libertad, pues dijo: «Ahora el [Señor]{.smallcaps} nos ha dado un lugar en el que podremos prosperar».
+§21 Los hombres de Isaac cavaron otro pozo y nuevamente pelearon por él. A este pozo Isaac le puso el nombre de Enemistad. §22 Isaac se fue de allí y cavó otro pozo, pero esta vez no pelearon por él. Entonces Isaac le puso el nombre de Lugar de Libertad, pues dijo: «Ahora el SEÑOR nos ha dado un lugar en el que podremos prosperar».
 
 §23 De allí, Isaac fue a Berseba. 
-§24 Esa noche, el [Señor]{.smallcaps} se le apareció y le dijo: «Yo soy el Dios de Abraham, tu padre. No temas, porque estoy contigo. Por amor a Abraham, mi siervo, te bendeciré y haré que tu descendencia sea muy numerosa».
+§24 Esa noche, el SEÑOR se le apareció y le dijo: «Yo soy el Dios de Abraham, tu padre. No temas, porque estoy contigo. Por amor a Abraham, mi siervo, te bendeciré y haré que tu descendencia sea muy numerosa».
 
-§25 Entonces Isaac construyó un altar y adoró al [Señor]{.smallcaps}. Allí se estableció, y sus siervos abrieron un pozo.
+§25 Entonces Isaac construyó un altar y adoró al SEÑOR. Allí se estableció, y sus siervos abrieron un pozo.
 
 ## El pacto entre Isaac y Abimelech en Beerseba
 §26 Un día, Abimélec vino desde Guerar para visitar a Isaac. Con él vinieron Ajuzat, su consejero, y Ficol, comandante de su ejército. §27 ¿A qué han venido, si me odian y me echaron de su tierra? —les preguntó Isaac.
 
-§28 Bueno —dijeron ellos—, podemos ver claramente que el [Señor]{.smallcaps} te está bendiciendo. Así que hemos decidido venir a pedirte que hagamos un pacto entre nosotros. El pacto que haremos contigo, bajo juramento, es este: 
-§29 Prométenos que no nos harás daño, tal como nosotros no te lo hemos causado a ti. Realmente, te hemos hecho solamente bien y te despedimos en forma pacífica. ¡Ahora tú cuentas con la bendición del [Señor]{.smallcaps}!
+§28 Bueno —dijeron ellos—, podemos ver claramente que el SEÑOR te está bendiciendo. Así que hemos decidido venir a pedirte que hagamos un pacto entre nosotros. El pacto que haremos contigo, bajo juramento, es este: 
+§29 Prométenos que no nos harás daño, tal como nosotros no te lo hemos causado a ti. Realmente, te hemos hecho solamente bien y te despedimos en forma pacífica. ¡Ahora tú cuentas con la bendición del SEÑOR!
 
 §30 Entonces Isaac les hizo una gran fiesta, y comieron y bebieron. 
 §31 Al día siguiente, se levantaron muy temprano y sellaron el pacto con un juramento. Luego Isaac los despidió en paz. §32 Ese mismo día los siervos de Isaac vinieron y le dijeron: ¡Encontramos agua en el pozo que estábamos abriendo! §33 Por eso, Isaac le puso a ese pozo el nombre de Seba (Juramento). Por esta razón, aquella ciudad, hasta el día de hoy, lleva el nombre de Berseba.
@@ -917,7 +917,7 @@
 
 §19 Soy Esaú, tu hijo mayor —dijo Jacob—. Hice lo que me dijiste que hiciera. Este es el guiso que preparé con lo que he cazado. Siéntate y cómelo, para que me bendigas.
 
-§20 Entonces Isaac le preguntó: Hijo mío, ¿cómo pudiste hacerlo con tanta rapidez? Porque el [Señor]{.smallcaps}, tu Dios, me permitió encontrar el animal muy pronto —respondió Jacob.
+§20 Entonces Isaac le preguntó: Hijo mío, ¿cómo pudiste hacerlo con tanta rapidez? Porque el SEÑOR, tu Dios, me permitió encontrar el animal muy pronto —respondió Jacob.
 
 §21 Acércate —le ordenó Isaac—. Quiero palparte para estar seguro de que eres mi hijo Esaú.
 
@@ -926,7 +926,7 @@
 
 §25 Entonces pásame el guiso de lo que cazaste. Me lo comeré y luego te bendeciré. Jacob se lo pasó, e Isaac comió; también bebió el vino que Jacob le había llevado.
 
-§26 Acércate y bésame, hijo mío —dijo Isaac. §27 Jacob se acercó y besó a su padre. Al oler la ropa que Jacob llevaba puesta, Isaac lo bendijo con estas palabras: «El olor de mi hijo es como el buen aroma de un campo bendecido por el [Señor]{.smallcaps}. §28 Que Dios te dé siempre abundante agua del cielo; que te dé cosechas abundantes, y mucho trigo y vino. §29 Que muchas naciones te sirvan; que muchos pueblos se inclinen delante de ti. Que seas el amo de todos tus parientes, y que todos ellos se inclinen delante de ti. Malditos sean los que te maldigan, y benditos los que te bendigan».
+§26 Acércate y bésame, hijo mío —dijo Isaac. §27 Jacob se acercó y besó a su padre. Al oler la ropa que Jacob llevaba puesta, Isaac lo bendijo con estas palabras: «El olor de mi hijo es como el buen aroma de un campo bendecido por el SEÑOR. §28 Que Dios te dé siempre abundante agua del cielo; que te dé cosechas abundantes, y mucho trigo y vino. §29 Que muchas naciones te sirvan; que muchos pueblos se inclinen delante de ti. Que seas el amo de todos tus parientes, y que todos ellos se inclinen delante de ti. Malditos sean los que te maldigan, y benditos los que te bendigan».
 
 ## El regreso de Esaú, su lamento y la bendición que le dio su padre
 §30 En cuanto Isaac hubo bendecido a Jacob, y casi en el momento en que este salía de la carpa de su padre, llegó Esaú del campo con su caza. 
@@ -974,14 +974,14 @@
 §10 Jacob salió de Berseba y viajó hacia Jarán. 
 §11 Llegó hasta cierto lugar y se quedó allí para pasar la noche, pues ya el sol se había ocultado. Tomó una piedra y la puso como almohada, y se acostó a dormir. 
 §12 Mientras dormía soñó que había una escalera desde la tierra hasta el cielo, y vio ángeles de Dios que subían y bajaban por ella. 
-§13 En el sueño también vio que el [Señor]{.smallcaps} estaba parado junto a él y le decía: «Yo soy el [Señor]{.smallcaps}, el Dios de tu abuelo Abraham y de tu padre Isaac. A ti y a tus descendientes les voy a dar esta tierra en la que estás acostado. 
+§13 En el sueño también vio que el SEÑOR estaba parado junto a él y le decía: «Yo soy el SEÑOR, el Dios de tu abuelo Abraham y de tu padre Isaac. A ti y a tus descendientes les voy a dar esta tierra en la que estás acostado. 
 §14 Tus descendientes serán tantos como el polvo de la tierra. Llenarán la tierra de este a oeste y de norte a sur. Todas las naciones de la tierra serán bendecidas por medio de ti y de tu descendencia. 
 §15 Además, estaré contigo y te protegeré dondequiera que vayas, y te traeré de nuevo sano y salvo a esta tierra. ¡Jamás te abandonaré sin haberte cumplido mis promesas!».
 
 ## Jacob consagra una piedra conmemorativa como el comienzo de una casa de Dios en Betel
-§16-17 Cuando Jacob despertó de su sueño tuvo mucho miedo, y pensó: «¡Sin duda alguna el [Señor]{.smallcaps} está en este lugar, y yo no lo sabía! ¡Este lugar es asombroso! ¡Es nada menos que la casa de Dios y la puerta del cielo!». §18 Al día siguiente se levantó muy de mañana, tomó la piedra que había usado como almohada, la paró como si fuera una columna, para que sirviera de señal de lo ocurrido. Luego derramó aceite de oliva sobre ella.
+§16-17 Cuando Jacob despertó de su sueño tuvo mucho miedo, y pensó: «¡Sin duda alguna el SEÑOR está en este lugar, y yo no lo sabía! ¡Este lugar es asombroso! ¡Es nada menos que la casa de Dios y la puerta del cielo!». §18 Al día siguiente se levantó muy de mañana, tomó la piedra que había usado como almohada, la paró como si fuera una columna, para que sirviera de señal de lo ocurrido. Luego derramó aceite de oliva sobre ella.
 
-§19 En ese lugar había una ciudad que se llamaba Luz, pero Jacob le cambió el nombre y la llamó Betel (Casa de Dios). §20-22 Jacob, entonces, hizo este voto: «Si Dios me ayuda y me protege en este viaje, me da ropa y comida, y me permite regresar sano y salvo a la casa de mi padre, el [Señor]{.smallcaps} será mi Dios. Y esta piedra que he levantado para señal, será lugar de adoración. Además, de todo lo que me dé, le entregaré el diezmo». 
+§19 En ese lugar había una ciudad que se llamaba Luz, pero Jacob le cambió el nombre y la llamó Betel (Casa de Dios). §20-22 Jacob, entonces, hizo este voto: «Si Dios me ayuda y me protege en este viaje, me da ropa y comida, y me permite regresar sano y salvo a la casa de mi padre, el SEÑOR será mi Dios. Y esta piedra que he levantado para señal, será lugar de adoración. Además, de todo lo que me dé, le entregaré el diezmo». 
 
 # 29 
 ## Jacob al pozo de Haran
@@ -1032,9 +1032,9 @@
 §30 Jacob durmió con Raquel y la amó más que a Lea; y se quedó trabajando los siete años adicionales.
 
 ## Los primer cuatro hijos de Lea
-§31 Jacob no amaba a Lea, y cuando vio esto el [Señor]{.smallcaps} permitió que Lea tuviera hijos; pero a Raquel no se lo permitió. 
-§32 De modo que Lea quedó embarazada y tuvo un hijo al que llamó Rubén, porque dijo: «El [Señor]{.smallcaps} ha visto mi sufrimiento; ahora sí me amará mi marido». 
-§33 Poco tiempo después volvió a quedar embarazada y tuvo otro hijo. A este le puso Simeón (el [Señor]{.smallcaps} oyó), porque dijo. «El [Señor]{.smallcaps} ha oído que no soy amada, y por eso me dio este otro hijo». §34 Nuevamente quedó embarazada y dio a luz un tercer hijo, al que llamó Leví (unido), porque dijo: «Seguramente ahora sí me amará mi marido, puesto que le he dado tres hijos». §35 Por cuarta vez quedó embarazada y tuvo un hijo al que llamó Judá (alabanza), porque dijo: «Ahora alabaré al [Señor]{.smallcaps}». Entonces dejó de tener hijos. 
+§31 Jacob no amaba a Lea, y cuando vio esto el SEÑOR permitió que Lea tuviera hijos; pero a Raquel no se lo permitió. 
+§32 De modo que Lea quedó embarazada y tuvo un hijo al que llamó Rubén, porque dijo: «El SEÑOR ha visto mi sufrimiento; ahora sí me amará mi marido». 
+§33 Poco tiempo después volvió a quedar embarazada y tuvo otro hijo. A este le puso Simeón (el SEÑOR oyó), porque dijo. «El SEÑOR ha oído que no soy amada, y por eso me dio este otro hijo». §34 Nuevamente quedó embarazada y dio a luz un tercer hijo, al que llamó Leví (unido), porque dijo: «Seguramente ahora sí me amará mi marido, puesto que le he dado tres hijos». §35 Por cuarta vez quedó embarazada y tuvo un hijo al que llamó Judá (alabanza), porque dijo: «Ahora alabaré al SEÑOR». Entonces dejó de tener hijos. 
 
 # 30 
 ## Los dos hijos de Bilha, la sierva de Rachêl
@@ -1067,16 +1067,16 @@
 
 ## Rachêl cresce madre de José
 §22 Entonces Dios tuvo compasión de Raquel, y le respondió sus oraciones, pues le permitió tener hijos. 
-§23-24 Así que ella quedó embarazada, y dio a luz un hijo. A este hijo, Raquel le puso por nombre José (que añada otro), porque dijo: «Dios ha quitado la humillación que había sobre mí». Luego añadió: «¡Qué bueno sería que el [Señor]{.smallcaps} me diera otro hijo». §25 Poco después de que José nació, Jacob le dijo a Labán:
+§23-24 Así que ella quedó embarazada, y dio a luz un hijo. A este hijo, Raquel le puso por nombre José (que añada otro), porque dijo: «Dios ha quitado la humillación que había sobre mí». Luego añadió: «¡Qué bueno sería que el SEÑOR me diera otro hijo». §25 Poco después de que José nació, Jacob le dijo a Labán:
 
 ## El nuevo pacto de servicio de Jacob con Labán
 §26 Quiero volver a mi tierra. Permíteme llevarme a mis esposas y a mis hijos, porque yo los gané con mi trabajo. Tú sabes que te los he pagado con mis servicios.
 
-§27 No me dejes, por favor —respondió Labán—. Por adivinación me he enterado de que el [Señor]{.smallcaps} me ha bendecido a través de ti. 
+§27 No me dejes, por favor —respondió Labán—. Por adivinación me he enterado de que el SEÑOR me ha bendecido a través de ti. 
 §28 Dime qué salario quieres recibir, y yo te lo pagaré.
 
 §29 Jacob contestó: Tú sabes con cuánta fidelidad te he servido durante todos estos años, y cómo, debido a mis cuidados, han aumentado tus rebaños. 
-§30 De lo poco que tenías has pasado a tener un rebaño inmenso. El [Señor]{.smallcaps} te ha bendecido desde que yo llegué. Pero ya es tiempo de que yo trabaje para mi propia familia.
+§30 De lo poco que tenías has pasado a tener un rebaño inmenso. El SEÑOR te ha bendecido desde que yo llegué. Pero ya es tiempo de que yo trabaje para mi propia familia.
 
 §31-32 ¿Qué salario quieres que te pague? —volvió a preguntarle Labán. Jacob respondió: Si aceptas lo que te voy a decir, volveré a trabajar para ti. Déjame revisar tu ganado y apartar todos los corderos manchados, rayados y negros, lo mismo que todas las cabras manchadas y rayadas. Dame eso como salario.
 
@@ -1097,7 +1097,7 @@
 ## Las razones de la fuga de Jacob
 §1 Al tiempo, Jacob se enteró de que los hijos de Labán estaban diciendo: «Jacob se ha ido quedando con todo lo que era de nuestro padre, y por eso se ha hecho rico». 
 §2 Pronto Jacob percibió un considerable cambio en la actitud de Labán hacia él. 
-§3 Entonces el [Señor]{.smallcaps} le habló a Jacob y le dijo: «Regresa a la tierra de tus padres y de tus parientes, y yo estaré contigo».
+§3 Entonces el SEÑOR le habló a Jacob y le dijo: «Regresa a la tierra de tus padres y de tus parientes, y yo estaré contigo».
 
 ## La consulta de Jacob con sus esposas
 §4 Un día Jacob mandó a buscar a Raquel y a Lea para que fueran a verlo al campo donde estaba con sus rebaños, pues quería hablar de esto con ellas. Jacob les dijo: §5 Su padre ya no me trata como antes, ¡pero el Dios de mi padre siempre ha estado conmigo! 
@@ -1151,7 +1151,7 @@
 §46 Luego les dijo a sus familiares que reunieran piedras y las amontonaran. Una vez hecho esto, comieron sobre ese montón de piedras. 
 §47 A ese montón de piedras Labán le puso el nombre de Yegar Saduta, y Jacob lo llamó Galaad. 
 §48 Luego Labán dijo: Este montón de piedras servirá para recordarnos el trato que tú y yo hemos hecho hoy. Aquel lugar se llamó Galaad 
-§49 y Mizpa, porque Labán dijo: Que el [Señor]{.smallcaps} cuide que nosotros respetemos este trato cuando nos hayamos separado. 
+§49 y Mizpa, porque Labán dijo: Que el SEÑOR cuide que nosotros respetemos este trato cuando nos hayamos separado. 
 §50 Y si tú tratas con rudeza a mis hijas, o si tomas otras esposas, yo no lo sabré, pero recuerda que Dios sí lo verá y será testigo de lo que hagas. §51-52 Labán continuó diciéndole a Jacob: Mira bien, este montón de piedras y este pilar que he levantado entre tú y yo quedan como testigos de nuestros votos. Yo no cruzaré esta línea para atacarte, ni tú la cruzarás para atacarme. 
 §53 ¡Que el Dios de Abraham y el Dios de Najor sea quien juzgue si cumplimos o no este trato! Entonces Jacob juró por el poderoso Dios de Isaac, su padre. 
 §54 Enseguida ofreció un sacrificio a Dios allí sobre la cumbre del monte, e invitó a sus parientes a participar de la comida. Después de comer, todos se quedaron esa noche en la montaña. §55 Labán se levantó temprano la mañana siguiente, besó a sus hijas y a sus nietos, los bendijo, y regresó a su tierra. 
@@ -1168,7 +1168,7 @@
 §8 porque se dijo: «Si Esaú ataca un grupo, el otro podrá escapar».
 
 ## La oracion de Jacob por la ayuda de Dios
-§9 Entonces Jacob oró: «[Señor]{.smallcaps}, Dios de mi abuelo Abraham y de mi padre Isaac, tú me dijiste que regresara a la tierra de mis padres y que estarías conmigo para que me fuera bien. 
+§9 Entonces Jacob oró: «SEÑOR, Dios de mi abuelo Abraham y de mi padre Isaac, tú me dijiste que regresara a la tierra de mis padres y que estarías conmigo para que me fuera bien. 
 §10 Mira, no soy digno de recibir la más pequeña de las misericordias que me has mostrado una y otra vez, conforme a tu promesa. Cuando salí de mi hogar y crucé el río Jordán, la única posesión que tenía era mi bastón; pero ahora necesito dos campamentos para guardar todo lo que tengo. 
 §11 ¡Te suplico que me libres del furor de mi hermano Esaú! Tengo miedo, un miedo terrible de que él venga a matarme, y mate también a estas mujeres y a sus hijos. 
 §12 Recuerda que tú prometiste que me harías bien y que multiplicarías mis descendientes hasta que llegaran a ser como la arena del mar, de modo que no podrían ser contados».
@@ -1403,8 +1403,8 @@
 # 39 
 ## José en la casa de Potifar
 §1 Cuando José llegó a Egipto, fue vendido por los ismaelitas a Potifar, que era un egipcio muy importante, ya que era el capitán de la guardia personal del faraón. 
-§2 El [Señor]{.smallcaps} bendijo mucho a José en la casa de su amo, de modo que tenía éxito en todo lo que emprendía. 
-§3 Potifar comprendió que el [Señor]{.smallcaps} estaba con José de una manera muy especial. 
+§2 El SEÑOR bendijo mucho a José en la casa de su amo, de modo que tenía éxito en todo lo que emprendía. 
+§3 Potifar comprendió que el SEÑOR estaba con José de una manera muy especial. 
 §4 Por supuesto, José llegó a ser su persona de confianza. Pronto estuvo a cargo de la administración de la hacienda y todos los negocios de Potifar. 
 §5 Inmediatamente, Dios comenzó a bendecir a Potifar, por amor a José. Todos los asuntos de su hacienda comenzaron a prosperar, sus cosechas aumentaron y se multiplicó su ganado. 
 §6 Por esa razón, Potifar le entregó a José la responsabilidad de administrar todas sus posesiones. Potifar no tenía nada de qué preocuparse, sino de comer. Además de las cualidades mencionadas, José era un joven bien parecido.
@@ -1427,9 +1427,9 @@
 ## José en el Carcel
 §19 Cuando Potifar oyó esto, se enfureció. 
 §20 Tomó preso a José y lo echó en la cárcel donde tenían encadenados a los prisioneros del rey. 
-§21 Pero el [Señor]{.smallcaps} estuvo con José también allí y le mostró su amor, permitiendo que se ganara la confianza del carcelero. 
+§21 Pero el SEÑOR estuvo con José también allí y le mostró su amor, permitiendo que se ganara la confianza del carcelero. 
 §22 El hecho es que el carcelero pronto le entregó el cuidado de los prisioneros y lo dejó a cargo de todo lo demás que se hacía en la cárcel. 
-§23 Por eso, el carcelero ya no se preocupaba de nada, porque José tenía cuidado de cada cosa y el [Señor]{.smallcaps} hacía que todas las cosas le salieran bien. 
+§23 Por eso, el carcelero ya no se preocupaba de nada, porque José tenía cuidado de cada cosa y el SEÑOR hacía que todas las cosas le salieran bien. 
 
 # 40 
 ## Encarcelamiento del copero y panadero del faraón
@@ -1807,7 +1807,7 @@
 §15 Cuando vea la hermosura del paisaje, lo agradable de la tierra, con gusto agachará su hombro para la tarea y se convertirá en un esclavo.
 
 §16 »Dan gobernará su pueblo como cualquier tribu de Israel. 
-§17 Será serpiente en el sendero, que muerde los talones del caballo para que caiga el jinete. §18 »¡[Señor]{.smallcaps}, esperaré tu ayuda!
+§17 Será serpiente en el sendero, que muerde los talones del caballo para que caiga el jinete. §18 »¡SEÑOR, esperaré tu ayuda!
 
 §19 »Un ejército atacará a Gad, pero él lo atacará por atrás.
 

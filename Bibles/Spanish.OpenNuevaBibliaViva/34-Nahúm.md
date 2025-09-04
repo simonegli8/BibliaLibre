@@ -1,29 +1,29 @@
 # 1 
 §1 Estas son las visiones que Dios le dio a Nahúm, que vivió en Elcós, acerca de la inminente destrucción de Nínive. 
 
-§2 El [Señor]{.smallcaps} es celoso con todos los que ama y por eso castiga a los que les causan daño y destruye a sus enemigos con furor. 
-§3 El [Señor]{.smallcaps} no se enoja fácilmente, pero cuando está airado, su poder supera todo lo imaginable y no considera inocente al culpable. Él muestra su poder también en la naturaleza, como cuando camina sobre el ciclón y la tormenta, y está tan alto que podemos imaginar que las nubes son el polvo de sus pies. 
+§2 El SEÑOR es celoso con todos los que ama y por eso castiga a los que les causan daño y destruye a sus enemigos con furor. 
+§3 El SEÑOR no se enoja fácilmente, pero cuando está airado, su poder supera todo lo imaginable y no considera inocente al culpable. Él muestra su poder también en la naturaleza, como cuando camina sobre el ciclón y la tormenta, y está tan alto que podemos imaginar que las nubes son el polvo de sus pies. 
 §4 Es capaz de secar el mar cuando lanza su potente voz, así como el río puede quedar como arena seca. Cuando él se manifiesta las praderas de Basán y del monte Carmelo se marchitan y la vegetación del Líbano desaparece. 
 §5 Ante su presencia tiemblan los montes y se derriten las colinas; la tierra tiembla y los pueblos son destruidos. 
 
 §6 ¿Quién puede permanecer en pie ante la cólera de Dios? Su enojo es como el ardor del fuego, que es capaz de arrasar con todo lo que se ponga a su paso; hasta las montañas tiemblan cuando Dios da rienda suelta a su enojo. 
 
-§7 Pero el [Señor]{.smallcaps} es bueno. Cuando llegan la angustia y la desesperación él es el mejor refugio. Protege a todos los que en él ponen su confianza; él conoce bien a los que le son fieles. 
+§7 Pero el SEÑOR es bueno. Cuando llegan la angustia y la desesperación él es el mejor refugio. Protege a todos los que en él ponen su confianza; él conoce bien a los que le son fieles. 
 §8 Pero también arrasa a sus enemigos como torrente que se desborda. ¡Hasta de noche perseguirá a sus enemigos! 
 
-§9 Gente, ¿qué están pensando, que se atreven a desafiar al [Señor]{.smallcaps}? ¡Él los destruirá de un solo golpe! ¡Ustedes no tendrán una segunda oportunidad! 
-§10 El [Señor]{.smallcaps} arroja a sus enemigos en el fuego como si fueran espinos; entonces ellos arden como si fueran paja. 
-§11 Nínive, de ti ha salido el malvado consejero que se atreve a imaginar que puede hacerle daño al [Señor]{.smallcaps}. 
+§9 Gente, ¿qué están pensando, que se atreven a desafiar al SEÑOR? ¡Él los destruirá de un solo golpe! ¡Ustedes no tendrán una segunda oportunidad! 
+§10 El SEÑOR arroja a sus enemigos en el fuego como si fueran espinos; entonces ellos arden como si fueran paja. 
+§11 Nínive, de ti ha salido el malvado consejero que se atreve a imaginar que puede hacerle daño al SEÑOR. 
 
-§12 Así ha dicho el [Señor]{.smallcaps}: «¡Aunque los asirios sean muy fuertes y numerosos, los voy a destruir por completo! Y a ti, Judá, pueblo mío, que te he castigado mucho, ya no te castigaré más. 
+§12 Así ha dicho el SEÑOR: «¡Aunque los asirios sean muy fuertes y numerosos, los voy a destruir por completo! Y a ti, Judá, pueblo mío, que te he castigado mucho, ya no te castigaré más. 
 §13 Ahora romperé tus cadenas y te libraré de la esclavitud de este rey asirio». 
-§14 Pero acerca de ti, Nínive, el [Señor]{.smallcaps} ha dicho: «He decidido el fin de tu dinastía real; los descendientes de tus reyes no se sentarán jamás sobre tu trono. Y yo destruiré tus dioses y tus templos, y te sepultaré, porque te has aferrado a la maldad». 
+§14 Pero acerca de ti, Nínive, el SEÑOR ha dicho: «He decidido el fin de tu dinastía real; los descendientes de tus reyes no se sentarán jamás sobre tu trono. Y yo destruiré tus dioses y tus templos, y te sepultaré, porque te has aferrado a la maldad». 
 
-§15 ¡Miren! Mensajeros descienden de las montañas trayendo buenas noticias: «Los invasores han sido derrotados y hemos sido salvados». ¡Judá, celebra un día de acción de gracias y ríndele un homenaje al [Señor]{.smallcaps} como prometiste, porque nunca más volverás a ser atacada por Nínive! ¡Ha sido destruida para siempre! ¡Jamás la volveremos a ver! 
+§15 ¡Miren! Mensajeros descienden de las montañas trayendo buenas noticias: «Los invasores han sido derrotados y hemos sido salvados». ¡Judá, celebra un día de acción de gracias y ríndele un homenaje al SEÑOR como prometiste, porque nunca más volverás a ser atacada por Nínive! ¡Ha sido destruida para siempre! ¡Jamás la volveremos a ver! 
 
 # 2 
 §1 ¡Nínive, estás acabada! ¡Ya estás sitiada por los ejércitos enemigos! ¡Haz sonar las alarmas! ¡Refuerza con guerreros tus murallas! ¡Pasa revista a tus defensas, a todas tus fuerzas, y monta una buena vigilancia porque comienza el ataque del enemigo! 
-§2 Aunque ahora la tierra del pueblo de Dios está vacía y quebrantada debido a tus ataques, el [Señor]{.smallcaps} le restaurará su honra y su poder. 
+§2 Aunque ahora la tierra del pueblo de Dios está vacía y quebrantada debido a tus ataques, el SEÑOR le restaurará su honra y su poder. 
 
 §3 ¡Los escudos de los atacantes rojean con la sangre de tus soldados muertos! ¡El ataque comienza! ¡Miren sus uniformes rojos de tanta sangre que han hecho correr! ¡Vean sus carros de guerra relucientes que avanzan veloces! 
 §4 Sus carros de guerra corren por todas las calles y plazas de tu ciudad provocando gran alboroto y causando pavor a tus ciudadanos. Parece que fueran antorchas de fuego. ¡Parecen relámpagos veloces! 
@@ -41,7 +41,7 @@
 
 §12 Nínive, como si fueras un león vigoroso aplastabas a tus enemigos y saqueabas sus riquezas para dárselas a tus habitantes, y llenabas sus hogares con esclavos y bienes obtenidos por la violencia y el robo. 
 
-§13 Pero ahora el [Señor]{.smallcaps} Todopoderoso te dice: «Nínive, yo estoy en tu contra. Quemaré tus carros de guerra y haré que tus valientes soldados mueran en la batalla. No permitiré que sigas robando, ni que tus mensajeros vuelvan a llevar amenazas a las naciones». 
+§13 Pero ahora el SEÑOR Todopoderoso te dice: «Nínive, yo estoy en tu contra. Quemaré tus carros de guerra y haré que tus valientes soldados mueran en la batalla. No permitiré que sigas robando, ni que tus mensajeros vuelvan a llevar amenazas a las naciones». 
 
 # 3 
 §1 ¡Qué pesar por Nínive, esa ciudad sanguinaria, llena de mentiras y de robos, que como fiera salvaje siempre andaba tras sus presas! 
@@ -50,7 +50,7 @@
 
 §4 Todo esto es debido a tus engaños porque, como una prostituta, seducías a las naciones. Eras muy hábil para atrapar a los pueblos valiéndote de tus encantos y de tus hechizos. 
 
-§5 «No te extrañes ahora que esté en tu contra», dice el [Señor]{.smallcaps} Todopoderoso. «Te levantaré las faldas hasta el rostro para que todo mundo pueda ver tu desnudez y así quedes avergonzada en público. Ahora toda la tierra verá tu desnudez y tu vergüenza. 
+§5 «No te extrañes ahora que esté en tu contra», dice el SEÑOR Todopoderoso. «Te levantaré las faldas hasta el rostro para que todo mundo pueda ver tu desnudez y así quedes avergonzada en público. Ahora toda la tierra verá tu desnudez y tu vergüenza. 
 §6 Te cubriré de excrementos para completar tu deshonra delante de todos los pueblos de la tierra. 
 §7 Todos los que te vean retrocederán espantados, y dirán: “Nínive ha quedado en la más completa ruina”. Sin embargo, nadie lamentará tu destino». 
 

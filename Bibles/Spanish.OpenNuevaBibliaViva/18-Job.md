@@ -6,7 +6,7 @@
 §5 Al terminar el ciclo de los banquetes, Job reunía a sus hijos y los santificaba; se levantaba muy de mañana y presentaba una ofrenda por cada uno de ellos. Porque pensaba: «Quizás mis hijos hayan pecado y en su corazón se hayan alejado de Dios». Estas cosas eran costumbre en Job.
 
 ## Conversación y acuerdo entre Dios y Satanás en el primer encuentro de los hijos de Dios
-§6 Cierto día en que los ángeles se presentaron ante el [Señor]{.smallcaps}, acudió también con ellos el ángel acusador. §7 ¿De dónde vienes? —le preguntó el [Señor]{.smallcaps} al acusador. Y este respondió: De rondar la tierra y recorrerla por todas partes.
+§6 Cierto día en que los ángeles se presentaron ante el SEÑOR, acudió también con ellos el ángel acusador. §7 ¿De dónde vienes? —le preguntó el SEÑOR al acusador. Y este respondió: De rondar la tierra y recorrerla por todas partes.
 
 §8 Entonces Dios preguntó al acusador: ¿Te has fijado en mi siervo Job? No hay otro como él en toda la tierra: hombre perfecto y recto, que me teme y se abstiene de todo mal.
 
@@ -14,7 +14,7 @@
 §10 Siempre has librado de todo daño su persona, su hogar y sus bienes. Has hecho prosperar cuanto hace. ¡Mira cómo se ha enriquecido! ¡Razón tiene para adorarte! 
 §11 Pero quítale sus riquezas, ¡y ya verás cómo te maldice en tu propia cara!
 
-§12-13 El [Señor]{.smallcaps} replicó al ángel acusador: Tienes permiso para hacer con su riqueza lo que quieras; pero no lo perjudiques en su cuerpo. Entonces el ángel acusador se fue; y como era de esperarse, no mucho después, en un banquete que los hijos e hijas de Job tuvieron en casa del hermano mayor, ocurrió la tragedia.
+§12-13 El SEÑOR replicó al ángel acusador: Tienes permiso para hacer con su riqueza lo que quieras; pero no lo perjudiques en su cuerpo. Entonces el ángel acusador se fue; y como era de esperarse, no mucho después, en un banquete que los hijos e hijas de Job tuvieron en casa del hermano mayor, ocurrió la tragedia.
 
 ## Destrucción de la fortuna externa de Job
 §14-15 Llegó corriendo a casa de Job un mensajero con esta noticia: Estaban sus bueyes arando, y las burras pastaban junto a ellos, cuando nos asaltaron los sabeanos, se llevaron los animales y mataron a los demás siervos. ¡Sólo yo escapé! §16 Aún estaba hablando este mensajero, cuando llegó otro con más noticias malas: —Del cielo cayó un rayo que calcinó a las ovejas y a todos los criados. ¡Sólo yo escapé para contárselo!
@@ -22,18 +22,18 @@
 §17 No había terminado este, cuando otro mensajero entró corriendo. Tres bandas de caldeos se llevaron sus camellos y mataron a sus siervos. ¡Sólo yo escapé para contárselo!
 
 §18 Mientras aún estaba hablando este, llegó otro mensajero y dijo: Sus hijos e hijas estaban celebrando un banquete en casa de su hermano mayor, 
-§19 cuando de pronto un fuerte viento del desierto arrasó la casa; desplomó el techo sobre ellos y los mató a todos. ¡Sólo yo escapé para contárselo! §20 Job se levantó y rasgó su manto y se rasuró la cabeza en señal de duelo y se postró en tierra en actitud de adoración. §21 Entonces dijo: «Desnudo salí del vientre de mi madre, y nada tendré cuando muera. El [Señor]{.smallcaps} me dio cuanto yo tenía; suyo era, y tenía derecho de llevárselo. Bendito sea el nombre del [Señor]{.smallcaps}». §22 En todo esto Job no pecó ni maldijo a Dios. 
+§19 cuando de pronto un fuerte viento del desierto arrasó la casa; desplomó el techo sobre ellos y los mató a todos. ¡Sólo yo escapé para contárselo! §20 Job se levantó y rasgó su manto y se rasuró la cabeza en señal de duelo y se postró en tierra en actitud de adoración. §21 Entonces dijo: «Desnudo salí del vientre de mi madre, y nada tendré cuando muera. El SEÑOR me dio cuanto yo tenía; suyo era, y tenía derecho de llevárselo. Bendito sea el nombre del SEÑOR». §22 En todo esto Job no pecó ni maldijo a Dios. 
 
 # 2 
 ## La piedad de Job también se prueba en la segunda prueba; Nuevos acuerdos entre Dios y Satanás
-§1 Llegaron nuevamente los ángeles a presentarse ante el [Señor]{.smallcaps}, y con ellos el ángel acusador. §2 ¿De dónde vienes? —le preguntó el [Señor]{.smallcaps} al acusador. Y este respondió: —De rondar la tierra.
+§1 Llegaron nuevamente los ángeles a presentarse ante el SEÑOR, y con ellos el ángel acusador. §2 ¿De dónde vienes? —le preguntó el SEÑOR al acusador. Y este respondió: —De rondar la tierra.
 
-§3 Bien, ¿te fijaste en mi siervo Job? —preguntó el [Señor]{.smallcaps}—. Es el mejor hombre de toda la tierra; hombre que me teme y se abstiene de todo mal. Ha mantenido su fe en mí no obstante haberme incitado tú a que te dejara perjudicarlo sin causa alguna.
+§3 Bien, ¿te fijaste en mi siervo Job? —preguntó el SEÑOR—. Es el mejor hombre de toda la tierra; hombre que me teme y se abstiene de todo mal. Ha mantenido su fe en mí no obstante haberme incitado tú a que te dejara perjudicarlo sin causa alguna.
 
-§4-5 ¿Y qué si lo perjudico en carne propia? —respondió el acusador—. El hombre dará cualquier cosa por salvar su vida. ¡Dáñalo con una enfermedad, y te maldecirá en tu propia cara! §6 Haz con él como quieras —respondió el [Señor]{.smallcaps}—, pero no le quites la vida.
+§4-5 ¿Y qué si lo perjudico en carne propia? —respondió el acusador—. El hombre dará cualquier cosa por salvar su vida. ¡Dáñalo con una enfermedad, y te maldecirá en tu propia cara! §6 Haz con él como quieras —respondió el SEÑOR—, pero no le quites la vida.
 
 ## Job, incluso enfermo de lepra, sigue siendo inquebrantablemente piadoso a pesar de la tentación de su esposa
-§7 Entonces el ángel acusador salió de la presencia del [Señor]{.smallcaps} e hizo brotar en Job dolorosas llagas desde la cabeza hasta los pies. 
+§7 Entonces el ángel acusador salió de la presencia del SEÑOR e hizo brotar en Job dolorosas llagas desde la cabeza hasta los pies. 
 §8 Y Job, sentado en medio de las cenizas, tomó un pedazo de teja para rascarse constantemente. 
 §9 Su esposa le reprochó: ¿Persistes en tu vida piadosa viendo todo lo que Dios te ha hecho? ¡Maldícelo y muérete!
 
@@ -111,7 +111,7 @@
 §16 Así es como los pobres recobran la esperanza, y a la injusticia se le tapa la boca.
 
 ## Si Job cede al castigo de Dios, la visitación será beneficiosa para toda su vida futura
-§17 »¡Dichoso el hombre a quien Dios corrige! Cuando peques, no menosprecies el castigo del [Señor]{.smallcaps}. 
+§17 »¡Dichoso el hombre a quien Dios corrige! Cuando peques, no menosprecies el castigo del SEÑOR. 
 §18 Pues aunque él hiere, venda y vuelve a sanar. 
 §19 Una y otra vez te librará para que ningún mal te dañe. 
 §20 Te librará de la muerte en tiempo de hambre, y del poder de la espada en la guerra. 
@@ -126,7 +126,7 @@
 ## Job excusa la amargura de la queja que expresa con la terrible severidad de su sufrimiento
 §1 Respuesta de Job: §2 «¡Quién pesara en balanza mi tristeza y mis congojas! 
 §3 Porque son más pesadas que la arena de mil playas. De ahí nació mi hablar impertinente. 
-§4 Porque el [Señor]{.smallcaps} me ha derribado con sus flechas: en lo profundo de mi corazón ha clavado sus dardos venenosos. Todos los terrores de Dios militan contra mí. 
+§4 Porque el SEÑOR me ha derribado con sus flechas: en lo profundo de mi corazón ha clavado sus dardos venenosos. Todos los terrores de Dios militan contra mí. 
 §5-7 Si el burro montés rebuzna, es que el pasto se le ha agotado; no mugen los bueyes cuando tienen alimento; el hombre se queja cuando su comida está sin sal. Y ¡qué insípida es la clara del huevo cruda! Pierdo el apetito con sólo mirarla; siento náuseas con sólo pensar en comerla. §8-9 »¡Ay, que Dios me diera lo que más deseo: morir bajo su mano, y no sentir más su puño que me aprieta!
 
 ## Job desea ser redimido de sus sufrimientos y absoluta impotencia mediante una muerte rápida
@@ -693,7 +693,7 @@
 §25 El hace soplar los vientos y pone límite a los océanos. 
 §26 Él establece las leyes de la lluvia y el sendero del relámpago. 
 §27 Él sabe dónde se encuentra la sabiduría y lo declara a cuantos quieran escuchar. Él la estableció y la examinó plenamente. 
-§28 Y esto dice él a todos los hombres: «Escuchen: temer al [Señor]{.smallcaps} es verdadera sabiduría; abandonar el mal es verdadero entendimiento». 
+§28 Y esto dice él a todos los hombres: «Escuchen: temer al SEÑOR es verdadera sabiduría; abandonar el mal es verdadero entendimiento». 
 
 # 29 
 ## Descripción de la bendición divina anterior
@@ -876,7 +876,7 @@
 §25 Observa lo que hacen, y en sólo una noche los derriba y los destruye, 
 §26 a plena luz los hace caer como malvados. 
 §27 Porque ellos se desviaron de los caminos de Dios, 
-§28 e hicieron que los clamores de los pobres llegaran a oídos del [Señor]{.smallcaps}. Sí, él escucha el llanto de los oprimidos. 
+§28 e hicieron que los clamores de los pobres llegaran a oídos del SEÑOR. Sí, él escucha el llanto de los oprimidos. 
 §29-30 Pero si él prefiere no hablar, ¿quién podrá censurarlo? También él puede impedir que un hombre indigno llegue a gobernar, evitándole ruina a una nación; y puede con igual facilidad echar por tierra a una nación entera. §31 »¿Por qué no clama el pueblo ante su Dios, diciendo: “Hemos pecado, pero nos apartaremos del mal”.
 
 ## El juicio de Job sobre Dios es presuntuoso, necio e indignante, y merece el castigo más severo
@@ -968,7 +968,7 @@
 
 # 38 
 ## La invitación de Dios a Job para que le hable
-§1 Entonces el [Señor]{.smallcaps} respondió a Job desde el torbellino: §2 «¿Por qué con tu ignorancia niegas mi providencia? 
+§1 Entonces el SEÑOR respondió a Job desde el torbellino: §2 «¿Por qué con tu ignorancia niegas mi providencia? 
 §3 Prepárate ahora para la lucha pues voy a exigir de ti algunas respuestas y tendrás que responderme.
 
 ## Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
@@ -1021,8 +1021,8 @@
 
 # 40 
 ## La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
-§1 El [Señor]{.smallcaps} prosiguió: §2 «¿Aún quieres disputar con el Todopoderoso? ¿O prefieres darte por vencido? Tú que censuras a Dios, ¿tienes las respuestas?». §3 Entonces Job respondió a Dios: §4 «No soy nada. ¿Cómo podría jamás hallar las respuestas? Me tapo la boca con la mano y guardo silencio. 
-§5 Ya he hablado demasiado». §6 El [Señor]{.smallcaps} le volvió a hablar a Job desde el torbellino: §7 «¡Plántate como hombre y prepárate para la lucha! Deja que te pregunte y respóndeme. 
+§1 El SEÑOR prosiguió: §2 «¿Aún quieres disputar con el Todopoderoso? ¿O prefieres darte por vencido? Tú que censuras a Dios, ¿tienes las respuestas?». §3 Entonces Job respondió a Dios: §4 «No soy nada. ¿Cómo podría jamás hallar las respuestas? Me tapo la boca con la mano y guardo silencio. 
+§5 Ya he hablado demasiado». §6 El SEÑOR le volvió a hablar a Job desde el torbellino: §7 «¡Plántate como hombre y prepárate para la lucha! Deja que te pregunte y respóndeme. 
 §8 ¿Vas a difamar mi justicia y a condenarme para poder decir que eres justo? 
 §9 ¿Tienes fuerza como la de Dios y voz tan poderosa como la suya? 
 §10 Pues ponte tus vestiduras de ceremonia; cúbrete de majestad y esplendor. 
@@ -1079,9 +1079,9 @@
 # 42 
 §1 Entonces Job respondió a Dios: §2 «Sé que todo lo puedes y que nadie es capaz de detenerte. 
 §3 Preguntas quién ha sido tan necio para negar tu providencia. Soy yo. Hablaba de lo que ignoraba en absoluto; de lo que no comprendía; de cosas demasiado admirables para mí. §4 »Tú dijiste: “Escucha, y yo hablaré. Déjame plantearte las preguntas. ¡A ver si eres capaz de responder!”. §5 »Pero ahora yo digo. Había oído hablar de ti, pero ahora te he visto, 
-§6 y me detesto, y me arrepiento en polvo y cenizas». §7 Luego que el [Señor]{.smallcaps} terminó de hablar con Job, dijo a Elifaz de Temán: «Estoy airado contra ti y tus dos amigos, pues no tenían razón en lo que dijeron respecto a mí, como sí la tuvo Job. 
-§8 Ahora tomen siete becerros y siete carneros; vayan a mi siervo Job y presenten una ofrenda quemada en expiación por ustedes; y mi siervo Job orará por ustedes, y yo aceptaré su oración en favor suyo, y no los destruiré como debería hacerlo por su pecado, porque no han hablado rectamente respecto a mi siervo Job». §9 De modo que Elifaz de Temán, Bildad de Súah y Zofar de Namat hicieron como el [Señor]{.smallcaps} los mandó, y el [Señor]{.smallcaps}, aceptó la oración de Job en favor de ellos. 
-§10 Luego, cuando Job oró por sus amigos, el [Señor]{.smallcaps} le restituyó sus riquezas y felicidad. ¡En verdad, el [Señor]{.smallcaps} le dio el doble de lo que antes tenía! 
-§11 Todos sus hermanos, hermanas y antiguos amigos llegaron y festejaron con él en su hogar, consolándolo en todos sus padecimientos, y alentándolo por las pruebas que el [Señor]{.smallcaps} le había mandado. Y cada uno de ellos le llevó un obsequio de una pieza de plata y un anillo de oro. 
-§12 Así el [Señor]{.smallcaps} bendijo a Job al final de su vida, más que al comienzo. Pues ahora tenía catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y mil burras. §13-14 Dios también le dio otros siete hijos y tres hijas. Estos son los nombres de sus hijas: Paloma, Canela y Linda. §15 Y en toda la tierra no hubo jóvenes tan bonitas como las hijas de Job; y su padre las incluyó en su testamento junto con sus hermanos. §16 Job vivió ciento cuarenta años después de esto, y llegó a ver a sus nietos, y también a sus bisnietos. 
+§6 y me detesto, y me arrepiento en polvo y cenizas». §7 Luego que el SEÑOR terminó de hablar con Job, dijo a Elifaz de Temán: «Estoy airado contra ti y tus dos amigos, pues no tenían razón en lo que dijeron respecto a mí, como sí la tuvo Job. 
+§8 Ahora tomen siete becerros y siete carneros; vayan a mi siervo Job y presenten una ofrenda quemada en expiación por ustedes; y mi siervo Job orará por ustedes, y yo aceptaré su oración en favor suyo, y no los destruiré como debería hacerlo por su pecado, porque no han hablado rectamente respecto a mi siervo Job». §9 De modo que Elifaz de Temán, Bildad de Súah y Zofar de Namat hicieron como el SEÑOR los mandó, y el SEÑOR, aceptó la oración de Job en favor de ellos. 
+§10 Luego, cuando Job oró por sus amigos, el SEÑOR le restituyó sus riquezas y felicidad. ¡En verdad, el SEÑOR le dio el doble de lo que antes tenía! 
+§11 Todos sus hermanos, hermanas y antiguos amigos llegaron y festejaron con él en su hogar, consolándolo en todos sus padecimientos, y alentándolo por las pruebas que el SEÑOR le había mandado. Y cada uno de ellos le llevó un obsequio de una pieza de plata y un anillo de oro. 
+§12 Así el SEÑOR bendijo a Job al final de su vida, más que al comienzo. Pues ahora tenía catorce mil ovejas, seis mil camellos, mil yuntas de bueyes y mil burras. §13-14 Dios también le dio otros siete hijos y tres hijas. Estos son los nombres de sus hijas: Paloma, Canela y Linda. §15 Y en toda la tierra no hubo jóvenes tan bonitas como las hijas de Job; y su padre las incluyó en su testamento junto con sus hermanos. §16 Job vivió ciento cuarenta años después de esto, y llegó a ver a sus nietos, y también a sus bisnietos. 
 §17 Al fin murió, muy anciano, tras larga y próspera vida.

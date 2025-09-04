@@ -1,12 +1,12 @@
 # 1 
 ## El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
-§1 Durante el primer año del reinado del rey Ciro, de Persia, el [Señor]{.smallcaps} hizo que el rey promulgara un decreto, tanto de forma oral como por escrito, permitiendo que los cautivos de Judá pudieran regresar a su tierra. De esa manera el [Señor]{.smallcaps} cumplió lo que había dicho por medio del profeta Jeremías.^a^ Este decreto, que se dio a conocer en todo el imperio persa, decía: 
-^a^[**1:1** Jeremías había predicho que los judíos permanecerían en cautiverio bajo los babilonios durante setenta años (Jeremías 25.12 y 29.10).]§2 «Yo, Ciro, rey de Persia, declaro que el [Señor]{.smallcaps}, Dios del cielo, me dio este imperio y ha puesto sobre mí la responsabilidad de edificarle un templo en Jerusalén, en la tierra de Judá. 
-§3 Todos los judíos del reino pueden ahora volver a Jerusalén, para reedificar el templo del [Señor]{.smallcaps}, que es el Dios de Israel y de Jerusalén. Que su bendición esté sobre ustedes. 
+§1 Durante el primer año del reinado del rey Ciro, de Persia, el SEÑOR hizo que el rey promulgara un decreto, tanto de forma oral como por escrito, permitiendo que los cautivos de Judá pudieran regresar a su tierra. De esa manera el SEÑOR cumplió lo que había dicho por medio del profeta Jeremías.^a^ Este decreto, que se dio a conocer en todo el imperio persa, decía: 
+^a^[**1:1** Jeremías había predicho que los judíos permanecerían en cautiverio bajo los babilonios durante setenta años (Jeremías 25.12 y 29.10).]§2 «Yo, Ciro, rey de Persia, declaro que el SEÑOR, Dios del cielo, me dio este imperio y ha puesto sobre mí la responsabilidad de edificarle un templo en Jerusalén, en la tierra de Judá. 
+§3 Todos los judíos del reino pueden ahora volver a Jerusalén, para reedificar el templo del SEÑOR, que es el Dios de Israel y de Jerusalén. Que su bendición esté sobre ustedes. 
 §4 Los judíos que no vayan deberán proporcionar vestido, transporte y provisiones para el viaje de quienes sí decidan ir; así como una ofrenda voluntaria para el templo de Dios que está en Jerusalén».
 
 ## El efecto y ejecución de la disposición
-§5 Entonces el [Señor]{.smallcaps} puso en los dirigentes de las tribus de Judá y de Benjamín, y de los sacerdotes y levitas, un gran deseo de regresar a Jerusalén, para reedificar el templo. 
+§5 Entonces el SEÑOR puso en los dirigentes de las tribus de Judá y de Benjamín, y de los sacerdotes y levitas, un gran deseo de regresar a Jerusalén, para reedificar el templo. 
 §6 Los cautivos que decidieron quedarse en Persia les dieron de todo: plata, oro, enseres, ganado y artículos valiosos; además de las ofrendas para el templo.
 
 ## Publicación y listado de los implementos del templo entregados a Sesbassar (Zorobabel)
@@ -37,7 +37,7 @@
 §62-63 Pero tampoco pudieron demostrar que descendían de familias israelitas, por haber perdido sus registros genealógicos. Así que fueron excluidos del sacerdocio. El gobernador les prohibió comer con los sacerdotes y tener parte en la comida sacerdotal de los sacrificios, hasta que hubiera sido consultado el urim y el tumim, para que Dios les hiciera saber si realmente eran descendientes de los sacerdotes. §64-65 De modo que regresaron a Judá un total de cuarenta y dos mil trescientas sesenta personas, sin contar a los siete mil trescientos treinta y siete esclavos y doscientos miembros del coro, entre hombres y mujeres.
 
 ## Número total de personas y animales de carga en el municipio
-§66-67 Llevaron consigo setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas, cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros. §68 Algunos de los jefes de clanes, al llegar al templo del [Señor]{.smallcaps} que estaba en Jerusalén, ofrendaron generosamente para ayudar a la reconstrucción del mismo.
+§66-67 Llevaron consigo setecientos treinta y seis caballos, doscientas cuarenta y cinco mulas, cuatrocientos treinta y cinco camellos y seis mil setecientos veinte burros. §68 Algunos de los jefes de clanes, al llegar al templo del SEÑOR que estaba en Jerusalén, ofrendaron generosamente para ayudar a la reconstrucción del mismo.
 
 ## Contribuciones a la construcción del templo en Jerusalén; Palabra final
 §69 Cada uno dio lo que pudo. El valor total de las donaciones ascendió a cuatrocientos ochenta y ocho kilos de oro, dos mil setecientos cincuenta kilos de plata y cien túnicas sacerdotales.
@@ -48,10 +48,10 @@
 ## Construcción del altar de las ofrendas quemadas y establecimiento del servicio de sacrificios regular; Celebración de la Fiesta de los Tabernáculos
 §1 Siete meses después de haber regresado a Judá, se reunieron todos en Jerusalén. Para ese entonces ya todos estaban ubicados en sus ciudades. 
 §2 Entonces Jesúa hijo de Josadac, junto con sus parientes, que eran sacerdotes, y Zorobabel hijo de Salatiel y su clan, comenzaron a construir el altar del Dios de Israel. Lo hicieron para poder ofrecer holocaustos, conforme a las leyes de Moisés, el siervo de Dios. 
-§3 El altar fue reedificado en su antiguo sitio, a pesar del miedo que tenían de la gente de los pueblos vecinos, y ofrecieron sacrificios al [Señor]{.smallcaps}, por la mañana y por la tarde. 
+§3 El altar fue reedificado en su antiguo sitio, a pesar del miedo que tenían de la gente de los pueblos vecinos, y ofrecieron sacrificios al SEÑOR, por la mañana y por la tarde. 
 §4 Luego celebraron la fiesta de las Enramadas, en la forma prescrita en las leyes de Moisés. También, ofrecieron los holocaustos que el reglamento requería para cada día de la fiesta. 
-§5 Además ofrecieron los sacrificios continuos que se requerían para los días de reposo, los de la celebración de la luna nueva, y los de las otras fiestas en honor del [Señor]{.smallcaps}, que debían celebrarse una vez al año. Asimismo ofrecieron las ofrendas voluntarias que llevaba el pueblo. 
-§6 Así que, desde el primer día del séptimo mes, comenzaron a ofrecer holocaustos al [Señor]{.smallcaps}. Para esa fecha aún no se habían echado los cimientos del templo.
+§5 Además ofrecieron los sacrificios continuos que se requerían para los días de reposo, los de la celebración de la luna nueva, y los de las otras fiestas en honor del SEÑOR, que debían celebrarse una vez al año. Asimismo ofrecieron las ofrendas voluntarias que llevaba el pueblo. 
+§6 Así que, desde el primer día del séptimo mes, comenzaron a ofrecer holocaustos al SEÑOR. Para esa fecha aún no se habían echado los cimientos del templo.
 
 ## Preparaciones para la construcción de templos; Colocación ceremonial de la primera piedra
 §7 Luego contrataron albañiles y carpinteros, y compraron madera de cedro de Tiro y Sidón, lo que pagaron con alimentos, vino y aceite de oliva. La madera de cedro la llevaban desde el Líbano y por el mar hasta Jope, tal como lo había ordenado el rey Ciro, de Persia.
@@ -59,8 +59,8 @@
 §8 La construcción comenzó en el segundo mes del segundo año de su llegada a Jerusalén. Trabajaban todos los que habían regresado y estaban bajo la dirección de Zorobabel hijo de Salatiel, de Jesúa hijo de Josadac, y de los sacerdotes y levitas. Los levitas que tenían más de veinte años tenían a su cargo la supervisión de la obra. 
 §9 Así que los levitas Jesúa, junto con sus hijos y hermanos, Cadmiel y sus hijos, que eran descendientes de Hodavías, y los de la familia de Henadad, se pusieron al frente de la obra, para supervisar a los obreros que estaban trabajando en el templo de Dios.
 
-§10 Cuando se completó la construcción de los cimientos, los sacerdotes, vestidos con sus túnicas sacerdotales, hicieron sonar las trompetas, y los descendientes de Asaf hicieron sonar sus címbalos, para alabar al [Señor]{.smallcaps} de la manera ordenada por el rey David. 
-§11 Cantaban y alababan a Dios dando gracias, y entonaban esta canción: «Dios es bueno, porque para siempre es su misericordia con Israel». Entonces todo el pueblo gritó con gran júbilo y alabó al [Señor]{.smallcaps}, porque se habían echado los cimientos del templo.
+§10 Cuando se completó la construcción de los cimientos, los sacerdotes, vestidos con sus túnicas sacerdotales, hicieron sonar las trompetas, y los descendientes de Asaf hicieron sonar sus címbalos, para alabar al SEÑOR de la manera ordenada por el rey David. 
+§11 Cantaban y alababan a Dios dando gracias, y entonaban esta canción: «Dios es bueno, porque para siempre es su misericordia con Israel». Entonces todo el pueblo gritó con gran júbilo y alabó al SEÑOR, porque se habían echado los cimientos del templo.
 
 §12 Pero muchos de los sacerdotes, levitas y demás dirigentes, que ya eran ancianos y recordaban el hermoso templo de Salomón, lloraban en alta voz, mientras los otros gritaban de gozo. 
 §13 Los gritos de alegría y los llantos se confundían, y se oían desde muy lejos. 
@@ -149,15 +149,15 @@
 ## Celebración de la Pascua
 §19 También celebraron la fiesta de la Pascua el día catorce del mes primero. 
 §20 Para esa fecha, los sacerdotes y levitas ya se habían purificado, y ofrecieron los sacrificios por el pueblo, por sus compañeros sacerdotes y por ellos mismos. 
-§21-22 Los judíos que habían regresado de la cautividad en Babilonia celebraron la Pascua. También se les unieron aquellos que vivían entre ellos, y que habían abandonado las costumbres perversas de los pueblos vecinos, y habían decidido adorar al [Señor]{.smallcaps}, Dios de Israel. La celebración de la fiesta de los Panes sin levadura duró siete días. La festejaron con mucho júbilo, porque el [Señor]{.smallcaps} les había llenado de alegría al permitir que el rey de Asiria los tratara con tanta benevolencia y les hubiera ayudado a reconstruir el templo del Dios de Israel. 
+§21-22 Los judíos que habían regresado de la cautividad en Babilonia celebraron la Pascua. También se les unieron aquellos que vivían entre ellos, y que habían abandonado las costumbres perversas de los pueblos vecinos, y habían decidido adorar al SEÑOR, Dios de Israel. La celebración de la fiesta de los Panes sin levadura duró siete días. La festejaron con mucho júbilo, porque el SEÑOR les había llenado de alegría al permitir que el rey de Asiria los tratara con tanta benevolencia y les hubiera ayudado a reconstruir el templo del Dios de Israel. 
 
 # 7 
 ## El regreso de Esdras y su banda de Babilonia a Jerusalén
-§1-5 Después, durante el reinado de Artajerjes, rey de Persia, Esdras llegó a Jerusalén. Esdras era hijo de Seraías. Seraías era hijo de Azarías; Azarías era hijo de Jilquías; Jilquías era hijo de Salún; Salún era hijo de Sadoc; Sadoc era hijo de Ajitob; Ajitob era hijo de Amarías; Amarías era hijo de Azarías; Azarías era hijo de Merayot, Merayot era hijo de Zeraías; Zeraías era hijo de Uzi; Uzi era hijo de Buquí; Buquí era hijo de Abisúa; Abisúa era hijo de Finés; Finés era hijo de Eleazar; y Eleazar era hijo de Aarón, el primer sumo sacerdote. §6 Esdras, que llegó de Babilonia, era un maestro muy versado en las leyes que el [Señor]{.smallcaps} había dado al pueblo de Israel por medio de Moisés. Pidió que se le permitiera regresar a Jerusalén, y el rey le concedió su petición, porque Esdras contaba con la ayuda del [Señor]{.smallcaps}. §7-9 Con Esdras regresaron muchos israelitas, entre los cuales había sacerdotes, levitas, cantores, porteros, y sirvientes del templo. Salieron de Babilonia el día primero del mes primero del séptimo año del reinado de Artajerjes, y llegaron a Jerusalén, sin ningún contratiempo, el día primero del mes quinto del mismo año, porque Esdras contaba con la bondadosa ayuda del [Señor]{.smallcaps}. 
-§10 Esto fue porque Esdras se había propuesto estudiar y obedecer las leyes del [Señor]{.smallcaps}, y ser un maestro de la Palabra de Dios y enseñar las leyes al pueblo de Israel.
+§1-5 Después, durante el reinado de Artajerjes, rey de Persia, Esdras llegó a Jerusalén. Esdras era hijo de Seraías. Seraías era hijo de Azarías; Azarías era hijo de Jilquías; Jilquías era hijo de Salún; Salún era hijo de Sadoc; Sadoc era hijo de Ajitob; Ajitob era hijo de Amarías; Amarías era hijo de Azarías; Azarías era hijo de Merayot, Merayot era hijo de Zeraías; Zeraías era hijo de Uzi; Uzi era hijo de Buquí; Buquí era hijo de Abisúa; Abisúa era hijo de Finés; Finés era hijo de Eleazar; y Eleazar era hijo de Aarón, el primer sumo sacerdote. §6 Esdras, que llegó de Babilonia, era un maestro muy versado en las leyes que el SEÑOR había dado al pueblo de Israel por medio de Moisés. Pidió que se le permitiera regresar a Jerusalén, y el rey le concedió su petición, porque Esdras contaba con la ayuda del SEÑOR. §7-9 Con Esdras regresaron muchos israelitas, entre los cuales había sacerdotes, levitas, cantores, porteros, y sirvientes del templo. Salieron de Babilonia el día primero del mes primero del séptimo año del reinado de Artajerjes, y llegaron a Jerusalén, sin ningún contratiempo, el día primero del mes quinto del mismo año, porque Esdras contaba con la bondadosa ayuda del SEÑOR. 
+§10 Esto fue porque Esdras se había propuesto estudiar y obedecer las leyes del SEÑOR, y ser un maestro de la Palabra de Dios y enseñar las leyes al pueblo de Israel.
 
 ## Redacción de la carta real (= carta de salvoconducto) con detalles de los poderes otorgados a Ezra
-§11 El rey Artajerjes entregó esta carta al sacerdote Esdras, que era un maestro muy entendido en los mandamientos que el [Señor]{.smallcaps} les dio a los israelitas: m 
+§11 El rey Artajerjes entregó esta carta al sacerdote Esdras, que era un maestro muy entendido en los mandamientos que el SEÑOR les dio a los israelitas: m 
 §12 Artajerjes, rey de reyes, al sacerdote Esdras, maestro de las leyes del Dios del cielo: m
 
 §13 Decreto que todos los judíos de mi reino, incluyendo a sacerdotes y levitas, pueden regresar contigo a Jerusalén, si así lo desean. 
@@ -179,8 +179,8 @@
 §26 Cualquiera que se niegue a obedecer las leyes de tu Dios y las leyes del rey, será castigado inmediatamente con la muerte, el destierro, la confiscación de sus bienes o la prisión.
 
 ## Oración de acción de gracias de Esdras e inicio de su actividad
-§27 «Bendito sea el [Señor]{.smallcaps}, Dios de nuestros antepasados, que colocó en el corazón del rey el deseo de embellecer el templo del [Señor]{.smallcaps} en Jerusalén. 
-§28 Y bendito sea Dios por la demostración de su misericordia hacia mí, al honrarme delante del rey, de sus consejeros y delante de todos sus poderosos príncipes. Mi [Señor]{.smallcaps} y Dios, te doy gracias por haberme fortalecido, por haber estado conmigo y por haberme permitido convencer a algunos de los jefes de Israel para que regresaran conmigo a Jerusalén». 
+§27 «Bendito sea el SEÑOR, Dios de nuestros antepasados, que colocó en el corazón del rey el deseo de embellecer el templo del SEÑOR en Jerusalén. 
+§28 Y bendito sea Dios por la demostración de su misericordia hacia mí, al honrarme delante del rey, de sus consejeros y delante de todos sus poderosos príncipes. Mi SEÑOR y Dios, te doy gracias por haberme fortalecido, por haber estado conmigo y por haberme permitido convencer a algunos de los jefes de Israel para que regresaran conmigo a Jerusalén». 
 
 # 8 
 ## Directorio de los jefes de las familias de Judea que regresan con Esdras
@@ -201,7 +201,7 @@
 §24 Designé a doce jefes de los sacerdotes: a Serebías, a Jasabías y a otros diez familiares de ellos. 
 §25 Luego, en presencia de ellos, pesé la plata, el oro y los utensilios sagrados que habían sido donados para el templo de Dios por el rey, sus consejeros y sus jefes, y por todos los israelitas allí presentes. 
 §26-27 La lista de todo lo que entregué a los sacerdotes, es: veintiún mil cuatrocientos cincuenta kilos de plata, cien utensilios de plata que pesaban tres mil trescientos kilos, tres mil trescientos kilos de oro y veinte tazones de oro avaluados en mil monedas de oro. Además, había dos hermosos vasos de bronce pulido, que eran tan preciosos como el oro. 
-§28 Consagré a estos hombres al [Señor]{.smallcaps}, así como los utensilios, la plata y el oro que habían sido donados como ofrenda voluntaria para el [Señor]{.smallcaps}, el Dios de nuestros padres. §29 Entonces les dije: «Cuiden bien estos tesoros y llévenlos al templo del [Señor]{.smallcaps} en Jerusalén. Una vez allí, deberán pesar todo en presencia de los sacerdotes, de los levitas y de los jefes de Israel».
+§28 Consagré a estos hombres al SEÑOR, así como los utensilios, la plata y el oro que habían sido donados como ofrenda voluntaria para el SEÑOR, el Dios de nuestros padres. §29 Entonces les dije: «Cuiden bien estos tesoros y llévenlos al templo del SEÑOR en Jerusalén. Una vez allí, deberán pesar todo en presencia de los sacerdotes, de los levitas y de los jefes de Israel».
 
 §30 Los sacerdotes y los levitas aceptaron la responsabilidad de transportarlos al templo de Dios en Jerusalén.
 
@@ -222,7 +222,7 @@
 §4 Entonces muchos de los que obedecían las palabras del Dios de Israel, debido a este pecado del pueblo, vinieron y se sentaron conmigo hasta la hora del holocausto de la tarde.
 
 ## La oración penitencial de Esdras
-§5 Finalmente, a la hora de ofrecer el holocausto, recobré el ánimo y me levanté. Y con mi túnica y mi manto rasgados, me arrodillé y levanté mis manos hacia el [Señor]{.smallcaps} mi Dios 
+§5 Finalmente, a la hora de ofrecer el holocausto, recobré el ánimo y me levanté. Y con mi túnica y mi manto rasgados, me arrodillé y levanté mis manos hacia el SEÑOR mi Dios 
 §6 y le dije en oración: «Dios mío, estoy avergonzado. Tengo vergüenza de levantar el rostro hacia ti, porque nuestros pecados son tantos, que sobrepasan nuestras cabezas, y nuestra culpa es tan grande como los cielos. 
 §7 Nuestra historia ha sido una historia de pecado. Por esto es que nosotros, nuestros reyes y nuestros sacerdotes fuimos entregados en manos de reyes paganos, quienes nos hirieron, nos tomaron cautivos, nos robaron, y nos humillaron en público. Y hasta hoy esto nos sucede. §8 »Pero ahora, por breve instante, tú has tenido misericordia de nosotros al permitir que algunos de nosotros regresemos a Jerusalén. Nos has dado un momento de gozo y una nueva vida en medio de nuestra esclavitud. 
 §9 Porque éramos esclavos, pero por tu amor y tu misericordia no nos has abandonado. Antes al contrario, hiciste que los reyes de Persia fueran bondadosos con nosotros. Tan así es que nos han ayudado a reconstruir el templo de nuestro Dios y nos han dado una muralla protectora en Judá y Jerusalén.
@@ -233,7 +233,7 @@
 
 §13 »Y ahora, después de sufrir el castigo del cautiverio por causa de nuestra maldad, reconocemos que el castigo que nos diste fue menos de lo que merecíamos. Al contrario, has sido muy bueno con nosotros, pues has permitido que un grupo de nosotros regrese de la cautividad. 
 §14 Sin embargo, hemos quebrantado tus mandamientos nuevamente y nos hemos casado con las mujeres de estos pueblos que tienen costumbres perversas. Seguramente en tu ira nos destruirás ahora, y ni siquiera un pequeño remanente escapará. 
-§15 [Señor]{.smallcaps}, Dios de Israel, tú eres un Dios justo, porque permitiste que de nosotros quedara un remanente. ¡Ante tu presencia estamos con nuestras culpas! ¡Sé que no merecemos estar en tu presencia!». 
+§15 SEÑOR, Dios de Israel, tú eres un Dios justo, porque permitiste que de nosotros quedara un remanente. ¡Ante tu presencia estamos con nuestras culpas! ¡Sé que no merecemos estar en tu presencia!». 
 
 # 10 
 ## La acción contra los matrimonios mixtos
@@ -246,7 +246,7 @@
 §6 Luego, Esdras salió del templo de Dios y fue a la habitación de Johanán hijo de Eliasib, y pasó allí la noche. Pero no quiso comer ni beber, pues estaba muy afligido debido al pecado de los que habían regresado del cautiverio. §7-8 Luego se anunció, en las ciudades de Judá y en Jerusalén, que todos los que habían regresado del cautiverio debían reunirse en Jerusalén, en un plazo de tres días. Además, los jefes y los consejeros del pueblo acordaron que a cualquiera que se negara a venir se le quitarían sus bienes y se le expulsaría de la comunidad de los que habían regresado del cautiverio. §9 Así que a los tres días, el día veinte del mes noveno, todos los hombres de Judá y de Benjamín ya habían llegado y estaban sentados en la plaza del templo. Temblaban a causa de la seriedad del asunto que los había reunido y por la lluvia intensa que caía.
 
 §10 Entonces, el sacerdote se puso de pie y les dijo: Ustedes han pecado, porque se han casado con mujeres extranjeras. Ahora merecemos más condenación que antes. 
-§11 Confiesen pues, sus pecados al [Señor]{.smallcaps}, Dios de sus padres, y hagan lo que él les pide, es decir, sepárense del pueblo pagano que está alrededor de ustedes, y de esas mujeres.
+§11 Confiesen pues, sus pecados al SEÑOR, Dios de sus padres, y hagan lo que él les pide, es decir, sepárense del pueblo pagano que está alrededor de ustedes, y de esas mujeres.
 
 §12 Todos dijeron: Haremos lo que tú has dicho. 
 §13 Pero esto no puede hacerse en uno o dos días, porque somos muchos los que hemos cometido este pecado. Está lloviendo tanto que no podremos permanecer en la intemperie mucho rato. 

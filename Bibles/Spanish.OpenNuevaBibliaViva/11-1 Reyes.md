@@ -20,7 +20,7 @@
 §15 Entonces Betsabé entró al dormitorio del rey. David era muy anciano, razón por la cual lo cuidaba Abisag la sunamita. 
 §16 Betsabé se inclinó delante del rey, quien le preguntó: ¿Qué quieres?
 
-§17 Ella le respondió: Señor mío, usted me prometió por el [Señor]{.smallcaps} su Dios que mi hijo Salomón sería el próximo rey, y que se sentaría en su trono. 
+§17 Ella le respondió: Señor mío, usted me prometió por el SEÑOR su Dios que mi hijo Salomón sería el próximo rey, y que se sentaría en su trono. 
 §18 Pero ahora me entero de que Adonías es el nuevo rey, y usted ni siquiera lo sabe. 
 §19 Él ha celebrado su coronación sacrificando bueyes, becerros y muchas ovejas, y ha invitado a todos los hijos del rey, y también al sacerdote Abiatar y al general Joab. Pero no invitó a Salomón, que ha sido un servidor muy fiel a usted. 
 §20 Y ahora, señor mío, rey mío, todo Israel espera saber su decisión, pues todos quieren que les diga quién va a reinar después de usted. 
@@ -34,17 +34,17 @@
 §27 ¿Ha sido hecho esto con su consentimiento? Porque usted no le ha dicho a este siervo suyo a cuál de sus hijos ha elegido para que lo suceda en el trono.
 
 ## David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata
-§28 Llamen a Betsabé —dijo David. Entonces ella volvió a entrar y se paró delante del rey. §29 Y el rey declaró: Juro por el [Señor]{.smallcaps}, quien vive y me ha rescatado de todo peligro, 
-§30 que tu hijo Salomón será el nuevo rey que se sentará en mi trono, tal como te lo prometí antes en el nombre del [Señor]{.smallcaps}, Dios de Israel.
+§28 Llamen a Betsabé —dijo David. Entonces ella volvió a entrar y se paró delante del rey. §29 Y el rey declaró: Juro por el SEÑOR, quien vive y me ha rescatado de todo peligro, 
+§30 que tu hijo Salomón será el nuevo rey que se sentará en mi trono, tal como te lo prometí antes en el nombre del SEÑOR, Dios de Israel.
 
-§31 Betsabé hizo una profunda reverencia delante de él nuevamente y exclamó: ¡Gracias, señor mío! ¡Quiera el [Señor]{.smallcaps} que el rey viva para siempre!
+§31 Betsabé hizo una profunda reverencia delante de él nuevamente y exclamó: ¡Gracias, señor mío! ¡Quiera el SEÑOR que el rey viva para siempre!
 
 §32 Llamen al sacerdote Sadoc, al profeta Natán y a Benaías hijo de Joyadá —ordenó el rey. §33 Cuando ellos estuvieron presentes, les dijo: Lleven a Salomón y a los funcionarios de la corte a Guijón. Salomón cabalgará en mi propia mula, 
 §34 y el sacerdote Sadoc y el profeta Natán lo ungirán allí como rey de Israel. Luego hagan sonar las trompetas y aclamen: “¡Viva el rey Salomón!”. 
 §35 Cuando ustedes lo traigan de regreso, siéntenlo en mi trono como el nuevo rey. Porque yo lo he designado a él como rey de Israel y Judá.
 
 §36 ¡Amén! Alabado sea Dios —contestó Benaías—. 
-§37 Quiera el [Señor]{.smallcaps} estar con Salomón como ha estado con usted, y quiera Dios que el reino de Salomón sea aún más grande que el del rey.
+§37 Quiera el SEÑOR estar con Salomón como ha estado con usted, y quiera Dios que el reino de Salomón sea aún más grande que el del rey.
 
 ## La unción solemne de Salomón; Efecto del mensaje en cuestión en los reunidos en la comida del sacrificio
 §38 Entonces el sacerdote Sadoc, el profeta Natán, Benaías y la guardia personal de David llevaron a Salomón a Guijón, cabalgando sobre la mula de David. 
@@ -58,7 +58,7 @@
 §43 Nuestro señor, el rey David, ha proclamado como rey a Salomón —gritó Jonatán—. 
 §44-45 El rey lo envió a Guijón con el sacerdote Sadoc, el profeta Natán y Benaías, protegido por la misma guardia personal del rey. Salomón cabalgaba en la mula del rey. Sadoc y Natán lo han ungido como nuevo rey. Acaban de regresar, y toda la ciudad está celebrando y regocijándose por el hecho. A eso se debe todo este alboroto. 
 §46-47 Salomón está sentado en el trono, y todo el pueblo está felicitando al rey David y diciéndole: “¡Que Dios te bendiga aún más a través de Salomón, de lo que te ha bendecido personalmente! ¡Que Dios haga el reino de Salomón aún más grande que el del rey!”. Y David se inclinó en su cama 
-§48 y exclamó: “¡Bendito sea el [Señor]{.smallcaps}, Dios de Israel, que ha elegido a uno de mis hijos para sentarse en mi trono, mientras aún estoy vivo para verlo!”.
+§48 y exclamó: “¡Bendito sea el SEÑOR, Dios de Israel, que ha elegido a uno de mis hijos para sentarse en mi trono, mientras aún estoy vivo para verlo!”.
 
 §49-50 Entonces Adonías y sus invitados se levantaron y huyeron aterrorizados. Sentían temor de perder la vida. Adonías entró corriendo en el santuario y se agarró de los cuernos del altar.
 
@@ -74,7 +74,7 @@
 §1 A medida que se acercaba el tiempo de su muerte, el rey David hizo estos encargos a su hijo Salomón: 
 §2 «Yo voy a donde cada hombre, que pisa la tierra, debe ir algún día. Confío en que serás un sucesor poderoso y digno. 
 §3 Obedece las leyes de Dios y sigue todos sus caminos; guarda cada uno de los mandamientos escritos en la ley de Moisés, para que prosperes en todo lo que hagas y en todo lo que emprendas. 
-§4 Si haces esto, el [Señor]{.smallcaps} cumplirá la promesa que me dio, que si mi hijo y sus descendientes observaban sus caminos y le eran fieles, uno de ellos sería siempre rey sobre Israel, y mi dinastía jamás tendría fin.
+§4 Si haces esto, el SEÑOR cumplirá la promesa que me dio, que si mi hijo y sus descendientes observaban sus caminos y le eran fieles, uno de ellos sería siempre rey sobre Israel, y mi dinastía jamás tendría fin.
 
 §5 »Escucha mis instrucciones. Tú sabes que Joab hijo de Sarvia mató a mis dos generales, a Abner hijo de Ner y a Amasá hijo de Jéter. Él hizo que pareciera un acto de guerra, pero fue hecho en tiempo de paz. Al hacer eso, no sólo se manchó él de sangre, sino que también me hizo a mí culpable. 
 §6 Tú eres un hombre sabio y sabrás qué hacer. Te aconsejo que no le permitas vivir mucho tiempo, y que no dejes que muera en paz. 
@@ -93,7 +93,7 @@
 
 §14 En realidad, he venido a pedirte un favor. ¿De qué se trata? —preguntó ella.
 
-§15 Todo iba bien para mí —dijo—, y el reino era mío; todos esperaban que yo fuera el nuevo rey. Pero los papeles cambiaron, y todo pasó a manos de mi hermano, porque de esa manera lo quería el [Señor]{.smallcaps}. 
+§15 Todo iba bien para mí —dijo—, y el reino era mío; todos esperaban que yo fuera el nuevo rey. Pero los papeles cambiaron, y todo pasó a manos de mi hermano, porque de esa manera lo quería el SEÑOR. 
 §16 Pero ahora tengo que pedirte un pequeño favor; te suplico que no me lo niegues. ¿De que se trata? —preguntó ella.
 
 §17 Él respondió: Habla al rey Salomón en favor mío, porque yo sé que él hará cualquier cosa que le pidas, y dile que me dé por esposa a Abisag la sunamita.
@@ -107,7 +107,7 @@
 §22 ¿Te das cuenta de lo que pides? —dijo él—. Si yo le diera a Abisag, también le estaría dando el reino. Él es mi hermano mayor, y cuenta con el apoyo del sacerdote Abiatar y de Joab hijo de Sarvia. §23-24 Entonces el rey Salomón hizo un gran juramento: «¡Que Dios me mate si Adonías no muere este mismo día, por haber hecho estos planes contra mí! ¡Lo juro por el Dios vivo, que me ha dado el trono de mi padre y este reino que él me prometió!». §25 Salomón ordenó a Benaías hijo de Joyadá que fuera y matara a Adonías. Y Benaías cumplió la orden del rey.
 
 ## El sacerdote Abiatar depuesto y desterrado
-§26 En cuanto al sacerdote Abiatar, el rey le dijo: «Regresa a tu hogar en Anatot. También deberías morir, pero no lo haré ahora. Tú transportaste el cofre del [Señor]{.smallcaps} durante el reinado de mi padre, y sufriste con él todas las persecuciones». §27 Así que Salomón obligó a Abiatar a renunciar a su puesto de sacerdote del [Señor]{.smallcaps}. De esa manera se cumplió lo establecido por el [Señor]{.smallcaps} en Siló acerca de los descendientes de Elí.
+§26 En cuanto al sacerdote Abiatar, el rey le dijo: «Regresa a tu hogar en Anatot. También deberías morir, pero no lo haré ahora. Tú transportaste el cofre del SEÑOR durante el reinado de mi padre, y sufriste con él todas las persecuciones». §27 Así que Salomón obligó a Abiatar a renunciar a su puesto de sacerdote del SEÑOR. De esa manera se cumplió lo establecido por el SEÑOR en Siló acerca de los descendientes de Elí.
 
 ## Joab ejecutado
 §28 Cuando Joab se enteró de la muerte de Adonías, corrió al santuario en busca de refugio y se aferró a los cuernos del altar. Joab había apoyado la revuelta de Adonías, aunque no la de Absalón. 
@@ -116,8 +116,8 @@
 §30 Benaías entró en el Santuario y le dijo a Joab: El rey te ordena que salgas. No saldré —dijo Joab—. ¡Aquí moriré! Entonces Benaías volvió a consultar al rey.
 
 §31 ¡Haz lo que él dice! —respondió el rey—. Ve y mátalo ahí mismo, y sepúltalo. De este modo, tanto yo como la casa de mi padre quedaremos libres de culpa por los asesinatos que, sin ninguna razón, él cometió. 
-§32 Entonces el [Señor]{.smallcaps} lo tendrá a él por responsable personal del asesinato de dos hombres que eran mejores que él. Porque mi padre no tuvo parte en la muerte del general Abner, jefe del ejército de Israel, ni en la del general Amasá, jefe del ejército de Judá. 
-§33 Que Joab y sus descendientes por siempre lleven la culpa de estos crímenes, y quiera el [Señor]{.smallcaps} declarar inocentes de estas muertes a David y a sus descendientes.
+§32 Entonces el SEÑOR lo tendrá a él por responsable personal del asesinato de dos hombres que eran mejores que él. Porque mi padre no tuvo parte en la muerte del general Abner, jefe del ejército de Israel, ni en la del general Amasá, jefe del ejército de Judá. 
+§33 Que Joab y sus descendientes por siempre lleven la culpa de estos crímenes, y quiera el SEÑOR declarar inocentes de estas muertes a David y a sus descendientes.
 
 §34 Benaías regresó, pues, al santuario y mató a Joab. Y este fue sepultado junto a su casa, en el desierto. §35 Entonces el rey designó a Benaías como jefe del ejército, y a Sadoc como sacerdote, en lugar de Abiatar.
 
@@ -130,18 +130,18 @@
 
 §42 lo mandó a llamar y le preguntó: ¿No te ordené, en el nombre de Dios, que permanecieras en Jerusalén, o morirías? Tú respondiste: “Muy bien, haré como tú dices”. 
 §43 Entonces, ¿por qué no has respetado el acuerdo a que llegamos? ¿Por qué no obedeciste mi orden? 
-§44 Y, ¿qué de aquellos males que le causaste a mi padre, el rey David? ¡Que el [Señor]{.smallcaps} te castigue por tu maldad, 
+§44 Y, ¿qué de aquellos males que le causaste a mi padre, el rey David? ¡Que el SEÑOR te castigue por tu maldad, 
 §45 mientras que a mí me dé sus ricas bendiciones, y que en este trono se siente siempre un descendiente de David! §46 Entonces, a una orden del rey, Benaías agarró a Simí, lo sacó y lo mató. De este modo el reino se afirmó en manos de Salomón. 
 
 # 3 
 ## El matrimonio de Salomón con una princesa egipcia; su ofrenda inaugural y su sueño en Gabaón
-§1 Salomón emparentó con el faraón, rey de Egipto, tomando por mujer a su hija. Y la llevó a Jerusalén para que viviera en la ciudad de David hasta que él pudiera terminar la edificación de su palacio, del templo del [Señor]{.smallcaps} y del muro alrededor de la ciudad. §2 En aquel tiempo, el pueblo de Israel ofrecía sus sacrificios y ofrendas en altares sobre las colinas, porque el templo del [Señor]{.smallcaps} aún no había sido edificado. §3 A pesar de que Salomón amaba al [Señor]{.smallcaps} y obedecía todas las instrucciones de su padre David, seguía acudiendo a los pequeños santuarios, que estaban en las colinas, a ofrecer sacrificios y quemar incienso.
+§1 Salomón emparentó con el faraón, rey de Egipto, tomando por mujer a su hija. Y la llevó a Jerusalén para que viviera en la ciudad de David hasta que él pudiera terminar la edificación de su palacio, del templo del SEÑOR y del muro alrededor de la ciudad. §2 En aquel tiempo, el pueblo de Israel ofrecía sus sacrificios y ofrendas en altares sobre las colinas, porque el templo del SEÑOR aún no había sido edificado. §3 A pesar de que Salomón amaba al SEÑOR y obedecía todas las instrucciones de su padre David, seguía acudiendo a los pequeños santuarios, que estaban en las colinas, a ofrecer sacrificios y quemar incienso.
 
 ## El sacrificio de Salomón y la aparición de Dios en Gabaón
 §4 El más famoso de estos altares sobre una colina era el que estaba en Gabaón, y el rey fue allí y ofreció mil holocaustos. 
-§5 Esa noche, el [Señor]{.smallcaps} se le apareció en un sueño, y le dijo: Pídeme lo que quieras, que yo te lo daré.
+§5 Esa noche, el SEÑOR se le apareció en un sueño, y le dijo: Pídeme lo que quieras, que yo te lo daré.
 
-§6 Salomón le respondió: Fuiste muy misericordioso con mi padre David, porque él era honesto, veraz y fiel a ti, y obedecía tus mandamientos. Y has continuado mostrándole tu misericordia, al haberle dado un hijo que se sentara en su trono. §7 »[Señor]{.smallcaps}, Dios mío, ahora tú me has hecho rey en lugar de David, mi padre, pero soy como un niño que no conoce el camino que ha de seguir. 
+§6 Salomón le respondió: Fuiste muy misericordioso con mi padre David, porque él era honesto, veraz y fiel a ti, y obedecía tus mandamientos. Y has continuado mostrándole tu misericordia, al haberle dado un hijo que se sentara en su trono. §7 »SEÑOR, Dios mío, ahora tú me has hecho rey en lugar de David, mi padre, pero soy como un niño que no conoce el camino que ha de seguir. 
 §8 Y aquí estoy entre tu pueblo escogido, un pueblo tan numeroso que es imposible contarlo. 
 §9 Dame sabiduría, para poder gobernar bien a tu pueblo y para tener un buen discernimiento de lo que es bueno o es malo. Porque, ¿quién con su propia capacidad puede cargar con una responsabilidad tan grande?
 
@@ -151,7 +151,7 @@
 §13 Y también te daré lo que no has pedido, esto es, riquezas y honor. Nadie en el mundo será tan rico y famoso como lo serás tú por el resto de tu vida. 
 §14 Y, si te mantienes en mi voluntad y obedeces mis mandamientos, como lo hizo tu padre David, entonces te permitiré vivir muchos años.
 
-§15 Entonces Salomón despertó y comprendió que había tenido una visión en sueños. Regresó a Jerusalén y entró en el santuario. Y mientras estaba delante del cofre del pacto del [Señor]{.smallcaps}, ofreció holocaustos y ofrendas de paz. Luego invitó a todos sus siervos a un gran banquete.
+§15 Entonces Salomón despertó y comprendió que había tenido una visión en sueños. Regresó a Jerusalén y entró en el santuario. Y mientras estaba delante del cofre del pacto del SEÑOR, ofreció holocaustos y ofrendas de paz. Luego invitó a todos sus siervos a un gran banquete.
 
 ## El sabio juicio de Salomón
 §16 Poco después, dos prostitutas vinieron ante el rey a pedirle que pusiera fin a una disputa que había entre ellas. §17-18 Señor —comenzó a hablar una de ellas—, nosotras dos vivimos en la misma casa. Yo tuve un hijo, estando esta mujer conmigo. A los tres días, ella también tuvo un hijo. 
@@ -198,17 +198,17 @@
 §1 El rey Hiram, de Tiro, siempre había sido un gran admirador de David, de modo que cuando supo que el rey Salomón, hijo de David, reinaba en Israel, envió embajadores para felicitarlo y desearle un buen reinado.
 
 ## Mensaje de Salomón y petición a Hiram
-§2-3 Salomón aprovechó la ocasión y le envió este mensaje a Hiram: «Tú sabes que mi padre no pudo construir un templo en el que se pudiera adorar al [Señor]{.smallcaps} su Dios, debido a las numerosas guerras que tuvo que librar. Siempre estuvo esperando el momento en que el [Señor]{.smallcaps} le permitiera vencer a todos sus enemigos. 
-§4 Y ahora, el [Señor]{.smallcaps} mi Dios ha dado paz a Israel en todo lugar; no tengo enemigos ni quien me quiera hacer daño. 
-§5 Por eso, pienso edificar un templo para el [Señor]{.smallcaps} mi Dios, en conformidad a la promesa que le hizo a mi padre de que yo lo edificaría. Porque el [Señor]{.smallcaps} le dijo: “Tu hijo, a quien pondré en tu lugar en el trono, me edificará un templo”. §6 »Ahora te ruego que me ayudes en este proyecto. Envía tus hombres a las montañas del Líbano para que preparen madera de cedro para mí. Yo enviaré hombres para que trabajen junto con ellos, y pagaré a tus hombres lo que tú indiques; porque, como tú sabes, no hay en Israel quien sepa cortar la madera como lo hacen los sidonios».
+§2-3 Salomón aprovechó la ocasión y le envió este mensaje a Hiram: «Tú sabes que mi padre no pudo construir un templo en el que se pudiera adorar al SEÑOR su Dios, debido a las numerosas guerras que tuvo que librar. Siempre estuvo esperando el momento en que el SEÑOR le permitiera vencer a todos sus enemigos. 
+§4 Y ahora, el SEÑOR mi Dios ha dado paz a Israel en todo lugar; no tengo enemigos ni quien me quiera hacer daño. 
+§5 Por eso, pienso edificar un templo para el SEÑOR mi Dios, en conformidad a la promesa que le hizo a mi padre de que yo lo edificaría. Porque el SEÑOR le dijo: “Tu hijo, a quien pondré en tu lugar en el trono, me edificará un templo”. §6 »Ahora te ruego que me ayudes en este proyecto. Envía tus hombres a las montañas del Líbano para que preparen madera de cedro para mí. Yo enviaré hombres para que trabajen junto con ellos, y pagaré a tus hombres lo que tú indiques; porque, como tú sabes, no hay en Israel quien sepa cortar la madera como lo hacen los sidonios».
 
 ## La respuesta y la promesa de Hiram
-§7 Cuando Hiram recibió el mensaje de Salomón, se sintió muy complacido, y dijo: «Alabado sea el [Señor]{.smallcaps}, por haberle dado a David un hijo sabio para que sea rey de la gran nación de Israel». §8 Entonces envió su respuesta a Salomón: «He recibido tu mensaje, y haré lo que me has pedido acerca de la madera. Puedo proporcionarte madera de cedro y de pino. 
+§7 Cuando Hiram recibió el mensaje de Salomón, se sintió muy complacido, y dijo: «Alabado sea el SEÑOR, por haberle dado a David un hijo sabio para que sea rey de la gran nación de Israel». §8 Entonces envió su respuesta a Salomón: «He recibido tu mensaje, y haré lo que me has pedido acerca de la madera. Puedo proporcionarte madera de cedro y de pino. 
 §9 Mis hombres llevarán los troncos hasta el mar y con ellos formarán balsas. Las haremos navegar a lo largo de la costa hasta el lugar en donde tú la necesites; entonces desarmaremos las balsas y te entregaremos la madera. Tú puedes pagarme con alimento para mi casa».
 
 §10 Entonces Hiram proporcionó a Salomón toda la madera de cedro y de pino que él quiso. 
 §11 Por su parte, Salomón le envió en pago anual veinte mil cargas de trigo para su familia y veinte mil medidas de aceite de oliva. 
-§12 El [Señor]{.smallcaps}, pues, dio a Salomón gran sabiduría como le había prometido. Hiram y Salomón hicieron un pacto formal de paz.
+§12 El SEÑOR, pues, dio a Salomón gran sabiduría como le había prometido. Hiram y Salomón hicieron un pacto formal de paz.
 
 ## Los obreros de Salomón y la obra preparatoria final para la construcción del templo
 §13 Entonces Salomón reclutó a treinta mil trabajadores de todo Israel, 
@@ -220,8 +220,8 @@
 
 # 6 
 ## Construcción del templo y palacios reales
-§1 En el mes de zif, es decir, el segundo mes del cuarto año del reinado de Salomón se comenzó la edificación del templo del [Señor]{.smallcaps}. (Habían transcurrido cuatrocientos ochenta años desde que el pueblo de Israel había salido de la esclavitud en Egipto). 
-§2 El templo del [Señor]{.smallcaps} tenía veintisiete metros de largo, nueve de ancho, y trece y medio de alto. 
+§1 En el mes de zif, es decir, el segundo mes del cuarto año del reinado de Salomón se comenzó la edificación del templo del SEÑOR. (Habían transcurrido cuatrocientos ochenta años desde que el pueblo de Israel había salido de la esclavitud en Egipto). 
+§2 El templo del SEÑOR tenía veintisiete metros de largo, nueve de ancho, y trece y medio de alto. 
 §3 A lo largo del frente había un pórtico de nueve metros de largo, y cuatro metros y medio de ancho. 
 §4 Llevaba ventanas estrechas en todo su contorno. §5 A lo largo de los muros, a ambos costados del templo, se construyeron salas anexas. 
 §6 Estas salas tenían tres pisos de alto, siendo el piso bajo de dos metros con veinticinco centímetros de ancho; el segundo piso medía dos metros con setenta centímetros de ancho, y el piso superior era de tres metros con quince centímetros de ancho. Las medidas de la parte exterior del templo habían sido reducidas, para que las vigas que sostenían las salas no descansaran sobre las paredes. §7 Las piedras usadas en la construcción del templo eran completamente labradas en la cantera, de modo que toda la estructura fue edificada sin que se oyera sonido de martillo, de hacha o de otra herramienta en el lugar de la edificación. §8 La entrada a la sala contigua del templo estaba en el costado derecho de la misma, y por medio de escaleras en forma de caracol se podía subir al segundo piso; un segundo tramo de escaleras servía para subir hasta el tercer piso. 
@@ -229,16 +229,16 @@
 §10 Como ya se ha dicho, había un anexo a cada lado del edificio, unido a las paredes del templo por medio de vigas de cedro. Cada piso del anexo tenía dos metros con veinticinco centímetros de alto.
 
 ## Una promesa de Dios a Salomón
-§11-12 Entonces el [Señor]{.smallcaps} envió este mensaje a Salomón: «Si haces lo que yo te diga, y sigues todos mis mandamientos e instrucciones, cumpliré lo que le prometí a David, tu padre. 
+§11-12 Entonces el SEÑOR envió este mensaje a Salomón: «Si haces lo que yo te diga, y sigues todos mis mandamientos e instrucciones, cumpliré lo que le prometí a David, tu padre. 
 §13 Viviré en medio del pueblo de Israel y jamás lo abandonaré».
 
 ## El interior del templo
 §14 Finalmente, el templo quedó construido. 
 §15 Todo el interior, desde el piso hasta el techo, fue recubierto con cedro, y los pisos fueron hechos de tablas de pino. 
 §16 El Lugar Santísimo, que estaba al fondo del templo, y medía nueve metros, también fue recubierto de madera de cedro, desde el piso hasta el techo. 
-§17 La parte que estaba frente al Lugar Santísimo era el Lugar Santo, y medía dieciocho metros de largo. §18 El templo estaba cubierta de cedro por dentro, y la madera estaba tallada con diseños de flores abiertas y en botón, de modo que no se veía ni una sola piedra. §19 El cofre del pacto del [Señor]{.smallcaps} estaba en la sala interior, es decir, en el Lugar Santísimo. 
+§17 La parte que estaba frente al Lugar Santísimo era el Lugar Santo, y medía dieciocho metros de largo. §18 El templo estaba cubierta de cedro por dentro, y la madera estaba tallada con diseños de flores abiertas y en botón, de modo que no se veía ni una sola piedra. §19 El cofre del pacto del SEÑOR estaba en la sala interior, es decir, en el Lugar Santísimo. 
 §20 Este santuario interior tenía nueve metros de largo, nueve de ancho y nueve de alto. Sus muros y el techo estaban recubiertos con oro puro. El altar de madera de cedro, que estaba frente al Lugar Santísimo, también fue recubierto de oro. 
-§21-22 Salomón hizo recubrir de oro puro el interior del resto del templo del [Señor]{.smallcaps}, incluyendo el altar de cedro. E hizo cadenas de oro para proteger la entrada al Lugar Santísimo. §23-28 Dentro del santuario interior, Salomón colocó dos querubines de madera de olivo, cada uno de cuatro metros y medio de alto. Fueron colocados de modo que sus alas extendidas llegaban de pared a pared y se tocaban entre sí al centro de la sala; cada ala tenía dos metros y veinticinco centímetros, de modo que cada querubín medía cuatro metros y medio de ala a ala. Los dos eran idénticos en todas sus dimensiones, y cada uno fue recubierto de oro.
+§21-22 Salomón hizo recubrir de oro puro el interior del resto del templo del SEÑOR, incluyendo el altar de cedro. E hizo cadenas de oro para proteger la entrada al Lugar Santísimo. §23-28 Dentro del santuario interior, Salomón colocó dos querubines de madera de olivo, cada uno de cuatro metros y medio de alto. Fueron colocados de modo que sus alas extendidas llegaban de pared a pared y se tocaban entre sí al centro de la sala; cada ala tenía dos metros y veinticinco centímetros, de modo que cada querubín medía cuatro metros y medio de ala a ala. Los dos eran idénticos en todas sus dimensiones, y cada uno fue recubierto de oro.
 
 ## La decoración del santuario
 §29 En todas las paredes del templo fueron talladas figuras de querubines, palmeras y flores abiertas, y el piso de ambas salas fue cubierto de oro.
@@ -251,7 +251,7 @@
 §35 Estas puertas fueron talladas con querubines, palmeras y flores abiertas, y fueron cuidadosamente recubiertas con oro. §36 El muro del patio interior tenía tres hileras de piedra labrada y una hilera de vigas de cedro.
 
 ## Tiempo de construcción
-§37 Los cimientos del templo del [Señor]{.smallcaps} se echaron en el mes de zif, en el cuarto año del reinado de Salomón, 
+§37 Los cimientos del templo del SEÑOR se echaron en el mes de zif, en el cuarto año del reinado de Salomón, 
 §38 y todo el edificio se terminó de construir, conforme a los planos, en el mes de bul, que es el mes octavo, del año undécimo de su reinado. Tardaron, pues, siete años en edificarlo. 
 
 # 7 
@@ -268,7 +268,7 @@
 §9 Estos edificios fueron construidos por completo con costosas y enormes piedras cortadas a medida. 
 §10 Las piedras de los cimientos medían entre tres metros y medio, y cuatro metros y medio. Todas esas piedras eran costosas y de buena calidad. 
 §11 Las grandes piedras de las paredes también fueron cortadas a la medida; y en la parte superior llevaban vigas de cedro. 
-§12 El gran atrio tenía tres hileras de piedra labrada en sus paredes, en cuya parte superior pusieron vigas de cedro, de la misma manera que en el atrio interior del templo del [Señor]{.smallcaps} y en el pórtico de la casa real.
+§12 El gran atrio tenía tres hileras de piedra labrada en sus paredes, en cuya parte superior pusieron vigas de cedro, de la misma manera que en el atrio interior del templo del SEÑOR y en el pórtico de la casa real.
 
 ## Información sobre el artista Hiram de Tiro
 §13 El rey Salomón entonces hizo traer de Tiro a un hombre llamado Hiram, quien era un artesano muy capacitado para trabajos en bronce. 
@@ -293,45 +293,45 @@
 §39 Cinco de estos lavamanos fueron colocados a la izquierda, y cinco a la derecha de la sala. La fuente de bronce estaba en la esquina sudeste, en el costado derecho de la sala.
 
 ## Otras herramientas de sacrificio de minerales; resumen general
-§40 Hiram hizo además, las calderas, tenazas y cuencos que eran necesarios, y al fin completó la obra del templo del [Señor]{.smallcaps}, que le había sido asignada por el rey Salomón. §41-46 Esta es una lista de las cosas que él hizo: Dos columnas; un capitel para la parte superior de cada columna; las redes que cubrían las bases de los capiteles de cada columna; cuatrocientas granadas dispuestas en dos hileras sobre la red, para cubrir las bases de los dos capiteles; diez bases movibles, cada una con un lavamanos; una gran fuente y doce bueyes para sostenerla; calderos, paletas y cuencos. Todo esto fue hecho de bronce pulido, y los fundieron en las llanuras del río Jordán, entre Sucot y Saretán. 
+§40 Hiram hizo además, las calderas, tenazas y cuencos que eran necesarios, y al fin completó la obra del templo del SEÑOR, que le había sido asignada por el rey Salomón. §41-46 Esta es una lista de las cosas que él hizo: Dos columnas; un capitel para la parte superior de cada columna; las redes que cubrían las bases de los capiteles de cada columna; cuatrocientas granadas dispuestas en dos hileras sobre la red, para cubrir las bases de los dos capiteles; diez bases movibles, cada una con un lavamanos; una gran fuente y doce bueyes para sostenerla; calderos, paletas y cuencos. Todo esto fue hecho de bronce pulido, y los fundieron en las llanuras del río Jordán, entre Sucot y Saretán. 
 §47 Salomón no hizo pesar los utensilios de bronce hechos por Hiram, pues eran muchísimos.
 
 ## Los instrumentos de oro del templo; Graduación
-§48 Todos los utensilios y enseres usados en el templo del [Señor]{.smallcaps} fueron hechos de oro macizo. Esto incluía el altar, la mesa de los panes de la proposición, 
+§48 Todos los utensilios y enseres usados en el templo del SEÑOR fueron hechos de oro macizo. Esto incluía el altar, la mesa de los panes de la proposición, 
 §49 los candelabros (cinco a la derecha y cinco a la izquierda frente al Lugar Santísimo), las flores, las lámparas, las tenazas, 
 §50 los cántaros, las despabiladeras, las tazas, las cucharillas, los incensarios, los quiciales de las puertas del Lugar Santísimo, y de la entrada principal del templo. Todo esto fue hecho de oro macizo.
 
-§51 Cuando finalmente se acabó la construcción del templo del [Señor]{.smallcaps}, Salomón llevó a la tesorería del templo del [Señor]{.smallcaps} el oro, la plata y todos los utensilios que David, su padre, había dedicado para ese propósito. 
+§51 Cuando finalmente se acabó la construcción del templo del SEÑOR, Salomón llevó a la tesorería del templo del SEÑOR el oro, la plata y todos los utensilios que David, su padre, había dedicado para ese propósito. 
 
 # 8 
 ## Traslado del arca al templo
-§1 Luego Salomón convocó en Jerusalén a todos los ancianos de Israel, los jefes de las tribus y clanes para que presenciaran el acto del traslado del cofre del pacto del [Señor]{.smallcaps} desde el santuario en Sion, la ciudad de David. 
+§1 Luego Salomón convocó en Jerusalén a todos los ancianos de Israel, los jefes de las tribus y clanes para que presenciaran el acto del traslado del cofre del pacto del SEÑOR desde el santuario en Sion, la ciudad de David. 
 §2 Esta celebración ocurrió en la fiesta de las Enramadas, en el mes de etanim, que es el mes séptimo. 
 §3-4 Durante la festividad, los sacerdotes, en presencia de todos los ancianos de Israel, llevaron el cofre, junto con todos los utensilios sagrados que anteriormente habían estado en el santuario. 
 §5 El rey Salomón y toda la gente se reunieron ante el cofre y sacrificaron una cantidad incontable de ovejas y bueyes. §6 Entonces los sacerdotes llevaron el cofre y lo introdujeron en el santuario interior del templo, es decir, en el Lugar Santísimo, y lo colocaron debajo de las alas de los querubines. 
 §7 Los querubines habían sido construidos de tal manera que sus alas se extendían por sobre el punto en que se colocaría el cofre; así que ahora sus alas cubrían el cofre y las varas que servían para trasladarlo. 
 §8 Las varas eran tan largas que sus puntas podían verse desde el Lugar Santo, que se hallaba frente al Lugar Santísimo, pero no se podían ver desde fuera. Y ahí están hasta hoy. 
-§9 Nada había en el cofre en aquel tiempo, salvo las dos tablas de piedra que Moisés había colocado allí en el monte Horeb, cuando el [Señor]{.smallcaps} hizo su pacto con el pueblo de Israel después que salieron de Egipto.
+§9 Nada había en el cofre en aquel tiempo, salvo las dos tablas de piedra que Moisés había colocado allí en el monte Horeb, cuando el SEÑOR hizo su pacto con el pueblo de Israel después que salieron de Egipto.
 
 ## La aparición de la gloria de Dios
-§10 Y cuando los sacerdotes salieron del Lugar Santo, una nube brillante llenó el templo del [Señor]{.smallcaps}. 
-§11 Debido a la nube, los sacerdotes no pudieron quedarse para celebrar el culto, pues la gloria del [Señor]{.smallcaps} llenaba todo el templo.
+§10 Y cuando los sacerdotes salieron del Lugar Santo, una nube brillante llenó el templo del SEÑOR. 
+§11 Debido a la nube, los sacerdotes no pudieron quedarse para celebrar el culto, pues la gloria del SEÑOR llenaba todo el templo.
 
-§12-13 Entonces el rey Salomón oró diciendo: «[Señor]{.smallcaps}, tú dijiste que vivirías en la oscuridad más densa; pero, [Señor]{.smallcaps}, yo te he edificado esta hermosa casa, para que vivas en ella para siempre». §14 Entonces el rey se dio vuelta y, mirando al pueblo que estaba parado delante de él, lo bendijo, diciendo:
+§12-13 Entonces el rey Salomón oró diciendo: «SEÑOR, tú dijiste que vivirías en la oscuridad más densa; pero, SEÑOR, yo te he edificado esta hermosa casa, para que vivas en ella para siempre». §14 Entonces el rey se dio vuelta y, mirando al pueblo que estaba parado delante de él, lo bendijo, diciendo:
 
 ## Discurso de ordenación y consagración de Salomón al pueblo
-§15 «Bendito sea el [Señor]{.smallcaps}, Dios de Israel, que ha cumplido hoy lo que prometió a mi padre David. 
+§15 «Bendito sea el SEÑOR, Dios de Israel, que ha cumplido hoy lo que prometió a mi padre David. 
 §16 Porque le dijo: “Cuando saqué a mi pueblo de Egipto, no escogí ninguna ciudad de las tribus de Israel para que allí se me construyera una casa, pero elegí a un hombre para que gobernara a mi pueblo”.
 
-§17 Este hombre fue mi padre David. Él quería edificar una casa para el [Señor]{.smallcaps}, Dios de Israel, 
-§18 pero el [Señor]{.smallcaps} no se lo permitió. El [Señor]{.smallcaps} le dijo: “Me complace que quieras construirme una casa, pero 
+§17 Este hombre fue mi padre David. Él quería edificar una casa para el SEÑOR, Dios de Israel, 
+§18 pero el SEÑOR no se lo permitió. El SEÑOR le dijo: “Me complace que quieras construirme una casa, pero 
 §19 no serás tú quien lo haga, sino tu hijo”. 
-§20 Y ahora el [Señor]{.smallcaps} ha cumplido su palabra, porque he sucedido a mi padre como rey de Israel, y ya he edificado el templo del [Señor]{.smallcaps}, Dios de Israel. 
-§21 He preparado un lugar allí para el cofre que contiene el pacto hecho por el [Señor]{.smallcaps} con nuestros padres, cuando los sacó de Egipto».
+§20 Y ahora el SEÑOR ha cumplido su palabra, porque he sucedido a mi padre como rey de Israel, y ya he edificado el templo del SEÑOR, Dios de Israel. 
+§21 He preparado un lugar allí para el cofre que contiene el pacto hecho por el SEÑOR con nuestros padres, cuando los sacó de Egipto».
 
 ## Oración de consagración de Salomón
-§22-23 Mientras todo el pueblo observaba, Salomón se paró delante del altar del [Señor]{.smallcaps} con las manos extendidas hacia el cielo y dijo: «[Señor]{.smallcaps}, Dios de Israel, no hay Dios como tú en el cielo ni en la tierra, porque tú eres amoroso y misericordioso, y guardas las promesas hechas a tu pueblo, si hace tu voluntad. 
-§24 Hoy tú has cumplido la promesa hecha a mi padre David, que era tu siervo. §25 »Ahora, [Señor]{.smallcaps}, Dios de Israel, cumple la otra promesa hecha a él, cuando le dijiste: “Si tus descendientes andan en todos mis caminos y hacen mi voluntad, jamás dejará de sentarse uno de ellos en el trono de Israel”.
+§22-23 Mientras todo el pueblo observaba, Salomón se paró delante del altar del SEÑOR con las manos extendidas hacia el cielo y dijo: «SEÑOR, Dios de Israel, no hay Dios como tú en el cielo ni en la tierra, porque tú eres amoroso y misericordioso, y guardas las promesas hechas a tu pueblo, si hace tu voluntad. 
+§24 Hoy tú has cumplido la promesa hecha a mi padre David, que era tu siervo. §25 »Ahora, SEÑOR, Dios de Israel, cumple la otra promesa hecha a él, cuando le dijiste: “Si tus descendientes andan en todos mis caminos y hacen mi voluntad, jamás dejará de sentarse uno de ellos en el trono de Israel”.
 
 §26 Sí, Dios de Israel, cumple esta promesa también. §27 »Pero, ¿es posible que Dios pueda vivir en la tierra? Si los cielos, los cielos de los cielos, no te pueden contener, mucho menos este templo que yo he edificado. 
 §28 Sin embargo, Dios mío, has oído y contestado mi petición. 
@@ -358,43 +358,43 @@
 §48 si ellos realmente se vuelven hacia ti, y oran hacia esta tierra que tú has dado a sus padres, y hacia esta ciudad de Jerusalén que tú has escogido, y hacia este templo que yo edifiqué a tu nombre, 
 §49 escucha sus oraciones y ruegos desde los cielos donde habitas, y acude en su ayuda. 
 §50 Perdona a tu pueblo todas las malas acciones que realicen, y haz que sus captores tengan misericordia de ellos; 
-§51 porque son tu pueblo, la herencia especial que sacaste del horno de Egipto. §52 »Que tus ojos estén abiertos y tus oídos atentos a las oraciones que ellos hagan. [Señor]{.smallcaps}, escucha y responde siempre que ellos clamen a ti, 
+§51 porque son tu pueblo, la herencia especial que sacaste del horno de Egipto. §52 »Que tus ojos estén abiertos y tus oídos atentos a las oraciones que ellos hagan. SEÑOR, escucha y responde siempre que ellos clamen a ti, 
 §53 porque cuando tú sacaste a nuestros padres de la tierra de Egipto, dijiste a tu siervo Moisés que habías escogido a Israel, de entre todas las naciones de la tierra, para que fuera tu pueblo especial».
 
 ## Palabras finales de advertencia y bendición de Salomón
-§54-55 Salomón había estado arrodillado, con las manos extendidas hacia los cielos. Cuando terminó de orar, se levantó delante del altar del [Señor]{.smallcaps}, y pronunció esta bendición sobre todo el pueblo de Israel: 
-§56 «Bendito sea el [Señor]{.smallcaps}, que ha cumplido su promesa y ha dado reposo a su pueblo Israel; ni una palabra ha dejado de cumplir de todas las maravillosas promesas dadas por su siervo Moisés. 
-§57 Que el [Señor]{.smallcaps} nuestro Dios esté con nosotros, como estuvo con nuestros padres; que jamás nos abandone. 
+§54-55 Salomón había estado arrodillado, con las manos extendidas hacia los cielos. Cuando terminó de orar, se levantó delante del altar del SEÑOR, y pronunció esta bendición sobre todo el pueblo de Israel: 
+§56 «Bendito sea el SEÑOR, que ha cumplido su promesa y ha dado reposo a su pueblo Israel; ni una palabra ha dejado de cumplir de todas las maravillosas promesas dadas por su siervo Moisés. 
+§57 Que el SEÑOR nuestro Dios esté con nosotros, como estuvo con nuestros padres; que jamás nos abandone. 
 §58 Que él nos dé el deseo de hacer su voluntad en todo y de obedecer todos los mandamientos e instrucciones que dio a nuestros antepasados. 
 §59 Y que estas palabras de mi oración estén continuamente delante de él, día y noche, para que nos ayude a mí y a todo Israel, de acuerdo con nuestras necesidades diarias. 
-§60 Que el pueblo de toda la tierra sepa que el [Señor]{.smallcaps} es Dios, y que no hay otro Dios.
+§60 Que el pueblo de toda la tierra sepa que el SEÑOR es Dios, y que no hay otro Dios.
 
-§61 Y ustedes, pueblo mío, vivan vidas buenas y perfectas delante del [Señor]{.smallcaps} nuestro Dios. Obedezcan siempre su ley y sus mandamientos, de la forma que hoy lo están haciendo».
+§61 Y ustedes, pueblo mío, vivan vidas buenas y perfectas delante del SEÑOR nuestro Dios. Obedezcan siempre su ley y sus mandamientos, de la forma que hoy lo están haciendo».
 
 ## Las fiestas se concluyen con una gran fiesta de sacrificios
-§62-63 Entonces el rey y todo el pueblo dedicaron el templo del [Señor]{.smallcaps}, ofreciendo sacrificios de paz delante del [Señor]{.smallcaps}. En total ofrecieron veintidós mil bueyes y ciento veinte mil ovejas. 
-§64 Como una medida provisoria, para los holocaustos, para las ofrendas de grano, y para la grasa de las ofrendas de paz, el rey santificó el atrio que está frente a el templo del [Señor]{.smallcaps}, porque el altar de bronce era demasiado pequeño para todo lo que había que sacrificar.
+§62-63 Entonces el rey y todo el pueblo dedicaron el templo del SEÑOR, ofreciendo sacrificios de paz delante del SEÑOR. En total ofrecieron veintidós mil bueyes y ciento veinte mil ovejas. 
+§64 Como una medida provisoria, para los holocaustos, para las ofrendas de grano, y para la grasa de las ofrendas de paz, el rey santificó el atrio que está frente a el templo del SEÑOR, porque el altar de bronce era demasiado pequeño para todo lo que había que sacrificar.
 
 §65 La celebración duró inicialmente siete días, pero luego la extendieron por otros siete días, así que fueron catorce días de fiesta. Fueron muchos los israelitas que se reunieron, pues de todas partes, desde Lebó Jamat hasta el río de Egipto, acudieron a la fiesta. 
-§66 Después Salomón despidió al pueblo. Todos bendijeron al rey Salomón y regresaron felices a sus casas, por la misericordia que el [Señor]{.smallcaps} había tenido con su siervo David y con su pueblo Israel. 
+§66 Después Salomón despidió al pueblo. Todos bendijeron al rey Salomón y regresaron felices a sus casas, por la misericordia que el SEÑOR había tenido con su siervo David y con su pueblo Israel. 
 
 # 9 
 ## La reaparición de Dios y la respuesta a la oración de Salomón
-§1 Cuando Salomón terminó de edificar el templo del [Señor]{.smallcaps}, la casa del rey y todos los edificios que se propuso construir, 
-§2-3 se le apareció el [Señor]{.smallcaps} por segunda vez (la primera vez fue en Gabaón), y le dijo: «He oído tu oración. Y he santificado el templo que has edificado, y he puesto mi nombre en él para siempre. Continuamente velaré sobre él y me gozaré. §4 »Y si tú vives en honestidad y verdad, como tu padre David, obedeciéndome siempre, 
+§1 Cuando Salomón terminó de edificar el templo del SEÑOR, la casa del rey y todos los edificios que se propuso construir, 
+§2-3 se le apareció el SEÑOR por segunda vez (la primera vez fue en Gabaón), y le dijo: «He oído tu oración. Y he santificado el templo que has edificado, y he puesto mi nombre en él para siempre. Continuamente velaré sobre él y me gozaré. §4 »Y si tú vives en honestidad y verdad, como tu padre David, obedeciéndome siempre, 
 §5 haré que tus descendientes sean reyes de Israel para siempre, tal como prometí a David, tu padre, cuando le dije: “Uno de tus hijos será siempre rey sobre el trono de Israel”. §6 »Sin embargo, si tú o tus hijos se apartan de mí y adoran a dioses extraños, y no obedecen mis leyes, 
 §7 yo arrancaré al pueblo de Israel de esta tierra que les he dado. Los arrancaré de este templo que he santificado para mi nombre y los echaré fuera de mi vista; e Israel será el centro de las burlas de las naciones, ejemplo y proverbio de un desastre repentino. 
-§8 Este templo se transformará en un montón de ruinas, y todo el que pase quedará asombrado y se burlará preguntando: “¿Por qué el [Señor]{.smallcaps} ha hecho esto a esta tierra y a este templo?”. 
-§9 Y la respuesta será: “Porque el pueblo de Israel abandonó al [Señor]{.smallcaps} su Dios, que los sacó de la tierra de Egipto, y adoraron a otros dioses, en lugar de adorarlo a él. Por esta razón el [Señor]{.smallcaps} ha traído todo este mal sobre ellos”».
+§8 Este templo se transformará en un montón de ruinas, y todo el que pase quedará asombrado y se burlará preguntando: “¿Por qué el SEÑOR ha hecho esto a esta tierra y a este templo?”. 
+§9 Y la respuesta será: “Porque el pueblo de Israel abandonó al SEÑOR su Dios, que los sacó de la tierra de Egipto, y adoraron a otros dioses, en lugar de adorarlo a él. Por esta razón el SEÑOR ha traído todo este mal sobre ellos”».
 
 ## Asignación de tierras a Hiram a cambio
-§10 Al final de los veinte años que tardó la construcción del templo del [Señor]{.smallcaps} y su propia casa, 
+§10 Al final de los veinte años que tardó la construcción del templo del SEÑOR y su propia casa, 
 §11-12 Salomón le dio veinte ciudades de la tierra de Galilea al rey Hiram, de Tiro, a manera de pago por el cedro, el pino y el oro que le había provisto para las construcciones. Hiram vino de Tiro para ver las ciudades, pero no le gustaron. 
 §13 Así que le reprochó a Salomón: «¿Qué clase de trato es este, hermano mío? ¡Esas ciudades que me has dado no valen nada!». A esa región, Hiram le puso el nombre de Cabul (desierto), y así se conoce hasta hoy. 
 §14 Hiram le había enviado a Salomón tres mil novecientos sesenta kilos de oro.
 
 ## De los trabajadores de Salomón, fortificaciones, ciudades de almacenamiento, sacrificios regulares, etc.
-§15 Salomón había establecido como trabajo obligatorio la edificación del templo del [Señor]{.smallcaps}, de su propia casa, del terraplén, del muro de Jerusalén, así como la reconstrucción de las ciudades de Jazor, Meguido y Guézer. 
+§15 Salomón había establecido como trabajo obligatorio la edificación del templo del SEÑOR, de su propia casa, del terraplén, del muro de Jerusalén, así como la reconstrucción de las ciudades de Jazor, Meguido y Guézer. 
 §16 Guézer fue la ciudad que el rey de Egipto conquistó e incendió, dando muerte a los cananeos que allí vivían. Más tarde, cuando su hija se casó con Salomón, se la dio como regalo de bodas. 
 §17-18 Por eso Salomón reedificó Guézer, junto con Bet Jorón la de abajo, Balat y Tadmor, que está en el desierto. 
 §19 También edificó ciudades para almacenar alimentos, ciudades en las que guardaba sus carros de guerra, ciudades que sirvieron de habitación para sus jinetes y conductores de carros, y ciudades diversas cerca de Jerusalén, en la montaña del Líbano y en todo lugar de su dominio. §20-21 Salomón implantó el trabajo obligatorio para los que sobrevivieron de las naciones conquistadas: los amorreos, los hititas, los ferezeos, los heveos y los jebuseos. Como el pueblo de Israel no había podido expulsarlos por completo en el tiempo que invadieron la tierra y la conquistaron, ellos continuaron viviendo allí como esclavos hasta este día. 
@@ -403,7 +403,7 @@
 
 §24 El rey Salomón trajo a la hija del faraón de la Ciudad de David, sector viejo de Jerusalén, a las nuevas habitaciones que había edificado para él. Luego edificó el terraplén.
 
-§25 Después que se terminó de construir el templo del [Señor]{.smallcaps}, Salomón ofrecía holocaustos y sacrificio de paz tres veces al año en el altar que había edificado al [Señor]{.smallcaps}. También ofrecía el incienso en él.
+§25 Después que se terminó de construir el templo del SEÑOR, Salomón ofrecía holocaustos y sacrificio de paz tres veces al año en el altar que había edificado al SEÑOR. También ofrecía el incienso en él.
 
 ## Construcción y envío de la flota de Salomón
 §26 El rey Salomón mandó a construir una flota de barcos en Ezión Guéber, cerca de Elat, en la región de Edom, a orillas del Mar Rojo. §27-28 El rey Hiram le proporcionó navegantes experimentados para que acompañaran a las tripulaciones de Salomón. Fueron a Ofir, de donde regresaron con unos catorce mil kilos de oro para el rey Salomón. 
@@ -412,15 +412,15 @@
 ## Visita de la Reina de Saba
 §1 Cuando la reina de Sabá oyó acerca de la forma maravillosa en que Dios había bendecido a Salomón con sabiduría, decidió ir a probarlo con algunas preguntas difíciles. 
 §2 Llegó a Jerusalén con una larga caravana de camellos cargados de especias, oro y joyas. Al ver a Salomón, le hizo todas las preguntas que había preparado. 
-§3 Salomón le respondió todas las preguntas, por más difíciles que fueran, porque el [Señor]{.smallcaps} le daba las respuestas correctas en cada caso. 
+§3 Salomón le respondió todas las preguntas, por más difíciles que fueran, porque el SEÑOR le daba las respuestas correctas en cada caso. 
 §4 Pronto comprendió ella que todo lo que había oído acerca de la gran sabiduría de Salomón era cierto. También vio el hermoso palacio que él había edificado. 
-§5 Y cuando vio los deliciosos manjares sobre su mesa, el gran número de servidores y criados que estaban vestidos con uniformes espléndidos, los coperos, y los muchos sacrificios que ofrecía al [Señor]{.smallcaps}, quedó completamente maravillada. §6 Entonces le dijo a Salomón: «Todo lo que he oído en mi país acerca de tu sabiduría y de las cosas maravillosas que estás haciendo, son verdaderas. 
+§5 Y cuando vio los deliciosos manjares sobre su mesa, el gran número de servidores y criados que estaban vestidos con uniformes espléndidos, los coperos, y los muchos sacrificios que ofrecía al SEÑOR, quedó completamente maravillada. §6 Entonces le dijo a Salomón: «Todo lo que he oído en mi país acerca de tu sabiduría y de las cosas maravillosas que estás haciendo, son verdaderas. 
 §7 Yo no lo creí hasta que vine, pero ahora lo he visto por mí misma. Ahora me doy cuenta de que lo que se me había dicho no era ni la mitad. Tu sabiduría y tu prosperidad superan todo lo que conozco. 
 §8 Tu pueblo es feliz y tus criados están contentos, pero ¿cómo podría ser de otra manera?, pues ellos están aquí día tras día escuchando tu sabiduría. 
-§9 ¡Bendito sea el [Señor]{.smallcaps} tu Dios que te escogió y te puso en el trono de Israel! ¡Cuánto amor le tiene el [Señor]{.smallcaps} a Israel, que le ha dado un rey como tú! Y tú le das a tu pueblo un gobierno justo y bueno». §10 Entonces entregó al rey un presente: tres mil novecientos sesenta kilos de oro, además de grandes cantidades de especias y piedras preciosas; en realidad, fue el presente más grande de especias que el rey Salomón recibió.
+§9 ¡Bendito sea el SEÑOR tu Dios que te escogió y te puso en el trono de Israel! ¡Cuánto amor le tiene el SEÑOR a Israel, que le ha dado un rey como tú! Y tú le das a tu pueblo un gobierno justo y bueno». §10 Entonces entregó al rey un presente: tres mil novecientos sesenta kilos de oro, además de grandes cantidades de especias y piedras preciosas; en realidad, fue el presente más grande de especias que el rey Salomón recibió.
 
 §11 (Cuando los barcos del rey Hiram llegaron de Ofir cargados de oro para Salomón, también llevaban grandes cantidades de sándalo y piedras preciosas. 
-§12 Salomón usó el sándalo para hacer columnas para el templo del [Señor]{.smallcaps} y la casa real, y para hacer arpas y liras para el coro. Nunca antes ni después ha habido una provisión similar de maderas preciosas).
+§12 Salomón usó el sándalo para hacer columnas para el templo del SEÑOR y la casa real, y para hacer arpas y liras para el coro. Nunca antes ni después ha habido una provisión similar de maderas preciosas).
 
 §13 A cambio de los regalos que la reina de Sabá le trajo, Salomón le dio todo lo que ella pidió, además de los presentes que él ya tenía para ofrecerle. Entonces ella y sus siervos regresaron a su tierra.
 
@@ -443,15 +443,15 @@
 # 11 
 ## La poligamia y la idolatría de Salomón; La amenaza de dios
 §1 El rey Salomón, además de la princesa egipcia, tuvo muchas mujeres extranjeras: moabitas, amonitas, edomitas, sidonias e hititas. 
-§2 Así que provenían de pueblos de los cuales el [Señor]{.smallcaps} claramente había ordenado a su pueblo: «No se casen con mujeres de esos pueblos, porque ellas los guiarán a adorar a sus dioses falsos». No obstante, Salomón no obedeció. 
-§3 Tuvo setecientas esposas y trescientas concubinas; y ellas hicieron que su corazón se apartara del [Señor]{.smallcaps}, 
-§4 especialmente en su vejez. Fue así como sus mujeres lo llevaron a adorar a sus dioses, en vez de confiar completamente en el [Señor]{.smallcaps}, como David su padre había hecho. 
+§2 Así que provenían de pueblos de los cuales el SEÑOR claramente había ordenado a su pueblo: «No se casen con mujeres de esos pueblos, porque ellas los guiarán a adorar a sus dioses falsos». No obstante, Salomón no obedeció. 
+§3 Tuvo setecientas esposas y trescientas concubinas; y ellas hicieron que su corazón se apartara del SEÑOR, 
+§4 especialmente en su vejez. Fue así como sus mujeres lo llevaron a adorar a sus dioses, en vez de confiar completamente en el SEÑOR, como David su padre había hecho. 
 §5 Salomón adoró a Astarté, la diosa de los sidonios, y a Moloc, el dios abominable de los amonitas. 
-§6 Salomón, pues, hizo claramente lo malo y se negó a seguir al [Señor]{.smallcaps}. Así que no siguió el ejemplo de su padre. 
+§6 Salomón, pues, hizo claramente lo malo y se negó a seguir al SEÑOR. Así que no siguió el ejemplo de su padre. 
 §7 Llegó a edificar un santuario en el monte que está frente a Jerusalén, para Quemós, el depravado dios de Moab, y otro para Moloc, el ídolo abominable de los amonitas. 
-§8 Estas cosas hizo Salomón para sus esposas extranjeras, para que ellas pudieran ofrecer incienso y sacrificios a sus dioses. §9-10 El [Señor]{.smallcaps}, Dios de Israel, se enojó con Salomón, pues aunque se le había aparecido dos veces para advertirle que no debería adorar a otros dioses, Salomón no hizo caso. 
-§11 Por eso, el [Señor]{.smallcaps} le dijo: «Puesto que no has guardado mi pacto y no has obedecido mis leyes, les quitaré el reino a ti y a tu familia, y se lo daré a uno de tus servidores. 
-§12-13 Sin embargo, por amor a tu padre David, no lo haré mientras estés vivo. Le quitaré el reino a tu hijo, y aun así, permitiré que sea rey de una tribu, por amor de David, y por amor de Jerusalén, mi ciudad escogida». §14 El [Señor]{.smallcaps} hizo que Hadad el edomita, que era miembro de la familia real de Edom, se fortaleciera y se convirtiera en enemigo de Salomón.
+§8 Estas cosas hizo Salomón para sus esposas extranjeras, para que ellas pudieran ofrecer incienso y sacrificios a sus dioses. §9-10 El SEÑOR, Dios de Israel, se enojó con Salomón, pues aunque se le había aparecido dos veces para advertirle que no debería adorar a otros dioses, Salomón no hizo caso. 
+§11 Por eso, el SEÑOR le dijo: «Puesto que no has guardado mi pacto y no has obedecido mis leyes, les quitaré el reino a ti y a tu familia, y se lo daré a uno de tus servidores. 
+§12-13 Sin embargo, por amor a tu padre David, no lo haré mientras estés vivo. Le quitaré el reino a tu hijo, y aun así, permitiré que sea rey de una tribu, por amor de David, y por amor de Jerusalén, mi ciudad escogida». §14 El SEÑOR hizo que Hadad el edomita, que era miembro de la familia real de Edom, se fortaleciera y se convirtiera en enemigo de Salomón.
 
 ## Los enemigos externos de Salomón (el edomita Hadad y el sirio Reson)
 §15 Años antes, cuando David derrotó a los edomitas, Joab, que era el jefe del ejército de Israel, fue a Edom para sepultar a sus hombres muertos en batalla, aprovechó la ocasión para dar muerte a casi todos los varones del país. 
@@ -469,7 +469,7 @@
 §26 Otro jefe rebelde fue Jeroboán hijo de Nabat, que pertenecía a la tribu de Efraín y vivía en Seredá. Su madre era Zerúa, una viuda. 
 §27-28 Este es el relato de su rebelión: Salomón estaba edificando el terraplén, para reparar los muros de la Ciudad de David. Jeroboán era muy capaz, y cuando Salomón vio que era muy activo y valeroso, lo encargó de vigilar el trabajo obligatorio de los descendientes de la tribu de José. §29 Un día cuando Jeroboán salía de Jerusalén, el profeta Ahías de Siló (que se había puesto una túnica nueva para la ocasión) lo encontró y lo llamó para conversar con él. Cuando los dos hombres estuvieron solos en el campo, 
 §30 Ahías partió su túnica nueva en doce partes 
-§31 y le dijo a Jeroboán: «Toma diez de estos pedazos, porque el [Señor]{.smallcaps}, Dios de Israel dice: “Partiré el reino de manos de Salomón, y a ti te daré diez tribus. 
+§31 y le dijo a Jeroboán: «Toma diez de estos pedazos, porque el SEÑOR, Dios de Israel dice: “Partiré el reino de manos de Salomón, y a ti te daré diez tribus. 
 §32 Pero le dejaré una tribu^a^ por amor a David mi siervo y por amor a Jerusalén, la que he escogido por sobre todas las otras ciudades de Israel. 
 §33 Porque Salomón me ha abandonado y ha adorado a Astarté, la diosa de los sidonios, a Quemós, el dios de Moab, y a Moloc, el dios de los amonitas. No ha seguido mis caminos y no ha hecho lo que considero justo; no ha guardado mis leyes y mis órdenes en la forma en que su padre David lo hizo. 
 ^a^[**11:32** Judá y Benjamín eran a veces contadas como una sola tribu.]
@@ -505,7 +505,7 @@
 ## Descenso de las diez tribus; Elección de Jeroboam como rey de Israel
 §12 Jeroboán y el pueblo regresaron a los tres días, que fue la fecha que el rey les dio. 
 §13-14 Entonces Roboán les respondió duramente, ignorando el consejo de los ancianos y siguiendo el de los jóvenes. Les dijo: «Si mi padre fue recio, yo seré aún más recio. Si mi padre los azotó con látigos, yo usaré escorpiones». 
-§15 De modo que Roboán no tuvo en cuenta las peticiones del pueblo. Esto estaba de acuerdo con la voluntad del [Señor]{.smallcaps}, y de esta forma se cumplió lo que él le había prometido a Jeroboán por medio de Ahías, el profeta de Siló.
+§15 De modo que Roboán no tuvo en cuenta las peticiones del pueblo. Esto estaba de acuerdo con la voluntad del SEÑOR, y de esta forma se cumplió lo que él le había prometido a Jeroboán por medio de Ahías, el profeta de Siló.
 
 §16-17 Cuando los israelitas comprendieron que el rey hablaba en serio y que se negaba a escucharlos, comenzaron a gritar: «¡No queremos que ningún descendiente de David nos gobierne! ¡No tenemos nada que nos una a David, el hijo de Isaí! ¡Que el hijo de David reine sobre su propia familia! ¡Israelitas, regresemos a nuestras casas!». Así que los israelitas se fueron a sus casas. Pero Roboán continuó siendo rey de los israelitas que vivían en las ciudades de Judá.
 
@@ -517,11 +517,11 @@
 ## Roboam se abstiene de la guerra contra Israel bajo la dirección de Dios
 §21 Cuando el rey Roboán llegó a Jerusalén, convocó a todos los hombres de Judá y de Benjamín que estaban preparados para la guerra, ciento ochenta mil soldados, a fin de obligar al resto de Israel a que lo reconociera como rey. 
 §22 Pero Dios le envió este mensaje por medio de Semaías, el profeta: 
-§23-24 «Diles a Roboán, el hijo de Salomón, rey de Judá, y a todo el pueblo de Judá y de Benjamín que no deben pelear contra sus hermanos, el pueblo de Israel. Diles que se separen y vuelvan a sus casas, porque lo que le ha ocurrido a Roboán es conforme a mi voluntad». Entonces se disolvieron, y todos volvieron a sus casas, tal como el [Señor]{.smallcaps} lo había ordenado. §25 Jeroboán entonces edificó la ciudad de Siquén, en la región montañosa de Efraín, y la convirtió en su capital. Más tarde construyó Peniel.
+§23-24 «Diles a Roboán, el hijo de Salomón, rey de Judá, y a todo el pueblo de Judá y de Benjamín que no deben pelear contra sus hermanos, el pueblo de Israel. Diles que se separen y vuelvan a sus casas, porque lo que le ha ocurrido a Roboán es conforme a mi voluntad». Entonces se disolvieron, y todos volvieron a sus casas, tal como el SEÑOR lo había ordenado. §25 Jeroboán entonces edificó la ciudad de Siquén, en la región montañosa de Efraín, y la convirtió en su capital. Más tarde construyó Peniel.
 
 ## Jeroboam I. Gobierno e idolatría
 §26 Jeroboán pensaba: «Si no pongo cuidado, el pueblo querrá tener a un descendiente de David como rey. 
-§27 Cuando vayan a Jerusalén a ofrecer sacrificios en el templo del [Señor]{.smallcaps}, harán amistad con el rey Roboán; luego me matarán y le pedirán que sea rey en mi lugar».
+§27 Cuando vayan a Jerusalén a ofrecer sacrificios en el templo del SEÑOR, harán amistad con el rey Roboán; luego me matarán y le pedirán que sea rey en mi lugar».
 
 ## La introducción del servicio de toros en Betel y Dan
 §28 Entonces, siguiendo el consejo de sus cortesanos, el rey hizo dos becerros de oro y le dijo al pueblo: «Es demasiado molesto tener que ir a Jerusalén para adorar; de ahora en adelante estos serán sus dioses. Fueron ellos los que los sacaron a ustedes de la cautividad de Egipto». §29 Uno de los becerros fue colocado en Betel, y el otro en Dan. 
@@ -531,16 +531,16 @@
 
 ## Amenaza de un profeta contra el altar de Betel; Desobediencia y muerte de este profeta
 # 13 
-§1 Cuando Jeroboán se acercaba al altar para quemar el incienso al becerro de oro, vino un profeta de Judá, de parte del [Señor]{.smallcaps}, y se le acercó. 
-§2 Luego a una orden del [Señor]{.smallcaps}, el profeta gritó: «¡Altar, altar! El [Señor]{.smallcaps} dice que un niño llamado Josías nacerá de la línea de David, y él sacrificará sobre ti a los sacerdotes de los santuarios de las colinas que han venido aquí a quemar incienso; y los huesos de los hombres serán quemados sobre ti». §3 Entonces, como prueba de que su mensaje era verdadero, les dio una señal ese mismo día. Les dijo: «Este altar se partirá, y las cenizas que hay sobre él serán esparcidas».
+§1 Cuando Jeroboán se acercaba al altar para quemar el incienso al becerro de oro, vino un profeta de Judá, de parte del SEÑOR, y se le acercó. 
+§2 Luego a una orden del SEÑOR, el profeta gritó: «¡Altar, altar! El SEÑOR dice que un niño llamado Josías nacerá de la línea de David, y él sacrificará sobre ti a los sacerdotes de los santuarios de las colinas que han venido aquí a quemar incienso; y los huesos de los hombres serán quemados sobre ti». §3 Entonces, como prueba de que su mensaje era verdadero, les dio una señal ese mismo día. Les dijo: «Este altar se partirá, y las cenizas que hay sobre él serán esparcidas».
 
 §4 El rey se puso furioso con el profeta por haber dicho esto. Entonces, señalando con su brazo al profeta, gritó a sus guardias: «¡Arresten a este hombre!». Pero instantáneamente el brazo del rey quedó paralizado, de modo que no podía bajarlo. 
-§5 En aquel mismo momento apareció una gran grieta en el altar y las cenizas se esparcieron, tal como el profeta había dicho que ocurriría, porque esta era la prueba de que Dios estaba hablando a través de él. §6 ¡Por favor, por favor! —gritaba el rey al profeta—, ruega al [Señor]{.smallcaps} tu Dios que restablezca mi brazo nuevamente. Entonces el profeta oró al [Señor]{.smallcaps}, y el brazo del rey volvió a la normalidad.
+§5 En aquel mismo momento apareció una gran grieta en el altar y las cenizas se esparcieron, tal como el profeta había dicho que ocurriría, porque esta era la prueba de que Dios estaba hablando a través de él. §6 ¡Por favor, por favor! —gritaba el rey al profeta—, ruega al SEÑOR tu Dios que restablezca mi brazo nuevamente. Entonces el profeta oró al SEÑOR, y el brazo del rey volvió a la normalidad.
 
 §7 Entonces el rey le dijo al profeta: Ven a mi casa conmigo, reposa un poco y come algo, pues quiero darte un regalo.
 
 §8 Pero el profeta le respondió: Aun cuando me dieras la mitad de tu palacio, no podría ir contigo; ni tampoco comeré, ni beberé agua en este lugar. 
-§9 Porque el [Señor]{.smallcaps} me ha dado estrictas órdenes de no comer ni beber agua mientras esté aquí, y de no regresar a Judá por el camino que vine. §10 Entonces regresó por otro camino.
+§9 Porque el SEÑOR me ha dado estrictas órdenes de no comer ni beber agua mientras esté aquí, y de no regresar a Judá por el camino que vine. §10 Entonces regresó por otro camino.
 
 ## El proceso en la casa del anciano profeta en Betel
 §11 En Betel vivía un anciano profeta. Y sus hijos fueron a casa y le contaron lo que el profeta de Judá había hecho, y lo que había dicho al rey.
@@ -550,20 +550,20 @@
 
 §15 Entonces el anciano le dijo al profeta: Ven a mi casa y come conmigo.
 
-§16-17 No —respondió—, no puedo; porque no puedo comer ni beber nada en Betel. El [Señor]{.smallcaps} estrictamente me prohibió que lo hiciera; y también me dijo que no regresara a casa por el mismo camino que vine. §18 Pero el anciano le dijo: Yo también soy profeta como tú; y un ángel, por orden del [Señor]{.smallcaps}, me dijo que debía llevarte a casa conmigo y darte alimento y agua. Pero el anciano mentía.
+§16-17 No —respondió—, no puedo; porque no puedo comer ni beber nada en Betel. El SEÑOR estrictamente me prohibió que lo hiciera; y también me dijo que no regresara a casa por el mismo camino que vine. §18 Pero el anciano le dijo: Yo también soy profeta como tú; y un ángel, por orden del SEÑOR, me dijo que debía llevarte a casa conmigo y darte alimento y agua. Pero el anciano mentía.
 
 §19 Entonces regresaron juntos, y el profeta comió y bebió en casa del anciano.
 
 ## La muerte y el entierro del profeta desobediente
-§20 Repentinamente, mientras estaban sentados a la mesa, le llegó un mensaje del [Señor]{.smallcaps} al anciano, 
-§21-22 y le gritó al profeta de Judá: El [Señor]{.smallcaps} dice que por cuanto has sido desobediente a su claro mandato, y has venido aquí, y has comido y bebido agua en el lugar que él te dijo que no lo hicieras, tu cuerpo no será sepultado junto al de tus padres. §23 Y luego de acabar la comida, el anciano ensilló el burro del profeta.
+§20 Repentinamente, mientras estaban sentados a la mesa, le llegó un mensaje del SEÑOR al anciano, 
+§21-22 y le gritó al profeta de Judá: El SEÑOR dice que por cuanto has sido desobediente a su claro mandato, y has venido aquí, y has comido y bebido agua en el lugar que él te dijo que no lo hicieras, tu cuerpo no será sepultado junto al de tus padres. §23 Y luego de acabar la comida, el anciano ensilló el burro del profeta.
 
-§24-25 Y el profeta emprendió la marcha, pero mientras viajaba solo, salió un león y lo mató. Su cuerpo quedó en el camino, y el burro y el león se quedaron parados junto a él. Los que pasaron y vieron el cuerpo tirado en el camino, y el león tranquilamente parado a su lado, fueron y lo contaron en Betel, donde vivía el profeta anciano. §26 Cuando el anciano profeta se enteró de lo que le había ocurrido, exclamó: «¡Es el profeta que desobedeció la orden del [Señor]{.smallcaps}! Por eso, el [Señor]{.smallcaps} cumplió su amenaza e hizo que el león lo matara». §27 Entonces dijo a sus hijos: Ensillen mi burro. Y ellos lo hicieron. §28 El anciano profeta salió, y encontró el cuerpo del profeta tirado en el camino, y el burro y el león estaban aún parados junto a él, porque el león no se había comido el cuerpo ni atacado al burro. 
+§24-25 Y el profeta emprendió la marcha, pero mientras viajaba solo, salió un león y lo mató. Su cuerpo quedó en el camino, y el burro y el león se quedaron parados junto a él. Los que pasaron y vieron el cuerpo tirado en el camino, y el león tranquilamente parado a su lado, fueron y lo contaron en Betel, donde vivía el profeta anciano. §26 Cuando el anciano profeta se enteró de lo que le había ocurrido, exclamó: «¡Es el profeta que desobedeció la orden del SEÑOR! Por eso, el SEÑOR cumplió su amenaza e hizo que el león lo matara». §27 Entonces dijo a sus hijos: Ensillen mi burro. Y ellos lo hicieron. §28 El anciano profeta salió, y encontró el cuerpo del profeta tirado en el camino, y el burro y el león estaban aún parados junto a él, porque el león no se había comido el cuerpo ni atacado al burro. 
 §29 Entonces el profeta puso el cuerpo en el burro, lo llevó de regreso a la ciudad para hacer duelo por él y para sepultarlo. 
 §30 Puso el cuerpo en su propia tumba y exclamó: «¡Ay, hermano mío!».
 
 §31 Después dijo a sus hijos: «Cuando yo muera, sepúltenme en la tumba donde está sepultado el profeta. Pongan mis huesos junto a sus huesos. 
-§32 Porque, sin duda alguna, el mensaje que él dio, en nombre del [Señor]{.smallcaps}, contra el altar de Betel y contra los santuarios de la ciudad de Samaria se cumplirá».
+§32 Porque, sin duda alguna, el mensaje que él dio, en nombre del SEÑOR, contra el altar de Betel y contra los santuarios de la ciudad de Samaria se cumplirá».
 
 ## Jeroboam continúa su actividad pecaminosa
 §33 Pero a pesar de la advertencia del profeta, Jeroboán no se apartó de sus malos caminos. En vez de eso, nombró más sacerdotes de entre la gente del pueblo, para que ofrecieran sacrificios a los ídolos en los santuarios de las colinas. Todo el que quisiera ser sacerdote podía pedirle a Jeroboán que lo nombrara como tal, y él lo hacía. 
@@ -576,36 +576,36 @@
 §3 Llévale un regalo de diez panes, algunas tortas de higo, un cántaro de miel, y pregúntale si el niño vivirá».
 
 §4 Así que la esposa de Jeroboán fue a casa de Ahías, en Siló. Como el profeta era muy anciano, ya no podía ver. 
-§5 Pero el [Señor]{.smallcaps} le dijo que la reina, pretendiendo pasar por otra persona, vendría a preguntarle acerca de su hijo, que estaba muy enfermo. Y el [Señor]{.smallcaps} le comunicó el mensaje que debía darle.
+§5 Pero el SEÑOR le dijo que la reina, pretendiendo pasar por otra persona, vendría a preguntarle acerca de su hijo, que estaba muy enfermo. Y el SEÑOR le comunicó el mensaje que debía darle.
 
 ## Discurso de castigo y amenaza de Ahías contra Jeroboam
 §6 Cuando Ahías oyó que alguien llamaba a la puerta, gritó: «Pasa, esposa de Jeroboán. ¿Por qué pretendes pasar por otra persona? Tengo tristes noticias para ti. 
-§7 Dale a tu esposo este mensaje de parte del [Señor]{.smallcaps}, Dios de Israel: “Tú eras un miembro común del pueblo y te elegí para hacerte rey de Israel. 
+§7 Dale a tu esposo este mensaje de parte del SEÑOR, Dios de Israel: “Tú eras un miembro común del pueblo y te elegí para hacerte rey de Israel. 
 §8 Le quité el reino a la familia de David y te lo entregué, pero tú no has obedecido mis mandamientos, de la manera que David lo hizo. El deseo de su corazón siempre era obedecerme y hacer lo que yo quería que él hiciera. 
 §9 Pero tú solo has hecho más mal que todos los otros reyes que te han precedido; has fabricado ídolos de otros dioses. Lo que has conseguido con tus becerros de oro es que mi ira suba de punto. Y puesto que te has negado a reconocerme, 
 §10 yo traeré el desastre sobre tu casa y acabaré con todos los varones de tu familia, tanto esclavos como libres. Barreré a tu familia, de la misma forma en que de un establo se barre el estiércol, sin que quede rastro alguno. 
-§11 Prometo que los de tu familia que mueran en la ciudad serán comidos por los perros, y los que mueran en los campos serán comidos por los buitres. Te lo digo yo, el [Señor]{.smallcaps}”». §12 Entonces Ahías le dijo a la esposa de Jeroboán: «Vete a casa. Cuando entres en la ciudad morirá tu hijo. 
-§13 Todo Israel lo llorará y lo sepultarán, pero es el único miembro de la familia de Jeroboán que será sepultado, ya que él es el único de la familia que tendrá un final tranquilo. §14 »Y el [Señor]{.smallcaps} levantará un rey en Israel que destruirá a la familia de Jeroboán. ¡Y será muy pronto! 
-§15 Entonces el [Señor]{.smallcaps} sacudirá a Israel de la manera que una caña es sacudida por el agua en el arroyo; desarraigará al pueblo de Israel de esta buena tierra de sus padres, y esparcirá a sus habitantes más allá del río Éufrates, porque ellos, por adorar ídolos, han hecho enojar al [Señor]{.smallcaps}. 
+§11 Prometo que los de tu familia que mueran en la ciudad serán comidos por los perros, y los que mueran en los campos serán comidos por los buitres. Te lo digo yo, el SEÑOR”». §12 Entonces Ahías le dijo a la esposa de Jeroboán: «Vete a casa. Cuando entres en la ciudad morirá tu hijo. 
+§13 Todo Israel lo llorará y lo sepultarán, pero es el único miembro de la familia de Jeroboán que será sepultado, ya que él es el único de la familia que tendrá un final tranquilo. §14 »Y el SEÑOR levantará un rey en Israel que destruirá a la familia de Jeroboán. ¡Y será muy pronto! 
+§15 Entonces el SEÑOR sacudirá a Israel de la manera que una caña es sacudida por el agua en el arroyo; desarraigará al pueblo de Israel de esta buena tierra de sus padres, y esparcirá a sus habitantes más allá del río Éufrates, porque ellos, por adorar ídolos, han hecho enojar al SEÑOR. 
 §16 Él abandonará a Israel, porque Jeroboán pecó contra él, e hizo pecar a todo Israel juntamente con él».
 
 ## Cumplimiento de la profecía; Palabra final
 §17 Entonces la esposa de Jeroboán regresó a Tirsá. Tan pronto ella entró a su casa, el niño murió. 
-§18 Y hubo llanto por él a través de toda la tierra, tal como el [Señor]{.smallcaps} lo había anunciado por medio del profeta Ahías.
+§18 Y hubo llanto por él a través de toda la tierra, tal como el SEÑOR lo había anunciado por medio del profeta Ahías.
 
 §19 El resto de las actividades de Jeroboán, sus guerras y los demás sucesos de su reinado, están anotados en el libro de los reyes de Israel. 
 §20 Jeroboán reinó veintidós años, y cuando murió, su hijo Nadab subió al trono.
 
 ## La idolatría de Judá bajo Roboam
-§21 Mientras tanto, Roboán hijo de Salomón reinaba en Judá. Tenía cuarenta y un años cuando comenzó a reinar, y estuvo en el trono diecisiete años en Jerusalén, ciudad que entre todas las ciudades de Israel el [Señor]{.smallcaps} había escogido para habitar en ella. (La madre de Roboán era Noamá, una mujer amonita). §22 Durante su reinado, el pueblo de Judá, como el de Israel, hizo lo malo. Su maldad fue peor que la de sus antepasados, razón por la cual el [Señor]{.smallcaps} se enojó con ellos. 
+§21 Mientras tanto, Roboán hijo de Salomón reinaba en Judá. Tenía cuarenta y un años cuando comenzó a reinar, y estuvo en el trono diecisiete años en Jerusalén, ciudad que entre todas las ciudades de Israel el SEÑOR había escogido para habitar en ella. (La madre de Roboán era Noamá, una mujer amonita). §22 Durante su reinado, el pueblo de Judá, como el de Israel, hizo lo malo. Su maldad fue peor que la de sus antepasados, razón por la cual el SEÑOR se enojó con ellos. 
 §23 El pueblo edificó santuarios, altares e ídolos en toda colina y bajo todo árbol frondoso. 
-§24 A través de todo el país los hombres practicaban la prostitución como si fuera un acto de adoración, de modo que el pueblo de Judá llegó a ser tan depravado como aquellas naciones que el [Señor]{.smallcaps} había expulsado del territorio que ahora le pertenecía a Israel.
+§24 A través de todo el país los hombres practicaban la prostitución como si fuera un acto de adoración, de modo que el pueblo de Judá llegó a ser tan depravado como aquellas naciones que el SEÑOR había expulsado del territorio que ahora le pertenecía a Israel.
 
 ## Incursión y saqueo del rey egipcio Sisak; Palabra final
 §25 En el quinto año del reinado de Roboán, el rey Sisac, de Egipto, atacó y conquistó Jerusalén. 
-§26 Saqueó el templo del [Señor]{.smallcaps} y los tesoros de la casa real, y se llevó todo, incluyendo los escudos de oro que Salomón había hecho. 
+§26 Saqueó el templo del SEÑOR y los tesoros de la casa real, y se llevó todo, incluyendo los escudos de oro que Salomón había hecho. 
 §27 Para reemplazarlos, Roboán hizo escudos de bronce, y los puso bajo la custodia de los guardias que cuidaban las puertas. 
-§28 Cuando el rey iba al templo del [Señor]{.smallcaps}, los guardias los portaban y luego los guardaban en la sala de la guardia.
+§28 Cuando el rey iba al templo del SEÑOR, los guardias los portaban y luego los guardaban en la sala de la guardia.
 
 §29 Los demás sucesos del reinado de Roboán están escritos en el libro de los reyes de Judá. 
 §30 Hubo guerra permanente entre Roboán y Jeroboán. 
@@ -616,23 +616,23 @@
 §1 Abías comenzó a reinar sobre Judá, 
 §2 y reinó tres años en Jerusalén. La madre de Abías fue Macá, hija de Abisalón. Cuando comenzó a reinar, ya Jeroboán llevaba dieciocho años reinando sobre Israel. 
 §3 Fue tan pecador como su padre, y su corazón no fue leal a Dios, como sí lo fue el de David. 
-§4 Pero a pesar del pecado de Abías, el [Señor]{.smallcaps} recordó el amor de David y no permitió que se acabara la dinastía de David. Por eso, permitió que Abías tuviera un hijo que se sentara sobre el trono en Jerusalén. 
-§5 Porque David había obedecido al [Señor]{.smallcaps} durante toda su vida, salvo en el asunto de Urías el hitita. §6 Durante el reinado de Abías hubo guerra permanente entre Israel y Judá. 
+§4 Pero a pesar del pecado de Abías, el SEÑOR recordó el amor de David y no permitió que se acabara la dinastía de David. Por eso, permitió que Abías tuviera un hijo que se sentara sobre el trono en Jerusalén. 
+§5 Porque David había obedecido al SEÑOR durante toda su vida, salvo en el asunto de Urías el hitita. §6 Durante el reinado de Abías hubo guerra permanente entre Israel y Judá. 
 §7 El resto de la historia de Abías está escrita en el libro de los reyes de Judá. 
 §8 Cuando murió, fue sepultado en la Ciudad de David, y en su lugar reinó su hijo Asá.
 
 ## La intervención de Asa contra la idolatría
 §9 Asá subió al trono de Judá en Jerusalén, cuando Jeroboán llevaba veinte años reinando sobre Israel, 
-§10 y reinó cuarenta y un años (su abuela fue Macá, la hija de Abisalón). §11 Asá agradó al [Señor]{.smallcaps}, tal como lo había hecho el rey David. 
+§10 y reinó cuarenta y un años (su abuela fue Macá, la hija de Abisalón). §11 Asá agradó al SEÑOR, tal como lo había hecho el rey David. 
 §12 Echó de la tierra a todos los que practicaban la prostitución como si fuera un acto de adoración, y destruyó todos los ídolos que su padre había hecho. 
 §13 Depuso a su abuela Macá, como reina madre, debido a que ella había hecho un ídolo. Asá destruyó y quemó este ídolo en el arroyo de Cedrón. 
-§14 Sin embargo, no quitó los santuarios de las colinas. Pero, aun así, se mantuvo fiel al [Señor]{.smallcaps}. 
-§15 También llevó al templo del [Señor]{.smallcaps} el oro, la plata y demás objetos que él y su padre le habían ofrecido a Dios.
+§14 Sin embargo, no quitó los santuarios de las colinas. Pero, aun así, se mantuvo fiel al SEÑOR. 
+§15 También llevó al templo del SEÑOR el oro, la plata y demás objetos que él y su padre le habían ofrecido a Dios.
 
 ## La guerra de Asa con el rey Baesa de Israel; Palabra final
 §16 Hubo guerra constante entre el rey Asá, de Judá, y el rey Basá, de Israel. 
 §17 El rey Basá construyó la ciudad fortificada de Ramá, en un intento de acabar con todo trato con Jerusalén. 
-§18 Entonces Asá tomó todo el oro y la plata que había en la tesorería del templo del [Señor]{.smallcaps} y en los tesoros de la casa del rey, y se lo dio a sus siervos para que lo llevaran a Damasco, al rey Ben Adad. Este era hijo de Tabrimón y nieto de Hezión. Junto con este presente, Asá le envió el siguiente mensaje a Ben Adad: 
+§18 Entonces Asá tomó todo el oro y la plata que había en la tesorería del templo del SEÑOR y en los tesoros de la casa del rey, y se lo dio a sus siervos para que lo llevaran a Damasco, al rey Ben Adad. Este era hijo de Tabrimón y nieto de Hezión. Junto con este presente, Asá le envió el siguiente mensaje a Ben Adad: 
 §19 «Hagamos alianza de la manera que nuestros padres la hicieron. Te envío un presente de oro y plata. Rompe ahora tu alianza con el rey Basá, de Israel, para que se marche y me deje tranquilo».
 
 §20 Ben Adad estuvo de acuerdo, y envió sus jefes contra algunas de las ciudades de Israel, y conquistó a Iyón, Dan, Abel Betmacá, todo Quinéret, y la región de Neftalí. 
@@ -644,22 +644,22 @@
 §25 Mientras tanto, en Israel, Nadab, el hijo de Jeroboán, era el nuevo rey. Reinó dos años, comenzando en el segundo año del reinado de Asá, de Judá. 
 §26 Pero no fue un buen rey. Al igual que su padre, adoró muchos ídolos y condujo a Israel al pecado. §27 Entonces Basá (el hijo de Ahías, de la tribu de Isacar) levantó una sedición en su contra y lo asesinó, mientras estaba con Israel sitiando la ciudad filistea de Guibetón. 
 §28 Esto ocurrió cuando Asá, rey de Judá, llevaba tres años reinando sobre Judá. Fue así como Basá, después de matar a Nadad, lo sucedió en el trono. 
-§29 Inmediatamente mató a todos los descendientes del rey Jeroboán, de manera de que nadie quedó de la familia real, tal como el [Señor]{.smallcaps} lo había anunciado por medio del profeta Ahías, de Siló. 
-§30 Esto ocurrió porque Jeroboán había hecho enojar al [Señor]{.smallcaps}, Dios de Israel, pecando y conduciendo al resto de Israel al pecado.
+§29 Inmediatamente mató a todos los descendientes del rey Jeroboán, de manera de que nadie quedó de la familia real, tal como el SEÑOR lo había anunciado por medio del profeta Ahías, de Siló. 
+§30 Esto ocurrió porque Jeroboán había hecho enojar al SEÑOR, Dios de Israel, pecando y conduciendo al resto de Israel al pecado.
 
 §31 Los demás detalles del reinado de Basá están escritos en el libro de los reyes de Israel. 
 §32 Hubo guerra permanente entre el rey Asá, de Judá, y el rey Basá, de Israel.
 
 ## Gobierno del Rey Baesa de Israel
 §33 Cuando Asá, rey de Judá, llevaba ya tres años reinando, Basá hijo de Ahías comenzó a reinar sobre todo Israel. Su reinado duró veinticuatro años, y la capital de su reino fue Tirsá. 
-§34 Continuamente desobedeció al [Señor]{.smallcaps}, ya que siguió el mal ejemplo de Jeroboán, e hizo que el pueblo de Israel siguiera el pecado de adorar ídolos. 
+§34 Continuamente desobedeció al SEÑOR, ya que siguió el mal ejemplo de Jeroboán, e hizo que el pueblo de Israel siguiera el pecado de adorar ídolos. 
 
 # 16 
 ## La amenaza de juicio del profeta Jehú contra Baesa
-§1 En aquel tiempo, el profeta Jehú hijo de Jananí le entregó al rey Basá este mensaje de condenación enviado por el [Señor]{.smallcaps}: 
+§1 En aquel tiempo, el profeta Jehú hijo de Jananí le entregó al rey Basá este mensaje de condenación enviado por el SEÑOR: 
 §2 «Yo te levanté desde el polvo para hacerte rey de mi pueblo Israel, pero tú has andado en los malos caminos de Jeroboán. Has hecho pecar a mi pueblo, y estoy airado. 
 §3 Ahora te destruiré a ti junto con tu familia, de la manera que hice con los descendientes de Jeroboán. 
-§4-7 Los de tu familia que mueran en la ciudad serán comidos por los perros, y los que mueran en el campo serán comidos por los buitres». Este mensaje fue enviado a Basá y a su familia debido a que ellos, con sus malas acciones, hicieron que la ira del [Señor]{.smallcaps} se encendiera. Basá fue tan malo como Jeroboán, a pesar de que el [Señor]{.smallcaps} había destruido a los descendientes de este por sus pecados. El resto de la biografía de Basá, sus hechos y sus conquistas, están escritos en el libro de los reyes de Israel. Cuando Basá murió, lo sepultaron en Tirsá, y su hijo Elá reinó en su lugar.
+§4-7 Los de tu familia que mueran en la ciudad serán comidos por los perros, y los que mueran en el campo serán comidos por los buitres». Este mensaje fue enviado a Basá y a su familia debido a que ellos, con sus malas acciones, hicieron que la ira del SEÑOR se encendiera. Basá fue tan malo como Jeroboán, a pesar de que el SEÑOR había destruido a los descendientes de este por sus pecados. El resto de la biografía de Basá, sus hechos y sus conquistas, están escritos en el libro de los reyes de Israel. Cuando Basá murió, lo sepultaron en Tirsá, y su hijo Elá reinó en su lugar.
 
 §8 Cuando Asá llevaba veintiséis años reinando en Judá, Elá hijo de Basá comenzó a reinar en Israel, pero reinó solamente dos años. La capital de su reino fue Tirsá.
 
@@ -668,8 +668,8 @@
 §10 Zimri simplemente entró y lo mató. Esto ocurrió durante el año veintisiete del reinado del rey Asá, de Judá. Entonces Zimri se proclamó nuevo rey de Israel.
 
 §11 Inmediatamente Zimri mató a toda la familia real, sin dejar un solo niño varón. Acabó con los parientes lejanos y con sus amigos. 
-§12 La destrucción de los descendientes de Basá estaba de acuerdo con lo que el [Señor]{.smallcaps} había anunciado por medio del profeta Jehú. 
-§13 La tragedia ocurrió debido a los pecados de Basá y de su hijo Elá, quienes condujeron a Israel a la idolatría, lo que provocó la ira del [Señor]{.smallcaps}. §14 El resto de la historia del reinado de Elá está escrito en el libro de los reyes de Israel.
+§12 La destrucción de los descendientes de Basá estaba de acuerdo con lo que el SEÑOR había anunciado por medio del profeta Jehú. 
+§13 La tragedia ocurrió debido a los pecados de Basá y de su hijo Elá, quienes condujeron a Israel a la idolatría, lo que provocó la ira del SEÑOR. §14 El resto de la historia del reinado de Elá está escrito en el libro de los reyes de Israel.
 
 ## Gobierno del rey Zimri de Israel
 §15-16 Asá llevaba veintisiete años reinando en Judá, cuando Zimri ocupó el trono de Israel. Pero solamente reinó siete días en Tirsá, pues cuando las tropas de Israel, que estaban atacando la ciudad filistea de Guibetón, se enteraron de que Zimri había asesinado al rey, nombraron a Omrí, jefe del ejército, como el nuevo rey. 
@@ -685,7 +685,7 @@
 §23 El rey Asá de Judá llevaba treinta y un años en el trono, cuando Omrí comenzó a reinar sobre Israel. Su reinado duró doce años, seis de ellos en Tirsá. 
 §24 Omrí le compró a un tal Sémer el monte de Samaria por sesenta y siete kilos de plata, y edificó allí una ciudad, a la que llamó Samaria en honor de Sémer. 
 §25 Pero Omrí fue peor que todos los reyes que hubo antes de él; 
-§26 adoró ídolos a la manera de Jeroboán e hizo que Israel cometiera su mismo pecado. Y esto provocó grandemente la ira del [Señor]{.smallcaps}, Dios de Israel. 
+§26 adoró ídolos a la manera de Jeroboán e hizo que Israel cometiera su mismo pecado. Y esto provocó grandemente la ira del SEÑOR, Dios de Israel. 
 §27 El resto de la historia de Omrí está escrita en el libro de los reyes de Israel. §28 Cuando Omrí murió, fue sepultado en Samaria, y reinó en su lugar su hijo Acab.
 
 ## Los pecados del rey Acab de Israel y su esposa Jezabel
@@ -693,53 +693,53 @@
 §30 Pero fue aún más perverso que su padre Omrí, y peor que cualquier otro rey de Israel. 
 §31 Y como si esto no fuera suficiente, se casó con Jezabel, la hija del rey Et Baal de los sidonios, y comenzó a adorar a Baal. 
 §32 Primero edificó en Samaria un templo y un altar para Baal. 
-§33 Luego hizo otros ídolos, como el de la diosa Aserá, y con esto provocó la ira del [Señor]{.smallcaps}, Dios de Israel, más que cualquiera de los demás reyes que Israel había tenido antes de él.
+§33 Luego hizo otros ídolos, como el de la diosa Aserá, y con esto provocó la ira del SEÑOR, Dios de Israel, más que cualquiera de los demás reyes que Israel había tenido antes de él.
 
 ## Reconstrucción de la ciudad de Jericó
-§34 Fue durante su reinado que Jiel, un hombre de Betel reedificó la ciudad de Jericó. Cuando puso los cimientos, murió su hijo mayor Abirán; y cuando la completó y colocó las puertas, murió su hijo menor Segub. Así se cumplió la maldición que el [Señor]{.smallcaps} había lanzado sobre Jericó, por medio de Josué hijo de Nun. 
+§34 Fue durante su reinado que Jiel, un hombre de Betel reedificó la ciudad de Jericó. Cuando puso los cimientos, murió su hijo mayor Abirán; y cuando la completó y colocó las puertas, murió su hijo menor Segub. Así se cumplió la maldición que el SEÑOR había lanzado sobre Jericó, por medio de Josué hijo de Nun. 
 
 # 17 
 ## Elías delante del rey Acab y en el arroyo Krith
-§1 Elías, el profeta de Tisbé de Galaad, le dijo al rey Acab: «Tan cierto como que el [Señor]{.smallcaps}, Dios de Israel, vive, el Dios al cual adoro y sirvo, te digo que no habrá rocío ni lluvia durante varios años en Israel, hasta que yo lo diga».
+§1 Elías, el profeta de Tisbé de Galaad, le dijo al rey Acab: «Tan cierto como que el SEÑOR, Dios de Israel, vive, el Dios al cual adoro y sirvo, te digo que no habrá rocío ni lluvia durante varios años en Israel, hasta que yo lo diga».
 
-§2 El [Señor]{.smallcaps} le dijo a Elías: 
+§2 El SEÑOR le dijo a Elías: 
 §3 «Ve hacia el oriente y escóndete en el arroyo de Querit, al oriente de donde desemboca en el río Jordán. 
-§4 Beberás agua del arroyo y comerás lo que los cuervos te lleven, porque yo les he ordenado que te den de comer». §5 Elías hizo lo que el [Señor]{.smallcaps} le había dicho, y fue y acampó junto al arroyo. 
+§4 Beberás agua del arroyo y comerás lo que los cuervos te lleven, porque yo les he ordenado que te den de comer». §5 Elías hizo lo que el SEÑOR le había dicho, y fue y acampó junto al arroyo. 
 §6 Los cuervos le traían pan y comida cada mañana y cada tarde, y bebía del arroyo.
 
 ## El milagro de Elías con la viuda en Sarepta en Fenicia
 §7 Pero después de un tiempo, el arroyo se secó, porque no llovía en ningún lugar de la tierra.
 
-§8-9 Entonces el [Señor]{.smallcaps} le dijo: «Vete a vivir al pueblo de Sarepta, junto a la ciudad de Sidón. Allí hay una viuda, a la que le he ordenado que te dé comida». §10 Entonces él se fue a Sarepta. Cuando llegó junto a las puertas de la ciudad, vio a una viuda que recogía leña, y le pidió un vaso de agua.
+§8-9 Entonces el SEÑOR le dijo: «Vete a vivir al pueblo de Sarepta, junto a la ciudad de Sidón. Allí hay una viuda, a la que le he ordenado que te dé comida». §10 Entonces él se fue a Sarepta. Cuando llegó junto a las puertas de la ciudad, vio a una viuda que recogía leña, y le pidió un vaso de agua.
 
 §11 Cuando ella iba a buscarlo, él la llamó, y le dijo: Además, tráeme un pedazo de pan.
 
-§12 Pero ella le respondió: La verdad es que no tengo ni un solo pedazo de pan. Lo único que me queda es un puñado de harina y un poco de aceite. Estaba juntando algunas ramas para hacer fuego, para preparar mi última comida, para que luego mi hijo y yo nos muramos de hambre. Esto es tan cierto como que el [Señor]{.smallcaps} tu Dios vive.
+§12 Pero ella le respondió: La verdad es que no tengo ni un solo pedazo de pan. Lo único que me queda es un puñado de harina y un poco de aceite. Estaba juntando algunas ramas para hacer fuego, para preparar mi última comida, para que luego mi hijo y yo nos muramos de hambre. Esto es tan cierto como que el SEÑOR tu Dios vive.
 
 §13 Pero Elías le dijo: No temas. Anda y haz lo que habías pensado hacer; pero antes prepárame un pan con lo que tienes. Luego prepara algo para ti y para tu hijo. 
-§14 Porque el [Señor]{.smallcaps}, Dios de Israel, dice que siempre habrá suficiente harina y aceite en tus depósitos hasta el día en que él envíe la lluvia, y vuelva a haber cosecha.
+§14 Porque el SEÑOR, Dios de Israel, dice que siempre habrá suficiente harina y aceite en tus depósitos hasta el día en que él envíe la lluvia, y vuelva a haber cosecha.
 
 §15 Ella hizo lo que Elías dijo; y los tres siguieron comiendo de la provisión de harina y aceite todo el tiempo que fue necesario. 
-§16 No importaba qué cantidad usara, siempre quedaba suficiente en los depósitos, tal como el [Señor]{.smallcaps} lo había prometido por medio de Elías.
+§16 No importaba qué cantidad usara, siempre quedaba suficiente en los depósitos, tal como el SEÑOR lo había prometido por medio de Elías.
 
 ## La reanimación del hijo de la viuda
 §17 Pero un día se enfermó el hijo de la mujer, y murió. §18 ¡Varón de Dios! —lloró ella—, ¿qué me has hecho? ¿Has venido aquí a castigarme por mis pecados, y a matar a mi hijo?
 
 §19 Dámelo —respondió Elías. Elías tomó el cuerpo del niño y lo llevó al aposento alto, a la pieza de huéspedes donde vivía, y puso al niño en la cama. 
-§20 Luego clamó al [Señor]{.smallcaps}: «[Señor]{.smallcaps} mi Dios, ¿por qué le has mandado la muerte al hijo de esta viuda que me está hospedando?».
+§20 Luego clamó al SEÑOR: «SEÑOR mi Dios, ¿por qué le has mandado la muerte al hijo de esta viuda que me está hospedando?».
 
-§21 Enseguida, se extendió sobre el niño tres veces, y clamó al [Señor]{.smallcaps}: «¡[Señor]{.smallcaps} mi Dios, permite que este niño vuelva a la vida!».
+§21 Enseguida, se extendió sobre el niño tres veces, y clamó al SEÑOR: «¡SEÑOR mi Dios, permite que este niño vuelva a la vida!».
 
-§22 El [Señor]{.smallcaps} oyó la oración de Elías, y el niño volvió a vivir. 
+§22 El SEÑOR oyó la oración de Elías, y el niño volvió a vivir. 
 §23 Entonces Elías lo llevó abajo y se lo entregó a su madre: ¡Mira, tu hijo vive! —le dijo.
 
-§24 Ahora sé ciertamente que tú eres un profeta —le dijo ella— y que todo lo que tú dices viene de parte del [Señor]{.smallcaps}. 
+§24 Ahora sé ciertamente que tú eres un profeta —le dijo ella— y que todo lo que tú dices viene de parte del SEÑOR. 
 
 # 18 
 ## El mandato de Dios a Elías; El encuentro de Obadja con Elijah
-§1 Tres años más tarde, el [Señor]{.smallcaps} le dijo a Elías: «Ve y dile al rey Acab que pronto enviaré lluvia nuevamente».
+§1 Tres años más tarde, el SEÑOR le dijo a Elías: «Ve y dile al rey Acab que pronto enviaré lluvia nuevamente».
 
-§2 Entonces Elías fue a decírselo. Debido a la sequía era mucha el hambre que había en Samaria. §3-4 El hombre que estaba a cargo de la casa de Acab era Abdías, un devoto servidor del [Señor]{.smallcaps}. Una vez, cuando la reina Jezabel trató de matar a todos los profetas del [Señor]{.smallcaps}, Abdías escondió a un centenar de ellos en dos cuevas, cincuenta en cada una, y los alimentó con pan y agua. §5 Aquel mismo día, mientras Elías iba al encuentro del rey Acab, este le había dicho a Abdías: «Debemos recorrer la tierra en busca de arroyos y ríos. Es probable que encontremos pasto para alimentar los caballos y las mulas, porque si no, se van a morir de hambre».
+§2 Entonces Elías fue a decírselo. Debido a la sequía era mucha el hambre que había en Samaria. §3-4 El hombre que estaba a cargo de la casa de Acab era Abdías, un devoto servidor del SEÑOR. Una vez, cuando la reina Jezabel trató de matar a todos los profetas del SEÑOR, Abdías escondió a un centenar de ellos en dos cuevas, cincuenta en cada una, y los alimentó con pan y agua. §5 Aquel mismo día, mientras Elías iba al encuentro del rey Acab, este le había dicho a Abdías: «Debemos recorrer la tierra en busca de arroyos y ríos. Es probable que encontremos pasto para alimentar los caballos y las mulas, porque si no, se van a morir de hambre».
 
 §6 Así que cada uno tomó una dirección opuesta, para ir a recorrer la tierra. 
 §7 Repentinamente, Abdías vio que Elías se le acercaba. Abdías lo reconoció inmediatamente y cayó en tierra delante de él. ¿Es usted, mi señor Elías? —le preguntó.
@@ -749,28 +749,28 @@
 §9 Señor —protestó Abdías—, ¿qué mal he cometido yo, para que usted me envíe a darle ese mensaje a Acab? ¡Eso es entregarme en sus manos para que me mate! 
 §10 Porque, ciertamente, el rey lo ha buscado a usted por todas las naciones y reinos de la región. Cada vez que se le ha dicho: “Elías no está aquí”, el rey Acab ha obligado al rey de esa nación a jurarle que le está diciendo la verdad. 
 §11 Y ahora, usted me dice: “Ve y dile que Elías está aquí”. 
-§12 Pero en cuanto yo me haya ido, el Espíritu del [Señor]{.smallcaps} se lo llevará a usted a quién sabe qué lugar, y cuando Acab venga y no lo encuentre, me matará. Usted bien sabe que yo he sido un verdadero siervo del [Señor]{.smallcaps} toda mi vida. 
-§13 ¿No le han contado que cuando Jezabel estaba tratando de matar a los profetas del [Señor]{.smallcaps}, yo escondí a un centenar de ellos en dos cuevas, y les di pan y agua? 
+§12 Pero en cuanto yo me haya ido, el Espíritu del SEÑOR se lo llevará a usted a quién sabe qué lugar, y cuando Acab venga y no lo encuentre, me matará. Usted bien sabe que yo he sido un verdadero siervo del SEÑOR toda mi vida. 
+§13 ¿No le han contado que cuando Jezabel estaba tratando de matar a los profetas del SEÑOR, yo escondí a un centenar de ellos en dos cuevas, y les di pan y agua? 
 §14 Y ahora usted me dice: “Ve y dile al rey que Elías está aquí”. Señor, si hago eso soy hombre muerto.
 
-§15 Pero Elías le dijo: Te juro por el [Señor]{.smallcaps}, el Dios Todopoderoso, en cuya presencia estoy, que hoy me presentaré ante Acab.
+§15 Pero Elías le dijo: Te juro por el SEÑOR, el Dios Todopoderoso, en cuya presencia estoy, que hoy me presentaré ante Acab.
 
 ## Elías antes que Acab; Llamando a los profetas de los ídolos al monte Carmelo
 §16 Entonces Abdías fue y le dijo a Acab que Elías había llegado; y Acab fue a encontrarse con él.
 
 §17 ¡Así que tú eres el hombre que ha traído todo este desastre sobre Israel! —exclamó Acab, en cuanto lo vio.
 
-§18 Tú eres el que ha traído este desastre —respondió Elías—. Porque tú y tu familia se han negado a obedecer al [Señor]{.smallcaps}, y han adorado a Baal. 
+§18 Tú eres el que ha traído este desastre —respondió Elías—. Porque tú y tu familia se han negado a obedecer al SEÑOR, y han adorado a Baal. 
 §19 Ahora, convoca a todo el pueblo de Israel. Diles que vayan al monte Carmelo, junto con los cuatrocientos cincuenta profetas de Baal y los cuatrocientos profetas de la diosa Aserá, que tienen el apoyo de Jezabel.
 
 §20 Entonces Acab convocó a todo el pueblo y a los profetas en el monte Carmelo.
 
 ## El juicio de Dios en el monte Carmelo; la matanza de los profetas de Baal
-§21 Una vez allí, Elías les dijo: ¿Hasta cuándo estarán ustedes vacilando entre dos opiniones? —le preguntó al pueblo—. ¡Si el [Señor]{.smallcaps} es Dios, síganlo; pero si Baal es Dios, sigan a Baal!
+§21 Una vez allí, Elías les dijo: ¿Hasta cuándo estarán ustedes vacilando entre dos opiniones? —le preguntó al pueblo—. ¡Si el SEÑOR es Dios, síganlo; pero si Baal es Dios, sigan a Baal!
 
-§22 Y añadió: Yo soy el único profeta que queda de los profetas del [Señor]{.smallcaps}, pero Baal tiene cuatrocientos cincuenta profetas. 
-§23 Traigan ahora dos becerros. Los profetas de Baal pueden elegir uno de ellos, cortarlo en pedazos y ponerlo sobre la leña en el altar, pero sin encender fuego bajo la leña; yo prepararé el otro becerro y lo pondré sobre la leña, en el altar del [Señor]{.smallcaps}, y tampoco encenderé fuego debajo. 
-§24 Entonces ustedes oren a su dios, y yo oraré al [Señor]{.smallcaps}. El que responda enviando fuego para encender la leña, ese es el verdadero Dios. Todo el pueblo estuvo de acuerdo en someterse a esta prueba.
+§22 Y añadió: Yo soy el único profeta que queda de los profetas del SEÑOR, pero Baal tiene cuatrocientos cincuenta profetas. 
+§23 Traigan ahora dos becerros. Los profetas de Baal pueden elegir uno de ellos, cortarlo en pedazos y ponerlo sobre la leña en el altar, pero sin encender fuego bajo la leña; yo prepararé el otro becerro y lo pondré sobre la leña, en el altar del SEÑOR, y tampoco encenderé fuego debajo. 
+§24 Entonces ustedes oren a su dios, y yo oraré al SEÑOR. El que responda enviando fuego para encender la leña, ese es el verdadero Dios. Todo el pueblo estuvo de acuerdo en someterse a esta prueba.
 
 §25 Elías se volvió a los profetas de Baal, y les dijo: Empiecen ustedes, pues son la mayoría. Escojan uno de los becerros, prepárenlo, y luego invoquen a su dios; pero no enciendan fuego debajo de la leña.
 
@@ -781,17 +781,17 @@
 §28 Entonces ellos gritaron con más fuerza y, según era su costumbre, comenzaron a cortarse con cuchillos y espadas hasta chorrear sangre. 
 §29 Gritaron toda la tarde hasta la hora del sacrificio, pero no hubo respuesta; no sucedió nada, nadie les prestó atención.
 
-§30 Entonces Elías llamó al pueblo: Acérquense —les dijo. Y todos se acercaron mientras él reparaba el altar del [Señor]{.smallcaps}, que estaba destruido. 
+§30 Entonces Elías llamó al pueblo: Acérquense —les dijo. Y todos se acercaron mientras él reparaba el altar del SEÑOR, que estaba destruido. 
 §31 Tomó doce piedras, una en representación de cada tribu de Israel, 
-§32 y usó las piedras para reedificar el altar del [Señor]{.smallcaps}. Luego cavó una zanja donde cabían unos doce litros de agua. 
+§32 y usó las piedras para reedificar el altar del SEÑOR. Luego cavó una zanja donde cabían unos doce litros de agua. 
 §33 Puso la leña sobre el altar, cortó en pedazos el becerro y puso los trozos sobre la leña. Llenen cuatro cántaros de agua —dijo— y derramen el agua sobre el becerro y la leña. Después que lo hicieron les dijo: §34 Háganlo nuevamente—. Y ellos lo hicieron. Háganlo una vez más —volvió a decirles. Ellos lo hicieron, 
 §35 y el agua corrió alrededor del altar y llenó la zanja que Elías había hecho.
 
 ## La oración de Elías escuchada de Dios; Matanza de los pastores de Baal
-§36 Cuando llegó la hora del acostumbrado sacrificio de la tarde, Elías se dirigió hasta el altar y oró: «[Señor]{.smallcaps}, Dios de Abraham, Isaac e Israel, demuestra que tú eres el Dios de Israel, y que yo soy tu siervo; demuestra que yo he hecho todo esto por orden tuya. 
-§37 [Señor]{.smallcaps}, respóndeme. Respóndeme para que esta gente sepa que tú eres Dios, y que quieres que ellos se vuelvan a ti».
+§36 Cuando llegó la hora del acostumbrado sacrificio de la tarde, Elías se dirigió hasta el altar y oró: «SEÑOR, Dios de Abraham, Isaac e Israel, demuestra que tú eres el Dios de Israel, y que yo soy tu siervo; demuestra que yo he hecho todo esto por orden tuya. 
+§37 SEÑOR, respóndeme. Respóndeme para que esta gente sepa que tú eres Dios, y que quieres que ellos se vuelvan a ti».
 
-§38 Entonces, repentinamente, descendió fuego del cielo y quemó el becerro, la leña, las piedras, el polvo, e hizo que se evaporara el agua que había en la zanja. §39 Y cuando los que estaban allí vieron esto, se inclinaron con sus rostros en tierra, gritando: ¡El [Señor]{.smallcaps} es Dios! ¡El [Señor]{.smallcaps} es Dios!
+§38 Entonces, repentinamente, descendió fuego del cielo y quemó el becerro, la leña, las piedras, el polvo, e hizo que se evaporara el agua que había en la zanja. §39 Y cuando los que estaban allí vieron esto, se inclinaron con sus rostros en tierra, gritando: ¡El SEÑOR es Dios! ¡El SEÑOR es Dios!
 
 §40 Entonces Elías les ordenó: ¡Agarren a todos los profetas de Baal! ¡Que ninguno escape! Ellos los atraparon a todos, y Elías los condujo al arroyo de Quisón, y allí los degolló.
 
@@ -804,7 +804,7 @@
 §44 Finalmente, a la séptima vez, el siervo le dijo: Veo una pequeña nube, como del tamaño de una mano de hombre, que se levanta del mar. Entonces Elías gritó: Corre a decirle a Acab que se suba a su carro y baje de la montaña o será detenido por la lluvia.
 
 §45 Poco después, el cielo se oscureció con nubes, y comenzó a soplar un viento que trajo una terrible tormenta. Acab salió apresuradamente hacia Jezrel. 
-§46 Elías, por su parte, se amarró el manto con el cinturón, y echó a correr hacia Jezrel, y llegó primero que Acab, pues el [Señor]{.smallcaps}, con su poder, fortaleció a Elías para que pudiera correr. 
+§46 Elías, por su parte, se amarró el manto con el cinturón, y echó a correr hacia Jezrel, y llegó primero que Acab, pues el SEÑOR, con su poder, fortaleció a Elías para que pudiera correr. 
 
 # 19 
 ## La amenaza de Jezabel; El desaliento de Elías; su fortalecimiento por un ángel y su viaje a Horeb
@@ -812,27 +812,27 @@
 §2 ella le envió este mensaje a Elías: «¡Te juro por mis dioses, que mañana, a esta misma hora, tú serás hombre muerto! ¡Así como mataste a mis profetas, yo te mataré a ti!».
 
 §3 Elías entonces huyó para salvar su vida. Se fue a Berseba, ciudad de Judá, y dejó a su siervo allí. 
-§4 Luego se internó en el desierto. Después de caminar todo un día, se sentó bajo un arbusto, y sintió deseos de morir. «¡Basta! —le dijo al [Señor]{.smallcaps}—. ¡Quítame la vida, pues no soy mejor que mis antepasados!».
+§4 Luego se internó en el desierto. Después de caminar todo un día, se sentó bajo un arbusto, y sintió deseos de morir. «¡Basta! —le dijo al SEÑOR—. ¡Quítame la vida, pues no soy mejor que mis antepasados!».
 
 §5 Entonces se acostó y se quedó dormido bajo el arbusto. Pero mientras dormía, un ángel lo tocó y le dijo: «Levántate y come».
 
-§6 Él miró y vio que había un pan cocido sobre piedras calientes, y un cántaro de agua. Entonces comió, bebió y se acostó nuevamente. §7 Entonces el ángel del [Señor]{.smallcaps} volvió, lo tocó y le dijo: «Levántate y come más, porque tienes un largo viaje por delante».
+§6 Él miró y vio que había un pan cocido sobre piedras calientes, y un cántaro de agua. Entonces comió, bebió y se acostó nuevamente. §7 Entonces el ángel del SEÑOR volvió, lo tocó y le dijo: «Levántate y come más, porque tienes un largo viaje por delante».
 
 §8 Entonces Elías se levantó, comió y bebió, y recobró suficientes fuerzas para viajar durante cuarenta días y cuarenta noches hasta el monte Horeb, el monte de Dios. 
-§9 Al llegar allí, se metió en una cueva, para pasar la noche. Pero el [Señor]{.smallcaps} le dijo: ¿Qué haces aquí, Elías?
+§9 Al llegar allí, se metió en una cueva, para pasar la noche. Pero el SEÑOR le dijo: ¿Qué haces aquí, Elías?
 
 ## La revelación divina en Horeb
 §10 Él contestó: Siento un ardiente amor por ti, Dios Todopoderoso; me duele ver cómo el pueblo de Israel ha quebrantado el pacto contigo, ha derribado tus altares, ha dado muerte a tus profetas. ¡Sólo yo he quedado, y ahora están tratando de matarme a mí también!
 
-§11 Sal y ponte delante de mí, en la montaña, pues voy a pasar por aquí —le dijo el [Señor]{.smallcaps}. En ese momento, sopló un fuerte viento que azotó las montañas. Era tan terrible que hacía añicos las rocas y partía las montañas, pero el [Señor]{.smallcaps} no estaba en el viento. Después del viento hubo un terremoto, pero el [Señor]{.smallcaps} no estaba en el terremoto.
+§11 Sal y ponte delante de mí, en la montaña, pues voy a pasar por aquí —le dijo el SEÑOR. En ese momento, sopló un fuerte viento que azotó las montañas. Era tan terrible que hacía añicos las rocas y partía las montañas, pero el SEÑOR no estaba en el viento. Después del viento hubo un terremoto, pero el SEÑOR no estaba en el terremoto.
 
-§12 Y después del terremoto hubo fuego, pero el [Señor]{.smallcaps} no estaba en el fuego. Y después del fuego se oyó un susurro suave y apacible. 
+§12 Y después del terremoto hubo fuego, pero el SEÑOR no estaba en el fuego. Y después del fuego se oyó un susurro suave y apacible. 
 §13 Cuando Elías lo oyó, se cubrió el rostro con el manto, salió y estuvo parado a la entrada de la cueva. Y una voz le preguntó: ¿Por qué estás aquí, Elías?
 
 §14 Él respondió nuevamente: Siento un ardiente amor por ti, Dios Todopoderoso; me duele ver cómo el pueblo de Israel ha quebrantado el pacto contigo, ha derribado tus altares y ha dado muerte a tus profetas. ¡Sólo yo he quedado, y ahora están tratando de matarme a mí también!
 
 ## Elías recibe la orden de preparar las herramientas de la venganza divina (Hazael, Jehú, Eliseo)
-§15 El [Señor]{.smallcaps} le dijo: Regresa a Damasco, por el camino del desierto, y cuando llegues unge a Jazael para que sea rey de Siria. 
+§15 El SEÑOR le dijo: Regresa a Damasco, por el camino del desierto, y cuando llegues unge a Jazael para que sea rey de Siria. 
 §16 Luego unge a Jehú hijo de Nimsi, para que sea rey de Israel, y unge a Eliseo hijo de Safat, de Abel Mejolá, para que te reemplace como profeta mío. 
 §17 Quien escape de Jazael, Jehú lo matará, y los que escapen de Jehú, Eliseo los matará. 
 §18 Pero tienes que saber que aún quedan siete mil hombres en Israel que jamás se han inclinado ante Baal ni lo han adorado.
@@ -861,9 +861,9 @@
 §12 La respuesta de Acab la recibieron Ben Adad y los otros reyes mientras estaban bebiendo en su campamento. Inmediatamente Ben Adad ordenó a su tropa: «¡Prepárense para el ataque!». De modo que se prepararon para ir a atacar la ciudad.
 
 ## Las instrucciones de un profeta a Acab; gran victoria de los israelitas sobre Ben-adad
-§13 Entonces vino un profeta a ver al rey Acab, y le dio este mensaje de parte del [Señor]{.smallcaps}: ¿Ves a todos estos enemigos? Hoy los entregaré en tus manos, así no te quedará ninguna duda de que yo soy el [Señor]{.smallcaps}.
+§13 Entonces vino un profeta a ver al rey Acab, y le dio este mensaje de parte del SEÑOR: ¿Ves a todos estos enemigos? Hoy los entregaré en tus manos, así no te quedará ninguna duda de que yo soy el SEÑOR.
 
-§14 Acab respondió: Y, ¿cómo lo hará? Y el profeta respondió: El [Señor]{.smallcaps} dice que lo hará por medio de los siervos de los príncipes de las provincias. ¿Atacaremos nosotros primero? —preguntó Acab. Sí —respondió el profeta.
+§14 Acab respondió: Y, ¿cómo lo hará? Y el profeta respondió: El SEÑOR dice que lo hará por medio de los siervos de los príncipes de las provincias. ¿Atacaremos nosotros primero? —preguntó Acab. Sí —respondió el profeta.
 
 §15 Entonces Acab pasó revista a los siervos de los príncipes de las provincias, que eran doscientos treinta y dos. Luego pasó revista a todo el pueblo, el cual estaba integrado por siete mil hombres. 
 §16 Hacia el mediodía, cuando Ben Adad y los treinta y dos reyes aliados estaban bebiendo y se habían embriagado, salieron los primeros hombres de Acab de la ciudad. 
@@ -883,7 +883,7 @@
 §25 Alista otro ejército similar al que perdiste; danos la misma cantidad de caballos, carros y hombres, y pelearemos contra ellos en las llanuras; no hay sombra de duda de que los derrotaremos». El rey Ben Adad hizo lo que ellos sugerían.
 
 §26 Al año siguiente alistó a los sirios y salió nuevamente contra Israel, esta vez en Afec. 
-§27 El rey Acab, por su parte, conformó su ejército, estableció la línea de aprovisionamiento, y salió a ofrecer batalla; pero los israelitas parecían un par de rebaños de cabritos, en comparación con las fuerzas sirias que llenaban todo el campo. §28 Entonces un profeta se presentó ante el rey de Israel con este mensaje de parte del [Señor]{.smallcaps}: «Por cuanto los sirios han dicho: “El [Señor]{.smallcaps} es un Dios de las montañas y no de las llanuras”, yo te entregaré a todo este pueblo, y ustedes sabrán, sin duda alguna, de que yo soy el [Señor]{.smallcaps}».
+§27 El rey Acab, por su parte, conformó su ejército, estableció la línea de aprovisionamiento, y salió a ofrecer batalla; pero los israelitas parecían un par de rebaños de cabritos, en comparación con las fuerzas sirias que llenaban todo el campo. §28 Entonces un profeta se presentó ante el rey de Israel con este mensaje de parte del SEÑOR: «Por cuanto los sirios han dicho: “El SEÑOR es un Dios de las montañas y no de las llanuras”, yo te entregaré a todo este pueblo, y ustedes sabrán, sin duda alguna, de que yo soy el SEÑOR».
 
 §29 Acamparon uno frente al otro durante siete días, y en el séptimo día se inició la batalla. Los israelitas dieron muerte, en aquel día, a cien mil soldados de infantería siria.
 
@@ -897,9 +897,9 @@
 §34 Ben Adad le dijo: Te devolveré las ciudades que mi padre le quitó al tuyo, para que puedas establecer puestos de comercio en Damasco, como mi padre hizo en Samaria. Acab le contestó: Siendo así, te dejaré en libertad. De este modo Acab hizo un pacto con Ben Adad, y lo dejó ir.
 
 ## Un discipulo de los profetas confronta a Acab con su error
-§35 Mientras tanto, el [Señor]{.smallcaps} habló a uno de los profetas para que le dijera a otro hombre: ¡Golpéame! Pero el hombre se negó a hacerlo.
+§35 Mientras tanto, el SEÑOR habló a uno de los profetas para que le dijera a otro hombre: ¡Golpéame! Pero el hombre se negó a hacerlo.
 
-§36 Entonces el profeta dijo: Por cuanto no obedeciste la voz del [Señor]{.smallcaps}, saldrá un león y te matará en cuanto yo me haya ido. Y, efectivamente, tan pronto el profeta se fue, un león atacó al hombre y lo mató.
+§36 Entonces el profeta dijo: Por cuanto no obedeciste la voz del SEÑOR, saldrá un león y te matará en cuanto yo me haya ido. Y, efectivamente, tan pronto el profeta se fue, un león atacó al hombre y lo mató.
 
 §37 Entonces el profeta fue y le dijo a otro hombre: «¡Golpéame!». Y él lo hizo, y lo dejó herido.
 
@@ -907,7 +907,7 @@
 §40 Pero mientras yo estaba ocupado en otra cosa, el prisionero desapareció. Bueno, es culpa tuya —respondió el rey—. Tendrás que pagar.
 
 §41 Entonces el profeta se arrancó el vendaje de los ojos, y el rey lo reconoció como uno de los profetas. 
-§42 El profeta le dijo: El [Señor]{.smallcaps} ha dicho: “Por cuanto tú has salvado la vida del hombre que yo dije que debería morir, tú morirás en su lugar, y tu pueblo morirá en lugar del suyo”.
+§42 El profeta le dijo: El SEÑOR ha dicho: “Por cuanto tú has salvado la vida del hombre que yo dije que debería morir, tú morirás en su lugar, y tu pueblo morirá en lugar del suyo”.
 
 §43 Entonces el rey de Israel regresó a Samaria enojado y deprimido. 
 
@@ -916,7 +916,7 @@
 §1 Nabot, un hombre de Jezrel, tenía un viñedo en las afueras de la ciudad, junto al palacio del rey Acab. 
 §2 Un día el rey le habló y le pidió que le vendiera su propiedad. Quiero plantar en ella una huerta —explicó el rey—, porque está junto al palacio. Yo te puedo dar un mejor terreno en el cual puedes tener otro viñedo, o si quieres te daré el dinero que me pidas.
 
-§3 Pero Nabot respondió: Eso jamás sucederá, pues el [Señor]{.smallcaps} me prohíbe venderle la propiedad que ha pertenecido a mi familia durante generaciones.
+§3 Pero Nabot respondió: Eso jamás sucederá, pues el SEÑOR me prohíbe venderle la propiedad que ha pertenecido a mi familia durante generaciones.
 
 §4 Entonces Acab, enojado y deprimido, regresó al palacio. Se negó a comer, y se acostó vuelto hacia a la pared.
 
@@ -940,24 +940,24 @@
 §16 Entonces Acab fue al viñedo, para tomar posesión de él.
 
 ## Elías anuncia el juicio divino a la pareja real
-§17 Pero el [Señor]{.smallcaps} le dijo a Elías: 
+§17 Pero el SEÑOR le dijo a Elías: 
 §18 «Ve a Samaria, y visita al rey Acab, rey de Israel. Ahora se encuentra en el viñedo de Nabot, pues ha ido a apoderarse de él. 
 §19 Dale este mensaje de mi parte: “¿No te ha sido suficiente matar a Nabot? ¿Debes robarle también? Debido a esto los perros lamerán tu sangre en las afueras de la ciudad, de la misma manera que ellos lamieron la sangre de Nabot”».
 
-§20 ¡Me has encontrado, enemigo mío! —exclamó Acab cuando vio a Elías. Sí —respondió Elías—, he venido, porque no haces otra cosa que ofender al [Señor]{.smallcaps}, pues solo sabes hacer lo malo.
+§20 ¡Me has encontrado, enemigo mío! —exclamó Acab cuando vio a Elías. Sí —respondió Elías—, he venido, porque no haces otra cosa que ofender al SEÑOR, pues solo sabes hacer lo malo.
 
-§21 Por eso el [Señor]{.smallcaps} va a traerte una gran desgracia, y te va a eliminar. No permitirá que ninguno de tus descendientes varones, esclavo o libre, sobreviva. 
+§21 Por eso el SEÑOR va a traerte una gran desgracia, y te va a eliminar. No permitirá que ninguno de tus descendientes varones, esclavo o libre, sobreviva. 
 §22 Va a destruir a tu familia, tal como lo hizo con la familia de Jeroboán y con la familia del rey Basá, porque tú has provocado su ira y has hecho que todo Israel caiga en pecado. 
-§23 El [Señor]{.smallcaps} también me ha dicho que los perros se comerán el cuerpo de Jezabel, tu esposa, en los campos de Jezrel. 
+§23 El SEÑOR también me ha dicho que los perros se comerán el cuerpo de Jezabel, tu esposa, en los campos de Jezrel. 
 §24 Los miembros de tu familia que mueran en la ciudad serán comidos por los perros, y a los que mueran en el campo, se los comerán los buitres.
 
 §25 Nadie se entregó de tal manera a hacer el mal como Acab, porque Jezabel, su esposa, lo incitaba a que cometiera toda suerte de perversidades. 
-§26 Especialmente se dedicó a la adoración de ídolos, tal como lo hacían los amorreos, pueblo al cual el [Señor]{.smallcaps} había expulsado de la tierra, para darle el lugar al pueblo de Israel.
+§26 Especialmente se dedicó a la adoración de ídolos, tal como lo hacían los amorreos, pueblo al cual el SEÑOR había expulsado de la tierra, para darle el lugar al pueblo de Israel.
 
 ## El arrepentimiento de Acab; La mitigación de Dios de la amenaza de daño
 §27 Cuando Acab oyó estas profecías, se vistió con ropa áspera y ayunó. No se quitaba esa ropa para dormir, y andaba deprimido.
 
-§28 Entonces Elías el tisbita recibió otro mensaje de parte del [Señor]{.smallcaps}, en el que le decía: 
+§28 Entonces Elías el tisbita recibió otro mensaje de parte del SEÑOR, en el que le decía: 
 §29 «¿Ves cómo se ha humillado Acab delante de mí? Por cuanto él ha hecho esto, no haré lo que anuncié durante su vida. Pero enviaré la desgracia a su familia durante el reinado de su hijo». 
 
 # 22 
@@ -967,48 +967,48 @@
 §3 Acab le dijo a sus oficiales: «¿Se dan cuenta ustedes de que los sirios están aún ocupando nuestra ciudad de Ramot de Galaad? Y nosotros estamos aquí sentados sin hacer nada al respecto». §4 Entonces se dirigió a Josafat, y le preguntó: ¿Pelearemos juntos para recobrar la ciudad de Ramot de Galaad? El rey Josafat de Judá le respondió: Desde luego. Tú y yo somos hermanos; mi pueblo está a tus órdenes, y mis caballos están a tu servicio.
 
 ## El mensaje favorable de los 400 profetas; Micha debería ser entrevistado
-§5 Pero —añadió—, debemos consultar al [Señor]{.smallcaps} primero, para estar seguros si esto es lo que él quiere que hagamos.
+§5 Pero —añadió—, debemos consultar al SEÑOR primero, para estar seguros si esto es lo que él quiere que hagamos.
 
-§6 Entonces el rey Acab convocó a sus cuatrocientos profetas paganos y les preguntó: ¿Atacaremos a Ramot de Galaad? Y ellos respondieron: Sí, vayan, porque el [Señor]{.smallcaps} les ayudará a conquistarla.
+§6 Entonces el rey Acab convocó a sus cuatrocientos profetas paganos y les preguntó: ¿Atacaremos a Ramot de Galaad? Y ellos respondieron: Sí, vayan, porque el SEÑOR les ayudará a conquistarla.
 
-§7 Pero Josafat preguntó: ¿No hay por aquí un profeta del [Señor]{.smallcaps}? Me gustaría consultarlo.
+§7 Pero Josafat preguntó: ¿No hay por aquí un profeta del SEÑOR? Me gustaría consultarlo.
 
 §8 Sí, aquí hay uno —dijo el rey Acab—, pero yo lo odio, porque jamás me profetiza algo bueno, sino todo lo malo. Su nombre es Micaías hijo de Imlá. ¡Vamos! —respondió Josafat—. No digas tal cosa.
 
 §9 Entonces el rey Acab llamó a uno de sus sirvientes y le dijo: Ve a buscar a Micaías. ¡Date prisa!
 
 §10 Entretanto, todos los profetas seguían dando sus profecías delante de los dos reyes, que estaban con sus vestiduras reales, sentados en los tronos colocados en la era junto a la puerta de la ciudad. 
-§11 Sedequías hijo de Quenaná, que era uno de los falsos profetas, hizo unos cuernos de hierro y declaró: El [Señor]{.smallcaps} promete que con estos cuernos cornearás a los sirios hasta destruirlos. §12 Y los otros estaban de acuerdo. Ve y ataca Ramot de Galaad —le dijeron—, porque el [Señor]{.smallcaps} te dará la victoria.
+§11 Sedequías hijo de Quenaná, que era uno de los falsos profetas, hizo unos cuernos de hierro y declaró: El SEÑOR promete que con estos cuernos cornearás a los sirios hasta destruirlos. §12 Y los otros estaban de acuerdo. Ve y ataca Ramot de Galaad —le dijeron—, porque el SEÑOR te dará la victoria.
 
 ## La buena fortuna inicial de Micha, luego su anuncio de la perdición
 §13 El mensajero que fue enviado a buscar a Micaías le dijo: Mira, todos los profetas han anunciado que el rey saldrá bien librado en esta batalla. Así que debes concordar con lo que ellos están diciendo.
 
-§14 Pero Micaías le respondió: Puedes tener la plena seguridad de que sólo hablaré lo que el [Señor]{.smallcaps} me diga que hable. Esto es tan cierto como que el [Señor]{.smallcaps} vive.
+§14 Pero Micaías le respondió: Puedes tener la plena seguridad de que sólo hablaré lo que el SEÑOR me diga que hable. Esto es tan cierto como que el SEÑOR vive.
 
-§15 Cuando llegaron, el rey le preguntó a Micaías: Micaías, ¿subiremos a atacar a Ramot de Galaad, o no? ¡Sí, por supuesto! ¡Sigan adelante! —le dijo Micaías—. Tendrás una gran victoria, porque el [Señor]{.smallcaps} te hará vencedor.
+§15 Cuando llegaron, el rey le preguntó a Micaías: Micaías, ¿subiremos a atacar a Ramot de Galaad, o no? ¡Sí, por supuesto! ¡Sigan adelante! —le dijo Micaías—. Tendrás una gran victoria, porque el SEÑOR te hará vencedor.
 
-§16 ¿Cuántas veces debo decirte que me digas solamente lo que el [Señor]{.smallcaps} te ha dicho? —le exigió el rey.
+§16 ¿Cuántas veces debo decirte que me digas solamente lo que el SEÑOR te ha dicho? —le exigió el rey.
 
-§17 Entonces Micaías le dijo: Vi a Israel esparcido por las montañas, como ovejas sin pastor. Y el [Señor]{.smallcaps} dijo: “El rey de ellos está muerto, así que no tienen quién los gobierne. Pídeles que se vayan a sus casas en paz”.
+§17 Entonces Micaías le dijo: Vi a Israel esparcido por las montañas, como ovejas sin pastor. Y el SEÑOR dijo: “El rey de ellos está muerto, así que no tienen quién los gobierne. Pídeles que se vayan a sus casas en paz”.
 
 §18 Volviéndose a Josafat, Acab se quejó: ¿No te dije lo que ocurriría? Él jamás me da buenas noticias. Siempre me anuncia el mal.
 
-§19 Micaías respondió: Escucha esta otra palabra del [Señor]{.smallcaps}: Vi al [Señor]{.smallcaps} sentado en su trono, y los ejércitos del cielo que estaban alrededor de él. 
-§20-21 Entonces el [Señor]{.smallcaps} preguntó: “¿Quién irá a inducir a Acab para que vaya y muera en Ramot de Galaad?”. Varias sugerencias se hicieron, hasta que un ángel se acercó al [Señor]{.smallcaps} y le dijo: “Yo lo seduciré”.
+§19 Micaías respondió: Escucha esta otra palabra del SEÑOR: Vi al SEÑOR sentado en su trono, y los ejércitos del cielo que estaban alrededor de él. 
+§20-21 Entonces el SEÑOR preguntó: “¿Quién irá a inducir a Acab para que vaya y muera en Ramot de Galaad?”. Varias sugerencias se hicieron, hasta que un ángel se acercó al SEÑOR y le dijo: “Yo lo seduciré”.
 
-§22 “¿Cómo lo harás?”, le preguntó el [Señor]{.smallcaps}, y él respondió: “Yo iré como un espíritu mentiroso y hablaré por boca de sus profetas”. Y el [Señor]{.smallcaps} dijo: “Eso está bien; ve, porque tú lo lograrás”.
+§22 “¿Cómo lo harás?”, le preguntó el SEÑOR, y él respondió: “Yo iré como un espíritu mentiroso y hablaré por boca de sus profetas”. Y el SEÑOR dijo: “Eso está bien; ve, porque tú lo lograrás”.
 
-§23 ¿No ves? El [Señor]{.smallcaps} ha puesto un espíritu mentiroso en la boca de estos profetas, pero el hecho es que el [Señor]{.smallcaps} ha decretado el desastre para ti.
+§23 ¿No ves? El SEÑOR ha puesto un espíritu mentiroso en la boca de estos profetas, pero el hecho es que el SEÑOR ha decretado el desastre para ti.
 
 ## El maltrato de Miqueas por Sedechîas y su captura por Acab
-§24 Entonces Sedequías hijo de Quenaná, se acercó a Micaías y lo golpeó en el rostro. ¿Desde cuándo el Espíritu del [Señor]{.smallcaps} ha dejado de hablarme a mí, para hablarte a ti?
+§24 Entonces Sedequías hijo de Quenaná, se acercó a Micaías y lo golpeó en el rostro. ¿Desde cuándo el Espíritu del SEÑOR ha dejado de hablarme a mí, para hablarte a ti?
 
 §25 Y Micaías le respondió: Recibirás la respuesta a tu pregunta cuando andes escondiéndote de habitación en habitación.
 
 §26 Entonces el rey Acab ordenó que arrestaran a Micaías. Llévenlo a Amón, el jefe de la ciudad, y a mi hijo Joás. 
 §27 Díganles que yo he ordenado que pongan a este individuo en la cárcel, y lo alimenten con pan y agua, sólo lo suficiente para que siga vivo hasta que yo regrese en paz.
 
-§28 Si tú vuelves en paz —respondió Micaías— será prueba de que el [Señor]{.smallcaps} no ha hablado por medio de mí. Entonces Micaías se volvió al pueblo que estaba parado cerca, y dijo: ¡Tomen nota de lo que he dicho!
+§28 Si tú vuelves en paz —respondió Micaías— será prueba de que el SEÑOR no ha hablado por medio de mí. Entonces Micaías se volvió al pueblo que estaba parado cerca, y dijo: ¡Tomen nota de lo que he dicho!
 
 ## Derrota de los aliados en Ramoth; La muerte de Acab en batalla; su entierro en Samaria; Palabra final
 §29 El rey Acab, de Israel, y el rey Josafat, de Judá, subieron contra Ramot de Galaad. §30 Acab le dijo a Josafat: «Usa tus ropas reales, pero yo no usaré las mías, sino que me disfrazaré». Entonces Acab se disfrazó y entró en la batalla.
@@ -1019,7 +1019,7 @@
 §35 La batalla se hizo cada vez más intensa a medida que transcurría el día. El rey Acab, herido, permanecía de pie en su carro, frente a los sirios. Pero la sangre que manaba de su herida corría por el piso del carro. Finalmente, al atardecer, murió. 
 §36-37 Cuando el sol se estaba poniendo, se corrió la voz por el campamento: «¡El rey ha muerto! ¡Que todos regresen a sus ciudades! ¡Que cada uno vaya a su casa!». Fue así como murió el rey Acab. Llevaron su cuerpo a Samaria, y allí lo sepultaron.
 
-§38 Cuando su carro y su armadura fueron lavados junto al estanque de Samaria, donde las prostitutas se bañaban, los perros vinieron y lamieron la sangre del rey, tal como el [Señor]{.smallcaps} lo había anunciado.
+§38 Cuando su carro y su armadura fueron lavados junto al estanque de Samaria, donde las prostitutas se bañaban, los perros vinieron y lamieron la sangre del rey, tal como el SEÑOR lo había anunciado.
 
 §39 El resto de la historia de Acab, incluyendo el relato de la construcción del palacio de marfil y las ciudades que edificó, está escrito en el libro de los reyes de Israel. 
 §40 Acab fue sepultado entre sus antepasados, y su hijo Ocozías fue el nuevo rey de Israel.
@@ -1027,7 +1027,7 @@
 ## Josafat, rey de Judá
 §41 Mientras tanto, en Judá, Josafat hijo de Asá, había subido al trono durante el cuarto año de reinado de Acab, rey de Israel. 
 §42 Josafat tenía treinta y cinco años cuando subió al trono, y reinó en Jerusalén durante veinticinco años. Su madre, fue Azuba, hija de Siljí. 
-§43 Siguió el buen ejemplo de su padre Asá, obedeciendo al [Señor]{.smallcaps} en todo, salvo en una cosa: no destruyó los santuarios paganos, de modo que el pueblo hizo sacrificios y quemó incienso en ellos. 
+§43 Siguió el buen ejemplo de su padre Asá, obedeciendo al SEÑOR en todo, salvo en una cosa: no destruyó los santuarios paganos, de modo que el pueblo hizo sacrificios y quemó incienso en ellos. 
 §44 También hizo la paz con Acab, el rey de Israel.
 
 §45 El resto de los hechos de Josafat, sus heroicas acciones y sus guerras, está registrado en el libro de los reyes de Judá. 
@@ -1038,4 +1038,4 @@
 §51 Fue durante el año diecisiete del reinado de Josafat, de Judá, que Ocozías hijo de Acab comenzó a reinar sobre Israel, en Samaria; y reinó durante dos años.
 
 ## Ochôzías, rey de Israel
-§52-53 Pero no fue un buen rey, porque siguió los pasos de su padre y de su madre, y los pasos de Jeroboán hijo de Nabat, el que hizo pecar a Israel, al hacer que adoraran ídolos. Ocozías, pues, provocó mucho la ira del [Señor]{.smallcaps}, Dios de Israel, pues adoró a Baal, tal como lo había hecho su padre Acab.
+§52-53 Pero no fue un buen rey, porque siguió los pasos de su padre y de su madre, y los pasos de Jeroboán hijo de Nabat, el que hizo pecar a Israel, al hacer que adoraran ídolos. Ocozías, pues, provocó mucho la ira del SEÑOR, Dios de Israel, pues adoró a Baal, tal como lo había hecho su padre Acab.
