@@ -3361,6658 +3361,6658 @@
 ### Clasificación de los levitas según Gerson, Kehath y Merari
 @6 \ @8 @11 \ @13 @14 @15 @16 @17 @20 \ @23 
 ### Instrucciones oficiales para los levitas
-@25 §32 
+@25 @32 
 ## 24
-§-1 
+@-1 
 ### El dibujo de las 24 clases sacerdotales
-§1 §2 §3 §6 \ §10 §19 
+@1 @2 @3 @6 \ @10 @19 
 ### Las clases levitas y sus líderes
-§31 
+@31 
 ## 25
-§-1 
+@-1 
 ### El sorteo de las 24 divisiones de los cantantes y músicos sagrados
-§1 §5 §8 \ 
+@1 @5 @8 \ 
 ## 26
-§-1 
+@-1 
 ### Divisiones de los porteros levíticos
-§1 §11 
+@1 @11 
 ### La distribución de los porteros a las diferentes localizaciones
-§19 
+@19 
 ### Los tesoreros levíticos y los funcionarios de la administración
-§21 §25 §28 \ 
+@21 @25 @28 \ 
 ## 27
-§-1 
+@-1 
 ### Los doce jefes militares, los caudillos y los demás altos funcionarios de David; La división del ejército en doce
-§1 \ §15 
+@1 \ @15 
 ### Los doce príncipes tribales de Israel
-§22 
+@22 
 ### Comentar el censo incompleto
-§23 §24 
+@23 @24 
 ### Los administradores de la propiedad real (tesorero y maestro de alquileres)
-§31 
+@31 
 ### Los más altos funcionarios imperiales (consejeros del rey)
-§33 §34 
+@33 @34 
 ## 28
-§-1 
+@-1 
 ### El discurso de David a los jefes de Israel
-§1 
+@1 
 ### David presenta al superior del pueblo a Salomón como su sucesor
-§2 §3 §4 §7 \ §8 
+@2 @3 @4 @7 \ @8 
 ### Las instrucciones de David y su contribución a Salomón
-§9 §10 
+@9 @10 
 ### David le da a Salomón el modelo de la casa del templo y los tesoros recolectados para su construcción
-§19 \ §20 §21 
+@19 \ @20 @21 
 ## 29
-§-1 
+@-1 
 ### La contribución de los príncipes a la construcción del templo siguiendo la amonestación de David
-§5 \ §9 
+@5 \ @9 
 ### Oración final de David
-§11 §12 §15 §19 
+@11 @12 @15 @19 
 ### Final solemne de la reunión; La unción de Salomón como rey; Fin del reinado de David
-§20 \ §22 \ §23 §25 
+@20 \ @22 \ @23 @25 
 ### El final de David y las fuentes de su historia
 # 2 Crónicas
 ## 1
-§-1 
+@-1 
 ### Acceso de Salomón al gobierno; su ejército y su riqueza
-§1 \ §3 §4 §5 §6 
+@1 \ @3 @4 @5 @6 
 ### La aparición de Dios (o sueño) después del sacrificio
-§7 \ §10 \ §12 \ §13 
+@7 \ @10 \ @12 \ @13 
 ### La riqueza y el comercio de Salomón en carros y caballos
-§14 §15 §17 
+@14 @15 @17 
 ## 2
-§-1 
+@-1 
 ### El tratado de Salomón con Hiram de Tiro; Preparativos para la construcción del templo
-§1 §2 
+@1 @2 
 ### Mensaje de Salomón y petición a Hiram
-§4 \ §5 §6 \ §7 \ §10 
+@4 \ @5 @6 \ @7 \ @10 
 ### Respuesta y aceptación de Hiram
-§12 \ §14 \ §16 
+@12 \ @14 \ @16 
 ### Salomón eleva a los no israelitas al trabajo esclavo
-§17 §18 
+@17 @18 
 ## 3
-§-1 
+@-1 
 ### Inicio de la construcción del templo; los muebles del templo
-§2 
+@2 
 ### Dimensiones y decoraciones de la casa del templo
-§7 
+@7 
 ### Equipo del lugar santísimo
-§9 \ §14 
+@9 \ @14 
 ### Los dos pilares de bronce frente a la casa del templo
 ## 4
-§-1 
+@-1 
 ### Fabricación de implementos para el templo
-§6 \ §10 \ §11 \ §18 \ 
+@6 \ @10 \ @11 \ @18 \ 
 ## 5
-§-1 
+@-1 
 ### Los objetos de valor almacenados en las cámaras del tesoro
-§1 
+@1 
 ### La transferencia del arca al lugar santísimo
-§10 
+@10 
 ### La aparición de la gloria de Dios
-§13 §14 
+@13 @14 
 ## 6
-§-1 
+@-1 
 ### El discurso de ordenación y consagración del rey al pueblo
-§2 \ §3 \ §7 §9 \ §11 
+@2 \ @3 \ @7 @9 \ @11 
 ### Oración de consagración de Salomón
-§15 \ §17 \ §18 §21 \ §22 §23 \ §25 \ §26 §27 \ §31 \ §33 \ §34 §35 \ §39 \ §40 \ §41 \ §42 
+@15 \ @17 \ @18 @21 \ @22 @23 \ @25 \ @26 @27 \ @31 \ @33 \ @34 @35 \ @39 \ @40 \ @41 \ @42 
 ## 7
-§-1 
+@-1 
 ### Aparición de la gloria de Dios; Salomón y el pueblo fiesta solemne de sacrificios y asamblea de celebración
-§1 §3 \ §6 \ §7 \ §8 \ §10 
+@1 @3 \ @6 \ @7 \ @8 \ @10 
 ### La repetida aparición de Dios y su respuesta (promesa y amenaza) a la oración de Salomón
-§11 \ §12 \ §16 \ §18 \ §21 §22 
+@11 \ @12 \ @16 \ @18 \ @21 @22 
 ## 8
-§-1 
+@-1 
 ### Información sobre las ciudades y fortalezas de Salomón
-§2 \ §6 
+@2 \ @6 
 ### Los obreros de Salomón y sus capataces; Su esposa, la princesa egipcia, se traslada al palacio construido para ella
-§10 \ §11 
+@10 \ @11 
 ### Orden de sacrificio y servicio en el templo de Salomón
-§12 §13 \ §14 §15 \ §16 
+@12 @13 \ @14 @15 \ @16 
 ### Paseos de Ofir de Salomón
 ## 9
-§-1 
+@-1 
 ### Visita de la Reina de Saba
-§4 \ §8 \ §9 \ §12 
+@4 \ @8 \ @9 \ @12 
 ### Riqueza, obras de arte y esplendor de Salomón y artículos de comercio exterior
-§21 
+@21 
 ### La posición de poder de Salomón y la riqueza que promueve
-§25 §28 
+@25 @28 
 ### Las fuentes de la historia de Salomón; su muerte
 ## 10
-§-1 
+@-1 
 ### Roboam y Jeroboam en Siquem; la división del imperio
-§2 §4 \ §5 
+@2 @4 \ @5 
 ### Consejería de Rehoboams
-§6 \ §7 \ §9 \ §11 
+@6 \ @7 \ @9 \ @11 
 ### Descenso de las diez tribus; Elección de Jeroboam como rey de Israel
-§14 \ §15 \ §16 \ 
+@14 \ @15 \ @16 \ 
 ## 11
-§-1 
+@-1 
 ### Roboam se abstiene de la guerra contra Israel bajo la dirección de Dios
-§4 
+@4 
 ### Fortalezas de Roboam
-§12 
+@12 
 ### Entrada de sacerdotes, levitas y personas piadosas del reino de diez tribus
-§14 §15 §17 
+@14 @15 @17 
 ### Historia familiar de rehaboam
-§18 §23 
+@18 @23 
 ## 12
-§-1 
+@-1 
 ### Incursión y saqueo del rey egipcio Sisak; Aparición del profeta Semeías
-§4 §5 \ §6 \ §8 \ §12 
+@4 @5 \ @6 \ @8 \ @12 
 ### Conclusión del gobierno de Roboam y las fuentes de su historia
-§14 \ §15 §16 
+@14 \ @15 @16 
 ## 13
-§-1 
+@-1 
 ### La guerra de Abias con Jeroboam; su discurso al ejército de Jeroboam
-§7 \ §8 §9 \ §11 §12 
+@7 \ @8 @9 \ @11 @12 
 ### Victoria de Abias sobre Jeroboam
-§19 \ §20 
+@19 \ @20 
 ### Conclusión y fuentes de la historia de Abias
-§22 
+@22 
 ## 14
-§-1 
+@-1 
 ### La intervención de Asa contra la idolatría
-§1 §5 
+@1 @5 
 ### Eleva la fuerza defensiva del imperio
-§7 
+@7 
 ### La victoria de Asa sobre los cusitas Serah
-§8 \ §11 \ 
+@8 \ @11 \ 
 ## 15
-§-1 
+@-1 
 ### La amonestación del profeta Azarías
-§3 §4 §7 
+@3 @4 @7 
 ### Renovación de Asa del pacto con Dios
-§15 \ §16 §18 
+@15 \ @16 @18 
 ### La guerra de Asa con Baesa de Israel; su refugio en Ben-adad de Siria
 ## 16
-§1 §3 \ §6 
+@1 @3 \ @6 
 ### El discurso de castigo de Hanani a Asa tiene un efecto negativo
-§8 §9 \ §10 
+@8 @9 \ @10 
 ### El fin de Asa y un entierro honorable
-§14 
+@14 
 ## 17
-§-1 
+@-1 
 ### El gobierno piadoso y feliz de Josafat
-§1 §5 §6 
+@1 @5 @6 
 ### Josafat instruye al pueblo en la ley del Señor
-§9 
+@9 
 ### La reputación de Josafat entre los pueblos vecinos y su importante poder militar
 ## 18
-§-1 
+@-1 
 ### Josafat y Acab unen fuerzas en una guerra contra los sirios
-§1 §3 
+@1 @3 
 ### El mensaje favorable de los 400 profetas; Micha debería ser entrevistado
-§4 \ §5 \ §6 \ §7 \ §8 \ §10 \ §11 
+@4 \ @5 \ @6 \ @7 \ @8 \ @10 \ @11 
 ### La buena fortuna inicial de Micha, luego su anuncio de la perdición
-§12 \ §13 \ §14 \ §15 \ §16 \ §17 \ §20 \ §21 \ §22 
+@12 \ @13 \ @14 \ @15 \ @16 \ @17 \ @20 \ @21 \ @22 
 ### El maltrato de Miqueas por Sedequías y su captura por Acab
-§23 \ §24 \ §26 \ §27 
+@23 \ @24 \ @26 \ @27 
 ### Derrota de los aliados en Ramoth; Muerte de Acab
-§30 \ 
+@30 \ 
 ## 19
-§-1 
+@-1 
 ### Discurso de castigo del profeta Jehú a Josafat
-§3 
+@3 
 ### La reorganización de la administración de justicia por parte de Josafat
-§7 \ §8 §11 
+@7 \ @8 @11 
 ## 20
-§-1 
+@-1 
 ### La oración de Josafat después de que el enemigo invadió
-§4 \ §6 §10 §12 \ §13 
+@4 \ @6 @10 @12 \ @13 
 ### La respuesta de Dios: promesa de victoria del levita Jahaziel
-§17 \ §19 
+@17 \ @19 
 ### La salida contra el enemigo; Autodestrucción del enemigo; enorme botín de los judíos
-§20 \ §21 §23 \ §30 
+@20 \ @21 @23 \ @30 
 ### La conclusión del gobierno de Josafat y las fuentes de su historia
-§31 §33 \ §34 
+@31 @33 \ @34 
 ### La alianza de Josafat con Ocozías de Israel y su castigo; su muerte
 ## 21
-§-1 
+@-1 
 ### El gobierno del rey Joram
-§1 
+@1 
 ### Asesinato de sus hermanos
-§4 
+@4 
 ### La posición de Dios sobre la apostasía de Joram
-§7 
+@7 
 ### Apostasía de los edomitas y la ciudad de Libna
-§10 
+@10 
 ### La carta amenazante del profeta Elías a Joram
-§15 
+@15 
 ### Incursiones filisteas y árabes
-§17 
+@17 
 ### El agonizante final y el entierro deshonroso de Joram
-§20 
+@20 
 ## 22
-§-1 
+@-1 
 ### El gobierno del rey Ochôzías; Su gobierno desaprobando a Dios
-§1 §4 
+@1 @4 
 ### Su pacto con Joram de Israel y su muerte por Jehú
-§6 \ §7 §8 §9 
+@6 \ @7 @8 @9 
 ### El robo y el asesinato de Atalía; Rescate de Joás
 ## 23
-§-1 
+@-1 
 ### La conspiración de Joiada
-§7 
+@7 
 ### Captura y asesinato de Athalja; Elevación de Joás a rey
-§11 \ §13 \ §15 
+@11 \ @13 \ @15 
 ### Medidas de Joiada para la gloria de Dios; Coronación de Joás
-§18 §21 
+@18 @21 
 ## 24
-§-1 
+@-1 
 ### El gobierno del rey Joás
-§3 
+@3 
 ### Reparando el templo; Ordenanza sobre la administración y el uso del dinero entrante para el templo
-§6 §7 \ §9 §14 
+@6 @7 \ @9 @14 
 ### El alejamiento de Joás de Dios después de la muerte de Joiada; El discurso de Zachârías y su lapidación
-§16 \ §19 \ §20 \ §22 
+@16 \ @19 \ @20 \ @22 
 ### Guerra desafortunada con los sirios; Asesinato del rey por conspiradores; Palabra final
-§24 \ §25 §27 
+@24 \ @25 @27 
 ## 25
-§-1 
+@-1 
 ### El gobierno del rey Amasías; Buen comienzo para el gobierno
-§4 
+@4 
 ### La victoria de Amasías sobre los edomitas después de que los mercenarios israelitas fueran devueltos; la venganza de estas tropas
-§8 \ §9 \ §10 \ §13 
+@8 \ @9 \ @10 \ @13 
 ### Amasías se aparta de Dios; Advertencia de un profeta
-§15 \ §16 
+@15 \ @16 
 ### La desafortunada guerra de Amasías con Joás de Israel
-§17 \ §19 \ §22 \ §24 
+@17 \ @19 \ @22 \ @24 
 ### Palabra final; Asesinato del rey por conspiradores
-§27 §28 
+@27 @28 
 ## 26
-§-1 
+@-1 
 ### El gobierno del rey Ussia; Buen comienzo para el gobierno; La felicidad de Ussia en la guerra y la paz
-§4 §5 \ §10 
+@4 @5 \ @10 
 ### La preocupación de Ussia por un ejército capaz y por la seguridad del país
-§15 
+@15 
 ### La invasión de Ussia al sacerdocio es castigada por Dios con lepra
-§18 \ §21 
+@18 \ @21 
 ### Muerte y entierro de Ussia
-§22 §23 
+@22 @23 
 ## 27
-§-1 
+@-1 
 ### El gobierno del rey Jotam; Gobierno bueno y feliz; Edificios y guerras exitosas
-§4 §9 
+@4 @9 
 ## 28
-§-1 
+@-1 
 ### El reinado del rey Acaz; Las abominaciones paganas de Acaz
-§3 §4 
+@3 @4 
 ### Visitaciones severas de sirios e israelitas
-§8 
+@8 
 ### Liberación de los prisioneros de guerra de Judea en Samaria siguiendo la amonestación del profeta Oded
-§9 §13 \ §15 
+@9 @13 \ @15 
 ### Fuertes visitaciones de los edomitas, filisteos y asirios
-§21 
+@21 
 ### La creciente maldad de Acaz; Palabra final
-§25 \ §27 
+@25 \ @27 
 ## 29
-§-1 
+@-1 
 ### El gobierno del rey Ezechîas; Restauración del templo y adoración pura
-§1 §2 
+@1 @2 
 ### La exhortación de Ezechîas a los sacerdotes y levitas
-§7 §11 
+@7 @11 
 ### Purificación del templo por los levitas
-§19 
+@19 
 ### La nueva consagración del templo con sacrificios, oración y cánticos
-§24 \ §25 §28 \ §30 \ §34 §35 §36 
+@24 \ @25 @28 \ @30 \ @34 @35 @36 
 ## 30
-§-1 
+@-1 
 ### Celebración de la Pascua de Ezechîas
-§1 §2 §5 \ §9 \ §12 
+@1 @2 @5 \ @9 \ @12 
 ### Curso de Pascua en la primera semana
-§15 §16 §18 §19 \ §22 
+@15 @16 @18 @19 \ @22 
 ### Continuación de la celebración en la segunda semana
-§24 §27 
+@24 @27 
 ## 31
-§-1 
+@-1 
 ### Limpiando la tierra de la idolatría
-§1 
+@1 
 ### Cuidado exitoso de los ingresos de los sacerdotes y levitas
-§3 §6 \ §10 \ §16 
+@3 @6 \ @10 \ @16 
 ### Elaboración de listas de sacerdotes y levitas; Palabra final
-§19 \ §21 
+@19 \ @21 
 ## 32
-§-1 
+@-1 
 ### La incursión de Senaquerib y el resto de Ezechîas
-§1 §4 \ §5 §6 §7 §8 
+@1 @4 \ @5 @6 @7 @8 
 ### La solicitud de Senaquerib de entregar la ciudad a Lachis
-§15 
+@15 
 ### Senaquerib y la arrogancia de sus embajadores
-§19 
+@19 
 ### Oración de Ezequías; La ayuda de Dios: la destrucción, el retiro y la muerte de Senaquerib
-§20 \ §23 
+@20 \ @23 
 ### La enfermedad, la arrogancia y la penitencia de Ezechîas
-§25 §26 
+@25 @26 
 ### La riqueza de Ezechîas; Abastecimiento de agua a Jerusalén y tentación de la embajada de Babilonia
-§30 \ §31 
+@30 \ @31 
 ### Termina la historia de Ezechîas
 ## 33
-§-1 
+@-1 
 ### Manasés rey de Judá; Idolatría manasés
-§2 §3 §4 §9 \ §10 
+@2 @3 @4 @9 \ @10 
 ### La gira del prisionero de Manasés a Babilonia, su arrepentimiento y regreso a casa
-§11 \ §13 
+@11 \ @13 
 ### Manasés construyendo muros y esfuerzos para eliminar la idolatría
-§17 \ §18 §19 
+@17 \ @18 @19 
 ### Amón Rey de Judá
-§23 §25 
+@23 @25 
 ## 34
-§-1 
+@-1 
 ### El gobierno del rey Josías
-§2 
+@2 
 ### Restauración del culto puro
-§3 §4 §5 §7 
+@3 @4 @5 @7 
 ### Explicar los procedimientos que se siguen para restaurar y mantener el templo
-§8 §13 
+@8 @13 
 ### Informe sobre el descubrimiento del código y su primer efecto
-§15 \ §18 \ §21 
+@15 \ @18 \ @21 
 ### Interrogatorio y respuesta de la profetisa Hulda
-§22 \ §27 §28 
+@22 \ @27 @28 
 ### Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
-§31 §32 §33 
+@31 @32 @33 
 ## 35
-§-1 
+@-1 
 ### La estricta celebración de la Pascua de Josías
-§3 §6 \ §9 \ §15 \ §19 
+@3 @6 \ @9 \ @15 \ @19 
 ### Necao de Egipto y la muerte de Josías; Dolor por el
-§21 \ §23 \ §25 §27 
+@21 \ @23 \ @25 @27 
 ## 36
-§-1 
+@-1 
 ### Joachâz rey de Judá
-§3 
+@3 
 ### Joacim König von Juda
-§4 \ §7 §8 
+@4 \ @7 @8 
 ### Joachîn rey de Judá
-§10 
+@10 
 ### Sedecías, rey de Judá; la ruina de él y de su gente
-§11 §12 §14 \ §16 
+@11 @12 @14 \ @16 
 ### Destrucción del imperio por Nabucodonosor; el cautiverio babilónico
-§21 
+@21 
 ### El permiso para regresar a casa del rey persa Ciro
 # Esdras
 ## 1
-§-1 
+@-1 
 ### El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
-§1 §2 §4 
+@1 @2 @4 
 ### El efecto y ejecución de la disposición
-§6 
+@6 
 ### Publicación y listado de los implementos del templo entregados a Sesbassar (Zorobabel)
-§8 §11 
+@8 @11 
 ## 2
-§-1 
+@-1 
 ### Directorio de judíos que regresan
-§1 
+@1 
 ### Lista de repatriados
-§2 \ §35 \ §39 \ §40 §42 \ §54 \ §55 §58 \ §61 §63 
+@2 \ @35 \ @39 \ @40 @42 \ @54 \ @55 @58 \ @61 @63 
 ### Número total de personas y animales de carga en el municipio
-§67 
+@67 
 ### Contribuciones a la construcción del templo en Jerusalén; Palabra final
-§69 \ 
+@69 \ 
 ## 3
-§-1 
+@-1 
 ### Construcción del altar de las ofrendas quemadas y establecimiento del servicio de sacrificios regular; Celebración de la Fiesta de los Tabernáculos
-§1 §2 §4 §6 
+@1 @2 @4 @6 
 ### Preparaciones para la construcción de templos; Colocación ceremonial de la primera piedra
-§7 \ §9 \ §11 \ §12 §13 
+@7 \ @9 \ @11 \ @12 @13 
 ## 4
-§-1 
+@-1 
 ### Rechazo de los samaritanos de participar en la construcción del templo
-§2 \ §3 \ §5 
+@2 \ @3 \ @5 
 ### Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes
-§6 \ §10 \ §11 \ §16 
+@6 \ @10 \ @11 \ @16 
 ### La construcción del templo se paralizó como consecuencia de un real decreto
-§24 
+@24 
 ## 5
-§-1 
+@-1 
 ### Profecías favorables de dos profetas; Permiso del gobernador para reanudar la construcción
-§1 §2 \ §5 
+@1 @2 \ @5 
 ### Informe e investigación del gobernador al rey Darío sobre la construcción del templo
-§7 \ §13 §14 §16 \ 
+@7 \ @13 @14 @16 \ 
 ## 6
-§-1 
+@-1 
 ### Encontrar el decreto de Cyrus en Ekbatana e información de él
-§3 §5 
+@3 @5 
 ### Decreto de Darío para continuar sin trabas y promover la construcción del templo
-§12 
+@12 
 ### Terminación y dedicación solemne del templo
-§13 \ §15 \ §16 §17 §18 
+@13 \ @15 \ @16 @17 @18 
 ### Celebración de la Pascua
-§19 §22 
+@19 @22 
 ## 7
-§-1 
+@-1 
 ### El regreso de Esdras y su banda de Babilonia a Jerusalén
-§1 §7 §10 
+@1 @7 @10 
 ### Redacción de la carta real (= carta de salvoconducto) con detalles de los poderes otorgados a Ezra
-§12 \ §20 \ §23 \ §24 \ §26 
+@12 \ @20 \ @23 \ @24 \ @26 
 ### Oración de acción de gracias de Esdras e inicio de su actividad
 ## 8
-§-1 
+@-1 
 ### Directorio de los jefes de las familias de Judea que regresan con Esdras
-§1 §4 §5 §10 §14 
+@1 @4 @5 @10 @14 
 ### Los preparativos finales para la salida
-§18 §20 
+@18 @20 
 ### Ayuno y oración de los que regresan a casa; Entrega de los dones del templo a hombres confiables
-§22 §23 \ §29 \ §30 
+@22 @23 \ @29 \ @30 
 ### Llegada a Jerusalén; Entrega de los obsequios votivos; Hacer ofrendas; Apoyo de funcionarios reales
-§34 \ 
+@34 \ 
 ## 9
-§-1 
+@-1 
 ### Esra se da cuenta de los matrimonios mixtos; su consternación por estos funcionarios
-§2 \ §3 §4 
+@2 \ @3 @4 
 ### La oración penitencial de Esdras
-§6 §9 \ §12 \ 
+@6 @9 \ @12 \ 
 ## 10
-§-1 
+@-1 
 ### La acción contra los matrimonios mixtos
-§4 \ §8 \ §9 \ §11 \ §14 \ §15 \ §17 
+@4 \ @8 \ @9 \ @11 \ @14 \ @15 \ @17 
 ### Lista de sacerdotes, levitas y laicos que se casaron con mujeres extrañas
-§18 §43 \ 
+@18 @43 \ 
 # Nehemías
 ## 1
-§-1 
+@-1 
 ### Nehemías como copero del rey Artajerjes en Susa; su dolor por la desgracia de su país
-§1 \ §3 \ §4 
+@1 \ @3 \ @4 
 ### La penitencia y la súplica de Nehemías
-§5 §7 \ §9 \ 
+@5 @7 \ @9 \ 
 ## 2
-§-1 
+@-1 
 ### Nehemías recibe permiso y autoridad del rey persa Artajerjes para restaurar Jerusalén
-§2 \ §3 \ §4 \ §5 \ §6 \ §8 \ §10 
+@2 \ @3 \ @4 \ @5 \ @6 \ @8 \ @10 
 ### El recorrido nocturno de Nehemías por las murallas de la ciudad; su llamado a los camaradas nacionales para restaurar el muro
-§16 \ §17 
+@16 \ @17 
 ### Compromiso del jefe de comunidad; el ridículo de los tres oponentes paganos rechazados por Nehemías
-§18 \ §19 \ §20 
+@18 \ @19 \ @20 
 ## 3
-§-1 
+@-1 
 ### Construcción pieza a pieza del muro; Lista de los involucrados en la construcción del muro
-§2 \ §5 \ §12 \ §13 \ §14 \ §20 §21 §25 §27 \ 
+@2 \ @5 \ @12 \ @13 \ @14 \ @20 @21 @25 @27 \ 
 ## 4
-§-1 
+@-1 
 ### Continuación de la construcción del muro a pesar del ridículo y la hostilidad de los oponentes paganos
-§2 \ §3 \ §5 \ §6 
+@2 \ @3 \ @5 \ @6 
 ### Nuevos ataques de los oponentes al edificio; Las medidas exitosas de Nehemia en su contra
-§9 \ §11 \ §12 \ §14 \ §20 \ 
+@9 \ @11 \ @12 \ @14 \ @20 \ 
 ## 5
-§-1 
+@-1 
 ### Alivio de la difícil situación de la gente común mediante el alivio de la deuda; El gobierno desinteresado de Nehemías
-§5 
+@5 
 ### Eliminación de los males mediante las resoluciones de la asamblea popular
-§11 \ §12 \ §13 
+@11 \ @12 \ @13 
 ### El altruismo de Nehemías mientras estaba en el cargo
-§19 
+@19 
 ## 6
-§-1 
+@-1 
 ### Esquemas (y asesinatos) de Sanbalat y sus camaradas; su rechazo por parte de Nehemías
-§2 \ §3 \ §7 \ §9 
+@2 \ @3 \ @7 \ @9 
 ### Exponiendo a un falso profeta
-§10 \ §13 §14 
+@10 \ @13 @14 
 ### Finalización de la construcción del muro; correspondencia sospechosa entre Tobija y muchos judíos dedicados a él
 ## 7
-§-1 
+@-1 
 ### La preocupación de Nehemías por la seguridad de la ciudad
-§3 
+@3 
 ### La preocupación de Nehemías por aumentar la población de Jerusalén; Lista de los israelitas que anteriormente regresaron del cautiverio con Zorobabel
-§4 \ §5 \ §6 §7 \ §45 \ §56 \ §60 \ §63 \ §65 \ §69 \ §72 \ 
+@4 \ @5 \ @6 @7 \ @45 \ @56 \ @60 \ @63 \ @65 \ @69 \ @72 \ 
 ## 8
-§-1 
+@-1 
 ### Lectura de la ley por Esdras y celebración de la Fiesta de los Tabernáculos
-§1 §2 §6 \ §8 
+@1 @2 @6 \ @8 
 ### La invitación de Nehemías y Esdras a las personas afligidas a celebrar el día con alegría festiva
-§9 §10 \ §11 \ §12 
+@9 @10 \ @11 \ @12 
 ### Celebración de la Fiesta de los Tabernáculos con lectura constante de la ley
-§15 \ §16 §18 
+@15 \ @16 @18 
 ## 9
-§-1 
+@-1 
 ### Celebración del día de la penitencia con varias horas de lectura de la ley y varias horas de confesión
-§4 
+@4 
 ### Invitación a alabar a Dios; Referencia a los maravillosos actos de poder y gracia de Dios en tiempos prehistóricos hasta la introducción de su pueblo en la tierra prometida
-§8 \ §9 §11 §12 \ §13 §15 \ §16 §17 §18 §20 \ §21 §22 §23 \ §24 §25 
+@8 \ @9 @11 @12 \ @13 @15 \ @16 @17 @18 @20 \ @21 @22 @23 \ @24 @25 
 ### En posesión de la tierra, el pueblo, con desprecio por los profetas y la divina paciencia, continúa con su conducta pecaminosa hasta que Dios los entrega en manos de los gentiles
-§27 §28 §29 §30 \ §31 
+@27 @28 @29 @30 \ @31 
 ### Pida nueva gracia y lealtad y el alivio del bien merecido sufrimiento desde el dominio asirio hasta el presente
-§32 §33 §35 \ 
+@32 @33 @35 \ 
 ## 10
-§-1 
+@-1 
 ### Renovación federal mediante contrato escrito y firmado de los jefes (especialmente jefes de familia) del pueblo
-§27 
+@27 
 ### Evitar los matrimonios mixtos y no tomar el sábado
-§29 §31 
+@29 @31 
 ### Pago oportuno y abundante de todos los deberes y obligaciones relacionados con la adoración y el sacerdocio
-§35 §36 §37 §38 §39 
+@35 @36 @37 @38 @39 
 ## 11
-§-1 
+@-1 
 ### Una décima parte de la población rural está determinada por sorteo a mudarse a Jerusalén
-§1 §2 
+@1 @2 
 ### Listas de los jefes de los judíos y benjaminitas que vivían en Jerusalén (incluidos sacerdotes, porteros, etc.)
-§3 §6 \ §9 \ §14 \ §18 \ §21 \ §24 
+@3 @6 \ @9 \ @14 \ @18 \ @21 \ @24 
 ### Lista de lugares que luego fueron poblados por judíos, benjaminitas y levitas
-§28 §36 
+@28 @36 
 ## 12
-§-1 
+@-1 
 ### Clases de sacerdotes y levitas que regresaron con Zorobabel y Jesús
-§1 §7 \ §8 §9 
+@1 @7 \ @8 @9 
 ### La línea de sumo sacerdote
-§11 
+@11 
 ### Jefes de familia sacerdotal desde la época del sumo sacerdote Joiacim
-§21 
+@21 
 ### Lista de los levitas hasta la época del sumo sacerdote Johanán
-§22 §25 §26 
+@22 @25 @26 
 ### Inauguración de la muralla de la ciudad
-§30 \ §31 §37 \ §38 §43 
+@30 \ @31 @37 \ @38 @43 
 ### Empleo de funcionarios para supervisar los ingresos de los sacerdotes y levitas
-§46 §47 
+@46 @47 
 ## 13
-§-1 
+@-1 
 ### Eliminación de los componentes paganos (especialmente amonitas y moabitas) de la comunidad
-§1 §2 §3 
+@1 @2 @3 
 ### Eliminación de la celda de Tobija en el templo
-§9 
+@9 
 ### Asegurar la correcta entrega de los tributos a los levitas
-§12 §13 \ §14 
+@12 @13 \ @14 
 ### Eliminar la profanación del sábado por parte de empresarios y comerciantes
-§15 §18 \ §22 
+@15 @18 \ @22 
 ### Medidas contra los matrimonios mixtos; Rechazo del hijo de un sumo sacerdote
-§25 §26 §27 \ §28 §29 
+@25 @26 @27 \ @28 @29 
 ### Fin del memorando
 # Ester
 ## 1
-§-1 
+@-1 
 ### La fiesta del rey persa Assuero en Susa para los dignatarios y altos funcionarios de su imperio
-§4 
+@4 
 ### La comida de los habitantes de la ciudad real Susa; la fiesta de la reina Wasthi
-§8 \ §9 
+@8 \ @9 
 ### Wasthi se niega a aparecer en el salón de baile
-§12 
+@12 
 ### Asesoramiento y toma de decisiones sobre qué castigo; Anuncio del repudio en todo el imperio
-§13 §15 \ §18 \ §20 \ §22 
+@13 @15 \ @18 \ @20 \ @22 
 ## 2
-§-1 
+@-1 
 ### Organización de un gran espectáculo nupcial para el rey
-§4 
+@4 
 ### Información sobre la prehistoria de Esther
-§6 §7 
+@6 @7 
 ### El año de preparación de Ester en el palacio real y su elevación a reina
-§11 \ §14 \ §15 \ §17 \ §18 
+@11 \ @14 \ @15 \ @17 \ @18 
 ### Mardochai descubre una conspiración contra el rey; su mérito está registrado en las crónicas del reino
-§20 §23 
+@20 @23 
 ## 3
-§-1 
+@-1 
 ### Promoción de Amán al más alto honor; Mardochai se niega a doblar las rodillas; Amán decide exterminar a todos los judíos
-§6 
+@6 
 ### Amán hace cumplir su resolución con el rey
-§7 §9 \ §11 
+@7 @9 \ @11 
 ### El exterminio de los judíos en todo el imperio ordenado por el rey
-§12 §15 
+@12 @15 
 ## 4
-§-1 
+@-1 
 ### El dolor de Mardochai; sus esfuerzos para mover a Ester a salvar a los judíos
-§3 
+@3 
 ### Ester es informada por Mardochai sobre el desastre inminente y le pide que ruegue al rey por misericordia
-§8 
+@8 
 ### La negativa de Esther es derrotada por Mardochai; Sin embargo, requiere que los judíos mantengan un ayuno estricto a su favor
-§11 \ §14 \ §16 §17 
+@11 \ @14 \ @16 @17 
 ## 5
-§-1 
+@-1 
 ### La recepción amistosa de Ester por parte del rey y el engaño de Amán
-§2 \ §3 \ §4 
+@2 \ @3 \ @4 
 ### El rey, invitado por Ester a cenar con Amán, acepta otra invitación a cenar
-§5 \ §6 \ §8 
+@5 \ @6 \ @8 
 ### El altivo engaño de Amán; su intención de deshacerse de Mardochai
-§11 \ §13 \ 
+@11 \ @13 \ 
 ## 6
-§-1 
+@-1 
 ### Mardochai criado en alto honor por Amán
-§2 §3 \ §4 
+@2 @3 \ @4 
 ### Amán involuntariamente hace que el rey decida sobre un honor extraordinario para Mardochai y que lo lleve a cabo personalmente
-§5 \ §6 \ §9 \ §10 \ §11 
+@5 \ @6 \ @9 \ @10 \ @11 
 ### El dolor de Amán; Lleno de presentimientos, fue al banquete de la reina
-§14 
+@14 
 ## 7
-§-1 
+@-1 
 ### Durante la cena, Ester revela los planes de Amán de matar al rey; el rey se levanta enojado de la cena
-§1 §2 \ §4 \ §5 \ §6 \ §7 
+@1 @2 \ @4 \ @5 \ @6 \ @7 
 ### A su regreso, el rey condenó a muerte a Amán e inmediatamente lo hizo colgar en la estaca erigida para Mardochai
-§8 \ §9 \ 
+@8 \ @9 \ 
 ## 8
-§-1 
+@-1 
 ### El regalo de Ester y la exaltación de Mardochai por parte del rey
-§2 
+@2 
 ### Establecer y promulgar medidas de protección para los judíos contra sus enemigos
-§6 \ §8 \ §14 
+@6 \ @8 \ @14 
 ### Mardochai aparece en Susa con un traje principesco; Alegría de los judíos en todo el imperio
-§17 
+@17 
 ## 9
-§-1 
+@-1 
 ### Exterminio de enemigos de los judíos en todo el imperio el día 13 del mes de Adar
-§10 
+@10 
 ### Continuación de la matanza el día 14 del mes; Regocijo de los judíos para celebrar su salvación
-§12 \ §13 \ §15 \ §17 \ §19 
+@12 \ @13 \ @15 \ @17 \ @19 
 ### Mardochai ordena la celebración de la fiesta de Purim para todos los futuros
-§25 \ 
+@25 \ 
 ## 10
-§-1 
+@-1 
 ### Posición de poder y servicios de Mardochai para el bienestar de los judíos
 # Job
 ## 1
-§-1 
+@-1 
 ### La piedad y la fortuna exterior de Job; su preocupación por el temor de Dios de sus hijos
-§1 §5 
+@1 @5 
 ### Conversación y acuerdo entre Dios y Satanás en el primer encuentro de los hijos de Dios
-§7 \ §8 \ §9 §11 \ §12 
+@7 \ @8 \ @9 @11 \ @12 
 ### Destrucción de la fortuna externa de Job
-§15 \ §16 \ §17 \ §19 
+@15 \ @16 \ @17 \ @19 
 #### La humilde sumisión de Job a la voluntad de Dios
-§20 §21 §22 
+@20 @21 @22 
 ## 2
-§-1 
+@-1 
 ### La piedad de Job también se prueba en la segunda prueba; Nuevos acuerdos entre Dios y Satanás
-§1 §2 \ §3 \ §5 \ §6 
+@1 @2 \ @3 \ @5 \ @6 
 ### Job, incluso enfermo de lepra, sigue siendo inquebrantablemente piadoso a pesar de la tentación de su esposa
-§9 \ §10 
+@9 \ @10 
 ### Los tres amigos de Job guardan silencio con horror cuando visitan; El estallido de dolor de Job
-§11 §13 
+@11 @13 
 ## 3
-§-1 
+@-1 
 ### El lamento desesperado de Job
-§21 §26 
+@21 @26 
 ## 4
-§-1 
+@-1 
 ### Eliphaz excusa su intento de corregir a Job señalando el comportamiento pasado de Job hacia muchos que sufren
-§5 
+@5 
 ### Job debe recordar que nadie sufre inocentemente y que solo los malhechores perecen
-§8 §11 
+@8 @11 
 ### Eliphaz sabe a través de una aparición nocturna que ante Dios nadie está libre de culpa
-§18 §19 §21 
+@18 @19 @21 
 ## 5
-§-1 
+@-1 
 ### El sufrimiento autoinfligido no tiene defensor y solo aumenta con el resentimiento
-§3 §7 
+@3 @7 
 ### Job solo puede obtener la salvación mediante la humildad y la invocación de la bondad de Dios
-§11 §14 §16 
+@11 @14 @16 
 ### Si Job cede al castigo de Dios, la visitación será beneficiosa para toda su vida futura
-§18 §19 §23 §27 
+@18 @19 @23 @27 
 ## 6
-§-1 
+@-1 
 ### Job excusa la amargura de la queja que expresa con la terrible severidad de su sufrimiento
-§7 
+@7 
 ### Job desea ser redimido de sus sufrimientos y absoluta impotencia mediante una muerte rápida
-§13 
+@13 
 ### La queja de Job por los insultos y la decepción causada por sus amigos
-§15 §23 
+@15 @23 
 ### Job exige que se le llame pecador solo si hay una indicación específica de deuda maliciosa
 ## 7
-§-1 
+@-1 
 ### Job deplora las dificultades y la brevedad de la vida humana en general y su propia situación desesperada en particular
-§1 §10 
+@1 @10 
 ### Job declara justificada su queja y la conducta de Dios contra él, que está cerca de la muerte, despiadada; su petición a Dios de protección
-§17 §21 
+@17 @21 
 ## 8
-§-1 
+@-1 
 ### Fuerte énfasis en la justicia de Dios, que se ha demostrado que es un juicio contra los hijos de Job y resultará ser bueno para Job si busca a Dios con sinceridad
-§4 §7 
+@4 @7 
 ### La experiencia y la tradición de los Padres testifican la caída segura de los impíos
-§13 §19 
+@13 @19 
 ### Una perspectiva reconfortante: si Job se aparta de un ser impío, será bendecido nuevamente por Dios
 ## 9
-§-1 
+@-1 
 ### Sí, Dios siempre tiene razón porque nadie puede resistirlo, el Todopoderoso
-§2 §3 §8 §9 §10 §12 
+@2 @3 @8 @9 @10 @12 
 ### Hiob würde, selbst wenn er im Recht wäre, bei einem Rechtsstreit mit Gott als schuldig dastehen
-§19 §20 
+@19 @20 
 ### Para cambiar la vida agonizante por la muerte, Job pronuncia conscientemente la blasfemia de que Dios actúa arbitrariamente contra los piadosos y contra los pecadores
-§28 
+@28 
 ### Dios no quiere aceptar la ley de Job, de lo contrario Job le gustaría hablar con él
 ## 10
-§-1 
+@-1 
 ### ¿Cómo puede sólo Dios, con su omnisciencia y perfección, ser un perseguidor de Job?
-§4 §7 
+@4 @7 
 ### Dios preparó hábilmente a Job y antes le mostró amor y bondad, pero desde el principio lo quiso decir con hostilidad
-§9 §17 
+@9 @17 
 ### ¡Que Dios nunca lo haya creado ni le haya dado un pequeño descanso ahora antes de la muerte!
-§18 §22 
+@18 @22 
 ## 11
-§-1 
+@-1 
 ### El discurso de Job exige rechazo; Con su perspicacia, Dios vio claramente a través de la culpa de Job y lo castigó con paciencia
-§4 §5 §6 §11 
+@4 @5 @6 @11 
 ### Job debe desechar su engaño; a través del arrepentimiento serio todavía puede obtener la salvación mientras el malhechor está perdido
-§20 
+@20 
 ## 12
-§-1 
+@-1 
 ### La queja de Job sobre la sabiduría imaginada y la despiadada falta de amor de los amigos
-§6 
+@6 
 ### La omnipotencia y la sabiduría de Dios son testificadas por todas sus criaturas; su conocimiento no es un privilegio de los viejos
-§12 §13 
+@12 @13 
 ### El comportamiento de Dios se presenta al hombre como una regla insensata, terrible y arbitraria de su omnipotencia
-§25 
+@25 
 ## 13
-§-1 
+@-1 
 ### Job equipara su conocimiento con el de sus amigos y apela al conocimiento de Dios, quien solo puede ver en sus amigos defensores mentirosos de su justicia dignos de castigo
-§5 §12 
+@5 @12 
 ### Job entra con confianza en esta batalla legal, siempre que Dios le dé la consideración necesaria manteniendo alejado su horror
-§24 §28 
+@24 @28 
 ## 14
-§-1 
+@-1 
 ### La vida humana es corta y al mismo tiempo llena de privaciones; ¿Por qué Dios no lo deja ir en paz?
-§2 §5 §6 
+@2 @5 @6 
 ### Después de la muerte ya no hay esperanza ni futuro para las personas
-§12 
+@12 
 ### Debido a la condición del difunto en el reino de los muertos, Job no puede tener ninguna esperanza de resurrección, de justificación y felicidad, porque todo lo bueno se acaba con la muerte
-§13 §14 §19 §22 
+@13 @14 @19 @22 
 ## 15
-§-1 
+@-1 
 ### Eliphas reprende las declaraciones de Job como vanas, impías y arrogantes palabras contra Dios
-§9 §15 §16 
+@9 @15 @16 
 ### Presentación y justificación de la doctrina transmitida por los padres de la desgracia y destrucción de los impíos
-§27 §28 §35 
+@27 @28 @35 
 ## 16
-§-1 
+@-1 
 ### Job rechaza los consuelos de los amigos como discursos ventosos y burlas
-§5 
+@5 
 ### Dios mismo obviamente marca a Job como un pecador a través de su sufrimiento, aunque sabe que es inocente y lo expone sin piedad a los ataques de amigos y a la incomprensión de la gente
-§9 §10 §12 §17 
+@9 @10 @12 @17 
 ### Sin embargo, Dios sigue siendo testigo y garante de Job de su inocencia y lo defenderá, aunque solo sea después de la muerte de Job
-§18 §22 
+@18 @22 
 ## 17
-§-1 
+@-1 
 ### Job expone las razones que deben hacer que Dios lo defienda ante la locura y la insensibilidad de los amigos y respecto a la participación de los piadosos
-§6 §7 §9 
+@6 @7 @9 
 ### Job rechaza los discursos de conversión y consolación de los amigos como tontos, ya que ha terminado con su vida
-§14 §16 
+@14 @16 
 ## 18
-§-1 
+@-1 
 ### Expresando disgusto por el discurso arrogante y moralista de Job
-§4 
+@4 
 ### Descripción repetida de la infalible y terrible caída que Dios tiene reservada para los malvados y sus parientes
-§5 §17 §21 
+@5 @17 @21 
 ## 19
-§-1 
+@-1 
 ### La queja de Job sobre sus amigos que lo reprenden sin evidencia en lugar de culpar a Dios por una enemistad sin fundamento
-§6 
+@6 
 ### La queja de Job sobre el grave sufrimiento que Dios le infligió injustamente y sobre el comportamiento despectivo de la gente contra él
-§7 §8 §11 §12 §13 §14 §17 §18 §19 §20 
+@7 @8 @11 @12 @13 @14 @17 @18 @19 @20 
 ### Job pide compasión a sus amigos y expresa la firme esperanza de que algún día Dios lo justifique, pero también castigue la insensibilidad de sus amigos
-§21 §22 §25 §26 §27 §29 
+@21 @22 @25 @26 @27 @29 
 ## 20
-§-1 
+@-1 
 ### Breve rechazo del discurso ofensivo de Job
-§3 
+@3 
 ### Representación apasionada de la infalible caída de los malvados con una alusión sin amor a la presunta indignación de Job
-§7 §8 §9 §10 §18 §26 §29 
+@7 @8 @9 @10 @18 @26 @29 
 ## 21
-§-1 
+@-1 
 ### La solicitud de Job a sus amigos de escuchar su declaración significativa, aunque dolorosa, que sigue
-§6 
+@6 
 ### Establecer el hecho de que los malvados (a menudo) son felices en la vida y en la muerte
-§14 §15 
+@14 @15 
 ### La felicidad y la infelicidad son dadas arbitrariamente por Dios
-§17 §18 §19 §26 
+@17 @18 @19 @26 
 ### La aplicación de la doctrina de la retribución de Dios a Job y el consuelo de Job para la felicidad posterior es incorrecta o incluso maliciosa
 ## 22
-§-1 
+@-1 
 ### Eliphaz ahora expresa sin reservas que Job merecía su desgracia
-§5 
+@5 
 ### Job ganó su castigo por una grave iniquidad
-§7 §11 
+@7 @11 
 ### Job ha pecado gravemente contra Dios por convicciones impías y por discursos inicuos
-§16 §17 §18 §19 §20 
+@16 @17 @18 @19 @20 
 ### En caso de conversión, Job ciertamente recibirá una nueva salvación de Dios
-§23 §24 §26 §27 §29 §30 
+@23 @24 @26 @27 @29 @30 
 ## 23
-§-1 
+@-1 
 ### Job se siente menos perturbado por su sufrimiento inocente que por la conducta incomprensible e injustificable de Dios
-§10 §17 
+@10 @17 
 ## 24
-§-1 
+@-1 
 ### Job da ejemplos del incomprensible gobierno de Dios en el sufrimiento de los inocentes y en la felicidad de los malvados
-§10 §11 §18 §25 
+@10 @11 @18 @25 
 ## 25
-§-1 
+@-1 
 ### Referencia al irresistible gobierno de Dios en las alturas y a la naturaleza pecaminosa e imperfección del hombre
-§5 §6 
+@5 @6 
 ## 26
-§-1 
+@-1 
 ### Manejo amargo del discurso de Bildad, que no contenía ni consuelo ni sabios consejos
-§4 
+@4 
 ### Job reconoce la inconmensurable majestad de Dios en una brillante descripción
-§6 §10 §14 
+@6 @10 @14 
 ## 27
-§-1 
+@-1 
 ### Job declara que debe aferrarse a la convicción de su inocencia jurada para no convertirse en un mentiroso
-§4 §6 
+@4 @6 
 ### Job bien conoce el destino del malhechor (es decir, el mentiroso)
-§8 §10 
+@8 @10 
 ### Descripción de la infalible caída de los malvados (a pesar de toda la voluntad de Dios)
-§17 §23 
+@17 @23 
 ## 28
-§-1 
+@-1 
 ### Todos los tesoros, incluidos los escondidos en las profundidades de la tierra, se pueden encontrar y hacer suyos
-§11 
+@11 
 ### Pero la sabiduría, el bien más preciado, no se encuentra en ninguna parte de la creación
-§15 §16 §19 §22 
+@15 @16 @19 @22 
 ### Solo Dios posee sabiduría y la ha ejercido en la creación del mundo; el hombre solo puede poseerlo como temor de Dios
-§25 §28 
+@25 @28 
 ## 29
-§-1 
+@-1 
 ### Descripción de la bendición divina anterior
-§3 §4 §6 
+@3 @4 @6 
 ### Descripción de su alta reputación anterior, su justicia y su trabajo exitoso
-§12 §17 §25 
+@12 @17 @25 
 ## 30
-§-1 
+@-1 
 ### Job recibe desprecio, insultos y ataques incluso de las personas más deshonrosas
-§9 §10 §15 
+@9 @10 @15 
 ### Descripción de los sufrimientos que han irrumpido en Job a través de la omnipotencia de Dios y sentimientos obviamente hostiles
-§16 §20 §23 
+@16 @20 @23 
 ### La seguridad de Job de que tiene un motivo justo para quejarse
-§31 
+@31 
 ## 31
-§-1 
+@-1 
 ### El gran juramento de limpieza de Job para establecer su justicia (= temor de Dios sin daño)
-§1 §4 §10 §16 §21 §24 §27 §30 §34 
+@1 @4 @10 @16 @21 @24 @27 @30 @34 
 ### El deseo y la voluntad de Job de entablar un litigio con Dios
-§35 §40 
+@35 @40 
 ## 32
-§-1 
+@-1 
 ### Información sobre Eliú y su comportamiento anterior
-§2 §3 §6 
+@2 @3 @6 
 ### Eliú justifica su silencio anterior
-§7 §14 
+@7 @14 
 ### Eliú explica que su mente está impulsada a mostrar imparcialmente su comprensión
 ## 33
-§-1 
+@-1 
 ### Discurso amistoso de Eliú e invitación a Job para que comentara
-§7 
+@7 
 ### Breve explicación y rechazo de las quejas de Job contra Dios
-§9 §10 §12 
+@9 @10 @12 
 ### Dios enseña a la gente sobre sus intenciones y sobre su pecado, a veces a través de sueños, a veces a través del sufrimiento, especialmente la enfermedad
-§16 §17 §23 §28 
+@16 @17 @23 @28 
 ### Solicitar a Job que le instruya o que refute la explicación de Eliú
 ## 34
-§-1 
+@-1 
 ### Estableciendo la afirmación de Job de que Dios es injusto
-§3 §6 
+@3 @6 
 ### Al blasfemar contra Dios, Job se vuelve inicuo; porque Dios no puede ser injusto según todo su ser (especialmente como gobernante del mundo)
-§7 §8 §9 §11 §12 §15 §22 §30 
+@7 @8 @9 @11 @12 @15 @22 @30 
 ### El juicio de Job sobre Dios es presuntuoso, necio e indignante, y merece el castigo más severo
-§32 §37 
+@32 @37 
 ## 35
-§-1 
+@-1 
 ### Eliú combate la afirmación de Job de que el temor de Dios no sirve de nada, y señala que lo que la gente hace no es importante para Dios, sino solo para la gente
-§3 §7 §8 
+@3 @7 @8 
 ### Los frecuentes casos de personas inocentes que no responden y se quejan de un trato violento pueden explicarse por la falta de confianza o el temor de Dios por parte de los afectados
-§13 §14 §15 §16 
+@13 @14 @15 @16 
 ## 36
-§-1 
+@-1 
 ### Eliú justifica su siguiente enseñanza con referencia a su perfecto conocimiento
-§4 
+@4 
 ### Dios quiere educar a las personas para su salvación a través del sufrimiento, especialmente para llevarlas al autoconocimiento y la obediencia, que solo logra con los que temen a Dios
-§10 §15 
+@10 @15 
 ### Por tanto, que ahora Job también se deje purificar a través de su sufrimiento para participar de la bendición divina
-§22 §25 
+@22 @25 
 ### Representación de la grandeza, la gloria y la sabiduría de Dios, que se revelan en la naturaleza
-§29 §30 §33 
+@29 @30 @33 
 ## 37
-§2 §8 §13 
+@2 @8 @13 
 ### Amonestación a Job de no observar un desafío altivo hacia este Dios, sino más bien una reverencia humilde
-§23 §24 
+@23 @24 
 ## 38
-§-1 
+@-1 
 ### La invitación de Dios a Job para que le hable
-§2 §3 
+@2 @3 
 ### Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
-§5 §11 §25 §31 §40 §41 
+@5 @11 @25 @31 @40 @41 
 ## 39
-§30 
+@30 
 ## 40
-§-1 
+@-1 
 ### La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
-§7 §24 
+@7 @24 
 ## 41
 ## 42
-§-1 
+@-1 
 ### La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
-§4 §6 
+@4 @6 
 ### La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
-§8 \ §9 
+@8 \ @9 
 ### Restauración y aumento del estado externo de felicidad de Job
-§10 §11 \ 
+@10 @11 \ 
 # Salmos
 %!verse-paragraphs%
 ## 1
-§-1 
+@-1 
 ### Las dos formas de vida
-§1 §2 §3 §4 §6 
+@1 @2 @3 @4 @6 
 ## 2
-§-1 
+@-1 
 ### La victoria de Dios y del rey ungido por él sobre las naciones furiosas
-§1 §2 §3 §4 §5 §8 §9 §11 §12 
+@1 @2 @3 @4 @5 @8 @9 @11 @12 
 ## 3
-§-1 
+@-1 
 ### Canción de la mañana de un hombre piadoso en los malos tiempos
-§1 §6 §7 §8 
+@1 @6 @7 @8 
 ## 4
-§-1 
+@-1 
 ### Canción vespertina de un hombre piadoso en tiempos de angustia
-§5 §6 §7 §8 
+@5 @6 @7 @8 
 ## 5
-§-1 
+@-1 
 ### Oración matutina en el templo contra enemigos impíos
-§3 §10 §12 
+@3 @10 @12 
 ## 6
-§-1 
+@-1 
 ### Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
-§3 §4 §6 §10 
+@3 @4 @6 @10 
 ## 7
-§-1 
+@-1 
 ### El Señor como juez justo y salvador de los afligidos
-§1 §3 §4 §9 §10 §11 §12 §13 §17 
+@1 @3 @4 @9 @10 @11 @12 @13 @17 
 ## 8
-§-1 
+@-1 
 ### La humildad y la alteza del hombre en la creación
-§3 §4 §5 §6 §7 §9 
+@3 @4 @5 @6 @7 @9 
 ## 9
-§-1 
+@-1 
 ### Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
-§7 §8 §9 §13 §16 §17 §19 §20 
+@7 @8 @9 @13 @16 @17 @19 @20 
 ## 10
-§-1 
+@-1 
 ### Pide ayuda contra los malvados de la violencia
-§1 §6 §7 §9 §14 §15 §16 §18 
+@1 @6 @7 @9 @14 @15 @16 @18 
 ## 11
-§-1 
+@-1 
 ### El Señor es fiel y justo
-§2 §5 §6 §7 
+@2 @5 @6 @7 
 ## 12
-§-1 
+@-1 
 ### Consuelo de los rectos contra la violencia de la mentira
-§7 §8 
+@7 @8 
 ## 13
-§-1 
+@-1 
 ### ¿Por cuánto tiempo más?
-§2 §6 
+@2 @6 
 ## 14
-§-1 
+@-1 
 ### Pensamientos sobre la depravación general del mundo y pedir redención
-§2 §3 §4 §7 
+@2 @3 @4 @7 
 ## 15
-§-1 
+@-1 
 ### ¿Quién puede ser el invitado del Señor?
-§1 §2 §5 
+@1 @2 @5 
 ## 16
-§-1 
+@-1 
 ### Dios el más alto, sí, solo bien por sí mismo
-§5 §9 §10 §11 
+@5 @9 @10 @11 
 ## 17
-§-1 
+@-1 
 ### El grito de un hombre angustiado por ayuda contra enemigos nefastos
-§2 §3 §7 §8 §12 §15 
+@2 @3 @7 @8 @12 @15 
 ## 18
-§-1 
+@-1 
 ### El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
-§3 §9 §10 §11 §12 §15 §20 §24 §30 §31 §35 §36 §37 §50 
+@3 @9 @10 @11 @12 @15 @20 @24 @30 @31 @35 @36 @37 @50 
 ## 19
-§-1 
+@-1 
 ### Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación
-§7 §8 §9 §13 §14 
+@7 @8 @9 @13 @14 
 ## 20
-§-1 
+@-1 
 ### Intercesión del pueblo por el rey a la salida del ejército
-§2 §7 §8 §9 
+@2 @7 @8 @9 
 ## 21
-§-1 
+@-1 
 ### Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones
-§3 §4 §11 §12 §13 
+@3 @4 @11 @12 @13 
 ## 22
-§-1 
+@-1 
 ### Lamento y esperanza de alguien abandonado por Dios (Salmo de la pasión del Salvador)
-§6 §7 §8 §15 §16 §17 §21 §25 §26 §27 §31 
+@6 @7 @8 @15 @16 @17 @21 @25 @26 @27 @31 
 ## 23
-§-1 
+@-1 
 ### El Señor como buen pastor y bondadoso dador de consuelo y seguridad
-§1 §2 §3 §4 §5 §6 
+@1 @2 @3 @4 @5 @6 
 ## 24
-§-1 
+@-1 
 ### Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario
-§1 §2 §3 §5 §6 §7 §10 
+@1 @2 @3 @5 @6 @7 @10 
 ## 25
-§-1 
+@-1 
 ### Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados
-§4 §12 §13 §14 §20 §21 §22 
+@4 @12 @13 @14 @20 @21 @22 
 ## 26
-§-1 
+@-1 
 ### Un piadoso grito de auxilio, consciente de su inocencia
-§4 §8 §12 
+@4 @8 @12 
 ## 27
-§-1 
+@-1 
 ### Confianza gozosa en el Señor y solicitud de mayor protección
-§1 §2 §3 §4 §5 §10 §11 §13 §14 
+@1 @2 @3 @4 @5 @10 @11 @13 @14 
 ## 28
-§-1 
+@-1 
 ### Oración y ayuda contra enemigos impíos y gracias por la respuesta
-§1 §2 §3 §7 §9 
+@1 @2 @3 @7 @9 
 ## 29
-§-1 
+@-1 
 ### La gloria de Dios en una tormenta
-§1 §2 §3 §11 
+@1 @2 @3 @11 
 ## 30
-§-1 
+@-1 
 ### Canción de agradecimiento para alguien rescatado de la angustia
-§4 §10 §12 
+@4 @10 @12 
 ## 31
-§-1 
+@-1 
 ### Oración confiada en extrema necesidad
-§4 §5 §6 §10 §14 §17 §22 §23 §24 
+@4 @5 @6 @10 @14 @17 @22 @23 @24 
 ## 32
-§-1 
+@-1 
 ### Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)
-§1 §3 §8 §9 §11 
+@1 @3 @8 @9 @11 
 ## 33
-§-1 
+@-1 
 ### Invitación a alabar la omnipotencia y la gracia de Dios
-§1 §2 §3 §6 §7 §12 §17 §18 §19 §20 §22 
+@1 @2 @3 @6 @7 @12 @17 @18 @19 @20 @22 
 ## 34
-§-1 
+@-1 
 ### Dios ayuda a los suyos en cada necesidad
-§1 §9 §10 §11 §15 §19 §20 §22 
+@1 @9 @10 @11 @15 @19 @20 @22 
 ## 35
-§-1 
+@-1 
 ### Pide ayuda a un tolerante contra enemigos infieles e ingratos
-§2 §7 §8 §12 §13 §16 §17 §18 §19 §21 §26 §27 §28 
+@2 @7 @8 @12 @13 @16 @17 @18 @19 @21 @26 @27 @28 
 ## 36
-§-1 
+@-1 
 ### Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios
-§2 §6 §7 §9 §10 §12 
+@2 @6 @7 @9 @10 @12 
 ## 37
-§-1 
+@-1 
 ### La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos
-§1 §5 §6 §7 §10 §11 §13 §14 §16 §20 §24 §25 §27 §28 §29 §32 §33 §34 §35 §36 §37 §39 §40 
+@1 @5 @6 @7 @10 @11 @13 @14 @16 @20 @24 @25 @27 @28 @29 @32 @33 @34 @35 @36 @37 @39 @40 
 ## 38
-§-1 
+@-1 
 ### Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)
-§3 §4 §5 §14 §21 §22 
+@3 @4 @5 @14 @21 @22 
 ## 39
-§-1 
+@-1 
 ### Demanda y solicitud de una persona fuertemente impugnada
-§3 §6 §12 §13 
+@3 @6 @12 @13 
 ## 40
-§-1 
+@-1 
 ### Acción de gracias y súplica
-§6 §7 §10 §15 §16 §17 
+@6 @7 @10 @15 @16 @17 
 ## 41
-§-1 
+@-1 
 ### Un enfermo se queja de enemigos maliciosos y amigos infieles
-§5 §13 
+@5 @13 
 ## 42
-§-1 
+@-1 
 ### Anhelo de Dios y su santuario en Sion
-§4 §5 §6 §10 §11 
+@4 @5 @6 @10 @11 
 ## 43
-§1 §2 §3 §4 §5 
+@1 @2 @3 @4 @5 
 ## 44
-§-1 
+@-1 
 ### Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos
-§5 §14 §23 §24 §25 §26 
+@5 @14 @23 @24 @25 @26 
 ## 45
-§-1 
+@-1 
 ### Canción de celebración de la boda del rey
-§3 §7 §11 §17 
+@3 @7 @11 @17 
 ## 46
-§-1 
+@-1 
 ### Una poderosa fortaleza es nuestro Dios
-§9 §10 §11 
+@9 @10 @11 
 ## 47
-§-1 
+@-1 
 ### El Dios de Israel como Rey de todos los pueblos
-§5 §6 §8 §9 
+@5 @6 @8 @9 
 ## 48
-§-1 
+@-1 
 ### La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios
-§2 §3 §5 §14 
+@2 @3 @5 @14 
 ## 49
-§-1 
+@-1 
 ### Impermanencia de la felicidad exterior de los malvados
-§5 §11 §16 §17 §18 §19 §20 
+@5 @11 @16 @17 @18 @19 @20 
 ## 50
-§-1 
+@-1 
 ### La adoración correcta
-§1 §3 §4 §5 §15 §16 §18 §23 
+@1 @3 @4 @5 @15 @16 @18 @23 
 ## 51
-§-1 
+@-1 
 ### Oración penitencial de David (cuarto salmo penitencial)
-§2 §3 §5 §6 §7 §10 §18 §19 
+@2 @3 @5 @6 @7 @10 @18 @19 
 ## 52
-§-1 
+@-1 
 ### Quejarse de un enemigo violento y regocijarse con la ayuda divina
-§2 §9 
+@2 @9 
 ## 53
-§-1 
+@-1 
 ### Pensamientos sobre la depravación general del mundo y pedir redención
 ## 54
-§-1 
+@-1 
 ### Pide ayuda contra enemigos impíos
 ## 55
-§-1 
+@-1 
 ### Oración contra un enemigo impío y queja contra un amigo infiel
-§10 §20 §23 
+@10 @20 @23 
 ## 56
-§-1 
+@-1 
 ### Coraje seguro en una situación desesperada
-§1 §5 §13 
+@1 @5 @13 
 ## 57
-§-1 
+@-1 
 ### Confianza en Dios en medio de enemigos
-§1 §2 §8 §9 §11 
+@1 @2 @8 @9 @11 
 ## 58
-§-1 
+@-1 
 ### Contra jueces (o gobernantes) injustos
-§6 §11 
+@6 @11 
 ## 59
-§-1 
+@-1 
 ### Un grito de ayuda de un enemigo violento
-§1 §7 §11 §17 
+@1 @7 @11 @17 
 ## 60
-§-1 
+@-1 
 ### Oración después de una severa derrota en la guerra
-§2 §6 §7 §9 §12 
+@2 @6 @7 @9 @12 
 ## 61
-§-1 
+@-1 
 ### Intercesión por el Rey desde lejos
-§5 §8 
+@5 @8 
 ## 62
-§-1 
+@-1 
 ### ¡Silencio en Dios! La nada de la gente
-§1 §2 §8 §12 
+@1 @2 @8 @12 
 ## 63
-§-1 
+@-1 
 ### Anhelo de Dios, el refrigerio del alma y el bien supremo
-§1 §2 §11 
+@1 @2 @11 
 ## 64
-§-1 
+@-1 
 ### Pide protección contra enemigos maliciosos
-§5 §6 §9 §10 
+@5 @6 @9 @10 
 ## 65
-§-1 
+@-1 
 ### Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha
-§8 §11 §13 
+@8 @11 @13 
 ## 66
-§-1 
+@-1 
 ### Canto de agradecimiento del pueblo por su maravillosa guía y salvación
-§10 §18 §20 
+@10 @18 @20 
 ## 67
-§-1 
+@-1 
 ### ¡Dios bendiga a Israel! (Canción de Acción de Gracias)
-§4 §7 
+@4 @7 
 ## 68
-§-1 
+@-1 
 ### La victoria del Dios de Israel sobre sus enemigos
-§5 §6 §8 §9 §12 §17 §18 §19 §20 §25 §26 §27 §32 §35 
+@5 @6 @8 @9 @12 @17 @18 @19 @20 @25 @26 @27 @32 @35 
 ## 69
-§-1 
+@-1 
 ### La oración de un hombre piadoso por la salvación de la vergüenza y la angustia
-§1 §5 §9 §10 §13 §14 §21 §22 §23 §27 §28 §29 §33 §36 
+@1 @5 @9 @10 @13 @14 @21 @22 @23 @27 @28 @29 @33 @36 
 ## 70
-§-1 
+@-1 
 ### Pide ayuda en la búsqueda
 ## 71
-§-1 
+@-1 
 ### ¡No me dejes en la vejez!
-§3 §7 §15 §18 §19 §20 §24 
+@3 @7 @15 @18 @19 @20 @24 
 ## 72
-§-1 
+@-1 
 ### Bendiciones al rey
-§4 §9 §10 §11 §12 §14 §15 §17 §20 
+@4 @9 @10 @11 @12 @14 @15 @17 @20 
 ## 73
-§-1 
+@-1 
 ### El hecho por Dios »sin embargo«
-§2 §3 §7 §23 §28 
+@2 @3 @7 @23 @28 
 ## 74
-§-1 
+@-1 
 ### Quejarse ante la congregación de la devastación del templo y pedir ayuda
-§2 §8 §15 §16 §23 
+@2 @8 @15 @16 @23 
 ## 75
-§-1 
+@-1 
 ### Dios, el juez del mundo justo
-§2 §9 §10 
+@2 @9 @10 
 ## 76
-§-1 
+@-1 
 ### El canto de la victoria de Israel en alabanza a Dios
-§4 §12 
+@4 @12 
 ## 77
-§-1 
+@-1 
 ### Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo
-§1 §6 §14 §20 
+@1 @6 @14 @20 
 ## 78
-§-1 
+@-1 
 ### Revisión de advertencia de la desobediencia repetida de Israel
-§2 §3 §8 §13 §14 §15 §21 §31 §39 §40 §43 §44 §45 §46 §47 §51 §52 §53 §54 §57 §58 §60 §67 §68 §70 §71 §72 
+@2 @3 @8 @13 @14 @15 @21 @31 @39 @40 @43 @44 @45 @46 @47 @51 @52 @53 @54 @57 @58 @60 @67 @68 @70 @71 @72 
 ## 79
-§-1 
+@-1 
 ### Lamentación del pueblo de Dios por la desolación de Jerusalén
-§4 §5 §6 §11 §12 §13 
+@4 @5 @6 @11 @12 @13 
 ## 80
-§-1 
+@-1 
 ### Oración por la restauración de Israel, la vid que Dios plantó
-§1 §2 §4 §8 §9 §13 §19 
+@1 @2 @4 @8 @9 @13 @19 
 ## 81
-§-1 
+@-1 
 ### Canción del festival. Con penitencia
-§4 §10 §16 
+@4 @10 @16 
 ## 82
-§-1 
+@-1 
 ### El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)
-§1 §2 §3 §6 §8 
+@1 @2 @3 @6 @8 
 ## 83
-§-1 
+@-1 
 ### ¡Enemigos por todas partes! (Oración del pueblo angustiado)
-§10 §13 §18 
+@10 @13 @18 
 ## 84
-§-1 
+@-1 
 ### Anhelo de la casa de Dios (¿una canción de peregrinaje?)
-§1 §4 §5 §10 §11 §12 
+@1 @4 @5 @10 @11 @12 
 ## 85
-§-1 
+@-1 
 ### La oración de Israel por nueva gracia y la promesa de bendición de Dios
-§6 §13 
+@6 @13 
 ## 86
-§-1 
+@-1 
 ### Oración de los piadosos en angustia hostil
-§2 §3 §5 §8 §15 §16 §17 
+@2 @3 @5 @8 @15 @16 @17 
 ## 87
-§-1 
+@-1 
 ### Sion, la piadosa ciudad madre de las naciones
-§4 §7 
+@4 @7 
 ## 88
-§-1 
+@-1 
 ### Queja desesperada de un enfermo grave
-§9 §18 
+@9 @18 
 ## 89
-§-1 
+@-1 
 ### ¿Dónde se dan las promesas de gracia de Dios a la Casa de David?
-§7 §10 §11 §12 §19 §20 §21 §26 §27 §29 §38 §39 §42 §48 §52 
+@7 @10 @11 @12 @19 @20 @21 @26 @27 @29 @38 @39 @42 @48 @52 
 ## 90
-§-1 
+@-1 
 ### Dios eterno el refugio de los perecederos
-§4 §5 §10 §17 
+@4 @5 @10 @17 
 ## 91
-§-1 
+@-1 
 ### Bajo el cuidado del Altísimo
-§2 §3 §8 §13 §16 
+@2 @3 @8 @13 @16 
 ## 92
-§-1 
+@-1 
 ### Alabado sea el justo gobierno de Dios
-§4 §8 §9 §11 §12 §13 §14 §15 
+@4 @8 @9 @11 @12 @13 @14 @15 
 ## 93
-§-1 
+@-1 
 ### La gloria de Dios, el Rey eterno del mundo
-§1 §5 
+@1 @5 
 ## 94
-§-1 
+@-1 
 ### Pide venganza contra los impíos opresores del pueblo de Dios
-§1 §2 §8 §9 §11 §12 §13 §23 
+@1 @2 @8 @9 @11 @12 @13 @23 
 ## 95
-§-1 
+@-1 
 ### Alabanza a Dios al entrar al templo y penitencia
-§3 §9 §11 
+@3 @9 @11 
 ## 96
-§-1 
+@-1 
 ### Alabado sea Dios como el gobernante del mundo en los últimos tiempos
-§1 §10 §11 §13 
+@1 @10 @11 @13 
 ## 97
-§-1 
+@-1 
 ### El ascenso y el reinado de Dios en los últimos tiempos
-§1 §2 §3 §6 §7 §8 §9 §10 §11 §12 
+@1 @2 @3 @6 @7 @8 @9 @10 @11 @12 
 ## 98
-§-1 
+@-1 
 ### Alabado sea Dios como rey y juez justo del mundo
-§1 §6 §7 §9 
+@1 @6 @7 @9 
 ## 99
-§-1 
+@-1 
 ### Alabado sea el Dios santo, el Rey que todo lo gobierna
-§1 §6 §9 
+@1 @6 @9 
 ## 100
-§-1 
+@-1 
 ### Alabado sea Dios al entrar al templo
-§5 
+@5 
 ## 101
-§-1 
+@-1 
 ### Votos de un gobernante (o: príncipe espejo)
-§6 §8 
+@6 @8 
 ## 102
-§-1 
+@-1 
 ### Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)
-§6 §12 §21 §25 §26 §27 §28 
+@6 @12 @21 @25 @26 @27 @28 
 ## 103
-§-1 
+@-1 
 ### ¡Alabado sea el Señor, alma mía!
-§4 §5 §7 §8 §9 §14 §15 §17 §22 
+@4 @5 @7 @8 @9 @14 @15 @17 @22 
 ## 104
-§-1 
+@-1 
 ### La gloria de Dios en la naturaleza
-§7 §15 §29 §35 
+@7 @15 @29 @35 
 ## 105
-§-1 
+@-1 
 ### Los actos salvadores de Dios en el antiguo Israel
-§1 §14 §17 §23 §24 §27 §39 §40 §41 §45 
+@1 @14 @17 @23 @24 @27 @39 @40 @41 @45 
 ## 106
-§-1 
+@-1 
 ### La gracia de Dios y la ingratitud de Israel
-§6 §7 §12 §16 §20 §21 §23 §24 §28 §32 §37 §47 §48 
+@6 @7 @12 @16 @20 @21 @23 @24 @28 @32 @37 @47 @48 
 ## 107
-§-1 
+@-1 
 ### Alabado sea Dios, el Salvador de toda adversidad
-§1 §8 §9 §13 §19 §22 §31 §43 
+@1 @8 @9 @13 @19 @22 @31 @43 
 ## 108
-§-1 
+@-1 
 ### Alaba la gracia de Dios y pide ayuda
-§2 §13 
+@2 @13 
 ## 109
-§-1 
+@-1 
 ### Maldición de enemigos impíos
-§5 §14 §15 §18 §28 §29 §31 
+@5 @14 @15 @18 @28 @29 @31 
 ## 110
-§-1 
+@-1 
 ### El mensaje de Dios al Sacerdote-Rey
-§1 §2 §3 §4 §5 §7 
+@1 @2 @3 @4 @5 @7 
 ## 111
-§-1 
+@-1 
 ### Alabe las bendiciones físicas y espirituales de Dios
-§5 §10 
+@5 @10 
 ## 112
-§-1 
+@-1 
 ### La bendición del temor de Dios y la misericordia
-§1 §2 §4 §5 §8 §9 §10 
+@1 @2 @4 @5 @8 @9 @10 
 ## 113
-§-1 
+@-1 
 ### Alabado sea el Dios exaltado y misericordioso
-§6 §7 §9 
+@6 @7 @9 
 ## 114
-§-1 
+@-1 
 ### El poder milagroso de Dios durante el paso de los israelitas por el Mar Rojo y el Jordán
-§1 §3 §4 §7 §8 
+@1 @3 @4 @7 @8 
 ## 115
-§-1 
+@-1 
 ### Solo el Dios vivo merece gloria
-§2 §9 §10 §11 §18 
+@2 @9 @10 @11 @18 
 ## 116
-§-1 
+@-1 
 ### Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)
-§3 §9 §10 §11 §15 §19 
+@3 @9 @10 @11 @15 @19 
 ## 117
-§-1 
+@-1 
 ### Llamando a los gentiles a alabar a Dios
-§2 
+@2 
 ## 118
-§-1 
+@-1 
 ### Oración de acción de gracias y canción de victoria de la comunidad del festival
-§1 §2 §7 §12 §18 §22 §29 
+@1 @2 @7 @12 @18 @22 @29 
 ## 119
-§-1 
+@-1 
 ### Gloria de la palabra y ley divinas (o: el alfabeto dorado)
-§1 §8 
+@1 @8 
 ### Beth
-§16 
+@16 
 ### Gimel
-§21 §24 
+@21 @24 
 ### Daleth
-§32 
+@32 
 ### He
-§35 §40 
+@35 @40 
 ### Vau
-§47 §48 
+@47 @48 
 ### Zain
-§56 
+@56 
 ### Cheth
-§61 §62 §64 
+@61 @62 @64 
 ### Teth
-§65 §67 §68 §69 §70 §71 §72 
+@65 @67 @68 @69 @70 @71 @72 
 ### Jod
-§75 §76 §77 §78 §80 
+@75 @76 @77 @78 @80 
 ### Caph
-§83 §88 
+@83 @88 
 ### Lamed
-§89 §92 §93 §94 §96 
+@89 @92 @93 @94 @96 
 ### Mem
-§98 §104 
+@98 @104 
 ### Nun
-§105 §108 §109 §112 
+@105 @108 @109 @112 
 ### Samech
-§113 §114 §120 
+@113 @114 @120 
 ### Ain
-§122 §128 
+@122 @128 
 ### Pe
-§130 §136 
+@130 @136 
 ### Tzaddi
-§139 §143 §144 
+@139 @143 @144 
 ### Coph
-§149 §152 
+@149 @152 
 ### Resh
-§153 §160 
+@153 @160 
 ### Sin
-§166 §168 
+@166 @168 
 ### Tau
-§172 §176 
+@172 @176 
 ## 120
-§-1 
+@-1 
 ### Pida ayuda contra adversarios engañosos y contenciosos
 ## 121
-§-1 
+@-1 
 ### El fiel guardián del pueblo
 ## 122
-§-1 
+@-1 
 ### Las bendiciones de un peregrino para Jerusalén
-§1 §9 
+@1 @9 
 ## 123
-§-1 
+@-1 
 ### Los creyentes miran a Dios con vergüenza y burla
 ## 124
-§-1 
+@-1 
 ### El salvador de Israel necesitado
-§4 §8 
+@4 @8 
 ## 125
-§-1 
+@-1 
 ### Dios protege a su pueblo Israel y a todos los rectos
-§2 §5 
+@2 @5 
 ## 126
-§-1 
+@-1 
 ### Consuelo en las lágrimas
-§1 §6 
+@1 @6 
 ## 127
-§-1 
+@-1 
 ### Todo depende de la bendición de Dios
-§3 §5 
+@3 @5 
 ## 128
-§-1 
+@-1 
 ### La felicidad doméstica como bendición del temor de Dios
-§6 
+@6 
 ## 129
-§-1 
+@-1 
 ### Tribulaciones y salvación de Israel
-§8 
+@8 
 ## 130
-§-1 
+@-1 
 ### Por profunda necesidad (Sexto Salmo Penitencial)
-§1 §3 §4 §8 
+@1 @3 @4 @8 
 ## 131
-§-1 
+@-1 
 ### Satisfacción tranquila (o descanso en Dios)
 ## 132
-§-1 
+@-1 
 ### Oración por Sion en vista de la promesa de Dios a David
-§2 §6 §11 §17 §18 
+@2 @6 @11 @17 @18 
 ## 133
-§-1 
+@-1 
 ### Bendiciones de la unidad fraterna
 ## 134
-§-1 
+@-1 
 ### Canción de los guardias del templo en el servicio nocturno
-§3 
+@3 
 ## 135
-§-1 
+@-1 
 ### Alabado sea el único Dios verdadero
-§5 §8 §9 §11 §12 §13 §14 §15 §21 
+@5 @8 @9 @11 @12 @13 @14 @15 @21 
 ## 136
-§-1 
+@-1 
 ### Canto de acción de gracias por los beneficios de Dios para Israel
-§1 §10 §26 
+@1 @10 @26 
 ## 137
-§-1 
+@-1 
 ### Lamento de los judíos capturados a los ríos de Babilonia
-§5 §9 
+@5 @9 
 ## 138
-§-1 
+@-1 
 ### Lamento de los judíos capturados a los ríos de Babilonia
-§4 §8 
+@4 @8 
 ## 139
-§-1 
+@-1 
 ### Dios el omnisciente y omnipresente
-§1 §2 §9 §12 §16 §17 §18 §24 
+@1 @2 @9 @12 @16 @17 @18 @24 
 ## 140
-§-1 
+@-1 
 ### Oración por la salvación de enemigos engañosos
-§7 §13 
+@7 @13 
 ## 141
-§-1 
+@-1 
 ### Oración por protección contra el mal y los perseguidores
-§2 §3 §4 §5 §10 
+@2 @3 @4 @5 @10 
 ## 142
-§-1 
+@-1 
 ### Pide ayuda en una situación desesperada
-§1 §4 §7 
+@1 @4 @7 
 ## 143
-§-1 
+@-1 
 ### Pedir ayuda en aflicciones externas e internas (Séptimo Salmo Penitencial)
-§5 §6 §7 §11 §12 
+@5 @6 @7 @11 @12 
 ## 144
-§-1 
+@-1 
 ### Oración de alabanza y súplica; La abundancia de bendiciones de Israel
-§1 §2 §3 §4 §5 §9 §12 §15 
+@1 @2 @3 @4 @5 @9 @12 @15 
 ## 145
-§-1 
+@-1 
 ### Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo
-§8 §9 §12 §15 §19 §21 
+@8 @9 @12 @15 @19 @21 
 ## 146
-§-1 
+@-1 
 ### ¡Bienaventurados los que confían en el Señor!
-§4 §9 §10 
+@4 @9 @10 
 ## 147
-§-1 
+@-1 
 ### Alabado sea la omnipotencia, la bondad y la sabiduría de Dios
-§1 §4 §9 §16 §20 
+@1 @4 @9 @16 @20 
 ## 148
-§-1 
+@-1 
 ### ¡Todo el mundo, toda la creación, alabado sea el Señor!
-§2 §14 
+@2 @14 
 ## 149
-§-1 
+@-1 
 ### El cántico de victoria y venganza de Israel
-§1 §2 §9 
+@1 @2 @9 
 ## 150
-§-1 
+@-1 
 ### ¡Todo lo que respira, alabado sea el Señor!
 # Proverbios
 ## 1
-§-1 
+@-1 
 ### Indicación del propósito de las escrituras
-§1 §6 \ §7 
+@1 @6 \ @7 
 ### Invitación a la obediencia voluntaria; Advertencia contra la seducción, especialmente antes de participar en actos de violencia
-§8 §9 §19 
+@8 @9 @19 
 ### El llamado de la sabiduría para obedecer voluntariamente sus mandamientos; Amenazas para los reacios
-§21 §26 §31 §32 §33 
+@21 @26 @31 @32 @33 
 ## 2
-§-1 
+@-1 
 ### Las bendiciones de buscar diligentemente la sabiduría
-§7 §18 §22 
+@7 @18 @22 
 ## 3
-§-1 
+@-1 
 ### Advertencias sobre el temor de Dios y el comportamiento moral con referencia a la recompensa esperada
-§3 §4 §6 \ §7 §8 §9 §12 
+@3 @4 @6 \ @7 @8 @9 @12 
 ### Valor y bendición de la sabiduría
-§13 §14 §15 §16 §22 §26 
+@13 @14 @15 @16 @22 @26 
 ### Advertencias contra el desamor hacia el prójimo y contra la violencia
-§34 §35 
+@34 @35 
 ## 4
-§-1 
+@-1 
 ### Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas
-§5 §9 \ §10 §11 §14 §19 \ §22 §27 
+@5 @9 \ @10 @11 @14 @19 \ @22 @27 
 ## 5
-§-1 
+@-1 
 ### Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal
-§6 \ §14 \ 
+@6 \ @14 \ 
 ## 6
-§-1 
+@-1 
 ### Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos
-§1 §5 \ §10 §11 \ §13 §15 \ §19 
+@1 @5 \ @10 @11 \ @13 @15 \ @19 
 ### Otra advertencia contra el coito con adúlteras
-§21 §22 §24 §32 §35 
+@21 @22 @24 @32 @35 
 ## 7
-§-1 
+@-1 
 ### Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias
-§5 \ §23 \ §27 
+@5 \ @23 \ @27 
 ## 8
-§-1 
+@-1 
 ### Invitación y auto recomendación de la sabiduría como docente
-§1 §10 §11 \ §15 §21 
+@1 @10 @11 \ @15 @21 
 ### La sabiduría como primera y más excelente criatura de Dios
-§27 §31 
+@27 @31 
 ### Recordatorio y advertencia
 ## 9
-§-1 
+@-1 
 ### La Sra. Sabiduria y la Sra. Locura invitan a los invitados
-§2 §8 §11 §12 
+@2 @8 @11 @12 
 ### La invitación a la locura
 ## 10
-§1 §4 §10 §11 §12 §16 §24 §28 §29 §30 §31 §32 
+@1 @4 @10 @11 @12 @16 @24 @28 @29 @30 @31 @32 
 ## 11
-§1 §2 §3 §4 §7 §8 §11 §19 §23 §28 §31 
+@1 @2 @3 @4 @7 @8 @11 @19 @23 @28 @31 
 ## 12
-§1 §3 §4 §5 §10 §11 §12 §18 §23 §24 §25 §28 
+@1 @3 @4 @5 @10 @11 @12 @18 @23 @24 @25 @28 
 ## 13
-§1 §2 §3 §4 §7 §10 §16 §22 §25 
+@1 @2 @3 @4 @7 @10 @16 @22 @25 
 ## 14
-§18 §21 §25 §26 §27 §30 §31 §35 
+@18 @21 @25 @26 @27 @30 @31 @35 
 ## 15
-§1 §2 §8 §9 §10 §11 §12 §13 §15 §16 §18 §19 §20 §27 §30 §33 
+@1 @2 @8 @9 @10 @11 @12 @13 @15 @16 @18 @19 @20 @27 @30 @33 
 ## 16
-§3 §7 §8 §9 §12 §15 §16 §18 §24 §25 §26 §29 §30 §31 §32 §33 
+@3 @7 @8 @9 @12 @15 @16 @18 @24 @25 @26 @29 @30 @31 @32 @33 
 ## 17
-§1 §5 §6 §13 §17 §18 §21 §22 §24 §25 §27 §28 
+@1 @5 @6 @13 @17 @18 @21 @22 @24 @25 @27 @28 
 ## 18
-§5 §8 §9 §10 §11 §12 §16 §20 §21 §22 §24 
+@5 @8 @9 @10 @11 @12 @16 @20 @21 @22 @24 
 ## 19
-§3 §4 §5 §9 §13 §14 §15 §16 §17 §18 §21 §24 §25 §27 §29 
+@3 @4 @5 @9 @13 @14 @15 @16 @17 @18 @21 @24 @25 @27 @29 
 ## 20
-§1 §2 §4 §5 §7 §8 §9 §10 §11 §16 §17 §18 §22 §23 §25 §28 §29 §30 
+@1 @2 @4 @5 @7 @8 @9 @10 @11 @16 @17 @18 @22 @23 @25 @28 @29 @30 
 ## 21
-§1 §2 §3 §4 §6 §11 §17 §18 §19 §23 §27 §28 §30 §31 
+@1 @2 @3 @4 @6 @11 @17 @18 @19 @23 @27 @28 @30 @31 
 ## 22
-§1 §6 §9 §10 §11 §14 §15 §16 
+@1 @6 @9 @10 @11 @14 @15 @16 
 ### Primera colección de dichos de los sabios; Introducción
-§21 
+@21 
 ### Recordatorios individuales
-§23 \ §24 §25 \ §26 §27 \ §29 
+@23 \ @24 @25 \ @26 @27 \ @29 
 ## 23
-§3 \ §5 \ §8 \ §9 §10 §11 \ §12 \ §14 \ §16 \ §18 \ §21 \ §22 §25 \ §28 \ §29 §30 §35 
+@3 \ @5 \ @8 \ @9 @10 @11 \ @12 \ @14 \ @16 \ @18 \ @21 \ @22 @25 \ @28 \ @29 @30 @35 
 ## 24
-§2 \ §4 \ §6 \ §7 \ §8 \ §9 \ §10 \ §11 §12 \ §14 \ §16 \ §17 §18 \ §20 \ §21 §22 
+@2 \ @4 \ @6 \ @7 \ @8 \ @9 \ @10 \ @11 @12 \ @14 \ @16 \ @17 @18 \ @20 \ @21 @22 
 ### Segunda colección de dichos de los sabios
-§23 §25 \ §26 \ §27 \ §29 \ §34 
+@23 @25 \ @26 \ @27 \ @29 \ @34 
 ## 25
-§-1 
+@-1 
 ### Tercera colección de Proverbios de Salomón
-§1 \ §7 §11 §15 §21 §28 
+@1 \ @7 @11 @15 @21 @28 
 ## 26
-§1 §3 §11 §12 §13 §14 §15 §21 §22 §27 §28 
+@1 @3 @11 @12 @13 @14 @15 @21 @22 @27 @28 
 ## 27
-§2 §10 §13 §20 §22 \ 
+@2 @10 @13 @20 @22 \ 
 ## 28
-§4 §8 §9 §12 §13 §17 §20 §24 §27 §28 
+@4 @8 @9 @12 @13 @17 @20 @24 @27 @28 
 ## 29
-§1 §2 §3 §4 §9 §14 §15 §16 §17 §20 §23 §24 §27 
+@1 @2 @3 @4 @9 @14 @15 @16 @17 @20 @23 @24 @27 
 ## 30
-§-1 
+@-1 
 ### Dichos de Agur
-§4 \ §5 §6 \ §9 \ §10 \ §12 §13 §14 \ §16 \ §17 \ §18 §20 \ §22 §23 \ §28 \ 
+@4 \ @5 @6 \ @9 \ @10 \ @12 @13 @14 \ @16 \ @17 \ @18 @20 \ @22 @23 \ @28 \ 
 ## 31
-§-1 
+@-1 
 ### Dichos para Lemuel
-§1 \ §3 §4 §8 §9 
+@1 \ @3 @4 @8 @9 
 ### Alabado sea el ama de casa capaz
-§24 §25 
+@24 @25 
 # Eclesiastés
 ## 1
-§-1 
+@-1 
 ### La inutilidad de todo esfuerzo humano como resultado de la constante monotonía en el ciclo de las cosas
-§1 \ §4 §11 
+@1 \ @4 @11 
 ### La inutilidad de luchar por la sabiduría y el conocimiento; La vida humana resulta inútil para el espectador
-§12 §15 
+@12 @15 
 ### La búsqueda de un conocimiento claro conduce a la decepción
 ## 2
-§-1 
+@-1 
 ### La inutilidad de intentar obtener satisfacción mediante los placeres sensuales y el disfrute de la vida o mediante la actividad creativa
-§2 \ §3 §11 
+@2 \ @3 @11 
 ### Al final, la sabiduría es tan vacía como la locura, porque el destino final de los sabios y los necios es el mismo
-§12 §14 §16 \ §17 
+@12 @14 @16 \ @17 
 ### Referencia al mal de que el sabio debe dejar el beneficio y el disfrute de su laboriosa labor a un heredero quizás insensato
-§18 §19 \ §23 
+@18 @19 \ @23 
 ### Entonces lo mejor para el hombre es disfrutar el momento en la medida en que Dios se lo conceda
-§26 
+@26 
 ## 3
-§-1 
+@-1 
 ### Todo tiene su tiempo
-§1 §8 
+@1 @8 
 ### Pero el hombre no conoce el tiempo establecido por Dios y es impotente contra él
-§11 §12 §15 
+@11 @12 @15 
 ### En el mundo humano hay maldad e injusticia, pero Dios es el juez mundial
-§17 
+@17 
 ### La ley de la impermanencia existe tanto para los humanos como para los animales y exhorta a disfrutar de la vida
-§20 §21 \ 
+@20 @21 \ 
 ## 4
-§-1 
+@-1 
 ### La opresión, los celos y el trabajo en parte inquieto, la calma en parte lenta devalúan la vida
-§3 §4 \ §6 
+@3 @4 \ @6 
 ### El esfuerzo de la persona soltera es inútil; dos trabajadores que trabajan juntos están mejor
-§7 §8 \ §12 
+@7 @8 \ @12 
 ### Comunicación de un evento histórico que confirma la observación del predicador de que el favor popular no es confiable
-§14 §16 
+@14 @16 
 ## 5
-§-1 
+@-1 
 ### Recordatorio de tener cuidado al realizar deberes religiosos (con sacrificios, oración y votos)
-§1 §2 §3 §5 §7 
+@1 @2 @3 @5 @7 
 ### Las opresiones en el estado son lamentables, pero comprensibles; Bendiciones de regalías para los estados agrícolas
-§9 
+@9 
 ### La nulidad y las quejas de las riquezas
-§11 \ §12 \ §14 §17 
+@11 \ @12 \ @14 @17 
 ### Recomendación del disfrute de la vida además del trabajo y la riqueza
 ## 6
-§-1 
+@-1 
 ### Alguien tiene bienes ricos pero no los disfruta
-§2 \ §6 
+@2 \ @6 
 ### La insaciabilidad del deseo y la búsqueda del placer
-§9 
+@9 
 ### La impotencia humana en relación con la predestinación divina de todas las cosas (especialmente la vida de personas individuales)
 ## 7
-§-1 
+@-1 
 ### Advertencias para ser serios con la vida y someterse pacientemente a los decretos divinos
-§1 §8 \ §10 \ §12 \ §14 
+@1 @8 \ @10 \ @12 \ @14 
 ### Advertencia contra todo exceso y amonestación de la verdadera sabiduría
-§20 §24 
+@20 @24 
 ### Las malas experiencias del predicador con las mujeres
-§25 \ §26 \ §29 
+@25 \ @26 \ @29 
 ## 8
-§-1 
+@-1 
 ### La conducta del sabio hacia el gobernante y en días de opresión
-§1 \ §5 
+@1 \ @5 
 ### Impotencia e desorientación del hombre
-§7 §8 
+@7 @8 
 ### Justos y malvados generalmente corren el mismo destino en una sola violencia; Pertenece cuando uno tiene pautas para el disfrute de la vida en el trabajo
-§12 §13 \ §15 
+@12 @13 \ @15 
 ### El gobierno de Dios en el gobierno mundial es insondable para el hombre
 ## 9
-§-1 
+@-1 
 ### La misma suerte para todos en la vida y en la muerte; impotencia humana contra la deidad; El disfrute piadoso de la vida antes de la muerte establece una meta para todo gozo y actividad
-§2 §3 §6 \ §7 §10 
+@2 @3 @6 \ @7 @10 
 ### La dependencia del hombre del destino
-§11 §12 
+@11 @12 
 ### Más experiencias de vida y dichos de sabiduría
 ## 10
-§4 \ §6 §10 \ §11 §14 \ §16 §19 §20 
+@4 \ @6 @10 \ @11 @14 \ @16 @19 @20 
 ## 11
-§-1 
+@-1 
 ### Actuación inteligente y rentable ante la incertidumbre de todo lo terrenal
-§1 §8 
+@1 @8 
 ### Recordatorio para disfrutar plenamente de la vida en la juventud, pero agrada a Dios
-§9 §10 
+@9 @10 
 ## 12
-§1 
+@1 
 ### Descripción de las dolencias de la vejez
-§7 \ §8 \ §9 §11 
+@7 \ @8 \ @9 @11 
 ### Advertencia contra cavilaciones inútiles; Lista del resultado final
-§12 \ 
+@12 \ 
 # Cantar de los Cantares
 ## 1
-§-1 
+@-1 
 ### El diálogo interno de Sulammith y su anhelo de amor
-§4 
+@4 
 ### Queja de belleza de niña en riesgo
-§6 
+@6 
 ### TSolicitud de la novia para una cita
-§8 
+@8 
 ### Dulce charla de amor
-§15 §16 §17 
+@15 @16 @17 
 ## 2
-§-1 
+@-1 
 ### Cantos y compromiso
-§5 §6 §7 
+@5 @6 @7 
 ### Amor primavera
-§14 
+@14 
 ### Dos suspiros de amor de la novia
-§17 
+@17 
 ## 3
-§-1 
+@-1 
 ### Sueño anhelante de la novia
-§1 §4 §5 
+@1 @4 @5 
 ### La procesión nupcial del novio
 ## 4
-§-1 
+@-1 
 ### Descripción de la novia por el novio
-§2 §3 §4 §5 §6 §7 
+@2 @3 @4 @5 @6 @7 
 ### La boda
-§11 
+@11 
 ### Comparación de la esposa de la novia con un maravilloso jardín
 ## 5
-§-1 
+@-1 
 ### El joven marido toma posesión de su jardín; la fiesta de bodas
-§1 
+@1 
 ### Besuch des Bräutigams
-§2 §6 §7 
+@2 @6 @7 
 ### Descripción del novio por la novia
-§12 §13 §16 
+@12 @13 @16 
 ## 6
-§2 §3 
+@2 @3 
 ### Descripción de la novia por el novio
-§4 §5 §6 §7 §8 §9 
+@4 @5 @6 @7 @8 @9 
 ### La procesión de la boda
 ## 7
-§-1 
+@-1 
 ### Descripción del baile de la novia; Alabado sea su belleza
-§4 §5 §6 
+@4 @5 @6 
 ### El novio alaba a la novia
-§7 §9 
+@7 @9 
 ### En la patria de la esposa
-§12 §13 
+@12 @13 
 ## 8
-§-1 
+@-1 
 ### Amante y hermano
-§2 §3 §4 
+@2 @3 @4 
 ### En el destino en la casa del esposo
-§7 
+@7 
 ### Canción de la hermana pequeña que frustró los planes de los codiciosos hermanos
-§10 
+@10 
 ### Canción de los dos viñedos
 # Isaías
 ## 1
-§-1 
+@-1 
 ### Queja y acusación, sermón de penitencia y amenaza de castigo
-§1 
+@1 
 ### La acusación de Dios contra la gente infiel
-§3 
+@3 
 ### La queja del profeta contra el pueblo pecador
-§5 §6 §9 
+@5 @6 @9 
 ### Enseñar a Dios acerca de la adoración correcta y incorrecta
-§10 §11 §16 §17 
+@10 @11 @16 @17 
 ### Los tratos de Dios con Judá; la condición para la reconciliación y la salvación del pueblo
-§18 §19 §20 
+@18 @19 @20 
 ### Lamentación por la profunda corrupción de Sion; la futura purificación de la ciudad y la aniquilación de los pecadores
-§21 §23 §26 §27 §29 §31 
+@21 @23 @26 @27 @29 @31 
 ## 2
-§-1 
+@-1 
 ### Nuevo título; el mundo venidero como reino de paz de Dios alrededor de Jerusalén
-§1 \ §3 §4 §5 
+@1 \ @3 @4 @5 
 ### La idolatría y la dependencia de la riqueza y el poder externo desafían la ira y el castigo de Dios
-§7 §11 
+@7 @11 
 ### Anuncio del juicio de Dios sobre toda la soberanía terrenal y el orgullo humano
-§17 
+@17 
 ### Los ídolos en particular sufrirán una gran desgracia
-§21 §22 
+@21 @22 
 ## 3
-§-1 
+@-1 
 ### El colapso del estado de Judea como castigo por el mal gobierno
-§1 §7 \ §9 §10 §12 
+@1 @7 \ @9 @10 @12 
 ### Dios anuncia juicio a la cabeza del pueblo
-§15 
+@15 
 ### El juicio de Dios sobre las mujeres altivas y degeneradas de las clases altas de Jerusalén
-§16 §17 \ §24 
+@16 @17 \ @24 
 ### La ciudad despojada de sus hombres
 ## 4
-§1 
+@1 
 ### Gloria de la Jerusalén purificada después del juicio del mundo bajo la protección personal de Dios
-§2 §3 §4 §5 §6 
+@2 @3 @4 @5 @6 
 ## 5
-§-1 
+@-1 
 ### La parábola de la viña estéril
-§1 §2 \ §7 
+@1 @2 \ @7 
 ### Seis ayes del profeta por los pecados y los vicios del pueblo
-§8 §10 \ §15 §17 \ §19 \ §20 \ §21 \ §24 
+@8 @10 \ @15 @17 \ @19 \ @20 \ @21 \ @24 
 ### El juicio destructivo de Dios amenazado por el terrible enemigo (asirio)
 ## 6
-§-1 
+@-1 
 ### El llamado y la consagración de Isaías como profeta
-§1 §3 \ §4 §5 \ §7 
+@1 @3 \ @4 @5 \ @7 
 ### La comisión de Dios al profeta de aumentar la terquedad del pueblo a través de su sermón y preparar los juicios más difíciles
-§8 \ §10 \ §11 \ 
+@8 \ @10 \ @11 \ 
 ## 7
-§-1 
+@-1 
 ### El aliento de Isaías al rey Acaz después del estallido de la guerra sirio-efraimita
-§1 §2 \ §9 
+@1 @2 \ @9 
 ### El discurso amenazador de Isaías al incrédulo Acaz; el signo de immanuel; la futura desolación de Judá
-§11 \ §12 \ §15 §16 §17 
+@11 \ @12 \ @15 @16 @17 
 ### Señal del juicio futuro para Jerusalén
-§19 \ §20 \ §22 \ 
+@19 \ @20 \ @22 \ 
 ## 8
-§-1 
+@-1 
 ### Profecía de la conquista de Damasco y Samaria por los asirios
-§2 \ §4 
+@2 \ @4 
 ### Profecía de la destrucción de Judá por los asirios
-§8 
+@8 
 ### El profeta anuncia el fracaso de sus planes a los pueblos
-§9 §10 
+@9 @10 
 ### El peligro real no proviene de los planes y convenios humanos, sino del desprecio por Dios
-§14 §15 
+@14 @15 
 ### La firme confianza de Isaías en la verdad de las palabras que Dios le hizo
-§18 
+@18 
 ### La locura y las consecuencias destructivas de la apostasía de Dios para el pueblo
-§19 §22 
+@19 @22 
 ## 9
-§-1 
+@-1 
 ### Profecía del establecimiento del reino de Dios por el descendiente prometido de David
-§1 \ §3 \ §6 \ §7 
+@1 \ @3 \ @6 \ @7 
 ### Los castigos del altivo reino norteño de Efraín no han tenido ningún efecto en todo Israel
-§12 
+@12 
 ### La gente impenitente tampoco ha mejorado con las pérdidas masivas de personas
-§13 §17 
+@13 @17 
 ### La autodestrucción interior inexorablemente progresiva
-§20 §21 
+@20 @21 
 ## 10
-§-1 
+@-1 
 ### ¡Ay de las cabezas despreciables del pueblo! Un destino terrible te espera
-§3 \ §4 
+@3 \ @4 
 ### Asiria ha transgredido el mandato de Dios con arrogancia
-§5 §10 §11 
+@5 @10 @11 
 ### El juicio divino sobre la arrogancia de los asirios
-§14 \ §15 §19 
+@14 \ @15 @19 
 ### La salvación del remanente de Israel, reparada por la Visitación
-§22 §23 
+@22 @23 
 ### Dios anima a su pueblo al anunciar la destrucción del enemigo que se aproxima
-§26 §27 
+@26 @27 
 ### El acercamiento del enemigo desde el norte y su destrucción ante Jerusalén
-§32 \ 
+@32 \ 
 ## 11
-§-1 
+@-1 
 ### El vástago de David se llenó del espíritu de Dios como fundador del futuro reino de paz
-§2 §5 \ §6 §9 
+@2 @5 \ @6 @9 
 ### El recogimiento del pueblo de Dios esparcido y la gloria del reino del Mesías al mundo exterior
-§10 §16 
+@10 @16 
 ## 12
-§-1 
+@-1 
 ### Oración y votos de agradecimiento de la Iglesia Sion salvado
-§3 §4 §6 
+@3 @4 @6 
 ## 13
-§-1 
+@-1 
 ### Juicio sobre la ciudad de Babilonia
-§1 
+@1 
 ### Anuncio del Día Mundial del Juicio; el aterrador acercamiento del ejército convocado por Dios
-§2 §5 \ §6 §8 
+@2 @5 \ @6 @8 
 ### Los horrores y terribles efectos de este día del juicio (también en la naturaleza)
-§12 §16 
+@12 @16 
 ### La conquista y destrucción de Babilonia por los medos
-§18 §19 §22 
+@18 @19 @22 
 ## 14
-§-1 
+@-1 
 ### Dios restaurará a su pueblo Israel por misericordia después de la caída de Babilonia
-§1 §2 
+@1 @2 
 ### Canción burlona del pueblo liberado de Israel sobre el derrocamiento del rey de Babilonia
-§3 
+@3 
 ### Alegría de toda la tierra por la caída de los poderosos
-§8 
+@8 
 ### Gozoso asombro del reino de los muertos
-§11 
+@11 
 ### ¡Qué caída de los presuntuosos! ¡Qué final vergonzoso!
-§14 §17 \ §20 \ §21 
+@14 @17 \ @20 \ @21 
 ### El juicio afirmativo de destrucción de Dios
-§23 
+@23 
 ### Amenaza a Asiria en caso de ataque a Israel
-§27 
+@27 
 ### Amenaza contra los filisteos y salvación para Jerusalén
-§28 \ §29 §30 \ §31 \ 
+@28 \ @29 @30 \ @31 \ 
 ## 15
-§-1 
+@-1 
 ### Lamento por la desolación de Moab
-§1 \ §2 §3 §5 §9 
+@1 \ @2 @3 @5 @9 
 ## 16
-§-1 
+@-1 
 ### Una solicitud de ayuda de los moabitas fugitivos al pueblo judío
-§5 
+@5 
 ### Rechazo de la solicitud de ayuda; nuevos anuncios de fatalidad
-§9 §12 \ §14 
+@9 @12 \ @14 
 ## 17
-§-1 
+@-1 
 ### Anuncio de la caída de los reinos de Damasco e Israel
-§1 \ §3 
+@1 \ @3 
 ### Descripción del destino futuro de Israel e indicación del motivo de su visita
-§11 
+@11 
 ### Dios amenaza a los pueblos furiosos, los oponentes del pueblo de Dios
-§14 
+@14 
 ## 18
-§-1 
+@-1 
 ### El mensaje de Dios a los embajadores etíopes en Jerusalén
-§3 \ 
+@3 \ 
 ## 19
-§-1 
+@-1 
 ### Las tribulaciones que aguardan a la tierra por la intervención de Dios
-§1 \ §4 \ §10 
+@1 \ @4 \ @10 
 ### Los líderes del estado egipcio están perdidos
-§15 
+@15 
 ### El temor de los egipcios a Dios y a su pueblo
-§17 
+@17 
 ### Las primeras ciudades de Egipto y la adoración de Dios se extendió entre los egipcios
-§18 \ §22 
+@18 \ @22 
 ### Asiria, Egipto e Israel formarán un gran imperio mundial al servicio de Dios
-§23 \ §25 
+@23 \ @25 
 ## 20
-§-1 
+@-1 
 ### Isaías anuncia el cautiverio de Egipto y Etiopía por los asirios a través de un acto simbólico
-§1 §2 §6 
+@1 @2 @6 
 ## 21
-§-1 
+@-1 
 ### Anuncio de la terrible visión
-§1 \ §4 
+@1 \ @4 
 ### Descripción de la visión
-§8 §9 
+@8 @9 
 ### Llamada del profeta a su pueblo sufriente
-§10 
+@10 
 ### Palabra de Dios sobre Duma y Arabia
-§11 \ §12 \ §13 \ 
+@11 \ @12 \ @13 \ 
 ## 22
-§-1 
+@-1 
 ### Discurso de castigo contra la Jerusalén alegremente emocionada, alejada de Dios e impenitente
-§1 \ §4 \ §9 §10 §11 \ §13 §14 
+@1 \ @4 \ @9 @10 @11 \ @13 @14 
 ### Contra la presunción del gobernante de palacio Sebna
-§19 
+@19 
 ### Profecía y advertencia para Eljakim, sucesor de Sebna en el cargo
-§20 §25 
+@20 @25 
 ## 23
-§-1 
+@-1 
 ### Lamento por la destrucción del país y la ciudad
-§1 \ §7 \ §10 §12 \ §14 
+@1 \ @7 \ @10 @12 \ @14 
 ### La ciudad volverá a florecer más tarde y servirá al Señor
 ## 24
-§-1 
+@-1 
 ### La tierra y su gente enfrentan un juicio desolado
-§3 
+@3 
 ### Desolada y sin alegría, la tierra yace bajo la maldición del pecado
-§7 §8 §12 
+@7 @8 @12 
 ### El juicio será despiadado; Todavía no hay motivo para celebrar, porque todavía están por llegar visitas horribles
-§13 \ §16 \ §19 §20 
+@13 \ @16 \ @19 @20 
 ### Solo después de que los poderes celestiales y terrenales hayan sido castigados, Dios asumirá su reinado en el monte Sión
-§21 §23 
+@21 @23 
 ## 25
-§-1 
+@-1 
 ### El cántico de agradecimiento y alabanza de Israel por la salvación experimentada hasta ese momento
-§4 §5 
+@4 @5 
 ### Profecía de la bienaventurada felicidad del reino completo de Dios
-§8 
+@8 
 ### Nuevo júbilo de la comunidad por la salvación y alegría por la humillación de enemigos obstinados, especialmente los moabitas
-§9 §10 \ 
+@9 @10 \ 
 ## 26
-§-1 
+@-1 
 ### Canto de alabanza de la ciudad de Dios firme y fiel a la justicia divina
-§1 §2 §4 §6 
+@1 @2 @4 @6 
 ### Alabe los caminos de Dios y dé gracias por los juicios dolorosos pero sanos de Dios
-§12 
+@12 
 ### La congregación mira hacia atrás al pasado turbulento y pidió el cumplimiento de sus últimos deseos, especialmente a través de la resurrección de sus piadosos muertos
-§16 §17 §18 §19 
+@16 @17 @18 @19 
 ### Recordatorio de ser paciente
-§20 §21 
+@20 @21 
 ## 27
-§-1 
+@-1 
 ### Aniquilación de las potencias mundiales; El amor de Dios por su pueblo, expresado en el canto de la viña cuidadosamente custodiada
-§1 \ §2 §5 
+@1 \ @2 @5 
 ### El castigo suave y saludable del pueblo judío en oposición a la aniquilación total de las potencias mundiales
-§8 §9 §11 
+@8 @9 @11 
 ### La purificación de Israel y el regreso de los camaradas del cautiverio
-§12 \ §13 
+@12 \ @13 
 ## 28
-§-1 
+@-1 
 ### Anuncio de la caída de Samaria
-§4 
+@4 
 ### Esta visitación servirá a la gloria de Dios y a la renovación del pueblo
-§6 
+@6 
 ### Corrigiendo y amenazando a los sacerdotes y profetas borrachos hostiles al profeta
-§8 \ §10 \ §12 §13 
+@8 \ @10 \ @12 @13 
 ### Condenar y amenazar a los líderes confiados del estado
-§16 §21 §22 
+@16 @21 @22 
 ### El sabio comportamiento de Dios en su obra educativa sobre los pueblos a pesar de todos los cambios está ilustrado por una parábola (del agricultor)
 ## 29
-§-1 
+@-1 
 ### Anuncio del asedio, la humillación y la maravillosa salvación de Jerusalén, el Ariel
-§1 §4 \ §6 §8 
+@1 @4 \ @6 @8 
 ### La profunda ceguera del pueblo obra de Dios
-§12 
+@12 
 ### La piedad exterior de la gente hace necesarias medidas especiales de Dios
-§13 §14 
+@13 @14 
 ### Ay del gobierno idiosincrásico (política) de Juda
-§15 §16 
+@15 @16 
 ### El giro consolador de las cosas en el futuro
-§17 §18 §21 \ 
+@17 @18 @21 \ 
 ## 30
-§-1 
+@-1 
 ### Ay de los impíos e inútiles que buscan ayuda en Egipto
-§5 
+@5 
 ### Descartando dicho sobre la importancia política de Egipto
-§6 \ §7 
+@6 \ @7 
 ### Se supone que Isaías debe escribir sus profecías como testimonio del terrible futuro de la gente reacia
-§14 
+@14 
 ### Tu fuerza está en quedarte quieto y confiar
-§17 \ §18 
+@17 \ @18 
 ### La futura renovación y felicidad de los fieles
-§21 §22 \ §26 
+@21 @22 \ @26 
 ### La aparición personal de Dios para destruir al enemigo, especialmente a los asirios
-§33 
+@33 
 ## 31
-§-1 
+@-1 
 ### Egipto no puede proteger a aquellos cuya impiedad el Eterno debe castigar
-§1 §2 §3 
+@1 @2 @3 
 ### El Señor quiere salvar su ciudad para los piadosos y destruir Asiria
-§7 \ §8 §9 
+@7 \ @8 @9 
 ## 32
-§-1 
+@-1 
 ### El sentido maravillosamente renovado de los gobernantes y del pueblo a través del juicio
-§1 §4 §8 
+@1 @4 @8 
 ### Discurso punitivo y amenazador a las mujeres que viven con una frivolidad despreocupada
-§9 §14 
+@9 @14 
 ### Promesa de salvación para las personas que finalmente han sido purificadas después del derramamiento del espíritu
 ## 33
-§-1 
+@-1 
 ### El llamado final de aflicción y angustia para el infame conquistador para quien ahora ha llegado el juicio de Dios
-§3 §6 \ §13 
+@3 @6 \ @13 
 ### El efecto santificador del juicio; la felicidad futura del pueblo bajo la protección divina
-§15 §16 \ §19 §24 
+@15 @16 \ @19 @24 
 ## 34
-§-1 
+@-1 
 ### El juicio de Dios contra todos los pueblos extranjeros hostiles al reino de Dios, especialmente Edom
-§3 §4 
+@3 @4 
 ### El juicio de la ira de Dios contra Edom en venganza por Sion
-§13 §17 
+@13 @17 
 ## 35
-§-1 
+@-1 
 ### El regreso a casa del pueblo redimido y la gloriosa renovación de Jerusalén
-§3 §4 §5 §8 §10 
+@3 @4 @5 @8 @10 
 ## 36
-§-1 
+@-1 
 ### Jerusalén amenazada por Senaquerib y maravillosamente salvada
-§3 \ §4 §10 
+@3 \ @4 @10 
 ### Senaquerib y la arrogancia de sus embajadores
-§11 \ §13 §18 §20 \ §21 \ 
+@11 \ @13 @18 @20 \ @21 \ 
 ## 37
-§-1 
+@-1 
 ### El estímulo de Ezequías de Isaías
-§4 \ §5 \ §7 
+@4 \ @5 \ @7 
 ### La segunda solicitud de Sennacherib a través de una carta amenazante de Libna
-§12 §13 
+@12 @13 
 ### La súplica de Ezechîas en el templo
-§20 
+@20 
 ### Isaías envía notificación de su oración al rey Ezechîas en el nombre de Dios
-§22 \ §24 §25 \ §29 \ §31 §32 \ §35 
+@22 \ @24 @25 \ @29 \ @31 @32 \ @35 
 ### El cumplimiento de la promesa: la partida y el asesinato de Senaquerib
 ## 38
-§-1 
+@-1 
 ### Enfermedad, recuperación y cántico de alabanza de Ezequías
-§1 \ §3 \ §8 
+@1 \ @3 \ @8 
 ### Mirando hacia atrás a las dificultades
-§11 §12 §13 §14 
+@11 @12 @13 @14 
 ### Expresión de alegría agradecida; Graduación
-§18 §20 \ 
+@18 @20 \ 
 ## 39
-§-1 
+@-1 
 ### Embajada de Merodac-Baladan de Babilonia a Ezequías
-§2 
+@2 
 ### El discurso de castigo de Isaías sobre la pompa descuidada del rey y su profecía sobre el cautiverio en Babilonia
-§3 \ §4 \ §7 
+@3 \ @4 \ @7 
 ### La respuesta devota pero impenitente de Ezechîas
 ## 40
-§-1 
+@-1 
 ### El dicho consolador de Dios sobre el perdón del pueblo
-§2 
+@2 
 ### ¡Preparen un camino para el Señor a través del desierto!
-§3 §5 
+@3 @5 
 ### Nada del hombre, pero existencia eterna de la palabra de Dios
-§6 §8 
+@6 @8 
 ### La canción de la victoria de Sion: El Dios todopoderoso y fiel está aquí
-§10 §11 
+@10 @11 
 ### La grandeza de Dios en la creación
-§13 §16 
+@13 @16 
 ### La nada de todos los pueblos, de todos los ídolos, de todas las cosas en el cielo y en la tierra
-§22 §26 
+@22 @26 
 ### Advertencia de abatimiento a pesar de todas las desgracias
-§28 §31 
+@28 @31 
 ## 41
-§-1 
+@-1 
 ### Dios como gobernante de la historia de las naciones y señor de la profecía
-§2 §7 
+@2 @7 
 ### Israel como siervo de Dios escogido en Abraham y no rechazado desde entonces
-§8 §13 
+@8 @13 
 ### Israel como el pueblo aparentemente pobre, pero fuerte y bendecido en Dios
-§14 §16 \ §20 
+@14 @16 \ @20 
 ### La nada de los ídolos que no tienen profecía mientras Dios trae y predice el futuro
-§22 §24 \ §29 
+@22 @24 \ @29 
 ## 42
-§-1 
+@-1 
 ### La referencia de Dios a su siervo elegido y su naturaleza y obra
-§1 §3 §4 
+@1 @3 @4 
 ### Dios anuncia su llamado misionero a su siervo
-§7 §8 §9 
+@7 @8 @9 
 ### Alabado sea el Señor que realiza la salvación (especialmente la liberación de su pueblo); La promesa de Dios de su acción enérgica a pesar de los adoradores de ídolos
-§17 
+@17 
 ### Quejarse de la ceguera y la falta de idoneidad del actual Israel, el siervo de Dios
-§18 §19 §20 §25 
+@18 @19 @20 @25 
 ## 43
-§-1 
+@-1 
 ### Anuncio de la liberación y reunión de todo el pueblo de Dios de todas partes del cielo
-§2 §3 §5 §7 
+@2 @3 @5 @7 
 ### A pesar de la ceguera de Israel, el Señor testifica como el Dios verdadero a los mudos ídolos de los gentiles
-§8 §9 §10 §11 §12 §13 
+@8 @9 @10 @11 @12 @13 
 ### Palabra de Dios contra Babilonia
-§15 
+@15 
 ### El próximo acto redentor de Dios comparado con los milagros anteriores de Dios
-§19 §21 
+@19 @21 
 ### La infidelidad y la culpa del pecado de Israel expiadas por la gracia gratuita de Dios
-§23 §26 §27 §28 
+@23 @26 @27 @28 
 ## 44
-§-1 
+@-1 
 ### Prometen ricas bendiciones divinas, especialmente la dispensación del espíritu divino
-§1 §2 §3 §5 
+@1 @2 @3 @5 
 ### Referencia a la divinidad única del Señor y al desprecio de la idolatría
-§7 §8 \ §11 
+@7 @8 \ @11 
 ### Representación burlona de la creación de los ídolos
-§12 §20 
+@12 @20 
 ### Recordatorio de una nueva fidelidad a Dios e himno de alabanza final
-§21 §22 \ §23 
+@21 @22 \ @23 
 ### Anuncio del gran plan divino
-§27 §28 
+@27 @28 
 ## 45
-§-1 
+@-1 
 ### La elección de Dios de Ciro para la redención de Israel; Anunciación de la salvación para el héroe de Dios
-§1 §5 §7 
+@1 @5 @7 
 ### La bendición de Dios sobre la obra terminada
-§8 
+@8 
 ### Rechazo de los insatisfechos con este camino de Dios; Referencia al florecimiento de la salvación para Israel
-§9 §13 
+@9 @13 
 ### Una glorificación cada vez mayor de Israel (o Jerusalén) y su Dios será el resultado
-§14 §15 §16 §17 
+@14 @15 @16 @17 
 ### Otro llamado a todo el mundo de las naciones con referencia a la futura bendición del plan divino de salvación
-§20 §21 §23 §24 §25 
+@20 @21 @23 @24 @25 
 ## 46
-§-1 
+@-1 
 ### El final miserable de los ídolos babilónicos
-§2 
+@2 
 ### El recordatorio de Dios de la lealtad mostrada a su pueblo hasta ahora y la locura de toda idolatría
-§5 §7 
+@5 @7 
 ### Insinuación alentadora de la cercanía de la salvación
-§10 §11 \ 
+@10 @11 \ 
 ## 47
-§-1 
+@-1 
 ### Humillación del gobernante orgulloso y exuberante a la suerte de un esclavo
-§1 §4 
+@1 @4 
 ### Humillación del gobernante mundial como castigo por su crueldad hacia Judá y por su excesivo descuido
-§6 §7 
+@6 @7 
 ### El juicio criminal cayendo sobre la amante altiva impía
-§11 
+@11 
 ### Las artes mágicas y las ciencias secretas no pueden evitar la ruina
-§12 §15 
+@12 @15 
 ## 48
-§-1 
+@-1 
 ### Forma dura de dirigirse a la gente terca
-§2 
+@2 
 ### Las profecías anteriores han permanecido ineficaces, y las nuevas promesas de salvación se encuentran con un pueblo sin refinar
-§4 §11 
+@4 @11 
 ### Nueva referencia al llamado de Ciro y las terribles consecuencias de una desobediencia anterior
-§12 §14 §15 \ §18 §19 
+@12 @14 @15 \ @18 @19 
 ### Llamado para regresar de Babilonia y vítores de los redimidos
-§21 §22 
+@21 @22 
 ## 49
-§-1 
+@-1 
 ### Habla del siervo a los paganos sobre su oficio según la voluntad divina
-§2 §3 §4 §6 
+@2 @3 @4 @6 
 ### Dios promete la mayor glorificación a su pueblo profundamente humillado
-§7 \ §8 §12 §13 
+@7 \ @8 @12 @13 
 ### Consuelo de la abatida Sión con la promesa de una pronta restauración y una población abundante
-§15 §20 §21 
+@15 @20 @21 
 ### Los gentiles como siervos sumisos y cuidadores del pueblo de Dios
-§23 
+@23 
 ### El mismo Dios Todopoderoso derrocará al gobernante de Israel
 ## 50
-§-1 
+@-1 
 ### Dios no ha echado ni vendido a su pueblo para bien; tiene el derecho y el poder de redimirlo
-§1 §2 §3 
+@1 @2 @3 
 ### Entre los dones que le ha dado Dios, el siervo de Dios hace especial hincapié en la lealtad profesional, la firmeza de fe y la tolerancia
-§4 §5 §6 §9 
+@4 @5 @6 @9 
 ### Aliento a los piadosos y amenaza a los oponentes violentos e impíos
 ## 51
-§-1 
+@-1 
 ### Discurso de amonestación sincero y aliento reconfortante para aquellos que anhelan la salvación entre la gente
-§1 §2 §3 \ §6 \ §7 §8 
+@1 @2 @3 \ @6 \ @7 @8 
 ### Petición a Dios para que vuelva a mostrar su omnipotencia para la salvación de su pueblo
-§9 §10 §11 
+@9 @10 @11 
 ### Nuevo consuelo y aliento del pueblo por Dios
-§12 §16 
+@12 @16 
 ### Descripción de la situación de la ciudad, que ha sido severamente probada por la copa de Dios que cae, y el anuncio de la redención
-§17 §19 §20 §22 §23 
+@17 @19 @20 @22 @23 
 ## 52
-§-1 
+@-1 
 ### Invitación a Sión para prepararse dignamente para recibir a los redimidos
-§3 §6 
+@3 @6 
 ### Invitación a regocijarse por el regreso de Dios y los redimidos a Sion
-§7 §8 §10 §11 §12 
+@7 @8 @10 @11 @12 
 ### Dios anuncia la humillación sufrida y la exaltación brillante de su siervo
-§13 §15 
+@13 @15 
 ## 53
-§-1 
+@-1 
 ### La profunda humillación del Siervo de Dios, sus graves sufrimientos por los pecadores, su muerte paciente y la promesa que le hizo
-§1 §2 §3 §4 §5 §6 §7 §9 §10 
+@1 @2 @3 @4 @5 @6 @7 @9 @10 
 ### Dios confirma la recompensa del siervo por su sufrimiento vicario
-§11 §12 
+@11 @12 
 ## 54
-§-1 
+@-1 
 ### La graciosa aceptación y la bendición del niño rico de Sion; el pacto de paz eterna
-§1 §5 §6 §7 §8 §9 §10 
+@1 @5 @6 @7 @8 @9 @10 
 ### La gloria futura y la existencia segura de la ciudad de Dios
-§12 §13 §15 §17 
+@12 @13 @15 @17 
 ## 55
-§-1 
+@-1 
 ### Amonestación urgente al pueblo para que se apodere de los bienes salvíficos prometidos en el pacto davídico y ahora ofrecidos gratuitamente
-§3 §5 
+@3 @5 
 ### Frente a tal salvación, ¡que se lleve a cabo el gran plan de Dios para que Israel regrese feliz a casa!
-§7 §11 §12 §13 
+@7 @11 @12 @13 
 ## 56
-§-1 
+@-1 
 ### La salvación está cerca y la membresía de la iglesia es posible para todos, incluidos los no israelitas
-§2 §3 §7 §8 
+@2 @3 @7 @8 
 ### Sobre la falta de escrúpulos y el egoísmo de los líderes del pueblo
-§11 §12 
+@11 @12 
 ## 57
-§1 §2 
+@1 @2 
 ### Sobre las actividades idólatras e indecentes de todo el pueblo
-§3 §11 §13 
+@3 @11 @13 
 ### Nueva promesa de gracia de Dios para los humildes, piadosos y penitentes
-§15 §16 §19 §20 §21 
+@15 @16 @19 @20 @21 
 ## 58
-§-1 
+@-1 
 ### La vana adoración del presente; Indigno de ayuno externo
-§1 §2 §5 
+@1 @2 @5 
 ### El amor misericordioso agrada a Dios
-§7 §8 §9 §12 
+@7 @8 @9 @12 
 ### La bendición de la correcta observancia del sábado
-§13 §14 
+@13 @14 
 ## 59
-§-1 
+@-1 
 ### Discurso de castigo del profeta sobre la pecaminosidad general
-§1 §7 §8 
+@1 @7 @8 
 ### Des Volkes Bekenntnis seiner Sünden und seiner Ratlosigkeit
-§14 
+@14 
 ### La intervención salvadora de Dios y su promesa de salvación
-§20 \ §21 
+@20 \ @21 
 ## 60
-§-1 
+@-1 
 ### Sion eclipsada por la luz de Dios
-§3 
+@3 
 ### Sión como lugar de reunión para sus hijos y los tesoros del mundo
-§4 §6 §9 
+@4 @6 @9 
 ### Sion honrada y agraciada como dueña del mundo
-§11 §14 
+@11 @14 
 ### Sion la gloria y el gozo de los pueblos como el centro pacífico de la tierra
-§16 §17 §18 
+@16 @17 @18 
 ### Sión como una ciudad de luz llena de Dios está floreciendo gloriosamente
-§19 §22 
+@19 @22 
 ## 61
-§-1 
+@-1 
 ### Discurso de consolación del Mensajero de Dios a su pueblo afligido
-§1 §2 §3 
+@1 @2 @3 
 ### Presentación de la gloria prometida por Dios
-§5 §6 §8 §9 
+@5 @6 @8 @9 
 ### Saludos de la comunidad por la graciosa glorificación
 ## 62
-§-1 
+@-1 
 ### Dios proclama que no se detendrá hasta que llegue el apogeo de Sion
-§2 
+@2 
 ### El consejo de Dios de glorificar y asegurar su ciudad inevitablemente se llevará a cabo
-§5 
+@5 
 ### Recordatorio a los guardias designados sobre Jerusalén de no dejar al Señor en paz hasta que no haya cumplido sus promesas
-§6 §8 §9 
+@6 @8 @9 
 ### Llamado al éxodo de las tierras paganas a la ciudad de Dios destinada a la alta salvación
-§11 §12 
+@11 @12 
 ## 63
-§-1 
+@-1 
 ### El juicio inminente de Edom y otras naciones hostiles piadosas
-§1 §2 §3 §4 §5 §6 
+@1 @2 @3 @4 @5 @6 
 ### Mirando hacia atrás a los beneficios divinos mostrados a la gente en el pasado
-§8 §9 
+@8 @9 
 ### Anhelo del pueblo correctamente castigado por el amor y la lealtad del Dios antiguo
-§11 §14 
+@11 @14 
 ### Por favor pida piedad y ayuda con la actual miseria externa e interna
-§18 §19 
+@18 @19 
 ## 64
-§-1 
+@-1 
 ### Anhelo por la revelación completa del terrible poder de Dios
-§4 
+@4 
 ### Humilde confesión de culpa y solicitud de nueva gracia
-§6 \ §7 §12 
+@6 \ @7 @12 
 ## 65
-§-1 
+@-1 
 ### ottes se lamentan contra el pueblo apóstata; Amenaza de castigo para los apóstatas
-§1 §2 §4 §7 
+@1 @2 @4 @7 
 ### Anuncio del divorcio entre los siervos fieles y los que persisten en la apostasía; se debe guardar una selección
-§10 §12 
+@10 @12 
 ### El destino de los que adoran y desprecian a Dios; la exuberante felicidad del futuro pueblo de Dios
-§13 §16 
+@13 @16 
 ### La bienaventuranza del pueblo de Dios en los últimos tiempos
-§17 §18 §19 §20 §21 §22 §25 
+@17 @18 @19 @20 @21 @22 @25 
 ## 66
-§-1 
+@-1 
 ### Dios rechaza la construcción de templos y el servicio a los adoradores paganos
-§1 §2 §3 §4 
+@1 @2 @3 @4 
 ### Palabra de amenaza a los camaradas renegados
-§5 
+@5 
 ### Cumplimiento de la salvación para Jerusalén en los últimos tiempos
-§9 \ §10 §12 §14 
+@9 \ @10 @12 @14 
 ### El juicio sobre los contaminados por seres paganos; Regreso al hogar del pueblo de Dios disperso; tormento eterno del apóstata
-§16 \ §17 \ §18 \ §20 §21 \ 
+@16 \ @17 \ @18 \ @20 @21 \ 
 # Jeremías
 ## 1
-§-1 
+@-1 
 ### Llamando al profeta
-§2 §3 
+@2 @3 
 ### El llamado y la ordenación de Jeremías al oficio de profetas
-§5 \ §6 \ §8 \ §9 §10 
+@5 \ @6 \ @8 \ @9 @10 
 ### Dos caras que llaman (el árbol de vigilia y el caldero hirviendo)
-§11 \ §12 \ §13 \ §16 
+@11 \ @12 \ @13 \ @16 
 ### ¡A trabajar y a la oficina!
 ## 2
-§-1 
+@-1 
 ### La lealtad inicial de Israel a su Dios y su posterior apostasía desdeñosa con sus desastrosas consecuencias
-§3 \ §5 §9 
+@3 \ @5 @9 
 ### El comportamiento de Israel es inaudito y sin precedentes
-§13 
+@13 
 ### Las terribles consecuencias; Expiación
-§17 §19 
+@17 @19 
 ### El servicio pernicioso de Baal y la tendencia desenfrenada por la idolatría
-§21 §25 
+@21 @25 
 ### La idolatría indigna y la apostasía incomprensible, la mala administración de justicia y el mal gobierno
-§30 §32 \ §35 \ 
+@30 @32 \ @35 \ 
 ## 3
-§-1 
+@-1 
 ### ¿Es posible aceptar a las personas que han sido violadas por la idolatría?
-§1 \ §4 \ §5 
+@1 \ @4 \ @5 
 ### Israel y Judá como hermanas renegadas; Recordatorio para arrepentirse y regresar a casa
-§8 §10 \ §13 
+@8 @10 \ @13 
 ### Llama al arrepentimiento; Palabra de salvación sobre Jerusalén y Judá
-§14 §15 §17 §18 
+@14 @15 @17 @18 
 ### Nostálgica mirada atrás a la infidelidad de la gente
-§19 \ §20 
+@19 \ @20 
 ### Canción de arrepentimiento del pueblo
-§22 \ 
+@22 \ 
 ## 4
-§-1 
+@-1 
 ### Promesa de aceptación después de un arrepentimiento sincero
-§2 \ §3 §4 
+@2 \ @3 @4 
 ### ¡Guerra! La aparición del terrible enemigo del norte
-§6 \ §8 \ §9 \ §10 \ §12 \ §13 \ §14 \ §17 §18 \ §21 \ §27 §28 \ 
+@6 \ @8 \ @9 \ @10 \ @12 \ @13 \ @14 \ @17 @18 \ @21 \ @27 @28 \ 
 ## 5
-§-1 
+@-1 
 ### La terrible corrupción de todo el pueblo de Jerusalén obliga al Señor a ejecutar sin piedad el castigo del terrible enemigo
-§2 \ §3 \ §5 §6 
+@2 \ @3 \ @5 @6 
 ### Comienzo del discurso amenazador de Dios
-§9 
+@9 
 ### El juicio divino para el apóstata e incrédulo desafiante
-§10 §11 \ §13 \ §14 
+@10 @11 \ @13 \ @14 
 ### El terrible enemigo
-§15 §17 
+@15 @17 
 ### La causa del castigo divino, es decir, del exilio
-§19 
+@19 
 ### La ignorancia del pueblo, la codicia de las clases altas y la deshonestidad del clero
-§22 \ §24 \ §25 §28 \ §29 \ 
+@22 \ @24 \ @25 @28 \ @29 \ 
 ## 6
-§-1 
+@-1 
 ### Anuncio renovado de la guerra inminente; nueva descripción del tamaño del daño interno
-§3 \ §8 
+@3 \ @8 
 ### Santa ira del profeta por la depravación de todas las personas, especialmente los líderes; Amenaza de desastre
-§9 \ §13 §14 §15 
+@9 \ @13 @14 @15 
 ### Todo el trabajo de Dios ha sido en vano; el juicio es inevitable
-§16 §17 §19 §20 \ §21 
+@16 @17 @19 @20 \ @21 
 ### El terrible enemigo del norte, ante el cual Judá se hunde en dolor y ruina
-§22 §23 \ §26 
+@22 @23 \ @26 
 ### Jeremías como probador de metales: su trabajo inútil en su pueblo
-§30 
+@30 
 ## 7
-§-1 
+@-1 
 ### Contra el culto puramente externo y la obvia desobediencia del pueblo
-§2 \ §6 §11 
+@2 \ @6 @11 
 ### El templo será destruido tanto como lo fue antes el santuario en Silo si la gente continúa transgrediendo
-§12 §13 §14 §15 
+@12 @13 @14 @15 
 ### Rechazo de la intercesión del Profeta; el culto idólatra de la reina pagana del cielo
-§16 §18 §19 \ §20 
+@16 @18 @19 \ @20 
 ### Dios quiere obediencia, no sacrificio y no adoración elegida por uno mismo
-§22 §23 §24 §26 \ §28 
+@22 @23 @24 @26 \ @28 
 ### La aborrecible idolatría encontrará una terrible expiación
-§29 \ §31 §32 §33 §34 
+@29 \ @31 @32 @33 @34 
 ## 8
-§-1 
+@-1 
 ### El vergonzoso destino de los idólatras tras la conquista de la tierra
-§2 §3 
+@2 @3 
 ### Contra la gente impenitente y la arrogancia de los líderes espirituales; los horrores del juicio inminente
-§7 \ §9 
+@7 \ @9 
 ### Amenaza contra los líderes espirituales del pueblo
-§10 §13 
+@10 @13 
 ### Los horrores del juicio de Dios, que se lleva a cabo mediante el acercamiento del enemigo del norte
-§15 §17 
+@15 @17 
 ### La desesperanza del profeta y su dolor por la alteración moral del pueblo
-§18 §20 \ 
+@18 @20 \ 
 ## 9
-§-1 
+@-1 
 ### Jeremías se desespera de su pueblo moralmente quebrantado
-§6 \ §8 
+@6 \ @8 
 ### El lamento del profeta; Juicio de Dios; Lamentaciones
-§9 §10 
+@9 @10 
 ### La pregunta del profeta y el juicio de Dios como respuesta
-§11 \ §12 \ §13 §14 §15 §16 
+@11 \ @12 \ @13 @14 @15 @16 
 ### Lamentaciones contra el pueblo
-§21 \ §22 
+@21 \ @22 
 ### La verdadera auto-fama; circuncisión derecha
-§23 §24 
+@23 @24 
 ### Israel es incircunciso de corazón
 ## 10
-§-1 
+@-1 
 ### La nada de los ídolos y la majestad del único Dios verdadero
-§3 §5 
+@3 @5 
 ### La majestad de Dios sobre el desprecio de los ídolos
-§10 \ §13 §16 
+@10 \ @13 @16 
 ### La necesidad de las personas destinadas al exilio; su queja sobre el juicio sentenciado y su humilde sumisión a la voluntad de Dios
-§18 \ §19 §21 \ §22 
+@18 \ @19 @21 \ @22 
 ### Oración del pueblo por la gracia de Dios y por el castigo de los paganos rudos
-§24 §25 
+@24 @25 
 ## 11
-§-1 
+@-1 
 ### El vínculo entre Dios y el pueblo se ha roto
-§3 §5 \ §8 
+@3 @5 \ @8 
 ### El incumplimiento del pacto y el rechazo del pueblo
-§12 §13 \ §14 
+@12 @13 \ @14 
 ### Los sacrificios y las ofrendas elegidas por uno mismo no evitan la caída del pueblo que alguna vez fue amado por Dios
-§17 
+@17 
 ### El intento de asesinato de los habitantes de Anathoth contra Jeremías y su castigo
-§19 §20 \ §21 §23 
+@19 @20 \ @21 @23 
 ## 12
-§-1 
+@-1 
 ### La pregunta de Jeremías a Dios sobre la felicidad de los malvados
-§4 
+@4 
 ### La respuesta divina
-§6 
+@6 
 ### Lamento de Dios por su tierra devastada por los pueblos vecinos
-§13 
+@13 
 ### Anuncio de juicio y salvación para los pueblos paganos vecinos
-§16 §17 
+@16 @17 
 ## 13
-§-1 
+@-1 
 ### Parábola del cinturón de lino
-§1 \ §2 \ §4 \ §5 \ §6 \ §7 
+@1 \ @2 \ @4 \ @5 \ @6 \ @7 
 ### La interpretación de la parábola
-§11 
+@11 
 ### La parábola de las jarras de vino llenas y rotas; Llamada de advertencia
-§13 §14 
+@13 @14 
 ### Advertencia de autoconfianza
-§17 
+@17 
 ### Discurso amenazador para el rey y la reina madre
-§18 §19 
+@18 @19 
 ### Lamento y ay de Jerusalén
-§23 §27 
+@23 @27 
 ## 14
-§-1 
+@-1 
 ### Descripción de la gran sequía
-§4 §6 
+@4 @6 
 ### Solicitud de la gente
-§9 
+@9 
 ### Dios rechaza la intercesión del profeta y amenaza a los falsos profetas y a todo el pueblo con dificultades aún mayores
-§10 \ §12 \ §13 \ §15 §16 
+@10 \ @12 \ @13 \ @15 @16 
 ### Jeremías llora por la gran angustia de Judá
-§17 §18 
+@17 @18 
 ### Queja renovada y súplica urgente del Profeta
 ## 15
-§-1 
+@-1 
 ### Otro rechazo a una intercesión de Jeremías y una nueva amenaza de Dios
-§1 §2 \ §3 §4 
+@1 @2 \ @3 @4 
 ### El lamento de Jeremías por los severos sufrimientos de la guerra que han afligido a Jerusalén y aún no han sucedido
-§7 §9 
+@7 @9 
 ### Jeremías agotado en sus fuerzas y loco por Dios
-§10 \ §18 
+@10 \ @18 
 ### La corrección y aceptación del profeta por Dios
 ## 16
-§-1 
+@-1 
 ### Se supone que Jeremías no debe tener familia
-§4 
+@4 
 ### Jeremías debe mantenerse alejado de las ceremonias fúnebres y las fiestas felices
-§7 \ §9 
+@7 \ @9 
 ### Justificación de estas visitas y anuncio de que la gente será llevada al cautiverio
-§13 
+@13 
 ### Profecía de salvación insertada
-§14 §15 
+@14 @15 
 ### Los pescadores y cazadores enviados por Dios pronto perseguirán cruelmente al pueblo
-§18 
+@18 
 ### Los gentiles reconocen al único Dios
 ## 17
-§-1 
+@-1 
 ### La culpa imperdonable de Judá y el severo castigo de Dios
-§4 
+@4 
 ### Confianza falsa en las personas y confianza correcta en Dios y sus frutos
-§5 §6 §7 §8 
+@5 @6 @7 @8 
 ### Dos dichos de la experiencia de vida: el corazón humano y la incertidumbre de la ganancia injusta
-§10 §11 
+@10 @11 
 ### La gloriosa posesión de Israel
-§13 
+@13 
 ### La oración de venganza de Jeremías contra los burladores y oponentes
-§18 
+@18 
 ### Ampliación de la observancia del sábado con las correspondientes promesas y amenazas
-§22 §23 §27 
+@22 @23 @27 
 ## 18
-§-1 
+@-1 
 ### La obra del alfarero como símbolo del dominio divino sobre el destino de los pueblos
-§2 \ §4 \ §6 §7 §8 §10 \ §12 
+@2 \ @4 \ @6 @7 @8 @10 \ @12 
 ### La apostasía del pueblo es incomprensible y antinatural
-§17 
+@17 
 ### Ataques hostiles de sacerdotes y profetas impenitentes contra Jeremías; Oración de venganza del profeta
-§20 §23 
+@20 @23 
 ## 19
-§-1 
+@-1 
 ### La abominación de Thopheth; la destrucción de Judá simbólicamente anunciada por el rompimiento de una jarra
-§2 §3 §5 §6 \ §8 §9 \ §11 §13 
+@2 @3 @5 @6 \ @8 @9 \ @11 @13 
 ### El discurso de Jeremías ante el pueblo en el patio del templo; su maltrato por parte del coronel del templo Pashur
 ## 20
-§5 §6 
+@5 @6 
 ### El amargo lamento del profeta por los sufrimientos de su profesión; sus luchas internas y su consuelo
-§8 §10 \ §11 §12 §13 
+@8 @10 \ @11 @12 @13 
 ### Jeremías maldice su vida
-§14 §18 
+@14 @18 
 ## 21
-§-1 
+@-1 
 ### Unheilvolle Antwort Jeremias an Zedekias Gesandte und Mahnungen an das Volk während der Belagerung Jerusalems
-§1 §2 \ §7 
+@1 @2 \ @7 
 ### Asesoramiento a la gente
-§9 §10 
+@9 @10 
 ### Advertencia a la familia real
-§12 
+@12 
 ### Anuncio de sentencia para la ciudad de Jerusalén
 ## 22
-§-1 
+@-1 
 ### Advertencia a la casa real de Judá; Anuncio del juicio sobre los reyes Salum (Joacaz) y Joacim
-§3 §4 §5 
+@3 @4 @5 
 ### Maldición en el palacio real
-§7 \ §9 
+@7 \ @9 
 ### Unas palabras de pésame para el desafortunado Sallum (Joacaz)
-§11 §12 
+@11 @12 
 ### Graves acusaciones y amenazas de castigo contra el rey Jojakim
-§18 §19 
+@18 @19 
 ### Proclamación de la condenación de Jerusalén y su rey Joaquín
-§22 §23 
+@22 @23 
 ### Tres dichos sobre el rey Conías (Joaquín)
-§24 §30 
+@24 @30 
 ## 23
-§-1 
+@-1 
 ### Ay de los pastores infieles y la promesa del verdadero pastor de la casa de David
-§1 §4 
+@1 @4 
 ### Promesa del brote de David
-§5 §6 §7 §8 
+@5 @6 @7 @8 
 ### Lamentar la corrupción y depravación general de los líderes espirituales
-§12 
+@12 
 ### Dichos sobre los falsos profetas
-§14 \ §15 \ §16 §17 §18 §19 §21 §22 \ §24 
+@14 \ @15 \ @16 @17 @18 @19 @21 @22 \ @24 
 ### Advertencia de los sueños de los profetas mentirosos
-§29 \ §32 
+@29 \ @32 
 ### Advertencia contra la expresión incorrecta “carga del Señor”
 ## 24
-§-1 
+@-1 
 ### La cara de las dos cestas de higos y el significado de las cestas
-§1 §2 \ §3 \ §6 §7 \ §8 §9 §10 
+@1 @2 \ @3 \ @6 @7 \ @8 @9 @10 
 ## 25
-§-1 
+@-1 
 ### Indicación de tiempo; La referencia de Jeremías a su efectividad fallida de 23 años
-§3 \ §5 §6 \ §7 
+@3 \ @5 @6 \ @7 
 ### Anuncio de la aniquilación de Judá, así como de los setenta años de cautiverio en Babilonia y el posterior castigo de los caldeos
-§10 §11 \ §14 
+@10 @11 \ @14 
 ### La copa de la ira y la espada de Dios para todos los pueblos
-§15 §16 \ §26 \ §29 
+@15 @16 \ @26 \ @29 
 ### Dios aparece en el Juicio Final; Aniquilación de los pueblos
-§30 §31 \ §33 §34 §38 
+@30 @31 \ @33 @34 @38 
 ## 26
-§-1 
+@-1 
 ### Introducción; Indicación del contenido principal del discurso; Captura de Jeremías
-§5 §6 \ §9 
+@5 @6 \ @9 
 ### El juicio ante los superiores; La absolución de Jeremías; la intercesión de algunos ancianos por él
-§11 \ §15 \ §16 \ §18 §19 
+@11 \ @15 \ @16 \ @18 @19 
 ### El siniestro destino del profeta Urías
-§23 \ §24 
+@23 \ @24 
 ## 27
-§-1 
+@-1 
 ### Jeremías, yugo en el cuello, advierte a los enviados de algunos estados extranjeros
-§3 §7 \ §11 
+@3 @7 \ @11 
 ### Jeremías dirige la misma advertencia al rey judío Sedechîas
-§14 §15 
+@14 @15 
 ### La advertencia de Jeremías a los sacerdotes y al pueblo
-§19 §20 §22 
+@19 @20 @22 
 ## 28
-§-1 
+@-1 
 ### El dicho de Hananya y la respuesta de Jeremías
-§4 \ §9 
+@4 \ @9 
 ### Las acciones violentas de Hananya y el veredicto divino de Jeremías (sentencia de muerte) sobre él
-§11 \ §14 \ §16 \ 
+@11 \ @14 \ @16 \ 
 ## 29
-§-1 
+@-1 
 ### La carta de Jeremías a los judíos encarcelados en Babilonia; mal resultado de dos falsos profetas en Babilonia
-§3 
+@3 
 ### Texto de la carta de Jeremías
-§8 §13 §14 
+@8 @13 @14 
 ### La triste situación de la gente que se quedó en Jerusalén; Insultar a dos profetas mentirosos adúlteros en Babilonia
-§17 §18 §19 \ §20 §21 §23 
+@17 @18 @19 \ @20 @21 @23 
 ### La queja de Semaja sobre la carta de Jeremías al sacerdocio en Jerusalén; el castigo amenazado por dios
-§26 §28 \ 
+@26 @28 \ 
 ## 30
-§-1 
+@-1 
 ### Introducción: Jeremías debe registrar todas las palabras de Dios que le han llegado
-§3 
+@3 
 ### El terrible punto de inflexión
-§7 
+@7 
 ### Redención de problemas
-§8 §9 §10 §11 
+@8 @9 @10 @11 
 ### La caída de Israel como resultado de sus pecados
-§12 §15 
+@12 @15 
 ### La restauración del pueblo y el país
-§16 §17 \ §18 §22 §23 §24 
+@16 @17 \ @18 @22 @23 @24 
 ## 31
-§-1 
+@-1 
 ### El encuentro de Dios e Israel en el desierto; las esperanzadas palabras de saludo
-§1 \ §2 \ §6 
+@1 \ @2 \ @6 
 ### El regreso a casa
-§9 
+@9 
 ### En la patria
-§14 
+@14 
 ### Raquel llora por sus hijos y Dios la consuela
-§15 \ §17 
+@15 \ @17 
 ### El arrepentimiento de Efraín y la gracia de Dios
-§20 
+@20 
 ### El llamado de Dios a Israel para que regrese
-§22 
+@22 
 ### La bendición de Dios sobre el regreso de los esparcidos
-§25 \ §26 
+@25 \ @26 
 ### Dios quiere construir y plantar
-§28 
+@28 
 ### El proverbio sobre los uvas agraces debería quedar fuera de uso
-§30 
+@30 
 ### El nuevo pacto de gracia con ambas casas de Israel
-§31 §34 
+@31 @34 
 ### La eterna existencia de la salvación
-§37 
+@37 
 ### Restaurar Jerusalén a una ciudad perfectamente santa
-§38 §40 
+@38 @40 
 ## 32
-§-1 
+@-1 
 ### Como prisionero, Jeremías compra un campo en Anatot según la dirección de Dios
-§2 \ §3 §5 \ §7 \ §8 \ §12 \ §15 
+@2 \ @3 @5 \ @7 \ @8 \ @12 \ @15 
 ### Oración de Jeremías y solicitud de aclaración
-§18 §19 §23 \ §25 
+@18 @19 @23 \ @25 
 ### La respuesta de Dios (proclamación de iluminación y salvación)
-§27 §28 §29 \ §35 \ §39 §41 \ 
+@27 @28 @29 \ @35 \ @39 @41 \ 
 ## 33
-§-1 
+@-1 
 ### Profecías de salvación para Jerusalén y Judá
-§1 §7 §8 §9 \ §11 \ §13 
+@1 @7 @8 @9 \ @11 \ @13 
 ### Profecía del brote de David del futuro y de la existencia eterna del pueblo, la realeza davídica y el sacerdocio levítico
-§15 §16 \ §17 §18 \ §22 \ §26 
+@15 @16 \ @17 @18 \ @22 \ @26 
 ## 34
-§-1 
+@-1 
 ### Anunciando el destino de Sedechîas
-§3 \ §4 §5 \ §7 
+@3 \ @4 @5 \ @7 
 ### El discurso de Jeremías y la amenaza de castigo de Dios por la violación de la fidelidad cometida con los esclavos hebreos liberados en Jerusalén
-§8 §11 
+@8 @11 
 ### La palabra de juicio de Dios
-§14 §16 \ §20 \ 
+@14 @16 \ @20 \ 
 ## 35
-§-1 
+@-1 
 ### Por mandato divino, Jeremías prueba la fidelidad de los recabitas
-§2 \ §5 \ §11 
+@2 \ @5 \ @11 
 ### El discurso de Jeremías a los transeúntes
-§15 §16 \ §17 \ 
+@15 @16 \ @17 \ 
 ## 36
-§-1 
+@-1 
 ### Hacer el libro y leerlo a la gente y a los superiores
-§1 §3 \ §4 §7 \ §10 \ §14 \ §15 \ §17 \ §18 \ §19 
+@1 @3 \ @4 @7 \ @10 \ @14 \ @15 \ @17 \ @18 \ @19 
 ### El rey Joacim corta y quema el libro de adivinación de Jeremías
-§24 §26 
+@24 @26 
 ### Renovación del libro y la amenaza de Dios a Joacim
-§29 §30 §31 \ 
+@29 @30 @31 \ 
 ## 37
-§-1 
+@-1 
 ### Respuesta de Jeremías a la embajada de Sedechîas
-§1 §2 \ §3 \ §5 \ §8 \ §10 
+@1 @2 \ @3 \ @5 \ @8 \ @10 
 ### Arresto y encarcelamiento de Jeremías por un oficial militar
-§12 §13 \ §14 \ §15 
+@12 @13 \ @14 \ @15 
 ### Jeremías interrogado nuevamente por el rey y llevado de la cárcel al patio de la guardia
-§17 \ §20 \ 
+@17 \ @20 \ 
 ## 38
-§-1 
+@-1 
 ### Jeremías arrojado a una cisterna como traidor por los superiores
-§1 §2 §3 \ §4 \ §5 \ §6 
+@1 @2 @3 \ @4 \ @5 \ @6 
 ### El rescate de Jeremías por el etíope Ebedmelec
-§9 \ §10 \ §12 \ §13 
+@9 \ @10 \ @12 \ @13 
 ### El último encuentro secreto de Jeremías con el rey
-§14 \ §15 \ §16 \ §18 \ §19 \ §22 \ §23 
+@14 \ @15 \ @16 \ @18 \ @19 \ @22 \ @23 
 ### Por orden del rey, Jeremías oculta el contenido de la conversación a los superiores
-§26 \ §27 \ 
+@26 \ @27 \ 
 ## 39
-§-1 
+@-1 
 ### La fortuna de Jeremías al conquistar Jerusalén; El destino de Sedequías, así como la ciudad y el país
-§4 \ §7 \ §10 
+@4 \ @7 \ @10 
 ### Buen trato a Jeremías por parte de los caldeos
-§12 \ §14 
+@12 \ @14 
 ### Hechizo de salvación para el etíope Ebedmelech
-§18 
+@18 
 ## 40
-§-1 
+@-1 
 ### Liberación de Jeremías del cautiverio caldeo y regreso al gobernador Gedalías
-§1 §5 \ §6 
+@1 @5 \ @6 
 ### Gedalja reúne a los judíos en una colonia en Mizpah
-§8 §10 \ §12 
+@8 @10 \ @12 
 ### Gedalías asesinada por Ismael
-§14 \ §15 \ 
+@14 \ @15 \ 
 ## 41
-§2 §3 
+@2 @3 
 ### Ismael asesina a los peregrinos del templo israelita y se retira de Mizpa con numerosos prisioneros
-§8 \ §9 \ §10 
+@8 \ @9 \ @10 
 ### Johanán libera a los judíos capturados por Ismael en Gabaón y se embarca para emigrar a Egipto
-§15 \ 
+@15 \ 
 ## 42
-§-1 
+@-1 
 ### Jeremías preguntó a Dios en nombre de sus conciudadanos sobre la emigración
-§3 \ §4 \ §6 
+@3 \ @4 \ @6 
 ### Jeremías advierte contra la emigración en nombre de Dios
-§12 \ §17 
+@12 \ @17 
 ### Jeremías repite la amenaza divina
-§18 \ 
+@18 \ 
 ## 43
-§-1 
+@-1 
 ### Desobediencia de los advertidos; Jeremías y Baruc son llevados contra su voluntad a Egipto
-§3 \ §7 
+@3 \ @7 
 ### En Thachpanches, Jeremías anuncia la inminente sumisión de Egipto por Nabucodonosor
-§11 §12 §13 
+@11 @12 @13 
 ## 44
-§-1 
+@-1 
 ### El discurso amenazador de Jeremías contra la idolatría de los judíos
-§1 §6 \ §10 \ §14 
+@1 @6 \ @10 \ @14 
 ### La comunidad, especialmente las mujeres, declaran abiertamente que quieren servir a la Reina del Cielo
-§15 §18 \ §19 
+@15 @18 \ @19 
 ### El rechazo de Jeremías a sus excusas y su alejamiento de ellos
-§23 \ §25 
+@23 \ @25 
 ### La última profecía de la desgracia de Jeremías sobre la comunidad egipcia
-§28 \ §30 
+@28 \ @30 
 ## 45
-§-1 
+@-1 
 ### Palabras de advertencia y consuelo de Jeremías a Baruc
-§3 \ §5 
+@3 \ @5 
 ## 46
-§-1 
+@-1 
 ### Profecías contra pueblos extranjeros (paganos)
-§1 
+@1 
 ### La marcha orgullosa de los egipcios; su derrota en Carchemisch
-§10 §11 §12 
+@10 @11 @12 
 ### Grave angustia de guerra en Egipto como resultado de la conquista de Nabucodonosor; Palabras de consuelo a Israel
-§24 \ §25 §26 
+@24 \ @25 @26 
 ### Palabra de consuelo para Israel
-§28 
+@28 
 ## 47
-§-1 
+@-1 
 ### Diciendo de la tierra filistea
-§1 \ §5 §7 
+@1 \ @5 @7 
 ## 48
-§-1 
+@-1 
 ### La devastación de la tierra y la huida general
-§6 
+@6 
 ### La culpa y el castigo de Moab
-§7 §10 
+@7 @10 
 ### El largo descanso y el descuido de Moab son seguidos por penurias y destrucción
-§16 
+@16 
 ### La desdichada miseria del país y todas sus ciudades
-§25 
+@25 
 ### Nuevo anuncio de devastación como castigo por el ridículo de Moab hacia Israel y por la arrogancia de Moab
-§26 §33 
+@26 @33 
 ### Nueva descripción de la angustia de la guerra de Moab; varios aditivos
-§37 §39 
+@37 @39 
 ### El juicio y sus devastadoras consecuencias; reconfortante referencia a la restauración de Moab
-§44 §45 §47 
+@44 @45 @47 
 ## 49
-§-1 
+@-1 
 ### Hablando de los amonitas
-§1 §6 
+@1 @6 
 ### Dichos sobre los edomitas
-§7 §11 \ §12 §13 §17 §18 §19 §22 
+@7 @11 \ @12 @13 @17 @18 @19 @22 
 ### Diciendo de Damasco
-§23 §27 
+@23 @27 
 ### Sobre los Cedarienses y otras tribus árabes
-§30 §33 
+@30 @33 
 ### Diciendo sobre Elam
-§34 §39 
+@34 @39 
 ## 50
-§-1 
+@-1 
 ### La caída de Babilonia y su importancia para el sufrido pueblo judío
-§1 §2 §8 §13 §16 
+@1 @2 @8 @13 @16 
 ### La desgracia anterior de Israel y la salvación posterior
-§17 \ §20 
+@17 \ @20 
 ### Contra el país “doble desafío”
-§29 §32 
+@29 @32 
 ### Anunciación a Israel
-§34 
+@34 
 ### Espada diciendo
-§38 
+@38 
 ### Varias adiciones y repeticiones
-§40 §41 §42 §46 
+@40 @41 @42 @46 
 ## 51
-§-1 
+@-1 
 ### El juicio de Babilonia ha sido decidido
-§2 §6 
+@2 @6 
 ### Babilonia el vaso de Dios: la sentencia de muerte para Babilonia
-§7 §8 §10 
+@7 @8 @10 
 ### La ciudad es asaltada por la decisión de Dios
-§13 §14 
+@13 @14 
 ### Alabado sea el Señor, Dios de Israel
-§19 
+@19 
 ### Martillo diciendo; el juicio de Babilonia en su significado histórico mundial
-§20 §23 \ §26 
+@20 @23 \ @26 
 ### Descripción de la conquista de la ciudad
-§27 §32 \ §33 
+@27 @32 \ @33 
 ### La deuda de Babilonia con Jerusalén y la venganza de Dios
-§40 
+@40 
 ### Lamento por la caída de la ciudad combinada con advertencias a Israel
-§44 §45 §48 §53 
+@44 @45 @48 @53 
 ### Conclusión y revisión
-§56 §57 \ §58 
+@56 @57 \ @58 
 ### La maldición sobre Babilonia es hundida en el Éufrates por Seraja en nombre de Jeremías
-§59 §63 §64 
+@59 @63 @64 
 ## 52
-§-1 
+@-1 
 ### La desolación de Sedequías; El sitio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
-§3 \ §5 \ §11 
+@3 \ @5 \ @11 
 ### Conquista y destrucción de la ciudad; Saqueo e incendio del templo; Traslado de habitantes a Babilonia; Ejecuciones en Ribla
-§16 \ §19 \ §20 §23 \ §27 
+@16 \ @19 \ @20 @23 \ @27 
 ### Los números de los que se llevaron
-§28 §30 
+@28 @30 
 ### Jojachín indultado tras treinta y siete años de prisión
 # Lamentaciones
 ## 1
-§-1 
+@-1 
 ### Lamento la miseria de la ciudad
-§2 §8 §11 
+@2 @8 @11 
 ### Desafortunadamente, la ciudad se llenó de lamentos y confesiones arrepentidas
-§12 §16 §17 
+@12 @16 @17 
 ### La oración de Sion a Dios pidiendo ayuda y venganza contra los enemigos
-§18 §19 §21 §22 
+@18 @19 @21 @22 
 ## 2
-§-1 
+@-1 
 ### Descripción de la calamidad de la cual la tierra y la gente y especialmente Jerusalén se ven afectados por la ira de Dios
-§4 §10 
+@4 @10 
 ### Pensamientos y sentimientos del escritor y el mundo exterior; Dios cumplió su consejo
-§14 §15 §16 §17 
+@14 @15 @16 @17 
 ### Invitación a Sion para clamar a Dios por misericordia; El clamor de Sion pidiendo ayuda y una pregunta terrible a Dios
-§20 §22 
+@20 @22 
 ## 3
-§-1 
+@-1 
 ### Queja desesperada de un solo compañero nacional por los difíciles juicios sufridos; Pide gracia y esperanza por una nueva salvación
-§6 §7 §8 §14 §24 
+@6 @7 @8 @14 @24 
 ### Referencia a la bondad y misericordia de Dios, al pecado y la destrucción del pueblo y a la participación del escritor en el destino de su pueblo
-§32 §42 §51 
+@32 @42 @51 
 ### Nueva denuncia del infeliz camarada nacional; Pide rescate y venganza del enemigo
-§63 §64 §66 
+@63 @64 @66 
 ## 4
-§-1 
+@-1 
 ### Descripción del terrible destino de toda la población de Jerusalén, especialmente los niños
-§1 §10 §12 
+@1 @10 @12 
 ### La culpa y el destino de los sacerdotes y profetas; la suerte del rey y sus seguidores; Deseo de venganza contra Edom
-§20 §21 §22 
+@20 @21 @22 
 ## 5
-§-1 
+@-1 
 ### Oración de la comunidad oprimida por misericordia y restauración
-§16 §18 
+@16 @18 
 ### Pide nueva gracia
 # Ezequiel
 ## 1
-§-1 
+@-1 
 ### El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
-§1 \ §2 §3 
+@1 \ @2 @3 
 ### La nube de luz y el carro de luz y fuego con los cuatro querubines
-§4 §9 \ §14 
+@4 @9 \ @14 
 ### Las cuatro ruedas del coche
-§18 \ §20 §21 
+@18 \ @20 @21 
 ### La bóveda del cielo arriba y el dios entronizado en ella
-§24 \ §26 §28 
+@24 \ @26 @28 
 ## 2
-§-1 
+@-1 
 ### La misión de Ezequiel por Israel renegado
-§2 \ §5 §7 
+@2 \ @5 @7 
 ### Inspiración divina al consumir un pergamino
-§8 \ 
+@8 \ 
 ## 3
-§1 \ §2 \ §3 
+@1 \ @2 \ @3 
 ### Afilado del orden; Equipo del profeta para su oficio
-§9 \ §11 
+@9 \ @11 
 ### La desaparición de la aparición divina; el rapto del profeta en el campo de trabajo
-§15 
+@15 
 ### El nombramiento de Ezequiel para la tutela espiritual responsable de los exiliados
-§19 \ §20 §21 
+@19 \ @20 @21 
 ### Segunda aparición de la gloria de Dios; la restricción impuesta por Dios al profeta
-§22 \ §23 \ §24 §27 
+@22 \ @23 \ @24 @27 
 ## 4
-§-1 
+@-1 
 ### Primera señal: la ciudad sitiada de Jerusalén
-§3 
+@3 
 ### Segunda señal: los días de ser encadenados por la culpa de los reinos del norte y del sur
-§5 \ §8 
+@5 \ @8 
 ### Tercera señal: la comida insuficiente e inmunda durante el asedio de la ciudad
-§13 \ §14 \ §15 \ 
+@13 \ @14 \ @15 \ 
 ## 5
-§-1 
+@-1 
 ### Cuarto signo: la aniquilación total del pueblo, salvo un pequeño remanente, al final del asedio
-§4 
+@4 
 ### La interpretación y justificación de los cuatro signos del juicio
-§6 \ §10 §11 §12 \ §13 \ §15 §16 §17 
+@6 \ @10 @11 @12 \ @13 \ @15 @16 @17 
 ## 6
-§-1 
+@-1 
 ### Anuncio de la aniquilación completa de todos los lugares de idolatría
-§4 §7 
+@4 @7 
 ### Anunciación para una pequeña parte del pueblo
-§10 
+@10 
 ### Anuncio renovado de visitas severas debido a atrocidades paganas
-§13 §14 
+@13 @14 
 ## 7
-§-1 
+@-1 
 ### Anuncio del juicio final que vendrá sobre la tierra y el pueblo y todos sus horrores
-§4 \ §7 §9 \ §13 §14 \ §19 §22 \ 
+@4 \ @7 @9 \ @13 @14 \ @19 @22 \ 
 ## 8
-§-1 
+@-1 
 ### Las abominaciones de la idolatría, la adoración de deidades extranjeras, en el templo de Jerusalén
-§3 §4 
+@3 @4 
 ### La imagen del celo (el Astarté)
-§5 \ §6 
+@5 \ @6 
 ### La cámara de cuadros con la idolatría de los setenta ancianos
-§8 \ §9 \ §10 §11 \ §13 
+@8 \ @9 \ @10 @11 \ @13 
 ### La adoración de Thammus (Adonis) por mujeres
-§15 
+@15 
 ### Adoración del dios sol
-§16 
+@16 
 ### Asociación de idolatría en toda la tierra de Judá; La amenaza de Dios
 ## 9
-§-1 
+@-1 
 ### El nombre de los piadosos y la matanza de los impíos habitantes de Jerusalén
-§2 \ §3 §4 \ §6 \ §7 
+@2 \ @3 @4 \ @6 \ @7 
 ### La intercesión fallida de Ezequiel
-§8 \ §9 §10 \ 
+@8 \ @9 @10 \ 
 ## 10
-§-1 
+@-1 
 ### El mandato de Dios de incinerar la ciudad, combinado con una descripción repetida del carro del querubín divino; El retiro de Dios del santuario
-§1 §2 \ §4 §5 \ §8 \ §14 \ §17 
+@1 @2 \ @4 @5 \ @8 \ @14 \ @17 
 ### El éxodo de la gloria de Dios del santuario
-§19 \ 
+@19 \ 
 ## 11
-§-1 
+@-1 
 ### El juicio de Dios sobre los peores seductores del pueblo; Destierro, conversión y renovación del pueblo; Dios se va de la ciudad
-§4 \ §6 \ §10 §12 \ §13 
+@4 \ @6 \ @10 @12 \ @13 
 ### El destierro, el regreso a casa y la renovación del pueblo de Dios
-§15 \ §16 \ §17 \ §19 §20 §21 
+@15 \ @16 \ @17 \ @19 @20 @21 
 ### Dios se va del área de la ciudad; Ezequiel despierta del rapto
-§22 §24 \ 
+@22 @24 \ 
 ## 12
-§-1 
+@-1 
 ### La emigración del Profeta como ilustración del camino que lleva al príncipe y al pueblo al exilio
-§2 \ §6 
+@2 \ @6 
 ### Comer y beber con temblores y temblores como signos de la necesidad de un asedio
-§7 \ §9 \ §10 \ §11 \ §12 §13 §14 \ §16 \ §20 
+@7 \ @9 \ @10 \ @11 \ @12 @13 @14 \ @16 \ @20 
 ### Para aquellos que negaron la profecía de todo valor
-§22 §23 §25 
+@22 @23 @25 
 ### Para aquellos que afirmaron que la profecía de Ezequiel se refería al futuro lejano
-§27 \ 
+@27 \ 
 ## 13
-§-1 
+@-1 
 ### Contra los falsos profetas
-§3 §6 §7 \ §9 \ §10 §12 \ §16 
+@3 @6 @7 \ @9 \ @10 @12 \ @16 
 ### Contra los falsos profetas y adivinos
-§19 \ 
+@19 \ 
 ## 14
-§-1 
+@-1 
 ### Exclusión de los idólatras de los medios de gracia para cuestionar a Dios
-§1 §3 
+@1 @3 
 ### El juicio de Dios sobre todo idólatra que consulta a un profeta
-§5 \ §6 \ §8 \ §9 §11 
+@5 \ @6 \ @8 \ @9 @11 
 ### Por qué Dios deja parte de la población impía en el juicio irrevocable de Jerusalén
-§13 §14 \ §15 §16 \ §18 \ §20 \ 
+@13 @14 \ @15 @16 \ @18 \ @20 \ 
 ## 15
-§-1 
+@-1 
 ### Jerusalén, la madera inútil de la vid
-§2 §5 
+@2 @5 
 ### Interpretación de la parábola
 ## 16
-§-1 
+@-1 
 ### Jerusalén, el hijo adoptivo fallido o la esposa infiel
-§3 
+@3 
 ### Las obras de amor de Dios por Israel desde el principio hasta la introducción en Canaán
-§5 \ §7 \ §8 \ §14 
+@5 \ @7 \ @8 \ @14 
 ### La ingratitud de Israel, deudas religiosas y políticas
-§15 §19 \ §22 \ §29 \ §31 \ §34 
+@15 @19 \ @22 \ @29 \ @31 \ @34 
 ### El juicio de Dios sobre la adúltera y el asesino de niños: precisamente los pueblos cuyos dioses sirvió Israel deberían destruirlo
-§37 §42 \ §43 
+@37 @42 \ @43 
 ### La culpa de Jerusalén es mayor que la culpa de Samaria y Sodoma y exige el castigo más severo
-§45 §46 §48 \ §50 §52 
+@45 @46 @48 \ @50 @52 
 ### La graciosa aceptación de Jerusalén en comunión con Samaria y Sodoma
-§58 
+@58 
 ### Cómoda perspectiva hacia el futuro
-§60 §61 §63 
+@60 @61 @63 
 ## 17
-§-1 
+@-1 
 ### Parábola de la gran águila y la vid infiel y aplicación a Sedequías; Restauración de la realeza davídica
-§4 \ §6 \ §8 \ §10 
+@4 \ @6 \ @8 \ @10 
 ### Aplicación del acertijo (o parábola) al comportamiento infiel del rey Sedequías
-§12 §13 §15 \ §18 \ §20 §21 
+@12 @13 @15 \ @18 \ @20 @21 
 ### Promesa de un gobernante bendecido de la casa de David
-§23 §24 
+@23 @24 
 ## 18
-§-1 
+@-1 
 ### Los principios que gobiernan la justicia retributiva de Dios
-§2 \ §4 
+@2 \ @4 
 ### Dios juzga a todos sobre la base de sus actos personales
-§7 §8 §9 
+@7 @8 @9 
 ### El hijo impío de un padre piadoso está a punto de morir
-§13 
+@13 
 ### El hijo piadoso de un padre impío debe vivir
-§18 \ §20 
+@18 \ @20 
 ### Todos son juzgados por lo que hicieron en última instancia, no por lo que hicieron antes
-§23 \ §24 \ §25 §29 
+@23 \ @24 \ @25 @29 
 ### Exhortación a los exiliados a convertirse
-§31 §32 
+@31 @32 
 ## 19
-§-1 
+@-1 
 ### La imagen de la madre león con sus dos cachorros
-§4 §9 
+@4 @9 
 ### La imagen de la vid espléndida y luego destruida
-§10 §12 §14 
+@10 @12 @14 
 ## 20
-§-1 
+@-1 
 ### Ezequiel presenta ante los ancianos los pecados de sus padres e hijos
-§1 \ §3 \ §4 
+@1 \ @3 \ @4 
 ### La idolatría en Egipto
-§7 \ §9 
+@7 \ @9 
 ### Desobediencia despues la legislación en la migratorion en el desierto
-§11 §12 \ §14 §15 §17 
+@11 @12 \ @14 @15 @17 
 ### Desobediencia de la segunda generacion en el desierto
-§20 \ §26 
+@20 \ @26 
 ### Alto servicio en la tierra de Canaán
-§29 
+@29 
 ### La generacion actual, al igual que los padres, es rechazado por Dios
-§31 
+@31 
 ### La antigua purificación de los exiliados
-§35 §36 §38 
+@35 @36 @38 
 ### La agradable adoración de los convertidos en la tierra de Israel
-§40 §44 
+@40 @44 
 ### La parábola del devastador incendio forestal
-§48 \ 
+@48 \ 
 ## 21
-§-1 
+@-1 
 ### La espada asesina de la venganza de Dios contra Jerusalén y los amonitas
-§5 
+@5 
 ### Testigo del dolor y ominoso anuncio del profeta
-§7 
+@7 
 ### La canción de la espada
-§14 §17 
+@14 @17 
 ### El rey Nabucodonosor en la encrucijada
-§23 
+@23 
 ### La amenaza de Dios contra el principal culpable, Sedequías, y contra la ciudad; el rey mesiánico
-§24 \ §27 
+@24 \ @27 
 ### La espada de la venganza golpea a los amonitas
-§32 
+@32 
 ## 22
-§-1 
+@-1 
 ### La culpa y el castigo de Jerusalén
-§5 
+@5 
 ### Elaboración de los pecados
-§7 §11 §12 \ §16 
+@7 @11 @12 \ @16 
 ### El derretimiento de la escoria en el horno de la Jerusalén sitiada
-§18 §22 
+@18 @22 
 ### La corrupción se extiende a todo el pueblo
-§26 §29 \ §30 §31 
+@26 @29 \ @30 @31 
 ## 23
-§-1 
+@-1 
 ### Se ilustra la corrupción moral de los reinos hermanos Israel y Judá
-§4 
+@4 
 ### Aholah cortejando a los asirios y egipcios
-§8 \ §10 
+@8 \ @10 
 ### El noviazgo de Aholiba con los asirios, caldeos y egipcios
-§11 §13 \ §21 
+@11 @13 \ @21 
 ### Anuncio del juicio divino que se llevará a cabo sobre Aholibah a través de Babilonia
-§27 \ §31 \ §34 \ §35 
+@27 \ @31 \ @34 \ @35 
 ### Resumen final de culpa, especialmente atrocidades religiosas, y castigo justo de ambas hermanas
-§37 §39 \ §41 \ §45 \ §47 \ 
+@37 @39 \ @41 \ @45 \ @47 \ 
 ## 24
-§-1 
+@-1 
 ### Parábola de la cacerola oxidada e incurable y su destino
-§1 §9 §12 \ §13 \ §14 
+@1 @9 @12 \ @13 \ @14 
 ### Anuncio de la muerte repentina de la amada esposa y prohibición de las costumbres de lamento y duelo por ella
-§16 §17 
+@16 @17 
 ### Ocurrencia de la muerte de la esposa; Mensajes esclarecedores de Ezequiel a la comunidad de exiliados
-§18 \ §19 \ §24 
+@18 \ @19 \ @24 
 ### Anunciando nuevos eventos maravillosos
-§26 §27 
+@26 @27 
 ## 25
-§-1 
+@-1 
 ### Discursos de amenaza contra Ammón, Moab, Edom y los filisteos
-§3 §7 \ §11 \ §12 §14 \ §16 §17 
+@3 @7 \ @11 \ @12 @14 \ @16 @17 
 ## 26
-§-1 
+@-1 
 ### El hechizo de Dios contra Tiro
-§3 §6 
+@3 @6 
 ### La ciudad será sitiada y destruida por Nabucodonosor
-§8 §14 
+@8 @14 
 ### Descripción del impacto de esta destrucción en el mundo de las naciones
-§18 
+@18 
 ### Dios ha decidido destruir completamente la ciudad
 ## 27
-§-1 
+@-1 
 ### Tiro como barco de soberbia esplendor; la gloria de la ciudad, especialmente como el mercado mundial
-§2 §3 §5 §9 §11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §17 \ §18 \ §19 \ §20 \ §21 \ §22 \ §25 
+@2 @3 @5 @9 @11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @17 \ @18 \ @19 \ @20 \ @21 \ @22 \ @25 
 ### El repentino hundimiento del barco; Impresión de este evento en el mundo de las naciones
 ## 28
-§-1 
+@-1 
 ### El juicio de Dios sobre la arrogancia del príncipe
-§2 §3 §5 \ §8 §9 §10 
+@2 @3 @5 \ @8 @9 @10 
 ### Lamento por la muerte de este príncipe
-§12 §19 
+@12 @19 
 ### Palabra de Dios contra Sidón
-§22 §23 
+@22 @23 
 ### Conclusión: propósito de todos estos juicios divinos; Perspectiva de la posterior dispensación de Israel
-§24 \ 
+@24 \ 
 ## 29
-§-1 
+@-1 
 ### Caída de Egipto y posterior restauración; Compensación de Nabucodonosor
-§2 
+@2 
 ### Anuncio de la destrucción del faraón, el gran cocodrilo
-§3 §4 §5 \ §6 §7 
+@3 @4 @5 \ @6 @7 
 ### La devastación de Egipto
-§9 \ §12 
+@9 \ @12 
 ### Restauración única de Egipto
-§16 
+@16 
 ### Egipto designado como salario de reemplazo por el inútil asedio de Tiro por Nabucodonosor
-§20 \ 
+@20 \ 
 ## 30
-§-1 
+@-1 
 ### Nuevas palabras amenazadoras sobre el juicio divino que es inminente para los egipcios
-§3 §4 \ §5 \ §8 \ §9 
+@3 @4 \ @5 \ @8 \ @9 
 ### El desastre llega para Egipto a través de Nabucodonosor
-§12 
+@12 
 ### El juicio de las ciudades más importantes de Egipto
-§19 
+@19 
 ### El aplastamiento del brazo del faraón
-§21 
+@21 
 ### Amenaza contra el faraón y contra Egipto
-§24 §26 
+@24 @26 
 ## 31
-§-1 
+@-1 
 ### Altura orgullosa y caída repentina del faraón en comparación con un magnífico cedro
-§9 
+@9 
 ### La caída repentina del cedro y el propósito de Dios en él
-§10 §14 
+@10 @14 
 ### El efecto y significado de esta caída
-§17 \ 
+@17 \ 
 ## 32
-§-1 
+@-1 
 ### Lamento por el faraón
-§2 §3 §7 §10 
+@2 @3 @7 @10 
 ### La destrucción de Egipto por el rey de Babilonia
-§15 \ §16 
+@15 \ @16 
 ### Himnos funerarios para el faraón
-§18 
+@18 
 ### El faraón condenado a la infelicidad; Su recepción por parte de los habitantes del inframundo
-§19 §20 §21 
+@19 @20 @21 
 ### El faraón en el inframundo en medio de los infelices
-§23 \ §25 \ §26 §27 \ §28 \ §29 \ §30 
+@23 \ @25 \ @26 @27 \ @28 \ @29 \ @30 
 ### El faraón expulsado por Dios al inframundo
-§31 §32 
+@31 @32 
 ## 33
-§-1 
+@-1 
 ### La importancia del mandamiento del guardio
-§6 
+@6 
 ### El llamado de Ezequiel al vigilante; su responsabilidad
-§7 §9 
+@7 @9 
 ### El sermón penitencial de Ezequiel sobre el mandato de Dios y su proclamación de la gracia y la justicia divinas para los pecadores arrepentidos
-§11 \ §12 §16 \ §17 §20 
+@11 \ @12 @16 \ @17 @20 
 ### El punto de inflexión para Ezequiel ocurre cuando su lengua se suelta
-§22 
+@22 
 ### Discurso de sanción sobre la exigente arrogancia de los compañeros que se quedaron en Palestina
-§24 §26 
+@24 @26 
 ### Amenaza del tribunal penal
-§29 
+@29 
 ### Discurso punitivo sobre la impentividad de la audiencia del profeta
-§32 \ §33 
+@32 \ @33 
 ## 34
-§-1 
+@-1 
 ### Pastores pasados, abandonados y perecederos
-§4 §5 §6 \ §8 §10 
+@4 @5 @6 \ @8 @10 
 ### Él recoge sus ovejas y las cuida con amor
-§14 §16 
+@14 @16 
 ### Se divorcia del rebaño y protege a los animales débiles de los violentos
-§19 \ §22 
+@19 \ @22 
 ### Les da a su siervo David como su adjunto y hace un pacto de paz con ellos
-§23 §24 \ §29 §30 §31 
+@23 @24 \ @29 @30 @31 
 ## 35
-§-1 
+@-1 
 ### Destrucción del enemigo hereditario malicioso y depredador Edom
-§4 \ §6 §9 \ 
+@4 \ @6 @9 \ 
 ## 36
-§-1 
+@-1 
 ### Al país montañoso de Israel, burlado por el enemigo, se le promete la destitución de sus propietarios ilegítimos
-§1 §2 §5 §7 
+@1 @2 @5 @7 
 ### Promesa de nuevas bendiciones y maravilloso desarrollo del país montañoso de Israel
-§12 \ §15 
+@12 \ @15 
 ### Las razones por las cuales Dios es designado para tal práctica
-§17 §21 \ §22 §23 
+@17 @21 \ @22 @23 
 ### La ejecución gradual del plan divino, por gracia
-§26 §27 §28 §30 \ §31 §32 
+@26 @27 @28 @30 \ @31 @32 
 ### Die Anerkennung der Größe Gottes auch von seiten der Heiden
-§36 \ §37 §38 
+@36 \ @37 @38 
 ## 37
-§-1 
+@-1 
 ### El rostro del avivamiento de los huesos muertos entregado al profeta
-§3 \ §5 §6 \ §7 §8 \ §9 \ §10 
+@3 \ @5 @6 \ @7 @8 \ @9 \ @10 
 ### Interpretación del extraño proceso como imagen
-§14 
+@14 
 ### El acto figurativo que debe realizar el profeta
-§17 
+@17 
 ### La interpretación de la acción simbólica
-§21 §22 
+@21 @22 
 ### El glorioso futuro del pueblo unido
-§23 \ §24 §26 §28 
+@23 \ @24 @26 @28 
 ## 38
-§-1 
+@-1 
 ### Dios mismo saca a las hordas brutas de Gog de la tierra de Magog contra Palestina
-§2 §6 \ §9 
+@2 @6 \ @9 
 ### Las malas intenciones del enemigo y el gran plan de Dios
-§12 §13 \ §16 
+@12 @13 \ @16 
 ### El terrible juicio de Dios sobre Gog
-§22 §23 
+@22 @23 
 ## 39
-§-1 
+@-1 
 ### Otro anuncio de la caída de Gog
-§4 §6 \ §8 
+@4 @6 \ @8 
 ### Derrota y entierro de las multitudes de Gogs
-§10 \ §11 \ §13 \ §16 
+@10 \ @11 \ @13 \ @16 
 ### Invitación de aves y depredadores a una gran comida de sacrificio
-§20 
+@20 
 ### Reconocimiento de Dios por los gentiles
-§23 §24 
+@23 @24 
 ### Verheißung der Begnadigung Israels und seiner Rückkehr in die Heimat
-§29 
+@29 
 ## 40
-§-1 
+@-1 
 ### El rapto de Ezequiel y la aparición de un guía celestial
-§4 
+@4 
 ### El muro perimetral exterior y la puerta este exterior
-§5 \ §7 \ §9 \ §16 
+@5 \ @7 \ @9 \ @16 
 ### El atrio exterior
-§19 
+@19 
 ### La puerta exterior del norte y la puerta exterior del sur
-§23 \ §27 
+@23 \ @27 
 ### Las tres puertas del patio interior
-§31 \ §34 \ §37 
+@31 \ @34 \ @37 
 ### Los dispositivos de sacrificio en la puerta este interior
-§43 
+@43 
 ### Las dos celdas del sacerdote en la puerta interior norte y sur
-§46 
+@46 
 ### Tamaño y forma del atrio interior
-§47 
+@47 
 ### Descripción de la casa del templo
-§48 §49 
+@48 @49 
 ## 41
-§-1 
+@-1 
 ### El Salón del Templo y el Lugar Santísimo
-§2 \ §4 
+@2 \ @4 
 ### El edificio lateral de tres pisos y el edificio trasero
-§7 \ §10 §11 \ §12 
+@7 \ @10 @11 \ @12 
 ### Las dimensiones generales de la casa del templo
-§14 
+@14 
 ### El mobiliario de la casa del templo
-§20 \ 
+@20 \ 
 ## 42
-§-1 
+@-1 
 ### Las células sacerdotales del norte
-§2 §3 §9 
+@2 @3 @9 
 ### Las células sacerdotales del sur
-§12 
+@12 
 ### El proposito de las celdas sacerdotales
-§14 
+@14 
 ### Finalización del reconocimiento de todo el recinto sagrado
 ## 43
-§-1 
+@-1 
 ### La entrada de Dios en el templo recién construido y su canonización
-§3 §4 §5 \ §8 §9 \ §11 \ §12 
+@3 @4 @5 \ @8 @9 \ @11 \ @12 
 ### El altar del holocausto y su consagración
-§13 §17 
+@13 @17 
 ### La dedicación del altar
-§21 \ §24 \ §26 §27 
+@21 \ @24 \ @26 @27 
 ## 44
-§-1 
+@-1 
 ### La puerta este exterior del recinto del templo y su destino para el príncipe
-§3 
+@3 
 ### Exclusión de los gentiles del servicio del templo y exclusión de los levitas del sacerdocio
-§4 \ §9 \ §14 
+@4 \ @9 \ @14 
 ### Instrucciones para los sacerdotes legítimos
-§16 \ §17 §19 \ §20 §21 §22 §23 \ §24 
+@16 \ @17 @19 \ @20 @21 @22 @23 \ @24 
 ### Conducta de los sacerdotes en caso de muerte
-§25 §27 
+@25 @27 
 ### Herencia, propiedad e ingresos de los sacerdotes
-§31 
+@31 
 ## 45
-§-1 
+@-1 
 ### Traslado de un recinto sagrado a los sacerdotes y levitas, así como una porción de tierra a la ciudad y al príncipe
-§5 \ §6 \ §8 
+@5 \ @6 \ @8 
 ### El deber del príncipe de hacer justicia y garantizar la justicia
-§9 §10 §12 
+@9 @10 @12 
 ### Las cuotas que se pagarán al príncipe y los sacrificios que hará
-§17 
+@17 
 ### Las fiestas y sacrificios
-§20 \ §21 §23 §24 \ §25 
+@20 \ @21 @23 @24 \ @25 
 ## 46
-§-1 
+@-1 
 ### Normativa para la celebración del sábado y la luna nueva
-§4 §8 \ §10 
+@4 @8 \ @10 
 ### Regulaciones para víctimas aisladas
-§11 §12 \ §15 
+@11 @12 \ @15 
 ### Ordenanza posterior sobre la propiedad del Príncipe
-§17 §18 
+@17 @18 
 ### Las cocinas de los sacrificios de los sacerdotes y la gente en el recinto del templo
-§20 \ 
+@20 \ 
 ## 47
-§-1 
+@-1 
 ### El maravilloso manantial del templo como una corriente de bendiciones
-§1 §2 \ §5 \ §6 \ §8 §12 
+@1 @2 \ @5 \ @6 \ @8 @12 
 ### Las fronteras del pais
-§13 §14 \ §15 \ §17 \ §18 \ §19 \ §20 
+@13 @14 \ @15 \ @17 \ @18 \ @19 \ @20 
 ### Tratamiento de extraños durante la distribución
 ## 48
-§-1 
+@-1 
 ### Las siete tribus al norte del santuario sagrado
-§1 \ §2 \ §3 \ §4 \ §5 \ §6 \ §7 
+@1 \ @2 \ @3 \ @4 \ @5 \ @6 \ @7 
 ### La santa ordenanza
-§8 \ §11 §12 \ §14 \ §20 \ §21 §22 
+@8 \ @11 @12 \ @14 \ @20 \ @21 @22 
 ### Las cinco tribus al sur del santuario sagrado
-§23 \ §24 \ §25 \ §26 \ §27 \ §28 \ §29 
+@23 \ @24 \ @25 \ @26 \ @27 \ @28 \ @29 
 ### La ciudad santa, sus doce puertas, su perímetro y su nombre
-§31 \ §32 \ §33 \ §34 \ 
+@31 \ @32 \ @33 \ @34 \ 
 # Daniel
 ## 1
-§-1 
+@-1 
 ### La crianza de Daniel en la corte pagana de Babilonia
-§1 §2 
+@1 @2 
 ### Daniel y sus amigos vienen a Babilonia para ser entrenados para el servicio real
-§5 \ §7 
+@5 \ @7 
 ### Daniel obtuvo permiso para comer alimentos que se ajustan a la ley judía
-§8 §9 §10 \ §14 \ §16 
+@8 @9 @10 \ @14 \ @16 
 ### El entrenamiento bendecido por Dios de los cuatro amigos y su aceptación en el servicio real
-§17 \ §20 \ 
+@17 \ @20 \ 
 ## 2
-§-1 
+@-1 
 ### El sueño de Nabucodonosor interpretado por Daniel
-§2 §3 \ §4 \ §6 \ §7 \ §9 \ §11 
+@2 @3 \ @4 \ @6 \ @7 \ @9 \ @11 
 ### El rey ordena la ejecución de todos los adivinos; Daniel procura el aplazamiento de la ejecución mediante su promesa
-§13 \ §14 §16 
+@13 \ @14 @16 
 ### Daniel recibe la revelación del misterio de Dios a través de un sueño; su acción de gracias y oración
-§21 §23 
+@21 @23 
 ### Daniel le dice al rey el contenido del sueño
-§24 \ §25 \ §26 \ §28 \ §29 §30 \ §35 
+@24 \ @25 \ @26 \ @28 \ @29 @30 \ @35 
 ### La interpretación de Daniel del sueño
-§37 §38 \ §43 \ §44 §45 
+@37 @38 \ @43 \ @44 @45 
 ### El reconocimiento de Nabucodonosor de la grandeza del Dios de los judíos; Donación y homenaje a Daniel
-§47 \ §48 §49 
+@47 \ @48 @49 
 ## 3
-§-1 
+@-1 
 ### Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
-§3 \ §6 \ §7 
+@3 \ @6 \ @7 
 ### Los tres amigos de Daniel se niegan a adorar la imagen
-§12 \ §15 \ §17 §18 
+@12 \ @15 \ @17 @18 
 ### Arrojados al horno, los tres hombres quedan ilesos
-§23 \ §24 \ §25 
+@23 \ @24 \ @25 
 ### El rey reconoce la grandeza del Dios de los judíos, ordena su honor y confirma a los tres amigos de Daniel en su alto cargo
-§26 \ §27 \ §28 §29 \ 
+@26 \ @27 \ @28 @29 \ 
 ## 4
-§-1 
+@-1 
 ### El segundo sueño de Nabucodonosor, su humillación y exaltación
-§1 \ §3 \ §5 §6 §7 §8 \ §9 
+@1 \ @3 \ @5 @6 @7 @8 \ @9 
 ### Nabucodonosor comparte el sueño con Daniel
-§11 §12 \ §14 §16 \ §17 \ §18 
+@11 @12 \ @14 @16 \ @17 \ @18 
 ### La consternación de Daniel y la interpretación del sueño
-§19 \ §22 \ §23 \ §24 
+@19 \ @22 \ @23 \ @24 
 ### El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
-§27 \ §30 \ §31 §32 \ §33 \ §35 \ §36 
+@27 \ @30 \ @31 @32 \ @33 \ @35 \ @36 
 ### El decreto termina con alabanza por la grandeza de Dios
 ## 5
-§-1 
+@-1 
 ### Belsasar consagra los vasos del templo de los judíos
-§1 §2 §4 
+@1 @2 @4 
 ### Aparece la enigmática inscripción, que ningún sabio puede interpretar; por consejo de la reina madre, traen a Daniel
-§6 \ §7 \ §9 \ §12 
+@6 \ @7 \ @9 \ @12 
 ### Las brillantes promesas del rey a Daniel; su interpretación del guión fantasma, su discurso de castigo y el anuncio de la desgracia
-§16 \ §17 \ §20 §21 \ §24 \ §25 \ §28 
+@16 \ @17 \ @20 @21 \ @24 \ @25 \ @28 
 ### El honor de Daniel; final violento de Belsasar y su imperio
-§29 \ 
+@29 \ 
 ## 6
-§-1 
+@-1 
 ### El levantamiento de Daniel durante la reorganización de la administración del Reich por Darío; Envidia de sus compañeros funcionarios
-§3 \ §4 §5 \ §6 
+@3 \ @4 @5 \ @6 
 ### Los funcionarios celosos obtienen un decreto real sobre un ejercicio de oración único en el reino
-§9 \ §10 
+@9 \ @10 
 ### La transgresión del edicto de Daniel como resultado de su temor de Dios; su condena a pesar del dolor del rey
-§12 \ §13 §14 \ §15 \ §16 \ §18 
+@12 \ @13 @14 \ @15 \ @16 \ @18 
 ### El rescate de Daniel; la alegría y la gracia del rey; Castigo de los envidiosos culpables
-§20 \ §21 §22 \ §23 \ §24 
+@20 \ @21 @22 \ @23 \ @24 
 ### Reconocimiento de la grandeza del Dios de los judíos por un nuevo edicto real; Daniel permanece en una posición alta
-§25 \ §27 \ 
+@25 \ @27 \ 
 ## 7
-§-1 
+@-1 
 ### Daniels Traum von dem Erscheinen eines Löwen, eines Bären, eines Panthers, eines furchtbaren Tieres mit zehn Hörnern sowie eines kleinen Horns
-§1 \ §2 §3 \ §4 \ §5 \ §6 \ §7 \ §8 
+@1 \ @2 @3 \ @4 \ @5 \ @6 \ @7 \ @8 
 ### Sesión de la corte en el cielo presidida por un anciano en la gloria de la luz; Decisión de destruir la cuarta bestia y derrocar a las tres primeras bestias; Transferencia del dominio eterno al Hijo del Hombre
-§9 §10 \ §11 §12 \ §13 §14 
+@9 @10 \ @11 @12 \ @13 @14 
 ### A petición suya, Daniel recibe información de alguien que está allí sobre los cuatro imperios mundiales, especialmente sobre la destrucción del cuarto reino y el establecimiento del reino mesiánico
-§16 \ §18 \ §19 §22 \ §24 §25 \ §27 
+@16 \ @18 \ @19 @22 \ @24 @25 \ @27 
 ### Impresión de lo que se vio en Daniel
 ## 8
-§-1 
+@-1 
 ### Escena de la cara del sueño; Lucha del carnero de cuernos desiguales (persa) y el macho cabrío de un cuerno (griego); Victoria y fortalecimiento de este último
-§4 \ §8 
+@4 \ @8 
 ### Buen humor y ultraje religioso del cuerno pequeño que creció en uno de los cuatro cuernos de la cabra
-§9 §11 §12 
+@9 @11 @12 
 ### Revelación del ángel mensajero que la deshonra religiosa del cuerno pequeño durará 1150 días
-§13 \ §14 
+@13 \ @14 
 ### Gabriel, el arcángel en forma humana, muestra el rostro de Daniel y anuncia los perversos acontecimientos del último rey griego
-§16 \ §17 \ §18 \ §22 \ §25 \ §26 
+@16 \ @17 \ @18 \ @22 \ @25 \ @26 
 ### La consternación y la enfermedad de Daniel de la cara
 ## 9
-§-1 
+@-1 
 ### Daniel, preocupado por una profecía de Jeremías, decide obtener información de Dios a través de una oración solemne
-§2 §3 
+@2 @3 
 ### Oración de Daniel, confesión del pecado, y solicitud de salvación
-§4 \ §6 \ §9 §11 \ §14 \ §16 \ §19 
+@4 \ @6 \ @9 @11 \ @14 \ @16 \ @19 
 ### Daniel recibe la información deseada de Gabriel refiriéndose a las "semanas de años" designadas por Jeremías
-§23 \ §24 \ §26 §27 
+@23 \ @24 \ @26 @27 
 ## 10
-§-1 
+@-1 
 ### La preparación de Daniel para la visiona mediante el ayuno
-§1 \ §3 
+@1 \ @3 
 ### La apariencia exterior del mensajero celestial; Efecto de la aparición en Daniel
-§6 \ §9 \ §10 
+@6 \ @9 \ @10 
 ### Mensajes persuasivos y alentadores del ángel
-§11 \ §14 
+@11 \ @14 
 ### Daniel fortalecido en su debilidad por el ángel; Anuncio de la lucha del mensajero celestial con los príncipes de Persia y Grecia
-§17 \ §19 \ §20 §21 
+@17 \ @19 \ @20 @21 
 ## 11
-§1 \ §2 §4 
+@1 \ @2 @4 
 ### Resumen de las batallas de los reyes egipcios y sirios después de la muerte de Alejandro, excepto Antíoco Epífanes
-§6 \ §10 \ §13 \ §16 §19 \ §20 
+@6 \ @10 \ @13 \ @16 @19 \ @20 
 ### Historia del malvado Antiochus Epiphanes
-§24 \ §28 \ §30 
+@24 \ @28 \ @30 
 ### Persecución de los judíos en Jerusalén
-§32 \ §33 §35 
+@32 \ @33 @35 
 ### Actos violentos, atropellos contra el culto judío y el resultado del rey antijudío
-§36 §37 §39 \ §41 §45 
+@36 @37 @39 \ @41 @45 
 ## 12
-§-1 
+@-1 
 ### El amanecer del fin de los tiempos con su miseria, su retribución y la resurrección de los impíos y de los rectos
-§2 §3 
+@2 @3 
 ### Comisión del ángel a Daniel; Revelación sobre la duración del período de sufrimiento; y finalmente una promesa de salvación para Daniel
-§4 \ §6 \ §7 \ §8 \ §10 \ §12 \ 
+@4 \ @6 \ @7 \ @8 \ @10 \ @12 \ 
 # Oseas
 ## 1
-§-1 
+@-1 
 ### La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
-§1 \ §2 \ §3 \ §4 §5 \ §6 \ §7 \ §8 \ §9 
+@1 \ @2 \ @3 \ @4 @5 \ @6 \ @7 \ @8 \ @9 
 ### Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable
 ## 2
-§1 
+@1 
 ### La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
-§2 §3 §4 §12 §13 
+@2 @3 @4 @12 @13 
 ### Vergonzosa fidelidad de Dios y reunión con su esposa, es decir, su pueblo Israel
-§17 §21 §22 §23 
+@17 @21 @22 @23 
 ## 3
-§-1 
+@-1 
 ### El mejoramiento del pueblo infiel a través de la coacción, representado por el comportamiento del profeta hacia su esposa infiel
-§1 \ §3 \ §4 §5 
+@1 \ @3 \ @4 @5 
 ## 4
-§-1 
+@-1 
 ### Presentando cargos contra los malvados
-§3 
+@3 
 ### Amenaza a los sacerdotes y profetas como líderes designados del pueblo
-§4 §8 §10 
+@4 @8 @10 
 ### Queja sobre el culto pagano del pueblo
-§13 §14 
+@13 @14 
 ### Advertencia a Judá idólatra y perturbadora
 ## 5
-§-1 
+@-1 
 ### Palabras de Oseas a los sacerdotes y a la familia real de Israel sobre su práctica de adoración falsa
-§3 §4 §6 §7 
+@3 @4 @6 @7 
 ### La posición de Dios sobre las guerras sirio-efraimitas
-§11 §14 
+@11 @14 
 ### Dios deja a Israel en su ruina; Rechaza la confesión de penitencia del pueblo por frívola
-§15 
+@15 
 ## 6
-§1 §2 §5 §6 
+@1 @2 @5 @6 
 ### Lamentarse por el incumplimiento del pacto por parte de Israel y la ominosa depravación en toda la tierra
-§7 §11 
+@7 @11 
 ## 7
-§-1 
+@-1 
 ### La depravación de Israel se revela en la disrupción política
-§7 
+@7 
 ### La reprensible relación entre Efraín y las principales potencias extranjeras
-§11 §16 
+@11 @16 
 ## 8
-§-1 
+@-1 
 ### Nueva llamada de atención por los graves pecados de Israel
-§1 §4 §5 §6 §7 §8 §9 §13 §14 
+@1 @4 @5 @6 @7 @8 @9 @13 @14 
 ## 9
-§-1 
+@-1 
 ### Anuncio del juicio del exilio en un festival de otoño
-§1 §6 §7 
+@1 @6 @7 
 ### Las recreaciones preparadas para Oseas
-§9 
+@9 
 ### Israel castigado sin hijos como resultado de su apostasía a Baal y rechazado por Dios
-§10 §13 §17 
+@10 @13 @17 
 ## 10
-§-1 
+@-1 
 ### Desolación de los ídolos de Israel
-§5 §6 §8 
+@5 @6 @8 
 ### La continua pecaminosidad de Israel; su castigo y eventual aniquilación por la guerra
-§9 §12 §13 §15 
+@9 @12 @13 @15 
 ## 11
-§-1 
+@-1 
 ### El amor inicial de Dios por Israel finalmente triunfará sobre toda ingratitud e infidelidad del pueblo
-§1 §9 §10 §12 
+@1 @9 @10 @12 
 ## 12
-§-1 
+@-1 
 ### El ejemplo de su antepasado Jacob, característico de los infieles
-§1 §5 §10 §14 
+@1 @5 @10 @14 
 ## 13
-§-1 
+@-1 
 ### Los fracasos de Efraín como causa de la ira divina y la ineludible caída
-§3 §4 
+@3 @4 
 ### Amenaza de devastadora ira divina
-§5 §6 §7 §10 §11 
+@5 @6 @7 @10 @11 
 ### Anuncio de la terrible caída del pueblo pecador
-§14 §15 §16 
+@14 @15 @16 
 ## 14
-§-1 
+@-1 
 ### Recordatorio de arrepentimiento y oración penitencial del pueblo
-§2 §3 §4 
+@2 @3 @4 
 ### La promesa de Dios de salvación
 # Joel
 ## 1
-§-1 
+@-1 
 ### Llamado al lamento por la devastación causada por las langostas
-§4 \ §7 \ §9 §12 
+@4 \ @7 \ @9 @12 
 ### Primera invitación para organizar un día de penitencia
-§15 §16 §19 §20 
+@15 @16 @19 @20 
 ## 2
-§-1 
+@-1 
 ### Ataque irresistible de langostas en la tierra
-§1 §2 §3 §11 
+@1 @2 @3 @11 
 ### Exhortación de Dios al arrepentimiento; solicitud renovada para celebrar un día de penitencia
-§12 §13 §14 §15 §17 
+@12 @13 @14 @15 @17 
 ### Responde a la oración; la consoladora promesa de Dios
-§19 §20 §23 §26 §27 
+@19 @20 @23 @26 @27 
 ### El derramamiento del espíritu divino sobre todo el pueblo y los presagios del juicio mundial
 ## 3
-§-1 
+@-1 
 ### El día del Señor como el día del juicio para los gentiles y como la glorificación de la iglesia de Sion
-§4 §5 §8 
+@4 @5 @8 
 ### Ejecución del juicio sobre los gentiles
-§17 
+@17 
 ### El tiempo de bendición para Judá
 # Amós
 ## 1
-§-1 
+@-1 
 ### Anuncio del juicio divino sobre las naciones
-§1 §2 
+@1 @2 
 ### Amenaza contra los sirios de Damasco
-§3 §5 
+@3 @5 
 ### Amenaza contra los filisteos
-§6 §8 
+@6 @8 
 ### Amenaza contra Tiro
-§9 §10 
+@9 @10 
 ### Amenaza contra los edomitas
-§12 
+@12 
 ### Amenaza contra los amonitas
-§13 §15 
+@13 @15 
 ## 2
-§-1 
+@-1 
 ### Amenaza contra los moabitas
-§3 
+@3 
 ### Amenaza contra Judá
-§5 
+@5 
 ### Amenaza contra Israel
-§7 §8 §9 §12 §16 
+@7 @8 @9 @12 @16 
 ## 3
-§-1 
+@-1 
 ### La responsabilidad de Israel como resultado de su elección al pueblo de Dios
-§2 
+@2 
 ### Amós habla como profeta por razones de peso
-§6 §8 
+@6 @8 
 ### Anuncio de la destrucción de la ciudad de Samaria, que está sumida en la exuberancia y la locura
-§10 \ §11 \ §12 \ 
+@10 \ @11 \ @12 \ 
 ## 4
-§-1 
+@-1 
 ### Amenaza contra las exuberantes mujeres de Samaria
-§3 
+@3 
 ### Contra el culto exterior e indignante
-§4 §5 
+@4 @5 
 ### Los castigos y advertencias inútiles de Dios; Anuncio del tribunal de exterminio
-§7 §8 \ §9 \ §10 \ §11 \ §13 
+@7 @8 \ @9 \ @10 \ @11 \ @13 
 ## 5
-§-1 
+@-1 
 ### Amós inicia el lamento por los muertos contra Israel
-§2 \ §3 
+@2 \ @3 
 ### Las demandas de Dios sobre el pueblo y las quejas sobre el mal comportamiento de Israel
-§5 §7 
+@5 @7 
 ### La terrible omnipotencia de Dios y su llamado a la penitencia
-§8 §11 §13 \ §15 
+@8 @11 @13 \ @15 
 ### Nueva lamentación por la inminente muerte general
-§17 
+@17 
 ### El día del Señor es un día de desastre
-§18 §20 
+@18 @20 
 ### La piedad exterior y la idolatría como causa del juicio venidero
-§22 §24 \ 
+@22 @24 \ 
 ## 6
-§-1 
+@-1 
 ### La vida despreocupada de los grandes orgullosos e indulgentes de Judá y Samaria desafía el juicio divino
-§3 §4 §5 §7 
+@3 @4 @5 @7 
 ### Tres amenazas de calamidad con respecto a la corrupción moral de Israel
-§9 \ §12 §14 
+@9 \ @12 @14 
 ## 7
-§-1 
+@-1 
 ### Las dos primeras visionas amenazantes (langostas y sequía)
-§2 \ §3 \ §5 \ §6 
+@2 \ @3 \ @5 \ @6 
 ### Soldadura de plomo o plomo: el fin de la longanimidad divina
-§8 \ §9 
+@8 \ @9 
 ### Informe sobre la expulsión de Amós de Betel
-§10 §11 \ §13 \ §14 §17 
+@10 @11 \ @13 \ @14 @17 
 ## 8
-§-1 
+@-1 
 ### La visión de la canasta de frutas maduras
-§1 \ §2 \ §3 
+@1 \ @2 \ @3 
 ### Amenaza contra los comerciantes de granos usureros
-§4 §5 §6 §8 
+@4 @5 @6 @8 
 ### Anuncio de los castigos divinos, eclipses solares, duelo, abandonado por Dios en extrema necesidad
-§9 §10 \ §12 §14 
+@9 @10 \ @12 @14 
 ## 9
-§-1 
+@-1 
 ### El Señor en el altar, con respecto a la destrucción del santuario en Betel y la ineludibilidad del juicio venidero
-§4 \ §5 §6 \ §7 
+@4 \ @5 @6 \ @7 
 ### El avistamiento de la gente; la restauración del antiguo Reino de David
-§10 §12 
+@10 @12 
 ### La gloria de la dispensación futura
 # Abdías
 ## 1
-§-1 
+@-1 
 ### Anuncio y ejecución segura del juicio divino sobre los edomitas
-§7 \ §9 
+@7 \ @9 
 ### Indicación de las deudas de los edomitas en la conquista y saqueo de Jerusalén
-§10 §14 
+@10 @14 
 ### El día del juicio para todas las naciones en el día del Señor; la futura grandeza del reino de Israel
-§15 §16 §17 §18 \ 
+@15 @16 @17 @18 \ 
 # Jonás
 ## 1
-§-1 
+@-1 
 ### El llamado, la desobediencia y el castigo de Jonás
-§1 §2 \ §3 \ §6 \ §7 §8 \ §9 \ §11 \ §12 \ 
+@1 @2 \ @3 \ @6 \ @7 @8 \ @9 \ @11 \ @12 \ 
 ## 2
-§-1 
+@-1 
 ### Jonás oración y salvación
-§1 \ §4 §5 §6 §7 §8 §9 \ §10 
+@1 \ @4 @5 @6 @7 @8 @9 \ @10 
 ## 3
-§-1 
+@-1 
 ### Jonás exitoso sermón penitencial en Nínive
-§2 \ §3 §4 \ §9 \ §10 
+@2 \ @3 @4 \ @9 \ @10 
 ## 4
-§-1 
+@-1 
 ### Jonás disgusto y reprensión
-§2 §3 \ §4 \ §8 \ §9 \ 
+@2 @3 \ @4 \ @8 \ @9 \ 
 # Miqueas
 ## 1
-§-1 
+@-1 
 ### La venida de Dios al juicio de los gentiles, así como de Israel y Judá
-§1 §3 §5 
+@1 @3 @5 
 ### Anuncio de la caída de Samaria
-§7 
+@7 
 ### La denuncia de Micha sobre un tribunal penal que se acerca a través de un enemigo abrumador
 ## 2
-§-1 
+@-1 
 ### Amenaza a los grandes ricos y violentos y a los oponentes del Profeta
-§1 §5 
+@1 @5 
 ### El argumento de Micha con sus oponentes, los líderes del pueblo
-§6 §7 §11 
+@6 @7 @11 
 ### Reunir y liberar al resto de Israel
-§13 
+@13 
 ## 3
-§-1 
+@-1 
 ### Acusaciones y amenazas de Miqueas contra los líderes violentos del pueblo y los falsos profetas
-§4 
+@4 
 ### Amenaza para los profetas de la luna de miel en contraste con Micha, el profeta lleno del espíritu de Dios
-§8 
+@8 
 ### Anuncio de la caída de Jerusalén
-§11 §12 
+@11 @12 
 ## 4
-§-1 
+@-1 
 ### La exaltada Sion y la futura gloria de la paz general entre las naciones
-§1 §2 §4 §5 
+@1 @2 @4 @5 
 ### Reunir a los dispersos y curar a los enfermos bajo el gobierno de Dios
-§7 
+@7 
 ### La ciudad real de Jerusalén, ahora necesitada pero destinada a la gloria
-§8 §9 §10 \ 
+@8 @9 @10 \ 
 ## 5
-§1 
+@1 
 ### El nuevo David del futuro de Belén, su pueblo y su tiempo de paz
-§2 §3 §4 
+@2 @3 @4 
 ### Victorias batallas de los israelitas contra Asiria
-§6 
+@6 
 ### La supremacía de Israel entre los pueblos
-§7 §9 
+@7 @9 
 ### La purificación de la tierra y la purificación del pueblo
 ## 6
-§-1 
+@-1 
 ### La disputa de Dios con su pueblo ingrato
-§3 §5 
+@3 @5 
 ### La confesión de penitencia del pueblo
-§6 §8 
+@6 @8 
 ### El juicio aplastante sobre la deshonestidad del pueblo de Jerusalén
-§10 §16 
+@10 @16 
 ## 7
-§-1 
+@-1 
 ### Amargas quejas sobre la depravación general
-§6 §7 
+@6 @7 
 ### Oración de penitencia y esperanza de la iglesia y promesa consoladora de Dios
-§9 §10 §13 
+@9 @10 @13 
 ### Pida a la gente que le otorguen las partes fértiles del país y la promesa de la gracia de Dios
-§14 §17 
+@14 @17 
 ### Confesión de confianza en la gracia de Dios
-§18 
+@18 
 # Nahum
 ## 1
-§-1 
+@-1 
 ### El Señor, Dios de venganza y gracia, aparece en el juicio de Nínive
-§3 §7 §11 
+@3 @7 @11 
 ### La amenaza a Asiria y la proclamación de la salvación de Judá
-§13 \ §14 \ 
+@13 \ @14 \ 
 ## 2
-§-1 
+@-1 
 ### Asedio y destrucción de Nínive como resultado del juicio divino
-§1 \ §2 \ §10 \ §11 §12 \ 
+@1 \ @2 \ @10 \ @11 @12 \ 
 ## 3
-§-1 
+@-1 
 ### Los pecados y el castigo de la cosmopolita ciudad de Nínive: un grito de aflicción y un cántico de burla
-§4 \ §5 §7 
+@4 \ @5 @7 
 ### La caída de la ciudad es inevitable
-§8 §11 §13 \ §17 
+@8 @11 @13 \ @17 
 ### Un canto fúnebre en Nínive
 # Habacuc
 ## 1
-§-1 
+@-1 
 ### El lamento del Profeta por las pésimas condiciones de su tiempo y la depravación de su pueblo
-§4 
+@4 
 ### Anuncio del próximo tribunal penal; Descripción del terrible enemigo que se acerca
-§5 §11 
+@5 @11 
 ### El profeta le preguntó a Dios con reproche por qué permitiría que el enemigo hiciera algo tan terrible
-§12 §17 
+@12 @17 
 ## 2
-§-1 
+@-1 
 ### Habacuc espera y recibe la respuesta de Dios a su queja
-§1 \ §4 
+@1 \ @4 
 ### La revelación real de Dios contra el conquistador salvaje en cinco ayes
-§5 \ §8 \ §11 \ §12 §13 §14 \ §17 \ §18 §19 §20 
+@5 \ @8 \ @11 \ @12 @13 @14 \ @17 \ @18 @19 @20 
 ## 3
-§-1 
+@-1 
 ### Canción a la aparición del Señor en el juicio
-§1 \ §2 \ §6 §11 §15 
+@1 \ @2 \ @6 @11 @15 
 ### Efecto aterrador y al mismo tiempo alentador de la aparición de Dios en el profeta
-§16 \ §18 
+@16 \ @18 
 # Sofonías
 ## 1
-§-1 
+@-1 
 ### Anuncio del juicio destructivo sobre todo el mundo de las naciones y especialmente sobre Judá
-§1 \ §4 §5 §6 \ §7 §9 \ §13 
+@1 \ @4 @5 @6 \ @7 @9 \ @13 
 ### El día del Señor está cerca
-§14 §15 §18 
+@14 @15 @18 
 ## 2
-§-1 
+@-1 
 ### ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
-§1 §3 
+@1 @3 
 ### El juicio sobre la tierra filistea, Moab-Ammón, Etiopía y Asiria
-§7 \ §8 §9 §11 \ §12 \ §13 §15 
+@7 \ @8 @9 @11 \ @12 \ @13 @15 
 ## 3
-§-1 
+@-1 
 ### Las tristes condiciones en Jerusalén
-§2 \ §3 §4 §5 \ §7 
+@2 \ @3 @4 @5 \ @7 
 ### Anuncio del tribunal de depuración de la ciudad
-§8 \ §12 §13 
+@8 \ @12 @13 
 ### Llamando a Jerusalén a alabar por su salvación
-§17 
+@17 
 # Hageo
 ## 1
-§-1 
+@-1 
 ### La invitación a construir el templo junto con una indicación de su éxito
-§1 §4 §6 \ §10 §11 \ §13 §15 
+@1 @4 @6 \ @10 @11 \ @13 @15 
 ## 2
-§-1 
+@-1 
 ### La promesa de la gloria futura del nuevo templo
-§6 §9 
+@6 @9 
 ### La gente inmunda y la inmundicia de las víctimas
-§12 \ §13 \ §14 
+@12 \ @13 \ @14 
 ### Referencia a la bendición que seguramente vendrá con la construcción del templo
-§16 §17 §19 
+@16 @17 @19 
 ### La caída de los reinos paganos y la promesa de la exaltación de Zorobabel
 # Zacarías
 ## 1
-§-1 
+@-1 
 ### La penitencia introductoria
-§1 §4 §6 
+@1 @4 @6 
 ### Los cuatro jinetes en cuatro caballos de diferentes colores ante el Señor; El celo de Dios por Sion
-§9 \ §10 \ §11 \ §12 \ §16 \ §17 
+@9 \ @10 \ @11 \ @12 \ @16 \ @17 
 ### Los cuatro cuernos y los cuatro herreros; El juicio de Dios de aniquilación sobre las potencias mundiales hostiles
-§19 \ 
+@19 \ 
 ## 2
-§-1 
+@-1 
 ### El hombre de la línea de medición, Restaurando Jerusalén a una ciudad rica y abierta
-§2 \ §5 
+@2 \ @5 
 ### Invitación a regresar a casa a todos los camaradas que todavía están en Babilonia
-§7 
+@7 
 ### Tres proclamas de salvación para Judá
-§8 §9 \ §12 §13 
+@8 @9 \ @12 @13 
 ## 3
-§-1 
+@-1 
 ### El sacerdocio que recibió el sumo sacerdote Josué y que promete para el futuro
-§1 §2 \ §4 \ §5 \ §8 §9 §10 
+@1 @2 \ @4 \ @5 \ @8 @9 @10 
 ## 4
-§-1 
+@-1 
 ### El candelero de oro entre los dos olivos
-§2 \ §3 \ §4 
+@2 \ @3 \ @4 
 ### La interpretación de la visiona
-§5 \ §7 \ §10 \ §11 \ §12 \ §13 \ 
+@5 \ @7 \ @10 \ @11 \ @12 \ @13 \ 
 ## 5
-§-1 
+@-1 
 ### El pergamino volador
-§2 \ §4 
+@2 \ @4 
 ### La mujer del gran barril
-§5 \ §6 \ §8 \ §10 \ 
+@5 \ @6 \ @8 \ @10 \ 
 ## 6
-§-1 
+@-1 
 ### La salida de los cuatro carros de guerra celestiales
-§1 §4 \ §7 \ §8 
+@1 @4 \ @7 \ @8 
 ### La fabricación de una corona para Zorobabel
-§13 §14 \ 
+@13 @14 \ 
 ## 7
-§-1 
+@-1 
 ### Solicitud de los hombres de Betel sobre los días de ayuno
-§3 
+@3 
 ### Los días de ayuno son algo externo, sin sentido para Dios
-§5 §6 
+@5 @6 
 ### A través de los profetas, Dios siempre solo ha exigido justicia y amor a su pueblo
-§7 \ §10 §14 
+@7 \ @10 @14 
 ## 8
-§-1 
+@-1 
 ### Dios ama a su pueblo y le permitirá alcanzar una gran felicidad, pero siempre defiende sus exigencias morales
-§2 \ §3 \ §4 §5 \ §6 \ §8 \ §9 §13 \ §17 
+@2 \ @3 \ @4 @5 \ @6 \ @8 \ @9 @13 \ @17 
 ### En el futuro, los días de ayuno serán reemplazados por festivales felices, y el mundo pagano también participará en la gloria del pueblo de Dios
-§19 \ 
+@19 \ 
 ## 9
-§-1 
+@-1 
 ### El juicio de Dios sobre los pueblos hostiles en Siria y Fenicia y su defensa de Jerusalén
-§1 §2 §5 §8 
+@1 @2 @5 @8 
 ### Entrada y bendición del Rey de la Paz en Jerusalén
-§9 §10 
+@9 @10 
 ### Liberación y regreso a casa de los judíos capturados, su victoria y prosperidad
-§11 §12 §13 §17 
+@11 @12 @13 @17 
 ## 10
-§-1 
+@-1 
 ### Dios solo otorga todas las bendiciones; los ídolos y los profetas mentirosos solo crean daño
-§2 
+@2 
 ### Dios despierta a líderes heroicos a batallas victoriosas para su pueblo, a quien ahora se le ha confiado el sombrero de malos pastores
-§3 §4 §7 
+@3 @4 @7 
 ### La gente esparcida por todo el mundo volverá purificada, especialmente de Egipto y Asiria, y volverá a ser un pueblo fuerte de Dios
-§9 §12 
+@9 @12 
 ## 11
-§-1 
+@-1 
 ### El terrible colapso de la potencia mundial hostil
-§3 
+@3 
 ### El llamado del profeta a pastorear a la gente infeliz
-§5 §6 
+@5 @6 
 ### El infructuoso oficio pastoral del profeta; su deshonroso rechazo por parte de los dueños del rebaño
-§9 §12 §13 §14 
+@9 @12 @13 @14 
 ### Otro llamado del profeta al oficio pastoral y amenazas al pastor inútil
 ## 12
-§-1 
+@-1 
 ### Embestida de los gentiles en Jerusalén; Salvación de la ciudad por Dios y por el mérito de Judá
-§3 §5 \ §6 \ §8 
+@3 @5 \ @6 \ @8 
 ### Derramamiento del Espíritu sobre Jerusalén; gran lamento del pueblo por un acto de sangre cometido
-§9 \ §10 §11 §14 
+@9 \ @10 @11 @14 
 ## 13
-§-1 
+@-1 
 ### El pecado divino del pueblo; Eliminación de la idolatría, la falsa profecía y toda inmundicia
-§1 \ §2 §3 §4 §6 
+@1 \ @2 @3 @4 @6 
 ### El tribunal de purificación
-§7 §8 §9 
+@7 @8 @9 
 ## 14
-§-1 
+@-1 
 ### El día del Señor: lucha, dificultades y salvación en Jerusalén
-§1 §2 §3 §5 
+@1 @2 @3 @5 
 ### Los maravillosos procesos de la naturaleza en el día del Señor
-§7 \ §8 \ §9 \ §10 §11 
+@7 \ @8 \ @9 \ @10 @11 
 ### El juicio sobre los pueblos que hicieron la guerra a Jerusalén
-§14 \ §15 
+@14 \ @15 
 ### Todos los pueblos deben adorar al Señor en Jerusalén
-§16 §19 
+@16 @19 
 ### En Judá y Jerusalén, incluso los objetos de uso más comunes serán santificados
 # Malaquías
 ## 1
-§-1 
+@-1 
 ### El amor de Dios por Israel en contraste con su trato al pueblo hermano de Edom
-§1 \ §2 \ §3 §4 \ §5 
+@1 \ @2 \ @3 @4 \ @5 
 ### Demostración de la falta de amor y el descuido del deber del sacerdocio para con Dios
-§8 \ §9 \ §11 §13 \ 
+@8 \ @9 \ @11 @13 \ 
 ## 2
-§-1 
+@-1 
 ### Advertencia y amenaza de castigo a los sacerdotes; Levi entonces y ahora
-§2 §9 
+@2 @9 
 ### Contra los matrimonios con mujeres extranjeras y contra los divorcios; Recordatorio de fidelidad matrimonial
-§10 §11 §12 \ §13 §16 
+@10 @11 @12 \ @13 @16 
 ### Reprende a los que dudan de la justicia de Dios; Descripción del curso del juicio infalible
-§17 
+@17 
 ## 3
-§1 §2 §3 §4 \ §5 
+@1 @2 @3 @4 \ @5 
 ### La mala situación actual de la gente es autoinfligida a través de múltiples delitos
-§7 \ §9 §12 
+@7 \ @9 @12 
 ### Reproche y corrección de los piadosos descontentos y dudosos; promesa consoladora a los justos
-§15 \ §17 §18 
+@15 \ @17 @18 
 ## 4
-§3 
+@3 
 ### Advertencia final y promesa de la misión del profeta Elías
-§4 \ 
+@4 \ 
 # Mateo
 ## 1
-§-1 
+@-1 
 ### Árbol genealógico de Jesús como descendiente de Abraham y David
-§1 \ §2 §3 §5 §6 §7 §11 \ §12 §16 \ §17 
+@1 \ @2 @3 @5 @6 @7 @11 \ @12 @16 \ @17 
 ### Nacimiento y nombre de Jesús
-§18 §21 \ §23 \ §25 
+@18 @21 \ @23 \ @25 
 ## 2
-§-1 
+@-1 
 ### Los magos del oriente vienen al niño Jesús y le rinden homenaje
-§1 §2 §6 \ §8 \ §11 §12 
+@1 @2 @6 \ @8 \ @11 @12 
 ### La huida de José a Egipto
-§13 \ §15 
+@13 \ @15 
 ### El asesinato del niño de Herodes en Belén
-§18 
+@18 
 ### El regreso de José de Egipto y su asentamiento en Nazaret
-§20 \ 
+@20 \ 
 ## 3
-§-1 
+@-1 
 ### Aparición y sermón penitencial de Juan el Bautista
-§1 §2 §3 \ §4 §6 \ §7 §10 \ §11 §12 
+@1 @2 @3 \ @4 @6 \ @7 @10 \ @11 @12 
 ### El bautismo y la consagración del Mesías de Jesús
-§14 \ §15 \ §16 §17 
+@14 \ @15 \ @16 @17 
 ## 4
-§-1 
+@-1 
 ### La tentación de Jesús como prueba de Mesías
-§1 §2 §3 \ §4 \ §6 \ §7 \ §9 \ §10 \ §11 
+@1 @2 @3 \ @4 \ @6 \ @7 \ @9 \ @10 \ @11 
 ### Jesús asume enseñar en Capernaum
-§12 §16 \ §17 
+@12 @16 \ @17 
 ### Jesús llama a los dos primeros pares de discípulos
-§19 \ §20 §22 
+@19 \ @20 @22 
 ### Descripción de los efectos de enseñanza y curación de Jesús y su éxito
-§23 §24 §25 
+@23 @24 @25 
 ## 5
-§-1 
+@-1 
 ### El sermón del monte
-§2 
+@2 
 ### Las Bienaventuranzas
-§4 §5 §6 §7 §8 §9 §10 \ §11 §12 
+@4 @5 @6 @7 @8 @9 @10 \ @11 @12 
 ### Sal de la tierra, luz del mundo
-§13 \ §14 §15 §16 
+@13 \ @14 @15 @16 
 ### Perfección comparada con las exigencias del antiguo pacto
-§17 §18 §19 §20 
+@17 @18 @19 @20 
 ### Acerca de matar y juzgar
-§22 \ §24 §25 §26 
+@22 \ @24 @25 @26 
 ### Sobre adulteria
-§28 §29 §30 \ §31 §32 
+@28 @29 @30 \ @31 @32 
 ### Sobre jurar
-§34 §35 §37 
+@34 @35 @37 
 ### Sobre l'amor al projimo y al enemigo
-§40 §42 \ §45 §48 
+@40 @42 \ @45 @48 
 ## 6
-§-1 
+@-1 
 ### Ten cuidado al dar limosna
-§2 §3 §4 
+@2 @3 @4 
 ### Ten cuidado cuando oras
-§7 §10 §13 \ §15 
+@7 @10 @13 \ @15 
 ### Ten cuidado cuando ayunas
-§16 §18 
+@16 @18 
 ### Recoge tesoros en el cielo
-§21 \ §22 §23 \ §24 
+@21 \ @22 @23 \ @24 
 ### Busque el reino de Dios primero
-§25 §26 \ §30 \ §33 §34 
+@25 @26 \ @30 \ @33 @34 
 ## 7
-§-1 
+@-1 
 ### No juzguéis
-§1 §2 §5 \ §6 
+@1 @2 @5 \ @6 
 ### Pedid, buscad, llaman
-§7 §11 
+@7 @11 
 ### La regla de oro de la caridad
-§12 \ §13 §14 
+@12 \ @13 @14 
 ### Guardaos de los falsos profetas
-§15 §16 §17 §20 
+@15 @16 @17 @20 
 ### Sea el hacedor de la palabra, no solo un oyente
-§21 §22 §23 \ §27 \ §28 §29 
+@21 @22 @23 \ @27 \ @28 @29 
 ## 8
-§-1 
+@-1 
 ### Sanando a un leproso
-§2 \ §4 
+@2 \ @4 
 ### Sanación del siervo del centurión de Capernaum
-§6 \ §7 \ §9 \ §11 §13 
+@6 \ @7 \ @9 \ @11 @13 
 ### Sanación de la suegra de Pedro y de muchos otros enfermos en Cafarnaúm
-§14 §17 
+@14 @17 
 ### Jesús escapa a la otra orilla del lago; Proverbios sobre seguir a Jesús
-§18 \ §19 \ §20 \ §21 \ §22 
+@18 \ @19 \ @20 \ @21 \ @22 
 ### Jesús apacigua la tormenta del mar
-§25 \ §26 \ §27 
+@25 \ @26 \ @27 
 ### Curación de dos poseídos en la tierra de los gadarenos
-§28 §31 \ §32 \ 
+@28 @31 \ @32 \ 
 ## 9
-§-1 
+@-1 
 ### Curación de un paralítico en Capernaum; Jesús perdona los pecados
-§2 \ §3 \ §4 §6 \ §8 
+@2 \ @3 \ @4 @6 \ @8 
 ### Llamada del recaudador de impuestos Mateo; Jesús como compañero de mesa para recaudadores de impuestos y pecadores
-§9 §11 \ §13 
+@9 @11 \ @13 
 ### La pregunta del ayuno de los discípulos de Juan
-§14 \ §15 §16 §17 
+@14 \ @15 @16 @17 
 ### Resucitar a la hija de Jairo y curar a la mujer asolada por la sangre
-§18 \ §21 \ §22 \ §24 \ §26 
+@18 \ @21 \ @22 \ @24 \ @26 
 ### Curación de dos ciegos y un mudo endemoniado; Graduación
-§27 §28 \ §29 §30 §31 \ §33 \ §34 \ §35 
+@27 @28 \ @29 @30 @31 \ @33 \ @34 \ @35 
 ### La compasión de Jesús a la vista de la gente; la palabra de la cosecha
-§37 §38 
+@37 @38 
 ## 10
-§-1 
+@-1 
 ### Llamadas y nombres de los doce discípulos
-§4 
+@4 
 ### El mensaje enviado a los doce discípulos
-§6 §7 §8 §12 §15 \ §16 
+@6 @7 @8 @12 @15 \ @16 
 ### Anuncio de los sufrimientos que vendrán a los discípulos
-§17 §18 §19 §20 \ §21 §22 §23 \ §24 §25 
+@17 @18 @19 @20 \ @21 @22 @23 \ @24 @25 
 ### Aliento para perseverar fielmente y consuelo en tiempos de tribulación
-§26 §28 \ §31 §32 §33 
+@26 @28 \ @31 @32 @33 
 ### Paz y espada, pérdida y ganancia
-§34 §36 §37 §38 §39 
+@34 @36 @37 @38 @39 
 ### Promesas de ayuda fraternal
-§40 §41 §42 
+@40 @41 @42 
 ## 11
-§1 
+@1 
 ### Embajada de Juan el Bautista desde la prisión; La respuesta y el testimonio de Jesús sobre Juan
-§3 \ §6 \ §7 §9 §12 §15 \ §17 §18 §19 
+@3 \ @6 \ @7 @9 @12 @15 \ @17 @18 @19 
 ### Lamento de Jesús por las ciudades galileas impenitentes
-§23 §24 
+@23 @24 
 ### El júbilo y la alabanza de Jesús por el Padre
-§25 §27 
+@25 @27 
 ### El llamado del Salvador a los cansados ​​y agobiados
-§28 §29 §30 
+@28 @29 @30 
 ## 12
-§-1 
+@-1 
 ### Los oídos de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-§1 §2 \ §3 §4 §5 §7 §8 
+@1 @2 \ @3 @4 @5 @7 @8 
 ### Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
-§10 \ §14 
+@10 \ @14 
 ### Jesús evade la persecución; su actividad sanadora piadosa
-§18 §21 
+@18 @21 
 ### Jesús se defiende de la blasfemia de los fariseos contra Beelzebul
-§24 \ §28 §29 \ §30 
+@24 \ @28 @29 \ @30 
 ### Advertencia de la blasfemia del espíritu; del árbol y los frutos
-§31 §32 \ §33 §34 §37 
+@31 @32 \ @33 @34 @37 
 ### El rechazo de Jesús a la demanda de señales; la señal de Jonás; la parábola de la recaída
-§38 \ §40 §41 §42 \ §45 
+@38 \ @40 @41 @42 \ @45 
 ### Los verdaderos parientes de Jesús
-§46 §47 \ §49 §50 
+@46 @47 \ @49 @50 
 ## 13
-§-1 
+@-1 
 ### la parábola del sembrador y el campo cuádruple
-§9 
+@9 
 ### Explicación de Jesús de la razón y el propósito de sus parábolas
-§10 \ §11 §12 §13 §15 \ §16 §17 
+@10 \ @11 @12 @13 @15 \ @16 @17 
 ### Interpretación de la parábola del sembrador
-§22 §23 
+@22 @23 
 ### La parábola de la cizaña entre el trigo
-§27 \ §28 \ §30 
+@27 \ @28 \ @30 
 ### Las dos parábolas de la semilla de mostaza y la levadura
-§32 \ §33 
+@32 \ @33 
 ### Interpretación de la parábola de la cizaña del trigo
-§34 §35 \ §36 \ §41 §43 
+@34 @35 \ @36 \ @41 @43 
 ### Las últimas tres parábolas (tesoro en el campo; perla preciosa; red de pesca); Conclusión de la parábola
-§44 \ §46 \ §49 §51 \ §52 
+@44 \ @46 \ @49 @51 \ @52 
 ### Rechazo y fracaso de Jesús en su natal Nazaret
-§57 \ 
+@57 \ 
 ## 14
-§-1 
+@-1 
 ### Jesús y Herodes; el fin de Juan el Bautista
-§4 §5 §8 \ §12 
+@4 @5 @8 \ @12 
 ### Alimentando a los cinco mil
-§13 \ §15 \ §16 \ §17 \ §20 §21 
+@13 \ @15 \ @16 \ @17 \ @20 @21 
 ### Regreso de los discípulos al otro lado del lago por la noche; el caminar de Jesús sobre el lago; el desembarco en Gennesaret
-§26 §27 \ §28 \ §29 \ §30 \ §33 
+@26 @27 \ @28 \ @29 \ @30 \ @33 
 ### La reunión de personas y la curación de los enfermos en Gennesaret
-§36 
+@36 
 ## 15
-§-1 
+@-1 
 ### La disputa de Jesús con sus oponentes por lavarse las manos; su advertencia de los estatutos humanos y la marca de la verdadera impureza
-§2 \ §5 §6 §9 \ §11 \ §12 \ §14 \ §15 \ §20 
+@2 \ @5 @6 @9 \ @11 \ @12 \ @14 \ @15 \ @20 
 ### Jesús y la mujer cananea en el área de Tiro y Sidón
-§22 \ §23 \ §24 \ §25 \ §26 \ §27 \ §28 
+@22 \ @23 \ @24 \ @25 \ @26 \ @27 \ @28 
 ### Actividad curativa de Jesús en Galilea en la orilla oriental del lago; Alimentando a los cuatro mil
-§31 \ §32 \ §33 \ §34 \ 
+@31 \ @32 \ @33 \ @34 \ 
 ## 16
-§-1 
+@-1 
 ### Rechazo de la demanda de los oponentes de señales y advertencia contra la levadura de los fariseos
-§1 §4 \ §6 \ §7 \ §9 §10 §11 \ §12 
+@1 @4 \ @6 \ @7 \ @9 @10 @11 \ @12 
 ### La Confesión del Mesías de Pedro en Cesarea de Filipo; Llamando a Pedro a ser el fundador y líder de la iglesia
-§13 \ §14 \ §15 \ §16 \ §17 §18 §19 §20 
+@13 \ @14 \ @15 \ @16 \ @17 @18 @19 @20 
 ### Primer anuncio de sufrimiento
-§21 \ §22 \ §23 
+@21 \ @22 \ @23 
 ### Proverbios sobre el seguimiento de los discípulos en el sufrimiento
-§25 §26 §27 §28 
+@25 @26 @27 @28 
 ## 17
-§-1 
+@-1 
 ### La transfiguración de Jesús en la montaña
-§1 §2 §3 \ §4 \ §5 \ §8 \ §9 \ §10 \ §13 
+@1 @2 @3 \ @4 \ @5 \ @8 \ @9 \ @10 \ @13 
 ### Curación de un niño epiléptico; Enseñando sobre el fracaso de los discípulos
-§16 \ §18 \ §19 \ §20 §21 
+@16 \ @18 \ @19 \ @20 @21 
 ### Segundo anuncio del sufrimiento en Galilea
-§22 §23 
+@22 @23 
 ### El impuesto del templo y su maravilloso pago en Capernaum
-§25 \ §26 \ 
+@25 \ @26 \ 
 ## 18
-§-1 
+@-1 
 ### Controversia entre discípulos; La exhortación de Jesús a la humildad
-§1 \ §3 §5 
+@1 \ @3 @5 
 ### La preocupación de Jesús por los pequeños y los débiles; Advertencia contra los seductores del mal
-§6 \ §10 §11 
+@6 \ @10 @11 
 ### La parábola de la oveja perdida
-§14 
+@14 
 ### De comportamiento hacia el hermano pecador; sobre el efecto del juicio y la oración de la iglesia
-§15 §16 §17 §18 §19 §20 
+@15 @16 @17 @18 @19 @20 
 ### Del perdón; la parábola del sinvergüenza
-§21 \ §22 §27 \ §28 \ §33 §34 §35 
+@21 \ @22 @27 \ @28 \ @33 @34 @35 
 ## 19
-§-1 
+@-1 
 ### Salida hacia Jerusalén y caminata por la Ribera Oriental; Conversaciones sobre el matrimonio, sobre el divorcio y la renuncia al matrimonio
-§2 \ §3 \ §4 §6 \ §7 \ §9 \ §10 \ §11 §12 
+@2 \ @3 \ @4 @6 \ @7 \ @9 \ @10 \ @11 @12 
 ### Jesús bendice a los niños
-§15 
+@15 
 ### La conversación de Jesús con el joven rico; el peligro de la riqueza
-§16 \ §17 \ §18 \ §19 \ §20 \ §21 §22 \ §24 \ §25 \ §26 
+@16 \ @17 \ @18 \ @19 \ @20 \ @21 @22 \ @24 \ @25 \ @26 
 ### La recompensa de seguir a Jesús y la renuncia
-§27 \ §28 §30 
+@27 \ @28 @30 
 ## 20
-§-1 
+@-1 
 ### Parábola de los trabajadores de la viña
-§6 \ §7 \ §12 \ §15 §16 
+@6 \ @7 \ @12 \ @15 @16 
 ### Salida hacia Jerusalén; tercer anuncio del sufrimiento de Jesús
-§19 
+@19 
 ### Solicitud ambiciosa de Salomé para sus hijos Santiago y Juan
-§20 §21 \ §22 \ §23 
+@20 @21 \ @22 \ @23 
 ### Del deber de servir por el reino de los cielos
-§24 \ §27 §28 
+@24 \ @27 @28 
 ### Curación de dos ciegos cerca de Jericó
-§31 \ §32 \ §33 \ 
+@31 \ @32 \ @33 \ 
 ## 21
-§-1 
+@-1 
 ### Entrada de Jesús a Jerusalén
-§3 \ §5 \ §9 \ §10 \ §11 
+@3 \ @5 \ @9 \ @10 \ @11 
 ### La limpieza del templo
-§13 
+@13 
 ### Sanaciones en el templo y homenaje a los niños
-§16 \ §17 
+@16 \ @17 
 ### La maldición de la higuera estéril
-§19 \ §20 \ §22 
+@19 \ @20 \ @22 
 ### La pregunta del sumo consejo sobre la autoridad de Jesús
-§23 \ §25 \ §27 
+@23 \ @25 \ @27 
 ### La parábola de los dos hijos desiguales
-§30 §31 \ §32 
+@30 @31 \ @32 
 ### La parábola de los viticultores infieles
-§33 §38 §40 \ §41 \ §42 \ §44 \ 
+@33 @38 @40 \ @41 \ @42 \ @44 \ 
 ## 22
-§-1 
+@-1 
 ### La parábola de la cena de bodas real
-§6 §7 \ §9 §10 \ §14 
+@6 @7 \ @9 @10 \ @14 
 ### La cuestión fiscal de los fariseos
-§16 §17 \ §19 \ §20 \ §21 \ §22 
+@16 @17 \ @19 \ @20 \ @21 \ @22 
 ### Sobre la resurrección de los muertos
-§23 §28 \ §32 \ §33 
+@23 @28 \ @32 \ @33 
 ### La pregunta de un intérprete de la ley sobre el mandamiento más noble
-§36 \ §40 
+@36 \ @40 
 ### La contrapregunta de Jesús sobre el Mesías como hijo de David
-§42 \ §44 \ §45 \ 
+@42 \ @44 \ @45 \ 
 ## 23
-§-1 
+@-1 
 ### El gran discurso de castigo de Jesús contra los escribas y fariseos
-§1 
+@1 
 ### Reprimenda por el comportamiento reprobable de los líderes espirituales del pueblo en su alto cargo
-§3 §4 §5 §6 §11 §12 
+@3 @4 @5 @6 @11 @12 
 ### Los siete ayes de los escribas y fariseos
-§13 \ §14 §15 \ §19 §22 \ §24 \ §25 §26 \ §28 \ §31 §33 
+@13 \ @14 @15 \ @19 @22 \ @24 \ @25 @26 \ @28 \ @31 @33 
 ### Amenaza contra las personas manchadas de sangre que se resisten a su salvación
-§36 
+@36 
 ### Salida de Jesús de la ciudad de Jerusalén y anuncio de su regreso
-§38 §39 
+@38 @39 
 ## 24
-§-1 
+@-1 
 ### El monte de los Olivos de Jesús a sus discípulos desde la destrucción del templo, desde el fin de este mundo, desde su segunda venida y desde el juicio sobre los pueblos
-§2 \ §3 
+@2 \ @3 
 ### El fin de este tiempo mundial; Las primeras señales
-§5 §8 
+@5 @8 
 ### Las persecuciones de los discípulos
-§11 §12 §13 §14 
+@11 @12 @13 @14 
 ### El clímax de la tribulación en Judea
-§17 §21 §22 
+@17 @21 @22 
 ### Profecía de los falsos profetas
-§24 \ §25 \ §27 §28 
+@24 \ @25 \ @27 @28 
 ### Los últimos augurios y la segunda venida del Hijo del Hombre con los fenómenos que los acompañan
-§29 §30 §31 \ §35 \ §36 §37 §40 §41 
+@29 @30 @31 \ @35 \ @36 @37 @40 @41 
 ### Advertencia de estar alerta en general
-§44 
+@44 
 ### Parábola del siervo fiel y del infiel
-§48 §51 
+@48 @51 
 ## 25
-§-1 
+@-1 
 ### La parábola de las diez vírgenes prudentes y necias
-§11 §12 §13 
+@11 @12 @13 
 ### Parábola de los talentos confiados
-§18 \ §20 \ §21 \ §22 \ §23 \ §25 \ §30 
+@18 \ @20 \ @21 \ @22 \ @23 \ @25 \ @30 
 ### El juicio de Jesús sobre los pueblos y las personas; la separación de las ovejas de las cabras
-§31 §32 §33 §36 \ §37 §39 \ §41 §43 \ §44 \ 
+@31 @32 @33 @36 \ @37 @39 \ @41 @43 \ @44 \ 
 ## 26
-§-1 
+@-1 
 ### Último anuncio del sufrimiento de Jesús; Intento de asesinato por parte de los líderes del pueblo
-§2 \ §3 §5 
+@2 \ @3 @5 
 ### Unción de Jesús en Betania
-§9 \ §11 §13 
+@9 \ @11 @13 
 ### Traición de Judas
-§16 
+@16 
 ### Preparación de la comida pascual
-§17 \ §18 \ §19 
+@17 \ @18 \ @19 
 ### La última cena de Jesús en el círculo de los discípulos; Exposición de la traición de Judas; Institución de la santa comunión
-§21 \ §22 \ §24 \ §25 \ §28 §29 
+@21 \ @22 \ @24 \ @25 \ @28 @29 
 ### Camina a Getsemaní
-§30 \ §31 §32 \ §33 \ §34 \ §35 
+@30 \ @31 @32 \ @33 \ @34 \ @35 
 ### El conflicto y la oración de Jesús en Getsemaní; Debilidad de los discípulos
-§38 \ §39 \ §41 \ §42 \ §46 
+@38 \ @39 \ @41 \ @42 \ @46 
 ### Encarcelamiento de Jesús; Escape de los discípulos
-§49 \ §50 \ §51 \ §52 §53 §54 \ §56 
+@49 \ @50 \ @51 \ @52 @53 @54 \ @56 
 ### El interrogatorio y la condena de Jesús ante el sumo sacerdote y el concilio
-§58 \ §61 \ §63 \ §64 \ §65 §66 \ §67 §68 
+@58 \ @61 \ @63 \ @64 \ @65 @66 \ @67 @68 
 ### Negación y arrepentimiento de Pedro
-§69 \ §70 \ §71 \ §72 \ §73 \ §74 \ 
+@69 \ @70 \ @71 \ @72 \ @73 \ @74 \ 
 ## 27
-§-1 
+@-1 
 ### Última deliberación del sumo consejo; Extradición de los condenados al gobernador romano Pilato
-§2 \ §3 §4 \ §5 \ §6 §10 
+@2 \ @3 @4 \ @5 \ @6 @10 
 ### Interrogatorio de Jesús ante Pilato; Jesús rechazado por la gente; su condenación y flagelación
-§11 \ §13 \ §14 
+@11 \ @13 \ @14 
 ### Jesús y Barrabás
-§18 \ §19 \ §21 \ §22 \ §23 \ §24 \ §25 \ §26 
+@18 \ @19 \ @21 \ @22 \ @23 \ @24 \ @25 \ @26 
 ### La burla y el maltrato de Jesús por parte de los soldados romanos
-§30 §31 
+@30 @31 
 ### El curso de la muerte de Jesús después del Gólgota, su crucifixión y su muerte
-§35 §37 \ §38 \ §39 §40 \ §43 §44 
+@35 @37 \ @38 \ @39 @40 \ @43 @44 
 ### La muerte de Jesús; las señales milagrosas de su muerte
-§46 \ §47 \ §48 §49 \ §50 \ §53 \ §54 \ §55 §56 
+@46 \ @47 \ @48 @49 \ @50 \ @53 \ @54 \ @55 @56 
 ### Entierro de Jesús; Orden de los guardias de la tumba
-§60 §61 \ §64 \ 
+@60 @61 \ @64 \ 
 ## 28
-§-1 
+@-1 
 ### Las dos mujeres junto a la tumba vacía en la mañana de Pascua; La primera aparición de Jesús; Engañar al líder del pueblo
-§1 §6 §7 \ §9 \ §10 
+@1 @6 @7 \ @9 \ @10 
 ### La falsa afirmación de los líderes del pueblo del cuerpo robado de Jesús
-§15 
+@15 
 ### Jesús apareció en la montaña de Galilea; su último mandato a los once discípulos
-§18 §19 
+@18 @19 
 # Marcos
 ## 1
-§-1 
+@-1 
 ### Aparición y eficacia de Juan el Bautista
-§1 \ §3 \ §8 
+@1 \ @3 \ @8 
 ### El bautismo y la tentación de Jesús
-§9 §11 \ §13 
+@9 @11 \ @13 
 ### Primera aparición de Jesús en Galilea
-§15 
+@15 
 ### Llamando a los primeros cuatro discípulos
-§17 \ §18 \ §20 
+@17 \ @18 \ @20 
 ### El primer sermón de Jesús y la curación de un hombre poseído en la sinagoga de Capernaum
-§24 \ §25 \ §28 
+@24 \ @25 \ @28 
 ### Sanación de la suegra de Simón y otros enfermos en Capernaum
-§31 \ §34 
+@31 \ @34 
 ### Jesús deja Capernaum; su sermón errante y actividad curativa en Galilea
-§35 §37 \ §39 
+@35 @37 \ @39 
 ### Jesús sana a un leproso y escapa a la soledad
-§40 \ §43 §44 \ 
+@40 \ @43 @44 \ 
 ## 2
-§-1 
+@-1 
 ### Curación de un paralítico en Capernaum; Jesús perdona los pecados
-§5 \ §7 \ §11 \ §12 
+@5 \ @7 \ @11 \ @12 
 ### Llamando al recaudador de impuestos Levi; Jesús como compañero de mesa para recaudadores de impuestos y pecadores
-§14 \ §16 \ §17 
+@14 \ @16 \ @17 
 ### La pregunta del ayuno de los discípulos de Juan y los fariseos
-§18 \ §22 
+@18 \ @22 
 ### El arranco de espigas de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-§24 \ §26 \ §27 §28 
+@24 \ @26 \ @27 @28 
 ## 3
-§-1 
+@-1 
 ### Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
-§6 
+@6 
 ### Afluencia de personas; muchas curaciones en el lago
-§11 §12 
+@11 @12 
 ### Berufung und Namen der zwölf Jünger
-§17 §19 
+@17 @19 
 ### El crecimiento del movimiento
-§21 
+@21 
 ### Jesús se defiende de la blasfemia de Beelzebul de los escribas. Del pecado contra el espíritu santo
-§22 \ §27 \ §30 
+@22 \ @27 \ @30 
 ### Los verdaderos parientes de Jesús
-§32 \ 
+@32 \ 
 ## 4
-§-1 
+@-1 
 ### Parábola del sembrador y cuatro tipos de campos
-§9 
+@9 
 ### Analice el significado y el propósito de las parábolas
-§12 \ §13 
+@12 \ @13 
 ### Interpretación de la parábola del sembrador
-§20 \ §21 §22 §23 \ §24 §25 
+@20 \ @21 @22 @23 \ @24 @25 
 ### Parábolas de la semilla que crece tranquilamente por sí misma y de la semilla de mostaza
-§27 §29 \ §32 \ §34 
+@27 @29 \ @32 \ @34 
 ### Jesús apacigua la tormenta del mar
-§38 \ §40 \ 
+@38 \ @40 \ 
 ## 5
-§-1 
+@-1 
 ### Jesús sana a los poseídos en la tierra de los gerasenos
-§8 \ §9 \ §12 \ §14 \ §17 \ §19 \ §20 
+@8 \ @9 \ @12 \ @14 \ @17 \ @19 \ @20 
 ### Jesús sana a la mujer ensangrentada en Capernaum y despierta a la hija de Jairo
-§23 \ §29 \ §30 \ §31 \ §33 \ §34 \ §35 \ §37 §39 \ §41 §43 
+@23 \ @29 \ @30 \ @31 \ @33 \ @34 \ @35 \ @37 @39 \ @41 @43 
 ## 6
-§-1 
+@-1 
 ### Rechazo y fracaso de Jesús en su natal Nazaret
-§3 \ §6 
+@3 \ @6 
 ### Enviar e instruir a los doce discípulos
-§11 \ §13 
+@11 \ @13 
 ### El juicio de Herodes sobre Jesús; el fin de Juan el Bautista
-§20 \ §23 \ §24 \ §25 \ §28 \ §29 
+@20 \ @23 \ @24 \ @25 \ @28 \ @29 
 ### Regreso de los doce apóstoles; Jesús escapa a la soledad; Alimentando a los cinco mil
-§34 §35 §36 \ §37 \ §38 \ §41 §44 
+@34 @35 @36 \ @37 \ @38 \ @41 @44 
 ### Regrese a través del lago por la noche; el caminar de Jesús sobre el lago; el desembarco en Gennesaret
-§46 \ §52 \ 
+@46 \ @52 \ 
 ## 7
-§-1 
+@-1 
 ### Pelea con los oponentes sobre el lavado de manos; Advertencia de estatutos humanos y marcado de verdadera impureza
-§4 §5 \ §7 \ §13 \ §16 \ §23 
+@4 @5 \ @7 \ @13 \ @16 \ @23 
 ### Jesús y la sirofenicia en el área de Tiro y Sidón
-§27 \ §28 \ §29 \ §30 
+@27 \ @28 \ @29 \ @30 
 ### El regreso de Jesús a Galilea en la orilla oriental del lago; Sanando a un sordomudo
-§31 §37 
+@31 @37 
 ## 8
-§-1 
+@-1 
 ### Alimentando a los cuatro mil
-§2 §3 \ §4 \ §5 \ §9 
+@2 @3 \ @4 \ @5 \ @9 
 ### El rechazo de Jesús a la demanda de señales de los fariseos
-§12 \ §13 
+@12 \ @13 
 ### Advertencia de la levadura de los fariseos y la de Herodes
-§15 \ §16 \ §18 §19 \ §20 \ §21 
+@15 \ @16 \ @18 @19 \ @20 \ @21 
 ### Curación de ciegos en Betsaida
-§22 §23 \ §24 \ §26 
+@22 @23 \ @24 \ @26 
 ### La confesión de Pedro del Mesías
-§27 \ §28 \ §29 \ §30 
+@27 \ @28 \ @29 \ @30 
 ### El primer anuncio del sufrimiento de Jesús
-§33 
+@33 
 ### Proverbios sobre el seguimiento de los discípulos en el sufrimiento
-§38 
+@38 
 ## 9
-§1 
+@1 
 ### La transfiguración de Jesús en la montaña y su conversación con los discípulos en el descenso
-§4 \ §6 \ §7 \ §8 \ §9 §10 \ §11 \ §13 
+@4 \ @6 \ @7 \ @8 \ @9 @10 \ @11 \ @13 
 ### Curación de un niño epiléptico; la incapacidad de los discípulos
-§16 \ §18 \ §19 \ §20 \ §21 \ §22 \ §23 \ §24 \ §25 \ §27 \ §28 \ §29 
+@16 \ @18 \ @19 \ @20 \ @21 \ @22 \ @23 \ @24 \ @25 \ @27 \ @28 \ @29 
 ### Segundo anuncio de sufrimiento
-§31 \ §32 
+@31 \ @32 
 ### Controversia entre discípulos; La exhortación de Jesús a la humildad
-§33 \ §34 \ §35 §37 
+@33 \ @34 \ @35 @37 
 ### Enseñar sobre la tolerancia
-§38 \ §39 §40 §41 
+@38 \ @39 @40 @41 
 ### Advertencia de engaño (a la incredulidad y al pecado); Dichos de sal
-§43 §49 §50 
+@43 @49 @50 
 ## 10
-§-1 
+@-1 
 ### Jesús en Judea y Transjordania; Conversaciones sobre matrimonio y divorcio
-§1 \ §2 \ §3 \ §4 \ §7 §9 \ §12 
+@1 \ @2 \ @3 \ @4 \ @7 @9 \ @12 
 ### Jesús bendice a los niños
-§15 §16 
+@15 @16 
 ### La conversación de Jesús con los ricos y su referencia al peligro de las riquezas
-§17 \ §19 \ §20 \ §21 \ §22 \ §23 \ §24 §25 \ §26 \ §27 
+@17 \ @19 \ @20 \ @21 \ @22 \ @23 \ @24 @25 \ @26 \ @27 
 ### La recompensa de seguir a Jesús y la renuncia
-§28 \ §31 
+@28 \ @31 
 ### Salida hacia Jerusalén; tercer anuncio del sufrimiento de Jesús
-§34 
+@34 
 ### Solicitud ambiciosa de los dos hijos de Zebedeo
-§35 \ §36 \ §37 \ §38 \ §39 \ §40 \ §41 \ §42 §43 §45 
+@35 \ @36 \ @37 \ @38 \ @39 \ @40 \ @41 \ @42 @43 @45 
 ### Curación del ciego Bartimeo cerca de Jericó
-§48 \ §49 \ §50 \ §51 \ 
+@48 \ @49 \ @50 \ @51 \ 
 ## 11
-§-1 
+@-1 
 ### La entrada de Jesús a Jerusalén
-§1 §3 \ §6 \ §10 \ §11 
+@1 @3 \ @6 \ @10 \ @11 
 ### La maldición de una higuera estéril
-§14 
+@14 
 ### La limpieza del templo
-§15 §17 \ §18 \ §19 
+@15 @17 \ @18 \ @19 
 ### Repaso de la higuera seca con posterior referencia al poder de la fe y la oración; advertencia
-§21 \ §23 §24 §25 §26 
+@21 \ @23 @24 @25 @26 
 ### La pregunta del sumo consejo sobre la autoridad de Jesús
-§28 \ §30 \ §32 §33 
+@28 \ @30 \ @32 @33 
 ## 12
-§-1 
+@-1 
 ### Parábola de los viticultores infieles
-§8 §11 \ §12 
+@8 @11 \ @12 
 ### La cuestión fiscal de los fariseos
-§15 \ §16 \ §17 
+@15 \ @16 \ @17 
 ### La pregunta sobre la resurrección de los muertos
-§23 \ §27 
+@23 \ @27 
 ### La pregunta de un escriba sobre el mandamiento más noble
-§28 \ §31 \ §33 \ §34 
+@28 \ @31 \ @33 \ @34 
 ### La contrapregunta de Jesús sobre el Mesías como hijo de David
-§35 §36 \ §37 
+@35 @36 \ @37 
 ### La advertencia de Jesús sobre la ambición y la codicia de los escribas
-§40 
+@40 
 ### Jesús alaba las dos blancas de la viuda pobre
-§41 §44 
+@41 @44 
 ## 13
-§-1 
+@-1 
 ### Los primeros signos del fin de los tiempos
-§1 \ §2 \ §3 §4 
+@1 \ @2 \ @3 @4 
 ### Los primeros signos del fin de los tiempos
-§6 \ §8 
+@6 \ @8 
 ### La persecución de los discípulos
-§10 §11 \ §13 
+@10 @11 \ @13 
 ### El clímax de la tribulación en Judea
-§14 §20 
+@14 @20 
 ### Profecía sobre los falsos profetas
-§23 
+@23 
 ### Los últimos augurios y la aparición del Hijo del Hombre en el último día
-§25 §27 \ §31 \ §32 
+@25 @27 \ @31 \ @32 
 ### Exhortación final a los discípulos a estar alerta
-§33 \ 
+@33 \ 
 ## 14
-§-1 
+@-1 
 ### Intento de asesinato por parte de los líderes del pueblo
-§2 
+@2 
 ### Unción de Jesús en Betania
-§3 §5 \ §9 
+@3 @5 \ @9 
 ### Traición de Judas
-§11 
+@11 
 ### Preparación de la comida pascual
-§12 \ §14 §15 \ §16 
+@12 \ @14 @15 \ @16 
 ### La última cena de Jesús en el círculo de los discípulos; Anuncio de la traición de Judas; Institución de la santa comunión
-§18 \ §19 \ §21 \ §22 \ §25 
+@18 \ @19 \ @21 \ @22 \ @25 
 ### Camina a Getsemaní
-§26 \ §27 §28 \ §29 \ §30 \ §31 
+@26 \ @27 @28 \ @29 \ @30 \ @31 
 ### El conflicto y la oración de Jesús en Getsemaní; Debilidad de los discípulos
-§33 §34 \ §36 \ §38 \ §42 
+@33 @34 \ @36 \ @38 \ @42 
 ### Encarcelamiento de Jesús; Escape de los discípulos
-§47 \ §49 \ §52 
+@47 \ @49 \ @52 
 ### El interrogatorio, la confesión y la condena de Jesús ante el sumo sacerdote y el concilio
-§53 \ §59 \ §61 \ §62 \ §64 §65 
+@53 \ @59 \ @61 \ @62 \ @64 @65 
 ### Negación y arrepentimiento de Pedro
-§67 \ §68 \ §71 \ 
+@67 \ @68 \ @71 \ 
 ## 15
-§-1 
+@-1 
 ### El interrogatorio de Jesús ante el gobernador romano Poncio Pilato; su condenación y flagelación
-§2 \ §4 \ §5 \ §10 §12 \ §13 \ §14 \ §15 
+@2 \ @4 \ @5 \ @10 @12 \ @13 \ @14 \ @15 
 ### La burla y el maltrato de Jesús por parte de los soldados romanos
-§19 
+@19 
 ### El curso de la muerte de Jesús después del Gólgota, su crucifixión y su muerte
-§20 \ §23 \ §24 §28 \ §29 §30 \ §32 
+@20 \ @23 \ @24 @28 \ @29 @30 \ @32 
 ### La muerte de Jesús; el signo milagroso de su muerte
-§34 \ §35 \ §36 \ §39 \ §41 
+@34 \ @35 \ @36 \ @39 \ @41 
 ### Entierro de Jesús
 ## 16
-§-1 
+@-1 
 ### Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación del ángel a las mujeres
-§4 \ §7 \ §8 
+@4 \ @7 \ @8 
 ### Jesús se aparece a María Magdalena y a los dos discípulos de Emaús
-§11 \ §12 §13 
+@11 \ @12 @13 
 ### La aparición de Jesús a los once apóstoles y su mandato misional
-§15 §16 §17 §18 
+@15 @16 @17 @18 
 ### Ascensión de Jesús
-§19 
+@19 
 # Lucas
 ## 1
-§-1 
+@-1 
 ### Introducción
-§2 §3 §4 
+@2 @3 @4 
 ### Anuncio del nacimiento de Juan el Bautista
-§5 §7 \ §10 \ §15 §17 \ §18 \ §19 §20 \ §25 
+@5 @7 \ @10 \ @15 @17 \ @18 \ @19 @20 \ @25 
 ### Anunciando el nacimiento de Jesús
-§28 \ §31 §32 §33 \ §34 \ §35 §37 \ §38 
+@28 \ @31 @32 @33 \ @34 \ @35 @37 \ @38 
 ### El encuentro de las dos madres; El saludo de Elisabeth
-§45 
+@45 
 ### Canción de alabanza de María
-§46 §50 §53 §55 \ §56 
+@46 @50 @53 @55 \ @56 
 ### Nacimiento, circuncisión y juventud de Juan; Himno de Zacarías
-§59 §60 \ §62 \ §63 \ §66 
+@59 @60 \ @62 \ @63 \ @66 
 ### Himno profético de alabanza de Zacarías
-§69 §73 §74 §76 §77 §78 §79 \ §80 
+@69 @73 @74 @76 @77 @78 @79 \ @80 
 ## 2
-§-1 
+@-1 
 ### El decreto del emperador Augusto y su significado para el nacimiento de Jesús
-§5 \ §7 
+@5 \ @7 
 ### Los pastores en el campo y la aparición angelical
-§13 §14 
+@13 @14 
 ### Los pastores con el niño Jesús en Belén
-§20 
+@20 
 ### Circuncisión y presentación de Jesús en el templo
-§21 \ §22 §24 
+@21 \ @22 @24 
 ### Saludos, himnos y profecía de Simeón envejecido
-§25 §32 \ §34 §35 
+@25 @32 \ @34 @35 
 ### La anciana Hanna saluda al niño; Regreso de la Sagrada Familia a Nazaret
-§37 §38 \ §40 
+@37 @38 \ @40 
 ### El niño Jesús de doce años en el templo
-§43 §48 \ §52 
+@43 @48 \ @52 
 ## 3
-§-1 
+@-1 
 ### Aparición, sermón penitencial, efectividad y captura de Juan Bautista
-§6 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §17 \ §19 §20 
+@6 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @17 \ @19 @20 
 ### Bautismo y consagración del Mesías de Jesús
-§22 
+@22 
 ### Árbol genealógico de Jesús
-§23 §32 §33 §38 
+@23 @32 @33 @38 
 ## 4
-§-1 
+@-1 
 ### La tentación de Jesús como prueba de Mesías
-§2 \ §3 \ §4 \ §7 \ §8 \ §10 \ §11 \ §12 \ §13 
+@2 \ @3 \ @4 \ @7 \ @8 \ @10 \ @11 \ @12 \ @13 
 ### Primera aparición de Jesús en Galilea; su predicación y rechazo en su natal Nazaret
-§15 \ §19 \ §21 \ §22 \ §24 §25 §27 \ §30 
+@15 \ @19 \ @21 \ @22 \ @24 @25 @27 \ @30 
 ### Jesús enseña en la sinagoga de Capernaum y sana a un poseído
-§32 §34 \ §35 \ §37 
+@32 @34 \ @35 \ @37 
 ### Sanación de la suegra de Simón Pedro y otros enfermos en Capernaum
-§41 
+@41 
 ### El sermón itinerante de Jesús en las cercanías de Capernaum
-§44 
+@44 
 ## 5
-§-1 
+@-1 
 ### El sermón de Jesús en el barco; maravilloso viaje de pesca de Peter; Llamando a los primeros cuatro discípulos
-§3 \ §4 \ §8 §10 \ §11 
+@3 \ @4 \ @8 @10 \ @11 
 ### Jesús sana a un leproso y escapa a la soledad
-§12 \ §13 \ §14 \ §16 
+@12 \ @13 \ @14 \ @16 
 ### Curación de un paralítico; Jesús perdona los pecados
-§20 \ §21 \ §24 \ §26 
+@20 \ @21 \ @24 \ @26 
 ### Llamando al recaudador de impuestos Levi; Jesús como compañero de mesa para recaudadores de impuestos y pecadores
-§27 \ §30 \ §32 
+@27 \ @30 \ @32 
 ### La pregunta del ayuno de los discípulos de Juan y los fariseos; Jesús justifica lo nuevo en su comportamiento
-§33 \ §35 \ 
+@33 \ @35 \ 
 ## 6
-§-1 
+@-1 
 ### El arranco de espigas de los discípulos en sábado; La primera disputa de Jesús con los fariseos sobre la santificación del día de reposo
-§1 §2 \ §4 §5 
+@1 @2 \ @4 @5 
 ### Sanación del hombre con el brazo paralizado en sábado; el segundo argumento sobre la observancia del sábado
-§11 
+@11 
 ### Llamadas y nombres de los doce apóstoles; Afluencia de personas; muchas curaciones
-§13 §16 \ §19 
+@13 @16 \ @19 
 ### El sermón del monte
-§21 §22 §24 §26 
+@21 @22 @24 @26 
 ### Mandamiento de amar al enemigo; Renuncia a represalias
-§28 §30 \ §31 \ §34 §36 
+@28 @30 \ @31 \ @34 @36 
 ### Advertencia contra el juicio y la hipócrita voluntad de mejorar
-§37 \ §38 \ §39 §40 §42 
+@37 \ @38 \ @39 @40 @42 
 ### Tanto la obediencia de la fe como la incredulidad de la gente viene del corazón, como el fruto de la especie del árbol
-§45 
+@45 
 ### Sea un hacedor de la palabra, no solo un oyente
 ## 7
-§-1 
+@-1 
 ### Sanación del siervo del centurión de Capernaum
-§8 \ §10 
+@8 \ @10 
 ### Criar al joven en Nain
-§12 §15 \ §16 §17 
+@12 @15 \ @16 @17 
 ### Embajada de Juan el Bautista; La respuesta y el testimonio de Jesús sobre Juan
-§20 \ §23 \ §26 §27 \ §28 \ §29 §30 \ §34 §35 
+@20 \ @23 \ @26 @27 \ @28 \ @29 @30 \ @34 @35 
 ### La unción de Jesús por la gran pecadora
-§36 §37 §39 \ §40 \ §42 \ §43 \ §44 §45 §48 \ §49 \ §50 
+@36 @37 @39 \ @40 \ @42 \ @43 \ @44 @45 @48 \ @49 \ @50 
 ## 8
-§-1 
+@-1 
 ### El compañero constante de Jesús en sus andanzas; las sirvientas galileas
-§2 §3 
+@2 @3 
 ### Parábola del sembrador y el campo de cuatro tipos
-§8 
+@8 
 ### Significado y propósito de las parábolas; Interpretación de la parábola del sembrador
-§9 \ §10 \ §15 \ §16 §17 §18 
+@9 \ @10 \ @15 \ @16 @17 @18 
 ### Los verdaderos parientes de Jesús
-§20 \ §21 
+@20 \ @21 
 ### Jesús apacigua la tormenta del mar
-§25 
+@25 
 ### Jesús sana a los poseídos en la tierra de los Gergesen
-§29 \ §30 \ §31 \ §33 \ §34 \ §39 
+@29 \ @30 \ @31 \ @33 \ @34 \ @39 
 ### Jesús sana a la mujer ensangrentada y despierta a la hija de Jairo
-§44 \ §45 \ §48 \ §49 \ §50 \ §52 \ 
+@44 \ @45 \ @48 \ @49 \ @50 \ @52 \ 
 ## 9
-§-1 
+@-1 
 ### Enviar a los doce discípulos y darles instrucciones
-§1 §5 \ §6 
+@1 @5 \ @6 
 ### Conclusión de la obra de Jesús en Galilea
-§9 
+@9 
 ### Regreso de los apóstoles; Jesús se retira a la soledad; Alimentando a los cinco mil
-§10 \ §12 \ §13 \ §14 \ §17 
+@10 \ @12 \ @13 \ @14 \ @17 
 ### La confesión de Pedro del Mesías y el primer anuncio del sufrimiento de Jesús
-§18 \ §19 \ §20 \ §22 
+@18 \ @19 \ @20 \ @22 
 ### Proverbios sobre seguir por los discípulos
-§24 §27 
+@24 @27 
 ### La transfiguración de Jesús en la montaña
-§31 \ §33 \ §35 §36 
+@31 \ @33 \ @35 @36 
 ### Curación de un niño epiléptico
-§40 \ §41 \ §43 
+@40 \ @41 \ @43 
 ### Segundo anuncio del sufrimiento de Jesús
-§45 
+@45 
 ### La arrogancia de los discípulos; Enseñanza sobre la humildad y la tolerancia
-§48 \ §49 \ §50 
+@48 \ @49 \ @50 
 ### Salida para el viaje; el inhóspito pueblo samaritano
-§51 §54 \ §56 
+@51 @54 \ @56 
 ### Tres seguidores diferentes de Jesús; Proverbios sobre seguir
-§57 \ §58 \ §59 \ §60 \ §61 \ §62 
+@57 \ @58 \ @59 \ @60 \ @61 \ @62 
 ## 10
-§-1 
+@-1 
 ### Enviar a los setenta discípulos y darles instrucciones; Arrepentimiento sobre las ciudades galileas impenitentes
-§1 §2 §4 §5 §7 §12 \ §16 
+@1 @2 @4 @5 @7 @12 \ @16 
 ### Regreso de los setenta discípulos; Alegría de Jesús y beatificación de los discípulos
-§17 \ §18 §19 §20 \ §21 \ §22 \ §23 §24 
+@17 \ @18 @19 @20 \ @21 \ @22 \ @23 @24 
 ### Jesús y el maestro de la ley; Seres de caridad; Historia del buen samaritano
-§25 \ §26 \ §27 \ §28 \ §29 \ §36 \ §37 
+@25 \ @26 \ @27 \ @28 \ @29 \ @36 \ @37 
 ### Marta y María en Betania
-§38 §40 \ 
+@38 @40 \ 
 ## 11
-§-1 
+@-1 
 ### Jesús enseña a los discípulos a orar: el Padre Nuestro
-§1 \ §4 
+@1 \ @4 
 ### La parábola del amigo suplicante; Jesús anima a la oración persistente y persistente
-§8 \ §10 \ §13 
+@8 \ @10 \ @13 
 ### Jesús se defiende de la blasfemia de los fariseos contra Beelzebul; Parábola de recaída
-§20 \ §22 \ §23 \ §26 
+@20 \ @22 \ @23 \ @26 
 ### Beatificación de Jesús de los verdaderos hijos de Dios
-§27 \ §28 
+@27 \ @28 
 ### El discurso de Jesús contra los que pedían señales; el signo de Jonás
-§31 §32 \ §33 §36 
+@31 @32 \ @33 @36 
 ### Contra la hipocresía de los fariseos
-§38 §43 §44 
+@38 @43 @44 
 ### Gritos de defensa sobre la malicia de los maestros de la ley
-§45 \ §52 \ §54 
+@45 \ @52 \ @54 
 ## 12
-§-1 
+@-1 
 ### Advertencia de hipocresía farisea
-§1 §2 §3 
+@1 @2 @3 
 ### Advertencia de miedo al hombre
-§5 \ §7 \ §9 
+@5 \ @7 \ @9 
 ### Advertencia de blasfemia contra el Espíritu Santo; Referencia a la asistencia del Espíritu
-§10 §11 §12 \ §13 \ §14 
+@10 @11 @12 \ @13 \ @14 
 ### Advertencia de codicia; Parábola del rico tonto
-§15 \ §19 \ §20 §21 
+@15 \ @19 \ @20 @21 
 ### Procurad el reino de Dios, y todas estas cosas os serán añadidas
-§28 \ §31 \ §32 §33 §34 
+@28 \ @31 \ @32 @33 @34 
 ### Recordatorios de vigilancia y preparación; Igualdad de disposición de los siervos fieles y del maligno
-§35 §36 §39 §40 \ §41 \ §48 
+@35 @36 @39 @40 \ @41 \ @48 
 ### Jesús trae fuego y conflicto a la tierra
-§50 §53 
+@50 @53 
 ### Los signos de los tiempos te instan a tomar en serio la salvación de tu alma
-§56 \ §58 §59 
+@56 \ @58 @59 
 ## 13
-§-1 
+@-1 
 ### Recordatorios de penitencia
-§5 \ §6 §9 
+@5 \ @6 @9 
 ### Una curación de los enfermos en sábado; Disputa por guardar el día de reposo
-§10 §13 \ §14 \ §15 §16 \ §17 
+@10 @13 \ @14 \ @15 @16 \ @17 
 ### Parábolas del grano de mostaza y levadura
-§19 \ §21 \ §23 
+@19 \ @21 \ @23 
 ### Porfiad á entrar por la puerta angosta
-§25 §26 §28 §29 §30 
+@25 @26 @28 @29 @30 
 ### Ay de Jerusalén, que apedrea a los profetas
-§31 \ §33 \ §35 
+@31 \ @33 \ @35 
 ## 14
-§-1 
+@-1 
 ### Nueva disputa sobre la curación de los enfermos en sábado
-§1 §3 \ §4 \ §5 \ §6 
+@1 @3 \ @4 \ @5 \ @6 
 ### Cualquiera que se ensalza, será humillado; y el que se humilla, será ensalzado
-§11 \ §14 
+@11 \ @14 
 ### La parábola de la gran cena
-§15 \ §18 \ §19 \ §20 \ §21 \ §22 \ §24 
+@15 \ @18 \ @19 \ @20 \ @21 \ @22 \ @24 
 ### Sobre las condiciones del discipulado y la seriedad de seguir a Jesús
-§27 §33 \ §34 §35 
+@27 @33 \ @34 @35 
 ## 15
-§-1 
+@-1 
 ### Parábolas de la oveja perdida y la dracma perdida
-§2 \ §4 §7 \ §10 
+@2 \ @4 @7 \ @10 
 ### La parábola del hijo pródigo
-§13 §18 §19 \ §21 \ §24 \ §28 §30 \ 
+@13 @18 @19 \ @21 \ @24 \ @28 @30 \ 
 ## 16
-§-1 
+@-1 
 ### Parábola del mayordomo infiel pero sabio
-§2 \ §7 \ §9 
+@2 \ @7 \ @9 
 ### De lealtad
-§10 §13 
+@10 @13 
 ### Jesús reprende a los fariseos codiciosos y burladores
-§15 \ §16 §17 \ §18 
+@15 \ @16 @17 \ @18 
 ### Historia del rico y el pobre Lázaro
-§24 \ §26 \ §28 \ §29 \ §30 \ 
+@24 \ @26 \ @28 \ @29 \ @30 \ 
 ## 17
-§-1 
+@-1 
 ### Advertencia contra la seducción y recordatorio de perdonar
-§4 
+@4 
 ### Del poder de la fe
-§5 \ §6 
+@5 \ @6 
 ### Parábola del Señor y su siervo comprometido a trabajar
-§10 
+@10 
 ### Curación de diez leprosos; el samaritano agradecido
-§11 §12 §13 \ §16 \ §19 
+@11 @12 @13 \ @16 \ @19 
 ### De la venida del reino de Dios
-§20 §21 \ §23 §27 §32 §33 §36 \ 
+@20 @21 \ @23 @27 @32 @33 @36 \ 
 ## 18
-§-1 
+@-1 
 ### Parábola del juez impío y la viuda suplicante
-§1 §5 \ §8 
+@1 @5 \ @8 
 ### La parábola del fariseo y el recaudador de impuestos
-§9 §12 §13 §14 
+@9 @12 @13 @14 
 ### Jesús bendice a los niños
-§17 
+@17 
 ### Del peligro de la riqueza
-§18 \ §20 \ §21 \ §22 \ §23 \ §24 §25 \ §26 \ §27 
+@18 \ @20 \ @21 \ @22 \ @23 \ @24 @25 \ @26 \ @27 
 ### La recompensa de seguir a Jesús
-§28 \ §30 
+@28 \ @30 
 ### Huele a Jerusalén; tercer anuncio del sufrimiento de Jesús
-§33 \ §34 
+@33 \ @34 
 ### La curación del ciego en Jericó
-§39 \ §41 \ §42 \ 
+@39 \ @41 \ @42 \ 
 ## 19
-§-1 
+@-1 
 ### La visita de Jesús al principal recaudador de impuestos Zaqueo en Jericó
-§7 \ §8 \ §9 §10 
+@7 \ @8 \ @9 @10 
 ### La parábola de las minas confiadas
-§14 \ §16 \ §17 \ §18 \ §19 \ §21 \ §24 \ §26 §27 
+@14 \ @16 \ @17 \ @18 \ @19 \ @21 \ @24 \ @26 @27 
 ### Jesús a las puertas de Jerusalén; su entrada en Jerusalén
-§28 \ §31 \ §36 \ §38 \ §39 \ §40 
+@28 \ @31 \ @36 \ @38 \ @39 \ @40 
 ### Jesús llora por Jerusalén y profecía de la destrucción de Jerusalén
-§44 
+@44 
 ### Jesús limpiando el templo
-§46 \ 
+@46 \ 
 ## 20
-§-1 
+@-1 
 ### La pregunta del sumo consejo sobre la autoridad de Jesús
-§2 \ §4 \ §5 §7 \ §8 
+@2 \ @4 \ @5 @7 \ @8 
 ### La parábola de los viticultores infieles
-§13 \ §16 \ §18 \ §19 
+@13 \ @16 \ @18 \ @19 
 ### La cuestión fiscal de los fariseos
-§20 §22 \ §24 \ §25 \ §26 
+@20 @22 \ @24 \ @25 \ @26 
 ### Sobre la resurrección de los muertos
-§33 \ §38 \ §40 
+@33 \ @38 \ @40 
 ### La contrapregunta de Jesús sobre el Mesías como hijo de David
-§43 \ §44 
+@43 \ @44 
 ### Advertencia de Jesús sobre la ambición y la codicia de los escribas
 ## 21
-§-1 
+@-1 
 ### Jesús alaba las dos blancas de la viuda pobre
-§3 §4 
+@3 @4 
 ### El discurso de Jesús en el Monte de los Olivos a los apóstoles sobre la destrucción del templo y Jerusalén, el fin de este mundo y su aparición en el último día
-§6 \ §7 
+@6 \ @7 
 ### Los primeros signos del fin
-§9 \ §11 
+@9 \ @11 
 ### Las persecuciones de los discípulos
-§12 §15 §18 \ §19 
+@12 @15 @18 \ @19 
 ### La destrucción de Jerusalén y la difícil situación del pueblo judío
-§24 
+@24 
 ### Las últimas señales del fin y la aparición del Hijo del Hombre
-§25 §27 §28 \ §33 
+@25 @27 @28 \ @33 
 ### Una advertencia final sobre la sobriedad y la vigilancia
-§34 §35 §36 \ 
+@34 @35 @36 \ 
 ## 22
-§-1 
+@-1 
 ### Intento de asesinato por parte de los líderes del pueblo
-§2 
+@2 
 ### Traición de Judas
-§3 §6 
+@3 @6 
 ### Preparación de la cena de Pascua
-§8 \ §9 \ §12 \ §13 
+@8 \ @9 \ @12 \ @13 
 ### La última cena de Jesús en el círculo de los discípulos; Institución de la santa comunión
-§18 \ §19 §22 \ §23 
+@18 \ @19 @22 \ @23 
 ### Palabras de despedida a los discípulos
-§24 §27 \ §28 §30 
+@24 @27 \ @28 @30 
 ### Advertencia al Pedro seguro de sí mismo y profecía de su negación
-§31 §32 \ §33 \ §34 
+@31 @32 \ @33 \ @34 
 ### Referencia al tiempo que los discípulos vivieron con seguridad y al futuro serio y difícil
-§35 \ §37 \ §38 
+@35 \ @37 \ @38 
 ### La lucha del alma de Jesús y la oración en el Monte de los Olivos
-§40 \ §42 \ §44 \ §46 
+@40 \ @42 \ @44 \ @46 
 ### Captura de Jesús
-§48 \ §50 \ §53 
+@48 \ @50 \ @53 
 ### Negación y arrepentimiento de Pedro
-§56 \ §57 \ §58 \ §59 \ §62 
+@56 \ @57 \ @58 \ @59 \ @62 
 ### Burlarse y maltratar a Jesús; Interrogatorio ante el sumo consejo
-§65 \ §67 \ §69 \ §70 \ 
+@65 \ @67 \ @69 \ @70 \ 
 ## 23
-§-1 
+@-1 
 ### La acusación de los judíos y el interrogatorio de Jesús ante Pilato
-§2 \ §3 \ §4 \ §5 \ §7 
+@2 \ @3 \ @4 \ @5 \ @7 
 ### Jesus antes Herodes
-§8 §12 
+@8 @12 
 ### Jesús de nuevo ante Pilato
-§16 
+@16 
 ### Jesús y Barrabás; la condenacion
-§19 \ §21 \ §25 
+@19 \ @21 \ @25 
 ### El camino de la muerte de Jesús al Gólgota y sus palabras a las mujeres de luto de Jerusalén; su crucifixión y su muerte
-§29 §30 §31 \ §33 \ §34 \ §35 \ §37 \ §38 
+@29 @30 @31 \ @33 \ @34 \ @35 \ @37 \ @38 
 ### Jesús y los dos ladrones
-§39 \ §42 \ §43 
+@39 \ @42 \ @43 
 ### La muerte de Jesús; las señales milagrosas de su muerte
-§45 §46 \ §49 
+@45 @46 \ @49 
 ### El entierro de Jesús
-§56 
+@56 
 ## 24
-§-1 
+@-1 
 ### Descubrimiento de la tumba vacía en la mañana de Pascua; la revelación a las mujeres
-§5 \ §7 \ §10 §12 
+@5 \ @7 \ @10 @12 
 ### Los discípulos de Emaús
-§17 \ §18 \ §19 \ §24 \ §27 \ §28 \ §29 \ §34 §35 
+@17 \ @18 \ @19 \ @24 \ @27 \ @28 \ @29 \ @34 @35 
 ### Jesús se apareció al círculo de los discípulos la noche del domingo de Pascua; su mandato misionero y despedida de los discípulos
-§36 \ §37 \ §40 §41 \ §44 \ §45 §46 §47 §49 
+@36 \ @37 \ @40 @41 \ @44 \ @45 @46 @47 @49 
 ### Ascensión de jesús
 # Juan
 ## 1
-§-1 
+@-1 
 ### Jesús como el “Verbo” hecho hombre
-§3 §4 §5 \ §6 §7 §9 \ §13 \ §14 §16 §17 §18 
+@3 @4 @5 \ @6 @7 @9 \ @13 \ @14 @16 @17 @18 
 ### El testimonio de sí mismo del Bautista
-§19 \ §20 \ §21 \ §22 \ §23 \ §25 \ §26 §28 
+@19 \ @20 \ @21 \ @22 \ @23 \ @25 \ @26 @28 
 ### El testimonio del Bautista acerca de Jesús
-§34 \ §38 \ §39 \ §40 §42 \ §45 \ §46 \ §47 \ §48 \ §49 \ 
+@34 \ @38 \ @39 \ @40 @42 \ @45 \ @46 \ @47 \ @48 \ @49 \ 
 ## 2
-§-1 
+@-1 
 ### La primera señal milagrosa de Jesús en las bodas de Caná
-§3 \ §4 \ §5 \ §11 
+@3 \ @4 \ @5 \ @11 
 ### Jesús por primera vez en Jerusalén en la Pascua
-§12 \ §13 §17 \ §18 \ §19 \ §22 \ 
+@12 \ @13 @17 \ @18 \ @19 \ @22 \ 
 ## 3
-§-1 
+@-1 
 ### Jesús y Nicodemo
-§1 §2 \ §3 \ §4 \ §5 §6 §8 \ §9 \ §14 §17 §18 §19 §20 §21 
+@1 @2 \ @3 \ @4 \ @5 @6 @8 \ @9 \ @14 @17 @18 @19 @20 @21 
 ### Jesús en Judea y el testimonio final del Bautista
-§22 §24 §26 \ §27 §28 §29 §30 \ §34 §35 §36 
+@22 @24 @26 \ @27 @28 @29 @30 \ @34 @35 @36 
 ## 4
-§-1 
+@-1 
 ### Jesús habla con la mujer samaritana junto al pozo de Jacob
-§1 §6 \ §8 \ §9 \ §10 \ §12 \ §13 §14 \ §15 \ §16 \ §17 \ §18 \ §20 \ §24 \ §25 \ §26 
+@1 @6 \ @8 \ @9 \ @10 \ @12 \ @13 @14 \ @15 \ @16 \ @17 \ @18 \ @20 \ @24 \ @25 \ @26 
 ### Jesús y los discípulos
-§30 \ §31 \ §32 \ §33 \ §34 §35 §38 \ §42 
+@30 \ @31 \ @32 \ @33 \ @34 @35 @38 \ @42 
 ### Curación del hijo de un funcionario real en Cafarnaúm
-§43 §44 §45 §46 §48 \ §49 \ §54 
+@43 @44 @45 @46 @48 \ @49 \ @54 
 ## 5
-§-1 
+@-1 
 ### Sanación de los enfermos en el estanque de Betesda cerca de Jerusalén y concurso del sábado
-§1 §2 §6 \ §7 \ §8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §17 \ §18 
+@1 @2 @6 \ @7 \ @8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @17 \ @18 
 ### El testimonio de Jesús de su obra divina y de su filiación divina; Jesús como juez y dador de vida
-§19 §20 §22 §23 \ §24 §25 §26 §27 §29 §30 
+@19 @20 @22 @23 \ @24 @25 @26 @27 @29 @30 
 ### El testimonio de Juan
-§33 §35 
+@33 @35 
 ### El testimonio del padre
-§37 §38 \ §40 
+@37 @38 \ @40 
 ### Ataque a la incredulidad y ambición de los judíos; Testimonio de moisés
-§43 §44 \ §45 §46 §47 
+@43 @44 \ @45 @46 @47 
 ## 6
-§-1 
+@-1 
 ### Jesús alimenta a los cinco mil
-§6 \ §7 \ §9 \ §14 §15 
+@6 \ @7 \ @9 \ @14 @15 
 ### Jesús camina sobre el lago
-§21 
+@21 
 ### El reencuentro con el pueblo y la demanda de señal del pueblo
-§25 \ §27 \ §28 \ §29 \ §31 
+@25 \ @27 \ @28 \ @29 \ @31 
 ### El discurso de Jesús sobre el pan de vida
-§33 \ §34 \ §35 §38 §39 §40 \ §42 \ §46 §47 §48 §49 §51 \ §52 \ §54 §59 
+@33 \ @34 \ @35 @38 @39 @40 \ @42 \ @46 @47 @48 @49 @51 \ @52 \ @54 @59 
 ### El divorcio de los discípulos de Jesús como efecto del habla
-§60 \ §62 §63 §65 \ §67 \ §69 \ 
+@60 \ @62 @63 @65 \ @67 \ @69 \ 
 ## 7
-§-1 
+@-1 
 ### Jesús viaja a Jerusalén para la Fiesta de los Tabernáculos
-§2 §3 §5 \ §6 §7 §8 \ §10 §13 
+@2 @3 @5 \ @6 @7 @8 \ @10 @13 
 ### La aparición y el testimonio de sí mismo de Jesús en la Fiesta de los Tabernáculos
-§15 \ §19 \ §20 \ §21 §22 §24 
+@15 \ @19 \ @20 \ @21 @22 @24 
 ### Jesús viene de Dios
-§27 \ §29 \ §30 §32 
+@27 \ @29 \ @30 @32 
 ### Jesús anuncia su regressa a Dios
-§34 \ §36 
+@34 \ @36 
 ### Jesús en el apogeo de la fiesta como dador del agua de vida
-§38 §39 \ §40 §41 §42 §43 §44 
+@38 @39 \ @40 @41 @42 @43 @44 
 ### Fracaso del plan de arresto de los líderes; División entre los miembros del sumo consejo; Amonestación de Nicodemo
-§45 \ §46 \ §49 \ §51 \ §52 \ 
+@45 \ @46 \ @49 \ @51 \ @52 \ 
 ## 8
-§-1 
+@-1 
 ### Jesús y la adúltera
-§1 \ §6 \ §7 §8 \ §10 \ §11 
+@1 \ @6 \ @7 @8 \ @10 \ @11 
 ### El testimonio de sí mismo de Jesús como la luz del mundo y el Hijo de Dios
-§12 \ §13 \ §15 §18 \ §19 \ §20 
+@12 \ @13 \ @15 @18 \ @19 \ @20 
 ### Jesús da testimonio del profundo abismo que lo separa de los judíos según sus orígenes
-§21 \ §22 \ §24 \ §25 \ §26 \ §28 §29 
+@21 \ @22 \ @24 \ @25 \ @26 \ @28 @29 
 ### El testimonio de Jesús de su filiación de Dios y de la esclavitud del pecado de los judíos a pesar de su descendencia de Abraham
-§32 \ §33 \ §36 
+@32 \ @33 \ @36 
 ### Los judíos incrédulos no son hijos de Abraham ni de Dios, sino hijos del diablo
-§38 \ §39 \ §41 \ §43 §44 §46 §47 
+@38 \ @39 \ @41 \ @43 @44 @46 @47 
 ### El testimonio de Jesús de la majestad de sí mismo y de su superioridad sobre Abraham
-§48 \ §51 \ §53 \ §55 §56 \ §57 \ §58 \ §59 
+@48 \ @51 \ @53 \ @55 @56 \ @57 \ @58 \ @59 
 ## 9
-§-1 
+@-1 
 ### La curación del ciego de nacimiento en sábado
-§2 \ §3 §4 §5 §6 §7 \ §9 \ §10 \ §11 \ §12 
+@2 \ @3 @4 @5 @6 @7 \ @9 \ @10 \ @11 \ @12 
 ### El primer interrogatorio de los fariseos
-§15 \ §16 \ §17 
+@15 \ @16 \ @17 
 ### El interrogatorio de los padres
-§19 \ §22 §23 
+@19 \ @22 @23 
 ### El segundo interrogatorio del curado
-§24 \ §25 \ §26 \ §27 \ §29 \ §33 \ §34 
+@24 \ @25 \ @26 \ @27 \ @29 \ @33 \ @34 
 ### La fe del sanado en Jesús; Jesús como la luz de los que no ven y como la ceguera de los que ven
-§35 \ §36 \ §37 \ §38 \ §39 \ §40 \ §41 
+@35 \ @36 \ @37 \ @38 \ @39 \ @40 \ @41 
 ## 10
-§-1 
+@-1 
 ### El lenguaje figurado del pastor y ladrón y del buen pastor y asalariado
-§6 
+@6 
 ### ¡Yo soy la puerta para las ovejas!
-§10 
+@10 
 ### Jesús como el buen pastor
-§12 §16 §18 \ §19 §20 §21 
+@12 @16 @18 \ @19 @20 @21 
 ### La última justificación de Jesús a los judíos en la fiesta de la dedicación del templo
-§23 §24 \ §26 §30 \ §32 \ §33 \ §38 \ §39 
+@23 @24 \ @26 @30 \ @32 \ @33 \ @38 \ @39 
 ### Jesús y Lázaro; Jesús como la resurrección y la vida
-§40 §42 
+@40 @42 
 ## 11
-§1 §2 §3 \ §4 §7 \ §8 \ §9 §10 §11 \ §12 \ §15 \ §16 
+@1 @2 @3 \ @4 @7 \ @8 \ @9 @10 @11 \ @12 \ @15 \ @16 
 ### El regreso de Jesús a Betania; su encuentro con Martha y Maria
-§22 \ §23 \ §24 \ §26 \ §27 \ §28 \ §31 \ §32 \ §33 
+@22 \ @23 \ @24 \ @26 \ @27 \ @28 \ @31 \ @32 \ @33 
 ### Jesús en la tumba y su oración; la resurrección de Lázaro de entre los muertos
-§34 \ §35 \ §37 \ §38 §39 \ §40 \ §42 §43 \ §44 
+@34 \ @35 \ @37 \ @38 @39 \ @40 \ @42 @43 \ @44 
 ### Los efectos del milagro; Resolución de muerte del sumo consejo; Jesús escapa a Efraín
-§48 \ §50 §51 §52 §54 \ 
+@48 \ @50 @51 @52 @54 \ 
 ## 12
-§-1 
+@-1 
 ### La unción de Jesús (consagración de la muerte) en Betania
-§1 §3 \ §6 \ §8 \ §11 
+@1 @3 \ @6 \ @8 \ @11 
 ### La entrada de Jesús a Jerusalén el Domingo de Ramos
-§13 \ §19 
+@13 \ @19 
 ### Jesús anuncia su sufrimiento mortal y su subsiguiente glorificación como salvador del mundo
-§21 §22 \ §25 §26 \ §27 §28 \ §29 \ §30 §31 §32 §33 \ §34 \ §35 §36 
+@21 @22 \ @25 @26 \ @27 @28 \ @29 \ @30 @31 @32 @33 \ @34 \ @35 @36 
 ### La revisión del evangelista de la actividad pública de Jesús
-§38 \ §40 \ §41 §42 §43 
+@38 \ @40 \ @41 @42 @43 
 ### El testimonio de Jesús sobre sí mismo y sobre su relación con Dios
-§45 §50 
+@45 @50 
 ## 13
-§-1 
+@-1 
 ### El lavado de pies
-§1 §2 §3 §6 \ §7 \ §8 \ §9 \ §11 
+@1 @2 @3 @6 \ @7 \ @8 \ @9 \ @11 
 ### La interpretación de Jesús de su humilde servicio de amor
-§13 §14 §15 §16 §17 §20 
+@13 @14 @15 @16 @17 @20 
 ### Identificación y remoción del traidor
-§21 \ §24 \ §25 \ §27 \ §30 
+@21 \ @24 \ @25 \ @27 \ @30 
 ### El anuncio de Jesús de su glorificación
-§31 §32 §33 
+@31 @32 @33 
 ### El nuevo mandamiento de amar
-§34 §35 
+@34 @35 
 ### Anuncio de la negación de Pedro
-§36 \ §37 \ 
+@36 \ @37 \ 
 ## 14
-§-1 
+@-1 
 ### Jesús el camino a Dios, su unión con Dios
-§3 §4 \ §5 \ §7 \ §8 \ §9 §10 §11 
+@3 @4 \ @5 \ @7 \ @8 \ @9 @10 @11 
 ### Promesa del Espíritu Santo
-§12 §13 §16 §17 §19 §20 
+@12 @13 @16 @17 @19 @20 
 ### Promesa de la más íntima comunidad de espíritu y amor con Dios y Jesús
-§21 \ §22 \ §23 §24 
+@21 \ @22 \ @23 @24 
 ### Promesa de enseñar del Espíritu Santo
-§30 §31 
+@30 @31 
 ## 15
-§-1 
+@-1 
 ### Parábola de la vid y las ramas
-§3 §7 \ §8 
+@3 @7 \ @8 
 ### El mandamiento del amor: ¡Permanezcan en la comunidad de amor conmigo y entre nosotros!
-§11 \ §12 §13 §14 §16 \ §17 
+@11 \ @12 @13 @14 @16 \ @17 
 ### Profecía del destino de los discípulos, sufriendo el odio del mundo
-§18 §19 §20 §21 §22 §23 §25 \ §26 §27 
+@18 @19 @20 @21 @22 @23 @25 \ @26 @27 
 ## 16
-§2 §3 §4 
+@2 @3 @4 
 ### Promesa del Espíritu Santo y su obra benéfica en el mundo y en los discípulos
-§7 §10 §11 \ §12 §13 §15 
+@7 @10 @11 \ @12 @13 @15 
 ### Promesa de una reunión temprana y amonestación de orar en el nombre de Jesús
-§16 \ §18 \ §20 §21 §22 \ §23 §24 
+@16 \ @18 \ @20 @21 @22 \ @23 @24 
 ### Promesa de completar la comunión con Dios para los discípulos; Conclusión de los discursos de despedida
-§27 §28 \ §30 \ §33 
+@27 @28 \ @30 \ @33 
 ## 17
-§-1 
+@-1 
 ### Oración de despedida de Jesús con los suyos y para los suyos
-§3 §5 
+@3 @5 
 ### La intercesión de Jesús por el mantenimiento de los discípulos en el conocimiento correcto de Dios
-§8 §9 §10 §13 §14 §15 §18 §19 
+@8 @9 @10 @13 @14 @15 @18 @19 
 ### Intercesión por todos los creyentes
-§20 §21 §22 §23 §24 §26 
+@20 @21 @22 @23 @24 @26 
 ## 18
-§-1 
+@-1 
 ### Jesús en Getsemaní: Judas, Malco, arresto de Jesús
-§4 \ §5 \ §6 \ §7 \ §9 \ §11 \ §14 
+@4 \ @5 \ @6 \ @7 \ @9 \ @11 \ @14 
 ### Primera negación de Pedro
-§17 \ §18 
+@17 \ @18 
 ### Jesús ante los sumos sacerdotes Anás y Caifás
-§19 \ §20 §21 \ §22 \ §23 \ §24 
+@19 \ @20 @21 \ @22 \ @23 \ @24 
 ### Segunda y tercera negación de Pedro
-§25 \ §26 \ §27 
+@25 \ @26 \ @27 
 ### El interrogatorio y la confesión de Jesús ante el gobernador romano Pilato; su flagelación, burla y condena
-§29 \ §30 \ §31 \ §32 \ §33 \ §34 \ §35 \ §36 \ §37 \ §38 \ §39 \ 
+@29 \ @30 \ @31 \ @32 \ @33 \ @34 \ @35 \ @36 \ @37 \ @38 \ @39 \ 
 ## 19
-§3 \ §4 \ §5 \ §6 \ §7 \ §10 \ §11 \ §12 \ §14 \ §15 
+@3 \ @4 \ @5 \ @6 \ @7 \ @10 \ @11 \ @12 \ @14 \ @15 
 ### La crucifixión y muerte de Jesús
-§21 \ §22 \ §24 \ §27 \ §28 §29 §30 \ §31 §37 
+@21 \ @22 \ @24 \ @27 \ @28 @29 @30 \ @31 @37 
 ### Descenso de la cruz y sepultura de Jesús
-§38 §39 §42 
+@38 @39 @42 
 ## 20
-§-1 
+@-1 
 ### María Magdalena y el sepulcro vacío; Pedro y Juan en la tumba
-§2 \ §9 §10 
+@2 \ @9 @10 
 ### Aparición de Jesús a María Magdalena
-§13 \ §14 \ §15 \ §16 \ §17 \ §18 
+@13 \ @14 \ @15 \ @16 \ @17 \ @18 
 ### Jesús y los discípulos en la noche del domingo de Pascua
-§19 \ §20 §21 §23 
+@19 \ @20 @21 @23 
 ### Los discípulos con Tomás
-§24 §25 \ §27 \ §28 \ §29 \ §30 §31 
+@24 @25 \ @27 \ @28 \ @29 \ @30 @31 
 ## 21
-§-1 
+@-1 
 ### Jesús se revela a sus discípulos en el lago de Tiberíades
-§3 \ §4 §5 \ §6 \ §7 \ §10 \ §11 \ §12 \ §13 §14 
+@3 \ @4 @5 \ @6 \ @7 \ @10 \ @11 \ @12 \ @13 @14 
 ### Trus reinstalado en su cargo pastoral; Profecía sobre el fin de la vida de Pedro y el discípulo amado
-§15 \ §16 \ §17 \ §18 \ §19 \ §20 §21 \ §23 \ §24 
+@15 \ @16 \ @17 \ @18 \ @19 \ @20 @21 \ @23 \ @24 
 # Hechos
 ## 1
-§-1 
+@-1 
 ### Las ordenanzas finales de Jesús y su promesa a los discípulos; Ascensión
-§1 §2 §4 §5 \ §6 \ §7 §8 \ §9 §10 §11 \ §12 §13 §14 
+@1 @2 @4 @5 \ @6 \ @7 @8 \ @9 @10 @11 \ @12 @13 @14 
 ### Reemplazo de un apóstol (Matías) en lugar del traidor Judas Iscariote
-§15 §16 §20 \ §21 §22 \ §26 
+@15 @16 @20 \ @21 @22 \ @26 
 ## 2
-§-1 
+@-1 
 ### El milagro de Pentecostés: el derramamiento del Espíritu Santo y su tremendo testimonio de las grandes obras de Dios
-§1 §3 §4 \ §5 §13 
+@1 @3 @4 \ @5 @13 
 ### Explicación del milagro de Pentecostés como el cumplimiento de la antigua palabra profética de Joel
-§21 
+@21 
 ### Jesús, crucificado, resucitado y exaltado por Dios, tiene las dos palabras de David
-§28 \ §29 §30 §33 §35 \ §36 
+@28 \ @29 @30 @33 @35 \ @36 
 ### Efecto del habla; primer ministerio pastoral de Pedro; Fundación de la primera iglesia
-§37 \ §38 §39 §40 \ §41 
+@37 \ @38 @39 @40 \ @41 
 ### La vida de los creyentes en la primera iglesia
-§42 §47 
+@42 @47 
 ## 3
-§-1 
+@-1 
 ### Pedro y Juan curan a un cojo de nacimiento
-§11 
+@11 
 ### Discurso en el templo, sermón penitencial de Pedro después de sanar al cojo
-§14 §16 \ §18 \ §19 §24 §26 
+@14 @16 \ @18 \ @19 @24 @26 
 ## 4
-§-1 
+@-1 
 ### Pedro y Juan en la cárcel y ante el concilio
-§1 §2 §4 \ §7 \ §8 §10 §11 §12 \ §16 §18 \ §20 \ §22 
+@1 @2 @4 \ @7 \ @8 @10 @11 @12 \ @16 @18 \ @20 \ @22 
 ### Regreso de los apóstoles; Acción de gracias y súplica de la congregación
-§26 \ §27 §28 §29 §30 \ §31 
+@26 \ @27 @28 @29 @30 \ @31 
 ### La comunidad de bienes
-§33 §34 §35 \ §36 §37 
+@33 @34 @35 \ @36 @37 
 ## 5
-§-1 
+@-1 
 ### Un ejemplo de disciplina eclesiástica seria: Ananías y Safira
-§4 \ §8 \ §9 \ §11 
+@4 \ @8 \ @9 \ @11 
 ### Milagros (especialmente la curación de los enfermos) de los apóstoles; mayor crecimiento de la comunidad
-§12 §15 §16 
+@12 @15 @16 
 ### El arresto; Liberación a través de un ángel
-§19 §20 \ §23 \ §26 
+@19 @20 \ @23 \ @26 
 ### El valiente testimonio del apóstol de la resurrección de Cristo
-§28 \ §29 §30 §31 §32 \ §33 
+@28 \ @29 @30 @31 @32 \ @33 
 ### Defensa y asesoramiento de Gamaliel
-§34 §39 \ §40 §41 \ 
+@34 @39 \ @40 @41 \ 
 ## 6
-§-1 
+@-1 
 ### Separación de la oficina de predicación y ayuda a los pobres; Elección y nombramiento de los siete cuidadores pobres
-§1 §4 \ §5 §6 \ §7 
+@1 @4 \ @5 @6 \ @7 
 ### Acusación y muerte de Esteban, el primer mártir
-§11 §14 §15 
+@11 @14 @15 
 ## 7
-§-1 
+@-1 
 ### Discurso de defensa de Esteban: la época de los patriarcas
-§1 \ §6 §8 \ §16 
+@1 \ @6 @8 \ @16 
 ### El tiempo del mosaico
-§25 \ §29 \ §34 \ §38 §43 
+@25 \ @29 \ @34 \ @38 @43 
 ### El tiempo del tabernáculo y la construcción del templo
-§45 §46 §47 §50 
+@45 @46 @47 @50 
 ### Fin del discurso; Acusación del pueblo
-§52 §53 
+@52 @53 
 ### El martirio de Esteban
-§56 \ §59 §60 
+@56 \ @59 @60 
 ## 8
-§-1 
+@-1 
 ### La primera persecución de la comunidad cristiana en Jerusalén
-§3 
+@3 
 ### Felipe predica y sana
-§7 §8 
+@7 @8 
 ### El mago Simón en Samaria
-§13 
+@13 
 ### Obra de Pedro y Juan en Samaria
-§23 \ §24 \ §25 
+@23 \ @24 \ @25 
 ### Conversión y bautismo del funcionario de la corte etíope por Felipe
-§26 \ §28 \ §29 \ §30 \ §33 \ §34 \ §36 \ §38 \ §39 §40 
+@26 \ @28 \ @29 \ @30 \ @33 \ @34 \ @36 \ @38 \ @39 @40 
 ## 9
-§-1 
+@-1 
 ### La experiencia de Saulo camino a Damasco
-§1 §4 \ §5 \ §6 \ §9 
+@1 @4 \ @5 \ @6 \ @9 
 ### Sanidad y bautismo de Saulo por Ananías
-§10 \ §12 \ §14 \ §15 §16 \ §19 
+@10 \ @12 \ @14 \ @15 @16 \ @19 
 ### La eficacia de Pablo en Damasco y su huida
-§21 \ §22 §25 
+@21 \ @22 @25 
 ### Pablo por primera vez como cristiano en Jerusalén
-§26 §30 
+@26 @30 
 ### Milagros de Pedro en Lydda y Jope
-§31 
+@31 
 ### Sanación del paralizado Eneas en Lydda
-§35 
+@35 
 ### Criar a Tabitha en Joppe
 ## 10
-§-1 
+@-1 
 ### La visión de Cornelio en Cesarea
-§3 \ §4 \ §6 \ §8 
+@3 \ @4 \ @6 \ @8 
 ### Visión de Pedro en Joppe; Llegada de los mensajeros de Cornelio a Pedro
-§13 \ §14 \ §15 §16 \ §20 \ §21 \ §22 
+@13 \ @14 \ @15 @16 \ @20 \ @21 \ @22 
 ### Pedro en la casa de Cornelio
-§23 \ §26 §29 \ §33 \ §35 §36 §37 §38 §40 §41 §42 §43 \ §46 \ 
+@23 \ @26 @29 \ @33 \ @35 @36 @37 @38 @40 @41 @42 @43 \ @46 \ 
 ## 11
-§-1 
+@-1 
 ### Pedro justifica el bautismo pagano en Jerusalén
-§3 \ §5 §16 §17 \ §18 
+@3 \ @5 @16 @17 \ @18 
 ### Fundación de la primera comunidad cristiana gentil en Antioquía en Siria; su ayuda para los cristianos necesitados en Judea
-§21 §22 §24 \ §25 §26 \ §27 §28 §30 
+@21 @22 @24 \ @25 @26 \ @27 @28 @30 
 ## 12
-§-1 
+@-1 
 ### Muerte de Santiago, arresto de Pedro
-§2 §5 
+@2 @5 
 ### Maravillosa salvación de Pedro
-§6 \ §10 \ §12 §14 \ §17 
+@6 \ @10 \ @12 @14 \ @17 
 ### Ira de Herodes; su caída en Cesarea por un juicio divino
-§19 \ §20 §23 \ §24 §25 
+@19 \ @20 @23 \ @24 @25 
 ## 13
-§-1 
+@-1 
 ### Consagración, envío y partida de Pablo y Bernabé; su eficacia en Chipre
-§1 §2 \ §3 §5 §11 \ §12 
+@1 @2 \ @3 @5 @11 \ @12 
 ### Continuación del viaje a Asia Menor y estancia en Antioquía de Pisidia
-§15 \ §18 §19 §20 §21 §23 §24 §25 \ §28 §29 §30 §31 §33 \ §39 §41 
+@15 \ @18 @19 @20 @21 @23 @24 @25 \ @28 @29 @30 @31 @33 \ @39 @41 
 ### Varios éxitos del discurso
-§43 \ §45 \ §47 \ §48 §52 
+@43 \ @45 \ @47 \ @48 @52 
 ## 14
-§-1 
+@-1 
 ### Efectividad de los Apóstoles en Iconio
-§3 §7 
+@3 @7 
 ### Curación de un cojo y lapidación de Pablo en Listra; los dos apóstoles escapan a Derbe
-§9 §13 \ §15 §16 §17 \ §19 
+@9 @13 \ @15 @16 @17 \ @19 
 ### Los apóstoles en Derbe; Fortalecimiento de las comunidades fundadas; Regreso a Antioquía en Siria
-§20 \ §23 \ §27 §28 
+@20 \ @23 \ @27 @28 
 ## 15
-§-1 
+@-1 
 ### La causa de la Convención; Envío de Pablo y Bernabé a Jerusalén
-§2 §4 \ §5 
+@2 @4 \ @5 
 ### Las negociaciones; Discursos de Pedro y Santiago
-§10 §11 \ §13 §17 \ §21 
+@10 @11 \ @13 @17 \ @21 
 ### La resolución y su implementación
-§23 \ §29 
+@23 \ @29 
 ### El resultado: Judas y Silas en Antioquía
-§34 
+@34 
 ### La pelea de Pablo con Bernabé; Salida de Pablo y Silas de Antioquía
-§35 \ §37 §38 §41 
+@35 \ @37 @38 @41 
 ## 16
-§-1 
+@-1 
 ### El viaje por tierra a través de Asia Menor hasta Troas
-§1 §4 §5 \ §10 
+@1 @4 @5 \ @10 
 ### El viaje por mar a Macedonia; Pablo en Filipos
-§12 
+@12 
 ### Conversión de la trader morada Lydia
-§15 
+@15 
 ### La doncella adivina; Pablo y Silas en la corte y en la cárcel
-§17 §18 \ §20 §21 \ §24 
+@17 @18 \ @20 @21 \ @24 
 ### La conversión del carcelero
-§28 \ §30 \ §32 \ §34 
+@28 \ @30 \ @32 \ @34 
 ### La liberación de Pablo y Silas de la cárcel
-§35 \ §36 \ §37 \ 
+@35 \ @36 \ @37 \ 
 ## 17
-§-1 
+@-1 
 ### Pablo en Tesalónica
-§1 §3 \ §4 §7 §9 
+@1 @3 \ @4 @7 @9 
 ### Las experiencias de Pablo en Berea y su viaje a Atenas
-§10 \ §14 §15 
+@10 \ @14 @15 
 ### Pablo en Atenas
-§18 \ §21 
+@18 \ @21 
 ### Discurso de Pablo en el cerro del Areópago
-§24 §25 §26 §27 §29 §30 §31 \ §32 \ 
+@24 @25 @26 @27 @29 @30 @31 \ @32 \ 
 ## 18
-§-1 
+@-1 
 ### Pablo en Corinto
-§3 §4 \ §6 \ §9 §10 \ §11 
+@3 @4 \ @6 \ @9 @10 \ @11 
 ### La acusación contra los judíos fue rechazada por el gobernador Galión
-§13 \ §14 §15 §16 \ §17 
+@13 \ @14 @15 @16 \ @17 
 ### Regreso de Pablo vía Éfeso y Judea a Antioquía en Siria
-§18 §21 \ §22 
+@18 @21 \ @22 
 ### Inicio del viaje; Apolos en Éfeso y Corinto
-§25 §26 \ 
+@25 @26 \ 
 ## 19
-§-1 
+@-1 
 ### Conversión y bautismo de los discípulos de Juan
-§2 \ §3 \ §4 \ §6 §7 
+@2 \ @3 \ @4 \ @6 @7 
 ### La actividad de dos años de enseñanza y milagros de Pablo en Éfeso
-§8 \ §10 \ §12 
+@8 \ @10 \ @12 
 ### Superar la superstición (Los invocadores y los libros de hechizos)
-§13 §14 \ §20 
+@13 @14 \ @20 
 ### Planes de viaje de Pablo
-§21 \ §22 
+@21 \ @22 
 ### El motín de los plateros de Demetrio
-§23 §27 \ §29 §34 \ 
+@23 @27 \ @29 @34 \ 
 ## 20
-§-1 
+@-1 
 ### Viaje a Grecia y regresa a Troas
-§4 §6 
+@4 @6 
 ### Celebración de despedida de Pablo en Troas; Reanimación del fallido Eutico
-§10 \ §12 
+@10 \ @12 
 ### El viaje de Pablo de Troas a Mileto
-§16 
+@16 
 ### Encuentro de Pablo con los ancianos de Éfeso en Mileto; su discurso de despedida y su despedida
-§18 §23 §24 \ §26 §29 §30 §34 §35 \ 
+@18 @23 @24 \ @26 @29 @30 @34 @35 \ 
 ## 21
-§-1 
+@-1 
 ### Continuación del viaje de Mileto a Tiro y Cesarea
-§4 §5 §6 \ §8 \ §11 \ §12 §13 \ §14 
+@4 @5 @6 \ @8 \ @11 \ @12 @13 \ @14 
 ### Pablo en Jerusalén y preso en Cesarea
-§16 \ §18 §21 §25 \ §26 
+@16 \ @18 @21 @25 \ @26 
 ### Pablo arrestado por los judíos en el templo; el levantamiento en Jerusalén
-§28 §29 \ §30 
+@28 @29 \ @30 
 ### Captura de Pablo por el coronel romano Lisias
-§33 §34 \ §37 \ §38 \ §39 \ 
+@33 @34 \ @37 \ @38 \ @39 \ 
 ## 22
-§-1 
+@-1 
 ### El discurso de Pablo al pueblo
-§1 \ §2 \ §3 §4 §5 \ §8 \ §11 \ §16 \ §20 \ §21 
+@1 \ @2 \ @3 @4 @5 \ @8 \ @11 \ @16 \ @20 \ @21 
 ### El efecto del habla; Pablo bajo custodia con el coronel romano
-§22 \ §25 \ §26 \ §27 \ §28 \ §29 
+@22 \ @25 \ @26 \ @27 \ @28 \ @29 
 ### Pablo ante el sumo consejo judío
 ## 23
-§1 \ §2 \ §3 \ §4 \ §5 \ §6 \ §8 §9 \ §10 \ §11 
+@1 \ @2 \ @3 \ @4 \ @5 \ @6 \ @8 @9 \ @10 \ @11 
 ### Intento de asesinato de los judíos contra Pablo
-§15 \ §17 \ §18 \ §19 \ §21 \ §22 
+@15 \ @17 \ @18 \ @19 \ @21 \ @22 
 ### Carta del coronel Lysias al gobernador Félix; Traslado de Pablo de Jerusalén a Cesarea
-§23 \ §25 \ §26 \ §28 §29 §30 \ 
+@23 \ @25 \ @26 \ @28 @29 @30 \ 
 ## 24
-§-1 
+@-1 
 ### Juicio ante el gobernador Félix
-§5 §6 §8 \ §9 \ §16 §17 §18 §21 \ §22 §23 
+@5 @6 @8 \ @9 \ @16 @17 @18 @21 \ @22 @23 
 ### Pablo ante Felix y Drusilla; Felix retrasó el juicio
-§26 \ 
+@26 \ 
 ## 25
-§-1 
+@-1 
 ### Reanudación del proceso; Festo en Jerusalén y Cesarea; Pablo apela al emperador
-§2 §3 §5 \ §8 \ §9 \ §11 \ §12 
+@2 @3 @5 \ @8 \ @9 \ @11 \ @12 
 ### Herodes Agripa II y Berenice como invitados en Festo en Cesarea; Festo informa a Agripa de la causa de Pablo
-§16 §21 \ §22 
+@16 @21 \ @22 
 ### Discurso de manifestación y defensa de Pablo frente a Agripa y Festo
 ## 26
-§-1 
+@-1 
 ### Discurso defensivo de Pablo ante Agripa
-§1 \ §3 \ §5 §6 §7 §8 \ §9 §11 \ §14 \ §15 \ §18 \ §19 §22 §23 
+@1 \ @3 \ @5 @6 @7 @8 \ @9 @11 \ @14 \ @15 \ @18 \ @19 @22 @23 
 ### Impresión del discurso
-§24 \ §26 §27 \ §28 \ §29 \ 
+@24 \ @26 @27 \ @28 \ @29 \ 
 ## 27
-§-1 
+@-1 
 ### El viaje de Pablo de Cesarea a Roma
-§1 §2 §3 §8 \ §12 
+@1 @2 @3 @8 \ @12 
 ### Tormenta marina y naufragio; Rescate en Malta
-§20 
+@20 
 ### Pablo como consejero, consolador y salvador en angustia
-§24 §26 \ §32 \ §34 §35 §38 
+@24 @26 \ @32 \ @34 @35 @38 
 ### Naufragio en la faz de la isla de Malta; Rescata a los náufragos
-§41 \ §44 
+@41 \ @44 
 ## 28
-§-1 
+@-1 
 ### Invernada en la isla de Malta; Continuación del viaje a Roma
-§2 
+@2 
 ### Salvación de Pablo del peligro de la vida
-§5 §6 
+@5 @6 
 ### Pablo sana al padre de Publio y a otras personas enfermas
-§10 
+@10 
 ### Continuación del viaje vía Siracusa y Puteoli hasta Roma
-§15 
+@15 
 ### Pablo en Roma
-§16 
+@16 
 ### Negociaciones de Pablo con los jefes de los judíos romanos
-§17 §19 §20 \ §22 \ §27 \ §28 \ §29 
+@17 @19 @20 \ @22 \ @27 \ @28 \ @29 
 ### El ministerio de dos años de Pablo en cautiverio en Roma
 # Romanos
 ## 1
-§-1 
+@-1 
 ### Nombre del remitente y destinatario de la carta y bendición apostólica a la congregación
-§1 §2 §3 §4 §5 §7 
+@1 @2 @3 @4 @5 @7 
 ### Acción de gracias del Apóstol a Dios por el estado de fe de la comunidad y expresión del deseo de poder predicar el mensaje de salvación también en Roma
-§8 §9 §10 §11 §12 \ §15 
+@8 @9 @10 @11 @12 \ @15 
 ### Indicación del tema: La justificación
-§16 §17 
+@16 @17 
 ### La culpa del pecado de todo paganismo
-§19 §20 §21 \ §22 §23 
+@19 @20 @21 \ @22 @23 
 ### El juicio divino sobre el mundo pagano debido a su ruina
-§24 §25 \ §27 §32 
+@24 @25 \ @27 @32 
 ## 2
-§-1 
+@-1 
 ### El juicio de la ira también está ante los judíos; juzgar a los demás no los libera del juicio de Dios
-§4 §8 §9 \ §11 
+@4 @8 @9 \ @11 
 ### El juicio de Dios es el mismo para los judíos que para los gentiles, determinado únicamente por el cumplimiento de la ley
-§13 §14 §15 §16 
+@13 @14 @15 @16 
 ### Un mejor conocimiento moral y la capacidad de enseñar no hacen que los judíos sean justos ante Dios; su fama por la ley es nula porque la transgrede
-§19 §24 
+@19 @24 
 ### La circuncisión no tiene valor para el judío si infringe la ley; La circuncisión del “corazón” es necesaria
-§25 §26 §29 
+@25 @26 @29 
 ## 3
-§-1 
+@-1 
 ### Sin embargo, la posición privilegiada de los judíos permanece; su infidelidad pone la fidelidad de Dios en una luz más brillante
-§3 §4 \ §8 
+@3 @4 \ @8 
 ### Resultado: la corrupción del pecado se extiende a gentiles y judíos y es confirmada por numerosas escrituras
-§9 §10 §14 §15 §17 §18 \ §19 §20 
+@9 @10 @14 @15 @17 @18 \ @19 @20 
 ### La justicia de Dios se otorga a los que creen en Jesús
-§21 §22 §23 §24 §25 §26 
+@21 @22 @23 @24 @25 @26 
 ### La justicia de Dios por la fe excluye toda fama propia y se aplica tanto a los gentiles como a los judíos
-§28 §29 §30 \ §31 
+@28 @29 @30 \ @31 
 ## 4
-§-1 
+@-1 
 ### Evidencia de la justicia de la fe en Abraham y mediante un testimonio de David
-§3 §4 §5 §8 
+@3 @4 @5 @8 
 ### Abraham como el padre de todos los creyentes, incluidos los gentiles
-§12 
+@12 
 ### La promesa de salvación no le llegó a Abraham por la ley, sino por la fe
-§13 §15 \ §17 
+@13 @15 \ @17 
 ### La fe ejemplar de Abraham
-§19 §20 §22 
+@19 @20 @22 
 ### Tal fe también nos trae justicia y felicidad
-§25 
+@25 
 ## 5
-§-1 
+@-1 
 ### La salvación futura está garantizada para los justificados a pesar de todas las tribulaciones debido al amor de Dios demostrado por la muerte sacrificial de Cristo
-§1 §2 §3 §4 §5 \ §8 \ §9 §10 \ §11 
+@1 @2 @3 @4 @5 \ @8 \ @9 @10 \ @11 
 ### Cristo como lo opuesto a Adán; la gracia que trae vida inmortal es más poderosa que el pecado mortal
-§13 §14 \ §17 \ §19 §20 §21 
+@13 @14 \ @17 \ @19 @20 @21 
 ## 6
-§-1 
+@-1 
 ### Fuimos crucificados con ellos, morimos con ellos, sepultados con ellos y resucitamos con Cristo Jesús
-§1 §3 §4 \ §6 §7 
+@1 @3 @4 \ @6 @7 
 ### Viviendo con Cristo resucitado
-§11 
+@11 
 ### La amonestación del apóstol a los fieles de permanecer en este conocimiento de la salvación y no seguir sirviendo al pecado
-§12 §13 §14 
+@12 @13 @14 
 ### El servicio del pecado ha dado paso a la justicia
-§15 §16 §18 \ §23 
+@15 @16 @18 \ @23 
 ## 7
-§-1 
+@-1 
 ### Cuando hemos muerto y resucitado con Cristo, estamos legítimamente libres de la ley y estamos obligados a servir al Cristo resucitado creyéndonos muertos al pecado
-§5 §6 
+@5 @6 
 ### El efecto calamitoso de la ley, que familiariza al hombre con el pecado y le da vida al pecado en la carne
-§8 §11 §12 \ §13 
+@8 @11 @12 \ @13 
 ### La impotencia de la ley y de la buena voluntad ante el pecado como poder en la carne
-§14 §18 §25 
+@14 @18 @25 
 ## 8
-§-1 
+@-1 
 ### El cristiano está bajo la ley del Espíritu
-§1 §3 §4 
+@1 @3 @4 
 ### El contraste entre los que sirven a Dios en el Espíritu y los que viven por los instintos de la carne
-§6 §7 §8 
+@6 @7 @8 
 ### El cristiano como morada del Espíritu
-§10 §11 
+@10 @11 
 ### La posesión del espíritu garantiza la redención física de los hijos de Dios si soportan los sufrimientos de este tiempo
-§13 §15 \ §16 §17 \ §18 §19 §20 §21 §23 §24 §25 \ §27 
+@13 @15 \ @16 @17 \ @18 @19 @20 @21 @23 @24 @25 \ @27 
 ### El comienzo de nuestra comunión con Dios, obra de Dios, garantiza su finalización final
-§29 §30 
+@29 @30 
 ### Por tanto, nuestro estado de salvación está divinamente asegurado contra todos los poderes y nuestra certeza de fe y seguridad de la salvación está justificada
-§31 §32 §34 \ §37 §38 §39 
+@31 @32 @34 \ @37 @38 @39 
 ## 9
-§-1 
+@-1 
 ### Introducción: El profundo dolor del apóstol por la exclusión temporal de su pueblo de la salvación
-§3 §4 §5 
+@3 @4 @5 
 ### Las promesas de Dios a Israel son inquebrantables, pero no se aplican a todo el cuerpo, sino solo a los descendientes espirituales de Abraham
-§6 §8 §13 
+@6 @8 @13 
 ### La elección para la salvación es obra gratuita de la gracia de Dios; la negación de la salvación y la gracia no permite al hombre pelear con Dios
-§18 \ §22 §23 §26 \ §27 §28 \ §29 
+@18 \ @22 @23 @26 \ @27 @28 \ @29 
 ### La culpa de los judíos consistió en el rechazo de la justicia de la fe y en la persecución excesiva de la justicia de las obras
-§30 \ §31 §33 
+@30 \ @31 @33 
 ## 10
-§3 
+@3 
 ### La falta de Israel es aún más grave ya que Dios no ha descuidado nada para llevar a Israel a la justicia de la fe desde la época de Moisés
-§4 \ §11 \ §12 §15 
+@4 \ @11 \ @12 @15 
 ### La inexcusabilidad de la parte incrédula de Israel, que ha rechazado la salvación que también le fue ofrecida
-§18 \ §19 \ §20 \ 
+@18 \ @19 \ @20 \ 
 ## 11
-§-1 
+@-1 
 ### La mayor parte de los judíos es terca y rechazada por Dios, pero incluso ahora una pequeña parte está destinada a la salvación a través de la gracia de Dios
-§1 §6 \ §7 §8 \ §10 
+@1 @6 \ @7 @8 \ @10 
 ### El propósito divino de la salvación en el llamado de los gentiles era vencer la incredulidad de los judíos estimulándolos a emularlos; su rechazo no es definitivo
-§11 §12 \ §15 \ §17 §18 §20 §24 
+@11 @12 \ @15 \ @17 @18 @20 @24 
 ### Todo el resto del pueblo de Israel eventualmente llegará a la fe después de que las elecciones gentiles se conviertan, y todo será usado para la justificación y glorificación de Dios
-§25 §26 §27 \ §29 §32 \ §33 §34 §35 \ 
+@25 @26 @27 \ @29 @32 \ @33 @34 @35 \ 
 ## 12
-§-1 
+@-1 
 ### Advertencia general como entrada: santificación de la vida personal a través de la entrega completa a Dios
-§1 §2 
+@1 @2 
 ### Exhortación a la humildad del individuo y al uso fiel de los dones recibidos al servicio de la comunidad
-§3 §4 §5 §6 §7 §8 
+@3 @4 @5 @6 @7 @8 
 ### Exhortación a amar fraternalmente y a ejercitar sentimientos cristianos contra amigos y enemigos
-§9 §10 §11 §12 §13 \ §14 §15 §16 §17 §18 §19 §20 \ 
+@9 @10 @11 @12 @13 \ @14 @15 @16 @17 @18 @19 @20 \ 
 ## 13
-§-1 
+@-1 
 ### Exhortación a obedecer a las autoridades designadas por Dios
-§1 §4 §6 
+@1 @4 @6 
 ### Exhortaciones al cumplimiento integral de los deberes, especialmente a la caridad como cumplimiento de la ley
-§7 \ §8 §10 
+@7 \ @8 @10 
 ### El fin cercano del mundo advierte caminar en luz y santificar la vida personal
-§11 §12 §13 §14 
+@11 @12 @13 @14 
 ## 14
-§-1 
+@-1 
 ### Juicio sobre el tema que conmueve a la comunidad y advierte contra la condena sin amor del modo de vida externo del prójimo
-§1 §2 §3 §4 \ §5 §9 \ §10 §11 \ §12 
+@1 @2 @3 @4 \ @5 @9 \ @10 @11 \ @12 
 ### Exhortación a los que tienen una fe fuerte a no ofender a los que tienen una fe débil y a esforzarse por tener una conciencia segura en todo lo que hacen
-§13 §14 §15 §17 §21 \ §22 §23 
+@13 @14 @15 @17 @21 \ @22 @23 
 ## 15
-§-1 
+@-1 
 ### Exhortación a ser pacientes con los débiles y a la unidad de los cristianos basada en el ejemplo de Cristo
-§2 §5 §6 
+@2 @5 @6 
 ### Un recordatorio para que ambas partes de la comunidad estén unidas y tengan una fe gozosa
-§9 \ §10 \ §11 \ §12 \ §13 
+@9 \ @10 \ @11 \ @12 \ @13 
 ### Revisión justificativa del apóstol de la carta y referencia a su oficio apostólico para los gentiles
-§16 §19 §20 §21 
+@16 @19 @20 @21 
 ### Anuncio de los próximos planes de viaje del apóstol
-§22 §23 §25 §26 §27 §29 
+@22 @23 @25 @26 @27 @29 
 ### La amonestación del apóstol a la iglesia de que interceda por él
-§31 §33 
+@31 @33 
 ## 16
-§-1 
+@-1 
 ### Recomendación de Phöbe, portador de la carta; Saludos del Apóstol a los hermanos en Roma
-§2 \ §13 §16 
+@2 \ @13 @16 
 ### Advertencia a los engañadores que causan divisiones y errores en la iglesia
-§17 §18 §19 §20 
+@17 @18 @19 @20 
 ### Saludos de los amigos de Pablo a Roma y finalmente alabanza a Dios
-§23 
+@23 
 # 1 Corintios
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§3 
+@3 
 ### Acción de gracias del apóstol por la rica gracia de Dios que cayó sobre los corintios; esperanza segura para el futuro
-§7 §8 §9 
+@7 @8 @9 
 ### Contiendas en la iglesia
-§10 §12 §16 §17 
+@10 @12 @16 @17 
 ### La palabra de la cruz es un poder divino, opuesto a la sabiduría mundial y respetado por el mundo como una locura
-§19 \ §20 §23 §24 §25 
+@19 \ @20 @23 @24 @25 
 ### Prueba de la existencia real de la comunidad cristiana llamada por Dios en Corinto
-§26 §30 §31 
+@26 @30 @31 
 ## 2
-§-1 
+@-1 
 ### La manera de predicar de Pablo cuando se fundó la iglesia era poco exigente y carecía de sabiduría mundana
-§2 §3 §4 §5 
+@2 @3 @4 @5 
 ### La misteriosa sabiduría de Dios para los perfectos
-§7 §9 
+@7 @9 
 ### La exploración y absorción de esta sabiduría solo es posible para personas espirituales
-§12 §16 
+@12 @16 
 ## 3
-§-1 
+@-1 
 ### Hasta ahora Pablo no ha podido proclamar plena sabiduría a los corintios debido a su inmadurez, que ha sido demostrada por la picardía del partido
-§1 §2 §3 §4 
+@1 @2 @3 @4 
 ### Son siervos y colaboradores de Dios
-§8 §9 
+@8 @9 
 ### ¡Cada maestro procura que su obra consista en el fuego del juicio divino de un día!
-§11 §15 \ §16 §17 \ §23 
+@11 @15 \ @16 @17 \ @23 
 ## 4
-§-1 
+@-1 
 ### Pablo sabe que es responsable solo ante el Señor
-§1 §2 §5 
+@1 @2 @5 
 ### Pablo reprocha a los corintios su arrogancia hacia el sufrimiento de los apóstoles
-§6 §7 \ §9 §10 §11 §12 §13 
+@6 @7 \ @9 @10 @11 @12 @13 
 ### La referencia de Pablo a su relación personal con la iglesia
-§15 §16 §17 §21 
+@15 @16 @17 @21 
 ## 5
-§-1 
+@-1 
 ### Grave reprimenda por la tolerancia mostrada por la comunidad a un fornicario
-§3 §4 §5 
+@3 @4 @5 
 ### Amonestación general a la pureza moral con referencia a la muerte en sacrificio de Jesús, “el cordero pascual”
-§6 §7 §8 
+@6 @7 @8 
 ### Corrección de un malentendido corintio sobre la advertencia contra los fornicadores
-§13 
+@13 
 ## 6
-§-1 
+@-1 
 ### Denuncia de litigio en tribunales paganos y litigio en general
-§7 §8 \ §11 
+@7 @8 \ @11 
 ### Los pecados de fornicación no tienen nada que ver con la libertad cristiana; Advertencia de fornicación
-§12 §13 §14 §17 §20 
+@12 @13 @14 @17 @20 
 ## 7
-§-1 
+@-1 
 ### El valor y las necesidades del matrimonio y la vida conyugal en general
-§5 \ §7 
+@5 \ @7 
 ### Sobre el comportamiento de las personas solteras y sobre el divorcio en los matrimonios cristianos
-§9 §10 §11 
+@9 @10 @11 
 ### Comportamiento en el matrimonio mixto
-§14 §15 §16 
+@14 @15 @16 
 ### Regla general sobre la posición del cristiano a las condiciones externas existentes: ¡Todo creyente permanece en la posición en la que fue llamado!
-§17 \ §22 §23 §24 
+@17 \ @22 @23 @24 
 ### Sobre el celibato de ambos sexos; Consejos para casarse con mujeres solteras y volver a casarse con viudas
-§26 §31 \ §35 \ §38 
+@26 @31 \ @35 \ @38 
 ### Sobre el nuevo matrimonio de las viudas
-§39 §40 
+@39 @40 
 ## 8
-§-1 
+@-1 
 ### El conocimiento en sí mismo tiene menos valor que el amor
-§2 §3 
+@2 @3 
 ### No todo el mundo tiene un conocimiento perfecto
-§4 §5 §6 \ §7 
+@4 @5 @6 \ @7 
 ### Para el uso de la libertad cristiana, la consideración amorosa por los débiles es decisiva
-§8 §9 §11 §13 
+@8 @9 @11 @13 
 ## 9
-§-1 
+@-1 
 ### Explicación y justificación de los derechos debidos a Pablo como apóstol
-§1 §2 \ §4 §5 §6 §7 \ §11 §12 
+@1 @2 \ @4 @5 @6 @7 \ @11 @12 
 ### Explique las razones por las que Pablo renuncia a sus derechos
-§13 §14 \ §15 §16 §17 §18 
+@13 @14 \ @15 @16 @17 @18 
 ### Pablo, aunque exteriormente es completamente libre, es sin embargo un servidor de todos los hombres
-§20 §21 §22 §23 
+@20 @21 @22 @23 
 ### El apóstol como competidor por el premio celestial
-§25 §27 
+@25 @27 
 ## 10
-§-1 
+@-1 
 ### Das durch göttliche Gnadenerweise in der Wüste gesegnete und zur Rettung ins heilige Land berufene Israel
-§1 §2 §4 
+@1 @2 @4 
 ### A pesar de esto, debido a que voluntariamente sirvieron su lujuria por la carne, fueron rechazados como un ejemplo de advertencia para nosotros
-§5 \ §6 §9 §10 §11 §12 \ §13 
+@5 \ @6 @9 @10 @11 @12 \ @13 
 ### La participación en idolatría y comidas de sacrificio es incompatible con la celebración de la Cena del Señor cristiano y, por lo tanto, debe evitarse
-§14 §17 §18 \ §19 §22 
+@14 @17 @18 \ @19 @22 
 ### ¿Cuándo es seguro el consumo de carne sacrificada a los ídolos? Restricción de la libertad cristiana por consideración al amor fraternal
-§23 §24 §25 §30 
+@23 @24 @25 @30 
 ### Amonestación final para el correcto caminar cristiano en todo momento
-§31 §32 §33 
+@31 @32 @33 
 ## 11
-§1 
+@1 
 ### Sobre el comportamiento decente de los hombres y el velo de las mujeres durante la oración y el culto
-§3 §9 §10 
+@3 @9 @10 
 ### Rechazo del desdén por la mujer y todas las discusiones sobre el tema
-§16 
+@16 
 ### Seria reprimenda por los agravios en las comidas comunes e instrucciones para la celebración digna de la Cena del Señor
-§19 §22 
+@19 @22 
 ### La celebración correcta de la Cena del Señor y las malas consecuencias de un disfrute indigno; recordatorio final
-§23 §26 \ §27 §28 §29 §32 §34 
+@23 @26 \ @27 @28 @29 @32 @34 
 ## 12
-§-1 
+@-1 
 ### La marca de los dones espirituales divinamente forjados
-§3 
+@3 
 ### Diversidad de dones espirituales, pero solo un espíritu activo y un propósito
-§4 §5 §10 §11 
+@4 @5 @10 @11 
 ### Ilustrado por la parábola del cuerpo humano y sus muchos miembros
-§13 \ §26 
+@13 \ @26 
 ### Aplicación de la imagen a la estructura divina de la iglesia
-§28 §30 
+@28 @30 
 ### Sin amor, incluso los dones espirituales más elevados no valen nada
 ## 13
-§2 §3 
+@2 @3 
 ### La esencia del amor
-§5 §6 §7 
+@5 @6 @7 
 ### La perfección del amor eterno contra el fragmento de otras gracias
-§13 
+@13 
 ## 14
-§1 
+@1 
 ### La diferencia entre el habla profética y el hablar en lenguas
-§5 \ §6 
+@5 \ @6 
 ### La inutilidad e inadecuación de todo sonido y habla incomprensibles
-§12 \ §13 §14 \ §19 
+@12 \ @13 @14 \ @19 
 ### El Antiguo Testamento y el mundo exterior no cristiano también condenan este incomprensible discurso
-§20 §25 
+@20 @25 
 ### Orden de los altavoces
-§26 §33 
+@26 @33 
 ### Contra los discursos inapropiados de mujeres en reuniones
-§34 §36 \ §37 §38 \ 
+@34 @36 \ @37 @38 \ 
 ## 15
-§-1 
+@-1 
 ### De los hechos y testigos por los que se certifica la resurrección de Cristo
-§2 \ §3 §4 §5 §8 §9 §10 §11 
+@2 \ @3 @4 @5 @8 @9 @10 @11 
 ### La fe y la firme esperanza de todos los cristianos se basan en la resurrección de Cristo de entre los muertos
-§19 
+@19 
 ### Exposición de las consecuencias de la resurrección de Cristo; los procesos en los que la resurrección tiene lugar hasta su finalización
-§20 §21 §23 §24 §25 §26 §28 
+@20 @21 @23 @24 @25 @26 @28 
 ### Mucho de lo que los cristianos hacen y sufren solo es justificado y comprensible cuando creen en la resurrección
-§30 §31 §34 
+@30 @31 @34 
 ### La imagen de la semilla
-§38 
+@38 
 ### Toda la creación muestra la mayor diversidad de materia, forma y naturaleza de las cosas
-§41 \ §44 
+@41 \ @44 
 ### La realidad de un cuerpo celestial, incorruptible
-§45 §49 
+@45 @49 
 ### La transformación final en la consumación de los creyentes
-§50 \ §51 §52 §53 §55 \ §57 §58 
+@50 \ @51 @52 @53 @55 \ @57 @58 
 ## 16
-§-1 
+@-1 
 ### Invitación a participar en la recaudación de fondos para Jerusalén
-§1 §2 §4 
+@1 @2 @4 
 ### Los planes de viaje de Pablo y las noticias de la venida de Timoteo y Apolos
-§5 §8 §9 \ §10 §11 \ §12 
+@5 @8 @9 \ @10 @11 \ @12 
 ### Advertencias finales, recomendaciones personales, saludos y bendiciones
-§13 §14 \ §16 §18 \ §19 §20 \ 
+@13 @14 \ @16 @18 \ @19 @20 \ 
 # 2 Corintios
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### La oración de acción de gracias del apóstol por el consuelo que tanto él como los lectores reciben de Dios en el sufrimiento
-§3 §6 §7 
+@3 @6 @7 
 ### Mensaje sobre la salvación de Pablo y sus colaboradores del peligro de muerte
-§11 
+@11 
 ### El modo de vida honesto del apóstol y su veracidad en la correspondencia
-§12 §14 
+@12 @14 
 ### El relato del apóstol del cambio en sus planes de viaje; Indicación de su fiabilidad como apóstol de Cristo y de Dios fiel
-§19 §20 \ §21 §22 
+@19 @20 \ @21 @22 
 ### Declaración de la verdadera razón por la que Pablo no vino a Corinto
-§24 
+@24 
 ## 2
-§1 §4 
+@1 @4 
 ### Eliminación de la brecha entre Pablo y los Corintios; Recomendación de indulgencia contra el malhechor arrepentido
-§10 §11 
+@10 @11 
 ### Las experiencias del apóstol en Troas y Macedonia; Su alabanza a Dios por el efecto victorioso de la proclamación de la salvación
-§12 §13 \ §15 §16 §17 
+@12 @13 \ @15 @16 @17 
 ## 3
-§-1 
+@-1 
 ### La iglesia de Corinto como carta de recomendación para Pablo y Dios como base segura de confianza para el apóstol
-§1 §2 §3 \ §5 
+@1 @2 @3 \ @5 
 ### La gloria del nuevo pacto y el ministerio apostólico sobre el antiguo pacto y el ministerio de Moisés
-§6 \ §7 §8 §9 §11 
+@6 \ @7 @8 @9 @11 
 ### La diferencia entre los dos tipos de servicios es evidente tanto en sus servidores como en sus efectos
-§14 §18 
+@14 @18 
 ## 4
-§-1 
+@-1 
 ### Pablo y sus seguidores aparecen como verdaderos mensajeros de Cristo con valentía, veracidad e iluminación divina
-§1 §2 §3 §4 §5 §6 
+@1 @2 @3 @4 @5 @6 
 ### El sufrimiento externo de los apóstoles además de su confianza en la fe
-§7 §10 §11 §12 \ §14 §15 
+@7 @10 @11 @12 \ @14 @15 
 ### La renovación del hombre espiritual tiene lugar en la muerte del hombre exterior
-§16 §17 §18 
+@16 @17 @18 
 ## 5
-§-1 
+@-1 
 ### La esperanza y el anhelo de Pablo por la corporalidad celestial y el hogar celestial
-§1 §4 §5 \ §6 §7 §8 §9 §10 
+@1 @4 @5 \ @6 @7 @8 @9 @10 
 ### Comentarios personales, especialmente sobre su relación con la comunidad
-§13 
+@13 
 ### Referencia al contenido peculiar de su sermón y la gloria de su servicio de reconciliación
-§15 \ §17 §18 §19 \ §20 §21 
+@15 \ @17 @18 @19 \ @20 @21 
 ## 6
-§-1 
+@-1 
 ### Pablo, como apóstol, es ejemplar por su abnegación y su realización profesional desinteresada en el servicio de Dios
-§1 §2 \ §6 §7 §9 §10 
+@1 @2 \ @6 @7 @9 @10 
 ### Petición solemne y amorosa a los corintios para la restauración completa de la comunión
-§13 
+@13 
 ### Advertencia contra los seres paganos y demanda de perfecta santificación
-§14 §16 §17 §18 
+@14 @16 @17 @18 
 ## 7
-§1 
+@1 
 ### La petición del apóstol de amor, afirmación de amor y testimonio de confianza
-§2 §3 §4 
+@2 @3 @4 
 ### Alegría del apóstol por la llegada y el mensaje de Tito
-§5 §6 §7 
+@5 @6 @7 
 ### El gozo del apóstol por el efecto saludable de la carta penal, por el entendimiento completamente restaurado y por el informe favorable de Tito
-§8 §13 \ 
+@8 @13 \ 
 ## 8
-§-1 
+@-1 
 ### El gratificante (ejemplar) éxito de la colección con las comunidades macedonias
-§1 §5 
+@1 @5 
 ### Invitación a los corintios a participar activamente en la colecta
-§7 \ §12 §15 
+@7 \ @12 @15 
 ### Recomendación de Tito y los otros dos diputados de Pablo
-§18 §19 §23 §24 
+@18 @19 @23 @24 
 ## 9
-§-1 
+@-1 
 ### Lo que Pablo ha elogiado hasta ahora de los corintios y ahora espera y qué razones lo han determinado a enviar a los hermanos por delante
-§2 §5 
+@2 @5 
 ### Otra invitación a participar activamente en la colección en referencia a los efectos benéficos de la obra de amor
-§7 §9 \ 
+@7 @9 \ 
 ## 10
-§-1 
+@-1 
 ### En contraste con la acusación de debilidad de carácter y cambio carnal, Pablo señala el poder probado y comprobado de su trabajo a sus oponentes
-§2 §6 
+@2 @6 
 ### El derecho del apóstol a jactarse en su oficio y defenderse de los cargos de falta de valor personal
-§8 §11 
+@8 @11 
 ### La diferencia entre la auto-fama practicada correctamente por Pablo y la presunción de sus oponentes
-§12 §13 §17 §18 
+@12 @13 @17 @18 
 ## 11
-§-1 
+@-1 
 ### Por qué y con qué derecho se alaba a sí mismo el apóstol
-§2 §3 §4 §5 §6 
+@2 @3 @4 @5 @6 
 ### La gloria de su eficacia desinteresada (gratuita) en contraste con los oponentes que trabajan al servicio de Satanás
-§7 §8 §11 \ §15 
+@7 @8 @11 \ @15 
 ### Otra petición del apóstol por su tonta fama propia
-§16 §20 
+@16 @20 
 ### El apóstol se jacta de su ascendencia, de su oficio, de la plenitud de sus sufrimientos en el servicio apostólico
-§22 §23 §24 §25 §27 \ §28 §29 \ §30 §33 
+@22 @23 @24 @25 @27 \ @28 @29 \ @30 @33 
 ## 12
-§-1 
+@-1 
 ### El apóstol se jacta de las más altas gracias (a través de revelaciones celestiales) y la más profunda humillación (a través del sufrimiento físico)
-§5 §6 §9 \ §10 
+@5 @6 @9 \ @10 
 ### Referencia a la injusticia de los corintios
-§11 §12 §13 
+@11 @12 @13 
 ### Anuncio de la inminente llegada del apóstol; Rechazo de un libelo
-§15 §18 
+@15 @18 
 ### Rectificación de una opinión de los corintios; Miedo del apóstol por el estatus moral de la comunidad
-§20 §21 
+@20 @21 
 ## 13
-§-1 
+@-1 
 ### Anuncio de juicio imparcial y juicio despiadado
-§1 §4 \ §6 \ §10 
+@1 @4 \ @6 \ @10 
 ### Advertencias finales, saludos y bendiciones
-§11 §12 \ 
+@11 @12 \ 
 # Gálatas
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§4 §5 
+@4 @5 
 ### La sorpresa del apóstol ante la rápida apostasía de los gálatas del único mensaje verdadero de salvación
-§9 \ §10 
+@9 \ @10 
 ### Estableciendo la afirmación de que el mensaje de salvación de Pablo vino de Dios
-§12 
+@12 
 ### La conducta de Pablo antes de su conversión e inmediatamente después
-§15 §16 §17 
+@15 @16 @17 
 ### La actividad independiente de Pablo durante el tiempo anterior a la reunión de los apóstoles
-§18 §19 §21 §24 
+@18 @19 @21 @24 
 ## 2
-§-1 
+@-1 
 ### Aparición de Pablo en la consulta del apóstol en Jerusalén
-§3 §5 
+@3 @5 
 ### El resultado favorable para Pablo de las negociaciones con los apóstoles mayores, respetados
-§6 §7 §9 §10 
+@6 @7 @9 @10 
 ### Aparición justificada de Pablo contra Pedro en Antioquía
-§12 §13 
+@12 @13 
 ### El discurso de reprensión de Pablo contra Pedro
-§14 \ §19 §20 §21 
+@14 \ @19 @20 @21 
 ## 3
-§-1 
+@-1 
 ### Referencia a la experiencia de los mismos Gálatas de que la recepción del Espíritu es el resultado de la fe
-§5 
+@5 
 ### La justicia de la fe de Abraham nuestro ejemplo; el servicio de la ley trae la maldición, Cristo libera de la maldición de la ley
-§6 §9 \ §12 \ §13 §14 
+@6 @9 \ @12 \ @13 @14 
 ### La promesa hecha a Abraham no es cancelada por la ley dada más tarde
-§18 
+@18 
 ### Naturaleza y propósito de la ley que es ineficaz para la perfección de la salvación, ordenada por ángeles y un mediador y solo destinada al ínterin
-§19 §20 
+@19 @20 
 ### Rechazo de una posible mala interpretación
-§22 
+@22 
 ### El propósito educativo externo de la ley
-§23 §24 
+@23 @24 
 ### Todos los cristianos creyentes son ahora, después del fin del imperio de la ley, de Dios y de los hijos y herederos de Abraham
-§25 §26 §27 §28 §29 
+@25 @26 @27 @28 @29 
 ## 4
-§-1 
+@-1 
 ### Para los creyentes, la posición de hijos, filiación, en Cristo ha tomado el lugar de la esclavitud a la ley
-§3 §4 §6 §7 
+@3 @4 @6 @7 
 ### La queja del apóstol acerca de la recaída incomprensible de los gálatas creyentes en la esclavitud de la ley y el formalismo reprensible; llamado personal a la iglesia para que se arrepienta
-§10 §11 \ §13 §14 \ §18 \ §19 §20 
+@10 @11 \ @13 @14 \ @18 \ @19 @20 
 ### Interpretación simbólica del relato del Antiguo Testamento de Ismael e Isaac, los dos hijos de Abraham, como evidencia de la libertad del cristiano de los estatutos de la ley
-§23 §24 §26 §27 \ §30 
+@23 @24 @26 @27 \ @30 
 ### Resumen de lo dicho hasta ahora y una última advertencia para aferrarse a la libertad cristiana, que es incompatible con la ley y la circuncisión
 ## 5
-§1 \ §6 
+@1 \ @6 
 ### Queja melancólica sobre seductores y personas seducidas en la iglesia
-§9 §10 \ §11 §12 
+@9 @10 \ @11 @12 
 ### Advertencia contra el abuso de la libertad ganada por Cristo; Actividad de libertad a través de la caridad
-§15 
+@15 
 ### ¡Camina en el Espíritu! Las obras de la carne y el fruto del espíritu
-§19 §21 \ §22 §23 §24 
+@19 @21 \ @22 @23 @24 
 ### Exhortaciones morales individuales para preservar la nueva vida en el espíritu; Referencia al juicio de Dios
-§25 §26 
+@25 @26 
 ## 6
-§1 §2 §5 \ §6 \ §8 §9 §10 
+@1 @2 @5 \ @6 \ @8 @9 @10 
 ### Última iluminación del enemigo
-§13 
+@13 
 ### Confesión final personal; Bendición
-§14 §15 §16 \ §17 \ 
+@14 @15 @16 \ @17 \ 
 # Efesios
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### Alabado sea la gracia de Dios por la salvación dada en Cristo
-§4 §7 §10 §11 §13 §14 
+@4 @7 @10 @11 @13 @14 
 ### Intercesión por la congregación para el pleno conocimiento de la grandeza de la salvación dada por la gracia de Dios en Cristo
-§16 §21 §22 §23 
+@16 @21 @22 @23 
 ## 2
-§-1 
+@-1 
 ### Anteriormente muerto en pecado, el creyente ahora se reconoce a sí mismo como obra de gracia de Dios y una nueva formación en Cristo Jesús resucitado
-§1 §2 §3 §6 §7 §8 §9 §10 
+@1 @2 @3 @6 @7 @8 @9 @10 
 ### Como nueva formación de Dios en Cristo Jesús, los judíos creyentes son herederos de la promesa y de la casa de Dios, pero con ellos también los gentiles creyentes
-§11 §12 §15 §18 §19 §20 §22 
+@11 @12 @15 @18 @19 @20 @22 
 ## 3
-§-1 
+@-1 
 ### El glorioso oficio del apóstol de proclamar el mensaje de salvación a los gentiles como el secreto revelado a él de su derecho a participar de las promesas de Israel
-§2 §3 §5 §6 §8 §9 §10 §13 
+@2 @3 @5 @6 @8 @9 @10 @13 
 ### La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
-§17 §19 
+@17 @19 
 ### Dios sea la gloria
 ## 4
-§-1 
+@-1 
 ### Exhortación a la unidad y al crecimiento de la fe en la comunidad con toda la diversidad de dones
-§1 §2 §3 §4 §5 §6 §7 §8 §9 §10 \ §12 §15 §16 
+@1 @2 @3 @4 @5 @6 @7 @8 @9 @10 \ @12 @15 @16 
 ### De gente nueva y vieja en general; Diferencia entre el estilo de vida pagano y cristiano
-§17 §18 §22 §23 §24 
+@17 @18 @22 @23 @24 
 ### Advertencias sobre el comportamiento en el tráfico entre ellos
-§25 §26 §29 §30 §31 §32 
+@25 @26 @29 @30 @31 @32 
 ## 5
-§1 §2 
+@1 @2 
 ### Advertencia de fornicación, codicia y lenguaje inapropiado
-§3 §4 \ §5 
+@3 @4 \ @5 
 ### Camina con cuidado como hijos de luz
-§6 §8 §9 §10 §13 §14 \ §15 §19 §20 
+@6 @8 @9 @10 @13 @14 \ @15 @19 @20 
 ### Obligaciones de los cónyuges
-§21 \ §22 §23 §24 \ §27 §33 
+@21 \ @22 @23 @24 \ @27 @33 
 ## 6
-§-1 
+@-1 
 ### Deberes de los niños y los padres
-§1 §2 §3 \ §4 
+@1 @2 @3 \ @4 
 ### Deberes de los sirvientes, esclavos y los amos
-§5 §8 \ §9 
+@5 @8 \ @9 
 ### Advertencia final a la lucha cristiana de derecha; la armadura espiritual del cristiano; petición personal del apóstol
-§10 §14 §17 §20 
+@10 @14 @17 @20 
 ### Anuncio de la misión de Tíquico; Bendición
-§21 §22 \ 
+@21 @22 \ 
 # Filipenses
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§1 §2 
+@1 @2 
 ### La acción de gracias, la confianza y la intercesión del apóstol por la iglesia
-§6 §8 \ §10 §11 
+@6 @8 \ @10 @11 
 ### Los dolores del apóstol y las alegrías abrumadoras en Roma
-§12 §13 §17 
+@12 @13 @17 
 ### Tanto el testimonio de la muerte de Pablo como su vida continua servirán para glorificar a Cristo
-§18 §19 §20 §21 §23 §26 
+@18 @19 @20 @21 @23 @26 
 ### Recordatorio para caminar con dignidad y luchar unánimemente por el mensaje de salvación bajo toda hostilidad externa
-§28 §30 
+@28 @30 
 ## 2
-§-1 
+@-1 
 ### Recordatorio de unidad dentro de la comunidad, de abnegación y voluntad de sufrir según el ejemplo de Cristo
-§3 §4 \ §6 §7 §8 §9 §10 §11 
+@3 @4 \ @6 @7 @8 @9 @10 @11 
 ### Amonestación a la obediencia voluntaria y a ser completamente serio en el cristianismo
-§12 §13 \ §15 §16 §17 §18 
+@12 @13 \ @15 @16 @17 @18 
 ### Información sobre la misión prevista de Timoteo y el regreso de Epafrodito
-§20 §21 §24 \ §25 §29 §30 
+@20 @21 @24 \ @25 @29 @30 
 ## 3
-§-1 
+@-1 
 ### Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
-§1 \ §2 §3 §4 §5 §6 \ §7 §9 §10 §11 
+@1 \ @2 @3 @4 @5 @6 \ @7 @9 @10 @11 
 ### El apóstol lucha por esta perfección; Aliento para seguir caminando con éxito en firme fidelidad
-§12 \ §13 §14 §16 
+@12 \ @13 @14 @16 
 ### Admoniciones para cambiar hacia el cielo
-§17 §18 §19 §20 §21 
+@17 @18 @19 @20 @21 
 ## 4
-§1 
+@1 
 ### Advertencia a feligreses individuales; Invitación al gozo en el Señor; Promesa de la paz de Dios como recompensa de la oración continua y el caminar virtuoso
-§3 \ §4 §5 §6 §7 \ §9 
+@3 \ @4 @5 @6 @7 \ @9 
 ### Expresión de alegría y agradecimiento por el regalo de amor enviado por la congregación
-§12 §13 §15 §20 
+@12 @13 @15 @20 
 ### Conclusión: saludos y bendición
-§22 \ 
+@22 \ 
 # Colosenses
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### Acción de gracias por el buen estado cristiano (fe, amor y conocimiento) de la iglesia
-§7 §8 
+@7 @8 
 ### Intercesión tanto por el crecimiento de la iglesia en el conocimiento de Dios y la gloria de Cristo como por la búsqueda de caminatas cristianas dignas
-§10 §13 
+@10 @13 
 ### La incomparable grandeza de Cristo resucitado y la redención obrada por su muerte en la cruz
-§14 \ §15 §16 §17 §20 
+@14 \ @15 @16 @17 @20 
 ### Referencia a la bendición que recibieron los colosenses por la predicación del mensaje de salvación; Recordatorio para perseverar
-§21 §22 §23 
+@21 @22 @23 
 ### El llamado de Pablo y su derecho a trabajar como apóstol gentil en la predicación del concilio de salvación de Dios a pesar de todos los sufrimientos y luchas duras
-§26 §27 §29 
+@26 @27 @29 
 ## 2
-§-1 
+@-1 
 ### El propósito de la carta, la revelación de un secreto de salvación
-§3 
+@3 
 ### El pleno conocimiento de la salvación creada por Cristo salva a los colosenses de ser engañados por falsas enseñanzas
-§4 §5 \ §7 \ §8 
+@4 @5 \ @7 \ @8 
 ### Por el mérito de Cristo has logrado la salvación, y en Cristo (muerto, sepultado y resucitado con él) eres liberado del dominio de los poderes espirituales
-§9 §10 §11 §12 §13 §14 §15 
+@9 @10 @11 @12 @13 @14 @15 
 ### La observación de las costumbres externas y la naturaleza hipócrita de los falsos maestros son inútiles y carnales
-§16 §17 §19 \ §20 §23 
+@16 @17 @19 \ @20 @23 
 ## 3
-§-1 
+@-1 
 ### Busca, no lo que hay en la tierra
-§1 §2 §3 §4 
+@1 @2 @3 @4 
 ### Mata lo que está abajo
-§5 §6 §9 §10 §11 
+@5 @6 @9 @10 @11 
 ### Atrae lo que viene de arriba
-§13 \ §14 §15 §16 \ §17 
+@13 \ @14 @15 @16 \ @17 
 ### Letrero de la casa (es decir, recordatorios sobre la vida familiar cristiana)
-§18 \ §19 \ §20 \ §21 \ §25 
+@18 \ @19 \ @20 \ @21 \ @25 
 ## 4
-§1 
+@1 
 ### Admoniciones especiales individuales para orar (especialmente intercesión) y comportarse de la manera correcta contra los no cristianos
-§2 §3 §4 \ §5 §6 
+@2 @3 @4 \ @5 @6 
 ### Personal (la misión de Tíquico y Onésimo) y el final de las letras; Saludos y bendiciones
-§8 §9 \ §10 §11 \ §13 §14 §17 \ 
+@8 @9 \ @10 @11 \ @13 @14 @17 \ 
 # 1 Tesalonicenses
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§1 
+@1 
 ### Acción de gracias por la obra de Dios en Tesalónica y expresión de alegría por la vida ejemplar de fe en la comunidad
-§5 §6 §8 §9 §10 
+@5 @6 @8 @9 @10 
 ## 2
-§-1 
+@-1 
 ### Recordatorio de la eficacia enérgica, desinteresada y amorosa de los mensajeros de Dios en Tesalónica
-§3 §4 §5 §7 \ §9 §12 
+@3 @4 @5 @7 \ @9 @12 
 ### Acción de gracias por la recepción voluntaria del mensaje de salvación por parte de la comunidad y alabanza por su constancia en el sufrimiento
-§13 §14 §15 §16 
+@13 @14 @15 @16 
 ### Anhelo del apóstol; sus planes de viaje frustrados
-§19 §20 
+@19 @20 
 ## 3
-§-1 
+@-1 
 ### Información sobre la misión de Timoteo y el resultado favorable de su misión; el agradecimiento del apóstol y su deseo de oración
-§2 §3 §5 \ §6 §10 \ §13 
+@2 @3 @5 \ @6 @10 \ @13 
 ## 4
-§-1 
+@-1 
 ### Recordatorio de castidad y honestidad en la vida empresarial
-§8 
+@8 
 ### Recordatorio de amor fraternal y trabajo duro y silencioso
-§9 §11 §12 
+@9 @11 @12 
 ### Sin dolor desesperado por los muertos
-§13 §14 §15 §18 
+@13 @14 @15 @18 
 ## 5
-§-1 
+@-1 
 ### Recordatorio de estar alerta y sobrio sobre la incertidumbre del momento del regreso de Cristo
-§1 §2 §3 §6 §10 §11 
+@1 @2 @3 @6 @10 @11 
 ### Deberes de los feligreses hacia los líderes parroquiales
-§12 §13 
+@12 @13 
 ### Deberes de los líderes comunitarios hacia los miembros de la comunidad
-§15 
+@15 
 ### Obligaciones de toda la comunidad en actitud y eficacia
-§16 §17 §18 §19 §22 
+@16 @17 @18 @19 @22 
 ### Petición de oración final
-§23 \ §24 
+@23 \ @24 
 ### Fin de la carta; Paz y bendiciones
-§25 \ §27 \ 
+@25 \ @27 \ 
 # 2 Tesalonicenses
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### Acción de gracias por los avances en la fe y la lealtad cristiana de la comunidad en todas las tribulaciones
-§3 §4 §5 §6 §7 §8 §10 
+@3 @4 @5 @6 @7 @8 @10 
 ### Intercesión apostólica por la Iglesia
 ## 2
-§-1 
+@-1 
 ### Advertencia contra expectativas apresuradas; Instrucción sobre el tiempo de la segunda venida del Señor y sobre la aparición del Anticristo ante ella
-§1 §2 §3 §4 §8 §9 §11 §12 
+@1 @2 @3 @4 @8 @9 @11 @12 
 ### Acción de gracias del Apóstol por la elección divina de los tesalonicenses; Amonestación para aferrarse a la verdad de enseñanza recibida; Intercesión por el fortalecimiento divino
-§15 \ 
+@15 \ 
 ## 3
-§-1 
+@-1 
 ### Amonestación para interceder por el éxito del anuncio de la salvación; Bendición para el estado cristiano de la iglesia
-§3 §4 §5 
+@3 @4 @5 
 ### Reglas de conducta hacia los holgazanes; Recordatorio para llevar un estilo de vida ordenado y practicar una disciplina prudente
-§6 §7 §8 §9 §10 §12 \ §13 §15 \ §16 
+@6 @7 @8 @9 @10 @12 \ @13 @15 \ @16 
 ### Saludo personal y bendición de Pablo
 # 1 Timoteo
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§1 §2 
+@1 @2 
 ### Amonestación para luchar por el mensaje saludable de salvación contra los falsos maestros
-§3 §4 §5 §6 §7 
+@3 @4 @5 @6 @7 
 ### La posición del cristiano sobre la ley
-§8 §9 §11 
+@8 @9 @11 
 ### La experiencia de la gracia del apóstol y su llamado a testificar de la verdad cristiana de la salvación; Alabado sea la gracia que Jesús le dio
-§12 §17 
+@12 @17 
 ### Exhortación a Timoteo a luchar por la verdad cristiana contra la herejía
-§18 §19 §20 
+@18 @19 @20 
 ## 2
-§-1 
+@-1 
 ### Regulaciones sobre la oración en congregación para todas las personas, especialmente para las autoridades
-§5 §6 §7 
+@5 @6 @7 
 ### Reglas para la conducta de hombres y mujeres en el culto de la iglesia cristiana
-§8 §9 §10 §11 §12 §14 §15 
+@8 @9 @10 @11 @12 @14 @15 
 ## 3
-§-1 
+@-1 
 ### Requisitos para el cargo de jefe
-§1 §7 
+@1 @7 
 ### Requisitos de ayudantía
-§8 §9 §11 §13 
+@8 @9 @11 @13 
 ### Conclusión de las instrucciones anteriores refiriéndose a la comunidad como portadora de la verdad de la salvación
-§16 
+@16 
 ## 4
-§-1 
+@-1 
 ### Advertencia de la abstinencia hipócrita de los falsos maestros
-§1 §3 §4 §5 
+@1 @3 @4 @5 
 ### El correcto ejercicio cristiano de la piedad y la bendición que se le prometió
-§6 §7 §8 §11 
+@6 @7 @8 @11 
 ### Reglas generales para Timoteo, especialmente con respecto a su juventud
-§14 §16 
+@14 @16 
 ## 5
-§-1 
+@-1 
 ### Del correcto comportamiento pastoral hacia las diferentes edades de ambos sexos
-§1 §2 
+@1 @2 
 ### Normas relativas a las viudas y su cuidado
-§8 \ §10 \ §14 §16 
+@8 \ @10 \ @14 @16 
 ### Del comportamiento observado contra los mayores
-§17 §18 \ §19 §20 §22 
+@17 @18 \ @19 @20 @22 
 ### Amonestación personal para Timoteo
-§23 \ 
+@23 \ 
 ## 6
-§-1 
+@-1 
 ### Reglas para los esclavos cristianos
-§2 
+@2 
 ### Los terribles frutos de la herejía y los peligros de la codicia
-§3 §4 §5 \ §7 §8 §9 §10 
+@3 @4 @5 \ @7 @8 @9 @10 
 ### Recordatorio a Timoteo de perseverar en la fidelidad y luchar por la fe
-§11 §12 §13 §16 
+@11 @12 @13 @16 
 ### Recordatorio para los ricos hermanos
-§17 §19 
+@17 @19 
 ### Advertencia final contra la herejía
-§20 
+@20 
 # 2 Timoteo
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### Acción de gracias del apóstol por la firmeza de la fe de Timoteo
-§4 §5 
+@4 @5 
 ### El regalo de Dios mantiene a Timoteo y Pablo conectados
-§6 §7 §8 §9 §10 §11 
+@6 @7 @8 @9 @10 @11 
 ### Referencia al ejemplo del apóstol, la infidelidad de algunos hermanos y el comportamiento glorioso de Onesíforo
-§12 \ §13 §14 \ §15 §16 §18 
+@12 \ @13 @14 \ @15 @16 @18 
 ## 2
-§-1 
+@-1 
 ### Exhortación a Timoteo para que se preocupe por la predicación de la doctrina de la salvación y se fortalezca en la batalla y el sufrimiento
-§1 §5 §7 
+@1 @5 @7 
 ### Fuerza y ​​consuelo del guerrero de Cristo en la batalla del sufrimiento
-§9 §10 §11 §12 §13 
+@9 @10 @11 @12 @13 
 ### Advertencia de verborrea inútil, de cháchara vacía y de falsedades de falsos maestros
-§14 \ §15 §16 §17 §18 
+@14 \ @15 @16 @17 @18 
 ### La desesperanza de los falsos maestros debido al sólido fundamento de la iglesia puesto por Dios
-§19 \ §21 \ §22 §23 §24 §26 
+@19 \ @21 \ @22 @23 @24 @26 
 ## 3
-§-1 
+@-1 
 ### Descripción de los futuros falsos maestros y la corrupción moral del último tiempo
-§5 §9 
+@5 @9 
 ### Referencia al ejemplo de Pablo y un recordatorio de perseverar y aferrarse a las enseñanzas tradicionales y las Sagradas Escrituras a pesar de todo el sufrimiento
-§11 §12 §13 §16 §17 
+@11 @12 @13 @16 @17 
 ## 4
-§-1 
+@-1 
 ### Otro llamado a Timoteo para que sea fiel a su oficio
-§1 §2 §3 §4 §5 
+@1 @2 @3 @4 @5 
 ### Solemne referencia del apóstol al próximo final de su vida; su auto-testimonio y su esperanza
-§6 §7 §8 
+@6 @7 @8 
 ### Situación personal del apóstol, últimas órdenes, peticiones, mensajes, saludos y bendiciones
-§9 §10 §11 §12 §14 §15 \ §17 §18 \ §20 §21 \ 
+@9 @10 @11 @12 @14 @15 \ @17 @18 \ @20 @21 \ 
 # Tito
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§3 §4 
+@3 @4 
 ### Regulaciones que rigen el nombramiento de ancianos como líderes de la iglesia
-§5 §6 §7 §9 
+@5 @6 @7 @9 
 ### Reglas de conducta contra seductores maliciosos y falsos maestros hipócritas
-§14 §15 §16 
+@14 @15 @16 
 ## 2
-§-1 
+@-1 
 ### Regulaciones para las fincas individuales en la comunidad
-§1 §2 §3 §5 \ §8 \ §9 §10 
+@1 @2 @3 @5 \ @8 \ @9 @10 
 ### Justificación de estos reglamentos haciendo referencia a la gracia de Dios que apareció en el mundo
-§13 §14 \ §15 
+@13 @14 \ @15 
 ## 3
-§-1 
+@-1 
 ### Sobre el comportamiento contra las autoridades paganas y los no cristianos y sobre el camino de los cristianos como pueblo renovado
-§1 §2 §3 §4 §5 §6 §7 
+@1 @2 @3 @4 @5 @6 @7 
 ### Conclusión sobre el comportamiento frente a las aberraciones doctrinales y sus representantes
-§9 §10 §11 
+@9 @10 @11 
 ### Comentarios personales finales, últimos pedidos y saludos
-§12 §13 §14 \ 
+@12 @13 @14 \ 
 # Filemón
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§1 §2 §3 
+@1 @2 @3 
 ### Gracias a Dios e intercesión por Filemón
-§6 §7 
+@6 @7 
 ### Defensa de Onésimo
-§10 §14 §20 
+@10 @14 @20 
 ### Cierre de cartas, anuncio de visita, saludos y bendiciones
-§22 
+@22 
 # Hebreos
 ## 1
-§-1 
+@-1 
 ### La soberanía única del Hijo de Dios sobre los mensajeros de Dios del Antiguo Testamento
-§2 §3 §4 
+@2 @3 @4 
 ### Evidencia del Antiguo Testamento de la exaltación del Hijo de Dios sobre los ángeles
-§5 \ §7 \ §9 \ §12 \ §13 \ §14 
+@5 \ @7 \ @9 \ @12 \ @13 \ @14 
 ## 2
-§-1 
+@-1 
 ### De ahí surge la obligación de que obedezcamos voluntariamente las palabras que nos ha dicho este Hijo
-§3 §4 
+@3 @4 
 ### Su humillación, encarnación y sufrimiento de muerte, no limita su sublimidad
-§8 \ §9 
+@8 \ @9 
 ### La necesidad de la humillación, especialmente el sufrimiento de la muerte
-§10 §11 §12 \ §13 
+@10 @11 @12 \ @13 
 ### Las beneficiosas consecuencias de la humillación
-§17 §18 
+@17 @18 
 ## 3
-§-1 
+@-1 
 ### El Hijo de Dios Jesús en su majestad sobre el ministro de Dios Moisés
-§1 §2 §6 
+@1 @2 @6 
 ### La advertencia del salmista contra la incredulidad y la apostasía
-§7 §8 §11 \ §13 
+@7 @8 @11 \ @13 
 ### El ejemplo de advertencia de los israelitas en el desierto
-§14 §15 \ §17 §19 
+@14 @15 \ @17 @19 
 ## 4
-§-1 
+@-1 
 ### Interpretación de la promesa del salmo sobre el resto del pueblo de Dios
-§5 \ §7 \ §8 §10 
+@5 \ @7 \ @8 @10 
 ### Exhortación final en referencia a la seriedad y el poder de la palabra de Dios
-§11 §12 §13 
+@11 @12 @13 
 ### Jesús conoce las debilidades humanas por experiencia personal
-§14 §15 §16 
+@14 @15 @16 
 ## 5
-§-1 
+@-1 
 ### Con Cristo se encuentran los requisitos necesarios del sumo sacerdote sugeridos en Melquisedec
-§4 §5 \ §6 \ §7 §8 §10 
+@4 @5 \ @6 \ @7 @8 @10 
 ### Quejarse de la inmadurez, la indolencia intelectual y el atraso de los lectores
-§13 §14 
+@13 @14 
 ## 6
-§-1 
+@-1 
 ### Es una cuestión de progreso; La recaída es peligrosa y puede provocar daños incurables
-§8 
+@8 
 ### Confiada esperanza de superar este angustioso estado de los lectores y el peligro que los amenaza
-§10 §11 §12 
+@10 @11 @12 
 ### El fundamento firme de la esperanza en la gloria que seguramente se espera radica en las confiables promesas de Dios
-§16 §20 
+@16 @20 
 ## 7
-§-1 
+@-1 
 ### Jesús, el sumo sacerdote perfecto para siempre según el orden de Melquisedec
-§1 §3 
+@1 @3 
 ### Melquisedec es más digno que los sacerdotes levitas
-§10 
+@10 
 ### El cambio y abolición del sacerdocio provocado por el sacerdocio peculiar de Jesús
-§14 §17 
+@14 @17 
 ### La razón del cambio en el orden de los sacerdotes es que Jesús debería ser el garante de un pacto superior
-§21 \ §22 \ §25 
+@21 \ @22 \ @25 
 ### Jesús como el sumo sacerdote perfecto y eterno
-§27 §28 
+@27 @28 
 ## 8
-§-1 
+@-1 
 ### La superioridad del ministerio sumo sacerdotal celestial de Jesús y el nuevo pacto del que él es mediador
-§5 §6 \ §8 §9 §12 \ §13 
+@5 @6 \ @8 @9 @12 \ @13 
 ## 9
-§-1 
+@-1 
 ### La imperfección del ministerio sacerdotal levítico y la perfección (o superioridad) del ministerio sumo sacerdotal de Cristo
-§3 §4 §5 \ §6 §9 §10 \ §13 §14 
+@3 @4 @5 \ @6 @9 @10 \ @13 @14 
 ### Cristo como mediador de un nuevo pacto y su muerte sacrificial única como medio eterno de su servicio celestial como sumo sacerdote
-§15 §20 \ §21 §22 
+@15 @20 \ @21 @22 
 ### El autosacrificio único y sangriento de Cristo y su tremendo significado de salvación para los creyentes
-§24 §27 §28 
+@24 @27 @28 
 ## 10
-§-1 
+@-1 
 ### El ejemplo sombrío y la insuficiencia del sacrificio anual de reconciliación del sumo sacerdote levítico; la perfección del sacrificio de Jesús
-§1 §7 \ §10 
+@1 @7 \ @10 
 ### El autosacrificio único y perfectamente válido de Jesús hace que todos los demás sacrificios por el pecado sean innecesarios porque hizo que los creyentes fueran completamente perfectos ante Dios
-§11 §13 §14 \ §16 \ §17 \ §18 
+@11 @13 @14 \ @16 \ @17 \ @18 
 ### Amonestación general para perseverar en la fe, la esperanza y el amor, en comunidad con toda la comunidad
-§20 §22 \ §23 \ §25 
+@20 @22 \ @23 \ @25 
 ### Advertencia de apostasía y del juicio divino que golpeará a los que se burlan de la gracia
-§26 §29 §31 
+@26 @29 @31 
 ### Recordatorio para ser fiel y tener confianza en la esperanza frente al sufrimiento creciente en vista de la recompensa prometida
-§32 §33 §34 §38 \ §39 
+@32 @33 @34 @38 \ @39 
 ## 11
-§1 
+@1 
 ### Modelos del Antiguo Testamento de tal fe
-§3 
+@3 
 ### Tres ejemplos de héroes de la fe de la época de los antepasados ​​de Abel a Noé
-§4 \ §5 §6 \ §7 
+@4 \ @5 @6 \ @7 
 ### Ejemplos de la época de Abraham y su familia
-§8 §10 \ §12 \ §13 §16 \ §17 §19 \ §20 \ §21 \ §22 
+@8 @10 \ @12 \ @13 @16 \ @17 @19 \ @20 \ @21 \ @22 
 ### Ejemplos de la época de Moisés y Josué
-§23 \ §28 \ §29 \ §30 \ §31 
+@23 \ @28 \ @29 \ @30 \ @31 
 ### Ejemplos de héroes de la fe de la historia posterior de Israel
-§38 \ 
+@38 \ 
 ## 12
-§-1 
+@-1 
 ### Exhortación a mantener la fidelidad, especialmente con respecto al ejemplo de Jesús
-§2 \ §3 
+@2 \ @3 
 ### Recordatorio para permitir que los desafíos del sufrimiento sirvan como medio para promover la vida de fe
-§6 \ §11 
+@6 \ @11 
 ### Una advertencia a la comunidad para que se levante y cuide a los miembros débiles y vulnerables
-§12 §13 \ §14 §15 §16 §17 
+@12 @13 \ @14 @15 @16 @17 
 ### Otra referencia a la soberanía del nuevo pacto y la inminente decisión final
-§18 §19 §21 \ §22 §23 §24 
+@18 @19 @21 \ @22 @23 @24 
 ### La gloria del fin de los tiempos, aterradora para los reacios y dichosa para los obedientes
-§25 §29 
+@25 @29 
 ## 13
-§-1 
+@-1 
 ### Advertencias individuales por el amor fraterno, la pureza moral y la promoción de la vida comunitaria
-§1 §2 §3 §4 \ §5 §6 
+@1 @2 @3 @4 \ @5 @6 
 ### Amonestación principal de ser fieles a los gobernantes y a Jesús, el que permanece en la eternidad y el fin del servicio del sacrificio por el pecado judío
-§9 \ §12 §13 §14 §15 
+@9 \ @12 @13 @14 @15 
 ### Advertencias individuales repetidas, especialmente con respecto al comportamiento contra los líderes comunitarios
-§16 \ §17 \ §18 §19 
+@16 \ @17 \ @18 @19 
 ### Clausura de la carta, bendición, mensajes personales, saludos
-§20 §21 \ §23 \ §24 \ 
+@20 @21 \ @23 \ @24 \ 
 # Santiago
 ## 1
-§-1 
+@-1 
 ### Salutaciones y Bendiciones
-§1 
+@1 
 ### Comportamiento correcto en las tentaciones; Recordatorio de la disposición correcta
-§4 
+@4 
 ### Recordatorio para perseverar pidiendo sabiduría
-§5 §6 §8 
+@5 @6 @8 
 ### La actitud correcta hacia la pobreza y la riqueza; Bendición de la libertad condicional
-§9 §10 §11 \ §12 
+@9 @10 @11 \ @12 
 ### Las tentaciones al mal provienen de la propia lujuria, no de Dios, la fuente de todo bien
-§14 §15 §17 §18 
+@14 @15 @17 @18 
 ### Sea no solo un oyente, sino también un hacedor de la palabra
-§19 §20 §21 \ §22 §25 
+@19 @20 @21 \ @22 @25 
 ### Algunos ejemplos de cómo hacer los trabajos correctos
-§26 §27 
+@26 @27 
 ## 2
-§-1 
+@-1 
 ### Cuidado con la reputación de la persona, especialmente de los pobres
-§5 §7 
+@5 @7 
 ### El cumplimiento de la ley mosaica debe ser uniforme, es decir, sin excepción
-§9 §10 §13 
+@9 @10 @13 
 ### La fe sin obras está muerta e inútil; la verdadera fe se muestra en la abnegación y en las buenas obras
-§14 §16 §18 \ §20 
+@14 @16 @18 \ @20 
 ### Dos ejemplos del Antiguo Testamento como evidencia bíblica de las obras que conducen a la consumación de la fe
-§21 §26 
+@21 @26 
 ## 3
-§-1 
+@-1 
 ### Advertencia contra las prisas no solicitadas para enseñar y contra los pecados de la lengua
-§6 §10 §12 
+@6 @10 @12 
 ### De la sabiduría falsa, espiritual-terrenal y verdadera, espiritual-celestial
-§18 
+@18 
 ## 4
-§-1 
+@-1 
 ### Advertencias contra la contienda, la insatisfacción y el cosmopolitismo, contra el abuso y el juicio descuidado
-§4 §5 §6 §7 §8 §10 \ §12 
+@4 @5 @6 @7 @8 @10 \ @12 
 ### Contra la autoconfianza medida en las empresas
-§13 §14 §15 §17 
+@13 @14 @15 @17 
 ## 5
-§-1 
+@-1 
 ### Anuncio del juicio inminente a los exuberantes ricos y los siervos de Mammon que se olvidan de Dios
-§1 §2 §5 §6 
+@1 @2 @5 @6 
 ### Exhortación a los creyentes a perseverar con paciencia en vista del inminente regreso del Señor
-§7 §8 \ §11 
+@7 @8 \ @11 
 ### Advertencias finales sobre el juramento y la oración, sobre el comportamiento hacia la alegría y el dolor, en la enfermedad y contra los descarriados
-§12 \ §13 §14 §15 §16 §17 §18 \ §19 
+@12 \ @13 @14 @15 @16 @17 @18 \ @19 
 # 1 Pedro
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### La salvación que se nos da da gozo jubiloso, incluso si la fe tiene que demostrar su valía en la tribulación
-§3 §4 §5 §6 §7 §8 §9 
+@3 @4 @5 @6 @7 @8 @9 
 ### La salvación prometida hace muchas veces por los profetas ahora finalmente se ha realizado
-§11 §12 
+@11 @12 
 ### Camine en santo temor de Dios con gozosa confianza en la salvación que se logra mediante la redención y con la esperanza de gloria
-§13 §14 §16 \ §17 §18 §19 §20 §21 
+@13 @14 @16 \ @17 @18 @19 @20 @21 
 ### Camine dentro de la iglesia en puro amor fraternal y digno de la nueva vida que se le ha dado
-§23 §24 §25 
+@23 @24 @25 
 ## 2
-§-1 
+@-1 
 ### Procedan en la santificación y edifíquense como piedras vivas sobre Cristo, la piedra angular, para un pueblo espiritual de sacerdotes
-§1 §2 §3 §4 §5 §6 \ §7 \ §8 \ §9 §10 
+@1 @2 @3 @4 @5 @6 \ @7 \ @8 \ @9 @10 
 ### Invitación general a un caminar puro ante los gentiles
-§11 §12 
+@11 @12 
 ### Exhortación a obedecer a las autoridades paganas
-§13 §16 \ §17 
+@13 @16 \ @17 
 ### Admoniciones a los esclavos para que toleren según el ejemplo de Cristo
-§18 §21 §22 §24 §25 
+@18 @21 @22 @24 @25 
 ## 3
-§-1 
+@-1 
 ### Advertencias para los cónyuges
-§1 §6 \ §7 
+@1 @6 \ @7 
 ### Advertencias generales para los miembros de la iglesia
-§9 §10 §12 
+@9 @10 @12 
 ### En el sufrimiento eres testigo de los que te rodean
-§14 §17 
+@14 @17 
 ### Las benditas consecuencias del sufrimiento involuntario de Cristo
-§19 §20 §21 §22 
+@19 @20 @21 @22 
 ## 4
-§-1 
+@-1 
 ### La voluntad de sufrir resiste la sensación de pecado, amortigua la lujuria y ayuda a las personas a caminar con devoción
-§3 §6 
+@3 @6 
 ### Advertencia a la preservación de la vida comunitaria cristiana con miras al fin del mundo próximo
-§7 §8 §9 §11 
+@7 @8 @9 @11 
 ### Exhortación a probar el verdadero espíritu cristiano en el fuego de la purificación del sufrimiento en vista de la gloria que se alcanzará
-§12 §13 §14 §16 §17 §18 §19 
+@12 @13 @14 @16 @17 @18 @19 
 ## 5
-§-1 
+@-1 
 ### Advertencia a los ancianos y a los más jóvenes de la iglesia
-§1 §2 §3 §4 \ §5 §6 §7 
+@1 @2 @3 @4 \ @5 @6 @7 
 ### Esté atento a las tentaciones del diablo
-§8 §10 §11 
+@8 @10 @11 
 ### Fin de la carta; Saludos y bendiciones
 # 2 Pedro
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§2 
+@2 
 ### Recordatorio de perseverancia y progreso en el desarrollo de la fe para la aceptación en el reino eterno de Cristo
-§5 §9 §11 
+@5 @9 @11 
 ### La indicación del apóstol de su muerte inminente
-§14 §15 
+@14 @15 
 ### Referencia a la fiabilidad del sermón apostólico y la palabra profética
-§18 \ §21 
+@18 \ @21 
 ## 2
-§-1 
+@-1 
 ### Advertencia de los falsos maestros viciosos y perniciosos que enfrentan el juicio divino
-§1 §3 
+@1 @3 
 ### Tres ejemplos del Antiguo Testamento
-§5 §6 §9 §11 
+@5 @6 @9 @11 
 ### Descripción de la maldad y la inmoralidad de los falsos maestros
-§16 \ §17 §19 \ §20 §21 §22 
+@16 \ @17 @19 \ @20 @21 @22 
 ## 3
-§-1 
+@-1 
 ### Contra los negadores de la segunda venida de Cristo
-§1 §3 §4 §5 §6 §7 
+@1 @3 @4 @5 @6 @7 
 ### La paciencia del Señor
-§8 §9 
+@8 @9 
 ### Referencia a la ocurrencia repentina y el temor del fin del mundo; Un nuevo mundo emerge
-§10 §13 
+@10 @13 
 ### Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
-§14 
+@14 
 # 1 Juan
 ## 1
-§-1 
+@-1 
 ### Contenido, fiabilidad y finalidad del mensaje apostólico de la palabra de vida
-§1 §4 
+@1 @4 
 ### El caminar en la luz (la verdad) versus el caminar en la oscuridad (la mentira); Conocimiento y confesión del pecado
-§5 §6 §7 §10 
+@5 @6 @7 @10 
 ## 2
-§-1 
+@-1 
 ### El fruto del conocimiento de Dios se manifiesta al andar según los mandamientos divinos
-§1 §2 §6 
+@1 @2 @6 
 ### El nuevo mandamiento del amor fraternal por los hijos de la luz
-§7 §8 §9 §11 
+@7 @8 @9 @11 
 ### Las diferentes edades del desarrollo espiritual; los hijos de la luz evitan el amor al mundo
-§12 \ §13 \ §14 \ §15 §17 
+@12 \ @13 \ @14 \ @15 @17 
 ### Instrucción sobre falsos maestros; Advertencia de los anticristos; Recordatorio para aferrarse a la enseñanza correcta
-§19 §23 \ §25 \ §27 
+@19 @23 \ @25 \ @27 
 ### Permanecer en Cristo y ejercer la justicia de fe da gozo en el juicio
-§28 §29 
+@28 @29 
 ## 3
-§-1 
+@-1 
 ### Felicidad y esperanza de gloria para los hijos de Dios
-§1 §2 §3 
+@1 @2 @3 
 ### Los nacidos de Dios están obligados a evitar el pecado y practicar la justicia, especialmente el amor fraternal
-§6 \ §7 §8 §9 §11 §12 
+@6 \ @7 @8 @9 @11 @12 
 ### El amor fraternal es un fruto importante en la práctica de la justicia; el odio viene del mal
-§13 §14 §15 \ §16 §17 \ §18 
+@13 @14 @15 \ @16 @17 \ @18 
 ### El fruto de practicar la justicia y el amor fraternal es el gozo en Dios por la certeza de la unidad con él
-§20 §23 §24 
+@20 @23 @24 
 ## 4
-§-1 
+@-1 
 ### ¡Pon a prueba los espíritus! El espíritu de Dios le confiesa a Jesús como el Cristo que apareció en carne
-§1 §6 
+@1 @6 
 ### Amor verdadero y falso; El amor fraternal se basa en la fe en el amor de Dios por nosotros en Cristo
-§12 
+@12 
 ### Además del amor fraternal, la posesión del espíritu y el amor por Dios que conocemos testifican de nuestra comunión con Dios
-§13 §14 §15 §16 
+@13 @14 @15 @16 
 ### El fruto de esta comunión de amor con Dios es la confianza gozosa en el día del juicio y la práctica del amor fraterno
-§17 §21 
+@17 @21 
 ## 5
-§-1 
+@-1 
 ### Fe y amor en su unión
-§4 
+@4 
 ### El agua, la sangre y el espíritu santo establecen la fe en Jesús a través de su testimonio
-§5 \ §6 §12 
+@5 \ @6 @12 
 ### La oración e intercesión de los creyentes es gozosa y eficaz para el perdón de los pecados que no sean los mortales
-§13 \ §14 §15 \ §16 §17 
+@13 \ @14 @15 \ @16 @17 
 ### A través de la comunión con Dios y Jesús, el creyente está protegido del pecado y el sentido del mundo
-§19 §20 \ 
+@19 @20 \ 
 # 2 Juan
 ## 1
-§-1 
+@-1 
 ### Bendiciones
-§1 §3 
+@1 @3 
 ### Recordatorio de amar fraternalmente y tener cuidado con los falsos maestros y el anticristo
-§5 §6 \ §8 §9 §10 §11 
+@5 @6 \ @8 @9 @10 @11 
 ### Cierre de carta; saludos
 # 3 Juan
 ## 1
-§-1 
+@-1 
 ### Bendición para Gayo y reconocimiento a su caminar cristiano
-§1 \ §4 
+@1 \ @4 
 ### Alabe el amor fraternal de Gayo y recomiende la hospitalidad a los maestros y hermanos viajeros
-§6 §7 §8 
+@6 @7 @8 
 ### Queja sobre la administración no autorizada y sin amor de Diotrephes
-§10 
+@10 
 ### Con el reconocimiento de Demetrius
-§12 
+@12 
 ### Cierre de carta; saludos
 # Judas
 ## 1
-§-1 
+@-1 
 ### Carta y bendición; Objeto y motivo de la redacción
-§1 §2 
+@1 @2 
 ### La necesidad de luchar contra los falsos maestros viciosos
-§4 
+@4 
 ### Descripción de los seductores viciosos y el tribunal penal amenazante
-§5 §6 §7 
+@5 @6 @7 
 ### Descripción de la arrogancia y depravación de estos malhechores
-§11 §12 §13 §14 §16 
+@11 @12 @13 @14 @16 
 ### Referencia al anuncio apostólico; Advertencias finales, especialmente con respecto al trato de los seducidos; Alabado sea Dios como el final de una carta
-§18 §19 \ §20 §23 \ 
+@18 @19 \ @20 @23 \ 
 # Apocalipsis
 ## 1
-§-1 
+@-1 
 ### El título que indica el origen, el propósito y el significado de esta fuente
-§2 \ §3 
+@2 \ @3 
 ### Bendiciones a las siete parroquias de la provincia romana de Asia
-§4 §5 §6 
+@4 @5 @6 
 ### Resumen: Anuncio de la venida de Jesús al juicio
-§7 \ §8 
+@7 \ @8 
 ### La primera vista (en Patmos) de las siete estrellas y los siete candeleros: Cómo está preparado el Señor para venir a su cristianismo; Llamar a John para que escriba las visiones
-§11 \ §14 §17 \ 
+@11 \ @14 @17 \ 
 ## 2
-§-1 
+@-1 
 ### Carta a la iglesia en Éfeso: “¡No dejes el primer amor!”
-§1 \ §2 §4 §7 
+@1 \ @2 @4 @7 
 ### Carta a la comunidad de Esmirna: “¡Sé fiel hasta la muerte!”
-§8 \ §9 §10 §11 
+@8 \ @9 @10 @11 
 ### Carta a la parroquia de Pérgamo: “¡No sigas al mundo vanidoso!”
-§12 \ §14 §17 
+@12 \ @14 @17 
 ### Carta a la iglesia de Tiatira: “¡Examina sabiamente todo espíritu!”
-§18 \ §23 §27 §29 
+@18 \ @23 @27 @29 
 ## 3
-§-1 
+@-1 
 ### Carta a la comunidad de Sardis: “¡No estés muerto como los demás!”
-§1 \ §2 §3 §4 §5 §6 
+@1 \ @2 @3 @4 @5 @6 
 ### Carta a la Iglesia de Filadelfia: “¡Aférrate a tu corona!”
-§7 \ §10 §11 §12 §13 
+@7 \ @10 @11 @12 @13 
 ### Carta a la congregación de Laodicea: “¡No seas tibio y lento para encontrarte!”
-§14 \ §17 §18 §19 §20 §21 §22 
+@14 \ @17 @18 @19 @20 @21 @22 
 ## 4
-§-1 
+@-1 
 ### Dios el Padre y el concilio celestial en el salón del trono de Dios
-§1 \ §2 §3 §5 §6 §8 \ 
+@1 \ @2 @3 @5 @6 @8 \ 
 ## 5
-§-1 
+@-1 
 ### El libro del destino con los siete sellos y el Cordero de Dios en el trono
-§5 \ §6 §9 §10 
+@5 \ @6 @9 @10 
 ### El himno de alabanza de los ángeles y de toda la creación
-§11 §12 \ §13 \ 
+@11 @12 \ @13 \ 
 ## 6
-§-1 
+@-1 
 ### La apertura de los primeros seis sellos por el Cordero; Los cuatro jinetes
-§2 \ §4 \ §6 \ §8 
+@2 \ @4 \ @6 \ @8 
 ### Los mártires
-§11 
+@11 
 ### Platos terribles en la imagen de los fenómenos naturales
-§13 §16 §17 
+@13 @16 @17 
 ## 7
-§-1 
+@-1 
 ### El sellamiento de una selección (de 144.000 de las doce tribus de Israel)
-§1 §4 §8 
+@1 @4 @8 
 ### El homenaje a las innumerables, probadas y probadas almas creyentes de todos los pueblos ante el trono de Dios, que han salido de la gran tribulación
-§10 \ §12 \ §13 \ §14 \ §16 §17 
+@10 \ @12 \ @13 \ @14 \ @16 @17 
 ## 8
-§-1 
+@-1 
 ### La solución del séptimo sello y el silencio en el cielo (presentando los juicios de las trompetas)
-§1 §2 \ §4 §5 \ §6 
+@1 @2 \ @4 @5 \ @6 
 ### Las primeras cuatro trompetas (es decir, las plagas que vienen de arriba)
-§7 \ §8 §9 \ §10 §11 \ §12 
+@7 \ @8 @9 \ @10 @11 \ @12 
 ### La primera llamada del águila y la quinta y sexta trompetas (las dos plagas que vienen de abajo, es decir, del infierno)
 ## 9
-§-1 
+@-1 
 ### La quinta trompeta o el primer ay
-§2 §6 \ §11 \ §12 
+@2 @6 \ @11 \ @12 
 ### La sexta trompeta o el segundo ay
-§14 \ §15 §19 \ §20 §21 
+@14 \ @15 @19 \ @20 @21 
 ## 10
-§-1 
+@-1 
 ### Un ángel sostiene un libro abierto y jura
-§4 \ §7 
+@4 \ @7 
 ### Johannes consume el librito agridulce
-§8 \ §9 \ §11 
+@8 \ @9 \ @11 
 ## 11
-§-1 
+@-1 
 ### La medida del templo; la preservación de los fieles durante la intensa visita de los gentiles a la ciudad santa
-§1 §2 
+@1 @2 
 ### Efectividad, muerte y ascensión de los dos testigos de Dios
-§3 \ §4 §6 \ §7 §10 \ §13 \ §14 
+@3 \ @4 @6 \ @7 @10 \ @13 \ @14 
 ### La séptima trompeta; Júbilo de victoria en el cielo; la aparición del arca
-§15 \ §16 §18 \ §19 
+@15 \ @16 @18 \ @19 
 ## 12
-§-1 
+@-1 
 ### La Mujer Sol y el Dragón; Rescate de la mujer y su hijo recién nacido
-§2 \ §5 §6 
+@2 \ @5 @6 
 ### La victoria de Michael sobre el dragón en el cielo; Caída del dragón; himno celestial de alabanza; el reinado de Dios y su ungido está amaneciendo
-§9 \ §10 §11 §12 
+@9 \ @10 @11 @12 
 ### Persecución infructuosa de mujeres por parte del dragón
 ## 13
-§-1 
+@-1 
 ### La primera bestia del mar, de diez cuernos y siete cabezas; Amonestación a perseverar
-§1 §4 \ §7 §10 \ §13 §18 
+@1 @4 \ @7 @10 \ @13 @18 
 ## 14
-§-1 
+@-1 
 ### El Cordero y la iglesia perfecta de los 144.000 en el monte Sion
-§1 §2 §5 
+@1 @2 @5 
 ### Tres llamados de ángeles proclaman un mensaje eterno de salvación para todos los pueblos, así como la caída de Babilonia y anuncian el juicio de los adoradores de la bestia
-§7 \ §8 \ §9 §10 §11 \ §12 
+@7 \ @8 \ @9 @10 @11 \ @12 
 ### Una voz celestial proclama la bienaventuranza de los creyentes (mártires) que son fieles hasta la muerte
-§13 
+@13 
 ### El juicio del Hijo del Hombre en la tierra bajo la imagen de una cosecha de grano y una vendimia
-§14 §15 §16 \ 
+@14 @15 @16 \ 
 ## 15
-§-1 
+@-1 
 ### Los siete ángeles con las siete últimas plagas; la alabanza de los vencedores en el mar de cristal
-§1 \ §2 §3 §4 
+@1 \ @2 @3 @4 
 ### La aparición y el equipamiento de los siete ángeles de la copa de la ira
-§5 §6 \ §8 
+@5 @6 \ @8 
 ## 16
-§-1 
+@-1 
 ### El derramamiento de los siete tazones de ira
-§1 \ §2 \ §3 \ §4 §6 \ §7 \ §9 \ §11 \ §12 §13 §14 \ §15 §16 \ §20 §21 
+@1 \ @2 \ @3 \ @4 @6 \ @7 \ @9 \ @11 \ @12 @13 @14 \ @15 @16 \ @20 @21 
 ## 17
-§-1 
+@-1 
 ### Descripción de la espléndida pero abominable mujer entronizada sobre la bestia
-§1 §6 
+@1 @6 
 ### Descripción del animal de siete cabezas y diez cuernos, así como su destino pasado y futuro
-§8 \ §12 §14 
+@8 \ @12 @14 
 ### Interpretación de la imagen
-§15 §18 
+@15 @18 
 ## 18
-§-1 
+@-1 
 ### Anuncio del juicio que cae sobre Babilonia; La primera llamada del ángel
-§1 §2 §3 
+@1 @2 @3 
 ### Una segunda voz
-§4 §5 §6 §7 §8 
+@4 @5 @6 @7 @8 
 ### Las lamentaciones de los reyes de la tierra, de los comerciantes y marineros por la caída de la ciudad
-§11 §12 §16 §17 §19 
+@11 @12 @16 @17 @19 
 ### Aclamación gozosa, la voz celestial, a los habitantes celestiales
-§20 
+@20 
 ### El signo simbólico de la aniquilación; la desolación que prevalece en la ciudad destruida
-§21 §22 §23 §24 
+@21 @22 @23 @24 
 ## 19
-§-1 
+@-1 
 ### El júbilo en el cielo por la caída de Babilonia; la próxima boda del Cordero
-§2 \ §3 §4 \ §5 \ §7 §8 \ §9 \ §10 
+@2 \ @3 @4 \ @5 \ @7 @8 \ @9 \ @10 
 ### La batalla del Mesías; la destrucción de la bestia y sus seguidores, es decir, todos los ejércitos o pueblos hostiles
-§11 §12 §13 §14 §15 §16 \ §17 §19 §20 §21 
+@11 @12 @13 @14 @15 @16 \ @17 @19 @20 @21 
 ## 20
-§-1 
+@-1 
 ### Encadenamiento de Satanás; la primera resurrección y el reino milenario de paz
-§1 §2 §3 \ §4 §5 §6 
+@1 @2 @3 \ @4 @5 @6 
 ### Gog y Magog; aparición final y aniquilación eterna de Satanás y sus huestes
-§8 §10 
+@8 @10 
 ### La segunda resurrección (general) y el juicio final
-§11 §12 §14 §15 
+@11 @12 @14 @15 
 ## 21
-§1 
+@1 
 ### La nueva Jerusalén como morada de Dios con el pueblo y la promesa y el juicio de Dios
-§2 §3 §4 \ §8 
+@2 @3 @4 \ @8 
 ### La descripción de la nueva Jerusalén
-§9 §14 \ §15 §21 \ §23 §27 
+@9 @14 \ @15 @21 \ @23 @27 
 ## 22
-§-1 
+@-1 
 ### La corriente de la vida, los árboles de la vida, la comunión plena con Dios y el reino eterno de la luz
-§1 §4 §5 
+@1 @4 @5 
 ### Promesa de Cristo y testimonio de Juan; La adoración no se debe a la criatura, sino solo a Dios
-§6 \ §7 \ §9 
+@6 \ @7 \ @9 
 ### Dirección y amonestación del ángel y discurso de Jesús
-§10 §11 \ §12 §13 §14 §15 
+@10 @11 \ @12 @13 @14 @15 
 ### Las palabras finales de Jesús; Testimonio del espíritu profético y de la iglesia; La ordenación de Juan para su libro; Seguro, añoranza y despedida
-§16 \ §17 \ §20 \ 
+@16 \ @17 \ @20 \ 
