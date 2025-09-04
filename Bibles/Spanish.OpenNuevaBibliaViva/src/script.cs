@@ -39,6 +39,6 @@ Program.PreprocessImportUSFM = txt =>
 };
 
 
-Program.EachVerseOnNewLine = false;
+Program.EachVerseOnNewLine = true;
 
 Program.Log("Added epub rule.");
