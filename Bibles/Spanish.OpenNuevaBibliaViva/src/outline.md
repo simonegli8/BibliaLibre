@@ -1,3367 +1,3367 @@
 # Génesis
 ## 1
-§-1
+@-1
 ### La creación del mundo
-§1 §2 
+@1 @2 
 ### La creación de la luz
-§5 
+@5 
 ### La creación de la expansion de los Cielos
-§7 §8 
+@7 @8 
 ### La separacion de la tierra y el mar y la creación de las plantas
-§13 
+@13 
 ### La creación de las estrellas
-§14 §19 
+@14 @19 
 ### La creación de los animales acuáticos y de los aves
-§23 
+@23 
 ### La creación de los animales terrestres y del hombre
-§25 \ §26 §27 §28 §30 \ 
+@25 \ @26 @27 @28 @30 \ 
 ## 2
-§-1 
+@-1 
 ### El dia de reposo
-§3 
+@3 
 ### La creacion del hombre y de la mujer en el paraíso
-§7 \ §9 
+@7 \ @9 
 ### El río en el paraíso y sus ramales
-§14 
+@14 
 ### El mandamiento de Dios por Adam
-§17 
+@17 
 ### La creación de la mujer y la fundación del matrimonio
-§18 §20 \ §24 §25 
+@18 @20 \ @24 @25 
 ## 3
-§-1 
+@-1 
 ### La tentacion y la caída del hombre
-§1 \ §2 §3 \ §4 §5 \ §7 
+@1 \ @2 @3 \ @4 @5 \ @7 
 ### El interrogatorio y el castigo
-§8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 §15 \ §16 \ §19 
+@8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 @15 \ @16 \ @19 
 ### La expulsión del paraíso
-§21 \ §24 
+@21 \ @24 
 ## 4
-§-1 
+@-1 
 ### Caín y Abel
-§7 §8 
+@7 @8 
 ### El castigo de Caín
-§9 \ §10 §12 \ §14 \ §15 \ §16 
+@9 \ @10 @12 \ @14 \ @15 \ @16 
 ### Los hijos de Caín
-§24 
+@24 
 ### El nacimiento de Seth
 ## 5
-§-1 
+@-1 
 ### La descendiencia de Seth hasta Noé
-§1 §5 \ §8 \ §11 \ §14 \ §17 \ §20 \ §22 §24 \ §27 \ §29 §31 \ 
+@1 @5 \ @8 \ @11 \ @14 \ @17 \ @20 \ @22 @24 \ @27 \ @29 @31 \ 
 ## 6
-§-1 
+@-1 
 ### Los matrimonios de los hijos de Dios con las hijas de los hombres
-§3 §4 
+@3 @4 
 ### La maldad de los hombres. Anuncio del diluvio
-§6 §8 
+@6 @8 
 ### Llamado de Noé y la construcción del arca
-§12 \ §13 
+@12 \ @13 
 ## 7
-§-1 
+@-1 
 ### El diluvio. Noé entra la arca
-§2 §4 \ §5 \ §7 §10 
+@2 @4 \ @5 \ @7 @10 
 ### El aumento del diluvio
-§12 \ §16 \ 
+@12 \ @16 \ 
 ## 8
-§-1 
+@-1 
 ### El fin del diluvio
-§2 §5 \ §12 \ §14 \ §17 \ §18 §19 
+@2 @5 \ @12 \ @14 \ @17 \ @18 @19 
 ### El holocausto de Noé y la promesa de Dios
-§21 §22 
+@21 @22 
 ## 9
-§-1 
+@-1 
 ### Renovación de la bendición de la creación
-§1 §4 §5 §6 §7 
+@1 @4 @5 @6 @7 
 ### El pacto entro Dios y Noé y la creación
-§10 §11 §17 
+@10 @11 @17 
 ### La embriaguez de Noé
-§19 \ §22 §25 \ §27 \ 
+@19 \ @22 @25 \ @27 \ 
 ## 10
-§-1 
+@-1 
 ### Los descendientes de los hijos de Noé
-§1 \ §5 \ §11 §14 \ §20 \ §25 §31 \ 
+@1 \ @5 \ @11 @14 \ @20 \ @25 @31 \ 
 ## 11
-§-1 
+@-1 
 ### La torre de Babel
-§4 \ §5 §9 
+@4 \ @5 @9 
 ### Los descendientes de Sem
-§10 §11 \ §13 \ §15 \ §17 \ §19 \ §21 \ §23 \ §25 \ §26 
+@10 @11 \ @13 \ @15 \ @17 \ @19 \ @21 \ @23 \ @25 \ @26 
 ### Los descendientes de Thare
-§30 
+@30 
 ## 12
-§-1 
+@-1 
 ### El llamado de Abram
-§2 §3 
+@2 @3 
 ### La Inmigración de Abram a Canaán
-§6 \ §7 \ §8 §9 
+@6 \ @7 \ @8 @9 
 ### Abram y Sarai en Egipto
-§10 §13 \ §19 \ 
+@10 @13 \ @19 \ 
 ## 13
-§-1 
+@-1 
 ### El regreso de Abram
-§2 §4 
+@2 @4 
 ### Abram se separa de Lot
-§8 §9 
+@8 @9 
 ### Salida de Lot por el valle del Jordán
-§13 
+@13 
 ### Dios promete a Abram el país de Canán
-§15 §16 §17 \ §18 
+@15 @16 @17 \ @18 
 ## 14
-§-1 
+@-1 
 ### Guerra del rey Kedorlaomer en el valle del Jordan
-§12 
+@12 
 ### Ayuda de Abram por Lot
-§16 
+@16 
 ### Abram encuentra Melchîsedec, rey de Salem
-§20 
+@20 
 ### La humildad de Abram con el rey de Sodoma
-§21 \ 
+@21 \ 
 ## 15
-§-1 
+@-1 
 ### Dios promete a Abram un hijo
-§1 \ §3 \ §6 
+@1 \ @3 \ @6 
 ### Dios confirme su promesa
-§7 §8 \ §11 \ §12 §13 §14 §19 §20 
+@7 @8 \ @11 \ @12 @13 @14 @19 @20 
 ## 16
-§-1 
+@-1 
 ### Sarai da a su sierva Agar como mujer á Abram
-§2 §5 \ §6 
+@2 @5 \ @6 
 ### Dios se aparece a Agar á una fuente de agua en el desierto
-§8 \ §12 \ §14 \ 
+@8 \ @12 \ @14 \ 
 ## 17
-§-1 
+@-1 
 ### Dios confirme su pacto con Abram
-§1 §2 \ §8 
+@1 @2 \ @8 
 ### La circuncision
-§14 
+@14 
 ### Dios promete Abraham un hijo de Sara
-§16 \ §17 §18 \ §20 §21 \ §22 
+@16 \ @17 @18 \ @20 @21 \ @22 
 ### Abraham realiza la circuncisión
 ## 18
-§-1 
+@-1 
 ### Dios visita a Abraham
-§2 §5 \ §8 \ §9 \ §10 \ §12 \ §14 \ §15 
+@2 @5 \ @8 \ @9 \ @10 \ @12 \ @14 \ @15 
 ### La intercesión de Abraham por Sodoma
-§18 §19 §20 §21 \ §22 §23 §25 \ §26 §28 \ §29 \ §30 \ §31 \ §32 \ 
+@18 @19 @20 @21 \ @22 @23 @25 \ @26 @28 \ @29 \ @30 \ @31 \ @32 \ 
 ## 19
-§-1 
+@-1 
 ### La caída de Sodoma y Gomorrha
-§1 §2 \ §5 \ §8 \ §11 
+@1 @2 \ @5 \ @8 \ @11 
 ### La salvacion de Lot
-§13 \ §14 \ §17 \ §20 \ §22 \ §24 §26 \ §28 \ §29 
+@13 \ @14 \ @17 \ @20 \ @22 \ @24 @26 \ @28 \ @29 
 ### El pecado de las hijas de Lot; El nacimiento de los padres de los Moabitas y Ammonitas
-§32 §38 
+@32 @38 
 ## 20
-§-1 
+@-1 
 ### Abraham donde Abimelech en Gerar
-§1 §3 \ §5 \ §7 \ §10 \ §13 \ §16 \ 
+@1 @3 \ @5 \ @7 \ @10 \ @13 \ @16 \ 
 ## 21
-§-1 
+@-1 
 ### Nacimiento de Isaac
-§2 §3 §4 §5 §6 §8 
+@2 @3 @4 @5 @6 @8 
 ### El repudio y la salvación de Ismael
-§10 \ §12 §13 §17 \ §18 \ §19 \ §21 
+@10 \ @12 @13 @17 \ @18 \ @19 \ @21 
 ### El pacto entre Abraham y Abimelech
-§22 §23 \ §26 \ §29 \ §31 
+@22 @23 \ @26 \ @29 \ @31 
 ## 22
-§-1 
+@-1 
 ### El orden de Dios para sacrificar Isaac
-§1 \ §2 
+@1 \ @2 
 ### La obedencia de Abraham
-§8 
+@8 
 ### La preparacion del holocausto y la intervención de Dios
-§10 \ §11 \ §12 \ §14 
+@10 \ @11 \ @12 \ @14 
 ### La aprobación de Dios y promesas por Abraham
-§16 §17 §18 \ §19 
+@16 @17 @18 \ @19 
 ### Los descendientes de Nahor, el hermano de Abraham
-§23 
+@23 
 ## 23
-§-1 
+@-1 
 ### Muerte y sepultura de Sara
-§4 \ §6 \ §9 \ §11 \ §13 \ §15 \ §16 \ §20 
+@4 \ @6 \ @9 \ @11 \ @13 \ @15 \ @16 \ @20 
 ## 24
-§-1 
+@-1 
 ### Abraham envía a su criado para buscar una esposa por Isaac
-§1 §3 §4 \ §5 \ §9 
+@1 @3 @4 \ @5 \ @9 
 ### La viaje del criado por Haran
-§10 §14 \ §17 \ §20 \ §21 
+@10 @14 \ @17 \ @20 \ @21 
 ### El criado llega a la casa de Nachôr
-§23 \ §25 \ §27 \ §31 \ §33 
+@23 \ @25 \ @27 \ @31 \ @33 
 ### El cortejo por la novia
-§40 §49 
+@40 @49 
 ### La despedida de Rebeca
-§51 \ §54 \ §55 \ §56 \ §58 \ §60 \ §61 
+@51 \ @54 \ @55 \ @56 \ @58 \ @60 \ @61 
 ### La llegada de la novia al novio
-§62 §65 \ 
+@62 @65 \ 
 ## 25
-§-1 
+@-1 
 ### Segundo matrimonio de Abraham; su muerte y entierro
-§8 §11 
+@8 @11 
 ### Los descendientes de Ismael
-§12 §16 §18 
+@12 @16 @18 
 ### El nacimiento de Esau y Jacob
-§23 \ §26 \ §28 
+@23 \ @26 \ @28 
 ### Jacob compra la primogenitura de Esaú
-§30 \ §31 \ §32 \ §33 \ 
+@30 \ @31 \ @32 \ @33 \ 
 ## 26
-§-1 
+@-1 
 ### Isaac se muda a Gerar cuando hay hambre
-§1 §4 §5 \ §9 \ §10 \ §11 
+@1 @4 @5 \ @9 \ @10 \ @11 
 ### La creciente riqueza de Isaac; Disputas de fuentes;
-§12 §16 \ §17 \ §22 \ §24 \ §25 
+@12 @16 \ @17 \ @22 \ @24 \ @25 
 ### El pacto entre Isaac y Abimelech en Beerseba
-§26 §27 \ §29 \ §33 
+@26 @27 \ @29 \ @33 
 ### Esaú se casa con dos mujeres hititas en contra de la voluntad de sus padres
-§34 
+@34 
 ## 27
-§-1 
+@-1 
 ### Isaac se prepara para bendecir Esau
-§1 \ §4 
+@1 \ @4 
 ### La intervención engañosa de Rebeca
-§10 \ §12 \ §13 \ §17 
+@10 \ @12 \ @13 \ @17 
 ### Jacob recibe la bendición del primogénito
-§18 \ §19 \ §20 \ §21 \ §24 \ §25 \ §29 
+@18 \ @19 \ @20 \ @21 \ @24 \ @25 \ @29 
 ### El regreso de Esaú, su lamento y la bendición que le dio su padre
-§31 \ §32 \ §33 \ §34 \ §35 \ §36 \ §37 \ §38 \ §40 
+@31 \ @32 \ @33 \ @34 \ @35 \ @36 \ @37 \ @38 \ @40 
 ### Esaú busca matar a su hermano
-§41 \ §43 §45 \ 
+@41 \ @43 @45 \ 
 ## 28
-§-1 
+@-1 
 ### Jacob huye a Padan-aram
-§1 §2 §4 \ §5 
+@1 @2 @4 \ @5 
 ### El nuevo matrimonio de Esaú con una hija de Ismael
-§9 
+@9 
 ### El sueño de Jacob en Betel de la escalera al cielo
-§12 §13 §14 §15 
+@12 @13 @14 @15 
 ### Jacob consagra una piedra conmemorativa como el comienzo de una casa de Dios en Betel
-§17 \ §19 
+@17 \ @19 
 ## 29
-§-1 
+@-1 
 ### Jacob al pozo de Haran
-§4 \ §5 \ §6 \ §7 \ §8 
+@4 \ @5 \ @6 \ @7 \ @8 
 ### El saludo de Jacob con Rachêl y su admisión a Labán
-§12 \ §14 
+@12 \ @14 
 ### Jacob entra en servicio con Labán
-§15 \ §18 \ §19 \ §20 \ §21 \ §25 \ §27 \ §30 
+@15 \ @18 \ @19 \ @20 \ @21 \ @25 \ @27 \ @30 
 ### Los primer cuatro hijos de Lea
 ## 30
-§-1 
+@-1 
 ### Los dos hijos de Bilha, la sierva de Rachêl
-§1 \ §2 \ §3 §8 
+@1 \ @2 \ @3 @8 
 ### Los dos hijos de Silpa, la sierva de Lea
-§13 
+@13 
 ### Los ultimos niños de Lea
-§14 \ §15 \ §16 \ §21 
+@14 \ @15 \ @16 \ @21 
 ### Rachêl cresce madre de José
-§22 §23 §24 
+@22 @23 @24 
 ### El nuevo pacto de servicio de Jacob con Labán
-§26 \ §27 §28 \ §30 \ §31 \ §33 \ §34 
+@26 \ @27 @28 \ @30 \ @31 \ @33 \ @34 
 ### Jacob obtuvo una gran propiedad de ganado a través de la astucia
-§36 \ §43 
+@36 \ @43 
 ## 31
-§-1 
+@-1 
 ### Las razones de la fuga de Jacob
-§1 §3 
+@1 @3 
 ### La consulta de Jacob con sus esposas
-§8 §13 \ §15 §16 
+@8 @13 \ @15 @16 
 ### La fuga de Jacob y la persecución de Labán
-§19 \ §21 \ §24 
+@19 \ @21 \ @24 
 ### Discurso de castigo de Labán y registro de la casa
-§30 \ §32 \ §35 
+@30 \ @32 \ @35 
 ### Discurso de acusación de Jacob
-§37 \ §39 §42 
+@37 \ @39 @42 
 ### La respuesta de Labán; el tratado de paz entre él y Jacob
-§44 \ §48 §54 
+@44 \ @48 @54 
 ## 32
-§-1 
+@-1 
 ### Jacob envía mensajeros a Esaú
-§2 \ §4 §8 
+@2 \ @4 @8 
 ### La oracion de Jacob por la ayuda de Dios
-§11 §12 
+@11 @12 
 ### Jacob enviá regalos a Esau
-§20 \ §21 
+@20 \ @21 
 ### Jacob luchando con Dios por la noche
-§25 §26 \ §27 \ §28 \ §29 \ §30 §31 
+@25 @26 \ @27 \ @28 \ @29 \ @30 @31 
 ## 33
-§-1 
+@-1 
 ### La reconciliación de Jacob con Esaú
-§3 \ §5 \ §7 \ §8 \ §9 \ §10 §11 
+@3 \ @5 \ @7 \ @8 \ @9 \ @10 @11 
 ### Jacob se niega a escoltar a Esaú; esto vuelve a Seir
-§12 \ §14 \ §15 \ §16 
+@12 \ @14 \ @15 \ @16 
 ### Jacob se traslada a Succoth y se instala con Sichêm
-§17 \ §19 §20 
+@17 \ @19 @20 
 ## 34
-§-1 
+@-1 
 ### La ofensa de Sichêm contra Dina
-§1 §4 \ §5 
+@1 @4 \ @5 
 ### Hemor corteja a Dina de los hijos de Jacob
-§10 \ §12 
+@10 \ @12 
 ### La demanda de los hijos de Jacob es aceptada por los sichêmitas
-§17 \ §23 \ §24 
+@17 \ @23 \ @24 
 ### La venganza engañosa de los hijos de Jacob
-§29 
+@29 
 ### El disgusto de Jacob por el acto reprensible de sus hijos
-§30 \ 
+@30 \ 
 ## 35
-§-1 
+@-1 
 ### Por amonestación de Dios, Jacob parte de Siquem
-§1 \ §2 §3 \ §4 §5 
+@1 \ @2 @3 \ @4 @5 
 ### Llegada de Jacob y construcción del altar en Betel
-§8 
+@8 
 ### Jacob bendecido por Dios
-§10 §11 §12 \ §13 §14 §15 
+@10 @11 @12 \ @13 @14 @15 
 ### Salida de Betel; Rahel muere al dar a luz a Benjamín
-§17 \ §19 §20 
+@17 \ @19 @20 
 ### La indignación de Rubens; Los doce hijos de Jacob; su regreso a Hebrón; Muerte y entierro de Isaac
-§22 \ §27 \ 
+@22 \ @27 \ 
 ## 36
-§-1 
+@-1 
 ### La familia y la residencia de Esaú
-§1 §2 §3 §8 
+@1 @2 @3 @8 
 ### Los hijos y nietos de Esaú como progenitores
-§14 
+@14 
 ### Los duques descendieron de Esaú
-§19 
+@19 
 ### Los horeos que eran independientes de Esaú
-§20 §30 
+@20 @30 
 ### Los reyes de la tierra de Edom hasta David
-§39 
+@39 
 ### Los duques de Edom por sus lugares
 ## 37
-§-1 
+@-1 
 ### Los inicios de la enemistad de los hermanos contra José
-§4 
+@4 
 ### Los sueños de José
-§7 \ §11 
+@7 \ @11 
 ### La oportunidad de deshacerse de Joseph
-§13 \ §14 §15 \ §16 \ §17 \ §20 
+@13 \ @14 @15 \ @16 \ @17 \ @20 
 ### Rubén y Judá intentan salvar a José
-§23 §24 \ §27 
+@23 @24 \ @27 
 ### José es vendido a Egipto
-§28 \ §29 §32 
+@28 \ @29 @32 
 ### El dolor de Jacob; José vendido a Potifar en Egipto
-§33 §34 
+@33 @34 
 ## 38
-§-1 
+@-1 
 ### Los hijos de Juda y Thamar
-§8 §11 
+@8 @11 
 ### Thamar usa astucia para obtener descendencia de su suegro Judah
-§16 \ §17 \ §18 \ §21 \ §23 
+@16 \ @17 \ @18 \ @21 \ @23 
 ### Judas juicio justo sobre sí mismo y Thamar
-§24 \ §25 \ §26 
+@24 \ @25 \ @26 
 ### Thamar da a luz a los gemelos Pérez y Serah
-§29 
+@29 
 ## 39
-§-1 
+@-1 
 ### José en la casa de Potifar
-§5 §6 
+@5 @6 
 ### La seducción de la esposa de Potifar
-§7 \ §9 \ §12 \ §18 
+@7 \ @9 \ @12 \ @18 
 ### José en el Carcel
 ## 40
-§-1 
+@-1 
 ### Encarcelamiento del copero y panadero del faraón
-§4 
+@4 
 ### José consuela a los dos oficiales de la corte
-§7 \ §8 
+@7 \ @8 
 ### El sueño del copero y su interpretación
-§11 \ §15 
+@11 \ @15 
 ### El sueño del panadero y su interpretación
-§17 \ §19 
+@17 \ @19 
 ### El cumplimiento de ambos sueños
-§23 
+@23 
 ## 41
-§-1 
+@-1 
 ### Los dos sueños del faraón son insolubles para los intérpretes egipcios
-§8 
+@8 
 ### El copero hace los arreglos para que vayan a buscar a José
-§13 \ §14 
+@13 \ @14 
 ### José interpreta los sueños del faraón
-§15 \ §16 \ §24 \ §32 
+@15 \ @16 \ @24 \ @32 
 ### El consejo de José por el faraón
-§36 
+@36 
 ### Joseph fue ascendido a funcionario más alto del estado
-§40 §41 §42 §45 
+@40 @41 @42 @45 
 ### Medidas de José durante los siete años fértiles; el nacimiento de sus dos hijos
-§52 
+@52 
 ### Los siete años estériles y las ventas de cereales de José durante la hambruna
 ## 42
-§-1 
+@-1 
 ### Los diez hijos mayores de Jacob se mudan a Egipto para comprar grano
-§5 
+@5 
 ### La primera conversación dura de José con sus hermanos
-§7 \ §9 \ §11 \ §12 \ §13 \ §17 
+@7 \ @9 \ @11 \ @12 \ @13 \ @17 
 ### La segunda conversación: Simeón como rehén
-§20 \ §22 §24 
+@20 \ @22 @24 
 ### Regreso de los hermanos a Canaán
-§25 \ §34 \ §36 \ §37 \ 
+@25 \ @34 \ @36 \ @37 \ 
 ## 43
-§-1 
+@-1 
 ### Segundo viaje de los hermanos de José a Egipto con Benjamín
-§2 \ §5 \ §6 \ §7 \ §10 \ §12 §14 \ §15 
+@2 \ @5 \ @6 \ @7 \ @10 \ @12 @14 \ @15 
 ### Acogida amistosa por parte de José de sus hermanos
-§16 \ §18 §22 \ §24 §25 
+@16 \ @18 @22 \ @24 @25 
 ### José recibe y entretiene a sus hermanos de la manera más amistosa
-§27 \ §28 §31 \ 
+@27 \ @28 @31 \ 
 ## 44
-§-1 
+@-1 
 ### José está probando a sus hermanos por última vez
-§6 \ §8 §9 \ §10 \ §13 
+@6 \ @8 @9 \ @10 \ @13 
 ### Los hermanos regresan a la ciudad y se humillan ante José
-§15 \ §16 \ §17 \ §23 §29 
+@15 \ @16 \ @17 \ @23 @29 
 ## 45
-§-1 
+@-1 
 ### José se revela a sus hermanos
-§3 \ §4 \ §5 
+@3 \ @4 \ @5 
 ### José fue enviado por Dios para la salvación de Israel
-§8 §15 
+@8 @15 
 ### La amable invitación del faraón a Jacob para que se mudara a Egipto
-§20 
+@20 
 ### José da obsequios generosos a sus hermanos que regresan a casa y los amonesta con amor
-§24 
+@24 
 ### Jacob se muda a su hijo en Egipto
-§28 
+@28 
 ## 46
-§-1 
+@-1 
 ### Dios aprueba el traslado de Jacob a Beerseba en una revelación
-§1 §2 \ §4 \ §7 
+@1 @2 \ @4 \ @7 
 ### El linaje de toda la familia de Jacob
-§8 §20 §27 
+@8 @20 @27 
 ### José saluda a su padre en Gosen
-§28 §30 \ §34 
+@28 @30 \ @34 
 ## 47
-§-1 
+@-1 
 ### El faraón promete a los hijos de Jacob establecerse en Gosen
-§3 \ §4 \ §6 
+@3 \ @4 \ @6 
 ### Jacob se presentó al faraón y luego se instaló en Gosen
-§8 \ §9 §10 \ §12 
+@8 \ @9 @10 \ @12 
 ### José compra la tierra para el faraón
-§15 \ §16 \ §19 \ §24 \ §25 \ §26 
+@15 \ @16 \ @19 \ @24 \ @25 \ @26 
 ### Feliz situación para los israelitas en Egipto; El último deseo de Jacob con respecto a su funeral
-§27 §30 \ 
+@27 @30 \ 
 ## 48
-§-1 
+@-1 
 ### Jacob toma a los dos hijos de José en lugar de niños
-§4 §5 §7 
+@4 @5 @7 
 ### Jacob bendice a los dos hijos de José
-§8 \ §9 \ §11 §16 \ §18 \ §20 
+@8 \ @9 \ @11 @16 \ @18 \ @20 
 ## 49
-§-1 
+@-1 
 ### Las profecías de Jacob sobre sus hijos
-§2 \ §3 §4 \ §6 §7 \ §8 §9 §10 §11 §12 \ §13 \ §15 \ §18 \ §19 \ §20 \ §21 \ §22 §26 \ §27 
+@2 \ @3 @4 \ @6 @7 \ @8 @9 @10 @11 @12 \ @13 \ @15 \ @18 \ @19 \ @20 \ @21 \ @22 @26 \ @27 
 ### La solicitud de Jacob para su entierro en Hebrón
-§29 
+@29 
 ## 50
-§-1 
+@-1 
 ### Embalsamamiento y traslado solemne de Jacob después del entierro hereditario en Hebrón
-§1 §3 \ §5 \ §6 \ §12 §13 §14 
+@1 @3 \ @5 \ @6 \ @12 @13 @14 
 ### La generosidad de José hacia sus hermanos
-§20 §21 
+@20 @21 
 ### La vejez y la muerte de José; su ultimo deseo
-§24 
+@24 
 # Éxodo
 ## 1
-§-1 
+@-1 
 ### Los hijos de Israel multiplicaron
-§1 §6 §7 \ §11 §14 
+@1 @6 @7 \ @11 @14 
 ### El temor de Dios de los dos parteras
-§18 \ §19 \ 
+@18 \ @19 \ 
 ## 2
-§-1 
+@-1 
 ### Nacimiento y abandono, salvación y educación de Moisés
-§2 §6 \ §7 \ §8 \ §9 \ §10 
+@2 @6 \ @7 \ @8 \ @9 \ @10 
 ### Moisés mató al Egipcio
-§11 §12 \ §13 \ §14 
+@11 @12 \ @13 \ @14 
 ### Moisés huyó a Madián y se casa con Séphora
-§15 \ §16 §17 §18 \ §19 \ §20 \ §22 
+@15 \ @16 @17 @18 \ @19 \ @20 \ @22 
 ### Dios escucha las aflicciones de los israelitas oprimidos
-§23 §24 §25 
+@23 @24 @25 
 ## 3
-§-1 
+@-1 
 ### Dios se revela a Moisés en la zarza como el “Yo soy”
-§3 \ §4 \ §5 §6 \ §7 §10 \ §11 \ §12 
+@3 \ @4 \ @5 @6 \ @7 @10 \ @11 \ @12 
 ### La revelacion del nombre de Dios
-§13 \ §14 §15 
+@13 \ @14 @15 
 ### El llamado de Dios y su promesa por Moisés
-§18 §22 
+@18 @22 
 ## 4
-§-1 
+@-1 
 ### Los milagros de la autenticación
-§1 \ §2 \ §3 \ §4 \ §6 \ §7 \ §9 
+@1 \ @2 \ @3 \ @4 \ @6 \ @7 \ @9 
 ### Nuevas objeciones de Moisés; Nombramiento de Aarón como orador
-§10 \ §11 §12 \ §13 \ §17 
+@10 \ @11 @12 \ @13 \ @17 
 ### Moisés despidiéndose de su suegro Jetro; Instrucción de Dios
-§18 \ §19 \ §20 §21 §22 §23 
+@18 \ @19 \ @20 @21 @22 @23 
 ### Dios quiso matar a Moisés en la noche
-§24 §25 \ §26 
+@24 @25 \ @26 
 ### Moisés y Aarón encontraron fe entre los israelitas en Egipto
-§27 \ §31 
+@27 \ @31 
 ## 5
-§-1 
+@-1 
 ### La primera negociación fallida con el faraón
-§1 \ §2 \ §3 \ §5 
+@1 \ @2 \ @3 \ @5 
 ### El pueblo está aún más oprimida; los israelitas reprochan amargamente a Moisés y a Aarón
-§9 \ §14 \ §16 \ §18 \ §19 \ §21 
+@9 \ @14 \ @16 \ @18 \ @19 \ @21 
 ### El lamento de Moisés y la promesa de Dios
 ## 6
-§1 
+@1 
 ### Dios se revela a sí mismo a Moisés de nuevo y promete la salvación del pueblo
-§4 §8 
+@4 @8 
 ### Moisés, rechazado por su pueblo desesperado, recibe nuevas instrucciones de Dios
-§9 \ §11 \ §12 §13 
+@9 \ @11 \ @12 @13 
 ### Árbol genealógico de Aarons y Moisés
-§16 §21 §22 §23 §24 §27 
+@16 @21 @22 @23 @24 @27 
 ### La nueva misión de Moisés y Aarón ante el faraón
-§29 \ §30 
+@29 \ @30 
 ## 7
-§1 §3 §5 \ §7 
+@1 @3 @5 \ @7 
 ### Transformación del bastón en serpiente
-§9 \ §13 
+@9 \ @13 
 ### La primer plaga: Transformación de las aguas del Nilo en sangre
-§17 §19 \ §22 §25 
+@17 @19 \ @22 @25 
 ## 8
-§-1 
+@-1 
 ### La segunda plaga de las ranas
-§3 §4 §6 §7 \ §8 \ §9 \ §10 \ §11 \ §14 §15 
+@3 @4 @6 @7 \ @8 \ @9 \ @10 \ @11 \ @14 @15 
 ### La tercera plaga: Mosquitos
-§16 §19 
+@16 @19 
 ### Cuarto plaga: moscas del perro
-§22 §23 §24 \ §25 \ §27 \ §28 \ 
+@22 @23 @24 \ @25 \ @27 \ @28 \ 
 ## 9
-§-1 
+@-1 
 ### Quinta plaga: plaga del ganado
-§1 §7 
+@1 @7 
 ### La sexta plaga: tumores
-§9 \ §10 §12 
+@9 \ @10 @12 
 ### La séptima plaga: el granizo
-§13 §14 §16 §19 \ §21 \ §22 \ §23 §26 \ §28 \ §30 \ 
+@13 @14 @16 @19 \ @21 \ @22 \ @23 @26 \ @28 \ @30 \ 
 ## 10
-§-1 
+@-1 
 ### La octava plaga: langostas
-§2 \ §3 §6 \ §7 \ §8 \ §9 \ §11 \ §16 §17 \ §18 §20 
+@2 \ @3 @6 \ @7 \ @8 \ @9 \ @11 \ @16 @17 \ @18 @20 
 ### La novena plaga: oscuridad
-§23 \ §24 \ §26 \ §28 \ 
+@23 \ @24 \ @26 \ @28 \ 
 ## 11
-§-1 
+@-1 
 ### Anuncio de la décima plaga, la muerte del primogénito
-§2 §3 \ §7 §8 \ 
+@2 @3 \ @7 @8 \ 
 ## 12
-§-1 
+@-1 
 ### Institución de Pascua
-§2 §7 §12 §13 
+@2 @7 @12 @13 
 ### Arreglos para la fiesta de los panes sin levadura
-§14 \ §15 §20 
+@14 \ @15 @20 
 ### Moisés enseña a los ancianos los preceptos sobre la Pascua
-§27 \ §28 
+@27 \ @28 
 ### La décima plaga: la muerte del primogénito egipcio
-§29 §32 \ §33 §36 
+@29 @32 \ @33 @36 
 ### El éxodo de Israel de Egipto
-§42 
+@42 
 ### Ordenanza de la Pascua; Santificación del primogénito
-§46 §51 
+@46 @51 
 ## 13
-§2 
+@2 
 ### El reglamento sobre la celebración de la Fiesta de los Panes sin Levadura
-§5 §6 §7 §10 
+@5 @6 @7 @10 
 ### Santificación del primogénito
-§14 §15 §16 
+@14 @15 @16 
 ### El tren al desierto y el Mar Rojo a Etham
-§19 §22 
+@19 @22 
 ## 14
-§-1 
+@-1 
 ### Dios ordena el cambio de dirección
-§4 
+@4 
 ### El faraón persigue a los israelitas y los alcanza
-§9 
+@9 
 ### Moisés anima a los israelitas desanimados; La intervención de Dios
-§12 \ §14 \ §19 §20 
+@12 \ @14 \ @19 @20 
 ### Paso de los israelitas por el Mar Rojo; Caída de los egipcios
-§23 §24 §25 \ §31 
+@23 @24 @25 \ @31 
 ## 15
-§-1 
+@-1 
 ### Canción de victoria de los israelitas en el Mar Rojo
-§1 §2 §3 §7 §14 §18 \ §19 
+@1 @2 @3 @7 @14 @18 \ @19 
 ### Participación de mujeres en la alabanza del Señor
-§20 §21 
+@20 @21 
 ### El agua amarga de Mara se volvió apetecible; la llegada a la encantadora Elim
-§26 \ 
+@26 \ 
 ## 16
-§-1 
+@-1 
 ### El murmullo del pueblo; la exaltación divina mediante la donación de codornices y maná
-§2 §3 \ §4 §5 \ §12 \ §13 §15 
+@2 @3 \ @4 @5 \ @12 \ @13 @15 
 ### Reglas sobre recolección de maná; Moisés explica un fenómeno milagroso que ocurrió
-§18 §19 §23 §30 \ §35 §36 
+@18 @19 @23 @30 \ @35 @36 
 ## 17
-§-1 
+@-1 
 ### La maravillosa donación de agua de la roca cerca de Massa y Meriba
-§2 \ §3 \ §4 \ §5 §6 §7 
+@2 \ @3 \ @4 \ @5 @6 @7 
 ### La victoria sobre los amalecitas en Refidim
-§9 §16 
+@9 @16 
 ## 18
-§-1 
+@-1 
 ### La visita de Jetro a Moisés en el monte de Dios; Nombramiento de jueces
-§1 §2 §3 §6 \ §12 
+@1 @2 @3 @6 \ @12 
 ### La reorganización del poder judicial
-§14 \ §18 §23 \ 
+@14 \ @18 @23 \ 
 ## 19
-§-1 
+@-1 
 ### Llegada del pueblo al Sinaí; Elaboración de legislación
-§5 §6 \ §8 \ §12 §13 \ §15 
+@5 @6 \ @8 \ @12 @13 \ @15 
 ### La aterradora aparición de Dios en el Sinaí
-§16 §19 §20 \ §22 \ §23 \ §24 \ 
+@16 @19 @20 \ @22 \ @23 \ @24 \ 
 ## 20
-§-1 
+@-1 
 ### La proclamación de los Diez Mandamientos
-§2 \ §3 \ §4 §5 §6 \ §7 \ §8 §11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §17 
+@2 \ @3 \ @4 @5 @6 \ @7 \ @8 @11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @17 
 ### El efecto de la aparición divina en la gente; Discurso tranquilizador de Moisés
-§19 \ §21 
+@19 \ @21 
 ### Orden provisional de culto
-§25 §26 
+@25 @26 
 ## 21
-§-1 
+@-1 
 ### Los derechos de los esclavos hebreos
-§1 \ §6 \ §7 §11 
+@1 \ @6 \ @7 @11 
 ### Disposiciones para la protección de la vida humana
-§12 §13 §14 \ §15 \ §16 \ §17 \ §19 \ §21 \ §25 \ §27 
+@12 @13 @14 \ @15 \ @16 \ @17 \ @19 \ @21 \ @25 \ @27 
 ### Indemnización por muerte o lesiones a una persona por animales
-§29 §32 
+@29 @32 
 ### Disposiciones para la protección de la propiedad
-§34 \ 
+@34 \ 
 ## 22
-§4 \ §5 \ §6 
+@4 \ @5 \ @6 
 ### Apropiación indebida, pérdida o daño de bienes que se le hayan confiado
-§9 \ §12 §13 \ §15 
+@9 \ @12 @13 \ @15 
 ### Varias normas relativas a Dios, la moral y la caridad
-§17 \ §18 \ §19 \ §20 \ §21 \ §24 \ §25 §27 \ §28 \ §29 \ §30 \ 
+@17 \ @18 \ @19 \ @20 \ @21 \ @24 \ @25 @27 \ @28 \ @29 \ @30 \ 
 ## 23
-§-1 
+@-1 
 ### Comportamiento veraz y honesto, especialmente en la corte
-§1 \ §3 \ §4 §5 \ §6 \ §7 \ §8 \ §9 
+@1 \ @3 \ @4 @5 \ @6 \ @7 \ @8 \ @9 
 ### Disposiciones para los años sabáticos, las fiestas y los sacrificios
-§10 §11 \ §12 \ §13 \ §15 §17 \ §18 \ §19 
+@10 @11 \ @12 \ @13 \ @15 @17 \ @18 \ @19 
 ### Advertencia final sobre la expulsión de los cananeos; Promesa de asistencia y bendiciones en caso de obediencia fiel
-§20 §21 §25 §31 §32 §33 
+@20 @21 @25 @31 @32 @33 
 ## 24
-§-1 
+@-1 
 ### Conclusión solemne del pacto; Redacción y lectura del libro federal; el sacrificio del pacto y la aspersión de sangre
-§1 §2 \ §3 \ §4 §5 §7 \ §8 
+@1 @2 \ @3 \ @4 @5 @7 \ @8 
 ### Los setenta ancianos de los israelitas en el Sinaí ante Dios
-§11 
+@11 
 ### Moisés permanece en el Sinaí durante cuarenta días
-§12 \ §14 \ §16 §17 §18 
+@12 \ @14 \ @16 @17 @18 
 ## 25
-§-1 
+@-1 
 ### Regulaciones sobre la construcción y equipamiento del tabernáculo
-§9 
+@9 
 ### Instrucciones para hacer los implementos sagrados
-§17 §22 \ §30 \ §40 
+@17 @22 \ @30 \ @40 
 ## 26
-§-1 
+@-1 
 ### Instrucciones para hacer el apartamento: Los cuatro techos
-§6 \ §14 
+@6 \ @14 
 ### El marco de madera, que consta de tablas y cinco barras
-§25 \ §30 
+@25 \ @30 
 ### Las dos cortinas y el interior del apartamento
-§31 §34 §35 \ 
+@31 @34 @35 \ 
 ## 27
-§-1 
+@-1 
 ### Instrucciones sobre el altar de los holocaustos, la explanada y la entrega de aceite para el candelero
-§8 \ §19 \ 
+@8 \ @19 \ 
 ## 28
-§-1 
+@-1 
 ### Instrucciones sobre la vestimenta sacerdotal de Aarón y sus hijos
-§1 §5 
+@1 @5 
 ### El vestido de hombro (ephod)
-§14 
+@14 
 ### El peto con accesorios
-§30 
+@30 
 ### La prenda superior para el vestido de hombros
-§35 
+@35 
 ### Frente, ropa interior, diadema y cinturón
-§39 
+@39 
 ### La ropa de los hijos de Aarón
-§41 §43 
+@41 @43 
 ## 29
-§-1 
+@-1 
 ### Instrucción para la ordenación de sacerdotes
-§6 §7 §9 \ §14 \ §18 \ §25 \ §27 §28 \ §30 \ §34 \ §35 
+@6 @7 @9 \ @14 \ @18 \ @25 \ @27 @28 \ @30 \ @34 \ @35 
 ### La santificación y unción del altar del holocausto
-§37 
+@37 
 ### La ofrenda diaria de quema, bebida y comida por la mañana y por la noche
-§39 §46 
+@39 @46 
 ## 30
-§-1 
+@-1 
 ### Regulaciones sobre el altar humeante
-§1 §7 §10 
+@1 @7 @10 
 ### Regulaciones relativas a la recaudación de un impuesto de capitación en el santuario en la reunión del pueblo
-§16 
+@16 
 ### Normativa sobre el fregadero de cobre para los sacerdotes
-§21 
+@21 
 ### Preparación y uso del aceite de la unción sagrada
-§25 §30 §33 
+@25 @30 @33 
 ### Preparación y uso del incienso sagrado
-§36 §38 
+@36 @38 
 ## 31
-§-1 
+@-1 
 ### Nombramiento de dos capataces y sus ayudantes
-§3 §11 
+@3 @11 
 ### Promulgación del mandamiento del sábado
-§13 §14 §17 
+@13 @14 @17 
 ### Moisés recibe las tablas de la ley
-§18 
+@18 
 ## 32
-§-1 
+@-1 
 ### Hacer y adorar la imagen dorada del toro
-§1 \ §2 \ §4 \ §5 \ §6 
+@1 \ @2 \ @4 \ @5 \ @6 
 ### Moisés, informado por Dios de la apostasía del pueblo, desciende del monte
-§8 \ §10 \ §13 \ §14 \ §16 \ §17 \ §18 
+@8 \ @10 \ @13 \ @14 \ @16 \ @17 \ @18 
 ### El celo de Moisés por Dios; castiga al pueblo a través de los levitas
-§20 \ §21 \ §24 \ §26 \ §29 
+@20 \ @21 \ @24 \ @26 \ @29 
 ### Intercesión de Moisés por el pueblo; El respiro de dios
-§30 \ §32 \ §34 §35 
+@30 \ @32 \ @34 @35 
 ## 33
-§-1 
+@-1 
 ### El mandato de Dios de ir a la tierra prometida; El dolor de la gente por el rechazo de Dios
-§2 §3 \ §4 \ §5 \ §6 
+@2 @3 \ @4 \ @5 \ @6 
 ### La fundación y uso de la tienda de revelación frente al campamento
-§7 §9 §11 
+@7 @9 @11 
 ### Nuevas negociaciones entre Moisés y Dios sobre la dirección divina adicional del pueblo
-§12 §13 \ §14 \ §16 \ §17 
+@12 @13 \ @14 \ @16 \ @17 
 ### Dios le promete a Moisés que verá su gloria como una muestra de gracia
-§18 \ §19 §20 §21 §22 §23 
+@18 \ @19 @20 @21 @22 @23 
 ## 34
-§-1 
+@-1 
 ### Por orden de Dios, Moisés sube al Sinaí con dos tablas de piedra en blanco
-§1 §3 \ §4 
+@1 @3 \ @4 
 ### La aparición de Dios y la intercesión de Moisés
-§5 §6 §7 \ §9 
+@5 @6 @7 \ @9 
 ### Dios consiente la renovación de la relación del pacto con advertencias serias
-§13 §14 \ §16 
+@13 @14 \ @16 
 ### Las nuevas regulaciones federales sobre el debido culto a Dios
-§17 \ §18 \ §20 \ §21 \ §24 \ §25 \ §26 
+@17 \ @18 \ @20 \ @21 \ @24 \ @25 \ @26 
 ### Moisés escribe los mandamientos del pacto; Dios renueva las tablas de la ley
-§27 \ §28 
+@27 \ @28 
 ### El descenso de Moisés; el brillo de la piel de su rostro
-§30 §35 
+@30 @35 
 ## 35
-§-1 
+@-1 
 ### Comunicación del mandamiento del sábado; Invitación a contribuir al tabernáculo
-§2 §3 \ §9 \ §11 §19 
+@2 @3 \ @9 \ @11 @19 
 ### La gente muestra su disposición
-§29 
+@29 
 ### Nombramiento de los capataces y demás artesanos; abundantes donaciones y servicios voluntarios por parte del pueblo
 ## 36
-§1 \ §5 \ §7 
+@1 \ @5 \ @7 
 ### La fabricación de las cuatro cubiertas de la tienda
-§8 §13 \ §19 
+@8 @13 \ @19 
 ### Fabricación del marco de madera
-§30 \ §31 §34 
+@30 \ @31 @34 
 ### Fabricación de las dos cortinas
 ## 37
-§-1 
+@-1 
 ### El cajón con la placa de cubierta
-§1 §9 
+@1 @9 
 ### La mesa para los panes de la proposición y las libaciones
-§16 
+@16 
 ### El candelero de oro
-§17 §24 
+@17 @24 
 ### El altar del incienso
-§29 
+@29 
 ## 38
-§-1 
+@-1 
 ### El altar de los holocaustos. La cuenca de cobre
-§1 §7 \ §8 
+@1 @7 \ @8 
 ### El atrio
-§9 §20 
+@9 @20 
 ### El cálculo del costo de los metales utilizados para el santuario
-§21 §22 §23 \ §24 §31 
+@21 @22 @23 \ @24 @31 
 ## 39
-§-1 
+@-1 
 ### Confección de la ropa sacerdotal
-§1 
+@1 
 ### El vestido de hombro (ephod)
-§5 \ §7 
+@5 \ @7 
 ### El adorno del pecho
-§21 
+@21 
 ### La prenda superior para el vestido de hombros
-§22 §26 
+@22 @26 
 ### La ropa oficial restante de los sacerdotes
-§29 
+@29 
 ### El rostro del sumo sacerdote
-§30 §31 
+@30 @31 
 ### Entrega de los artículos terminados a Moisés
 ## 40
-§-1 
+@-1 
 ### Establecimiento y dedicación del santuario
-§1 §5 \ §8 \ §11 \ §15 
+@1 @5 \ @8 \ @11 \ @15 
 ### La ejecución del mandato divino
-§16 \ §33 
+@16 \ @33 
 ### La gloria del Señor se apodera de la morada
 # Levítico
 ## 1
-§-1 
+@-1 
 ### Normas relativas a los holocaustos
-§2 
+@2 
 ### Holocaustos de ganado
-§4 §9 
+@4 @9 
 ### Holocaustos de rebaños
-§13 
+@13 
 ### Holocaustos de pájaros
 ## 2
-§-1 
+@-1 
 ### Normas relativas a la ofrenda de comida
-§3 \ §7 
+@3 \ @7 
 ### Información general sobre la preparación y oferta de las comidas
-§10 \ §11 §12 §13 
+@10 \ @11 @12 @13 
 ### Ofrenda de comida de las primicias de los cereales
-§14 §16 
+@14 @16 
 ## 3
-§-1 
+@-1 
 ### Ofrendas de salvación del ganado
-§5 
+@5 
 ### Ofrendas de salvación de rebaños
-§11 \ §16 \ §17 
+@11 \ @16 \ @17 
 ## 4
-§-1 
+@-1 
 ### Regulaciones relativas a las ofrendas por el pecado
-§2 
+@2 
 ### Sacrificio cuando el sumo sacerdote pecó
-§7 §12 
+@7 @12 
 ### Sacrificio por el pecado de toda la iglesia
-§13 §14 §21 
+@13 @14 @21 
 ### Sacrificio por el pecado del príncipe
-§26 
+@26 
 ### Sacrificio por el pecado de un israelita común
-§31 \ 
+@31 \ 
 ## 5
-§-1 
+@-1 
 ### Acerca de algunas ofrendas especiales por el pecado
-§1 \ §2 \ §3 \ §6 
+@1 \ @2 \ @3 \ @6 
 ### Reemplazo de la ofrenda por el pecado del pobre
-§10 \ §11 §13 
+@10 \ @11 @13 
 ### Regulaciones sobre las ofrendas por la culpa, en el caso de apropiación indebida de impuestos sagrados
-§16 
+@16 
 ### Con endeudamiento inconsciente
-§19 
+@19 
 ## 6
-§-1 
+@-1 
 ### Cuando se daña la propiedad de otra persona
-§3 §4 §7 
+@3 @4 @7 
 ### Reglamento para los sacerdotes sobre el holocausto diario
-§13 
+@13 
 ### Reglamento para los sacerdotes sobre la ofrenda de alimentos
-§18 
+@18 
 ### Normas relativas a la ofrenda de comida del sumo sacerdote
-§23 
+@23 
 ### Regulaciones especialmente para los sacerdotes con respecto a la ofrenda por el pecado
 ## 7
-§-1 
+@-1 
 ### Regulaciones sobre el sacrificio de culpa
-§1 §2 §4 §6 \ §7 
+@1 @2 @4 @6 \ @7 
 ### Participación del sacerdote en holocaustos privados y ofrendas privadas de comida
-§9 §10 
+@9 @10 
 ### Regulaciones para diferentes tipos de ofrendas de salvación
-§12 §15 \ §18 \ §21 
+@12 @15 \ @18 \ @21 
 ### Prohibición del consumo de grasas y sangre
-§23 §24 §26 §27 
+@23 @24 @26 @27 
 ### Disposiciones sobre la participación de los sacerdotes en los sacrificios de salvación
-§32 §34 \ 
+@32 @34 \ 
 ## 8
-§-1 
+@-1 
 ### Consagración de Aarón y sus cuatro hijos
-§1 §3 \ §5 
+@1 @3 \ @5 
 ### Lavado, vestido y unción de los sacerdotes
-§9 §10 §13 
+@9 @10 @13 
 ### La ofrenda sacerdotal por el pecado
-§14 §17 
+@14 @17 
 ### El holocausto
-§21 
+@21 
 ### Ofrenda de iniciación y aspersión
-§22 §30 
+@22 @30 
 ### Regulaciones relativas a la comida de sacrificio y la segregación de siete días
 ## 9
-§-1 
+@-1 
 ### Los preparativos para el sacrificio de Aarón y sus hijos
-§4 \ §7 
+@4 \ @7 
 ### La ofrenda por el pecado y el holocausto del sumo sacerdote
-§12 §14 
+@12 @14 
 ### Los cuatro sacrificios por el pueblo
-§21 
+@21 
 ### Doble bendición del pueblo; Aparición de la gloria del Señor; el fuego de Dios consume los sacrificios de Aarón
-§22 §23 §24 
+@22 @23 @24 
 ## 10
-§-1 
+@-1 
 ### El pecado y la muerte de Nadab y Abiú
-§2 \ §3 \ §4 §5 
+@2 \ @3 \ @4 @5 
 ### Reglas para los sacerdotes sobre la práctica del duelo
-§6 §7 
+@6 @7 
 ### Prohibición del consumo de vino a los sacerdotes durante su labor oficial
-§11 
+@11 
 ### Sobre consumir la porción de ofrendas de comida y ofrendas de paz del sacerdote
-§13 §14 §15 
+@13 @14 @15 
 ### Sobre el disfrute de la carne del macho cabrío por el pecado ofrecido por el pueblo
-§18 \ §19 \ 
+@18 \ @19 \ 
 ## 11
-§-1 
+@-1 
 ### Ordenanzas sobre animales limpios e inmundos
-§3 \ §8 \ §12 \ §19 \ §23 
+@3 \ @8 \ @12 \ @19 \ @23 
 ### Disposiciones sobre la contaminación por tocar los cadáveres de animales inmundos y limpios
-§24 §25 \ §28 \ §38 \ §40 
+@24 @25 \ @28 \ @38 \ @40 
 ### Adición sobre el consumo de reptiles
-§42 
+@42 
 ### Advertencias finales
-§44 §45 \ 
+@44 @45 \ 
 ## 12
-§-1 
+@-1 
 ### Normativa sobre mujeres que han dado a luz recientemente
-§2 §3 §5 \ §6 §7 \ 
+@2 @3 @5 \ @6 @7 \ 
 ## 13
-§-1 
+@-1 
 ### Erupción y manchas en personas sobre la piel desnuda
-§1 §8 
+@1 @8 
 ### Lepra obsoleta
-§11 \ §17 
+@11 \ @17 
 ### Lepra después de úlcera previa
-§23 
+@23 
 ### Lepra en una quemadura
-§28 
+@28 
 ### Llaga en la cabeza y en la barba
-§37 
+@37 
 ### Erupción segura; Lepra de los calvos
-§39 \ §44 
+@39 \ @44 
 ### Regulaciones generales para leprosos
-§46 
+@46 
 ### Lepra en cosas y cuero
-§52 \ §58 \ 
+@52 \ @58 \ 
 ## 14
-§-1 
+@-1 
 ### La purificación de los leprosos
-§1 \ §7 \ §8 §9 
+@1 \ @7 \ @8 @9 
 ### Los sacrificios y costumbres del octavo día
-§11 \ §13 §14 §16 §18 \ §20 
+@11 \ @13 @14 @16 @18 \ @20 
 ### Reemplazo de la ofrenda por el pecado y el holocausto por los pobres
-§22 \ §31 \ §32 
+@22 \ @31 \ @32 
 ### Normas relativas a la lepra en las casas
-§35 §42 \ §45 \ §46 §47 \ §53 
+@35 @42 \ @45 \ @46 @47 \ @53 
 ### Graduación
 ## 15
-§-1 
+@-1 
 ### Inmundicia de los hombres
-§3 \ §6 \ §7 \ §8 \ §10 \ §11 \ §12 \ §13 \ §15 \ §16 §18 
+@3 \ @6 \ @7 \ @8 \ @10 \ @11 \ @12 \ @13 \ @15 \ @16 @18 
 ### Condiciones impuras en las mujeres
-§19 \ §23 \ §24 \ §27 \ §29 §30 
+@19 \ @23 \ @24 \ @27 \ @29 @30 
 ### Palabras de cierre
-§31 \ 
+@31 \ 
 ## 16
-§-1 
+@-1 
 ### El gran día anual de expiación; Los preparativos
-§2 \ §3 §4 §5 
+@2 \ @3 @4 @5 
 ### Las costumbres de la expiación
-§8 §10 
+@8 @10 
 ### Purificando el sacerdocio
-§14 
+@14 
 ### Purificación del santuario y altar del holocausto
-§16 §17 \ §19 
+@16 @17 \ @19 
 ### Purificación de la comunidad: envío de la cabra a Asazel
-§22 
+@22 
 ### Las ofrendas finales, especialmente la ofrenda del macho cabrío por el pecado
-§25 \ §27 §28 
+@25 \ @27 @28 
 ### Determinación del día y disposiciones sobre la celebración externa del festival
-§33 \ 
+@33 \ 
 ## 17
-§-1 
+@-1 
 ### Normativa sobre sacrificio de animales domésticos, consumo de sangre, etc.
-§2 
+@2 
 ### Unidad del matadero de animales de sacrificio
-§4 §7 
+@4 @7 
 ### Unidad del lugar del sacrificio en el tabernaculo del testimonio
-§9 
+@9 
 ### Prohibición de cualquier consumo de sangre
-§10 §11 §12 
+@10 @11 @12 
 ### Tratamiento de la sangre de caza y la carne de animales caídos o desgarrados
-§14 \ §15 §16 
+@14 \ @15 @16 
 ## 18
-§-1 
+@-1 
 ### Leyes de castidad y matrimonio
-§5 
+@5 
 ### Prohibición del incesto; Lista de matrimonios prohibidos
-§6 \ §7 \ §8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §17 \ §18 
+@6 \ @7 \ @8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @17 \ @18 
 ### Advertencia de fornicar pecados
-§19 \ §20 \ §21 \ §22 \ §23 \ §28 \ 
+@19 \ @20 \ @21 \ @22 \ @23 \ @28 \ 
 ## 19
-§-1 
+@-1 
 ### Todo tipo de reglamentos basados ​​en los Diez Mandamientos
-§2 \ §3 \ §4 \ §5 §6 §8 \ §9 §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §17 \ §18 
+@2 \ @3 \ @4 \ @5 @6 @8 \ @9 @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @17 \ @18 
 ### Varias regulaciones religiosas y morales, prohibiciones de costumbres paganas
-§19 \ §22 \ §25 \ §26 \ §27 \ §28 \ §29 \ §30 \ §31 
+@19 \ @22 \ @25 \ @26 \ @27 \ @28 \ @29 \ @30 \ @31 
 ### Varios deberes hacia el vecino
-§32 \ §34 \ §35 §36 \ 
+@32 \ @34 \ @35 @36 \ 
 ## 20
-§-1 
+@-1 
 ### Disposiciones penales especialmente para las delitos prohibidos
-§5 \ §6 
+@5 \ @6 
 ### Amonestación para santificar; Castigos por diversos pecados y delitos
-§7 §8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §17 \ §18 \ §20 \ §21 
+@7 @8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @17 \ @18 \ @20 \ @21 
 ### Exhortación a ser santos para Israel como pueblo apartado para Dios
-§24 \ §26 \ §27 
+@24 \ @26 \ @27 
 ## 21
-§-1 
+@-1 
 ### Ordenanzas sobre contaminación por muerte, costumbres de duelo y obstáculos al matrimonio
-§1 §4 \ §5 §6 \ §8 \ §9 \ §12 \ §15 
+@1 @4 \ @5 @6 \ @8 \ @9 \ @12 \ @15 
 ### Los defectos físicos excluyendo el sacerdocio
-§23 \ 
+@23 \ 
 ## 22
-§-1 
+@-1 
 ### Comportamiento hacia los dones sagrados
-§2 \ §3 \ §4 §8 \ §9 \ §13 \ §16 
+@2 \ @3 \ @4 @8 \ @9 \ @13 \ @16 
 ### Impecabilidad de los animales sacrificados
-§25 
+@25 
 ### Tres reglas de sacrificio más
-§27 §28 \ §30 \ 
+@27 @28 \ @30 \ 
 ## 23
-§-1 
+@-1 
 ### Leyes para la celebración del sábado y las fiestas del año
-§2 
+@2 
 ### El sábado
-§3 
+@3 
 ### La Pascua y la solemnidad de los ázimos
-§4 §5 §8 
+@4 @5 @8 
 ### Ofreciendo de los primeros frutos
-§14 
+@14 
 ### La fiesta de Pentecostés
-§15 §21 \ §22 
+@15 @21 \ @22 
 ### La celebracion del año nuevo
-§24 §25 
+@24 @25 
 ### El gran día de la expiación
-§32 
+@32 
 ### La fiesta de los tabernáculos
-§34 §36 
+@34 @36 
 ### Finalización del calendario de festivales
-§38 
+@38 
 ### Disposiciones posteriores sobre la fiesta de los tabernáculos
-§40 §43 \ 
+@40 @43 \ 
 ## 24
-§-1 
+@-1 
 ### Reglamento sobre la preparación del candelero santo y el pan de la proposición
-§4 \ §6 §9 
+@4 \ @6 @9 
 ### Castigo por blasfemia, homicidio y lesiones corporales;
-§12 §16 \ §17 §22 \ §23 
+@12 @16 \ @17 @22 \ @23 
 ## 25
-§-1 
+@-1 
 ### El año sabático
-§3 §7 
+@3 @7 
 ### El año de jubileo
-§10 §12 \ §13 \ §17 \ §18 §22 \ §23 §24 
+@10 @12 \ @13 \ @17 \ @18 @22 \ @23 @24 
 ### Redención o recaída de la propiedad de la tierra y la vivienda
-§28 \ §31 \ §32 §34 
+@28 \ @31 \ @32 @34 
 ### Mandamiento de ayudar a los israelitas empobrecidos; Compra de esclavos hebreos o su liberación en el año de jubileo
-§38 \ §39 §43 \ §46 \ §53 §55 
+@38 \ @39 @43 \ @46 \ @53 @55 
 ## 26
-§-1 
+@-1 
 ### Bendiciones y maldiciones dadas por Dios como opción
-§1 \ §2 
+@1 \ @2 
 ### Promesas de bendiciones en caso de obediencia
-§5 \ §6 §8 \ §13 
+@5 \ @6 @8 \ @13 
 ### Enfermedades mortales y derrotas vergonzosas
-§17 
+@17 
 ### Sequía y mal crecimiento
-§19 §20 
+@19 @20 
 ### Animales salvajes
-§22 
+@22 
 ### Angustia de guerra combinada con peste y hambre
-§24 §25 §26 
+@24 @25 @26 
 ### El sufrimiento del pueblo durante el exilio en los países de sus enemigos
-§29 §35 \ §39 
+@29 @35 \ @39 
 ### Perspectiva sobre el arrepentimiento y la conversión de Israel en el exilio
-§40 §41 §42 §43 §45 \ 
+@40 @41 @42 @43 @45 \ 
 ## 27
-§-1 
+@-1 
 ### Votos y su solución
-§8 \ §13 \ §15 \ §21 \ §24 §25 
+@8 \ @13 \ @15 \ @21 \ @24 @25 
 ### Disposiciones relativas a los primogénitos
-§27 
+@27 
 ### Consagraciones en forma de prohibición
-§28 \ §29 
+@28 \ @29 
 ### Disposiciones relativas a los diezmos de frutas y ganado
-§30 §33 \ 
+@30 @33 \ 
 # Números
 ## 1
-§-1 
+@-1 
 ### Primer recuento de los hombres de guerra
-§2 §5 \ §6 \ §7 \ §8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §19 
+@2 @5 \ @6 \ @7 \ @8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @19 
 ### Los resultados del censo
-§21 \ §23 \ §25 \ §27 \ §29 \ §31 \ §33 \ §35 \ §37 \ §39 \ §41 \ §43 \ §46 
+@21 \ @23 \ @25 \ @27 \ @29 \ @31 \ @33 \ @35 \ @37 \ @39 \ @41 \ @43 \ @46 
 ### La posición excepcional de los levitas
-§49 §50 §51 §53 \ 
+@49 @50 @51 @53 \ 
 ## 2
-§-1 
+@-1 
 ### El orden de acampamiento de las tribus
-§2 \ §4 \ §6 \ §8 \ §9 \ §11 \ §13 \ §15 \ §16 \ §17 \ §19 \ §21 \ §23 \ §24 \ §26 \ §28 \ §30 \ §31 \ §32 §33 \ §34 
+@2 \ @4 \ @6 \ @8 \ @9 \ @11 \ @13 \ @15 \ @16 \ @17 \ @19 \ @21 \ @23 \ @24 \ @26 \ @28 \ @30 \ @31 \ @32 @33 \ @34 
 ## 3
-§-1 
+@-1 
 ### Los hijos de Aaron
-§1 §2 \ §4 
+@1 @2 \ @4 
 ### Los levitas fueron designados para ayudar a los sacerdotes y servir en el santuario
-§8 §10 
+@8 @10 
 ### Los levitas fueran designados para redimir al primogénito israelita
-§12 §13 
+@12 @13 
 ### Conteo, lugar de almacenamiento, líder y reglamentos de los levitas masculinos
-§15 \ §16 \ §17 \ §18 \ §19 \ §20 \ §21 \ §22 \ §23 \ §26 \ §28 \ §30 §31 §32 \ §34 \ §37 \ §38 §39 
+@15 \ @16 \ @17 \ @18 \ @19 \ @20 \ @21 \ @22 \ @23 \ @26 \ @28 \ @30 @31 @32 \ @34 \ @37 \ @38 @39 
 ### Examen y resolución del primogénito masculino en Israel
-§41 \ §43 \ §46 §48 \ 
+@41 \ @43 \ @46 @48 \ 
 ## 4
-§-1 
+@-1 
 ### Examen de los levitas aptos para el servicio, incluidas las normas de servicio
-§3 \ §6 \ §8 \ §9 §10 \ §11 \ §12 \ §14 \ §15 \ §16 \ §20 \ §23 \ §28 \ §33 
+@3 \ @6 \ @8 \ @9 @10 \ @11 \ @12 \ @14 \ @15 \ @16 \ @20 \ @23 \ @28 \ @33 
 ### Resultados de la inspección
-§37 \ §41 \ §45 \ 
+@37 \ @41 \ @45 \ 
 ## 5
-§-1 
+@-1 
 ### Extracción de los inmundos del campamento
-§3 \ §4 
+@3 \ @4 
 ### Malversación y su expiación
-§9 §10 
+@9 @10 
 ### Sacrificio de celo y agua de maldición de una mujer sospechosa de adulterio
-§22 \ §28 \ 
+@22 \ @28 \ 
 ## 6
-§-1 
+@-1 
 ### Normas relativas a los nazareos
-§2 §3 §4 \ §5 \ §8 
+@2 @3 @4 \ @5 \ @8 
 ### Regulaciones relativas a la contaminación del nazareo
-§9 §10 §12 
+@9 @10 @12 
 ### Ordenanzas sobre la ceremonia del sacrificio al final del nazareo
-§18 §20 \ §21 
+@18 @20 \ @21 
 ### Orden de la bendición sacerdotal
-§23 §24 §25 §26 \ 
+@23 @24 @25 @26 \ 
 ## 7
-§-1 
+@-1 
 ### Los dones de consagración de los jefes tribales para el santuario
-§1 §5 \ §9 \ §10 \ §11 \ §13 \ §14 \ §15 \ §16 \ §17 \ §19 \ §20 \ §21 \ §22 \ §23 \ §25 \ §26 \ §27 \ §28 \ §29 \ §31 \ §32 \ §33 \ §34 \ §35 \ §37 \ §38 \ §39 \ §40 \ §41 \ §43 \ §44 \ §45 \ §46 \ §47 \ §49 \ §50 \ §51 \ §52 \ §53 \ §55 \ §56 \ §57 \ §58 \ §59 \ §61 \ §62 \ §63 \ §64 \ §65 \ §67 \ §68 \ §69 \ §70 \ §71 \ §73 \ §74 \ §75 \ §76 \ §77 \ §79 \ §80 \ §81 \ §82 \ §83 \ §88 \ §89 
+@1 @5 \ @9 \ @10 \ @11 \ @13 \ @14 \ @15 \ @16 \ @17 \ @19 \ @20 \ @21 \ @22 \ @23 \ @25 \ @26 \ @27 \ @28 \ @29 \ @31 \ @32 \ @33 \ @34 \ @35 \ @37 \ @38 \ @39 \ @40 \ @41 \ @43 \ @44 \ @45 \ @46 \ @47 \ @49 \ @50 \ @51 \ @52 \ @53 \ @55 \ @56 \ @57 \ @58 \ @59 \ @61 \ @62 \ @63 \ @64 \ @65 \ @67 \ @68 \ @69 \ @70 \ @71 \ @73 \ @74 \ @75 \ @76 \ @77 \ @79 \ @80 \ @81 \ @82 \ @83 \ @88 \ @89 
 ## 8
-§-1 
+@-1 
 ### Las siete lámparas del candelero
-§2 \ §4 
+@2 \ @4 
 ### La consagración de los levitas como un regalo santo a Dios
-§6 §7 §11 \ §14 \ §16 §17 §19 \ §22 
+@6 @7 @11 \ @14 \ @16 @17 @19 \ @22 
 ### El tiempo del deber de los levitas
-§24 §26 
+@24 @26 
 ## 9
-§-1 
+@-1 
 ### La celebración posterior a la Pascua para los inmundos y los viajeros; la pascua de los extraños
-§3 \ §6 §7 \ §8 \ §13 \ §14 
+@3 \ @6 @7 \ @8 \ @13 \ @14 
 ### La aparición de la columna de nubes y fuego sobre el santuario
 ## 10
-§-1 
+@-1 
 ### Ordenanza sobre dos trompetas de plata
-§2 §7 \ §9 \ §10 
+@2 @7 \ @9 \ @10 
 ### Salida del Sinaí hacia el desierto de Paran
-§12 
+@12 
 ### Descripción del pedido de tren
-§13 §20 \ §21 \ §24 \ §28 
+@13 @20 \ @21 \ @24 \ @28 
 ### Moisés intenta ganarse a su cuñado Hobab como guía para el viaje hacia adelante
-§29 \ §30 \ §32 
+@29 \ @30 \ @32 
 ### La partida del monte de Dios bajo la guía del arca
-§34 §35 §36 
+@34 @35 @36 
 ## 11
-§-1 
+@-1 
 ### El murmullo de la gente y la fogata en Thabera
-§1 §3 
+@1 @3 
 ### La gente se queja de la comida
-§7 §9 
+@7 @9 
 ### El lamento de Moisés ante Dios
-§15 
+@15 
 ### Ordenanza de Dios (nombramiento de setenta asistentes de Moisés) La promesa de Dios de donación de carne; la respuesta incrédula de Moisés
-§16 §17 \ §20 \ §22 \ §23 
+@16 @17 \ @20 \ @22 \ @23 
 ### El entusiasmo profético de los setenta ancianos
-§27 \ §28 \ §29 \ §30 
+@27 \ @28 \ @29 \ @30 
 ### Alimentación de codornices; Juicio de Dios; las tumbas del placer
-§31 §34 \ 
+@31 @34 \ 
 ## 12
-§-1 
+@-1 
 ### La rebelión de Miriam y Aarón contra Moisés
-§1 §3 
+@1 @3 
 ### Dios está defendiendo a Moisés; El castigo de miriam
-§4 \ §7 §8 §9 \ §10 
+@4 \ @7 @8 @9 \ @10 
 ### La intercesión de Aarón y Moisés; La respuesta de Dios; La curación de Miriam; Llegada al desierto de Paran
-§12 \ §13 \ §14 \ 
+@12 \ @13 \ @14 \ 
 ## 13
-§-1 
+@-1 
 ### Envío de los doce exploradores
-§2 \ §8 §17 
+@2 \ @8 @17 
 ### La instrucción de Moisés a los espías
-§21 
+@21 
 ### Explorando la tierra
-§25 
+@25 
 ### Regreso e informe de los emisarios
-§27 §29 \ §30 
+@27 @29 \ @30 
 ### Las palabras tranquilizadoras de Caleb y las palabras desalentadoras de los otros exploradores
-§33 
+@33 
 ## 14
-§-1 
+@-1 
 ### El efecto del informe en la gente
-§3 §4 \ §5 
+@3 @4 \ @5 
 ### El intento fallido de apaciguamiento de Joshua y Caleb
-§6 §9 
+@6 @9 
 ### Ira de Dios; la exitosa intercesión de Moisés; el juicio divino
-§10 \ §12 \ §16 §19 \ §21 §24 §25 
+@10 \ @12 \ @16 @19 \ @21 @24 @25 
 ### El castigo de Dios para las personas y los espías se especifica con más detalle
-§35 
+@35 
 ### Muerte repentina de los espías excepto Josué y Caleb
-§36 §38 
+@36 @38 
 ### Arrepentimiento del pueblo; el intento fallido de penetrar en el país enemigo
-§40 \ §43 \ 
+@40 \ @43 \ 
 ## 15
-§-1 
+@-1 
 ### Regulaciones con respecto a las ofrendas de comida y bebida como adición a los holocaustos y las ofrendas de salvación
-§3 §5 \ §12 \ §15 §16 
+@3 @5 \ @12 \ @15 @16 
 ### Disposición sobre los primeros pasteles
-§21 
+@21 
 ### Reglas con respecto a las ofrendas por el pecado por obrar mal involuntariamente; Impunidad por transgresiones intencionales
-§22 §26 \ §29 \ §30 §31 
+@22 @26 \ @29 \ @30 @31 
 ### Informe de la lapidación de un abusador del sábado
-§34 \ §36 
+@34 \ @36 
 ### Ordenanza sobre las borlas para adherir a las puntas de la ropa
-§38 §41 
+@38 @41 
 ## 16
-§-1 
+@-1 
 ### El ultraje de Coré y los rubenitas
-§2 §3 
+@2 @3 
 ### Moisés confronta al grupo de Coré y anuncia un juicio divino en el santuario
-§5 §7 \ §11 
+@5 @7 \ @11 
 ### Datán y Abiram se burlan de la invitación de Moisés; Moisés oración a Dios
-§14 \ §15 
+@14 \ @15 
 ### Moisés convoca a Coré y sus compañeros para realizar el sacrificio; La aparición de la gloria de Dios; Intercesión de Moisés
-§17 \ §19 \ §21 \ §22 \ §24 
+@17 \ @19 \ @21 \ @22 \ @24 
 ### Moisés con Datán y Abiram; el juicio divino sobre ellos y sobre los 250 compañeros de Coré
-§26 \ §27 \ §30 \ §35 
+@26 \ @27 \ @30 \ @35 
 ### El uso de las 250 ollas humeantes por parte de Coré y sus compañeros como cubierta para el altar de sacrificios
-§38 \ §40 
+@38 \ @40 
 ### Castigo a la comunidad quejándose por la desaparición de los alborotadores; la expiación hecha por Moisés y Aarón
-§41 \ §45 \ §46 \ 
+@41 \ @45 \ @46 \ 
 ## 17
-§-1 
+@-1 
 ### Prueba del derecho sacerdotal de Aarón por los maravillosos peldaños de su cayado
-§5 \ §7 \ §9 \ §11 \ 
+@5 \ @7 \ @9 \ @11 \ 
 ## 18
-§-1 
+@-1 
 ### Ordenanzas generales sobre los deberes de los sacerdotes y sus ayudantes, los levitas
-§1 §2 §4 \ §6 §7 
+@1 @2 @4 \ @6 @7 
 ### Los ingresos de los sacerdotes
-§8 §10 \ §11 \ §13 \ §14 §15 §16 \ §19 
+@8 @10 \ @11 \ @13 \ @14 @15 @16 \ @19 
 ### Asignación del diezmo a los levitas por la negación de la tierra
-§20 \ §21 §24 
+@20 \ @21 @24 
 ### El diezmo de los ingresos de los levitas a los sacerdotes
-§29 \ 
+@29 \ 
 ## 19
-§-1 
+@-1 
 ### Preparación y uso del agua de limpieza
-§2 §6 §7 §8 \ §10 \ §13 
+@2 @6 @7 @8 \ @10 \ @13 
 ### Instrucciones sobre casos específicos de contaminación y su tratamiento
-§15 \ §16 \ §21 \ 
+@15 \ @16 \ @21 \ 
 ## 20
-§-1 
+@-1 
 ### Llegada a Kade y muerte de Miriam; reonovada queja del pueblo; la fatídicia doncación de agua de la roca para Moisés y Aarón
-§2 §5 \ §8 \ §10 §11 \ §12 \ §13 
+@2 @5 \ @8 \ @10 @11 \ @12 \ @13 
 ### Los edomitas se niegan a permitir el paso; La muerte de Aaron
-§14 \ §16 \ §17 \ §18 \ §19 \ §21 
+@14 \ @16 \ @17 \ @18 \ @19 \ @21 
 ### El tren de Kades al monte Hor; La muerte de Aaron
-§26 \ 
+@26 \ 
 ## 21
-§-1 
+@-1 
 ### Batalla victoriosa con el Rey de Arad
-§2 §3 
+@2 @3 
 ### Murmullos de la gente; las serpientes venenosas y la serpiente de bronce
-§5 \ §6 §7 \ §9 
+@5 \ @6 @7 \ @9 
 ### El tren al Arnón ya las estepas de los moabitas; la canción de la fuente
-§15 \ §16 \ §18 \ §20 
+@15 \ @16 \ @18 \ @20 
 ### Derrota del rey amorreo Sehón y conquista de su país; Canción de triunfo de los israelitas
-§21 §22 \ §30 
+@21 @22 \ @30 
 ### Mayor avance de los israelitas; Derrota del rey Og de Basan
-§33 \ §34 \ 
+@33 \ @34 \ 
 ## 22
-§-1 
+@-1 
 ### Der Moabiterkönig Balak beschließt, Gesandte an Bileam zu schicken
-§4 \ §6 
+@4 \ @6 
 ### La primera embajada de Balac a Balaam sin éxito; su mensaje repetido
-§7 \ §8 \ §9 \ §11 \ §12 \ §13 \ §14 \ §17 \ §19 \ §20 \ §21 
+@7 \ @8 \ @9 \ @11 \ @12 \ @13 \ @14 \ @17 \ @19 \ @20 \ @21 
 ### El viaje de Balaam a Moab y el incidente con el burro
-§23 §25 \ §27 \ §28 \ §29 \ §30 \ §33 \ §34 \ §35 
+@23 @25 \ @27 \ @28 \ @29 \ @30 \ @33 \ @34 \ @35 
 ### La llegada de Balaam a Balac
-§37 \ §38 \ §41 
+@37 \ @38 \ @41 
 ## 23
-§-1 
+@-1 
 ### Los preparativos para la revelación divina; el primer dicho de Balaam
-§1 \ §3 \ §4 \ §5 \ §6 
+@1 \ @3 \ @4 \ @5 \ @6 
 ### Balaam bendice a Israel desde Bamot-Baal
-§10 \ §11 \ §12 
+@10 \ @11 \ @12 
 ### Los preparativos para la nueva revelación divina; el segundo dicho de Balaam
-§13 \ §15 \ §16 \ §17 
+@13 \ @15 \ @16 \ @17 
 ### Balaam bendice a Israel desde el monte Pisga
-§24 \ §25 \ §26 
+@24 \ @25 \ @26 
 ### Los preparativos para la tercera revelación divina; el tercer dicho de Balaam
-§27 \ §28 §29 \ 
+@27 \ @28 @29 \ 
 ## 24
-§-1 
+@-1 
 ### Balaam bendice a Israel desde el monte Peor
-§3 §4 §9 
+@3 @4 @9 
 ### La ira de Balac y la disculpa de Balaam
-§11 \ §14 
+@11 \ @14 
 ### Cuarto dicho de Balaam: la estrella de Jacob; cuya victoria sobre Moab y Edom
-§15 §18 §19 
+@15 @18 @19 
 ### Proverbios sobre los amalecitas, ceneos y asirios; Fin de la historia de Balaam
-§20 \ §21 §22 \ §24 \ 
+@20 \ @21 @22 \ @24 \ 
 ## 25
-§-1 
+@-1 
 ### La deuda de Israel a través de la fornicación y la idolatría
-§3 §4 \ §5 
+@3 @4 \ @5 
 ### La intervención de Phinehas; su enajenación de Dios con un sacerdocio eterno
-§9 \ §13 \ §15 
+@9 \ @13 \ @15 
 ### Gottes Gebot, an den Midianitern Rache zu nehmen
-§17 §18 
+@17 @18 
 ## 26
-§-1 
+@-1 
 ### El segundo censo de la gente en la llanura de los moabitas con el propósito de distribuir la tierra
-§4 
+@4 
 ### Los resultados del censo
-§5 §11 \ §14 \ §18 \ §19 §22 \ §25 \ §27 \ §29 §34 \ §37 \ §41 \ §43 \ §47 \ §50 \ §51 
+@5 @11 \ @14 \ @18 \ @19 @22 \ @25 \ @27 \ @29 @34 \ @37 \ @41 \ @43 \ @47 \ @50 \ @51 
 ### Instrucción sobre distribución de tierras
-§55 §56 
+@55 @56 
 ### El conteo de los levitas
-§61 §62 \ §65 
+@61 @62 \ @65 
 ## 27
-§-1 
+@-1 
 ### Disposiciones relativas a la propiedad de los herederos
-§1 §3 §4 \ §11 
+@1 @3 @4 \ @11 
 ### Anuncio de muerte inminente a Moisés; Instalación de Joshua como su sucesor
-§12 §13 §14 \ §17 \ §18 §20 §21 \ 
+@12 @13 @14 \ @17 \ @18 @20 @21 \ 
 ## 28
-§-1 
+@-1 
 ### Normativa sobre los sacrificios comunitarios diarios y diarios
-§2 
+@2 
 ### El holocausto diario de la mañana y de la tarde
-§3 §5 §8 
+@3 @5 @8 
 ### La ofrenda adicional del sábado
-§10 
+@10 
 ### El sacrificio adicional en el día de luna nueva
-§11 §12 §15 
+@11 @12 @15 
 ### Las ofrendas adicionales para los siete días de la Fiesta de los Panes sin Levadura
-§16 §18 §22 §25 
+@16 @18 @22 @25 
 ### Los sacrificios adicionales en la fiesta de las primicias
-§30 §31 
+@30 @31 
 ## 29
-§-1 
+@-1 
 ### Los sacrificios adicionales el día de Año Nuevo
-§6 
+@6 
 ### Los sacrificios adicionales en el gran día de la expiación
-§7 §11 
+@7 @11 
 ### Las ofrendas adicionales para los siete días de la Fiesta de los Tabernáculos
-§12 §16 \ §19 \ §22 \ §25 \ §28 \ §31 \ §34 \ §38 
+@12 @16 \ @19 \ @22 \ @25 \ @28 \ @31 \ @34 \ @38 
 ### Sentencia final de las leyes de víctimas
 ## 30
-§1 
+@1 
 ### Reglamento sobre la vinculación o nulidad de los votos
-§2 \ §5 \ §8 \ §9 \ §13 
+@2 \ @5 \ @8 \ @9 \ @13 
 ### Promulgación renovada de los derechos del marido
-§15 \ 
+@15 \ 
 ## 31
-§-1 
+@-1 
 ### Guerra de venganza de los israelitas contra los madianitas
-§2 \ §7 §8 §12 
+@2 \ @7 @8 @12 
 ### Ordenanza sobre la matanza de todos los niños varones, sobre el trato de las reclusas y los niños y sobre la limpieza que se debe realizar antes del regreso
-§16 §17 §18 \ §19 §20 \ §24 
+@16 @17 @18 \ @19 @20 \ @24 
 ### Distribución de presas vivas (humanos y ganado); Regalo de Navidad de los líderes
-§30 \ §31 \ §47 \ §50 \ 
+@30 \ @31 \ @47 \ @50 \ 
 ## 32
-§-1 
+@-1 
 ### La petición de los rubenitas y gaditas fue rechazada por Moisés en un discurso punitivo
-§5 \ §8 §13 \ §15 
+@5 \ @8 @13 \ @15 
 ### La respuesta de los rubenitas y gaditas
-§19 
+@19 
 ### La promesa de Moisés, declarando las condiciones; Otorgando el País al este del Jordán a las tribus suplicantes
-§20 §22 \ §24 \ §27 \ §30 \ §32 \ §33 
+@20 @22 \ @24 \ @27 \ @30 \ @32 \ @33 
 ### Resumen de las ciudades reconstruidas por los gaditas y los rubenitas
-§38 
+@38 
 ### Los descendientes de Manasés se establecieron en la Ribera Oriental
 ## 33
-§-1 
+@-1 
 ### Lista de los campamentos en los que pasaron los israelitas durante los cuarenta años del desierto
-§3 §4 §5 §6 §7 §8 §9 §14 §15 §16 §17 §18 §33 §37 §43 §44 §47 §48 §49 
+@3 @4 @5 @6 @7 @8 @9 @14 @15 @16 @17 @18 @33 @37 @43 @44 @47 @48 @49 
 ### Ordenanzas provisionales de Dios con respecto a la conquista y distribución de Cisjordania de Canaán
-§54 \ §55 §56 
+@54 \ @55 @56 
 ## 34
-§-1 
+@-1 
 ### Establecer los límites de la tierra de Canaán que se tomarán
-§3 §5 \ §6 \ §9 \ §12 \ §14 §15 
+@3 @5 \ @6 \ @9 \ @12 \ @14 @15 
 ### Lista de hombres que se encargarán de la distribución de la tierra
-§19 §29 
+@19 @29 
 ## 35
-§-1 
+@-1 
 ### Regulaciones relativas a las ciudades levitas y las seis ciudades libres designadas para asesinos
-§3 \ §5 \ §6 §15 
+@3 \ @5 \ @6 @15 
 ### El castigo del asesino
-§21 \ §25 \ §28 \ §29 \ §30 \ §31 \ §32 \ §33 §34 
+@21 \ @25 \ @28 \ @29 \ @30 \ @31 \ @32 \ @33 @34 
 ## 36
-§-1 
+@-1 
 ### Apéndice a la ley de reliquias
-§2 §4 
+@2 @4 
 ### La nueva regulación de aplicación general sobre el matrimonio de reliquias
-§9 \ §11 §12 \ 
+@9 \ @11 @12 \ 
 # Deuteronomio
 ## 1
-§-1 
+@-1 
 ### Repaso de las experiencias en el desierto
-§5 
+@5 
 ### El mandato de Dios de dejar Horeb (Sinaí)
-§6 §8 
+@6 @8 
 ### Nombramiento de líderes y presidentes para ayudar a Moisés
-§10 §13 \ §17 §18 
+@10 @13 \ @17 @18 
 ### Caminata desde Horeb hasta Kades-Barnea; Desánimo e incredulidad de la gente después de enviar a los espías
-§21 \ §22 \ §25 \ §26 §28 
+@21 \ @22 \ @25 \ @26 @28 
 ### Intento infructuoso de animar a Moisés
-§30 §31 \ §33 
+@30 @31 \ @33 
 ### El juicio divino; Arrepentimiento del pueblo; Fracaso del intento de conquista no autorizado
-§36 \ §38 §40 \ §41 \ §42 \ 
+@36 \ @38 @40 \ @41 \ @42 \ 
 ## 2
-§-1 
+@-1 
 ### Mirando hacia atrás en el viaje pacífico a través de la tierra de los edomitas y los moabitas; Prohibición de atacar a los amonitas; Derrota del rey amorreo Sehon
-§1 \ §4 §5 §6 \ §7 \ §8 \ §9 \ §10 §12 \ §13 \ §14 §19 \ §23 \ §25 
+@1 \ @4 @5 @6 \ @7 \ @8 \ @9 \ @10 @12 \ @13 \ @14 @19 \ @23 \ @25 
 ### Derrota del rey amorreo Sehon y conquista de su imperio
-§26 §30 \ 
+@26 @30 \ 
 ## 3
-§-1 
+@-1 
 ### Revisión de la derrota del rey Og de Basan y la distribución del Banco del este; Ánimo de Josué
-§2 \ §7 
+@2 \ @7 
 ### Revisión de las áreas conquistadas hasta entonces y su asentamiento por las tribus Ruben, Gad y Manasse
-§12 §17 
+@12 @17 
 ### Moisés exhorta a las tribus del este del Jordan a prepararse para luchar por sus hermanos; Ánimo de Josué
-§20 \ §22 
+@20 \ @22 
 ### Moisés pide en vano al Señor que le permita conducir al pueblo a través del Jordán
-§25 \ §28 §29 
+@25 \ @28 @29 
 ## 4
-§-1 
+@-1 
 ### Exhortación a observar estrictamente los mandamientos divinos y advertencia contra el servicio de imágenes y la idolatría
-§3 §8 
+@3 @8 
 ### En memoria de la aparición informe de Dios en Horeb, Israel debe protegerse contra el servicio de imágenes
-§9 §10 §13 §19 §20 §21 §24 
+@9 @10 @13 @19 @20 @21 @24 
 ### Nueva advertencia de idolatría; amenaza de castigo y promesa de gracia
-§26 §29 §30 §31 
+@26 @29 @30 @31 
 ### La gloria de la revelación y la gracia divinas obliga a la más estricta obediencia
-§33 §34 §35 §40 
+@33 @34 @35 @40 
 ### Separación de tres ciudades libres en el este del Jordan
-§41 §43 
+@41 @43 
 ### Anuncio del siguiente Sermón de la Ley
 ## 5
-§-1 
+@-1 
 ### Memoria de la revelación de Dios en Horeb; la Ley Fundamental de los Diez Mandamientos; Moisés reconocido por Dios como mediador
-§2 §3 §4 §5 
+@2 @3 @4 @5 
 ### Los diez Mandamientos
-§6 \ §7 \ §8 §10 \ §11 \ §15 \ §16 \ §17 \ §18 \ §19 \ §20 \ §21 
+@6 \ @7 \ @8 @10 \ @11 \ @15 \ @16 \ @17 \ @18 \ @19 \ @20 \ @21 
 ### La mediación de Moisés, solicitada por el pueblo temeroso, es reconocida por Dios
-§26 §27 \ §29 \ §31 \ 
+@26 @27 \ @29 \ @31 \ 
 ## 6
-§-1 
+@-1 
 ### Explique y promulgue los dos mandamientos básicos: la adoración a Dios únicamente y el amor a Dios
-§3 \ §4 §5 §6 §7 §8 §9 
+@3 \ @4 @5 @6 @7 @8 @9 
 ### ¡Sirvan al Señor fielmente y con agradecida obediencia también en la gloriosa tierra prometida!
-§13 §15 
+@13 @15 
 ### ¡No pongas a prueba la paciencia de Dios con la incredulidad y la apostasía!
-§16 §19 
+@16 @19 
 ### ¡También enseñe a sus hijos sobre los actos divinos de redención y el significado de la ley!
-§20 §21 §25 
+@20 @21 @25 
 ## 7
-§-1 
+@-1 
 ### Los cananeos idólatras y su idolatría serán eliminados; cualquier conexión con ellos es pecaminosa
-§1 §2 §3 §6 §7 §9 §11 
+@1 @2 @3 @6 @7 @9 @11 
 ### El cumplimiento de la ley traerá ricas bendiciones y también será beneficioso en la lucha contra los cananeos
-§12 §15 \ §17 §20 §26 
+@12 @15 \ @17 @20 @26 
 ## 8
-§-1 
+@-1 
 ### Recordatorio de obedecer la ley divina y estar agradecido con Dios por los beneficios mostrados durante la caminata por el desierto
-§2 §3 §5 §6 
+@2 @3 @5 @6 
 ### Descripción de la gloria de la tierra prometida ricamente bendecida con todos los bienes
-§10 
+@10 
 ### La desobediencia y la arrogancia deben traer la ruina
-§18 \ 
+@18 \ 
 ## 9
-§-1 
+@-1 
 ### Advertencia de justicia propia; Referencia a la evidencia anterior de la desobediencia y la terquedad del pueblo
-§2 §3 \ §4 §6 
+@2 @3 \ @4 @6 
 ### El gran endeudamiento del pueblo a través del culto a la imagen dorada del toro
-§8 §10 \ §12 \ §14 \ §19 §21 
+@8 @10 \ @12 \ @14 \ @19 @21 
 ### Otra evidencia más de desobediencia popular
-§23 §24 
+@23 @24 
 ### En ese momento, la destrucción de Israel se evitó solo mediante la intercesión de Moisés y la renovación del pacto se llevó a cabo mediante la gracia de Dios
-§28 §29 
+@28 @29 
 ## 10
-§2 §5 \ §6 §9 \ §10 §11 
+@2 @5 \ @6 @9 \ @10 @11 
 ### Recordatorio de cumplir fielmente los mandamientos divinos, temer a Dios y amar a Dios; bendición y maldición
-§12 §19 §22 
+@12 @19 @22 
 ## 11
-§-1 
+@-1 
 ### Referencia a los juicios destructivos de Dios experimentados personalmente
-§4 §7 \ §9 
+@4 @7 \ @9 
 ### Referencia a la gloriosa tierra prometida, que depende completamente del cuidado de Dios
-§13 §17 
+@13 @17 
 ### Otra advertencia a la obediencia fiel; Presentación de bendiciones y maldiciones
-§18 §26 §27 §28 
+@18 @26 @27 @28 
 ### El Garizim fue ordenado como el monte de las bendiciones y el Ebal como el monte de la maldición
-§29 §30 §32 
+@29 @30 @32 
 ## 12
-§-1 
+@-1 
 ### Establecimiento de la Ley Básica: Dios solo puede ser adorado a través del sacrificio en un lugar elegido por Dios
-§2 §12 §14 \ §16 §19 
+@2 @12 @14 \ @16 @19 
 ### El sacrificio de ganado y el consumo de carne (excepto sangre y carne de sacrificio) están permitidos en todas partes
-§23 §27 \ §28 
+@23 @27 \ @28 
 ### Prohibición de cualquier imitación del culto pagano; Castigando a los idólatras
-§30 §32 
+@30 @32 
 ## 13
-§-1 
+@-1 
 ### El castigo más severo de todos los falsos profetas y parientes cercanos idólatras
-§4 §5 \ §10 §11 
+@4 @5 \ @10 @11 
 ### Incluso se dice que todo un pueblo que se ha idolatrado cae bajo el hechizo
-§18 
+@18 
 ## 14
-§-1 
+@-1 
 ### Prohibición de las costumbres paganas de duelo y los alimentos inmundos
-§1 §2 \ §20 \ §21 
+@1 @2 \ @20 \ @21 
 ### Regulaciones sobre la entrega del diezmo (especialmente el diezmo del tercer año)
-§22 §23 §28 §29 
+@22 @23 @28 @29 
 ## 15
-§-1 
+@-1 
 ### Regulaciones sobre la cancelación de la deuda cada siete años y la liberación de esclavos hebreos
-§6 
+@6 
 ### Recomendación de voluntad de apoyar a los conciudadanos pobres (especialmente para pedir dinero prestado)
-§7 §8 §11 
+@7 @8 @11 
 ### Regulaciones relativas a la liberación y amplio equipamiento de esclavos hebreos
-§12 §18 
+@12 @18 
 ### Normativa sobre la santificación de los primogénitos machos impecables de ganado y rebaños
-§19 §20 §21 §22 §23 
+@19 @20 @21 @22 @23 
 ## 16
-§-1 
+@-1 
 ### Normativa sobre los tres principales festivales anuales
-§1 §8 \ §11 §12 \ §14 §17 
+@1 @8 \ @11 @12 \ @14 @17 
 ### Reglas relativas a la administración de justicia; Prohibición y castigo de la idolatría
-§19 §20 
+@19 @20 
 ### Prohibición de costumbres idólatras y animales de sacrificio defectuosos
-§22 
+@22 
 ## 17
-§1 
+@1 
 ### Castigo por la idolatría
-§2 §3 §6 §7 
+@2 @3 @6 @7 
 ### Establecimiento de un tribunal superior en el santuario para casos legales más difíciles
-§11 §13 
+@11 @13 
 ### La ley real
-§16 §17 \ §20 
+@16 @17 \ @20 
 ## 18
-§-1 
+@-1 
 ### Ingresos y derechos de los sacerdotes levitas que ofician en el santuario y de los levitas en general
-§1 §5 \ §8 
+@1 @5 \ @8 
 ### Ordenanzas relacionadas con la adivinación y la hechicería, y la promesa de una profecía genuina con sus marcas
-§10 §11 §13 §16 \ §17 §20 \ 
+@10 @11 @13 @16 \ @17 @20 \ 
 ## 19
-§-1 
+@-1 
 ### Separación de tres a seis ciudades libres para aliviar la venganza de sangre
-§13 
+@13 
 ### Verbot der Grenzverrückung; Vorschriften bezüglich der Zeugenschaft vor Gericht und der Bestrafung falscher Zeugen
-§14 \ §15 §17 §21 
+@14 \ @15 @17 @21 
 ## 20
-§-1 
+@-1 
 ### Comportamiento hacia la propia gente; Leyes sobre exención del servicio militar
-§4 \ §5 §6 §7 §8 §9 
+@4 \ @5 @6 @7 @8 @9 
 ### Comportamiento contra el enemigo (especialmente en el caso de asedios de ciudades)
-§10 §16 §17 §20 
+@10 @16 @17 @20 
 ## 21
-§-1 
+@-1 
 ### Expiación por un asesinato cometido por mano desconocida
-§5 §6 §9 
+@5 @6 @9 
 ### Matrimonio con una mujer prisionera de guerra
-§14 
+@14 
 ### Asegurar los derechos de herencia del primogénito
-§17 
+@17 
 ### Medidas contra los hijos rebeldes
-§21 
+@21 
 ### Tratamiento del cadáver colgado en público de un criminal ejecutado
-§23 
+@23 
 ## 22
-§-1 
+@-1 
 ### Algunos deberes queridos en apuros del vecino; Devolución de propiedad perdida
-§1 §4 
+@1 @4 
 ### Varias regulaciones, especialmente en lo que respecta a evitar desastres naturales
-§5 \ §7 \ §8 \ §11 \ §12 
+@5 \ @7 \ @8 \ @11 \ @12 
 ### Cómo tratar a una mujer acusada por su esposo de perder la virginidad antes del matrimonio
-§19 \ §21 
+@19 \ @21 
 ### Reglas contra el adulterio, la profanación de una joven comprometida y la violación de una virgen soltera
-§22 §30 
+@22 @30 
 ## 23
-§-1 
+@-1 
 ### ¿Quién puede unirse a la iglesia de Israel y quién debe ser excluido?
-§1 §8 
+@1 @8 
 ### Acerca de mantener limpio el campamento del ejército en las campañas
-§14 
+@14 
 ### Varios mandamientos individuales (amor a las personas, pureza moral, divorcio, etc.)
-§15 §16 \ §18 \ §19 §20 \ 
+@15 @16 \ @18 \ @19 @20 \ 
 ## 24
-§1 §5 \ §6 \ §7 \ §8 §9 \ §13 \ §14 §15 \ §16 \ §17 §18 \ §19 §20 \ 
+@1 @5 \ @6 \ @7 \ @8 @9 \ @13 \ @14 @15 \ @16 \ @17 @18 \ @19 @20 \ 
 ## 25
-§-1 
+@-1 
 ### Moderación en el castigo corporal en la corte; Amabilidad con una mascota que trabaja
-§3 \ §4 
+@3 \ @4 
 ### Regulaciones sobre el matrimonio político y otros mandamientos (especialmente en cuanto a represalias contra los amalecitas)
-§5 §6 \ §10 
+@5 @6 \ @10 
 ### Castigo por la desvergüenza femenina; Honestidad en el comercio y el cambio
-§12 \ §16 
+@12 \ @16 
 ### Mandamiento de exterminar a los amalecitas
-§17 §19 
+@17 @19 
 ## 26
-§-1 
+@-1 
 ### La confesión agradecida en la ofrenda de los primeros frutos en el santuario
-§2 §11 
+@2 @11 
 ### Fórmula de oración al pagar el diezmo a los levitas y a los pobres
-§12 §15 
+@12 @15 
 ### Conclusión integral de obligaciones y derechos federales
-§19 
+@19 
 ## 27
-§-1 
+@-1 
 ### Colocación de piedras conmemorativas de la ley en Cisjordania; Se erigió un altar en el monte Ebal
-§7 §8 
+@7 @8 
 ### Proclamación de bendiciones y maldiciones sobre las montañas Ebal y Garizim
-§10 \ §12 §14 
+@10 \ @12 @14 
 ### Las doce palabras malditas
-§15 \ §16 \ §17 \ §18 \ §19 \ §20 \ §21 \ §22 \ §23 \ §24 \ §25 \ §26 
+@15 \ @16 \ @17 \ @18 \ @19 \ @20 \ @21 \ @22 \ @23 \ @24 \ @25 \ @26 
 ## 28
-§-1 
+@-1 
 ### Promesa de ricas bendiciones para el pueblo del convenio
-§1 §6 §9 §14 
+@1 @6 @9 @14 
 ### Primera parte de las maldiciones del pueblo desobediente
-§15 §22 §23 §27 §33 §37 §38 §44 \ §46 
+@15 @22 @23 @27 @33 @37 @38 @44 \ @46 
 ### Segunda parte de las maldiciones
-§50 §60 §63 §68 
+@50 @60 @63 @68 
 ## 29
-§-1 
+@-1 
 ### Referencia a los grandes tribunales y beneficios penales divinos anteriores
-§1 §2 \ §3 §4 §6 §7 §9 
+@1 @2 \ @3 @4 @6 @7 @9 
 ### El (nuevo) pacto de hoy está hecho para todas las generaciones futuras y es el más sagrado
-§13 §15 
+@13 @15 
 ### Advertencia de idolatría y ruptura del nuevo pacto, que será seguido por el castigo más severo
-§19 §21 \ §24 \ §28 \ 
+@19 @21 \ @24 \ @28 \ 
 ## 30
-§-1 
+@-1 
 ### Anuncio de la misericordia de Dios por los expulsados, pero luego los arrepentidos; nuevo pacto después de las cortes futuras
-§2 §3 §6 §10 
+@2 @3 @6 @10 
 ### La ley ordenada por Dios no requiere lo imposible; más bien, es fácil de entender y de seguir
-§14 
+@14 
 ### Última advertencia; Elección entre la vida y la muerte
-§15 §19 §20 
+@15 @19 @20 
 ## 31
-§-1 
+@-1 
 ### Instalación de Josué para suceder a Moisés
-§3 §4 §5 §6 \ §8 
+@3 @4 @5 @6 \ @8 
 ### Registro y entrega de la ley a los sacerdotes y ancianos
-§10 §13 
+@10 @13 
 ### Dios anunció la muerte de Moisés, predijo la futura apostasía de Israel y ordenó que se escribiera un cántico como testimonio
-§14 \ §18 
+@14 \ @18 
 ### El mandato de Dios a Moisés de escribir la canción; Moisés cumple el mandato
-§19 §20 §21 \ §22 \ §23 
+@19 @20 @21 \ @22 \ @23 
 ### Moisés entrega el libro de la ley a los levitas para que lo guarden y lee su cántico al pueblo como advertencia final
-§29 \ 
+@29 \ 
 ## 32
-§-1 
+@-1 
 ### El canto de Moisés
-§1 §2 §5 §6 §7 §8 §10 §11 §13 §21 §28 §32 §35 §36 §38 §39 §40 §43 
+@1 @2 @5 @6 @7 @8 @10 @11 @13 @21 @28 @32 @35 @36 @38 @39 @40 @43 
 ### Última promulgación de la ley; Moisés recibe instrucciones sobre su muerte inminente
-§46 §47 \ §49 §50 §51 §52 
+@46 @47 \ @49 @50 @51 @52 
 ## 33
-§-1 
+@-1 
 ### La bendición de despedida de Moisés sobre las doce tribus de Israel
-§1 §2 §5 
+@1 @2 @5 
 ### Bendiciones para las tribus individuales
-§6 \ §7 \ §9 §11 \ §12 \ §17 \ §19 \ §21 \ §22 \ §23 \ §25 
+@6 \ @7 \ @9 @11 \ @12 \ @17 \ @19 \ @21 \ @22 \ @23 \ @25 
 ### Alabado sea el Señor y bendito Israel
-§28 §29 
+@28 @29 
 ## 34
-§-1 
+@-1 
 ### Moisés en el monte Nebo; su muerte y entierro; Joshua lo sucederá
-§1 §4 \ §5 §6 §8 §9 
+@1 @4 \ @5 @6 @8 @9 
 ### Valoración de la grandeza e importancia de Moisés
 # Josué
 ## 1
-§-1 
+@-1 
 ### La comisión de Dios de conquistar y animar a Josué; Preparativos para cruzar el Jordán
-§5 \ §6 §7 §8 §9 
+@5 \ @6 @7 @8 @9 
 ### Josué ordena a la gente que esté lista para marchar
-§11 
+@11 
 ### Comportamiento obediente de las tribus de Cisjordania
-§13 §15 \ 
+@13 @15 \ 
 ## 2
-§-1 
+@-1 
 ### El escultismo de Jericó; la salvación de los dos espías por la prostituta Rahab
-§1 \ §2 \ §3 \ §7 
+@1 \ @2 \ @3 \ @7 
 ### Las negociaciones y citas fijas entre Rahab y los espías
-§10 §11 §12 §13 \ §14 \ §16 \ §20 \ §21 
+@10 @11 @12 @13 \ @14 \ @16 \ @20 \ @21 
 ### Feliz regreso de los espías a Josué con buenas noticias
 ## 3
-§-1 
+@-1 
 ### Llegada al Jordán; Anuncio de los presidentes y dos órdenes de Joshua; Salida del pueblo
-§1 §4 \ §5 \ §6 
+@1 @4 \ @5 \ @6 
 ### La promesa de Dios de salvación a Josué; Anuncio del milagro divino a través de Josué
-§7 §8 \ §13 
+@7 @8 \ @13 
 ### El Jordán se detiene y se divide
-§16 §17 
+@16 @17 
 ## 4
-§-1 
+@-1 
 ### Erigiendo un monumento de piedra en el lecho del Jordán y otro en la otra orilla de Gilgal
-§3 \ §7 \ §11 \ §12 §13 
+@3 \ @7 \ @11 \ @12 @13 
 ### Efecto del maravilloso evento sobre los israelitas y sobre todos los pueblos; información final
-§14 \ §16 \ §19 \ §23 §24 
+@14 \ @16 \ @19 \ @23 @24 
 ## 5
-§-1 
+@-1 
 ### Realizar la circuncisión de Israel
-§2 §8 \ §9 
+@2 @8 \ @9 
 ### Primera Pascua en Canaán; Cese del maná
-§10 §12 
+@10 @12 
 ### Josué se siente animado por la aparición del divino general
-§13 \ §14 \ §15 
+@13 \ @14 \ @15 
 ## 6
-§-1 
+@-1 
 ### Dios le enseñó a Josué cómo conquistar Jericó
-§5 
+@5 
 ### Los desfiles diarios únicos por la ciudad durante los primeros seis días
-§6 \ §7 \ §9 \ §14 
+@6 \ @7 \ @9 \ @14 
 ### Los siete desfiles del séptimo día; Conquista y destrucción de la ciudad
-§17 §18 §19 \ §20 §21 
+@17 @18 @19 \ @20 @21 
 ### Perdonando a Rahab y sus parientes; Maldice la reconstrucción de la ciudad
-§23 §25 \ §26 §27 
+@23 @25 \ @26 @27 
 ## 7
-§-1 
+@-1 
 ### Fracaso del movimiento cuidadosamente preparado contra Ai; Desánimo del pueblo; Oración suplicante de Josué
-§2 \ §9 
+@2 \ @9 
 ### Dios le dice a Josué la razón de su enojo y le da instrucciones para determinar quién es culpable
-§15 
+@15 
 ### Acán es identificado como un malhechor por sorteo y es apedreado hasta morir después de admitir su culpabilidad
-§16 §17 §19 \ §21 \ §26 
+@16 @17 @19 \ @21 \ @26 
 ## 8
-§-1 
+@-1 
 ### Por instrucción divina, Josué se mueve contra Hai y prepara una emboscada en el oeste de la ciudad
-§2 \ §6 §8 \ §13 
+@2 \ @6 @8 \ @13 
 ### Curso de la lucha; Quemando la ciudad sin vigilancia
-§17 \ §18 \ §23 
+@17 \ @18 \ @23 
 ### Ejecución de la prohibición de la ciudad; el rey mató y ahorcó hasta la noche
-§29 
+@29 
 ### Construcción de un altar en el monte Ebal y lectura de la ley por Josué después de la fiesta del sacrificio
-§30 §33 §35 
+@30 @33 @35 
 ## 9
-§-1 
+@-1 
 ### Los reyes cananeos hacen un pacto contra Israel
-§2 
+@2 
 ### Los gabaonitas envían una delegación y, mediante engaños, consiguen un acuerdo pacífico con los israelitas
-§6 \ §7 \ §8 \ §13 \ §14 §15 
+@6 \ @7 \ @8 \ @13 \ @14 @15 
 ### Hizo a los gabaonitas siervos de la iglesia y del templo después de que se descubrió su engaño
-§20 §21 \ §23 \ §25 \ 
+@20 @21 \ @23 \ @25 \ 
 ## 10
-§-1 
+@-1 
 ### La procesión de los cinco reyes contra Gabaón; Victoria de Josué en Gabaón
-§1 §6 \ §8 \ §10 
+@1 @6 \ @8 \ @10 
 ### Los dos grandes milagros de Dios: granizo de piedras y parada
-§11 \ §12 \ §13 §14 \ §15 
+@11 \ @12 \ @13 @14 \ @15 
 ### Persecucion; los cinco reyes amorreos atrapados en una cueva son asesinados y ahorcados
-§17 \ §19 \ §22 \ §24 \ §25 \ §27 
+@17 \ @19 \ @22 \ @24 \ @25 \ @27 
 ### Subyugación de toda la mitad sur de Canaán; El regreso de Joshua a Gilgal
-§28 \ §30 \ §33 \ §35 \ §37 \ §40 §41 §42 §43 
+@28 \ @30 \ @33 \ @35 \ @37 \ @40 @41 @42 @43 
 ## 11
-§-1 
+@-1 
 ### Los reyes unidos por Jabín son destruidos por Josué
-§5 \ §6 \ §8 §9 
+@5 \ @6 \ @8 @9 
 ### Subyugación de toda la mitad norte de Canaán
-§14 \ §15 
+@14 \ @15 
 ### Revisión; Cumplimiento de la voluntad divina de destruir endureciendo a los cananeos
-§16 §20 
+@16 @20 
 ### Exterminio de los Enakitas (es decir, gigantes) de la tierra
-§21 §22 §23 
+@21 @22 @23 
 ## 12
-§-1 
+@-1 
 ### Los dos reyes de Cisjordania derrotados por Moisés
-§2 §6 
+@2 @6 
 ### Los 31 reyes derrotados por Josué en Cisjordania
-§9 §10 §11 §12 §13 §14 §15 §16 §18 §19 §20 §24 
+@9 @10 @11 @12 @13 @14 @15 @16 @18 @19 @20 @24 
 ## 13
-§-1 
+@-1 
 ### Enumeración de las áreas previamente no conquistadas; El mandato de Dios de distribuir
-§1 \ §6 §7 
+@1 \ @6 @7 
 ### Información general sobre la distribución de Cisjordania por Moses; adiciones posteriores
-§14 
+@14 
 ### Información más detallada sobre las áreas de las tribus Rubén, Gad y mitad Manasés distribuidas por Moisés
-§15 §22 \ §23 \ §28 \ §31 \ §33 
+@15 @22 \ @23 \ @28 \ @31 \ @33 
 ## 14
-§-1 
+@-1 
 ### Comentarios introductorios; la herencia de Caleb en Hebrón
-§1 §2 §3 §4 §5 
+@1 @2 @3 @4 @5 
 ### A petición suya, Kaleb recibe el distrito de Hebrón como herencia
-§7 §9 \ §12 \ §13 §15 
+@7 @9 \ @12 \ @13 @15 
 ## 15
-§-1 
+@-1 
 ### El territorio de la tribu de Judá
-§1 §6 §7 §8 §9 §12 
+@1 @6 @7 @8 @9 @12 
 ### Posesión de Caleb y actividad exitosa
-§13 §18 \ §19 
+@13 @18 \ @19 
 ### Las ciudades de Judá
-§44 §45 §47 §62 \ §63 
+@44 @45 @47 @62 \ @63 
 ## 16
-§-1 
+@-1 
 ### El territorio de los descendientes de José
-§4 
+@4 
 ### Territorio de la tribu de Efraín
-§10 
+@10 
 ## 17
-§-1 
+@-1 
 ### Territorio de la tribu Manasés
-§1 §2 
+@1 @2 
 ### Las hijas de Zelofhad son herederas
-§3 §6 
+@3 @6 
 ### Fronteras y ciudades de la tribu Manasés
-§11 §12 \ §13 
+@11 @12 \ @13 
 ### Josué les dice a las tribus de José que se quejan que limpien el bosque
-§14 \ §15 \ §16 \ 
+@14 \ @15 \ @16 \ 
 ## 18
-§-1 
+@-1 
 ### La tienda de la revelación se instaló en el silo; Admisión y distribución por escrito de la tierra aún desocupada
-§7 \ §8 \ §10 
+@7 \ @8 \ @10 
 ### El territorio de la tribu de Benjamín
-§13 §14 §28 
+@13 @14 @28 
 ## 19
-§-1 
+@-1 
 ### El territorio de la tribu Simeón
-§9 
+@9 
 ### El territorio de la tribu Zabulón
-§16 
+@16 
 ### El territorio de la tribu Isacar
-§18 §23 
+@18 @23 
 ### El territorio de la tribu Asser
-§31 
+@31 
 ### El territorio de la tribu Naftalí
-§38 §39 
+@38 @39 
 ### El territorio de la tribu Dan
-§46 §47 §48 
+@46 @47 @48 
 ### La propiedad de Joshua; Finalización del informe
-§50 §51 
+@50 @51 
 ## 20
-§-1 
+@-1 
 ### Die sechs Zufluchts- oder Freistädte; El mandato divino
-§2 §6 
+@2 @6 
 ### Ejecución del mandato
-§8 §9 
+@8 @9 
 ## 21
-§-1 
+@-1 
 ### Las cuarenta y ocho ciudades sacerdotales y levitas
-§2 \ §11 §12 §16 §19 \ §21 §26 \ §32 §33 \ §38 §40 \ §42 
+@2 \ @11 @12 @16 @19 \ @21 @26 \ @32 @33 \ @38 @40 \ @42 
 ### Revisión final
-§45 
+@45 
 ## 22
-§-1 
+@-1 
 ### Josué despide a las tribus con palabras de aprobación, amonestación y bendición
-§5 \ §8 
+@5 \ @8 
 ### La construcción del altar de las tribus Cisjordanias en Gilgal y sus malvadas consecuencias; Discurso del sacerdote Phinees
-§16 §17 §20 
+@16 @17 @20 
 ### Las tribus de Cisjordania se justifican con éxito
-§21 §23 \ §25 \ §27 \ §28 \ §29 \ 
+@21 @23 \ @25 \ @27 \ @28 \ @29 \ 
 ## 23
-§-1 
+@-1 
 ### El primer discurso de amonestación de Josué a los representantes de Israel
-§5 \ §6 §7 §8 \ §9 §11 \ §13 \ §14 §16 
+@5 \ @6 @7 @8 \ @9 @11 \ @13 \ @14 @16 
 ## 24
-§-1 
+@-1 
 ### Josué se despide de la gente en la Dieta de Siquem
-§4 \ §5 §6 §7 \ §8 §9 §10 \ §11 §12 §13 \ §14 §15 
+@4 \ @5 @6 @7 \ @8 @9 @10 \ @11 @12 @13 \ @14 @15 
 ### El pueblo promete obediencia leal y Josué se compromete de nuevo solemnemente con Dios
-§18 \ §19 §20 \ §22 \ §23 \ §24 \ §25 §26 §27 §28 
+@18 \ @19 @20 \ @22 \ @23 \ @24 \ @25 @26 @27 @28 
 ### La muerte y el entierro de Josué; Entierro de los huesos de José; Muerte de Eleazar
-§31 
+@31 
 # Jueces
 ## 1
-§-1 
+@-1 
 ### Campañas y actos armados de los judíos en relación con los simeonitas
-§1 \ §2 \ §8 
+@1 \ @2 \ @8 
 ### Conquista de Hebrón y Debir por Kaleb y Otoniel
-§10 \ §13 \ §14 \ §15 
+@10 \ @13 \ @14 \ @15 
 ### Conexión de los ceneos con Judá
-§16 
+@16 
 ### Más empresas bélicas de los judíos
-§17 §21 
+@17 @21 
 ### Empresas de los Josefitas y otras tribus; los cananeos no serán completamente expulsados
-§25 §26 
+@25 @26 
 ### Panorama general de los territorios no conquistados
-§29 §30 §33 §36 
+@29 @30 @33 @36 
 ## 2
-§-1 
+@-1 
 ### La amenaza de castigo del ángel del Señor contra Israel por violar el deber del pacto
-§2 §3 \ §5 
+@2 @3 \ @5 
 ### Después de la muerte de Josué y sus compañeros, Israel se volvió idolatría
-§7 §12 
+@7 @12 
 ### Alternancia regular de apostasía y castigo, arrepentimiento y salvación; ira de Dios
-§15 §16 §22 §23 
+@15 @16 @22 @23 
 ## 3
-§-1 
+@-1 
 ### Indicación de los pueblos paganos que permanecieron en Canaán, cuyo Dios usó a los israelitas para probar y guiar
-§3 §6 
+@3 @6 
 ### Los primeros jueces: Otoniel, Ehud y Samgar
-§9 §10 §11 \ §13 §19 \ §23 \ §25 \ §27 \ §30 \ 
+@9 @10 @11 \ @13 @19 \ @23 \ @25 \ @27 \ @30 \ 
 ## 4
-§-1 
+@-1 
 ### El rey Jabín y su general Sísara esclavizaron a Israel
-§3 
+@3 
 ### La conexión de Debora y Barak; Barak dirige al ejército de las tribus del norte a la batalla en el monte Thabor
-§7 \ §8 \ §9 \ §11 
+@7 \ @8 \ @9 \ @11 
 ### La derrota y el asesinato de Sísara en la llanura de Kison; La terrible hazaña de Jael
-§13 \ §16 \ §18 \ §19 \ §20 \ 
+@13 \ @16 \ @18 \ @19 \ @20 \ 
 ## 5
-§-1 
+@-1 
 ### La canción de la victoria de Debora y Barak
-§3 
+@3 
 ### Dios se acerca en una tormenta
-§4 §5 
+@4 @5 
 ### Las tristes condiciones hasta ahora
-§6 §8 
+@6 @8 
 ### El presente feliz
-§10 §11 
+@10 @11 
 ### Las tribus de Israel en batalla
-§18 
+@18 
 ### La batalla
-§20 §23 
+@20 @23 
 ### La hazaña de Jael
-§27 
+@27 
 ### En la casa de Sísara
-§30 
+@30 
 ### El canto del cisne
-§31 
+@31 
 ## 6
-§-1 
+@-1 
 ### La apostasía renovada del pueblo resulta en la esclavitud y el saqueo de los madianitas
-§6 
+@6 
 ### Discurso de castigo de un profeta
-§10 
+@10 
 ### Gedeón lo llama un ángel; sus preocupaciones sofocadas por un signo de Dios
-§12 \ §13 \ §14 \ §15 \ §16 \ §18 \ §19 \ §20 \ §21 \ §22 \ §23 \ §24 
+@12 \ @13 \ @14 \ @15 \ @16 \ @18 \ @19 \ @20 \ @21 \ @22 \ @23 \ @24 
 ### Aparición de Gedeón contra Baal; su salvación por medio de su padre; Reunir un ejército contra los madianitas; su doble prueba de Dios
-§26 \ §27 \ §29 \ §31 §32 \ §35 \ §37 \ §38 \ §39 \ 
+@26 \ @27 \ @29 \ @31 @32 \ @35 \ @37 \ @38 \ @39 \ 
 ## 7
-§-1 
+@-1 
 ### La victoria de Gedeón sobre los madianitas
-§1 
+@1 
 ### La fuerza de Gideon se reduce a 300 hombres a través de dos avistamientos
-§3 \ §7 \ §8 
+@3 \ @7 \ @8 
 ### La confianza de Gedeón se fortalece al infiltrarse en el campamento enemigo
-§11 \ §12 \ §13 \ §14 \ §15 
+@11 \ @12 \ @13 \ @14 \ @15 
 ### La incursión victoriosa de Gedeón en el campamento madianita
-§16 \ §18 \ §22 
+@16 \ @18 \ @22 
 ### Persecución exitosa; los celosos Efraimitas apaciguados por Gedeón
 ## 8
-§1 §2 §3 
+@1 @2 @3 
 ### La solicitud de Gedeón en Sukkoth y Pnuel fue rechazada cruelmente
-§5 \ §6 \ §7 \ §9 
+@5 \ @6 \ @7 \ @9 
 ### Gedeón captura a los dos reyes y se venga de las dos ciudades hostiles
-§17 
+@17 
 ### Gedeón practica la venganza de sangre contra los dos reyes madianitas
-§18 \ §19 \ §20 \ §21 
+@18 \ @19 \ @20 \ @21 
 ### Gedeón rechaza la realeza; su idolatría y su fin de vida
-§22 \ §24 \ §27 §28 \ §32 
+@22 \ @24 \ @27 @28 \ @32 
 ### Nueva apostasía de los israelitas de Dios y su ingratitud hacia Gedeón
-§33 §35 
+@33 @35 
 ## 9
-§-1 
+@-1 
 ### El fratricidio de Abimelec en Ofra y su reinado en Siquem
-§1 §2 \ §4 §6 
+@1 @2 \ @4 @6 
 ### Jotam lee una seria fábula de advertencia a los siquemitas y los maldice a ellos y a Abimelec
-§8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §20 \ §21 
+@8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @20 \ @21 
 ### Desastroso desarrollo de la situación en Siquem
-§24 §25 \ §29 \ §33 \ §35 \ §36 \ §37 \ §38 \ §41 
+@24 @25 \ @29 \ @33 \ @35 \ @36 \ @37 \ @38 \ @41 
 ### La sangrienta victoria de Abimelec, destrucción de la ciudad de Siquem; La indignación de Abimelec contra los habitantes del castillo y su final sin gloria en Tebez
-§45 \ §46 §53 \ §54 \ §56 §57 
+@45 \ @46 @53 \ @54 \ @56 @57 
 ## 10
-§-1 
+@-1 
 ### Los jueces Thola y Jair
-§2 \ §3 §4 §5 
+@2 \ @3 @4 @5 
 ### La nueva apostasía del pueblo provoca nuevas tribulaciones entre los amonitas; el arrepentimiento sincero produce la gracia divina
-§10 \ §14 \ §16 
+@10 \ @14 \ @16 
 ### El llamado de Jefté a juzgar
-§18 
+@18 
 ## 11
-§3 \ §6 \ §7 \ §8 \ §9 \ §10 \ §11 
+@3 \ @6 \ @7 \ @8 \ @9 \ @10 \ @11 
 ### Las negociaciones fallidas de Jefté con los amonitas
-§12 \ §13 \ §17 §18 §19 §25 §27 \ §28 
+@12 \ @13 \ @17 @18 @19 @25 @27 \ @28 
 ### Los votos de Jefté; su victoria sobre los amonitas
-§29 \ §31 \ §33 
+@29 \ @31 \ @33 
 ### El regreso de Jefté y la ejecución del voto al sacrificar a su hija
-§35 \ §37 \ 
+@35 \ @37 \ 
 ## 12
-§-1 
+@-1 
 ### La batalla victoriosa de Jefté con los efraimitas y su muerte
-§1 \ §3 \ §6 \ §7 
+@1 \ @3 \ @6 \ @7 
 ### Los jueces Ibzan, Elon y Abdon
-§10 \ §12 \ 
+@10 \ @12 \ 
 ## 13
-§-1 
+@-1 
 ### La prehistoria: dominio filisteo; dos apariciones de un ángel que anuncia el nacimiento y la consagración de Sansón a Dios
-§1 \ §5 \ §7 \ §8 \ §10 \ §11 \ §12 \ §14 \ §15 \ §16 \ §17 \ §18 \ §19 §22 \ §24 
+@1 \ @5 \ @7 \ @8 \ @10 \ @11 \ @12 \ @14 \ @15 \ @16 \ @17 \ @18 \ @19 @22 \ @24 
 ### El noviazgo de los Simpson para una mujer filistea; su desgarro de un león, su boda, su acertijo y su venganza
-§25 
+@25 
 ## 14
-§2 \ §3 \ §4 \ §6 §11 \ §13 \ §14 \ §15 \ §16 \ §18 \ §20 
+@2 \ @3 \ @4 \ @6 @11 \ @13 \ @14 \ @15 \ @16 \ @18 \ @20 
 ## 15
-§-1 
+@-1 
 ### Sansón, traicionado por su suegro, se venga de los filisteos persiguiendo zorros
-§1 \ §2 \ §5 \ §6 \ §8 
+@1 \ @2 \ @5 \ @6 \ @8 
 ### Captura y explotación de Simpson en Lehi
-§9 \ §10 \ §11 \ §12 \ §13 \ §14 §17 \ §18 \ §20 
+@9 \ @10 \ @11 \ @12 \ @13 \ @14 @17 \ @18 \ @20 
 ## 16
-§-1 
+@-1 
 ### La potencia de los Simpson en Gaza
-§3 
+@3 
 ### Sansón traicionado por Dalila, cegado por los filisteos y encarcelado en Gaza
-§5 \ §6 \ §7 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §17 \ §20 \ §22 
+@5 \ @6 \ @7 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @17 \ @20 \ @22 
 ### Humillación, venganza final y muerte de los Simpson
-§23 §24 \ §30 \ 
+@23 @24 \ @30 \ 
 ## 17
-§-1 
+@-1 
 ### Miqueas y su madre establecieron la idolatría en el monte Efraín
-§2 \ §3 \ §4 \ §5 §6 
+@2 \ @3 \ @4 \ @5 @6 
 ### Miqueas nombra a un levita errante de Judá sacerdote en su santuario
-§7 §9 \ 
+@7 @9 \ 
 ## 18
-§-1 
+@-1 
 ### Los espías daneses en la casa de Micha; el resultado de su exploración del área alrededor de la ciudad de Lais
-§2 \ §3 \ §4 \ §5 \ §6 \ §8 \ §10 
+@2 \ @3 \ @4 \ @5 \ @6 \ @8 \ @10 
 ### Los danitas enviados a conquistar la ciudad de Lais roban los santuarios de Miqueas en el camino y se llevan al sacerdote con ellos
-§13 \ §14 §17 \ §18 \ §19 \ §23 \ §24 \ §25 \ §26 
+@13 \ @14 @17 \ @18 \ @19 \ @23 \ @24 \ @25 \ @26 
 ### Los danitas conquistan Lais y establecieron allí el servicio de pinturas de Miqueas y el sacerdocio de Jonatán mosaico
-§29 §30 §31 
+@29 @30 @31 
 ## 19
-§-1 
+@-1 
 ### La visita de un levita a Belén para recuperar a su concubina
-§1 §4 \ §8 \ §10 
+@1 @4 \ @8 \ @10 
 ### Contemplación y recepción del hombre en Guibeá
-§11 \ §15 \ §17 \ §19 \ §21 
+@11 \ @15 \ @17 \ @19 \ @21 
 ### El ultraje de la mujer y el regreso del levita
-§22 \ §23 §24 \ §27 \ §28 \ 
+@22 \ @23 @24 \ @27 \ @28 \ 
 ## 20
-§-1 
+@-1 
 ### Asesorar a las tribus israelitas en Mizpa; su despliegue a la guerra
-§1 §3 \ §7 \ §11 
+@1 @3 \ @7 \ @11 
 ### Los benjaminitas, en lugar de entregar a los malhechores, también se arman para la batalla
-§13 \ §17 
+@13 \ @17 
 ### Derrota sangrienta de los israelitas en los dos primeros días de la batalla; tu solicitud en Betel
-§18 \ §23 \ §25 \ §26 §28 
+@18 \ @23 \ @25 \ @26 @28 
 ### La destrucción de Gibeas y el exterminio casi completo de la tribu de Benjamín
-§31 \ §32 \ §47 §48 
+@31 \ @32 \ @47 @48 
 ## 21
-§-1 
+@-1 
 ### Duelo de la comunidad; a los benjaminitas se les asignan doncellas de la ciudad de Jabes
-§2 §3 \ §7 §12 \ §13 §14 
+@2 @3 \ @7 @12 \ @13 @14 
 ### El robo de las doncellas de Silo por los benjaminitas; La historia termina
-§22 \ 
+@22 \ 
 # Rut
 ## 1
-§-1 
+@-1 
 ### El destino de Noemí en la tierra de los moabitas
-§6 
+@6 
 ### Partida de Noemí y sus dos nueras para regresar a Belén; La despedida de Orpa, la lealtad de Ruth
-§9 \ §10 \ §13 \ §15 \ §17 \ §18 
+@9 \ @10 \ @13 \ @15 \ @17 \ @18 
 ### Llegada y recepción de las dos mujeres en Belén
-§19 \ §20 §22 
+@19 \ @20 @22 
 ## 2
-§-1 
+@-1 
 ### Rut viene a recoger espigas en el campo del booz, quien pregunta por ella y la recibe amablemente
-§2 \ §3 \ §4 \ §5 \ §7 \ §9 \ §10 \ §12 \ §13 
+@2 \ @3 \ @4 \ @5 \ @7 \ @9 \ @10 \ @12 \ @13 
 ### Rut sigue siendo tratada amablemente por Booz, llega a casa con una rica cosecha y recibe información sobre Booz de su suegra
-§14 \ §16 \ §18 \ §19 \ §20 \ §21 \ 
+@14 \ @16 \ @18 \ @19 \ @20 \ @21 \ 
 ## 3
-§-1 
+@-1 
 ### Siguiendo el consejo de Noemí, Rut va a la era de Booz y se acuesta a sus pies
-§4 \ §7 
+@4 \ @7 
 ### Rut habla con Booz, recibe la confirmación solicitada y regresa a Noemí con un regalo
-§9 \ §10 §13 \ §15 \ §16 \ §17 \ 
+@9 \ @10 @13 \ @15 \ @16 \ @17 \ 
 ## 4
-§-1 
+@-1 
 ### La negociación pública entre Booz y el Solver
-§4 \ §5 \ §6 \ §7 §8 \ §10 \ §12 
+@4 \ @5 \ @6 \ @7 @8 \ @10 \ @12 
 ### El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
-§13 §17 \ §18 §19 
+@13 @17 \ @18 @19 
 # 1 Samuel
 ## 1
-§-1 
+@-1 
 ### El nacimiento y ordenación de Samuel como siervo del Señor en Silo; Canción de alabanza de Hanna
-§1 §2 §3 §8 
+@1 @2 @3 @8 
 ### Los votos de Hanna en Silo y su conversación con Eli
-§11 \ §14 \ §15 §16 \ §17 \ §18 
+@11 \ @14 \ @15 @16 \ @17 \ @18 
 ### Nacimiento de Samuel, primera infancia y consagración en Silo
-§19 \ §20 \ §22 \ §23 \ §27 §28 
+@19 \ @20 \ @22 \ @23 \ @27 @28 
 ## 2
-§-1 
+@-1 
 ### Himno de alabanza a Hanna; Inicio de servicio de Samuel en Silo
-§1 §7 §8 §9 §10 \ §11 
+@1 @7 @8 @9 @10 \ @11 
 ### La maldad de los hijos de Elí; Anuncio del juicio divino
-§13 §15 \ §17 
+@13 @15 \ @17 
 ### Hanna y el niño del coro Samuel
-§21 
+@21 
 ### Las suaves amonestaciones de Elí a sus hijos degenerados
-§22 §25 \ §26 
+@22 @25 \ @26 
 ### Refrán del Profeta: Anuncio de la caída de Eli y su casa
-§30 §31 §33 §34 §36 
+@30 @31 @33 @34 @36 
 ## 3
-§-1 
+@-1 
 ### Dios se revela a Samuel y anuncia la caída de la casa de Elí
-§1 §4 \ §5 \ §6 \ §8 \ §10 \ §14 
+@1 @4 \ @5 \ @6 \ @8 \ @10 \ @14 
 ### Samuel comparte la revelación con Elí y comienza su trabajo como profeta para todo Israel
-§16 \ §17 \ §18 \ 
+@16 \ @17 \ @18 \ 
 ## 4
-§-1 
+@-1 
 ### Die Bundeslade ins Lager der Israeliten geholt
-§1 \ §3 \ §4 
+@1 \ @3 \ @4 
 ### El efecto de este evento en las partes en conflicto; Derrota de los israelitas y pérdida del arca
-§9 §11 
+@9 @11 
 ### Los tristes efectos del mensaje en Shiloh; la muerte de Eli y su nuera
-§14 \ §16 \ §17 \ §18 \ §20 §21 §22 
+@14 \ @16 \ @17 \ @18 \ @20 @21 @22 
 ## 5
-§-1 
+@-1 
 ### En la tierra de los filisteos, el arca está causando estragos en varias ciudades
-§2 §6 \ §8 \ §10 \ 
+@2 @6 \ @8 \ @10 \ 
 ## 6
-§-1 
+@-1 
 ### Resolución de los filisteos sobre el regreso del arca
-§2 \ §3 \ §4 \ §6 \ §9 
+@2 \ @3 \ @4 \ @6 \ @9 
 ### Ejecución de la resolución; Llegada y recepción del arca en Bet-semes
-§18 
+@18 
 ### Se instala el arca en Quiriat-Jearim
-§19 §20 \ 
+@19 @20 \ 
 ## 7
-§1 
+@1 
 ### Los israelitas se vuelven arrepentidos a Dios
-§3 §4 
+@3 @4 
 ### La intercesión y el sacrificio de Samuel por Israel en Mizpa; Derrota de los filisteos; la piedra Eben-Eser
-§5 §6 \ §11 \ §12 
+@5 @6 \ @11 \ @12 
 ### Estado de paz en el país; La eficacia de Samuel como juez
-§13 \ §14 \ 
+@13 \ @14 \ 
 ## 8
-§-1 
+@-1 
 ### El deseo de Israel por un rey; La demanda del pueblo despierta el disgusto de Samuel, pero encuentra la aprobación de Dios
-§1 §3 \ §4 §5 §6 \ §9 
+@1 @3 \ @4 @5 @6 \ @9 
 ### Samuel le dice a la gente los derechos de un rey
-§18 
+@18 
 ### La gente persiste en su demanda; La aprobación de dios
-§20 \ §22 
+@20 \ @22 
 ## 9
-§-1 
+@-1 
 ### Saúl llega a la casa de Samuel en busca de los asnos de su padre
-§2 \ §4 \ §5 \ §6 \ §7 \ §9 
+@2 \ @4 \ @5 \ @6 \ @7 \ @9 
 ### La cálida bienvenida de Saúl y el trato honorable de parte de Samuel
-§11 \ §13 \ §14 \ §16 \ §17 \ §18 \ §20 \ §21 \ §24 \ §25 
+@11 \ @13 \ @14 \ @16 \ @17 \ @18 \ @20 \ @21 \ @24 \ @25 
 ### Saúl ungido rey por Samuel; su regreso a Guibeá
 ## 10
-§1 
+@1 
 ### Samuel profetiza tres señales que Saúl recibirá de camino a casa y lo envía a Gilgal
-§2 \ §4 \ §6 §7 \ §8 
+@2 \ @4 \ @6 @7 \ @8 
 ### La llegada de los carteles anunciados; Saulo entre los profetas
-§10 §11 \ §12 
+@10 @11 \ @12 
 ### Saul de regreso a casa; su conversación reservada con su prima
-§14 \ §15 \ §16 
+@14 \ @15 \ @16 
 ### Saúl está decidido a ser rey en Mizpa por la santa suerte
-§19 \ §20 §22 \ §24 \ §25 §27 
+@19 \ @20 @22 \ @24 \ @25 @27 
 ## 11
-§-1 
+@-1 
 ### La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas
-§1 \ §2 \ §3 
+@1 \ @2 \ @3 
 ### La conducta decidida de Saúl y su espléndida victoria
-§4 \ §6 §7 §11 
+@4 \ @6 @7 @11 
 ### La generosidad de Saúl hacia sus despreciadores; Celebración de la alegría en Gilgal
-§12 \ §13 \ §14 §15 
+@12 \ @13 \ @14 @15 
 ## 12
-§-1 
+@-1 
 ### La renuncia voluntaria de Samuel y la solemne despedida del pueblo
-§3 \ §4 \ §5 
+@3 \ @4 \ @5 
 ### Samuel le recuerda al pueblo los muchos beneficios de Dios
-§7 \ §9 §11 
+@7 \ @9 @11 
 ### Samuel demuestra al pueblo a través de una maravillosa señal divina que han pecado al elegir un rey
-§12 §15 \ §17 \ §18 
+@12 @15 \ @17 \ @18 
 ### Samuel anima al pueblo, les exhorta a temer a Dios y les manda recibir bendiciones divinas
-§19 \ §22 §23 §24 §25 
+@19 \ @22 @23 @24 @25 
 ## 13
-§-1 
+@-1 
 ### Estallido de la guerra filistea; La primera desobediencia de Saúl mediante un sacrificio apresurado
-§1 \ §7 
+@1 \ @7 
 ### El sacrificio apresurado y arbitrario de Saúl en Gilgal; Rompe entre Samuel y el rey; El rechazo de Saúl
-§8 §9 \ §11 \ §12 \ §14 
+@8 @9 \ @11 \ @12 \ @14 
 ### El pequeño ejército de Saúl; el pillaje de los filisteos; Indefensión de los israelitas
-§22 \ 
+@22 \ 
 ## 14
-§-1 
+@-1 
 ### El heroísmo de Jonathan; La victoria de Saúl sobre los filisteos
-§3 \ §6 \ §7 \ §10 \ §12 \ §13 §14 \ §15 
+@3 \ @6 \ @7 \ @10 \ @12 \ @13 @14 \ @15 
 ### Saúl interviene y obtiene una brillante victoria
-§17 \ §19 \ §20 §23 
+@17 \ @19 \ @20 @23 
 ### El celo intempestivo de Saúl; Jonathan está amenazado de muerte; Las guerras de Saúl y su familia
-§24 \ §28 \ §33 \ §34 \ §35 
+@24 \ @28 \ @33 \ @34 \ @35 
 ### Jonatán, amenazado de muerte por el celo ciego de Saúl, es salvado por el ejército
-§36 \ §37 §40 \ §41 \ §42 \ §43 \ §44 \ §46 
+@36 \ @37 @40 \ @41 \ @42 \ @43 \ @44 \ @46 
 ### Los otros actos de guerra de Saúl y su familia
-§50 §51 \ 
+@50 @51 \ 
 ## 15
-§-1 
+@-1 
 ### La campaña de Saúl contra los amalecitas; su desobediencia a Dios y su rechazo
-§2 §3 \ §6 \ §9 
+@2 @3 \ @6 \ @9 
 ### Saulo rechazado por Dios a causa de su desobediencia; El discurso de Samuel y la admisión de culpabilidad de Saúl
-§11 \ §12 \ §13 \ §14 \ §15 \ §16 \ §19 \ §21 \ §22 §23 \ §25 \ §28 §29 \ §30 \ §31 
+@11 \ @12 \ @13 \ @14 \ @15 \ @16 \ @19 \ @21 \ @22 @23 \ @25 \ @28 @29 \ @30 \ @31 
 ### Samuel realiza la proscripción del rey Agag y se separa de Saúl para no volver a ser visto
-§32 \ §33 \ 
+@32 \ @33 \ 
 ## 16
-§-1 
+@-1 
 ### El llamado y unción de David por Samuel
-§1 \ §2 \ §3 \ §4 \ §5 
+@1 \ @2 \ @3 \ @4 \ @5 
 ### Samuel unge como rey al hijo menor de Isaí, David
-§6 \ §7 \ §11 \ §12 \ §13 
+@6 \ @7 \ @11 \ @12 \ @13 
 ### David es llamado a tocar el arpa en la corte de Saúl y entra al servicio real
-§14 §16 \ §17 \ §18 \ §19 \ §23 
+@14 @16 \ @17 \ @18 \ @19 \ @23 
 ## 17
-§-1 
+@-1 
 ### David y el campeón enemigo Goliat
-§10 \ §11 
+@10 \ @11 
 ### David, enviado por su padre a sus hermanos en el campamento, está indignado por la arrogancia de Goliat y se siente llamado a pelear con él
-§13 §15 \ §16 \ §19 \ §25 \ §26 \ §27 \ §28 \ §30 
+@13 @15 \ @16 \ @19 \ @25 \ @26 \ @27 \ @28 \ @30 
 ### David se ofrece a duelo, pero rechaza la armadura de Saúl y solo usa su honda como arma
-§32 \ §33 \ §37 \ §39 \ §40 
+@32 \ @33 \ @37 \ @39 \ @40 
 ### La lucha victoriosa de David con Goliat
-§42 §44 \ §47 \ §51 \ §54 
+@42 @44 \ @47 \ @51 \ @54 
 ### Saúl pregunta por David
-§55 \ §56 \ 
+@55 \ @56 \ 
 ## 18
-§-1 
+@-1 
 ### David llega a la corte de Saúl; su relación con Saúl y Jonatán
-§3 §4 \ §5 
+@3 @4 \ @5 
 ### Regreso festivo de los guerreros; David fue celebrado como el vencedor por la gente
-§6 §7 \ §9 
+@6 @7 \ @9 
 ### David, odiado mortalmente por Saúl, demuestra ser un héroe de guerra
-§10 §11 §13 \ §14 §16 
+@10 @11 @13 \ @14 @16 
 ### David, engañado para casarse con la hija mayor de Saúl, se casó con su hermana menor, Michal
-§17 \ §18 \ §19 
+@17 \ @18 \ @19 
 ### El servicio militar de David para la novia
-§21 \ §22 \ §23 \ §24 \ §29 \ 
+@21 \ @22 \ @23 \ @24 \ @29 \ 
 ## 19
-§-1 
+@-1 
 ### La reconciliación de Saúl con David como resultado de la intercesión de Jonatán; Después de los repetidos asesinatos de Saúl, David huye a Samuel
-§1 §3 \ §5 \ §6 \ §7 
+@1 @3 \ @5 \ @6 \ @7 
 ### La nueva fortuna de David en la guerra; El repetido intento de asesinato de Saúl
-§8 \ §9 §10 
+@8 \ @9 @10 
 ### El escape de David a su hogar y su salvación a través de la astucia de Michal
-§14 \ §16 \ §17 
+@14 \ @16 \ @17 
 ### David con Samuel en Rama; El rapto profético de Saúl en la casa profética allí
-§19 \ §20 §22 \ 
+@19 \ @20 @22 \ 
 ## 20
-§-1 
+@-1 
 ### La reunión de David y la discusión con Jonatán; Renovación de su alianza de amistad
-§1 \ §2 \ §3 \ §4 
+@1 \ @2 \ @3 \ @4 
 ### La sugerencia de David
-§8 \ §9 \ §10 \ §11 
+@8 \ @9 \ @10 \ @11 
 ### El juramento mutuo
-§16 \ §17 
+@16 \ @17 
 ### Acordar el procedimiento a seguir para la comunicación de la información
-§23 
+@23 
 ### Curso de las dos comidas del mediodía en casa de Saúl en la luna nueva y al día siguiente
-§26 \ §27 \ §29 \ §31 \ §32 \ §33 §34 
+@26 \ @27 \ @29 \ @31 \ @32 \ @33 @34 
 ### Jonatán informa a David de la situación desfavorable y se despide de él
-§40 \ 
+@40 \ 
 ## 21
-§-1 
+@-1 
 ### David como refugiado en Nob y Gat; El asesinato del sacerdote por parte de Saúl
-§3 \ §4 \ §5 §6 \ §7 \ §8 \ §9 
+@3 \ @4 \ @5 @6 \ @7 \ @8 \ @9 
 ### David se vuelve loco con el rey Achis en Gat
-§11 \ §12 §14 §15 
+@11 \ @12 @14 @15 
 ## 22
-§-1 
+@-1 
 ### La posterior huida de David a Adullam, Mizpe en Moab y Jaar-Hereth en Judá; su cuidado por sus padres
-§2 §5 
+@2 @5 
 ### La queja de Saúl a los que lo rodeaban en Guibeá; Traición del edomita Doeg; La sangrienta venganza de Saúl contra los sacerdotes de Nob
-§8 \ §9 §10 
+@8 \ @9 @10 
 ### El plato de sangre en Guibeá
-§12 \ §13 \ §15 \ §17 \ §18 \ §19 
+@12 \ @13 \ @15 \ @17 \ @18 \ @19 
 ### El sacerdote fugitivo Abjathar encuentra una recepción amistosa con David
-§21 \ 
+@21 \ 
 ## 23
-§-1 
+@-1 
 ### David en el desierto de Judá (en Kegila y Maon); su último encuentro con Jonathan; Traición de los sifitas
-§1 \ §2 \ §3 \ §4 \ §5 \ §6 \ §11 \ §12 \ §13 
+@1 \ @2 \ @3 \ @4 \ @5 \ @6 \ @11 \ @12 \ @13 
 ### David perseguido por Saúl en el desierto de Siph; su entrevista con Jonathan en Horesa
-§14 §15 \ §18 
+@14 @15 \ @18 
 ### David traicionado por los sifitas y maravillosamente salvado de Saúl en el desierto de Maón
-§19 §20 \ §23 \ 
+@19 @20 \ @23 \ 
 ## 24
-§-1 
+@-1 
 ### La generosidad de David hacia Saúl en la cueva cerca de Engedi
-§7 §8 
+@7 @8 
 ### Los discursos intercambiados entre Saúl y David; su despedida
-§15 \ §21 \ 
+@15 \ @21 \ 
 ## 25
-§-1 
+@-1 
 ### La muerte de Samuel; La locura de Nabal; David y Abigail
-§1 
+@1 
 ### El comportamiento necio de Nabal hacia la petición de David
-§8 \ §9 \ §11 \ §12 
+@8 \ @9 \ @11 \ @12 
 ### David se lanza a la venganza; Abigail se entera de la erupción de su marido
-§13 \ §17 
+@13 \ @17 
 ### Abigail usa métodos inteligentes para evitar que David tome su venganza
-§20 \ §22 \ §31 \ §34 \ §35 
+@20 \ @22 \ @31 \ @34 \ @35 
 ### La muerte repentina de Nabal; El matrimonio de David con Abigail (y Ahinoam)
-§39 \ §40 \ §42 §43 \ 
+@39 \ @40 \ @42 @43 \ 
 ## 26
-§-1 
+@-1 
 ### La renovada generosidad de David hacia Saúl en el desierto de Siph
-§1 §5 \ §6 \ §8 \ §11 \ §12 
+@1 @5 \ @6 \ @8 \ @11 \ @12 
 ### La aclamación burlona de David a Abner
-§14 \ §16 
+@14 \ @16 
 ### Los discursos intercambiados entre Saúl y David; la divergencia de ambos
-§17 \ §20 \ §21 \ §24 \ 
+@17 \ @20 \ @21 \ @24 \ 
 ## 27
-§-1 
+@-1 
 ### La conversión de David a los filisteos; su estancia con el príncipe filisteo Achis en Gat y en Siclag
-§3 §4 \ §7 
+@3 @4 \ @7 
 ### La vida privada de David; su engaño a los filisteos
-§9 \ §10 \ §11 \ §12 
+@9 \ @10 \ @11 \ @12 
 ## 28
-§-1 
+@-1 
 ### La guerra con los filisteos; Saul con el nigromante en Endor
-§1 \ §2 
+@1 \ @2 
 ### Comienzo de la guerra; En su perplejidad, Saúl decide cuestionar un oráculo de los muertos
-§3 \ §6 §7 
+@3 \ @6 @7 
 ### Saul con el nigromante en Endor; la aparición y profecía de la desgracia del espíritu de Samuel
-§8 \ §9 \ §10 \ §11 \ §12 \ §13 \ §14 \ §15 \ §18 §19 
+@8 \ @9 \ @10 \ @11 \ @12 \ @13 \ @14 \ @15 \ @18 @19 
 ### Efecto de la profecía sobre Saulo
-§20 \ §22 \ 
+@20 \ @22 \ 
 ## 29
-§-1 
+@-1 
 ### El envío de David a casa a instancias de los sospechosos príncipes filisteos
-§1 §2 \ §3 \ §5 \ §7 \ §8 \ §9 §10 \ 
+@1 @2 \ @3 \ @5 \ @7 \ @8 \ @9 @10 \ 
 ## 30
-§-1 
+@-1 
 ### David encuentra Siclag devastada por los amalecitas; su consternación y aliento
-§7 \ §8 \ §10 
+@7 \ @8 \ @10 
 ### La persecución y destrucción de David de la banda de ladrones de Amalecita
-§13 \ §14 \ §15 \ §20 
+@13 \ @14 \ @15 \ @20 
 ### David hace que su pueblo lleve ante la justicia a sus camaradas
-§22 \ §25 
+@22 \ @25 
 ### David envía regalos a los ancianos en numerosas ciudades de Judá
 ## 31
-§-1 
+@-1 
 ### La derrota de Israel y el desastre de Saúl y su casa
-§4 §6 \ §7 
+@4 @6 \ @7 
 ### El destino de los cadáveres de Saúl y sus hijos
 # 2 Samuel
 ## 1
-§-1 
+@-1 
 ### La queja de David por Saúl y Jonatán ante la noticia de sus muertes
-§2 
+@2 
 ### El informe del mensajero sobre los momentos finales de Saúl
-§3 \ §4 \ §5 \ §10 
+@3 \ @4 \ @5 \ @10 
 ### El dolor de David; Matando al mensajero
-§11 §12 \ §13 \ §14 §15 §16 
+@11 @12 \ @13 \ @14 @15 @16 
 ### Lamentación de David por Saúl y Jonatán
-§20 §21 §27 
+@20 @21 @27 
 ## 2
-§-1 
+@-1 
 ### David llega a ser rey sobre la tribu de Judá, Isboseth sobre Israel
-§1 \ §2 §3 
+@1 \ @2 @3 
 ### El mensaje de David al pueblo de Jabes
-§4 §7 
+@4 @7 
 ### Isboseth, hijo de Saúl, se convierte en rey de Israel
-§11 
+@11 
 ### Juego de lucha y batalla en Gabaón; La victoria de Joab
-§14 \ §17 
+@14 \ @17 
 ### Asael, el hermano menor de Joab, muerto en persecución de Abner
-§18 §19 \ §20 \ §23 
+@18 @19 \ @20 \ @23 
 ### Fin de la persecución; Continuación de la guerra
-§26 \ §29 \ 
+@26 \ @29 \ 
 ## 3
-§1 
+@1 
 ### La familia de David en Hebrón
-§2 §4 §5 
+@2 @4 @5 
 ### Abner se está peleando con Isboseth
-§7 \ §10 \ §11 
+@7 \ @10 \ @11 
 ### Las negociaciones de Abner con David y los jefes de Israel
-§12 \ §14 \ §16 \ §18 \ §19 
+@12 \ @14 \ @16 \ @18 \ @19 
 ### El encuentro de Abner con David en Hebrón; su asesinato por Joab
-§21 \ §23 \ §25 \ §27 
+@21 \ @23 \ @25 \ @27 
 ### Abner hizo duelo por David y fue sepultado con honor; La declaración de inocencia de David; Graduación
-§30 \ §32 §34 \ §35 \ 
+@30 \ @32 @34 \ @35 \ 
 ## 4
-§-1 
+@-1 
 ### Asesinato de Isboseth; Coronación de David como Rey de todo Israel
-§3 \ §4 \ §6 
+@3 \ @4 \ @6 
 ### David castiga a los asesinos y honra al muerto Isboseth
-§8 \ 
+@8 \ 
 ## 5
-§-1 
+@-1 
 ### David ungido rey por todos los israelitas en Hebrón
-§1 §2 §3 \ §4 §5 
+@1 @2 @3 \ @4 @5 
 ### David conquista Jerusalén y la convierte en su capital y su residencia
-§8 \ §10 
+@8 \ @10 
 ### Sus construcciones (con la ayuda de Hiram de Tiro); Aumentando el número de sus esposas; sus hijos nacidos en Jerusalén
-§12 \ §16 
+@12 \ @16 
 ### Sus dos batallas victoriosas con los filisteos
-§19 \ §21 \ §24 \ 
+@19 \ @21 \ @24 \ 
 ## 6
-§-1 
+@-1 
 ### Traslado del arca a Sion en Jerusalén; Fracaso del primer intento
-§2 §3 §5 \ §7 §11 
+@2 @3 @5 \ @7 @11 
 ### Traslado solemne del arca a Jerusalén; Fiesta del sacrificio y acción de gracias del pueblo
-§12 \ §13 §15 \ §18 §19 
+@12 \ @13 @15 \ @18 @19 
 ### La noble conducta de David y su humilde declaración contra Mical
-§20 \ §22 \ 
+@20 \ @22 \ 
 ## 7
-§-1 
+@-1 
 ### Natán aprueba el plan de David para construir el templo
-§2 \ §3 
+@2 \ @3 
 ### Rechazo de Dios del plan; El discurso profético de Nathan; el templo será construido por el hijo de David
-§6 §12 §13 
+@6 @12 @13 
 ### La gran proclamación de salvación de Dios a David con respecto a la eternidad de su casa
-§14 §15 §16 
+@14 @15 @16 
 ### Acción de gracias y súplica de David
-§17 \ §23 §24 \ §27 \ §28 §29 
+@17 \ @23 @24 \ @27 \ @28 @29 
 ## 8
-§-1 
+@-1 
 ### Las victorias de David sobre los filisteos, moabitas y sirios
-§2 \ §6 
+@2 \ @6 
 ### El botín y sus usos; Felicitaciones del Rey Thoi
-§8 \ §12 
+@8 \ @12 
 ### Derrota y subyugación de los edomitas
-§13 §14 
+@13 @14 
 ### Directorio de los principales oficiales de David
-§16 §18 
+@16 @18 
 ## 9
-§-1 
+@-1 
 ### La generosidad de David hacia el hijo de Jonatán, Mefiboset
-§2 \ §3 \ §4 
+@2 \ @3 \ @4 
 ### Las magnánimas disposiciones de David con respecto a Mefiboset
-§6 \ §7 \ §8 \ §10 \ §11 §13 
+@6 \ @7 \ @8 \ @10 \ @11 @13 
 ## 10
-§-1 
+@-1 
 ### El vergonzoso crimen de los amonitas contra el mensajero de David
-§2 \ §3 \ §5 
+@2 \ @3 \ @5 
 ### Comienzo de la guerra; primeros trabajos ganados
-§14 
+@14 
 ### El mismo David en el campo; su victoria sobre los sirios aliados con los amonitas
 ## 11
-§-1 
+@-1 
 ### El adulterio de David con Betsabé
-§1 §2 §3 \ §4 §5 
+@1 @2 @3 \ @4 @5 
 ### El comportamiento ejemplar de Uria durante su estancia en el Palacio de David
-§10 \ §11 \ §13 
+@10 \ @11 \ @13 
 ### La carta de Urias; La muerte de Urías; El mensaje de Joab a David; Aviso del rey
-§15 \ §21 \ §24 \ §25 
+@15 \ @21 \ @24 \ @25 
 ### El duelo de Betsabé por su marido; su matrimonio con David
-§27 
+@27 
 ## 12
-§-1 
+@-1 
 ### El discurso de Nathan y el anuncio de la perdición; La confesión de culpa y arrepentimiento de David
-§4 \ §6 \ §7 §10 \ §12 \ §13 \ §14 
+@4 \ @6 \ @7 @10 \ @12 \ @13 \ @14 
 ### Enfermedad y muerte del niño Betsabé; El dolor y la renovada valentía de David; Nacimiento y educación de Salomón
-§15 \ §18 \ §19 \ §21 \ §23 \ §25 
+@15 \ @18 \ @19 \ @21 \ @23 \ @25 
 ### Joab conquista Rabá; Castigo de los amonitas
-§28 \ 
+@28 \ 
 ## 13
-§-1 
+@-1 
 ### El amor apasionado de Amnón; su indignación hacia su media hermana Thamar
-§1 §4 \ §5 
+@1 @4 \ @5 
 ### Ejecución del infame ataque
-§6 \ §11 \ §12 §13 \ §14 
+@6 \ @11 \ @12 @13 \ @14 
 ### Otro pecado vergonzoso de Amnón a Thamar
-§15 \ §16 \ §17 \ §19 
+@15 \ @16 \ @17 \ @19 
 ### El comportamiento de Absalón y el rey después del ultraje
-§20 \ §22 
+@20 \ @22 
 ### La venganza de Absalón contra Amnón
-§24 \ §25 \ §26 \ §28 \ §29 
+@24 \ @25 \ @26 \ @28 \ @29 
 ### Los eventos en el palacio de David cuando llegaron las terribles noticias
-§30 \ §36 
+@30 \ @36 
 ### La fuga de Absalón a Gesur a su abuelo
-§37 §38 
+@37 @38 
 ### La intervención de Joab; la conversación de la sabia esposa de Thecoa con David
 ## 14
-§3 
+@3 
 ### El primer discurso de la sabia
-§4 \ §5 \ §7 \ §8 \ §9 \ §10 \ §11 
+@4 \ @5 \ @7 \ @8 \ @9 \ @10 \ @11 
 ### Nuevo discurso de mujer sabia
-§12 \ §17 
+@12 \ @17 
 ### El rey ve a través del astuto plan
-§18 \ §19 \ §20 
+@18 \ @19 \ @20 
 ### La promesa de David; Joab agradece al rey por haber cumplido su pedido y trae a Absalón
-§21 \ §22 \ §23 §24 
+@21 \ @22 \ @23 @24 
 ### La belleza de Absalón; sus hijos
-§27 
+@27 
 ### Absalón hace que Joab lo reconcilie formalmente con su padre
-§30 \ §31 \ §32 \ 
+@30 \ @31 \ @32 \ 
 ## 15
-§-1 
+@-1 
 ### Actividades ambiciosas y favorables de Absalom
-§1 §2 \ §6 
+@1 @2 \ @6 
 ### La conspiración y la indignación de Absalón en Hebrón
-§8 \ §9 \ §10 \ §12 
+@8 \ @9 \ @10 \ @12 
 ### David huye apresuradamente de Jerusalén después de dejar atrás algunas concubinas
-§13 \ §14 \ §15 \ §16 
+@13 \ @14 \ @15 \ @16 
 ### La gente de guerra marchando frente al rey; la lealtad de Itthai
-§18 \ §19 §20 \ §21 \ §23 
+@18 \ @19 @20 \ @21 \ @23 
 ### La comisión de David a Sadoc y Abiatar
-§26 §27 §29 
+@26 @27 @29 
 ### Marcha de David en el monte de los Olivos; su orden a Husai
-§30 \ §31 \ §34 §36 \ §37 
+@30 \ @31 \ @34 @36 \ @37 
 ## 16
-§-1 
+@-1 
 ### Siba, el siervo de Mefiboseth, da presentes al rey; su informe de mentiras sobre Mefiboset
-§1 §2 \ §3 \ §4 
+@1 @2 \ @3 \ @4 
 ### Comportamiento indigno de Simei hacia el rey
-§8 \ §9 §10 \ §14 
+@8 \ @9 @10 \ @14 
 ### Absalón engañado por Husai
-§16 \ §17 \ §19 
+@16 \ @17 \ @19 
 ### Se siguió el primer consejo de Ahitofel de Absalón
-§20 \ §21 \ §22 \ 
+@20 \ @21 \ @22 \ 
 ## 17
-§-1 
+@-1 
 ### El segundo excelente consejo de Ahitofel fue rechazado por Husai y rechazado por Absalón
-§1 §3 \ §5 \ §6 \ §13 \ §14 
+@1 @3 \ @5 \ @6 \ @13 \ @14 
 ### Husai y los sacerdotes envían mensajes en secreto al rey; David pone sobre el Jordán
-§16 \ §20 \ §21 \ §22 
+@16 \ @20 \ @21 \ @22 
 ### El suicidio de Ahitofel
-§23 
+@23 
 ### Absalón comienza la persecución de David y le da a Amasa el mando supremo; David en Mahanaim
-§26 \ §27 §29 
+@26 \ @27 @29 
 ## 18
-§-1 
+@-1 
 ### Las órdenes militares de David; Salida de su ejército
-§2 \ §3 \ §4 \ §5 
+@2 \ @3 \ @4 \ @5 
 ### Absalón es derrotado y asesinado por el mismo Joab; su tumba
-§8 \ §10 \ §11 \ §12 §13 \ §17 \ §18 
+@8 \ @10 \ @11 \ @12 @13 \ @17 \ @18 
 ### David recibe la noticia de la muerte de Absalón; su dolor
-§19 \ §20 \ §21 \ §22 \ §23 
+@19 \ @20 \ @21 \ @22 \ @23 
 ### David en la puerta de Mahanaim; su dolor por la muerte de Absalón
-§25 \ §26 \ §27 \ §28 \ §29 \ §30 \ §31 \ §32 \ 
+@25 \ @26 \ @27 \ @28 \ @29 \ @30 \ @31 \ @32 \ 
 ## 19
-§1 
+@1 
 ### Efecto maligno del dolor de David en el ejército; La reprensión de Joab; David se levanta
-§2 \ §4 \ §7 \ §8 
+@2 \ @4 \ @7 \ @8 
 ### Sobre de sentimiento popular por David; Las negociaciones de David con los ancianos de Judá y con Amasa
-§10 \ §14 \ §15 
+@10 \ @14 \ @15 
 ### David regresa y es alcanzado por los judíos; su dulzura hacia Simei
-§18 \ §20 \ §21 \ §23 \ §24 
+@18 \ @20 \ @21 \ @23 \ @24 
 ### Mefiboset se justifica a sí mismo contra David
-§25 \ §28 \ §29 \ §30 \ §31 
+@25 \ @28 \ @29 \ @30 \ @31 
 ### Cordial conversación de Barsillai con David; Cruzando el Jordán
-§33 \ §37 \ §38 \ §41 
+@33 \ @37 \ @38 \ @41 
 ### Celos y amarga disputa entre Israel y Judá para alcanzar a David
-§42 \ 
+@42 \ 
 ## 20
-§-1 
+@-1 
 ### Órdenes de David en Jerusalén
-§1 \ §2 \ §3 \ §4 \ §6 \ §7 
+@1 \ @2 \ @3 \ @4 \ @6 \ @7 
 ### El asesinato de Amasa por Joab
-§10 §11 \ §13 
+@10 @11 \ @13 
 ### Seba de Joab guerrea y asesina a instigación de una mujer inteligente; El regreso de Joab a Jerusalén
-§15 \ §17 \ §19 \ §21 \ §22 
+@15 \ @17 \ @19 \ @21 \ @22 
 ### Los altos funcionarios de David
 ## 21
-§-1 
+@-1 
 ### Declaración de la deuda de Saúl; el requisito de los gabaonitas
-§1 \ §2 §3 \ §4 \ §6 
+@1 \ @2 @3 \ @4 \ @6 
 ### La promesa de David y su ejecución a la familia de Saúl
-§7 §8 §9 
+@7 @8 @9 
 ### La maravillosa muestra de amor de Rizpa; Sepultura de los huesos de Saúl y sus descendientes
-§12 §14 
+@12 @14 
 ### Algunas hazañas de los guerreros de David en las guerras filisteas
-§17 \ §18 §19 §22 
+@17 \ @18 @19 @22 
 ## 22
-§-1 
+@-1 
 ### El cántico de acción de gracias y victoria de David después de derrotar a sus enemigos
 ## 23
-§-1 
+@-1 
 ### Las últimas palabras de David
-§7 
+@7 
 ### Directorio y hazañas de los guerreros de David
-§12 
+@12 
 ### Riesgo de tres héroes
-§15 \ §17 
+@15 \ @17 
 ### Abisai y Benaja
-§18 §19 \ §23 
+@18 @19 \ @23 
 ### Una lista de otros héroes de David
-§24 §34 §39 
+@24 @34 @39 
 ## 24
-§-1 
+@-1 
 ### David decide el censo a pesar de la advertencia de Joab
-§1 §2 \ §3 \ §4 
+@1 @2 \ @3 \ @4 
 ### Ejecución del censo y su resultado
-§9 
+@9 
 ### El arrepentimiento de David; Intervención del profeta Gad; David elige una muerte popular para expiar su culpa; La penitencia y la súplica de David
-§10 \ §12 \ §13 \ §14 \ §16 \ §17 
+@10 \ @12 \ @13 \ @14 \ @16 \ @17 
 ### Montaje de un altar en la era de Arawnas; Fin de la plaga
-§18 \ §21 \ §23 \ 
+@18 \ @21 \ @23 \ 
 # 1 Reyes
 ## 1
-§-1 
+@-1 
 ### La vejez de David; Abisag ordenó por Sunem cuidar al rey
-§4 
+@4 
 ### Las aspiraciones de Adonias a gobernar; su organización de una comida de sacrificio
-§7 §8 \ §10 
+@7 @8 \ @10 
 ### La cita de Nathan con Betsabé
-§14 
+@14 
 ### Betsabé le recuerda al rey su promesa; La intervención de Nathan
-§16 \ §19 §21 \ §23 \ §25 §26 §27 
+@16 \ @19 @21 \ @23 \ @25 @26 @27 
 ### David confirma su promesa anterior con un juramento, nombra a Salomón como su sucesor y determina su unción inmediata
-§30 \ §31 \ §35 \ §37 
+@30 \ @31 \ @35 \ @37 
 ### La unción solemne de Salomón; Efecto del mensaje en cuestión en los reunidos en la comida del sacrificio
-§39 \ §41 \ §42 \ §46 §48 \ §49 
+@39 \ @41 \ @42 \ @46 @48 \ @49 
 ### Perdon adonias
-§51 \ §52 \ 
+@51 \ @52 \ 
 ## 2
-§-1 
+@-1 
 ### Las instrucciones de David a Salomón y su muerte
-§3 §4 \ §6 §7 \ §8 §9 
+@3 @4 \ @6 @7 \ @8 @9 
 ### La muerte de David; Adquisición de Salomón
-§10 §11 §12 
+@10 @11 @12 
 ### Adonia asesinada por su deseo imprudente
-§13 \ §14 \ §15 §16 \ §17 \ §18 \ §20 \ §21 \ §22 §24 \ §25 
+@13 \ @14 \ @15 @16 \ @17 \ @18 \ @20 \ @21 \ @22 @24 \ @25 
 ### El sacerdote Abiatar depuesto y desterrado
-§27 
+@27 
 ### Joab ejecutado
-§28 §29 \ §30 \ §32 §33 \ §35 
+@28 @29 \ @30 \ @32 @33 \ @35 
 ### Simei fue detenido primero en Jerusalén y luego asesinado
-§37 \ §38 \ §39 \ §41 \ §42 §46 
+@37 \ @38 \ @39 \ @41 \ @42 @46 
 ## 3
-§-1 
+@-1 
 ### El matrimonio de Salomón con una princesa egipcia; su ofrenda inaugural y su sueño en Gabaón
-§1 §3 
+@1 @3 
 ### El sacrificio de Salomón y la aparición de Dios en Gabaón
-§4 §5 \ §6 §9 \ §13 §14 \ §15 
+@4 @5 \ @6 @9 \ @13 @14 \ @15 
 ### El sabio juicio de Salomón
-§21 \ §22 \ §23 \ §24 \ §25 \ §26 \ §27 \ 
+@21 \ @22 \ @23 \ @24 \ @25 \ @26 \ @27 \ 
 ## 4
-§-1 
+@-1 
 ### Los principales funcionarios y gobernadores de Salomón; su cortejo, poder y sabiduría
-§2 §6 \ §13 §19 \ §23 
+@2 @6 \ @13 @19 \ @23 
 ### El poder y la gloria, la sabiduría y la poesía de Salomón
 ## 5
-§-1 
+@-1 
 ### El contrato de Salomón con Hiram de Tiro y los preparativos para la construcción de un templo
-§1 
+@1 
 ### Mensaje de Salomón y petición a Hiram
-§5 §6 
+@5 @6 
 ### La respuesta y la promesa de Hiram
-§9 \ §12 
+@9 \ @12 
 ### Los obreros de Salomón y la obra preparatoria final para la construcción del templo
-§15 §18 
+@15 @18 
 ## 6
-§-1 
+@-1 
 ### Construcción del templo y palacios reales
-§10 
+@10 
 ### Una promesa de Dios a Salomón
-§12 §13 
+@12 @13 
 ### El interior del templo
-§22 
+@22 
 ### La decoración del santuario
-§23 §28 \ §30 
+@23 @28 \ @30 
 ### Las puertas y el patio interior
-§36 
+@36 
 ### Tiempo de construcción
 ## 7
-§-1 
+@-1 
 ### Descripción de los otros edificios (seculares) de Salomón
-§1 
+@1 
 ### La casa del bosque del Líbano
-§2 §5 
+@2 @5 
 ### Los edificios restantes del palacio de Salomón
-§8 §12 
+@8 @12 
 ### Información sobre el artista Hiram de Tiro
-§14 
+@14 
 ### Los dos pilares de bronce (Jachin y Boaz)
-§15 §22 
+@15 @22 
 ### El mar descarado (o grandes charcos de agua)
-§23 §26 
+@23 @26 
 ### Las diez sillas y los diez calderos de sacrificio
-§39 
+@39 
 ### Otras herramientas de sacrificio de minerales; resumen general
-§40 §47 
+@40 @47 
 ### Los instrumentos de oro del templo; Graduación
-§50 \ 
+@50 \ 
 ## 8
-§-1 
+@-1 
 ### Traslado del arca al templo
-§1 §8 §9 
+@1 @8 @9 
 ### La aparición de la gloria de Dios
-§11 \ §12 §13 
+@11 \ @12 @13 
 ### Discurso de ordenación y consagración de Salomón al pueblo
-§16 \ §17 §21 
+@16 \ @17 @21 
 ### Oración de consagración de Salomón
-§25 \ §29 §30 \ §32 \ §34 \ §36 \ §39 §40 \ §43 \ §46 §47 §53 
+@25 \ @29 @30 \ @32 \ @34 \ @36 \ @39 @40 \ @43 \ @46 @47 @53 
 ### Palabras finales de advertencia y bendición de Salomón
-§55 §56 §60 \ §61 
+@55 @56 @60 \ @61 
 ### Las fiestas se concluyen con una gran fiesta de sacrificios
-§62 §64 \ 
+@62 @64 \ 
 ## 9
-§-1 
+@-1 
 ### La reaparición de Dios y la respuesta a la oración de Salomón
-§3 §7 §9 
+@3 @7 @9 
 ### Asignación de tierras a Hiram a cambio
-§14 
+@14 
 ### De los trabajadores de Salomón, fortificaciones, ciudades de almacenamiento, sacrificios regulares, etc.
-§16 §21 §23 \ §24 \ §25 
+@16 @21 @23 \ @24 \ @25 
 ### Construcción y envío de la flota de Salomón
-§28 
+@28 
 ## 10
-§-1 
+@-1 
 ### Visita de la Reina de Saba
-§1 §8 §9 §10 \ §11 §12 \ §13 
+@1 @8 @9 @10 \ @11 @12 \ @13 
 ### Información diversa sobre los ingresos, los objetos de valor, la reputación y el poder de Salomón, el comercio de caballos
-§22 \ §25 \ §26 §29 
+@22 \ @25 \ @26 @29 
 ## 11
-§-1 
+@-1 
 ### La poligamia y la idolatría de Salomón; La amenaza de dios
-§2 §9 §12 §13 
+@2 @9 @12 @13 
 ### Los enemigos externos de Salomón (el edomita Hadad y el sirio Reson)
-§21 \ §22 \ §24 §25 
+@21 \ @22 \ @24 @25 
 ### La indignación del efraimita Jeroboam
-§31 §33 \ §35 §39 \ §40 
+@31 @33 \ @35 @39 \ @40 
 ### Las fuentes de la historia de Salomón; su muerte
 ## 12
-§-1 
+@-1 
 ### La división del imperio; La dieta de Siquem; Pide ayuda a los israelitas
-§2 §4 \ §5 
+@2 @4 \ @5 
 ### Consejería de Rehoboams
-§6 \ §7 \ §9 \ §11 
+@6 \ @7 \ @9 \ @11 
 ### Descenso de las diez tribus; Elección de Jeroboam como rey de Israel
-§12 §14 \ §16 \ §19 \ §20 
+@12 @14 \ @16 \ @19 \ @20 
 ### Roboam se abstiene de la guerra contra Israel bajo la dirección de Dios
-§24 
+@24 
 ### Jeroboam I. Gobierno e idolatría
-§25 §27 
+@25 @27 
 ### La introducción del servicio de toros en Betel y Dan
-§30 §32 
+@30 @32 
 ### Amenaza de un profeta contra el altar de Betel; Desobediencia y muerte de este profeta
 ## 13
-§3 \ §6 \ §7 \ §10 
+@3 \ @6 \ @7 \ @10 
 ### El proceso en la casa del anciano profeta en Betel
-§11 \ §14 \ §15 \ §17 \ §18 \ §19 
+@11 \ @14 \ @15 \ @17 \ @18 \ @19 
 ### La muerte y el entierro del profeta desobediente
-§22 \ §30 \ §32 
+@22 \ @30 \ @32 
 ### Jeroboam continúa su actividad pecaminosa
-§34 
+@34 
 ## 14
-§-1 
+@-1 
 ### Amenaza de castigo del profeta Ahías; Muerte de Jeroboam
-§3 \ §5 
+@3 \ @5 
 ### Discurso de castigo y amenaza de Ahías contra Jeroboam
-§7 §11 §15 §16 
+@7 @11 @15 @16 
 ### Cumplimiento de la profecía; Palabra final
-§18 \ §20 
+@18 \ @20 
 ### La idolatría de Judá bajo Roboam
-§21 §23 §24 
+@21 @23 @24 
 ### Incursión y saqueo del rey egipcio Sisak; Palabra final
-§25 §26 §28 \ §30 §31 
+@25 @26 @28 \ @30 @31 
 ## 15
-§-1 
+@-1 
 ### Gobierno del rey Abia de Judá
-§4 §5 §6 §8 
+@4 @5 @6 @8 
 ### La intervención de Asa contra la idolatría
-§11 §12 §14 §15 
+@11 @12 @14 @15 
 ### La guerra de Asa con el rey Baesa de Israel; Palabra final
-§18 §19 \ §23 §24 
+@18 @19 \ @23 @24 
 ### Gobierno del rey Nadab de Israel; su caída por Baesa
-§25 §26 §27 §30 \ §32 
+@25 @26 @27 @30 \ @32 
 ### Gobierno del Rey Baesa de Israel
-§33 §34 
+@33 @34 
 ## 16
-§-1 
+@-1 
 ### La amenaza de juicio del profeta Jehú contra Baesa
-§1 §2 §3 §4 \ §6 \ §7 
+@1 @2 @3 @4 \ @6 \ @7 
 ### Gobierno del rey Ela de Israel
-§8 §9 §10 \ §14 
+@8 @9 @10 \ @14 
 ### Gobierno del rey Zimri de Israel
-§15 §16 §20 
+@15 @16 @20 
 ### División del reino de Israel; Regla única Omri
-§22 
+@22 
 ### Gobierno del rey Omri de Israel; Fundación de la capital Samaria
-§25 §26 §28 
+@25 @26 @28 
 ### Los pecados del rey Acab de Israel y su esposa Jezabel
-§31 §32 §33 
+@31 @32 @33 
 ### Reconstrucción de la ciudad de Jericó
-§34 
+@34 
 ## 17
-§-1 
+@-1 
 ### Elías delante del rey Acab y en el arroyo Krith
-§1 \ §6 
+@1 \ @6 
 ### El milagro de Elías con la viuda en Sarepta en Fenicia
-§7 \ §9 \ §10 \ §11 \ §12 \ §14 \ §16 
+@7 \ @9 \ @10 \ @11 \ @12 \ @14 \ @16 
 ### La reanimación del hijo de la viuda
-§18 \ §20 \ §21 \ §23 \ 
+@18 \ @20 \ @21 \ @23 \ 
 ## 18
-§-1 
+@-1 
 ### El mandato de Dios a Elías; El encuentro de Obadja con Elijah
-§1 \ §3 §5 \ §7 \ §8 \ §12 §14 \ §15 
+@1 \ @3 @5 \ @7 \ @8 \ @12 @14 \ @15 
 ### Elías antes que Acab; Llamando a los profetas de los ídolos al monte Carmelo
-§16 \ §17 \ §18 §19 \ §20 
+@16 \ @17 \ @18 @19 \ @20 
 ### El juicio de Dios en el monte Carmelo; la matanza de los profetas de Baal
-§21 \ §24 \ §25 \ §26 \ §27 \ §29 \ §35 
+@21 \ @24 \ @25 \ @26 \ @27 \ @29 \ @35 
 ### La oración de Elías escuchada de Dios; Matanza de los pastores de Baal
-§37 \ §38 §39 \ §40 
+@37 \ @38 @39 \ @40 
 ### Descripción de la tormenta eléctrica ascendente; El impulso de Acab y la resistencia de Elías corren a Jezreel
-§41 \ §42 §43 \ §44 \ 
+@41 \ @42 @43 \ @44 \ 
 ## 19
-§-1 
+@-1 
 ### La amenaza de Jezabel; El desaliento de Elías; su fortalecimiento por un ángel y su viaje a Horeb
-§2 \ §4 \ §5 \ §7 \ §9 
+@2 \ @4 \ @5 \ @7 \ @9 
 ### La revelación divina en Horeb
-§10 \ §11 \ §12 §13 \ §14 
+@10 \ @11 \ @12 @13 \ @14 
 ### Elías recibe la orden de preparar las herramientas de la venganza divina (Hazael, Jehú, Eliseo)
-§15 §16 §18 
+@15 @16 @18 
 ### El llamado de Eliseo
-§20 \ 
+@20 \ 
 ## 20
-§-1 
+@-1 
 ### Ben-adad asedia Samaria; La debilidad inicial de Acab, luego un comportamiento decidido
-§3 \ §4 \ §6 \ §7 \ §8 \ §9 \ §10 \ §11 \ §12 
+@3 \ @4 \ @6 \ @7 \ @8 \ @9 \ @10 \ @11 \ @12 
 ### Las instrucciones de un profeta a Acab; gran victoria de los israelitas sobre Ben-adad
-§13 \ §14 \ §17 \ §18 \ §21 
+@13 \ @14 \ @17 \ @18 \ @21 
 ### Segunda campaña de Benhadad; nueva instrucción del profeta a Acab; Asesorar a los sirios; Victoria de los israelitas
-§22 \ §23 §25 \ §28 \ §29 
+@22 \ @23 @25 \ @28 \ @29 
 ### Ben-adad sitiada en Aphek y obligada a rendirse; La descuidada dulzura de Acab hacia él
-§31 \ §32 \ §33 \ §34 
+@31 \ @32 \ @33 \ @34 
 ### Un discipulo de los profetas confronta a Acab con su error
-§35 \ §36 \ §37 \ §40 \ §42 \ 
+@35 \ @36 \ @37 \ @40 \ @42 \ 
 ## 21
-§-1 
+@-1 
 ### El vergonzoso acto de violencia de Acab contra Nabot
-§2 \ §3 \ §4 
+@2 \ @3 \ @4 
 ### La ominosa intervención de Jezabel; su carta sin valor a los ancianos de la ciudad de Jezreel
-§5 \ §6 \ §10 
+@5 \ @6 \ @10 
 ### Nefasto asesinato de Naboth; La violenta posesión de la viña por Acab
-§14 \ §15 \ §16 
+@14 \ @15 \ @16 
 ### Elías anuncia el juicio divino a la pareja real
-§19 \ §20 \ §21 §22 §23 §24 \ §26 
+@19 \ @20 \ @21 @22 @23 @24 \ @26 
 ### El arrepentimiento de Acab; La mitigación de Dios de la amenaza de daño
-§27 \ §29 
+@27 \ @29 
 ## 22
-§-1 
+@-1 
 ### Acab y Josafat unen fuerzas en la guerra contra Siria
-§3 §4 
+@3 @4 
 ### El mensaje favorable de los 400 profetas; Micha debería ser entrevistado
-§5 \ §6 \ §7 \ §8 \ §9 \ §12 
+@5 \ @6 \ @7 \ @8 \ @9 \ @12 
 ### La buena fortuna inicial de Micha, luego su anuncio de la perdición
-§13 \ §14 \ §15 \ §16 \ §17 \ §18 \ §19 §20 \ §21 \ §22 \ §23 
+@13 \ @14 \ @15 \ @16 \ @17 \ @18 \ @19 @20 \ @21 \ @22 \ @23 
 ### El maltrato de Miqueas por Sedechîas y su captura por Acab
-§24 \ §25 \ §27 \ §28 
+@24 \ @25 \ @27 \ @28 
 ### Derrota de los aliados en Ramoth; La muerte de Acab en batalla; su entierro en Samaria; Palabra final
-§30 \ §31 \ §34 §36 \ §38 \ §40 
+@30 \ @31 \ @34 @36 \ @38 \ @40 
 ### Josafat, rey de Judá
-§41 §44 \ §47 §50 \ §51 
+@41 @44 \ @47 @50 \ @51 
 ### Ochôzías, rey de Israel
-§52 
+@52 
 # 2 Reyes
 ## 1
-§-1 
+@-1 
 ### Elías anuncia la muerte del rey enfermo e idólatra Ochôzías
-§1 \ §2 \ §3 §4 \ §5 \ §6 \ §7 \ §8 
+@1 \ @2 \ @3 @4 \ @5 \ @6 \ @7 \ @8 
 ### Elijah y los tres capitanes
-§9 \ §10 \ §11 \ §12 \ §14 
+@9 \ @10 \ @11 \ @12 \ @14 
 ### Elías con Ochôzías; Muerte del rey
-§15 \ §16 \ §17 §18 
+@15 \ @16 \ @17 @18 
 ## 2
-§-1 
+@-1 
 ### Elías en la caminata con su fiel sirvienta Elisa
-§2 \ §3 \ §4 \ §5 \ §6 \ §8 
+@2 \ @3 \ @4 \ @5 \ @6 \ @8 
 ### Elías se despide de Eliseo; su ascensión
-§9 \ §10 \ §11 §12 
+@9 \ @10 \ @11 @12 
 ### El regreso de Eliseo a través del Jordán a Jericó; Elijah se ha ido
-§13 §14 \ §16 \ §17 \ §18 
+@13 @14 \ @16 \ @17 \ @18 
 ### Primera aparición de Eliseo: El milagro del agua malsana en Jericó
-§19 \ §22 
+@19 \ @22 
 ### Eliseo y los chicos malos de Betel
-§25 
+@25 
 ## 3
-§-1 
+@-1 
 ### Rey Joram de Israel
-§1 §2 §3 
+@1 @2 @3 
 ### Estallido de la guerra con los moabitas; El pacto de Joram con Josafat; Marcha hacia la estepa de Edom
-§7 \ §8 
+@7 \ @8 
 ### Mala situación del ejército por falta de agua; La auspiciosa profecía de Eliseo
-§10 \ §11 \ §12 \ §13 \ §14 §19 \ §20 
+@10 \ @11 \ @12 \ @13 \ @14 @19 \ @20 
 ### Victoria de los israelitas; Mesa sacrifica a su hijo primogénito, lo que hace que los israelitas se vayan
-§23 \ 
+@23 \ 
 ## 4
-§-1 
+@-1 
 ### La historia del cántaro de aceite de la viuda
-§1 \ §2 \ §4 \ §6 \ §7 
+@1 \ @2 \ @4 \ @6 \ @7 
 ### Eliseo y Sunamitin; Eliseo le promete un hijo al Sunamitin
-§10 \ §13 \ §14 \ §16 \ §17 
+@10 \ @13 \ @14 \ @16 \ @17 
 ### La muerte del niño; Caminata de la madre a Elisa
-§19 \ §22 \ §23 \ §24 
+@19 \ @22 \ @23 \ @24 
 ### Elisa va a la casa de la madre
-§26 \ §27 \ §28 \ §29 \ §30 \ §31 \ §32 
+@26 \ @27 \ @28 \ @29 \ @30 \ @31 \ @32 
 ### Reanimación del niño
-§33 §34 §36 \ §37 
+@33 @34 @36 \ @37 
 ### Muerte (comida venenosa) en la olla y la maravillosa alimentación de los cien
-§38 \ §40 \ §41 \ §42 \ §43 \ §44 
+@38 \ @40 \ @41 \ @42 \ @43 \ @44 
 ## 5
-§-1 
+@-1 
 ### Naeman el leproso busca sanidad en Samaria
-§3 \ §4 \ §5 \ §6 \ §7 
+@3 \ @4 \ @5 \ @6 \ @7 
 ### La curación de Naeman a través de Eliseo
-§8 \ §10 \ §12 \ §13 \ §14 
+@8 \ @10 \ @12 \ @13 \ @14 
 ### Acción de gracias y alabanza de Naeman a Dios
-§15 \ §16 \ §18 \ §20 \ §21 \ §22 \ §25 \ 
+@15 \ @16 \ @18 \ @20 \ @21 \ @22 \ @25 \ 
 ## 6
-§-1 
+@-1 
 ### El hierro flotante
-§2 \ §3 \ §5 \ §7 
+@2 \ @3 \ @5 \ @7 
 ### La emboscada traicionada varias veces
-§8 \ §11 \ §12 
+@8 \ @11 \ @12 
 ### El cegamiento de los sirios
-§13 \ §15 \ §18 \ §20 \ §21 \ §22 \ §23 
+@13 \ @15 \ @18 \ @20 \ @21 \ @22 \ @23 
 ### Asedio de Samaria y hambre
-§26 \ §28 \ §29 \ §31 
+@26 \ @28 \ @29 \ @31 
 ### La promesa de suerte de Eliseo para la ciudad
-§32 \ 
+@32 \ 
 ## 7
-§1 \ §2 
+@1 \ @2 
 ### Experiencias de los cuatro leprosos en el campamento sirio
-§3 §4 \ §6 §9 
+@3 @4 \ @6 @9 
 ### Reporta los leprosos en la ciudad y sus efectos
-§10 \ §11 \ §12 \ §13 \ §14 
+@10 \ @11 \ @12 \ @13 \ @14 
 ### La profecía de Eliseo se hace realidad
-§17 §20 
+@17 @20 
 ## 8
-§-1 
+@-1 
 ### Elisa y la Sunamita
-§1 \ §5 \ §6 
+@1 \ @5 \ @6 
 ### Eliseo en Damasco preguntado por Hazael sobre el rey Ben-adad enfermo
-§7 \ §8 \ §9 
+@7 \ @8 \ @9 
 ### La apertura de Eliseo a Hazael; El asesinato de Benhadad; Hasael asumió el cargo
-§11 \ §12 \ §13 \ §14 \ §15 
+@11 \ @12 \ @13 \ @14 \ @15 
 ### Joram y Ocozías su hijo, reyes de Judá
-§18 §19 
+@18 @19 
 ### La caída de los edomitas y la muerte de Joram
-§24 
+@24 
 ### Ochôzías de Judá; Guerra con Hazael
-§26 §27 \ 
+@26 @27 \ 
 ## 9
-§-1 
+@-1 
 ### Jehú ungió rey por instigación de Eliseo
-§3 \ §5 \ §8 §9 §10 
+@3 \ @5 \ @8 @9 @10 
 ### Jehú reconocido como rey por los líderes militares
-§11 \ §12 \ §13 \ §15 
+@11 \ @12 \ @13 \ @15 
 ### Jehú mata a Joram y Ochôzías
-§16 §17 \ §18 \ §19 \ §20 \ §21 \ §22 \ §23 \ §25 §26 \ §28 §29 
+@16 @17 \ @18 \ @19 \ @20 \ @21 \ @22 \ @23 \ @25 @26 \ @28 @29 
 ### El espantoso final de Jezabel
-§31 \ §32 \ §33 \ §34 \ §36 \ 
+@31 \ @32 \ @33 \ @34 \ @36 \ 
 ## 10
-§-1 
+@-1 
 ### Jehú asesinó a los setenta príncipes reales y exterminó a toda la casa de Acab
-§3 \ §5 \ §6 \ §8 \ §10 \ §11 
+@3 \ @5 \ @6 \ @8 \ @10 \ @11 
 ### Jehú mata a los príncipes de Judea
-§13 \ §14 
+@13 \ @14 
 ### Jehú lleva al recabita Jonadab a su amistad
-§15 \ §17 
+@15 \ @17 
 ### Jehú extermina a los adoradores de Baals en Samaria
-§18 §19 \ §20 \ §22 \ §23 \ §24 \ §25 §26 §27 
+@18 @19 \ @20 \ @22 \ @23 \ @24 \ @25 @26 @27 
 ### La predicación de Dios a Jehú; Fracasos de Jehú; Conclusión de la historia de Jehú
-§30 \ §31 \ §35 §36 
+@30 \ @31 \ @35 @36 
 ## 11
-§-1 
+@-1 
 ### El robo y el asesinato de Atalía; Rescate de Joás
-§3 
+@3 
 ### La conspiración de Joiada
-§8 \ §10 §12 
+@8 \ @10 @12 
 ### Captura y asesinato de Athalía
-§14 \ §16 
+@14 \ @16 
 ### Medidas de Joiada para la gloria de Dios; Coronación de Joás
-§20 \ 
+@20 \ 
 ## 12
-§-1 
+@-1 
 ### Joás rey de Judá
-§3 \ §4 
+@3 \ @4 
 ### Ordenanza del rey sobre la reparación del templo y sobre la administración y uso del dinero del templo
-§5 \ §7 \ §16 
+@5 \ @7 \ @16 
 ### Joás salvó a Jerusalén del ataque de Hazael pagando dinero; su asesinato
-§18 \ §19 §21 
+@18 \ @19 @21 
 ## 13
-§-1 
+@-1 
 ### Joachâz rey de Israel
-§1 §2 §3 §5 §6 §9 
+@1 @2 @3 @5 @6 @9 
 ### Joas König von Israel
-§11 §12 §13 
+@11 @12 @13 
 ### Joás con el enfermo Eliseo; La muerte de Eliseo
-§14 \ §17 \ §19 
+@14 \ @17 \ @19 
 ### Elisa sigue trabajando milagrosamente en su tumba
-§20 \ §21 
+@20 \ @21 
 ### Las tres victorias de Joás sobre los sirios
-§23 \ 
+@23 \ 
 ## 14
-§-1 
+@-1 
 ### Amasías rey de Judá; Buen comienzo para el gobierno
-§1 §4 §5 §6 \ §7 
+@1 @4 @5 @6 \ @7 
 ### La desafortunada guerra de Amasías con Joás de Israel
-§8 \ §10 \ §14 
+@8 \ @10 \ @14 
 ### Palabras de clausura sobre Joás de Israel
-§16 
+@16 
 ### Palabras finales sobre Amasías de Judá; su asesinato
-§20 
+@20 
 ### Azarías asume el cargo
-§21 §22 
+@21 @22 
 ### Jeroboam II Rey de Israel
-§23 §24 §25 §26 §27 §29 
+@23 @24 @25 @26 @27 @29 
 ## 15
-§-1 
+@-1 
 ### Azarías rey de Judá
-§1 §4 §5 §7 
+@1 @4 @5 @7 
 ### Zacarías rey de Israel
-§8 §9 §10 §12 
+@8 @9 @10 @12 
 ### Sallum König von Israel
-§15 \ §16 
+@15 \ @16 
 ### Menahem Rey de Israel
-§18 §22 
+@18 @22 
 ### Pekaja, rey de Israel
-§24 §25 §26 
+@24 @25 @26 
 ### Peka, rey de Israel
-§28 §29 §30 §31 
+@28 @29 @30 @31 
 ### Jotam rey de Judá
-§34 §38 
+@34 @38 
 ## 16
-§-1 
+@-1 
 ### Las abominaciones paganas de Acaz
-§1 §4 
+@1 @4 
 ### Su guerra con Siria e Israel; Acaz se convierte en tributo a los asirios
-§5 §6 §7 §8 §9 
+@5 @6 @7 @8 @9 
 ### Acaz tiene un nuevo altar para los holocaustos construido, emite una nueva orden de sacrificio e interviene en la propiedad del templo
-§16 \ §17 §20 
+@16 \ @17 @20 
 ## 17
-§-1 
+@-1 
 ### Oseas rey de Israel; Caída del imperio; Cautiverio asirio
-§1 §4 §6 \ §10 §11 §12 §16 §17 §18 \ §20 
+@1 @4 @6 \ @10 @11 @12 @16 @17 @18 \ @20 
 ### Las causas que provocaron el rechazo y la caída del reino del norte
-§21 §23 
+@21 @23 
 ### Repoblación del país; Origen de los samaritanos y su religión
-§26 \ §27 \ §28 \ §31 §39 \ 
+@26 \ @27 \ @28 \ @31 @39 \ 
 ## 18
-§-1 
+@-1 
 ### Ezequías asumió el cargo, su piedad y sus servicios al culto y al bien público
-§2 §3 §4 §5 §8 
+@2 @3 @4 @5 @8 
 ### La caída de Samaria
-§9 §12 
+@9 @12 
 ### Ezequías envía sin éxito el tributo exigido por Senaquerib
-§15 §16 
+@15 @16 
 ### Desde Laquis, Senaquerib hace que la ciudad de Jerusalén sea convocada desdeñosamente a rendirse por su gran visir
-§25 
+@25 
 ### Senaquerib y la arrogancia de sus embajadores
-§26 \ §27 \ §31 §35 \ 
+@26 \ @27 \ @31 @35 \ 
 ## 19
-§-1 
+@-1 
 ### El estímulo de Ezequías de Isaías
-§4 \ §7 
+@4 \ @7 
 ### La segunda solicitud de Sennacherib a través de una carta amenazante de Libna
-§10 §13 
+@10 @13 
 ### La súplica de Ezequías en el templo
-§15 §16 §19 
+@15 @16 @19 
 ### Isaías envía notificación de su oración al rey Ezequías en el nombre de Dios
-§28 \ §31 \ §34 
+@28 \ @31 \ @34 
 ### El cumplimiento de la promesa: la partida y el asesinato de Senaquerib
-§37 
+@37 
 ## 20
-§-1 
+@-1 
 ### La enfermedad y la recuperación de Ezequías; la embajada de babilonia
-§1 \ §3 \ §6 \ §7 
+@1 \ @3 \ @6 \ @7 
 ### El signo del milagro divino en el reloj de sol
-§8 \ §9 \ §10 \ §11 
+@8 \ @9 \ @10 \ @11 
 ### Embajada de Merodac-Baladan de Babilonia
-§13 
+@13 
 ### El discurso de castigo de Isaías sobre la pompa descuidada del rey y su profecía sobre el cautiverio en Babilonia
-§14 \ §15 \ §17 §18 
+@14 \ @15 \ @17 @18 
 ### La respuesta devota pero impenitente de Ezequías
-§19 \ 
+@19 \ 
 ## 21
-§-1 
+@-1 
 ### Idolatría manasés
-§4 §5 §6 §7 §9 
+@4 @5 @6 @7 @9 
 ### La amenaza de Dios a Manasés; La crueldad de Manasés y las palabras finales sobre él
-§12 §15 \ §16 \ §18 
+@12 @15 \ @16 \ @18 
 ### Amon von Juda
-§19 §26 
+@19 @26 
 ## 22
-§-1 
+@-1 
 ### El rey Josías; Encontrar el código legal y limpiar la adoración
-§1 §2 
+@1 @2 
 ### Josías se encarga de la reparación del templo; Informe sobre el descubrimiento del código y su primer efecto
-§7 \ §10 \ §13 
+@7 \ @10 \ @13 
 ### Interrogatorio y respuesta de la profetisa Hulda
-§17 §20 
+@17 @20 
 ## 23
-§-1 
+@-1 
 ### Josías concluye el nuevo pacto de Dios en asociación con los ancianos del pueblo
-§3 
+@3 
 ### Josías limpia el templo y todo el culto público
-§4 §7 §12 §13 §14 
+@4 @7 @12 @13 @14 
 ### El juicio de Josías en Betel y contra el servicio en las alturas en Samaria
-§15 §16 §17 \ §20 
+@15 @16 @17 \ @20 
 ### Celebración estricta de la Pascua
-§23 
+@23 
 ### Actuar contra la idolatría en la vida privada; Persistencia de la ira divina contra Judá
-§24 §25 §26 §27 
+@24 @25 @26 @27 
 ### Palabra final; Necao de Egipto y la muerte de Josías
-§30 
+@30 
 ### Los hijos de Josías y su nieto reyes de Judá; Joachâz
-§35 
+@35 
 ### Joacim de Judá
 ## 24
-§6 \ §7 
+@6 \ @7 
 ### Joaquín de Judá; la primera conquista de Jerusalén y la primera ruta a Babilonia
-§9 §15 §17 
+@9 @15 @17 
 ### Sedequías, rey de Judá; Fin del reino de Judá
-§20 
+@20 
 ## 25
-§-1 
+@-1 
 ### Los desperdicios de Sedequías; Asedio de Jerusalén; Escape y captura del rey; Juzgado penal de Ribla
-§7 
+@7 
 ### Conquista y destrucción de Jerusalén; Saqueo e incendio del templo; Traslado de habitantes a Babilonia; Ejecuciones en Ribla
-§12 \ §16 §17 \ §21 
+@12 \ @16 @17 \ @21 
 ### Gedalja, gobernador designado, reúne a los judíos en una colonia en Mizpa. Después de su asesinato, los judíos emigran a Egipto
-§24 \ §26 
+@24 \ @26 
 ### Jojachín indultado tras treinta y siete años de prisión
 # 1 Crónicas
 ## 1
-§-1 
+@-1 
 ### Los antepasados ​​hasta el diluvio
-§4 
+@4 
 ### Los descendientes de Noé excepto Abraham; Los jafetitas
-§5 §7 
+@5 @7 
 ### Los camitas
-§16 
+@16 
 ### Los semitas
-§17 §23 
+@17 @23 
 ### La línea recta de Sem a Abraham
-§27 
+@27 
 ### Los ismaelitas
-§28 §29 §31 
+@28 @29 @31 
 ### Los descendientes de Ketura
-§32 §33 
+@32 @33 
 ### Los descendientes de Esaú
-§35 §37 \ §42 
+@35 @37 \ @42 
 ### Los reyes y jefes edomitas
-§43 §54 
+@43 @54 
 ## 2
-§-1 
+@-1 
 ### Los hijos de Jacob Israel y las familias de la tribu de Judá
-§2 
+@2 
 ### De Judá a Hezrón
-§3 §4 \ §5 §8 
+@3 @4 \ @5 @8 
 ### De Hezron a David (la línea Ram)
-§9 §15 §16 §17 
+@9 @15 @16 @17 
 ### La línea Caleb
-§18 §19 §20 \ §22 §23 §24 
+@18 @19 @20 \ @22 @23 @24 
 ### La línea Jerameel
-§25 §41 
+@25 @41 
 ### La línea Caleb
-§42 §49 \ §50 §54 §55 
+@42 @49 \ @50 @54 @55 
 ## 3
-§-1 
+@-1 
 ### Los hijos de David
-§1 §9 
+@1 @9 
 ### Los reyes davídicos desde Salomón hasta la destrucción de Jerusalén
-§10 §16 
+@10 @16 
 ### Los otros descendientes de David (desde Jechonja en adelante)
-§17 §24 
+@17 @24 
 ## 4
-§-1 
+@-1 
 ### Más información sobre las familias de la tribu de Judá
-§1 §2 §4 §8 \ §9 \ §10 \ §13 §21 §23 
+@1 @2 @4 @8 \ @9 \ @10 \ @13 @21 @23 
 ### Información sobre los descendientes de Simeón
-§27 
+@27 
 ### Las residencias más antiguas de la tribu
-§28 §33 
+@28 @33 
 ### Indicación de otros jefes de familia simeonitas; las dos conquistas de los simeonitas
-§38 \ §41 §43 
+@38 \ @41 @43 
 ## 5
-§-1 
+@-1 
 ### Información sobre Rubén y sus descendientes
-§1 §2 §3 §8 
+@1 @2 @3 @8 
 ### Información histórica sobre Bela
-§9 \ §10 
+@9 \ @10 
 ### Información sobre la estirpe y lugares de residencia, así como sobre la valoración de los gaditas
-§17 
+@17 
 ### La lucha de las tres tribus de Transjordania con los agaritascon los agaritas
-§22 
+@22 
 ### Las residencias y la división de género de los manasitas
-§24 
+@24 
 ### Castigo por la apostasía de las tres tribus de Jordania Oriental por los reyes asirios
-§26 
+@26 
 ## 6
-§-1 
+@-1 
 ### De Levi a los hijos de Aarón
-§1 §3 
+@1 @3 
 ### La línea de sumo sacerdote desde Eleazar hasta el cautiverio babilónico
-§7 §13 §15 
+@7 @13 @15 
 ### Los descendientes de Levi
-§24 §30 
+@24 @30 
 ### Las tres familias de cantantes Levíticos, Hemán, Asaf y Etán
-§34 §35 §38 \ §43 \ §46 §47 
+@34 @35 @38 \ @43 \ @46 @47 
 ### Los levitas y los aaronitas en el servicio del templo
-§48 §49 
+@48 @49 
 ### Segunda línea de sumos sacerdotes desde Aarón hasta Ahimaas
-§53 
+@53 
 ### Las ciudades levitas
-§60 \ §65 \ §70 \ §76 \ 
+@60 \ @65 \ @70 \ @76 \ 
 ## 7
-§-1 
+@-1 
 ### La tribu de Isacar
-§1 §5 
+@1 @5 
 ### La tribu de Benjamín
-§12 
+@12 
 ### La tribu de Neftalí
-§13 
+@13 
 ### La tribu de Manasés
-§14 §15 §19 
+@14 @15 @19 
 ### La tribu de Ephraim
-§26 §27 
+@26 @27 
 ### Residencias de la tribu
-§28 §29 
+@28 @29 
 ### La tribu de Asser
-§30 §40 
+@30 @40 
 ## 8
-§-1 
+@-1 
 ### Hijos y descendientes de Benjamín a través de Bela
-§5 
+@5 
 ### Los hijos de Ehud
-§7 
+@7 
 ### La familia de Saharaim
-§12 
+@12 
 ### Cinco familias benjaminitas en Ajalón y Jerusalén
-§28 
+@28 
 ### La familia del rey Saúl
-§29 §40 
+@29 @40 
 ## 9
-§-1 
+@-1 
 ### Directorio de residentes destacados de Jerusalén (en el período posterior al cautiverio)
-§1 §2 
+@1 @2 
 ### El pueblo de Jerusalén
-§3 \ §6 \ §9 \ §11 §13 \ §16 
+@3 \ @6 \ @9 \ @11 @13 \ @16 
 ### Los porteros y sus servicios
-§19 §20 §22 §25 
+@19 @20 @22 @25 
 ### Información sobre los deberes oficiales de los levitas
-§27 \ §29 \ §32 
+@27 \ @29 \ @32 
 ### Información sobre los cantantes del templo; Palabra final
-§33 §34 
+@33 @34 
 ### Los habitantes de Gabaón y una segunda genealogía de la casa de Saúl
-§35 §44 
+@35 @44 
 ## 10
-§-1 
+@-1 
 ### Israel derrotado por los filisteos en el monte Gilboa; Muerte de Saúl y sus tres hijos
-§4 \ §7 
+@4 \ @7 
 ### El destino de los cadáveres de Saúl y sus hijos
-§12 
+@12 
 ### Revisión de la deuda de Saúl con Dios
-§13 §14 
+@13 @14 
 ## 11
-§-1 
+@-1 
 ### La unción de David en Hebrón y la conquista de Jerusalén
-§2 \ §3 \ §9 
+@2 \ @3 \ @9 
 ### Directorio y hazañas de los guerreros de David
-§10 \ §11 §12 §14 
+@10 \ @11 @12 @14 
 ### Wagnis dreier Helden
-§15 §17 \ §19 
+@15 @17 \ @19 
 ### Abisai y Benaías
-§21 \ §24 §25 
+@21 \ @24 @25 
 ### Una lista de otros héroes de David
-§41 §47 
+@41 @47 
 ## 12
-§-1 
+@-1 
 ### Los seguidores de David en Siclag y Adullam mientras Saúl todavía estaba vivo
-§2 §7 \ §8 §15 \ §18 \ §19 \ §22 \ §23 
+@2 @7 \ @8 @15 \ @18 \ @19 \ @22 \ @23 
 ### Número de guerreros en la elección de David como rey en Hebrón
-§28 §37 \ 
+@28 @37 \ 
 ## 13
-§-1 
+@-1 
 ### Movilización de todo el pueblo con fines de recuperación
-§3 \ §5 
+@3 \ @5 
 ### Fracaso del plan
-§8 \ §11 
+@8 \ @11 
 ### El cajón se encuentra en la casa de Obed-Edom
 ## 14
-§-1 
+@-1 
 ### El edificio del palacio de David y los nuevos matrimonios; sus guerras victoriosas con los filisteos
-§2 
+@2 
 ### Los hijos de David nacidos en Jerusalén
-§5 §7 
+@5 @7 
 ### Dos batallas victoriosas entre David y los filisteos
-§10 \ §12 \ §15 \ 
+@10 \ @12 \ @15 \ 
 ## 15
-§-1 
+@-1 
 ### Preparativos para el traslado del arca sagrada; Designación e instrucción de los levitas a cargo
-§2 \ §10 \ §11 §13 \ §15 
+@2 \ @10 \ @11 @13 \ @15 
 ### Orden de los cantantes, músicos y porteadores levíticos
-§24 
+@24 
 ### La participación personal de David en la transferencia; la fiesta del sacrificio y la acción de gracias
-§25 §29 
+@25 @29 
 ## 16
-§3 
+@3 
 ### Orden del servicio de canto y música en el Arca
-§6 
+@6 
 ### Canto de agradecimiento y alabanza de David
-§8 §23 §34 §36 
+@8 @23 @34 @36 
 ### Establecimiento del servicio de portero, sacerdote y cantante en el arca; Fin del festival
-§39 §40 §43 
+@39 @40 @43 
 ## 17
-§-1 
+@-1 
 ### Natán aprueba el plan de David para construir el templo
-§1 \ §2 
+@1 \ @2 
 ### Dios rechaza el plan; El discurso profético de Nathan; el templo será construido por el hijo de David
-§6 \ §12 
+@6 \ @12 
 ### La gran proclamación de salvación de Dios a David con respecto a la duración eterna de su casa
-§14 
+@14 
 ### Acción de gracias y súplica de David
-§15 \ 
+@15 \ 
 ## 18
-§-1 
+@-1 
 ### Las victorias de David sobre los filisteos, moabitas, sirios y edomitas
-§2 
+@2 
 ### Las victorias de David sobre los sirios; el uso del botín; Felicitaciones del rey Tou
-§8 \ §11 
+@8 \ @11 
 ### Derrota y subyugación de los edomitas
-§13 
+@13 
 ### Los altos funcionarios de David
 ## 19
-§-1 
+@-1 
 ### El vergonzoso crimen de los amonitas contra el mensajero de David
-§2 \ §3 §5 
+@2 \ @3 @5 
 ### Comienzo de la guerra; primeros trabajos ganados
-§9 \ §13 \ §15 
+@9 \ @13 \ @15 
 ### David personalmente en el campo; su victoria sobre los sirios aliados con los amonitas
 ## 20
-§-1 
+@-1 
 ### Joab conquista Rabá; El triunfo de David y el castigo de los amonitas
-§3 
+@3 
 ### Algunas hazañas de los guerreros de David en las guerras filisteas
-§4 \ §7 §8 
+@4 \ @7 @8 
 ## 21
-§-1 
+@-1 
 ### David, a instigación de Satanás, completa el censo a pesar de la advertencia de Joab; Resultado del recuento
-§2 \ §3 \ §6 
+@2 \ @3 \ @6 
 ### El arrepentimiento de David; Intervención del profeta Gad; David elige una muerte popular para expiar su culpa
-§7 §8 \ §10 \ §12 \ §13 
+@7 @8 \ @10 \ @12 \ @13 
 ### El juicio divino; La penitencia y la súplica de David
-§16 \ §17 
+@16 \ @17 
 ### David adquiere la era de Ornán y la dedica a un lugar de sacrificio y templo; Fin de la plaga
-§19 \ §21 \ §22 \ §23 \ §24 \ §26 \ §27 \ §30 
+@19 \ @21 \ @22 \ @23 \ @24 \ @26 \ @27 \ @30 
 ## 22
-§1 
+@1 
 ### Los preparativos de David para la construcción del templo; Colección de materiales de construcción
-§2 §5 
+@2 @5 
 ### Instrucciones de David a su hijo Salomón
-§7 §14 §16 
+@7 @14 @16 
 ### La amonestación de David a los príncipes de Israel
 ## 23
-§-1 
+@-1 
 ### Contando y ejecutando los levitas
-§1 §5 
+@1 @5 
 ### Clasificación de los levitas según Gerson, Kehath y Merari
-§6 \ §8 §11 \ §13 §14 §15 §16 §17 §20 \ §23 
+@6 \ @8 @11 \ @13 @14 @15 @16 @17 @20 \ @23 
 ### Instrucciones oficiales para los levitas
-§25 §32 
+@25 §32 
 ## 24
 §-1 
 ### El dibujo de las 24 clases sacerdotales
