@@ -18,9 +18,9 @@ Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
 // replace uppercase words with smallcaps
 Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m => {
 
-        if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline)) {
-            // is roman number
-            return m.Value;
+       if (Regex.IsMatch(m.Value, "^(?:[IVXCD]+|ISBN)$", RegexOptions.Singleline)) {
+            // is roman number or ISBN, do not change
+             return m.Value;
         }
 
         var str = new StringBuilder("[");
