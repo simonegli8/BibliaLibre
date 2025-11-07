@@ -14,7 +14,7 @@ Epub.OmitTitles = true;
 Epub.OmitFootnotes = true;
 
 Program.Language = "spanish";
-Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
+//Program.Replace = "/SEÑOR/[Señor]{.smallcaps}";
 // replace uppercase words with smallcaps
 Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m => {
 

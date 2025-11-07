@@ -1,3 +1,5 @@
+
+
 ---
 title:
 - type: main
@@ -14,7 +16,7 @@ ibooks:
 ---
 \
 Biblia Libre Para El Mundo\
-World English Bible\
+World English Bible, Reina-Valera Antigua\
 \
 1ra edición 2021\
 \
@@ -27,6 +29,6 @@ biblia.del.pueblo@gmail.com\
 fb.me/biblia.del.pueblo\
 \
 Derechos dominio publico, el texto de la Biblia es fuente abierta con una licencia de Creative Commons Attribution-Share Alike 4:0 Unported License. El código fuente de Markdown y XeTeX se encuentra en github en\
-https://www.github.com/bibliadelpueblo/BibliaLibre\
+https:\rem www.github.com/bibliadelpueblo/BibliaLibre\
 \
 Imprenta: Imprenta Jigatsa, Managua, Nicaragua\

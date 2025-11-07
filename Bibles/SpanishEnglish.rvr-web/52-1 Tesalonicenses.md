@@ -3,21 +3,37 @@
 
 # 1
 ## Bendiciones
-^1^ Pablo, Silvano y Timoteo, a la asamblea de los tesalonicenses en Dios Padre y en el Señor Jesucristo: Gracia a vosotros y paz de parte de Dios nuestro Padre y del Señor Jesucristo. ^a^
-^a^[**1:1** Hech 15,40; Hech 16,1-3; Hech 16,19; Hech 17,1-10; 2Tes 1,1]
+@1 Pablo, y Silvano, y Timoteo, á la iglesia de los Tesalonicenses que es en Dios Padre y en el Señor Jesucristo: Gracia y paz á vosotros de Dios nuestro Padre y del Señor Jesucristo.
 
 ## Acción de gracias por la obra de Dios en Tesalónica y expresión de alegría por la vida ejemplar de fe en la comunidad
-^2^ Damos siempre gracias a Dios por todos vosotros, mencionándoos en nuestras oraciones, ^3^ recordando sin cesar vuestra obra de fe y trabajo de amor y perseverancia de esperanza en nuestro Señor Jesucristo, ante nuestro Dios y Padre. ^a^ ^4^ Sabemos, hermanos amados por Dios, que sois unos elegidos, ^5^ y que nuestra Buena Noticia os llegó no sólo de palabra, sino también con poder, y con el Espíritu Santo y con mucha seguridad. Sabéis qué clase de hombres nos mostramos entre vosotros por vuestro bien. ^b^ ^6^ Os convertisteis en imitadores de nosotros y del Señor, habiendo recibido la palabra en medio de mucha aflicción, con alegría del Espíritu Santo, ^c^ ^7^ de modo que llegasteis a ser un ejemplo para todos los que creen en Macedonia y en Acaya. ^8^ Porque de vosotros se ha proclamado la palabra del Señor, no sólo en Macedonia y Acaya, sino también en todos los lugares donde ha salido vuestra fe hacia Dios, de modo que no tenemos necesidad de decir nada. ^d^ ^9^ Porque ellos mismos informan acerca de nosotros de la acogida que hemos tenido por parte de vosotros, y de cómo os habéis convertido de los ídolos a Dios para servir a un Dios vivo y verdadero, ^e^ ^10^ y para esperar a su Hijo del cielo, al que ha resucitado de entre los muertos: Jesús, que nos libra de la ira venidera. ^f^
-^a^[**1:3** 1Cor 13,13] ^b^[**1:5** 1Cor 2,5] ^c^[**1:6** 2Tes 3,7] ^d^[**1:8** Rom 1,8] ^e^[**1:9** Hech 14,15; 1Cor 12,2] ^f^[**1:10** Tit 2,13]
+@2 Damos siempre gracias á Dios por todos vosotros, haciendo memoria de vosotros en nuestras oraciones; 
+@3 Sin cesar acordándonos delante del Dios y Padre nuestro de la obra de vuestra fe, y del trabajo de amor, y de la tolerancia de la esperanza del Señor nuestro Jesucristo: 
+@4 Sabiendo, hermanos amados de Dios, vuestra elección: 
+@5 Por cuanto nuestro evangelio no fué á vosotros en palabra solamente, mas también en potencia, y en Espíritu Santo, y en gran plenitud; como sabéis cuáles fuimos entre vosotros por amor de vosotros. 
+@6 Y vosotros fuisteis hechos imitadores de nosotros, y del Señor, recibiendo la palabra con mucha tribulación, con gozo del Espíritu Santo: 
+@7 En tal manera que habéis sido ejemplo á todos los que han creído en Macedonia y en Acaya. 
+@8 Porque de vosotros ha sido divulgada la palabra del Señor no sólo en Macedonia y en Acaya, mas aun en todo lugar vuestra fe en Dios se ha extendido; de modo que no tenemos necesidad de hablar nada. 
+@9 Porque ellos cuentan de nosotros cuál entrada tuvimos á vosotros; y cómo os convertisteis de los ídolos á Dios, para servir al Dios vivo y verdadero, 
+@10 Y esperar á su Hijo de los cielos, al cual resucitó de los muertos; á Jesús, el cual nos libró de la ira que ha de venir. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
-^1^ Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ:^a^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
+## Blessings
+@1 Paul, Silvanus, and Timothy, to the assembly of the Thessalonians in God the Father and the Lord Jesus Christ:^a^ Grace to you and peace from God our Father and the Lord Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.]
 
-^2^ We always give thanks to God for all of you, mentioning you in our prayers, ^3^ remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father. ^4^ We know, brothers^a^ loved by God, that you are chosen, ^5^ and that our Good News came to you not in word only, but also in power, and in the Holy Spirit and with much assurance. You know what kind of men we showed ourselves to be among you for your sake. ^6^ You became imitators of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit, ^7^ so that you became an example to all who believe in Macedonia and in Achaia. ^8^ For from you the word of the Lord has been declared, not only in Macedonia and Achaia, but also in every place your faith toward God has gone out, so that we need not to say anything. ^9^ For they themselves report concerning us what kind of a reception we had from you, and how you turned to God from idols to serve a living and true God, ^10^ and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come.
+## Thanksgiving for the work of God in Thessaloniki and expression of joy for the exemplary life of faith in the community
+@2 We always give thanks to God for all of you, mentioning you in our prayers, 
+@3 remembering without ceasing your work of faith and labor of love and perseverance of hope in our Lord Jesus Christ, before our God and Father. 
+@4 We know, brothers^a^ loved by God, that you are chosen, 
+@5 and that our Good News came to you not in word only, but also in power, and in the Holy Spirit and with much assurance. You know what kind of men we showed ourselves to be among you for your sake. 
+@6 You became imitators of us and of the Lord, having received the word in much affliction, with joy of the Holy Spirit, 
+@7 so that you became an example to all who believe in Macedonia and in Achaia. 
+@8 For from you the word of the Lord has been declared, not only in Macedonia and Achaia, but also in every place your faith toward God has gone out, so that we need not to say anything. 
+@9 For they themselves report concerning us what kind of a reception we had from you, and how you turned to God from idols to serve a living and true God, 
+@10 and to wait for his Son from heaven, whom he raised from the dead: Jesus, who delivers us from the wrath to come.
 ^a^[**1:4** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.” ] 
 
 \nopandoc{\end{otherlanguage}}
@@ -25,31 +41,62 @@
 
 # 2
 ## Recordatorio de la eficacia enérgica, desinteresada y amorosa de los mensajeros de Dios en Tesalónica
-^1^ Porque vosotros mismos sabéis, hermanos, que nuestra visita a vosotros no fue en vano, ^2^ sino que, habiendo sufrido antes y siendo tratados vergonzosamente, como sabéis, en Filipos, nos envalentonamos en nuestro Dios para anunciaros la Buena Nueva de Dios en medio de muchos conflictos. ^a^ ^3^ Porque nuestra exhortación no es por error, ni por inmundicia, ni por engaño. ^b^ ^4^ Sino que, como hemos sido aprobados por Dios para que se nos confíe la Buena Nueva, así hablamos, no como para complacer a los hombres, sino a Dios, que prueba nuestros corazones. ^c^ ^5^ Porque en ningún momento se nos encontró usando palabras de adulación, como sabéis, ni un manto de codicia (Dios es testigo), ^d^ ^6^ ni buscando la gloria de los hombres (ni de vosotros ni de otros), cuando podríamos haber reclamado la autoridad como apóstoles de Cristo. ^7^ Pero fuimos amables con vosotros, como una madre que amamanta a sus hijos.
-^a^[**2:2** Hech 16,20-24; Hech 17,1-5] ^b^[**2:3** 2Cor 4,2; 2Cor 11,7; Juan 5,44] ^c^[**2:4** Gal 1,10] ^d^[**2:5** Mar 12,40; Hech 20,33]
+@1 Porque, hermanos, vosotros mismos sabéis que nuestra entrada á vosotros no fué vana: 
+@2 Pues aun habiendo padecido antes, y sido afrentados en Filipos, como sabéis, tuvimos denuedo en Dios nuestro para anunciaros el evangelio de Dios con gran combate. 
+@3 Porque nuestra exhortación no fué de error, ni de inmundicia, ni por engaño; 
+@4 Sino según fuimos aprobados de Dios para que se nos encargase el evangelio, así hablamos; no como los que agradan á los hombres, sino á Dios, el cual prueba nuestros corazones. 
+@5 Porque nunca fuimos lisonjeros en la palabra, como sabéis, ni tocados de avaricia; Dios es testigo; 
+@6 Ni buscamos de los hombres gloria, ni de vosotros, ni de otros, aunque podíamos seros carga como apóstoles de Cristo. 
+@7 Antes fuimos blandos entre vosotros como la que cría, que regala á sus hijos:
 
-^8^ Así, pues, anhelando afectuosamente de vosotros, nos agradó comunicaros no sólo la Buena Nueva de Dios, sino también nuestras propias almas, porque os habías hecho muy queridos para nosotros. ^a^ ^9^ Porque os acordáis, hermanos, de nuestros trabajos y fatigas; pues trabajando de noche y de día, para no ser una carga para ninguno de vosotros, os hemos predicado la Buena Nueva de Dios. ^b^ ^10^ Vosotros sois testigos ante Dios de lo santa, justa e irreprochablemente que nos comportamos con vosotros los creyentes. ^11^ Como sabéis, os exhortamos, consolamos e imploramos a cada uno de vosotros, como lo hace un padre con sus propios hijos, ^12^ con el fin de que caminéis dignamente de Dios, que os llama a su Reino y a su gloria. ^c^
-^a^[**2:8** 2Cor 12,15] ^b^[**2:9** Hech 18,3; Hech 20,33-34; 2Tes 3,8; 1Cor 4,12] ^c^[**2:12** Efes 4,1-2; Fil 1,27]
+@8 Tan amadores de vosotros, que quisiéramos entregaros no sólo el evangelio de Dios, mas aun nuestras propias almas; porque nos erais carísimos. 
+@9 Porque ya, hermanos, os acordáis de nuestro trabajo y fatiga: que trabajando de noche y de día por no ser gravosos á ninguno de vosotros, os predicamos el evangelio de Dios. 
+@10 Vosotros sois testigos, y Dios, de cuán santa y justa é irreprensiblemente nos condujimos con vosotros que creísteis: 
+@11 Así como sabéis de qué modo exhortábamos y consolábamos á cada uno de vosotros, como el padre á sus hijos, 
+@12 Y os protestábamos que anduvieseis como es digno de Dios, que os llamó á su reino y gloria.
 
 ## Acción de gracias por la recepción voluntaria del mensaje de salvación por parte de la comunidad y alabanza por su constancia en el sufrimiento
-^13^ Por eso también damos gracias a Dios sin cesar, porque cuando recibisteis de nosotros la palabra del mensaje de Dios, la aceptasteis no como palabra de hombres, sino como es en verdad, la palabra de Dios, que también obra en vosotros los que creéis. ^a^ ^14^ Porque vosotros, hermanos, os hicisteis imitadores de las asambleas de Dios que están en Judea en Cristo Jesús; pues también sufristeis de vuestros propios compatriotas lo mismo que ellos de los judíos ^b^ ^15^ que mataron tanto al Señor Jesús como a sus propios profetas, y nos expulsaron, y no agradan a Dios, y son contrarios a todos los hombres, ^c^ ^16^ prohibiéndonos hablar a los gentiles para que se salven, para colmar siempre sus pecados. Pero la ira ha venido sobre ellos hasta el extremo. ^d^
-^a^[**2:13** Gal 1,11-12] ^b^[**2:14** Hech 17,5-6; Hech 8,1] ^c^[**2:15** Mat 23,37; Hech 2,23; Hech 7,52] ^d^[**2:16** Mat 23,32-33]
+@13 Por lo cual, también nosotros damos gracias á Dios sin cesar, de que habiendo recibido la palabra de Dios que oísteis de nosotros, recibisteis no palabra de hombres, sino según es en verdad, la palabra de Dios, el cual obra en vosotros los que creísteis. 
+@14 Porque vosotros, hermanos, habéis sido imitadores de las iglesias de Dios en Cristo Jesús que están en Judea; pues habéis padecido también vosotros las mismas cosas de los de vuestra propia nación, como también ellos de los Judíos; 
+@15 Los cuales aun mataron al Señor Jesús y á sus propios profetas, y á nosotros nos han perseguido; y no agradan á Dios, y se oponen á todos los hombres; 
+@16 Prohibiéndonos hablar á los Gentiles, á fin de que se salven, para henchir la medida de sus pecados siempre: pues vino sobre ellos la ira hasta el extremo.
 
 ## Anhelo del apóstol; sus planes de viaje frustrados
-^17^ Pero nosotros, hermanos, estando despojados de ti por un corto tiempo en presencia, no en corazón, nos esforzamos aún más por ver tu rostro con gran deseo, ^18^ porque queríamos ir a ti — de hecho, yo, Pablo, una y otra vez —, pero Satanás nos lo impidió. ^19^ Pues, ¿cuál es nuestra esperanza, o alegría, o corona de regocijo? ¿No eres tú, ante nuestro Señor Jesús en su venida? ^a^ ^20^ Porque tú eres nuestra gloria y nuestra alegría.
-^a^[**2:19** Fil 2,16; Fil 4,1]
+@17 Mas nosotros, hermanos, privados de vosotros por un poco de tiempo, de vista, no de corazón, tanto más procuramos con mucho deseo ver vuestro rostro. 
+@18 Por lo cual quisimos ir á vosotros, yo Pablo á la verdad, una vez y otra; mas Satanás nos embarazó. 
+@19 Porque ¿cuál es nuestra esperanza, ó gozo, ó corona de que me gloríe? ¿No sois vosotros, delante de nuestro Señor Jesucristo en su venida? 
+@20 Que vosotros sois nuestra gloria y gozo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 2
-^1^ For you yourselves know, brothers, our visit to you wasn’t in vain, ^2^ but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict. ^3^ For our exhortation is not of error, nor of uncleanness, nor in deception. ^4^ But even as we have been approved by God to be entrusted with the Good News, so we speak—not as pleasing men, but God, who tests our hearts. ^5^ For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness), ^6^ nor seeking glory from men (neither from you nor from others), when we might have claimed authority as apostles of Christ. ^7^ But we were gentle among you, like a nursing mother cherishes her own children. 
+## Reminder of the energetic, selfless and loving efficacy of God's messengers in Thessalonica
+@1 For you yourselves know, brothers, our visit to you wasn’t in vain, 
+@2 but having suffered before and been shamefully treated, as you know, at Philippi, we grew bold in our God to tell you the Good News of God in much conflict. 
+@3 For our exhortation is not of error, nor of uncleanness, nor in deception. 
+@4 But even as we have been approved by God to be entrusted with the Good News, so we speak—not as pleasing men, but God, who tests our hearts. 
+@5 For neither were we at any time found using words of flattery, as you know, nor a cloak of covetousness (God is witness), 
+@6 nor seeking glory from men (neither from you nor from others), when we might have claimed authority as apostles of Christ. 
+@7 But we were gentle among you, like a nursing mother cherishes her own children. 
 
-^8^ Even so, affectionately longing for you, we were well pleased to impart to you not the Good News of God only, but also our own souls, because you had become very dear to us. ^9^ For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God. ^10^ You are witnesses with God how holy, righteously, and blamelessly we behaved ourselves toward you who believe. ^11^ As you know, we exhorted, comforted, and implored every one of you, as a father does his own children, ^12^ to the end that you should walk worthily of God, who calls you into his own Kingdom and glory. 
+@8 Even so, affectionately longing for you, we were well pleased to impart to you not the Good News of God only, but also our own souls, because you had become very dear to us. 
+@9 For you remember, brothers, our labor and travail; for working night and day, that we might not burden any of you, we preached to you the Good News of God. 
+@10 You are witnesses with God how holy, righteously, and blamelessly we behaved ourselves toward you who believe. 
+@11 As you know, we exhorted, comforted, and implored every one of you, as a father does his own children, 
+@12 to the end that you should walk worthily of God, who calls you into his own Kingdom and glory.
 
-^13^ For this cause we also thank God without ceasing that when you received from us the word of the message of God, you accepted it not as the word of men, but as it is in truth, God’s word, which also works in you who believe. ^14^ For you, brothers, became imitators of the assemblies of God which are in Judea in Christ Jesus; for you also suffered the same things from your own countrymen, even as they did from the Jews ^15^ who killed both the Lord Jesus and their own prophets, and drove us out, and don’t please God, and are contrary to all men, ^16^ forbidding us to speak to the Gentiles that they may be saved, to fill up their sins always. But wrath has come on them to the uttermost. 
+## Thanksgiving for the voluntary reception of the message of salvation by the community and praise for their constancy in suffering
+@13 For this cause we also thank God without ceasing that when you received from us the word of the message of God, you accepted it not as the word of men, but as it is in truth, God’s word, which also works in you who believe. 
+@14 For you, brothers, became imitators of the assemblies of God which are in Judea in Christ Jesus; for you also suffered the same things from your own countrymen, even as they did from the Jews 
+@15 who killed both the Lord Jesus and their own prophets, and drove us out, and don’t please God, and are contrary to all men, 
+@16 forbidding us to speak to the Gentiles that they may be saved, to fill up their sins always. But wrath has come on them to the uttermost.
 
-^17^ But we, brothers, being bereaved of you for a short season in presence, not in heart, tried even harder to see your face with great desire, ^18^ because we wanted to come to you—indeed, I, Paul, once and again—but Satan hindered us. ^19^ For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus^a^ at his coming? ^20^ For you are our glory and our joy.
+## Longing of the apostle; your frustrated travel plans
+@17 But we, brothers, being bereaved of you for a short season in presence, not in heart, tried even harder to see your face with great desire, 
+@18 because we wanted to come to you—indeed, I, Paul, once and again—but Satan hindered us. 
+@19 For what is our hope, or joy, or crown of rejoicing? Isn’t it even you, before our Lord Jesus^a^ at his coming? 
+@20 For you are our glory and our joy.
 ^a^[**2:19** TR adds “Christ”] 
 
 \nopandoc{\end{otherlanguage}}
@@ -57,105 +104,193 @@
 
 # 3
 ## Información sobre la misión de Timoteo y el resultado favorable de su misión; el agradecimiento del apóstol y su deseo de oración
-^1^ Por eso, cuando ya no pudimos aguantar más, nos pareció bien quedarnos solos en Atenas, ^a^ ^2^ y enviamos a Timoteo, nuestro hermano y siervo de Dios en la Buena Nueva de Cristo, para que os afirmara y os consolara en cuanto a vuestra fe, ^b^ ^3^ a fin de que nadie se conmoviera por estas aflicciones. Porque sabéis que hemos sido designados para esta tarea. ^c^ ^4^ Porque ciertamente, cuando estábamos con vosotros, os dijimos de antemano que íbamos a sufrir aflicción, tal como sucedió, y lo sabéis. ^5^ Por esta razón, yo también, cuando ya no podía soportar más, envié para conocer vuestra fe, por temor a que por cualquier medio el tentador os hubiera tentado, y nuestro trabajo hubiera sido en vano. ^d^
-^a^[**3:1** Hech 17,14-16] ^b^[**3:2** Hech 16,1-3] ^c^[**3:3** Hech 14,22; Efes 3,13; 2Tim 3,12; Heb 10,39] ^d^[**3:5** Fil 2,16]
+@1 Por lo cual, no pudiendo esperar más, acordamos quedarnos solos en Atenas, 
+@2 Y enviamos á Timoteo, nuestro hermano, y ministro de Dios, y colaborador nuestro en el evangelio de Cristo, á confirmaros y exhortaros en vuestra fe, 
+@3 Para que nadie se conmueva por estas tribulaciones; porque vosotros sabéis que nosotros somos puestos para esto. 
+@4 Que aun estando con vosotros, os predecíamos que habíamos de pasar tribulaciones, como ha acontecido y sabéis. 
+@5 Por lo cual, también yo, no esperando más, he enviado á reconocer vuestra fe, no sea que os haya tentado el tentador, y que nuestro trabajo haya sido en vano.
 
-^6^ Pero Timoteo acaba de llegar a nosotros de parte de ustedes, y nos ha traído la alegre noticia de su fe y de su amor, y de que tienen siempre un buen recuerdo de nosotros, anhelando vernos, así como nosotros también anhelamos verlos. ^a^ ^7^ Por esta razón, hermanos, fuimos consolados por vosotros en toda nuestra angustia y aflicción por vuestra fe. ^8^ Porque ahora vivimos, si permanecéis firmes en el Señor. ^9^ ¿Qué acción de gracias podemos volver a dar a Dios por vosotros, por todo el gozo con que nos alegramos por vosotros delante de nuestro Dios, ^10^ orando de noche y de día con exceso para poder ver vuestro rostro y perfeccionar lo que falta a vuestra fe?
-^a^[**3:6** Hech 18,5]
+@6 Empero volviendo de vosotros á nosotros Timoteo, y haciéndonos saber vuestra fe y caridad, y que siempre tenéis buena memoria de nosotros, deseando vernos, como también nosotros á vosotros, 
+@7 En ello, hermanos, recibimos consolación de vosotros en toda nuestra necesidad y aflicción por causa de vuestra fe: 
+@8 Porque ahora vivimos, si vosotros estáis firmes en el Señor. 
+@9 Por lo cual, ¿qué hacimiento de gracias podremos dar á Dios por vosotros, por todo el gozo con que nos gozamos á causa de vosotros delante de nuestro Dios, 
+@10 Orando de noche y de día con grande instancia, que veamos vuestro rostro, y que cumplamos lo que falta á vuestra fe?
 
-^11^ Que nuestro Dios y Padre mismo, y nuestro Señor Jesucristo, dirijan nuestro camino hacia vosotros. ^12^ Que el Señor os haga crecer y abundar en el amor entre vosotros y con todos los hombres, como también nosotros lo hacemos con vosotros, ^13^ para que establezca vuestros corazones irreprochables en santidad ante nuestro Dios y Padre en la venida de nuestro Señor Jesús con todos sus santos. ^a^
-^a^[**3:13** Fil 1,10; 1Cor 1,8]
+@11 Mas el mismo Dios y Padre nuestro, y el Señor nuestro Jesucristo, encamine nuestro viaje á vosotros. 
+@12 Y á vosotros multiplique el Señor, y haga abundar el amor entre vosotros, y para con todos, como es también de nosotros para con vosotros; 
+@13 Para que sean confirmados vuestros corazones en santidad, irreprensibles delante de Dios y nuestro Padre, para la venida de nuestro Señor Jesucristo con todos sus santos. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 3
-^1^ Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone, ^2^ and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith, ^3^ that no one would be moved by these afflictions. For you know that we are appointed to this task. ^4^ For most certainly, when we were with you, we told you beforehand that we are to suffer affliction, even as it happened, and you know. ^5^ For this cause I also, when I couldn’t stand it any longer, sent that I might know your faith, for fear that by any means the tempter had tempted you, and our labor would have been in vain. 
+## Information about Timoteo's mission and the favorable outcome of his mission; the thanks of the apostle and his desire for prayer
+@1 Therefore when we couldn’t stand it any longer, we thought it good to be left behind at Athens alone, 
+@2 and sent Timothy, our brother and God’s servant in the Good News of Christ, to establish you and to comfort you concerning your faith, 
+@3 that no one would be moved by these afflictions. For you know that we are appointed to this task. 
+@4 For most certainly, when we were with you, we told you beforehand that we are to suffer affliction, even as it happened, and you know. 
+@5 For this cause I also, when I couldn’t stand it any longer, sent that I might know your faith, for fear that by any means the tempter had tempted you, and our labor would have been in vain. 
 
-^6^ But Timothy has just now come to us from you, and brought us glad news of your faith and love, and that you have good memories of us always, longing to see us, even as we also long to see you. ^7^ For this cause, brothers, we were comforted over you in all our distress and affliction through your faith. ^8^ For now we live, if you stand fast in the Lord. ^9^ For what thanksgiving can we render again to God for you, for all the joy with which we rejoice for your sakes before our God, ^10^ night and day praying exceedingly that we may see your face and may perfect that which is lacking in your faith? 
+@6 But Timothy has just now come to us from you, and brought us glad news of your faith and love, and that you have good memories of us always, longing to see us, even as we also long to see you. 
+@7 For this cause, brothers, we were comforted over you in all our distress and affliction through your faith. 
+@8 For now we live, if you stand fast in the Lord. 
+@9 For what thanksgiving can we render again to God for you, for all the joy with which we rejoice for your sakes before our God, 
+@10 night and day praying exceedingly that we may see your face and may perfect that which is lacking in your faith? 
 
-^11^ Now may our God and Father himself, and our Lord Jesus Christ, direct our way to you. ^12^ May the Lord make you to increase and abound in love toward one another and toward all men, even as we also do toward you, ^13^ to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints. 
+@11 Now may our God and Father himself, and our Lord Jesus Christ, direct our way to you. 
+@12 May the Lord make you to increase and abound in love toward one another and toward all men, even as we also do toward you, 
+@13 to the end he may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus with all his saints. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 4
 ## Recordatorio de castidad y honestidad en la vida empresarial
-^1^ Por último, hermanos, os rogamos y exhortamos en el Señor Jesús, que así como habéis recibido de nosotros cómo debéis andar y agradar a Dios, abundéis más y más. ^2^ Porque ya sabéis qué instrucciones os hemos dado por medio del Señor Jesús. ^3^ Porque esta es la voluntad de Dios: vuestra santificación, que os abstengáis de la inmoralidad sexual, ^4^ que cada uno de vosotros sepa dominar su propio cuerpo en santificación y honor, ^a^ ^5^ no en la pasión de la lujuria, como los gentiles que no conocen a Dios, ^6^ que nadie se aproveche ni agravie a un hermano o hermana en este asunto; porque el Señor es vengador en todas estas cosas, como también os lo advertimos y testificamos. ^7^ Porque Dios no nos llamó para la impureza, sino para la santificación. ^8^ Por tanto, el que rechaza esto no rechaza al hombre, sino a Dios, que también os ha dado su Espíritu Santo. ^b^
-^a^[**4:4** 1Cor 6,19] ^b^[**4:8** Luc 10,16; Ezeq 36,27]
+@1 Resta pues, hermanos, que os roguemos y exhortemos en el Señor Jesús, que de la manera que fuisteis enseñados de nosotros de cómo os conviene andar, y agradar á Dios, así vayáis creciendo. 
+@2 Porque ya sabéis qué mandamientos os dimos por el Señor Jesús. 
+@3 Porque la voluntad de Dios es vuestra santificación: que os apartéis de fornicación; 
+@4 Que cada uno de vosotros sepa tener su vaso en santificación y honor; 
+@5 No con afecto de concupiscencia, como los Gentiles que no conocen á Dios: 
+@6 Que ninguno oprima, ni engañe en nada á su hermano: porque el Señor es vengador de todo esto, como ya os hemos dicho y protestado. 
+@7 Porque no nos ha llamado Dios á inmundicia, sino á santificación. 
+@8 Así que, el que menosprecia, no menosprecia á hombre, sino á Dios, el cual también nos dió su Espíritu Santo.
 
 ## Recordatorio de amor fraternal y trabajo duro y silencioso
-^9^ Pero en cuanto al amor fraternal, no tenéis necesidad de que se os escriba. Porque vosotros mismos habéis sido enseñados por Dios a amaros los unos a los otros, ^a^ ^10^ pues de hecho lo hacéis con todos los hermanos que hay en toda Macedonia. Pero os exhortamos, hermanos, a que abundéis cada vez más; ^11^ y a que os propongáis llevar una vida tranquila, ocupándoos de vuestros propios asuntos y trabajando con vuestras propias manos, tal como os hemos instruido, ^b^ ^12^ para que os conduzcáis debidamente con los que están fuera y no tengáis necesidad de nada. ^c^
-^a^[**4:9** Juan 13,34; Jer 31,33-34; Lev 19,18] ^b^[**4:11** 1Tes 2,9; Efes 4,28; 2Tes 3,8; 2Tes 3,12] ^c^[**4:12** Col 4,5]
+@9 Mas acerca de la caridad fraterna no habéis menester que os escriba: porque vosotros mismos habéis aprendido de Dios que os améis los unos á los otros; 
+@10 Y también lo hacéis así con todos los hermanos que están por toda Macedonia. Empero os rogamos, hermanos, que abundéis más; 
+@11 Y que procuréis tener quietud, y hacer vuestros negocios, y obréis de vuestras manos de la manera que os hemos mandado; 
+@12 A fin de que andéis honestamente para con los extraños, y no necesitéis de nada.
 
 ## Sin dolor desesperado por los muertos
-^13^ Pero no queremos que ignoréis, hermanos, lo de los que han dormido, para que no os entristezcáis como los demás, que no tienen esperanza. ^a^ ^14^ Porque si creemos que Jesús murió y resucitó, también Dios traerá consigo a los que durmieron en Jesús. ^b^ ^15^ Porque esto os decimos por la palabra del Señor: que nosotros, los que vivimos, los que quedamos hasta la venida del Señor, no precederemos en modo alguno a los que han dormido. ^c^ ^16^ Porque el Señor mismo descenderá del cielo con un grito, con la voz del arcángel y con la trompeta de Dios. Los muertos en Cristo resucitarán primero, ^17^ y luego nosotros, los que quedemos vivos, seremos arrebatados con ellos en las nubes para recibir al Señor en el aire. Así estaremos con el Señor para siempre. ^d^ ^18^ Por eso, consuélense unos a otros con estas palabras.
-^a^[**4:13** 1Cor 15,20; Efes 2,12] ^b^[**4:14** Rom 14,9; 1Cor 15,3-4; 1Cor 15,12] ^c^[**4:15** Mat 16,28; Mat 24,30-31; 1Cor 15,51-52; Juan 17,24] ^d^[**4:17** Juan 12,26]
+@13 Tampoco, hermanos, queremos que ignoréis acerca de los que duermen, que no os entristezcáis como los otros que no tienen esperanza. 
+@14 Porque si creemos que Jesús murió y resucitó, así también traerá Dios con él á los que durmieron en Jesús. 
+@15 Por lo cual, os decimos esto en palabra del Señor: que nosotros que vivimos, que habremos quedado hasta la venida del Señor, no seremos delanteros á los que durmieron. 
+@16 Porque el mismo Señor con aclamación, con voz de arcángel, y con trompeta de Dios, descenderá del cielo; y los muertos en Cristo resucitarán primero: 
+@17 Luego nosotros, los que vivimos, los que quedamos, juntamente con ellos seremos arrebatados en las nubes á recibir al Señor en el aire, y así estaremos siempre con el Señor. 
+@18 Por tanto, consolaos los unos á los otros en estas palabras. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 4
-^1^ Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more. ^2^ For you know what instructions we gave you through the Lord Jesus. ^3^ For this is the will of God: your sanctification, that you abstain from sexual immorality, ^4^ that each one of you know how to control his own body^a^ in sanctification and honor, ^5^ not in the passion of lust, even as the Gentiles who don’t know God, ^6^ that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified. ^7^ For God called us not for uncleanness, but in sanctification. ^8^ Therefore he who rejects this doesn’t reject man, but God, who has also given his Holy Spirit to you. 
+## Reminder of chastity and honesty in business life
+@1 Finally then, brothers, we beg and exhort you in the Lord Jesus, that as you received from us how you ought to walk and to please God, that you abound more and more. 
+@2 For you know what instructions we gave you through the Lord Jesus. 
+@3 For this is the will of God: your sanctification, that you abstain from sexual immorality, 
+@4 that each one of you know how to control his own body^a^ in sanctification and honor, 
+@5 not in the passion of lust, even as the Gentiles who don’t know God, 
+@6 that no one should take advantage of and wrong a brother or sister in this matter; because the Lord is an avenger in all these things, as also we forewarned you and testified. 
+@7 For God called us not for uncleanness, but in sanctification. 
+@8 Therefore he who rejects this doesn’t reject man, but God, who has also given his Holy Spirit to you. 
 ^a^[**4:4** literally, possess his own vessel]
 
-^9^ But concerning brotherly love, you have no need that one write to you. For you yourselves are taught by God to love one another, ^10^ for indeed you do it toward all the brothers who are in all Macedonia. But we exhort you, brothers, that you abound more and more; ^11^ and that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you, ^12^ that you may walk properly toward those who are outside, and may have need of nothing. 
+## Reminder of brotherly love and quiet hard work
+@9 But concerning brotherly love, you have no need that one write to you. For you yourselves are taught by God to love one another, 
+@10 for indeed you do it toward all the brothers who are in all Macedonia. But we exhort you, brothers, that you abound more and more; 
+@11 and that you make it your ambition to lead a quiet life, and to do your own business, and to work with your own hands, even as we instructed you, 
+@12 that you may walk properly toward those who are outside, and may have need of nothing.
 
-^13^ But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope. ^14^ For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus. ^15^ For this we tell you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will in no way precede those who have fallen asleep. ^16^ For the Lord himself will descend from heaven with a shout, with the voice of the archangel and with God’s trumpet. The dead in Christ will rise first, ^17^ then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air. So we will be with the Lord forever. ^18^ Therefore comfort one another with these words. 
+## No pain desperate for the dead
+@13 But we don’t want you to be ignorant, brothers, concerning those who have fallen asleep, so that you don’t grieve like the rest, who have no hope. 
+@14 For if we believe that Jesus died and rose again, even so God will bring with him those who have fallen asleep in Jesus. 
+@15 For this we tell you by the word of the Lord, that we who are alive, who are left until the coming of the Lord, will in no way precede those who have fallen asleep. 
+@16 For the Lord himself will descend from heaven with a shout, with the voice of the archangel and with God’s trumpet. The dead in Christ will rise first, 
+@17 then we who are alive, who are left, will be caught up together with them in the clouds to meet the Lord in the air. So we will be with the Lord forever. 
+@18 Therefore comfort one another with these words. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 5
 ## Recordatorio de estar alerta y sobrio sobre la incertidumbre del momento del regreso de Cristo
-^1^ Pero en cuanto a los tiempos y las estaciones, hermanos, no tenéis necesidad de que se os escriba nada. ^a^ ^2^ Porque vosotros mismos sabéis bien que el día del Señor viene como un ladrón en la noche. ^b^ ^3^ Porque cuando digan: “Paz y seguridad”, entonces vendrá sobre ellos una destrucción repentina, como los dolores de parto de una mujer embarazada. Entonces no podrán escapar de ninguna manera. ^c^ ^4^ Pero vosotros, hermanos, no estáis en las tinieblas, para que el día os sorprenda como un ladrón. ^5^ Todos vosotros sois hijos de la luz e hijos del día. No pertenecemos a la noche ni a las tinieblas, ^d^ ^6^ así que no durmamos, como los demás, sino velemos y seamos sobrios. ^e^ ^7^ Porque los que duermen, duermen de noche; y los que se emborrachan, se emborrachan de noche. ^8^ Pero ya que pertenecemos al día, seamos sobrios, poniéndonos la coraza de la fe y del amor, y por yelmo, la esperanza de la salvación. ^f^ ^9^ Porque Dios no nos destinó a la ira, sino a la obtención de la salvación por medio de nuestro Señor Jesucristo, ^10^ quien murió por nosotros, para que, ya sea que estemos despiertos o durmiendo, vivamos junto con él. ^g^ ^11^ Exhortaos, pues, unos a otros, y edificaos mutuamente, como también vosotros. ^h^
-^a^[**5:1** Mat 24,36] ^b^[**5:2** Mat 24,42-44; 2Pe 3,10; Apoc 3,3; Apoc 16,15] ^c^[**5:3** Jer 6,14; Mat 24,39] ^d^[**5:5** Rom 13,12; Efes 5,9] ^e^[**5:6** 1Pe 5,8] ^f^[**5:8** Efes 6,14-17] ^g^[**5:10** Rom 14,8-9] ^h^[**5:11** Heb 3,13]
+@1 Empero acerca de los tiempos y de los momentos, no tenéis, hermanos, necesidad de que yo os escriba: 
+@2 Porque vosotros sabéis bien, que el día del Señor vendrá así como ladrón de noche, 
+@3 Que cuando dirán, Paz y seguridad, entonces vendrá sobre ellos destrucción de repente, como los dolores á la mujer preñada; y no escaparán. 
+@4 Mas vosotros, hermanos, no estáis en tinieblas, para que aquel día os sobrecoja como ladrón; 
+@5 Porque todos vosotros sois hijos de luz, é hijos del día; no somos de la noche, ni de las tinieblas. 
+@6 Por tanto, no durmamos como los demás; antes velemos y seamos sobrios. 
+@7 Porque los que duermen, de noche duermen; y los que están borrachos, de noche están borrachos. 
+@8 Mas nosotros, que somos del día, estemos sobrios, vestidos de cota de fe y de caridad, y la esperanza de salud por yelmo. 
+@9 Porque no nos ha puesto Dios para ira, sino para alcanzar salud por nuestro Señor Jesucristo; 
+@10 El cual murió por nosotros, para que ó que velemos, ó que durmamos, vivamos juntamente con él. 
+@11 Por lo cual, consolaos los unos á los otros, y edificaos los unos á los otros, así como lo hacéis.
 
 ## Deberes de los feligreses hacia los líderes parroquiales
-^12^ Pero os rogamos, hermanos, que conozcáis a los que trabajan entre vosotros y os presiden en el Señor y os amonestan, ^a^ ^13^ y que los respetéis y honréis con amor por su trabajo. Estad en paz entre vosotros.
-^a^[**5:12** 1Cor 16,18]
+@12 Y os rogamos, hermanos, que reconozcáis á los que trabajan entre vosotros, y os presiden en el Señor, y os amonestan: 
+@13 Y que los tengáis en mucha estima por amor de su obra. Tened paz los unos con los otros.
 
 ## Deberes de los líderes comunitarios hacia los miembros de la comunidad
-^14^ Os exhortamos, hermanos: Amonestad a los desordenados; animad a los pusilánimes; apoyad a los débiles; sed pacientes con todos. ^a^ ^15^ Procurad que nadie devuelva a nadie mal por mal, sino que sigáis siempre lo que es bueno para los unos y para los otros. ^b^
-^a^[**5:14** 2Tes 3,15] ^b^[**5:15** Prov 20,22; Rom 12,17; Rom 12,21; 1Pe 3,9]
+@14 También os rogamos, hermanos, que amonestéis á los que andan desordenadamente, que consoléis á los de poco ánimo, que soportéis á los flacos, que seáis sufridos para con todos. 
+@15 Mirad que ninguno dé á otro mal por mal; antes seguid lo bueno siempre los unos para con los otros, y para con todos.
 
 ## Obligaciones de toda la comunidad en actitud y eficacia
-^16^ Alégrate siempre. ^a^ ^17^ Orad sin cesar. ^b^ ^18^ Dad gracias en todo, porque ésta es la voluntad de Dios para con vosotros en Cristo Jesús. ^c^ ^19^ No apaguen el Espíritu. ^d^ ^20^ No despreciéis las profecías. ^21^ Probad todas las cosas y retened firmemente lo que es bueno. ^22^ Absteneos de toda forma de maldad.
-^a^[**5:16** Fil 4,4] ^b^[**5:17** Luc 18,1-8; Rom 12,12; Efes 6,18; Col 4,2] ^c^[**5:18** Efes 5,20] ^d^[**5:19** 1Cor 14,1; 1Cor 14,39]
+@16 Estad siempre gozosos. 
+@17 Orad sin cesar. 
+@18 Dad gracias en todo; porque esta es la voluntad de Dios para con vosotros en Cristo Jesús. 
+@19 No apaguéis el Espíritu. 
+@20 No menospreciéis las profecías. 
+@21 Examinadlo todo; retened lo bueno. 
+@22 Apartaos de toda especie de mal.
 
 ## Petición de oración final
-^23^ Que el mismo Dios de la paz te santifique por completo. Que todo tu espíritu, tu alma y tu cuerpo se conserven irreprochables en la venida de nuestro Señor Jesucristo. ^a^
-^a^[**5:23** 1Cor 14,29]
+@23 Y el Dios de paz os santifique en todo; para que vuestro espíritu y alma y cuerpo sea guardado entero sin reprensión para la venida de nuestro Señor Jesucristo.
 
-^24^ Es fiel el que os llama, que también lo hará. ^a^
-^a^[**5:24** 1Cor 1,9; 2Tes 3,3]
+@24 Fiel es el que os ha llamado; el cual también lo hará.
 
 ## Fin de la carta; Paz y bendiciones
-^25^ Hermanos, rezad por nosotros.
+@25 Hermanos, orad por nosotros.
 
-^26^ Saluda a todos los hermanos con un beso santo. ^27^ Te ordeno solemnemente por el Señor que esta carta sea leída a todos los santos hermanos.
+@26 Saludad á todos los hermanos en ósculo santo. 
+@27 Conjúroos por el Señor, que esta carta sea leída á todos los santos hermanos.
 
-^28^ La gracia de nuestro Señor Jesucristo esté con vosotros. Amén.
+@28 La gracia de nuestro Señor Jesucristo sea con vosotros. Amén. La primera epístola á los Tesalonicenses fué escrita de Atenas.
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 5
-^1^ But concerning the times and the seasons, brothers, you have no need that anything be written to you. ^2^ For you yourselves know well that the day of the Lord comes like a thief in the night. ^3^ For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape. ^4^ But you, brothers, aren’t in darkness, that the day should overtake you like a thief. ^5^ You are all children of light and children of the day. We don’t belong to the night, nor to darkness, ^6^ so then let’s not sleep, as the rest do, but let’s watch and be sober. ^7^ For those who sleep, sleep in the night; and those who are drunk are drunk in the night. ^8^ But since we belong to the day, let’s be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation. ^9^ For God didn’t appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ, ^10^ who died for us, that, whether we wake or sleep, we should live together with him. ^11^ Therefore exhort one another, and build each other up, even as you also do. 
+## Reminder to be alert and sober about the uncertainty of the timing of Christ's return
+@1 But concerning the times and the seasons, brothers, you have no need that anything be written to you. 
+@2 For you yourselves know well that the day of the Lord comes like a thief in the night. 
+@3 For when they are saying, “Peace and safety,” then sudden destruction will come on them, like birth pains on a pregnant woman. Then they will in no way escape. 
+@4 But you, brothers, aren’t in darkness, that the day should overtake you like a thief. 
+@5 You are all children of light and children of the day. We don’t belong to the night, nor to darkness, 
+@6 so then let’s not sleep, as the rest do, but let’s watch and be sober. 
+@7 For those who sleep, sleep in the night; and those who are drunk are drunk in the night. 
+@8 But since we belong to the day, let’s be sober, putting on the breastplate of faith and love, and for a helmet, the hope of salvation. 
+@9 For God didn’t appoint us to wrath, but to the obtaining of salvation through our Lord Jesus Christ, 
+@10 who died for us, that, whether we wake or sleep, we should live together with him. 
+@11 Therefore exhort one another, and build each other up, even as you also do.
 
-^12^ But we beg you, brothers, to know those who labor among you, and are over you in the Lord and admonish you, ^13^ and to respect and honor them in love for their work’s sake. 
+## Duties of Parishioners to Parish Leaders
+@12 But we beg you, brothers, to know those who labor among you, and are over you in the Lord and admonish you, 
+@13 and to respect and honor them in love for their work’s sake. 
 
-Be at peace among yourselves. ^14^ We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all. ^15^ See that no one returns evil for evil to anyone, but always follow after that which is good for one another and for all. 
+Be at peace among yourselves.
 
-^16^ Always rejoice. ^17^ Pray without ceasing. ^18^ In everything give thanks, for this is the will of God in Christ Jesus toward you. ^19^ Don’t quench the Spirit. ^20^ Don’t despise prophecies. ^21^ Test all things, and hold firmly that which is good. ^22^ Abstain from every form of evil. 
+## Duties of community leaders towards community members
+@14 We exhort you, brothers: Admonish the disorderly; encourage the faint-hearted; support the weak; be patient toward all. 
+@15 See that no one returns evil for evil to anyone, but always follow after that which is good for one another and for all.
 
-^23^ May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ. 
+## Obligations of the entire community in attitude and efficiency
+@16 Always rejoice. 
+@17 Pray without ceasing. 
+@18 In everything give thanks, for this is the will of God in Christ Jesus toward you. 
+@19 Don’t quench the Spirit. 
+@20 Don’t despise prophecies. 
+@21 Test all things, and hold firmly that which is good. 
+@22 Abstain from every form of evil.
 
-^24^ He who calls you is faithful, who will also do it. 
+## Closing Prayer Request
+@23 May the God of peace himself sanctify you completely. May your whole spirit, soul, and body be preserved blameless at the coming of our Lord Jesus Christ. 
 
-^25^ Brothers, pray for us. 
+@24 He who calls you is faithful, who will also do it.
 
-^26^ Greet all the brothers with a holy kiss. ^27^ I solemnly command you by the Lord that this letter be read to all the holy brothers. 
+## End of letter; Peace and blessings
+@25 Brothers, pray for us. 
 
-^28^ The grace of our Lord Jesus Christ be with you. Amen.
+@26 Greet all the brothers with a holy kiss. 
+@27 I solemnly command you by the Lord that this letter be read to all the holy brothers. 
+
+@28 The grace of our Lord Jesus Christ be with you. Amen.
 \nopandoc{\end{otherlanguage}}
 \nopandoc{\end{paracol}}

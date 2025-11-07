@@ -3,22 +3,64 @@
 
 # 1
 ## Lamento la miseria de la ciudad
-^1^ Cómo la ciudad se sienta solitaria, ¡que estaba lleno de gente! Se ha convertido en una viuda, ¡que era grande entre las naciones! La que fue princesa entre las provincias¡se ha convertido en un esclavo! ^a^ ^2^ Llora amargamente en la noche. Sus lágrimas están en sus mejillas. Entre todos sus amantesno tiene a nadie que la consuele. Todos sus amigos la han tratado a traición. Se han convertido en sus enemigos. ^b^ ^3^ Judá ha ido al cautiverio a causa de la afliccióny por una gran servidumbre. Ella habita entre las naciones. No encuentra descanso. Todos sus perseguidores la alcanzaron en su angustia. ^4^ Los caminos de Sión están de luto, porque nadie viene a la asamblea solemne. Todas sus puertas están desoladas. Sus sacerdotes suspiran. Sus vírgenes están afligidas, y ella misma está en la amargura. ^5^ Sus adversarios se han convertido en la cabeza. Sus enemigos prosperan; porque Yahvé^c^ la ha afligido por la multitud de sus transgresiones. Sus hijos pequeños han ido al cautiverio ante el adversario. ^6^ Toda la majestad se ha alejado de la hija de Sión. Sus príncipes se han vuelto como ciervos que no encuentran pasto. Se han ido sin fuerzas ante el perseguidor. ^7^ Jerusalén recuerda en los días de su aflicción y de sus miseriastodas sus cosas agradables que eran de los días de antaño; cuando su pueblo cayó en manos del adversario, y nadie la ayudó. Los adversarios la vieron. Se burlaron de sus desolaciones. ^d^ ^8^ Jerusalén ha pecado gravemente. Por lo tanto, se ha vuelto impura. Todos los que la honran la desprecian, porque han visto su desnudez. Sí, suspira y se vuelve hacia atrás. ^e^ ^9^ Su suciedad estaba en sus faldas. No recordaba su último final. Por lo tanto, ha bajado de forma asombrosa. No tiene edredón. “Mira, Yahvé, mi aflicción; porque el enemigo se ha engrandecido”. ^10^ El adversario ha extendido su mano sobre todas sus cosas agradables; porque ha visto que las naciones han entrado en su santuario, sobre los que ordenaste que no entraran en tu asamblea. ^f^ ^11^ Todo su pueblo suspira. Buscan el pan. Han dado sus cosas agradables por alimento para refrescar su alma. “Mira, Yahvé, y ve, porque he llegado a ser despreciado”.
-^a^[**1:1** Jer 51,5] ^b^[**1:2** Sal 69,20] ^c^[**1:5** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^d^[**1:7** Lev 26,34-35] ^e^[**1:8** Lam 1,17; Jer 13,22] ^f^[**1:10** Deut 23,3]
+@1 ¡Cómo está sentada sola la ciudad populosa! La grande entre las naciones se ha vuelto como viuda, la señora de provincias es hecha tributaria. 
+@2 Amargamente llora en la noche, y sus lágrimas en sus mejillas; no tiene quien la consuele de todos sus amadores: todos sus amigos le faltaron, volviéronsele enemigos. 
+@3 Fuése Judá, á causa de la aflicción, y de la grandeza de servidumbre; ella moró entre las gentes, y no halló descanso: todos sus perseguidores la alcanzaron entre estrechuras. 
+@4 Las calzadas de Sión tienen luto, porque no hay quien venga á las solemnidades; todas sus puertas están asoladas, sus sacerdotes gimen, sus vírgenes afligidas, y ella tiene amargura. 
+@5 Sus enemigos han sido hechos cabeza, sus aborrecedores fueron prosperados; porque Jehová la afligió por la multitud de sus rebeliones: sus niños fueron en cautividad delante del enemigo. 
+@6 Fuése de la hija de Sión toda su hermosura: sus príncipes fueron como ciervos que no hallan pasto, y anduvieron sin fortaleza delante del perseguidor. 
+@7 Jerusalem, cuando cayó su pueblo en mano del enemigo y no hubo quien le ayudase, se acordó de los días de su aflicción, y de sus rebeliones, y de todas sus cosas deseables que tuvo desde los tiempos antiguos: miráronla los enemigos, y escarnecieron de sus sábados. 
+@8 Pecado cometió Jerusalem; por lo cual ella ha sido removida: todos los que la honraban la han menospreciado, porque vieron su vergüenza; y ella suspira, y se vuelve atrás. 
+@9 Sus inmundicias en sus faldas; no se acordó de su postrimería: por tanto ella ha descendido maravillosamente, no tiene consolador. Mira, oh Jehová, mi aflicción, porque el enemigo se ha engrandecido. 
+@10 Extendió su mano el enemigo á todas sus cosas preciosas; y ella ha visto entrar en su santuario las gentes, de las cuales mandaste que no entrasen en tu congregación. 
+@11 Todo su pueblo buscó su pan suspirando; dieron por la comida todas sus cosas preciosas, para entretener la vida. Mira, oh Jehová, y ve que estoy abatida.
 
 ## Desafortunadamente, la ciudad se llenó de lamentos y confesiones arrepentidas
-^12^ “¿No os parece nada a todos los que pasáis por allí? Mira, y ve si hay alguna pena como la mía, que se me ha echado encima, con la que Yahvé me ha afligido en el día de su feroz ira. ^a^ ^13^ “Desde lo alto ha enviado fuego a mis huesos, y prevalece contra ellos. Ha tendido una red para mis pies. Me ha hecho volver. Me ha dejado desolado y desfallezco todo el día. ^14^ “El yugo de mis transgresiones está atado por su mano. Están unidos. Han subido a mi cuello. Hizo que me faltaran las fuerzas. El Señor^b^ me ha entregado en sus manos, contra el que no soy capaz de resistir. ^15^ “El Señor ha puesto en cero a todos mis valientes dentro de mí. Ha convocado una asamblea solemne contra mí para aplastar a mis jóvenes. El Señor ha pisado a la hija virgen de Judá como en un lagar. ^c^ ^16^ “Por estas cosas lloro. Mi ojo, mi ojo se llena de agua, porque el consolador que debería refrescar mi alma está lejos de mí. Mis hijos están desolados, porque el enemigo ha prevalecido”. ^d^ ^17^ Sión extiende sus manos. No hay nadie que la consuele. Yahvé ha ordenado con respecto a Jacob, que los que le rodean sean sus adversarios. Jerusalén está entre ellos como una cosa inmunda. ^e^
-^a^[**1:12** Lam 1,5] ^b^[**1:14** La palabra traducida “Señor” es “Adonai”.] ^c^[**1:15** Is 63,3] ^d^[**1:16** Jer 9,1] ^e^[**1:17** Lam 1,8]
+@12 ¿No os conmueve á cuantos pasáis por el camino? Mirad, y ved si hay dolor como mi dolor que me ha venido; porque Jehová me ha angustiado en el día de la ira de su furor. 
+@13 Desde lo alto envió fuego en mis huesos, el cual se enseñoreó: ha extendido red á mis pies, tornóme atrás, púsome asolada, y que siempre tenga dolor. 
+@14 El yugo de mis rebeliones está ligado por su mano, enlazadas han subido sobre mi cerviz: ha hecho caer mis fuerzas: hame entregado el Señor en sus manos, contra quienes no podré levantarme. 
+@15 El Señor ha hollado todos mis fuertes en medio de mí; llamó contra mí compañía para quebrantar mis mancebos: como lagar ha pisado el Señor á la virgen hija de Judá. 
+@16 Por esta causa yo lloro; mis ojos, mis ojos fluyen aguas; porque se alejó de mí consolador que dé reposo á mi alma: mis hijos son destruídos, porque el enemigo prevaleció. 
+@17 Sión extendió sus manos, no tiene quien la consuele; Jehová dió mandamiento contra Jacob, que sus enemigos lo cercasen: Jerusalem fué en abominación entre ellos.
 
 ## La oración de Sion a Dios pidiendo ayuda y venganza contra los enemigos
-^18^ “Yahvé es justo, porque me he rebelado contra su mandamiento. Por favor, escuchen a todos los pueblos, y ver mi dolor. Mis vírgenes y mis jóvenes han ido al cautiverio. ^a^ ^19^ “Llamé a mis amantes, pero me engañaron. Mis sacerdotes y mis ancianos entregaron el espíritu en la ciudad, mientras buscaban comida para refrescar sus almas. ^b^ ^20^ “Mira, Yahvé, porque estoy en apuros. Mi corazón está preocupado. Mi corazón da un vuelco dentro de mí, porque me he rebelado gravemente. En el extranjero, la espada se desprende. En casa, es como la muerte. ^21^ “Han oído que suspiro. No hay nadie que me consuele. Todos mis enemigos han oído hablar de mi problema. Se alegran de que lo hayas hecho. Traerás el día que has proclamado, y serán como yo. ^c^ ^22^ “Quetoda su maldad se presente ante ti. Haz con ellos lo que has hecho conmigo por todas mis transgresiones. Porque mis suspiros son muchos, y mi corazón desfallece.
-^a^[**1:18** Lam 3,42; Lam 5,16] ^b^[**1:19** Lam 1,11] ^c^[**1:21** Lam 4,21]
+@18 Jehová es justo; que yo contra su boca me rebelé. Oid ahora, pueblos todos, y ved mi dolor: mis vírgenes y mis mancebos fueron en cautiverio. 
+@19 Dí voces á mis amadores, mas ellos me han engañado; mis sacerdotes y mis ancianos en la ciudad perecieron, buscando comida para sí con que entretener su vida. 
+@20 Mira, oh Jehová, que estoy atribulada: mis entrañas rugen, mi corazón está trastornado en medio de mí; porque me rebelé desaforadamente: de fuera deshijó el cuchillo, de dentro parece una muerte. 
+@21 Oyeron que gemía, y no hay consolador para mí: todos mis enemigos han oído mi mal, se han holgado de que tú lo hiciste. Harás venir el día que has anunciado, y serán como yo. 
+@22 Entre delante de ti toda su maldad, y haz con ellos como hiciste conmigo por todas mis rebeliones: porque muchos son mis suspiros, y mi corazón está doloroso. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
-^1^ How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become a slave! ^2^ She weeps bitterly in the night. Her tears are on her cheeks. Among all her lovers she has no one to comfort her. All her friends have dealt treacherously with her. They have become her enemies. ^3^ Judah has gone into captivity because of affliction and because of great servitude. She dwells among the nations. She finds no rest. All her persecutors overtook her in her distress. ^4^ The roads to Zion mourn, because no one comes to the solemn assembly. All her gates are desolate. Her priests sigh. Her virgins are afflicted, and she herself is in bitterness. ^5^ Her adversaries have become the head. Her enemies prosper; for Yahweh^a^ has afflicted her for the multitude of her transgressions. Her young children have gone into captivity before the adversary. ^6^ All majesty has departed from the daughter of Zion. Her princes have become like deer that find no pasture. They have gone without strength before the pursuer. ^7^ Jerusalem remembers in the days of her affliction and of her miseries all her pleasant things that were from the days of old; when her people fell into the hand of the adversary, and no one helped her. The adversaries saw her. They mocked at her desolations. ^8^ Jerusalem has grievously sinned. Therefore she has become unclean. All who honored her despise her, because they have seen her nakedness. Yes, she sighs and turns backward. ^9^ Her filthiness was in her skirts. She didn’t remember her latter end. Therefore she has come down astoundingly. She has no comforter. “See, Yahweh, my affliction; for the enemy has magnified himself.” ^10^ The adversary has spread out his hand on all her pleasant things; for she has seen that the nations have entered into her sanctuary, concerning whom you commanded that they should not enter into your assembly. ^11^ All her people sigh. They seek bread. They have given their pleasant things for food to refresh their soul. “Look, Yahweh, and see, for I have become despised.” ^12^ “Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which Yahweh has afflicted me in the day of his fierce anger. ^13^ “From on high has he sent fire into my bones, and it prevails against them. He has spread a net for my feet. He has turned me back. He has made me desolate and I faint all day long. ^14^ “The yoke of my transgressions is bound by his hand. They are knit together. They have come up on my neck. He made my strength fail. The Lord^b^ has delivered me into their hands, against whom I am not able to stand. ^15^ “The Lord has set at nothing all my mighty men within me. He has called a solemn assembly against me to crush my young men. The Lord has trodden the virgin daughter of Judah as in a wine press. ^16^ “For these things I weep. My eye, my eye runs down with water, because the comforter who should refresh my soul is far from me. My children are desolate, because the enemy has prevailed.” ^17^ Zion spreads out her hands. There is no one to comfort her. Yahweh has commanded concerning Jacob, that those who are around him should be his adversaries. Jerusalem is among them as an unclean thing. ^18^ “Yahweh is righteous, for I have rebelled against his commandment. Please hear all you peoples, and see my sorrow. My virgins and my young men have gone into captivity. ^19^ “I called for my lovers, but they deceived me. My priests and my elders gave up the spirit in the city, while they sought food for themselves to refresh their souls. ^20^ “Look, Yahweh; for I am in distress. My heart is troubled. My heart turns over within me, for I have grievously rebelled. Abroad, the sword bereaves. At home, it is like death. ^21^ “They have heard that I sigh. There is no one to comfort me. All my enemies have heard of my trouble. They are glad that you have done it. You will bring the day that you have proclaimed, and they will be like me. ^22^ “Let all their wickedness come before you. Do to them as you have done to me for all my transgressions. For my sighs are many, and my heart is faint.
+## I'm sorry for the misery of the city
+@1 How the city sits solitary, that was full of people! She has become as a widow, who was great among the nations! She who was a princess among the provinces has become a slave! 
+@2 She weeps bitterly in the night. Her tears are on her cheeks. Among all her lovers she has no one to comfort her. All her friends have dealt treacherously with her. They have become her enemies. 
+@3 Judah has gone into captivity because of affliction and because of great servitude. She dwells among the nations. She finds no rest. All her persecutors overtook her in her distress. 
+@4 The roads to Zion mourn, because no one comes to the solemn assembly. All her gates are desolate. Her priests sigh. Her virgins are afflicted, and she herself is in bitterness. 
+@5 Her adversaries have become the head. Her enemies prosper; for Yahweh^a^ has afflicted her for the multitude of her transgressions. Her young children have gone into captivity before the adversary. 
+@6 All majesty has departed from the daughter of Zion. Her princes have become like deer that find no pasture. They have gone without strength before the pursuer. 
+@7 Jerusalem remembers in the days of her affliction and of her miseries all her pleasant things that were from the days of old; when her people fell into the hand of the adversary, and no one helped her. The adversaries saw her. They mocked at her desolations. 
+@8 Jerusalem has grievously sinned. Therefore she has become unclean. All who honored her despise her, because they have seen her nakedness. Yes, she sighs and turns backward. 
+@9 Her filthiness was in her skirts. She didn’t remember her latter end. Therefore she has come down astoundingly. She has no comforter. “See, Yahweh, my affliction; for the enemy has magnified himself.” 
+@10 The adversary has spread out his hand on all her pleasant things; for she has seen that the nations have entered into her sanctuary, concerning whom you commanded that they should not enter into your assembly. 
+@11 All her people sigh. They seek bread. They have given their pleasant things for food to refresh their soul. “Look, Yahweh, and see, for I have become despised.”
+
+## Unfortunately, the city was filled with regrets and regretful confessions
+@12 “Is it nothing to you, all you who pass by? Look, and see if there is any sorrow like my sorrow, which is brought on me, with which Yahweh has afflicted me in the day of his fierce anger. 
+@13 “From on high has he sent fire into my bones, and it prevails against them. He has spread a net for my feet. He has turned me back. He has made me desolate and I faint all day long. 
+@14 “The yoke of my transgressions is bound by his hand. They are knit together. They have come up on my neck. He made my strength fail. The Lord^b^ has delivered me into their hands, against whom I am not able to stand. 
+@15 “The Lord has set at nothing all my mighty men within me. He has called a solemn assembly against me to crush my young men. The Lord has trodden the virgin daughter of Judah as in a wine press. 
+@16 “For these things I weep. My eye, my eye runs down with water, because the comforter who should refresh my soul is far from me. My children are desolate, because the enemy has prevailed.” 
+@17 Zion spreads out her hands. There is no one to comfort her. Yahweh has commanded concerning Jacob, that those who are around him should be his adversaries. Jerusalem is among them as an unclean thing.
+
+## Zion's prayer to God asking for help and revenge against enemies
+@18 “Yahweh is righteous, for I have rebelled against his commandment. Please hear all you peoples, and see my sorrow. My virgins and my young men have gone into captivity. 
+@19 “I called for my lovers, but they deceived me. My priests and my elders gave up the spirit in the city, while they sought food for themselves to refresh their souls. 
+@20 “Look, Yahweh; for I am in distress. My heart is troubled. My heart turns over within me, for I have grievously rebelled. Abroad, the sword bereaves. At home, it is like death. 
+@21 “They have heard that I sigh. There is no one to comfort me. All my enemies have heard of my trouble. They are glad that you have done it. You will bring the day that you have proclaimed, and they will be like me. 
+@22 “Let all their wickedness come before you. Do to them as you have done to me for all my transgressions. For my sighs are many, and my heart is faint.
 ^a^[**1:5** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:14** The word translated “Lord” is “Adonai.”] 
 
 \nopandoc{\end{otherlanguage}}
@@ -26,44 +68,216 @@
 
 # 2
 ## Descripción de la calamidad de la cual la tierra y la gente y especialmente Jerusalén se ven afectados por la ira de Dios
-^1^ ¡Cómo ha cubierto el Señor a la hija de Sión con una nube en su ira! Ha hecho descender del cielo a la tierra la belleza de Israel, y no se ha acordado de su escabel en el día de su ira. ^a^ ^2^ El Señor se ha tragado todas las moradas de Jacobsin piedad. Ha derribado en su ira las fortalezas de la hija de Judá. Los ha hecho caer al suelo. Ha profanado el reino y sus príncipes. ^3^ Ha cortado todo el cuerno de Israel con feroz ira. Ha retirado su mano derecha de delante del enemigo. Ha quemado a Jacob como un fuego ardiente, que devora todo a su alrededor. ^4^ Ha doblado su arco como un enemigo. Se ha levantado con su mano derecha como adversario. Ha matado todo lo que era agradable a la vista. En la tienda de la hija de Sión, ha derramado su ira como el fuego. ^b^ ^5^ El Señor se ha convertido en un enemigo. Se ha tragado a Israel. Se ha tragado todos sus palacios. Ha destruido sus fortalezas. Ha multiplicado el luto y el lamento en la hija de Judá. ^6^ Se ha llevado violentamente su tabernáculo, como si fuera un jardín. Ha destruido su lugar de reunión. Yahvé ha hecho olvidar la asamblea solemne y el sábado en Sión. En la indignación de su ira, ha despreciado al rey y al sacerdote. ^7^ El Señor ha desechado su altar. Ha aborrecido su santuario. Ha entregado los muros de sus palacios en manos del enemigo. Han hecho ruido en la casa de Yahvé, como en el día de una asamblea solemne. ^c^ ^8^ Yahvé se ha propuesto destruir el muro de la hija de Sión. Ha estirado la línea. No ha retirado su mano de la destrucción; Ha hecho que la muralla y el muro se lamenten. Languidecen juntos. ^9^ Sus puertas se han hundido en la tierra. Ha destruido y roto sus barrotes. Su rey y sus príncipes están entre las naciones donde no hay ley. Sí, sus profetas no encuentran ninguna visión de Yahvé. ^10^ Los ancianos de la hija de Sión se sientan en el suelo. Guardan silencio. Han levantado polvo sobre sus cabezas. Se han vestido de cilicio. Las vírgenes de Jerusalén bajan la cabeza hasta el suelo.
-^a^[**2:1** 1Cró 28,2] ^b^[**2:4** Sal 7,12] ^c^[**2:7** Lam 2,22]
+@1 ¡Cómo oscureció el Señor en su furor á la hija de Sión! Derribó del cielo á la tierra la hermosura de Israel, y no se acordó del estrado de sus pies en el día de su ira. 
+@2 Destruyó el Señor, y no perdonó; destruyó en su furor todas las tiendas de Jacob: echó por tierra las fortalezas de la hija de Judá, deslustró el reino y sus príncipes. 
+@3 Cortó con el furor de su ira todo el cuerno de Israel; hizo volver atrás su diestra delante del enemigo; y encendióse en Jacob como llama de fuego que ha devorado en contorno. 
+@4 Entesó su arco como enemigo, afirmó su mano derecha como adversario, y mató toda cosa hermosa á la vista: en la tienda de la hija de Sión derramó como fuego su enojo. 
+@5 Fué el Señor como enemigo, destruyó á Israel; destruyó todos sus palacios, disipó sus fortalezas: y multiplicó en la hija de Judá la tristeza y lamento. 
+@6 Y quitó su tienda como de un huerto, destruyó el lugar de su congregación: Jehová ha hecho olvidar en Sión solemnidades y sábados, y ha desechado en el furor de su ira rey y sacerdote. 
+@7 Desechó el Señor su altar, menospreció su santuario, ha entregado en mano del enemigo los muros de sus palacios: dieron grita en la casa de Jehová como en día de fiesta. 
+@8 Jehová determinó destruir el muro de la hija de Sión; extendió el cordel, no retrajo su mano de destruir: hizo pues, se lamentara el antemuro y el muro; fueron destruídos juntamente. 
+@9 Sus puertas fueron echadas por tierra, destruyó y quebrantó sus cerrojos: su rey y sus príncipes están entre las gentes donde no hay ley; sus profetas tampoco hallaron visión de Jehová. 
+@10 Sentáronse en tierra, callaron los ancianos de la hija de Sión; echaron polvo sobre sus cabezas, ciñéronse de saco; las vírgenes de Jerusalem bajaron sus cabezas á tierra.
 
 ## Pensamientos y sentimientos del escritor y el mundo exterior; Dios cumplió su consejo
-^11^ Mis ojos fallan con las lágrimas. Mi corazón está preocupado. Mi bilis se derrama sobre la tierra, por la destrucción de la hija de mi pueblo, porque los niños pequeños y los infantes se desmayan en las calles de la ciudad. ^12^ Le preguntan a sus madres, “¿Dónde está el grano y el vino?”cuando se desmayan como los heridos en las calles de la ciudad, cuando su alma se vierte en el seno de su madre. ^13^ ¿Qué te voy a testificar? ¿A qué te compararé, hija de Jerusalén? Qué voy a comparar contigo, ¿para que te consuele, virgen hija de Sión? Porque tu brecha es tan grande como el mar. ¿Quién puede curarte? ^14^ Tus profetas han visto visiones falsas y necias para ti. No han descubierto tu iniquidad, para revertir su cautiverio, sino que han visto para ustedes falsas revelaciones y causas de destierro. ^a^ ^15^ Todos los que pasan te aplauden. Sisean y mueven la cabeza ante la hija de Jerusalén, diciendo, “¿Es esta la ciudad que los hombres llamaron ‘La perfección de la belleza’, la alegría de toda la tierra”? ^b^ ^16^ Todos tus enemigos han abierto su boca contra ti. Sisean y rechinan los dientes. Dicen: “Nos la hemos tragado. Ciertamente, este es el día que buscábamos. Lo hemos encontrado. Lo hemos visto”. ^c^ ^17^ Yahvé ha hecho lo que había planeado. Ha cumplido su palabra que ordenó en los días de antaño. Se ha tirado al suelo, y no se ha compadecido. Ha hecho que el enemigo se alegre de ti. Ha exaltado el cuerno de tus adversarios.
-^a^[**2:14** Jer 14,14-16; Jer 23,14-22] ^b^[**2:15** Sal 48,2; Ezeq 16,14] ^c^[**2:16** Job 16,9; Sal 35,25; Sal 137,7]
+@11 Mis ojos desfallecieron de lágrimas, rugieron mis entrañas, mi hígado se derramó por tierra por el quebrantamiento de la hija de mi pueblo, cuando desfallecía el niño y el que mamaba, en las plazas de la ciudad. 
+@12 Decían á sus madres: ¿Dónde está el trigo y el vino? Desfallecían como heridos en las calles de la ciudad, derramando sus almas en el regazo de sus madres. 
+@13 ¿Qué testigo te traeré, ó á quién te haré semejante, hija de Jerusalem? ¿A quién te compararé para consolarte, oh virgen hija de Sión? Porque grande es tu quebrantamiento como la mar: ¿quién te medicinará? 
+@14 Tus profetas vieron para ti vanidad y locura; y no descubrieron tu pecado para estorbar tu cautiverio, sino que te predicaron vanas profecías y extravíos. 
+@15 Todos los que pasaban por el camino, batieron las manos sobre ti; silbaron, y movieron sus cabezas sobre la hija de Jerusalem, diciendo: ¿Es ésta la ciudad que decían de perfecta hermosura, el gozo de toda la tierra? 
+@16 Todos tus enemigos abrieron sobre ti su boca, silbaron, y rechinaron los dientes; dijeron: Devoremos: cierto éste es el día que esperábamos; lo hemos hallado, vímoslo. 
+@17 Jehová ha hecho lo que tenía determinado, ha cumplido su palabra que él había mandado desde tiempo antiguo: destruyó, y no perdonó; y alegró sobre ti al enemigo, y enalteció el cuerno de tus adversarios.
 
 ## Invitación a Sion para clamar a Dios por misericordia; El clamor de Sion pidiendo ayuda y una pregunta terrible a Dios
-^18^ Su corazón clamaba al Señor. Oh, muro de la hija de Sión, deja que las lágrimas corran como un río día y noche. No te desahogues. No dejes que tus ojos descansen. ^a^ ^19^ Levántate, grita en la noche, ¡al principio de los relojes! Derrama tu corazón como agua ante el rostro del Señor. Levanta tus manos hacia él por la vida de tus hijos pequeños, que se desmayan de hambre a la cabeza de cada calle. ^20^ “¡Mira, Yahvé, y mira a quién has hecho así! ¿Deberían las mujeres comerse a sus crías, los niños que sostenían y hacían rebotar sobre sus rodillas? ¿Deben morir el sacerdote y el profeta en el santuario del Señor? ^b^ ^21^ “El joven y el anciano yacen en el suelo en las calles. Mis vírgenes y mis jóvenes han caído por la espada. Los has matado en el día de tu ira. Has masacrado, y no has compadecido. ^22^ “Has convocado, como en el día de una asamblea solemne, mis terrores por todos lados. No hubo nadie que escapara o permaneciera en el día de la ira de Yahvé. Mi enemigo ha consumido a los que he cuidado y criado. ^c^
-^a^[**2:18** Lam 2,11] ^b^[**2:20** Deut 28,53-57] ^c^[**2:22** Lam 2,7]
+@18 El corazón de ellos clamaba al Señor: Oh muro de la hija de Sión, echa lágrimas como un arroyo día y noche; no descanses, ni cesen las niñas de tus ojos. 
+@19 Levántate, da voces en la noche, en el principio de las velas; derrama como agua tu corazón ante la presencia del Señor; alza tus manos á él por la vida de tus pequeñitos, que desfallecen de hambre en las entradas de todas las calles. 
+@20 Mira, oh Jehová, y considera á quién has hecho así. ¿Han de comer las mujeres su fruto, los pequeñitos de sus crías? ¿Han de ser muertos en el santuario del Señor el sacerdote y el profeta? 
+@21 Niños y viejos yacían por tierra en las calles; mis vírgenes y mis mancebos cayeron á cuchillo: mataste en el día de tu furor, degollaste, no perdonaste. 
+@22 Has llamado, como á día de solemnidad, mis temores de todas partes; y en el día del furor de Jehová no hubo quien escapase ni quedase vivo: los que crié y mantuve, mi enemigo los acabó. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 2
-^1^ How has the Lord covered the daughter of Zion with a cloud in his anger! He has cast the beauty of Israel down from heaven to the earth, and hasn’t remembered his footstool in the day of his anger. ^2^ The Lord has swallowed up all the dwellings of Jacob without pity. He has thrown down in his wrath the strongholds of the daughter of Judah. He has brought them down to the ground. He has profaned the kingdom and its princes. ^3^ He has cut off all the horn of Israel in fierce anger. He has drawn back his right hand from before the enemy. He has burned up Jacob like a flaming fire, which devours all around. ^4^ He has bent his bow like an enemy. He has stood with his right hand as an adversary. He has killed all that were pleasant to the eye. In the tent of the daughter of Zion, he has poured out his wrath like fire. ^5^ The Lord has become as an enemy. He has swallowed up Israel. He has swallowed up all her palaces. He has destroyed his strongholds. He has multiplied mourning and lamentation in the daughter of Judah. ^6^ He has violently taken away his tabernacle, as if it were a garden. He has destroyed his place of assembly. Yahweh has caused solemn assembly and Sabbath to be forgotten in Zion. In the indignation of his anger, he has despised the king and the priest. ^7^ The Lord has cast off his altar. He has abhorred his sanctuary. He has given the walls of her palaces into the hand of the enemy. They have made a noise in Yahweh’s house, as in the day of a solemn assembly. ^8^ Yahweh has purposed to destroy the wall of the daughter of Zion. He has stretched out the line. He has not withdrawn his hand from destroying; He has made the rampart and wall lament. They languish together. ^9^ Her gates have sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the nations where the law is not. Yes, her prophets find no vision from Yahweh. ^10^ The elders of the daughter of Zion sit on the ground. They keep silence. They have cast up dust on their heads. They have clothed themselves with sackcloth. The virgins of Jerusalem hang down their heads to the ground. ^11^ My eyes fail with tears. My heart is troubled. My bile is poured on the earth, because of the destruction of the daughter of my people, because the young children and the infants swoon in the streets of the city. ^12^ They ask their mothers, “Where is grain and wine?” when they swoon as the wounded in the streets of the city, when their soul is poured out into their mothers’ bosom. ^13^ What shall I testify to you? What shall I liken to you, daughter of Jerusalem? What shall I compare to you, that I may comfort you, virgin daughter of Zion? For your breach is as big as the sea. Who can heal you? ^14^ Your prophets have seen false and foolish visions for you. They have not uncovered your iniquity, to reverse your captivity, but have seen for you false revelations and causes of banishment. ^15^ All that pass by clap their hands at you. They hiss and wag their head at the daughter of Jerusalem, saying, “Is this the city that men called ‘The perfection of beauty, the joy of the whole earth’?” ^16^ All your enemies have opened their mouth wide against you. They hiss and gnash their teeth. They say, “We have swallowed her up. Certainly this is the day that we looked for. We have found it. We have seen it.” ^17^ Yahweh has done that which he planned. He has fulfilled his word that he commanded in the days of old. He has thrown down, and has not pitied. He has caused the enemy to rejoice over you. He has exalted the horn of your adversaries. ^18^ Their heart cried to the Lord. O wall of the daughter of Zion, let tears run down like a river day and night. Give yourself no relief. Don’t let your eyes rest. ^19^ Arise, cry out in the night, at the beginning of the watches! Pour out your heart like water before the face of the Lord. Lift up your hands toward him for the life of your young children, who faint for hunger at the head of every street. ^20^ “Look, Yahweh, and see to whom you have done thus! Should the women eat their offspring, the children that they held and bounced on their knees? Should the priest and the prophet be killed in the sanctuary of the Lord? ^21^ “The youth and the old man lie on the ground in the streets. My virgins and my young men have fallen by the sword. You have killed them in the day of your anger. You have slaughtered, and not pitied. ^22^ “You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up. 
+## Description of the calamity from which the land and the people and especially Jerusalem are affected by the wrath of God
+@1 How has the Lord covered the daughter of Zion with a cloud in his anger! He has cast the beauty of Israel down from heaven to the earth, and hasn’t remembered his footstool in the day of his anger. 
+@2 The Lord has swallowed up all the dwellings of Jacob without pity. He has thrown down in his wrath the strongholds of the daughter of Judah. He has brought them down to the ground. He has profaned the kingdom and its princes. 
+@3 He has cut off all the horn of Israel in fierce anger. He has drawn back his right hand from before the enemy. He has burned up Jacob like a flaming fire, which devours all around. 
+@4 He has bent his bow like an enemy. He has stood with his right hand as an adversary. He has killed all that were pleasant to the eye. In the tent of the daughter of Zion, he has poured out his wrath like fire. 
+@5 The Lord has become as an enemy. He has swallowed up Israel. He has swallowed up all her palaces. He has destroyed his strongholds. He has multiplied mourning and lamentation in the daughter of Judah. 
+@6 He has violently taken away his tabernacle, as if it were a garden. He has destroyed his place of assembly. Yahweh has caused solemn assembly and Sabbath to be forgotten in Zion. In the indignation of his anger, he has despised the king and the priest. 
+@7 The Lord has cast off his altar. He has abhorred his sanctuary. He has given the walls of her palaces into the hand of the enemy. They have made a noise in Yahweh’s house, as in the day of a solemn assembly. 
+@8 Yahweh has purposed to destroy the wall of the daughter of Zion. He has stretched out the line. He has not withdrawn his hand from destroying; He has made the rampart and wall lament. They languish together. 
+@9 Her gates have sunk into the ground. He has destroyed and broken her bars. Her king and her princes are among the nations where the law is not. Yes, her prophets find no vision from Yahweh. 
+@10 The elders of the daughter of Zion sit on the ground. They keep silence. They have cast up dust on their heads. They have clothed themselves with sackcloth. The virgins of Jerusalem hang down their heads to the ground.
+
+## Thoughts and feelings of the writer and the outside world; God kept his advice
+@11 My eyes fail with tears. My heart is troubled. My bile is poured on the earth, because of the destruction of the daughter of my people, because the young children and the infants swoon in the streets of the city. 
+@12 They ask their mothers, “Where is grain and wine?” when they swoon as the wounded in the streets of the city, when their soul is poured out into their mothers’ bosom. 
+@13 What shall I testify to you? What shall I liken to you, daughter of Jerusalem? What shall I compare to you, that I may comfort you, virgin daughter of Zion? For your breach is as big as the sea. Who can heal you? 
+@14 Your prophets have seen false and foolish visions for you. They have not uncovered your iniquity, to reverse your captivity, but have seen for you false revelations and causes of banishment. 
+@15 All that pass by clap their hands at you. They hiss and wag their head at the daughter of Jerusalem, saying, “Is this the city that men called ‘The perfection of beauty, the joy of the whole earth’?” 
+@16 All your enemies have opened their mouth wide against you. They hiss and gnash their teeth. They say, “We have swallowed her up. Certainly this is the day that we looked for. We have found it. We have seen it.” 
+@17 Yahweh has done that which he planned. He has fulfilled his word that he commanded in the days of old. He has thrown down, and has not pitied. He has caused the enemy to rejoice over you. He has exalted the horn of your adversaries.
+
+## Invitation to Zion to cry out to God for mercy; Zion's cry for help and a terrible question to God
+@18 Their heart cried to the Lord. O wall of the daughter of Zion, let tears run down like a river day and night. Give yourself no relief. Don’t let your eyes rest. 
+@19 Arise, cry out in the night, at the beginning of the watches! Pour out your heart like water before the face of the Lord. Lift up your hands toward him for the life of your young children, who faint for hunger at the head of every street. 
+@20 “Look, Yahweh, and see to whom you have done thus! Should the women eat their offspring, the children that they held and bounced on their knees? Should the priest and the prophet be killed in the sanctuary of the Lord? 
+@21 “The youth and the old man lie on the ground in the streets. My virgins and my young men have fallen by the sword. You have killed them in the day of your anger. You have slaughtered, and not pitied. 
+@22 “You have called, as in the day of a solemn assembly, my terrors on every side. There was no one that escaped or remained in the day of Yahweh’s anger. My enemy has consumed those whom I have cared for and brought up. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 3
 ## Queja desesperada de un solo compañero nacional por los difíciles juicios sufridos; Pide gracia y esperanza por una nueva salvación
-^1^ Soy el hombre que ha visto la aflicciónpor la vara de su ira. ^2^ Me ha guiado y me ha hecho caminar en la oscuridad, y no en la luz. ^3^ Ciertamente, vuelve su mano contra míuna y otra vez durante todo el día. ^4^ Ha envejecido mi carne y mi piel. Me ha roto los huesos. ^5^ Ha construido contra mí, y me rodeó de amargura y penurias. ^6^ Me ha hecho habitar en lugares oscuros, como los que llevan mucho tiempo muertos. ^a^ ^7^ Me ha amurallado para que no pueda salir. Ha hecho que mi cadena sea pesada. ^b^ ^8^ Sí, cuando lloro y pido ayuda, él cierra mi oración. ^c^ ^9^ Ha amurallado mis caminos con piedra cortada. Ha hecho que mis caminos sean torcidos. ^10^ Es para mí como un oso al acecho, como un león escondido. ^d^ ^11^ Ha desviado mi camino, y me ha hecho pedazos. Me ha dejado desolado. ^12^ Ha doblado su arco, y me puso como marca para la flecha. ^13^ Ha hecho que las astas de su carcaj entren en mis riñones. ^14^ Me he convertido en una burla para todo mi pueblo, y su canción durante todo el día. ^e^ ^15^ Me ha llenado de amargura. Me ha llenado de ajenjo. ^16^ También me ha roto los dientes con gravilla. Me ha cubierto de cenizas. ^17^ Has alejado mi alma de la paz. Me olvidé de la prosperidad. ^18^ Dije: “Mis fuerzas han perecido, junto con mi expectativa de Yahvé”. ^19^ Acuérdate de mi aflicción y de mi miseria, el ajenjo y la amargura. ^20^ Mi alma aún los recuerda, y se inclina dentro de mí. ^21^ Esto lo recuerdo en mi mente; por lo tanto, tengo esperanza. ^22^ Es por las bondades amorosas de Yahvé que no somos consumidos, porque sus misericordias no fallan. ^f^ ^23^ Son nuevos cada mañana. Grande es tu fidelidad. ^24^ “Yahvé es mi porción”, dice mi alma. “Por lo tanto, esperaré en él”. ^g^
-^a^[**3:6** Sal 143,3] ^b^[**3:7** Job 19,8] ^c^[**3:8** Sal 22,2; Sal 69,3] ^d^[**3:10** Job 10,16] ^e^[**3:14** Job 30,9] ^f^[**3:22** Neh 9,31] ^g^[**3:24** Sal 16,5; Sal 73,26]
+@1 Yo soy el hombre que ha visto aflicción en la vara de su enojo. 
+@2 Guióme y llevóme en tinieblas, mas no en luz. 
+@3 Ciertamente contra mí volvió y revolvió su mano todo el día. 
+@4 Hizo envejecer mi carne y mi piel; quebrantó mis huesos. 
+@5 Edificó contra mí, y cercóme de tósigo y de trabajo. 
+@6 Asentóme en oscuridades, como los ya muertos de mucho tiempo. 
+@7 Cercóme por todos lados, y no puedo salir; agravó mis grillos. 
+@8 Aun cuando clamé y dí voces, cerro los oídos á mi oración. 
+@9 Cercó mis caminos con piedra tajada, torció mis senderos. 
+@10 Como oso que acecha fué para mí, como león en escondrijos. 
+@11 Torció mis caminos, y depedazóme; tornóme asolado. 
+@12 Su arco entesó, y púsome como blanco á la saeta. 
+@13 Hizo entrar en mis riñones las saetas de su aljaba. 
+@14 Fuí escarnio á todo mi pueblo, canción de ellos todos los días. 
+@15 Hartóme de amarguras, embriagóme de ajenjos. 
+@16 Quebróme los dientes con cascajo, cubrióme de ceniza. 
+@17 Y mi alma se alejó de la paz, olvidéme del bien. 
+@18 Y dije: Pereció mi fortaleza, y mi esperanza de Jehová. 
+@19 Acuérdate de mi aflicción y de mi abatimiento, del ajenjo y de la hiel. 
+@20 Tendrálo aún en memoria mi alma, porque en mí está humillada. 
+@21 Esto reduciré á mi corazón, por lo cual esperaré. 
+@22 Es por la misericordia de Jehová que no somos consumidos, porque nunca decayeron sus misericordias. 
+@23 Nuevas son cada mañana; grande es tu fidelidad. 
+@24 Mi parte es Jehová, dijo mi alma; por tanto en él esperaré.
 
 ## Referencia a la bondad y misericordia de Dios, al pecado y la destrucción del pueblo y a la participación del escritor en el destino de su pueblo
-^25^ El Señor es bueno con los que lo esperan, al alma que lo busca. ^26^ Es bueno que el hombre esperey esperar tranquilamente la salvación de Yahvé. ^a^ ^27^ Es bueno para el hombre que lleve el yugo en su juventud. ^28^ Que se siente solo y guarde silencio, porque se lo ha puesto a él. ^29^ Que ponga su boca en el polvo, si es para que haya esperanza. ^30^ Que dé su mejilla al que lo golpea. Que se llene de reproches. ^31^ Porque el Señor no desechará para siempre. ^32^ Porque aunque cause dolor, pero tendrá compasión según la multitud de sus bondades. ^b^ ^33^ Porque no se aflige voluntariamente, ni afligir a los hijos de los hombres. ^34^ Para aplastar bajo los pies a todos los prisioneros de la tierra, ^35^ para apartar el derecho de un hombre ante la faz del Altísimo, ^36^ para subvertir a un hombre en su causa, el Señor no lo aprueba. ^37^ Quién es el que dice, y se cumple, cuando el Señor no lo ordena? ^c^ ^38^ ¿No sale el mal y el bien de la boca del Altísimo? ^39^ ¿Por qué debería quejarse un hombre vivo? un hombre para el castigo de sus pecados? ^40^ Busquemos y probemos nuestros caminos, y volver a Yahvé. ^41^ Elevemos nuestro corazón con nuestras manos a Dios^d^ en los cielos. ^42^ “Hemos transgredido y nos hemos rebelado. No has perdonado. ^e^ ^43^ “Nos has cubierto de ira y nos has perseguido. Has matado. No te has compadecido. ^44^ Te has cubierto con una nube, para que ninguna oración pueda pasar. ^45^ Nos has convertido en un despojo y en una basuraen medio de los pueblos. ^46^ “Todos nuestros enemigos han abierto su boca contra nosotros. ^47^ El terror y la fosa han llegado a nosotros, devastación y destrucción”. ^48^ Mi ojo corre con chorros de agua, para la destrucción de la hija de mi pueblo. ^f^ ^49^ Mi ojo se derramay no cesa, sin ningún intermedio, ^50^ hasta que Yahvé mire hacia abajo, y ve desde el cielo. ^51^ Mi ojo afecta a mi alma, por todas las hijas de mi ciudad. ^g^
-^a^[**3:26** Rom 12,12] ^b^[**3:32** Is 54,8] ^c^[**3:37** Is 45,7; Am 3,6] ^d^[**3:41** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^e^[**3:42** Sal 106,6; Dan 9,5] ^f^[**3:48** Jer 9,1] ^g^[**3:51** Lam 2,11]
+@25 Bueno es Jehová á los que en él esperan, al alma que le buscare. 
+@26 Bueno es esperar callando en la salud de Jehová. 
+@27 Bueno es al hombre, si llevare el yugo desde su mocedad. 
+@28 Sentaráse solo, y callará, porque lo llevó sobre sí. 
+@29 Pondrá su boca en el polvo, por si quizá hay esperanza. 
+@30 Dará la mejilla al que le hiriere; hartaráse de afrenta. 
+@31 Porque el Señor no desechará para siempre: 
+@32 Antes si afligiere, también se compadecerá según la multitud de sus misericordias. 
+@33 Porque no aflige ni congoja de su corazón á los hijos de los hombres. 
+@34 Desmenuzar bajo de sus pies todos los encarcelados de la tierra, 
+@35 Hacer apartar el derecho del hombre ante la presencia del Altísimo, 
+@36 Trastornar al hombre en su causa, el Señor no lo sabe. 
+@37 ¿Quién será aquel que diga, que vino algo que el Señor no mandó? 
+@38 ¿De la boca del Altísimo no saldrá malo y bueno? 
+@39 ¿Por qué murmura el hombre viviente, el hombre en su pecado? 
+@40 Escudriñemos nuestros caminos, y busquemos, y volvámonos á Jehová. 
+@41 Levantemos nuestros corazones con las manos á Dios en los cielos. 
+@42 Nosotros nos hemos rebelado, y fuimos desleales; tú no perdonaste. 
+@43 Desplegaste la ira, y nos perseguiste; mataste, no perdonaste. 
+@44 Te cubriste de nube, porque no pasase la oración nuestra. 
+@45 Raedura y abominación nos tornaste en medio de los pueblos. 
+@46 Todos nuestros enemigos abrieron sobre nosotros su boca. 
+@47 Temor y lazo fué para nosotros, asolamiento y quebrantamiento. 
+@48 Ríos de aguas echan mis ojos, por el quebrantamiento de la hija de mi pueblo. 
+@49 Mis ojos destilan, y no cesan, porque no hay alivio, 
+@50 Hasta que Jehová mire y vea desde los cielos. 
+@51 Mis ojos contristaron mi alma, por todas las hijas de mi ciudad.
 
 ## Nueva denuncia del infeliz camarada nacional; Pide rescate y venganza del enemigo
-^52^ Me han perseguido implacablemente como un pájaro, los que son mis enemigos sin causa. ^53^ Me han cortado la vida en el calabozo, y han arrojado una piedra sobre mí. ^54^ Las aguas fluyeron sobre mi cabeza. Dije: “Estoy aislado”. ^55^ Invocaba tu nombre, Yahvé, de la mazmorra más baja. ^a^ ^56^ Has oído mi voz: “No escondas tu oído de mis suspiros, y mi grito”. ^57^ Te acercaste el día que te invoqué. Dijiste: “No tengas miedo”. ^58^ Señor, tú has defendido las causas de mi alma. Has redimido mi vida. ^59^ Yahvé, tú has visto mi error. Juzga mi causa. ^60^ Has visto toda su venganzay todos sus planes contra mí. ^61^ Tú has escuchado su reproche, Yahvé, y todos sus planes contra mí, ^62^ los labios de los que se levantaron contra mí, y sus complots contra mí durante todo el día. ^63^ Ves que se sientan y se levantan. Yo soy su canción. ^b^ ^64^ Tú les pagarás, Yahvé, según el trabajo de sus manos. ^c^ ^65^ Les darás dureza de corazón, su maldición a ellos. ^66^ Los perseguirás con ira, y destruirlos de debajo de los cielos de Yahvé.
-^a^[**3:55** Sal 130,1] ^b^[**3:63** Lam 3,14] ^c^[**3:64** Lam 1,21; Sal 137,8]
+@52 Mis enemigos me dieron caza como á ave, sin por qué. 
+@53 Ataron mi vida en mazmorra, pusieron piedra sobre mí. 
+@54 Aguas de avenida vinieron sobre mi cabeza; yo dije: Muerto soy. 
+@55 Invoqué tu nombre, oh Jehová, desde la cárcel profunda. 
+@56 Oiste mi voz; no escondas tu oído á mi clamor, para mi respiro. 
+@57 Acercástete el día que te invoqué: dijiste: No temas. 
+@58 Abogaste, Señor, la causa de mi alma; redimiste mi vida. 
+@59 Tú has visto, oh Jehová, mi agravio; defiende mi causa. 
+@60 Tú has visto toda su venganza; todos sus pensamientos contra mí. 
+@61 Tú has oído el oprobio de ellos, oh Jehová, todas sus maquinaciones contra mí; 
+@62 Los dichos de los que contra mí se levantaron, y su designio contra mí todo el día. 
+@63 Su sentarse, y su levantarse mira: yo soy su canción. 
+@64 Dales el pago, oh Jehová, según la obra de sus manos. 
+@65 Dales ansia de corazón, tu maldición á ellos. 
+@66 Persíguelos en tu furor, y quebrántalos de debajo de los cielos, oh Jehová. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 3
-^1^ I am the man who has seen affliction by the rod of his wrath. ^2^ He has led me and caused me to walk in darkness, and not in light. ^3^ Surely he turns his hand against me again and again all day long. ^4^ He has made my flesh and my skin old. He has broken my bones. ^5^ He has built against me, and surrounded me with bitterness and hardship. ^6^ He has made me dwell in dark places, as those who have been long dead. ^7^ He has walled me about, so that I can’t go out. He has made my chain heavy. ^8^ Yes, when I cry, and call for help, he shuts out my prayer. ^9^ He has walled up my ways with cut stone. He has made my paths crooked. ^10^ He is to me as a bear lying in wait, as a lion in hiding. ^11^ He has turned away my path, and pulled me in pieces. He has made me desolate. ^12^ He has bent his bow, and set me as a mark for the arrow. ^13^ He has caused the shafts of his quiver to enter into my kidneys. ^14^ I have become a derision to all my people, and their song all day long. ^15^ He has filled me with bitterness. He has stuffed me with wormwood. ^16^ He has also broken my teeth with gravel. He has covered me with ashes. ^17^ You have removed my soul far away from peace. I forgot prosperity. ^18^ I said, “My strength has perished, along with my expectation from Yahweh.” ^19^ Remember my affliction and my misery, the wormwood and the bitterness. ^20^ My soul still remembers them, and is bowed down within me. ^21^ This I recall to my mind; therefore I have hope. ^22^ It is because of Yahweh’s loving kindnesses that we are not consumed, because his mercies don’t fail. ^23^ They are new every morning. Great is your faithfulness. ^24^ “Yahweh is my portion,” says my soul. “Therefore I will hope in him.” ^25^ Yahweh is good to those who wait for him, to the soul who seeks him. ^26^ It is good that a man should hope and quietly wait for the salvation of Yahweh. ^27^ It is good for a man that he bear the yoke in his youth. ^28^ Let him sit alone and keep silence, because he has laid it on him. ^29^ Let him put his mouth in the dust, if it is so that there may be hope. ^30^ Let him give his cheek to him who strikes him. Let him be filled full of reproach. ^31^ For the Lord will not cast off forever. ^32^ For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses. ^33^ For he does not afflict willingly, nor grieve the children of men. ^34^ To crush under foot all the prisoners of the earth, ^35^ to turn away the right of a man before the face of the Most High, ^36^ to subvert a man in his cause, the Lord doesn’t approve. ^37^ Who is he who says, and it comes to pass, when the Lord doesn’t command it? ^38^ Doesn’t evil and good come out of the mouth of the Most High? ^39^ Why should a living man complain, a man for the punishment of his sins? ^40^ Let us search and try our ways, and turn again to Yahweh. ^41^ Let’s lift up our heart with our hands to God^a^ in the heavens. ^42^ “We have transgressed and have rebelled. You have not pardoned. ^43^ “You have covered us with anger and pursued us. You have killed. You have not pitied. ^44^ You have covered yourself with a cloud, so that no prayer can pass through. ^45^ You have made us an off-scouring and refuse in the middle of the peoples. ^46^ “All our enemies have opened their mouth wide against us. ^47^ Terror and the pit have come on us, devastation and destruction.” ^48^ My eye runs down with streams of water, for the destruction of the daughter of my people. ^49^ My eye pours down and doesn’t cease, without any intermission, ^50^ until Yahweh looks down, and sees from heaven. ^51^ My eye affects my soul, because of all the daughters of my city. ^52^ They have chased me relentlessly like a bird, those who are my enemies without cause. ^53^ They have cut off my life in the dungeon, and have cast a stone on me. ^54^ Waters flowed over my head. I said, “I am cut off.” ^55^ I called on your name, Yahweh, out of the lowest dungeon. ^56^ You heard my voice: “Don’t hide your ear from my sighing, and my cry.” ^57^ You came near in the day that I called on you. You said, “Don’t be afraid.” ^58^ Lord, you have pleaded the causes of my soul. You have redeemed my life. ^59^ Yahweh, you have seen my wrong. Judge my cause. ^60^ You have seen all their vengeance and all their plans against me. ^61^ You have heard their reproach, Yahweh, and all their plans against me, ^62^ the lips of those that rose up against me, and their plots against me all day long. ^63^ You see their sitting down and their rising up. I am their song. ^64^ You will pay them back, Yahweh, according to the work of their hands. ^65^ You will give them hardness of heart, your curse to them. ^66^ You will pursue them in anger, and destroy them from under the heavens of Yahweh.
+## Desperate complaint from a single national comrade for the difficult trials suffered; Ask for grace and hope for a new salvation
+@1 I am the man who has seen affliction by the rod of his wrath. 
+@2 He has led me and caused me to walk in darkness, and not in light. 
+@3 Surely he turns his hand against me again and again all day long. 
+@4 He has made my flesh and my skin old. He has broken my bones. 
+@5 He has built against me, and surrounded me with bitterness and hardship. 
+@6 He has made me dwell in dark places, as those who have been long dead. 
+@7 He has walled me about, so that I can’t go out. He has made my chain heavy. 
+@8 Yes, when I cry, and call for help, he shuts out my prayer. 
+@9 He has walled up my ways with cut stone. He has made my paths crooked. 
+@10 He is to me as a bear lying in wait, as a lion in hiding. 
+@11 He has turned away my path, and pulled me in pieces. He has made me desolate. 
+@12 He has bent his bow, and set me as a mark for the arrow. 
+@13 He has caused the shafts of his quiver to enter into my kidneys. 
+@14 I have become a derision to all my people, and their song all day long. 
+@15 He has filled me with bitterness. He has stuffed me with wormwood. 
+@16 He has also broken my teeth with gravel. He has covered me with ashes. 
+@17 You have removed my soul far away from peace. I forgot prosperity. 
+@18 I said, “My strength has perished, along with my expectation from Yahweh.” 
+@19 Remember my affliction and my misery, the wormwood and the bitterness. 
+@20 My soul still remembers them, and is bowed down within me. 
+@21 This I recall to my mind; therefore I have hope. 
+@22 It is because of Yahweh’s loving kindnesses that we are not consumed, because his mercies don’t fail. 
+@23 They are new every morning. Great is your faithfulness. 
+@24 “Yahweh is my portion,” says my soul. “Therefore I will hope in him.”
+
+## Reference to the goodness and mercy of God, to the sin and destruction of the people and to the writer's participation in the destiny of his people
+@25 Yahweh is good to those who wait for him, to the soul who seeks him. 
+@26 It is good that a man should hope and quietly wait for the salvation of Yahweh. 
+@27 It is good for a man that he bear the yoke in his youth. 
+@28 Let him sit alone and keep silence, because he has laid it on him. 
+@29 Let him put his mouth in the dust, if it is so that there may be hope. 
+@30 Let him give his cheek to him who strikes him. Let him be filled full of reproach. 
+@31 For the Lord will not cast off forever. 
+@32 For though he causes grief, yet he will have compassion according to the multitude of his loving kindnesses. 
+@33 For he does not afflict willingly, nor grieve the children of men. 
+@34 To crush under foot all the prisoners of the earth, 
+@35 to turn away the right of a man before the face of the Most High, 
+@36 to subvert a man in his cause, the Lord doesn’t approve. 
+@37 Who is he who says, and it comes to pass, when the Lord doesn’t command it? 
+@38 Doesn’t evil and good come out of the mouth of the Most High? 
+@39 Why should a living man complain, a man for the punishment of his sins? 
+@40 Let us search and try our ways, and turn again to Yahweh. 
+@41 Let’s lift up our heart with our hands to God^a^ in the heavens. 
+@42 “We have transgressed and have rebelled. You have not pardoned. 
+@43 “You have covered us with anger and pursued us. You have killed. You have not pitied. 
+@44 You have covered yourself with a cloud, so that no prayer can pass through. 
+@45 You have made us an off-scouring and refuse in the middle of the peoples. 
+@46 “All our enemies have opened their mouth wide against us. 
+@47 Terror and the pit have come on us, devastation and destruction.” 
+@48 My eye runs down with streams of water, for the destruction of the daughter of my people. 
+@49 My eye pours down and doesn’t cease, without any intermission, 
+@50 until Yahweh looks down, and sees from heaven. 
+@51 My eye affects my soul, because of all the daughters of my city.
+
+## New complaint from the unhappy national comrade; Ask for ransom and revenge from the enemy
+@52 They have chased me relentlessly like a bird, those who are my enemies without cause. 
+@53 They have cut off my life in the dungeon, and have cast a stone on me. 
+@54 Waters flowed over my head. I said, “I am cut off.” 
+@55 I called on your name, Yahweh, out of the lowest dungeon. 
+@56 You heard my voice: “Don’t hide your ear from my sighing, and my cry.” 
+@57 You came near in the day that I called on you. You said, “Don’t be afraid.” 
+@58 Lord, you have pleaded the causes of my soul. You have redeemed my life. 
+@59 Yahweh, you have seen my wrong. Judge my cause. 
+@60 You have seen all their vengeance and all their plans against me. 
+@61 You have heard their reproach, Yahweh, and all their plans against me, 
+@62 the lips of those that rose up against me, and their plots against me all day long. 
+@63 You see their sitting down and their rising up. I am their song. 
+@64 You will pay them back, Yahweh, according to the work of their hands. 
+@65 You will give them hardness of heart, your curse to them. 
+@66 You will pursue them in anger, and destroy them from under the heavens of Yahweh.
 ^a^[**3:41** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).] 
 
 \nopandoc{\end{otherlanguage}}
@@ -71,33 +285,121 @@
 
 # 4
 ## Descripción del terrible destino de toda la población de Jerusalén, especialmente los niños
-^1^ ¡Cómo se ha oscurecido el oro! ¡El oro más puro ha cambiado! Las piedras del santuario se derramana la cabeza de cada calle. ^a^ ^2^ Los preciosos hijos de Sion, comparable al oro fino, como son estimados como cántaros de tierra, ¡el trabajo de las manos del alfarero! ^3^ Incluso los chacales ofrecen su pecho. Amamantan a sus crías. Pero la hija de mi pueblo se ha vuelto cruel, como las avestruces en el desierto. ^4^ La lengua del niño lactante se aferra al paladar por la sed. Los niños pequeños piden pan, y nadie la rompe por ellos. ^5^ Los que comían manjares están desolados en las calles. Los que se criaron en la púrpura abrazan los estercoleros. ^6^ Porque la iniquidad de la hija de mi pueblo es mayor que el pecado de Sodoma, que fue derrocado como en un momento. No le pusieron las manos encima. ^b^ ^7^ Sus nobles eran más puros que la nieve. Eran más blancos que la leche. Tenían un cuerpo más rojizo que los rubíes. Su pulido era como el zafiro. ^8^ Su aspecto es más negro que un carbón. No son conocidos en las calles. Su piel se adhiere a sus huesos. Se ha marchitado. Se ha vuelto como la madera. ^9^ Los que mueren a espada son mejores que los que mueren de hambre; porque estos se consumen, golpeados, por falta de los frutos del campo. ^10^ Las manos de las mujeres lamentables han hervido a sus propios hijos. Fueron su alimento en la destrucción de la hija de mi pueblo. ^c^ ^11^ Yahvé ha cumplido su ira. Ha derramado su feroz ira. Ha encendido un fuego en Sión, que ha devorado sus cimientos. ^12^ Los reyes de la tierra no creyeron, tampoco lo hicieron todos los habitantes del mundo, que el adversario y el enemigo entrarían por las puertas de Jerusalén.
-^a^[**4:1** Lam 1,6; Lam 1,10] ^b^[**4:6** Gén 18,20; Gén 19,24-25] ^c^[**4:10** Lam 2,20]
+@1 ¡Cómo se ha oscurecido el oro! ¡Cómo el buen oro se ha demudado! Las piedras del santuario están esparcidas por las encrucijadas de todas las calles. 
+@2 Los hijos de Sión, preciados y estimados más que el oro puro, ¡cómo son tenidos por vasos de barro, obra de manos de alfarero! 
+@3 Aun los monstruos marinos sacan la teta, dan de mamar á sus chiquitos: la hija de mi pueblo es cruel, como los avestruces en el desierto. 
+@4 La lengua del niño de teta, de sed se pegó á su paladar: los chiquitos pidieron pan, y no hubo quien se lo partiese. 
+@5 Los que comían delicadamente, asolados fueron en las calles; los que se criaron en carmesí, abrazaron los estercoleros. 
+@6 Y aumentóse la iniquidad de la hija de mi pueblo más que el pecado de Sodoma, que fué trastornada en un momento, y no asentaron sobre ella compañías. 
+@7 Sus Nazareos fueron blancos más que la nieve, más lustrosos que la leche, su compostura más rubicunda que los rubíes, más bellos que el zafiro: 
+@8 Oscura más que la negrura es la forma de ellos; no los conocen por las calles: su piel está pegada á sus huesos, seca como un palo. 
+@9 Más dichosos fueron los muertos á cuchillo que los muertos del hambre; porque éstos murieron poco á poco por falta de los frutos de la tierra. 
+@10 Las manos de las mujeres piadosas cocieron á sus hijos; fuéronles comida en el quebrantamiento de la hija de mi pueblo. 
+@11 Cumplió Jehová su enojo, derramó el ardor de su ira; y encendió fuego en Sión, que consumió sus fundamentos. 
+@12 Nunca los reyes de la tierra, ni todos los que habitan en el mundo, creyeron que el enemigo y el adversario entrara por las puertas de Jerusalem.
 
 ## La culpa y el destino de los sacerdotes y profetas; la suerte del rey y sus seguidores; Deseo de venganza contra Edom
-^13^ Es por los pecados de sus profetasy las iniquidades de sus sacerdotes, que han derramado la sangre de los justos en medio de ella. ^14^ Vagan como ciegos por las calles. Están contaminados con sangre, Para que los hombres no puedan tocar sus prendas. ^15^ “¡Vete!”, les gritaron. “¡Impuro! ¡Vete! ¡Vete! ¡No toques! Cuando huyeron y vagaron, los hombres dijeron entre las naciones, “Ya no pueden vivir aquí”. ^16^ La ira de Yahvé los ha dispersado. Ya no les prestará atención. No respetaron las personas de los sacerdotes. No favorecieron a los ancianos. ^a^ ^17^ Nuestros ojos siguen fallando, buscando en vano nuestra ayuda. En nuestra vigilancia hemos velado por una nación que no podía salvar. ^18^ Cazan nuestros pasos, para que no podamos ir por nuestras calles. Nuestro fin está cerca. Nuestros días se cumplen, porque nuestro fin ha llegado. ^19^ Nuestros perseguidores eran más veloces que las águilas del cielo. Nos persiguieron en las montañas. Nos tendieron una emboscada en el desierto. ^20^ El aliento de nuestras narices, el ungido de Yahvé, fue tomada en sus fosas; de quien dijimos, bajo su sombra viviremos entre las naciones. ^b^ ^21^ Regocíjate y alégrate, hija de Edom, que habita en la tierra de Uz. La copa también pasará por ti. Estarás borracho, y se desnudará. ^c^ ^22^ El castigo de tu iniquidad se ha cumplido, hija de Sión. Ya no te llevará al cautiverio. Él visitará tu iniquidad, hija de Edom. Él descubrirá tus pecados. ^d^
-^a^[**4:16** Lam 5,12; Deut 28,50; Is 47,6] ^b^[**4:20** Jer 52,8; Jer 52,11] ^c^[**4:21** Lam 1,21; Sal 137,7; Jer 25,15; Jer 25,21] ^d^[**4:22** Is 40,2]
+@13 Es por los pecados de sus profetas, por las maldades de sus sacerdotes, que derramaron en medio de ella la sangre de los justos. 
+@14 Titubearon como ciegos en las calles, fueron contaminados en sangre, de modo que no pudiesen tocar á sus vestiduras. 
+@15 Apartaos ¡inmundos!, les gritaban, Apartaos, apartaos, no toquéis. Cuando huyeron y fueron dispersos, dijeron entre las gentes: Nunca más morarán aquí. 
+@16 La ira de Jehová los apartó, no los mirará más: no respetaron la faz de los sacerdotes, ni tuvieron compasión de los viejos. 
+@17 Aun nos han desfallecido nuestros ojos tras nuestro vano socorro: en nuestra esperanza aguardamos gente que no puede salvar. 
+@18 Cazaron nuestros pasos, que no anduviésemos por nuestras calles: acercóse nuestro fin, cumpliéronse nuestros días; porque nuestro fin vino. 
+@19 Ligeros fueron nuestros perseguidores más que las águilas del cielo: sobre los montes nos persiguieron, en el desierto nos pusieron emboscadas. 
+@20 El resuello de nuestras narices, el ungido de Jehová, de quien habíamos dicho: A su sombra tendremos vida entre las gentes: fué preso en sus hoyos. 
+@21 Gózate y alégrate, hija de Edom, la que habitas en tierra de Hus: aun hasta ti pasará el cáliz; embriagarte has, y vomitarás. 
+@22 Cumplido es tu castigo, oh hija de Sión: nunca más te hará trasportar. Visitará tu iniquidad, oh hija de Edom; descubrirá tus pecados. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 4
-^1^ How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street. ^2^ The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter! ^3^ Even the jackals offer their breast. They nurse their young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness. ^4^ The tongue of the nursing child clings to the roof of his mouth for thirst. The young children ask for bread, and no one breaks it for them. ^5^ Those who ate delicacies are desolate in the streets. Those who were brought up in purple embrace dunghills. ^6^ For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment. No hands were laid on her. ^7^ Her nobles were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire. ^8^ Their appearance is blacker than a coal. They are not known in the streets. Their skin clings to their bones. It is withered. It has become like wood. ^9^ Those who are killed with the sword are better than those who are killed with hunger; for these pine away, stricken through, for lack of the fruits of the field. ^10^ The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people. ^11^ Yahweh has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations. ^12^ The kings of the earth didn’t believe, neither did all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem. ^13^ It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her. ^14^ They wander as blind men in the streets. They are polluted with blood, So that men can’t touch their garments. ^15^ “Go away!” they cried to them. “Unclean! Go away! Go away! Don’t touch! When they fled away and wandered, men said among the nations, “They can’t live here any more.” ^16^ Yahweh’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders. ^17^ Our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save. ^18^ They hunt our steps, so that we can’t go in our streets. Our end is near. Our days are fulfilled, for our end has come. ^19^ Our pursuers were swifter than the eagles of the sky. They chased us on the mountains. They set an ambush for us in the wilderness. ^20^ The breath of our nostrils, the anointed of Yahweh, was taken in their pits; of whom we said, under his shadow we will live among the nations. ^21^ Rejoice and be glad, daughter of Edom, who dwells in the land of Uz. The cup will pass through to you also. You will be drunken, and will make yourself naked. ^22^ The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins. 
+## Description of the terrible fate of the entire population of Jerusalem, especially the children
+@1 How the gold has become dim! The most pure gold has changed! The stones of the sanctuary are poured out at the head of every street. 
+@2 The precious sons of Zion, comparable to fine gold, how they are esteemed as earthen pitchers, the work of the hands of the potter! 
+@3 Even the jackals offer their breast. They nurse their young ones. But the daughter of my people has become cruel, like the ostriches in the wilderness. 
+@4 The tongue of the nursing child clings to the roof of his mouth for thirst. The young children ask for bread, and no one breaks it for them. 
+@5 Those who ate delicacies are desolate in the streets. Those who were brought up in purple embrace dunghills. 
+@6 For the iniquity of the daughter of my people is greater than the sin of Sodom, which was overthrown as in a moment. No hands were laid on her. 
+@7 Her nobles were purer than snow. They were whiter than milk. They were more ruddy in body than rubies. Their polishing was like sapphire. 
+@8 Their appearance is blacker than a coal. They are not known in the streets. Their skin clings to their bones. It is withered. It has become like wood. 
+@9 Those who are killed with the sword are better than those who are killed with hunger; for these pine away, stricken through, for lack of the fruits of the field. 
+@10 The hands of the pitiful women have boiled their own children. They were their food in the destruction of the daughter of my people. 
+@11 Yahweh has accomplished his wrath. He has poured out his fierce anger. He has kindled a fire in Zion, which has devoured its foundations. 
+@12 The kings of the earth didn’t believe, neither did all the inhabitants of the world, that the adversary and the enemy would enter into the gates of Jerusalem.
+
+## The guilt and fate of priests and prophets; the fate of the king and his followers; Desire for revenge against Edom
+@13 It is because of the sins of her prophets and the iniquities of her priests, that have shed the blood of the just in the middle of her. 
+@14 They wander as blind men in the streets. They are polluted with blood, So that men can’t touch their garments. 
+@15 “Go away!” they cried to them. “Unclean! Go away! Go away! Don’t touch! When they fled away and wandered, men said among the nations, “They can’t live here any more.” 
+@16 Yahweh’s anger has scattered them. He will not pay attention to them any more. They didn’t respect the persons of the priests. They didn’t favor the elders. 
+@17 Our eyes still fail, looking in vain for our help. In our watching we have watched for a nation that could not save. 
+@18 They hunt our steps, so that we can’t go in our streets. Our end is near. Our days are fulfilled, for our end has come. 
+@19 Our pursuers were swifter than the eagles of the sky. They chased us on the mountains. They set an ambush for us in the wilderness. 
+@20 The breath of our nostrils, the anointed of Yahweh, was taken in their pits; of whom we said, under his shadow we will live among the nations. 
+@21 Rejoice and be glad, daughter of Edom, who dwells in the land of Uz. The cup will pass through to you also. You will be drunken, and will make yourself naked. 
+@22 The punishment of your iniquity is accomplished, daughter of Zion. He will no more carry you away into captivity. He will visit your iniquity, daughter of Edom. He will uncover your sins. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 5
 ## Oración de la comunidad oprimida por misericordia y restauración
-^1^ Acuérdate, Yahvé, de lo que nos ha ocurrido. Mira, y ve nuestro reproche. ^2^ Nuestra herencia ha sido entregada a extraños, nuestras casas a los extranjeros. ^3^ Somos huérfanos y sin padre. Nuestras madres están como viudas. ^4^ Hay que pagar por el agua para beber. Nos venden la madera. ^5^ Nuestros perseguidores están en nuestro cuello. Estamos cansados y no tenemos descanso. ^6^ Hemos entregado nuestras manos a los egipcios, y a los asirios, que se conformen con el pan. ^7^ Nuestros padres pecaron y ya no existen. Hemos soportado sus iniquidades. ^a^ ^8^ Los siervos nos gobiernan. No hay nadie que nos libere de su mano. ^9^ Conseguimos el pan a costa de nuestra vida, a causa de la espada en el desierto. ^10^ Nuestra piel es negra como un horno, por el calor abrasador del hambre. ^11^ Violaron a las mujeres en Sión, las vírgenes en las ciudades de Judá. ^12^ Príncipes fueron colgados de las manos. Los rostros de los ancianos no fueron honrados. ^13^ Los jóvenes llevan piedras de molino. Los niños tropezaron bajo cargas de madera. ^14^ Los ancianos se han retirado de la puerta, y los jóvenes de su música. ^15^ La alegría de nuestro corazón ha cesado. Nuestra danza se convierte en luto. ^16^ La corona ha caído de nuestra cabeza. ¡Ay de nosotros, que hemos pecado! ^b^ ^17^ Por esto nuestro corazón desfallece. Para estas cosas nuestros ojos son débiles: ^18^ para el monte de Sión, que está desolado. Los zorros caminan sobre ella.
-^a^[**5:7** Éxod 20,5; Jer 31,29; Ezeq 18,2] ^b^[**5:16** Jer 13,18]
+@1 Acuérdate, oh Jehová, de lo que nos ha sucedido: ve y mira nuestro oprobio. 
+@2 Nuestra heredad se ha vuelto á extraños, nuestras casas á forasteros. 
+@3 Huérfanos somos sin padre, nuestras madres como viudas. 
+@4 Nuestra agua bebemos por dinero; nuestra leña por precio compramos. 
+@5 Persecución padecemos sobre nuestra cerviz: nos cansamos, y no hay para nosotros reposo. 
+@6 Al Egipcio y al Asirio dimos la mano, para saciarnos de pan. 
+@7 Nuestros padres pecaron, y son muertos; y nosotros llevamos sus castigos. 
+@8 Siervos se enseñorearon de nosotros; no hubo quien de su mano nos librase. 
+@9 Con peligro de nuestras vidas traíamos nuestro pan delante del cuchillo del desierto. 
+@10 Nuestra piel se ennegreció como un horno á causa del ardor del hambre. 
+@11 Violaron á las mujeres en Sión, á las vírgenes en las ciudades de Judá. 
+@12 A los príncipes colgaron por su mano; no respetaron el rostro de los viejos. 
+@13 Llevaron los mozos á moler, y los muchachos desfallecieron en la leña. 
+@14 Los ancianos cesaron de la puerta, los mancebos de sus canciones. 
+@15 Cesó el gozo de nuestro corazón; nuestro corro se tornó en luto. 
+@16 Cayó la corona de nuestra cabeza: ¡ay ahora de nosotros! porque pecamos. 
+@17 Por esto fué entristecido nuestro corazón, por esto se entenebrecieron nuestros ojos: 
+@18 Por el monte de Sión que está asolado; zorras andan en él.
 
-## Pide nueva gracia
-^19^ Tú, Yahvé, permaneces para siempre. Su trono es de generación en generación. ^20^ ¿Por qué nos olvidas para siempre? y abandonarnos durante tanto tiempo? ^[**5:20** Sal 13,1] ^21^ Vuélvenos a ti, Yahvé, y nos convertiremos. Renueva nuestros días como antaño. ^22^ Pero nos habéis rechazado por completo. Estáis muy enfadados con nosotros.
+## Pide nueva gracia
+
+@
+@19 Mas tú, Jehová, permanecerás para siempre: tu trono de generación en generación. 
+@20 ¿Por qué te olvidarás para siempre de nosotros, y nos dejarás por largos días? 
+@21 Vuélvenos, oh Jehová, á ti, y nos volveremos: renueva nuestros días como al principio. 
+@22 Porque repeliendo nos has desechado; te has airado contra nosotros en gran manera.
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 5
-^1^ Remember, Yahweh, what has come on us. Look, and see our reproach. ^2^ Our inheritance has been turned over to strangers, our houses to aliens. ^3^ We are orphans and fatherless. Our mothers are as widows. ^4^ We must pay for water to drink. Our wood is sold to us. ^5^ Our pursuers are on our necks. We are weary, and have no rest. ^6^ We have given our hands to the Egyptians, and to the Assyrians, to be satisfied with bread. ^7^ Our fathers sinned, and are no more. We have borne their iniquities. ^8^ Servants rule over us. There is no one to deliver us out of their hand. ^9^ We get our bread at the peril of our lives, because of the sword in the wilderness. ^10^ Our skin is black like an oven, because of the burning heat of famine. ^11^ They ravished the women in Zion, the virgins in the cities of Judah. ^12^ Princes were hanged up by their hands. The faces of elders were not honored. ^13^ The young men carry millstones. The children stumbled under loads of wood. ^14^ The elders have ceased from the gate, and the young men from their music. ^15^ The joy of our heart has ceased. Our dance is turned into mourning. ^16^ The crown has fallen from our head. Woe to us, for we have sinned! ^17^ For this our heart is faint. For these things our eyes are dim: ^18^ for the mountain of Zion, which is desolate. The foxes walk on it. ^19^ You, Yahweh, remain forever. Your throne is from generation to generation. ^20^ Why do you forget us forever, and forsake us for so long a time? ^21^ Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old. ^22^ But you have utterly rejected us. You are very angry against us.
+## Prayer of the oppressed community for mercy and restoration
+@1 Remember, Yahweh, what has come on us. Look, and see our reproach. 
+@2 Our inheritance has been turned over to strangers, our houses to aliens. 
+@3 We are orphans and fatherless. Our mothers are as widows. 
+@4 We must pay for water to drink. Our wood is sold to us. 
+@5 Our pursuers are on our necks. We are weary, and have no rest. 
+@6 We have given our hands to the Egyptians, and to the Assyrians, to be satisfied with bread. 
+@7 Our fathers sinned, and are no more. We have borne their iniquities. 
+@8 Servants rule over us. There is no one to deliver us out of their hand. 
+@9 We get our bread at the peril of our lives, because of the sword in the wilderness. 
+@10 Our skin is black like an oven, because of the burning heat of famine. 
+@11 They ravished the women in Zion, the virgins in the cities of Judah. 
+@12 Princes were hanged up by their hands. The faces of elders were not honored. 
+@13 The young men carry millstones. The children stumbled under loads of wood. 
+@14 The elders have ceased from the gate, and the young men from their music. 
+@15 The joy of our heart has ceased. Our dance is turned into mourning. 
+@16 The crown has fallen from our head. Woe to us, for we have sinned! 
+@17 For this our heart is faint. For these things our eyes are dim: 
+@18 for the mountain of Zion, which is desolate. The foxes walk on it.
+
+## Ask for new grace
+ 
+@19 You, Yahweh, remain forever. Your throne is from generation to generation. 
+@20 Why do you forget us forever, and forsake us for so long a time? 
+@21 Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old. 
+@22 But you have utterly rejected us. You are very angry against us.
 \nopandoc{\end{otherlanguage}}
 \nopandoc{\end{paracol}}

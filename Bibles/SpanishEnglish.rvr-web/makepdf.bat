@@ -1,8 +1,8 @@
 chcp 65001
-..\..\bin\bibmark.exe -twolanguage ..\Spanish.BibliaLibreParaElMundo ..\English.WorldEnglishBibleUS
+bibmark -twolanguage ..\Spanish.ReinaValera1909 ..\English.WorldEnglishBibleUS
 
 cd tex
-xelatex Biblia9ptB5
+xelatex -file-line-error Biblia9ptB5
 del BibliaParaAprenderIngles9ptB5.pdf
 ren Biblia9ptB5.pdf BibliaParaAprenderIngles9ptB5.pdf
 

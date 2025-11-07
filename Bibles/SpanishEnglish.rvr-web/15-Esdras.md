@@ -3,356 +3,850 @@
 
 # 1
 ## El permiso de Ciro para el regreso de los judíos restantes y para la construcción del templo
-^1^ En el primer año de Ciro, rey de Persia, para que se cumpliera la palabra de Yavé^a^ por boca de Jeremías, Yavé despertó el espíritu de Ciro, rey de Persia, de modo que hizo un anuncio por todo su reino, y lo puso también por escrito, diciendo, ^b^ ^2^ “Ciro, rey de Persia, dice: “Yahvé, el Dios^c^ del cielo, me ha dado todos los reinos de la tierra; y me ha ordenado que le construya una casa en Jerusalén, que está en Judá. ^d^ ^3^ Quienquiera que haya entre ustedes de todo su pueblo, que su Dios esté con él, y que suba a Jerusalén, que está en Judá, y edifique la casa de Yavé, el Dios de Israel (él es Dios), que está en Jerusalén. ^4^ El que quede, en cualquier lugar donde viva, que los hombres de su lugar lo ayuden con plata, con oro, con bienes y con animales, además de la ofrenda voluntaria para la casa de Dios que está en Jerusalén”.
-^a^[**1:1** “Yahvé” es el nombre propio de Dios, a veces traducido como “SEÑOR” (en mayúsculas) en otras traducciones.] ^b^[**1:1** 2Cró 36,22-23; Jer 25,11; Jer 29,10] ^c^[**1:2** La palabra hebrea traducida como “Dios” es “אֱלֹהִ֑ים” (Elohim).] ^d^[**1:2** Is 44,28; Is 45,1]
+@1 Y en el primer año de Ciro rey de Persia, para que se cumpliese la palabra de Jehová por boca de Jeremías, excitó Jehová el espíritu de Ciro rey de Persia, el cual hizo pasar pregón por todo su reino, y también por escrito, diciendo: 
+@2 Así ha dicho Ciro rey de Persia: Jehová Dios de los cielos me ha dado todos los reinos de la tierra, y me ha mandado que le edifique casa en Jerusalem, que está en Judá. 
+@3 ¿Quién hay entre vosotros de todo su pueblo? Sea Dios con él, y suba á Jerusalem que está en Judá, y edifique la casa á Jehová Dios de Israel, (él es el Dios,) la cual está en Jerusalem. 
+@4 Y á cualquiera que hubiere quedado de todos los lugares donde peregrinare, los hombres de su lugar le ayuden con plata, y oro, y hacienda, y con bestias; con dones voluntarios para la casa de Dios, la cual está en Jerusalem.
 
 ## El efecto y ejecución de la disposición
-^5^ Entonces los jefes de familia de Judá y de Benjamín, los sacerdotes y los levitas, todos cuyos espíritus Dios había incitado a subir, se levantaron para edificar la casa de Yahvé que está en Jerusalén. ^6^ Todos los que los rodeaban reforzaron sus manos con vasos de plata, con oro, con bienes, con animales y con cosas preciosas, además de todo lo que se ofrecía voluntariamente.
+@5 Entonces se levantaron los cabezas de las familias de Judá y de Benjamín, y los sacerdotes y Levitas, todos aquellos cuyo espíritu despertó Dios para subir á edificar la casa de Jehová, la cual está en Jerusalem. 
+@6 Y todos los que estaban en sus alrededores confortaron las manos de ellos con vasos de plata y de oro, con hacienda y bestias, y con cosas preciosas, á más de lo que se ofreció voluntariamente.
 
 ## Publicación y listado de los implementos del templo entregados a Sesbassar (Zorobabel)
-^7^ También el rey Ciro sacó los utensilios de la casa de Yavé, que Nabucodonosor había sacado de Jerusalén y había puesto en la casa de sus dioses; ^8^ esos los sacó Ciro, rey de Persia, por mano del tesorero Mitrídates, y los contó a Sesbasar, príncipe de Judá. ^a^ ^9^ Este es el número de ellos: treinta fuentes de oro, mil fuentes de plata, veintinueve cuchillos, ^10^ treinta tazones de oro, cuatrocientos diez tazones de plata de segunda clase, y otros mil recipientes. ^11^ Todos los vasos de oro y de plata eran cinco mil cuatrocientos. Todo esto lo trajo Sesbasar cuando los cautivos fueron llevados de Babilonia a Jerusalén.
-^a^[**1:8** Esd 2,2; Esd 2,63; Esd 5,14]
+@7 Y el rey Ciro sacó los vasos de la casa de Jehová, que Nabucodonosor había traspasado de Jerusalem, y puesto en la casa de sus dioses. 
+@8 Sacólos pues Ciro rey de Persia, por mano de Mitrídates tesorero, el cual los dió por cuenta á Sesbassar príncipe de Judá. 
+@9 Y esta es la cuenta de ellos: treinta tazones de oro, mil tazones de plata, veinte y nueve cuchillos, 
+@10 Treinta tazas de oro, cuatrocientas y diez otras tazas de plata, y mil otros vasos. 
+@11 Todos los vasos de oro y de plata, cinco mil y cuatrocientos. Todos los hizo llevar Sesbassar con los que subieron del cautiverio de Babilonia á Jerusalem. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
 ## Cyrus's permission for the return of the remaining Jews and for the construction of the temple
-^1^ Now in the first year of Cyrus king of Persia, that Yahweh’s^a^ word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, ^2^ “Cyrus king of Persia says, ‘Yahweh, the God^b^ of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah. ^3^ Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem. ^4^ Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’”
+@1 Now in the first year of Cyrus king of Persia, that Yahweh’s^a^ word by Jeremiah’s mouth might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
+@2 “Cyrus king of Persia says, ‘Yahweh, the God^b^ of heaven, has given me all the kingdoms of the earth; and he has commanded me to build him a house in Jerusalem, which is in Judah. 
+@3 Whoever there is among you of all his people, may his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of Yahweh, the God of Israel (he is God), which is in Jerusalem. 
+@4 Whoever is left, in any place where he lives, let the men of his place help him with silver, with gold, with goods, and with animals, in addition to the free will offering for God’s house which is in Jerusalem.’” 
 ^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.] ^b^[**1:2** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ## The effect and execution of the provision
-^5^ Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem. ^6^ All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered.
+@5 Then the heads of fathers’ households of Judah and Benjamin, the priests and the Levites, all whose spirit God had stirred to go up, rose up to build Yahweh’s house which is in Jerusalem. 
+@6 All those who were around them strengthened their hands with vessels of silver, with gold, with goods, with animals, and with precious things, in addition to all that was willingly offered.
 
 ## Publication and listing of the temple implements given to Shesbassar (Zerubbabel)
-^7^ Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods; ^8^ even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah. ^9^ This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives, ^10^ thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels. ^11^ All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem. 
+@7 Also Cyrus the king brought out the vessels of Yahweh’s house, which Nebuchadnezzar had brought out of Jerusalem, and had put in the house of his gods; 
+@8 even those, Cyrus king of Persia brought out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah. 
+@9 This is the number of them: thirty platters of gold, one thousand platters of silver, twenty-nine knives, 
+@10 thirty bowls of gold, four hundred ten silver bowls of a second kind, and one thousand other vessels. 
+@11 All the vessels of gold and of silver were five thousand four hundred. Sheshbazzar brought all these up when the captives were brought up from Babylon to Jerusalem. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 2
 ## Directorio de judíos que regresan
-^1^ Estos son los hijos de la provincia que subieron del cautiverio de los deportados, que Nabucodonosor, rey de Babilonia, había llevado a Babilonia, y que volvieron a Jerusalén y a Judá, cada uno a su ciudad;
+@1 Y estos son los hijos de la provincia que subieron de la cautividad, de la transmigración que Nabucodonosor rey de Babilonia hizo traspasar á Babilonia, y que volvieron á Jerusalem y á Judá, cada uno á su ciudad:
 
 ## Lista de repatriados
-^2^ que vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilsán, Mispar, Bigvai, Rehum y Baana. El número de los hombres del pueblo de Israel: ^a^ ^3^ Los hijos de Paros, dos mil ciento setenta y dos. ^4^ Los hijos de Sefatías, trescientos setenta y dos. ^5^ Los hijos de Ara, setecientos setenta y cinco. ^6^ Los hijos de Pahatmoab, de los hijos de Jesúa y de Joab, dos mil ochocientos doce. ^7^ Los hijos de Elam, mil doscientos cincuenta y cuatro. ^8^ Los hijos de Zattu, novecientos cuarenta y cinco. ^9^ Los hijos de Zacarías, setecientos sesenta. ^10^ Los hijos de Bani, seiscientos cuarenta y dos. ^11^ Los hijos de Bebai, seiscientos veintitrés. ^12^ Los hijos de Azgad, mil doscientos veintidós. ^13^ Los hijos de Adonikam, seiscientos sesenta y seis. ^14^ Los hijos de Bigvai, dos mil cincuenta y seis. ^15^ Los hijos de Adin, cuatrocientos cincuenta y cuatro. ^16^ Los hijos de Ater, de Ezequías, noventa y ocho. ^17^ Los hijos de Bezai, trescientos veintitrés. ^18^ Los hijos de Jorah, ciento doce. ^19^ Los hijos de Hasum, doscientos veintitrés. ^20^ Los hijos de Gibbar, noventa y cinco. ^21^ Los hijos de Belén, ciento veintitrés. ^22^ Los de Netofa, cincuenta y seis. ^23^ Los de Anatot, ciento veintiocho. ^24^ Los hijos de Azmavet, cuarenta y dos. ^25^ Los hijos de Quiriat Arim, Chefira y Beerot, setecientos cuarenta y tres. ^26^ Los hijos de Ramá y Geba, seiscientos veintiuno. ^27^ Los varones de Micmas, ciento veintidós. ^28^ Los varones de Betel y de Hai, doscientos veintitrés. ^29^ Los hijos de Nebo, cincuenta y dos. ^30^ Los hijos de Magbis, ciento cincuenta y seis. ^31^ Los hijos del otro Elam, mil doscientos cincuenta y cuatro. ^32^ Los hijos de Harim, trescientos veinte. ^33^ Los hijos de Lod, Hadid y Ono, setecientos veinticinco. ^34^ Los hijos de Jericó, trescientos cuarenta y cinco. ^35^ Los hijos de Senaa, tres mil seiscientos treinta.
-^a^[**2:2** Esd 1,8; Esd 2,63]
+@2 Los cuales vinieron con Zorobabel, Jesuá, Nehemías, Seraías, Reelaías, Mardochêo, Bilsán, Mispar, Bigvai, Rehum y Baana. La cuenta de los varones del pueblo de Israel:
 
-^36^ Los sacerdotes: los hijos de Jedaías, de la casa de Jesúa, novecientos setenta y tres. ^37^ Los hijos de Immer, mil cincuenta y dos. ^38^ Los hijos de Pashur, mil doscientos cuarenta y siete. ^39^ Los hijos de Harim, mil diecisiete.
+@3 Los hijos de Paros, dos mil ciento setenta y dos; 
+@4 Los hijos de Sephatías, trescientos setenta y dos; 
+@5 Los hijos de Ara, setecientos setenta y cinco; 
+@6 Los hijos de Pahath-moab, de los hijos de Josué y de Joab, dos mil ochocientos y doce; 
+@7 Los hijos de Elam, mil doscientos cincuenta y cuatro; 
+@8 Los hijos de Zattu, novecientos cuarenta y cinco; 
+@9 Los hijos de Zachâi, setecientos y sesenta; 
+@10 Los hijos de Bani, seiscientos cuarenta y dos; 
+@11 Los hijos de Bebai, seiscientos veinte y tres; 
+@12 Los hijos de Azgad, mil doscientos veinte y dos; 
+@13 Los hijos de Adonicam, seiscientos sesenta y seis; 
+@14 Los hijos de Bigvai, dos mil cincuenta y seis; 
+@15 Los hijos de Adin, cuatrocientos cincuenta y cuatro; 
+@16 Los hijos de Ater, de Ezechîas, noventa y ocho; 
+@17 Los hijos de Besai, trescientos veinte y tres; 
+@18 Los hijos de Jora, ciento y doce; 
+@19 Los hijos de Hasum, doscientos veinte y tres; 
+@20 Los hijos de Gibbar, noventa y cinco; 
+@21 Los hijos de Beth-lehem, ciento veinte y tres; 
+@22 Los varones de Nethopha, cincuenta y seis; 
+@23 Los varones de Anathoth, ciento veinte y ocho; 
+@24 Los hijos de Asmaveth, cuarenta y dos; 
+@25 Los hijos de Chîriath-jearim, Cephira, y Beeroth, setecientos cuarenta y tres; 
+@26 Los hijos de Rama y Gabaa, seiscientos veinte y uno; 
+@27 Los varones de Michmas, ciento veinte y dos; 
+@28 Los varones de Beth-el y Hai, doscientos veinte y tres; 
+@29 Los hijos de Nebo, cincuenta y dos; 
+@30 Los hijos de Magbis, ciento cincuenta y seis; 
+@31 Los hijos del otro Elam, mil doscientos cincuenta y cuatro; 
+@32 Los hijos de Harim, trescientos y veinte; 
+@33 Los hijos de Lod, Hadid, y Ono, setecientos veinte y cinco; 
+@34 Los hijos de Jericó, trescientos cuarenta y cinco; 
+@35 Los hijos de Senaa, tres mil seiscientos y treinta;
 
-^40^ Los levitas: los hijos de Jesúa y de Cadmiel, de los hijos de Hodavías, setenta y cuatro. ^a^ ^41^ Los cantores: los hijos de Asaf, ciento veintiocho. ^42^ Los hijos de los porteros: los hijos de Salum, los hijos de Ater, los hijos de Talmón, los hijos de Acub, los hijos de Hatita, los hijos de Sobai, en total ciento treinta y nueve.
-^a^[**2:40** Neh 12,8]
+@36 Los sacerdotes: los hijos de Jedaía, de la casa de Jesuá, novecientos setenta y tres; 
+@37 Los hijos de Immer, mil cincuenta y dos; 
+@38 Los hijos de Pashur, mil doscientos cuarenta y siete; 
+@39 Los hijos de Harim, mil diez y siete.
 
-^43^ Los servidores del templo: los hijos de Ziha, los hijos de Hasupha, los hijos de Tabbaoth, ^a^ ^44^ los hijos de Keros, los hijos de Siaha, los hijos de Padon, ^45^ los hijos de Lebanah, los hijos de Hagabah, los hijos de Akkub, ^46^ los hijos de Hagab, los hijos de Shamlai, los hijos de Hanan, ^47^ los hijos de Giddel, los hijos de Gahar, los hijos de Reaiah, ^48^ los hijos de Rezin, los hijos de Nekoda, los hijos de Gazzam, ^49^ los hijos de Uzza, los hijos de Paseah, los hijos de Besai, ^50^ los hijos de Asna, los hijos de Meunim, los hijos de Nefisim, ^51^ los hijos de Bakbuk, los hijos de Hakupha, los hijos de Harhur, ^52^ los hijos de Bazluth, los hijos de Mehida, los hijos de Harsha, ^53^ los hijos de Barkos, los hijos de Sisera, los hijos de Temah, ^54^ los hijos de Neziah, los hijos de Hatipha.
-^a^[**2:43** Esd 8,20]
+@40 Los Levitas: los hijos de Jesuá y de Cadmiel, de los hijos de Odovías, setenta y cuatro. 
+@41 Los cantores: los hijos de Asaph, ciento veinte y ocho. 
+@42 Los hijos de los porteros: los hijos de Sallum, los hijos de Ater, los hijos de Talmón, los hijos de Accub, los hijos de Hatita, los hijos de Sobai; en todos, ciento treinta y nueve.
 
-^55^ Los hijos de los siervos de Salomón: los hijos de Sotai, los hijos de Hassophereth, los hijos de Peruda, ^a^ ^56^ los hijos de Jaalah, los hijos de Darkon, los hijos de Giddel, ^57^ los hijos de Sefatías, los hijos de Hattil, los hijos de Pochereth Hazzebaim, los hijos de Ami. ^58^ Todos los servidores del templo, y los hijos de los servidores de Salomón, fueron trescientos noventa y dos. ^b^
-^a^[**2:55** 1Re 9,21] ^b^[**2:58** Jos 9,23]
+@43 Los Nethineos: los hijos de Siha, los hijos de Hasupha, los hijos de Thabaoth, 
+@44 Los hijos de Chêros, los hijos de Siaa, los hijos de Phadón; 
+@45 Los hijos de Lebana, los hijos de Hagaba, los hijos de Accub; 
+@46 Los hijos de Hagab, los hijos de Samlai, los hijos de Hanán; 
+@47 Los hijos de Giddel, los hijos de Gaher, los hijos de Reaía; 
+@48 Los hijos de Resin, los hijos de Necoda, los hijos de Gazam; 
+@49 Los hijos de Uzza, los hijos de Phasea, los hijos de Besai; 
+@50 Los hijos de Asena, los hijos de Meunim, los hijos de Nephusim; 
+@51 Los hijos de Bacbuc, los hijos de Hacusa, los hijos de Harhur; 
+@52 Los hijos de Basluth, los hijos de Mehida, los hijos de Harsa; 
+@53 Los hijos de Barcos, los hijos de Sisera, los hijos de Thema; 
+@54 Los hijos de Nesía, los hijos de Hatipha.
 
-^59^ Estos fueron los que subieron de Tel Melá, Tel Harsa, Querubín, Addán e Immer; pero no pudieron mostrar las casas de sus padres ni su descendencia,^a^ si eran de Israel: ^60^ los hijos de Delaía, los hijos de Tobías, los hijos de Necoda, seiscientos cincuenta y dos. ^61^ De los hijos de los sacerdotes: los hijos de Habaía, los hijos de Hakkoz, y los hijos de Barzilai, que tomó mujer de las hijas de Barzilai Galaadita, y se llamó como ellas. ^b^ ^62^ Estos buscaron su lugar entre los que estaban registrados por genealogía, pero no fueron encontrados; por lo tanto, fueron considerados descalificados y apartados del sacerdocio. ^63^ El gobernador les dijo que no debían comer de las cosas más santas hasta que se levantara un sacerdote para servir con Urim y con Tumim. ^c^
-^a^[**2:59** o, semilla] ^b^[**2:61** 2Sam 19,31] ^c^[**2:63** Esd 2,2; Éxod 28,30]
+@55 Los hijos de los siervos de Salomón: los hijos de Sotai, los hijos de Sophereth, los hijos de Peruda; 
+@56 Los hijos de Jaala, los hijos de Darcón, los hijos de Giddel; 
+@57 Los hijos de Sephatías, los hijos de Hatil, los hijos de Phochêreth-hassebaim, los hijos de Ami. 
+@58 Todos los Nethineos, é hijos de los siervos de Salomón, trescientos noventa y dos.
+
+@59 Y estos fueron los que subieron de Tel-mela, Tel-harsa, Chêrub, Addan, é Immer, los cuales no pudieron mostrar la casa de sus padres, ni su linaje, si eran de Israel: 
+@60 Los hijos de Delaía, los hijos de Tobías, los hijos de Necoda, seiscientos cincuenta y dos. 
+@61 Y de los hijos de los sacerdotes: los hijos de Abaía, los hijos de Cos, los hijos de Barzillai, el cual tomó mujer de las hijas de Barzillai Galaadita, y fué llamado del nombre de ellas. 
+@62 Estos buscaron su registro de genealogías, y no fué hallado; y fueron echados del sacerdocio. 
+@63 Y el Tirsatha les dijo que no comiesen de las cosas más santas, hasta que hubiese sacerdote con Urim y Thummim.
 
 ## Número total de personas y animales de carga en el municipio
-^64^ Toda la asamblea reunida era de cuarenta y dos mil trescientos sesenta, ^65^ además de sus siervos y siervas, que eran siete mil trescientos treinta y siete; y tenían doscientos cantores y cantoras. ^66^ Sus caballos eran setecientos treinta y seis; sus mulos, doscientos cuarenta y cinco; ^67^ sus camellos, cuatrocientos treinta y cinco; sus asnos, seis mil setecientos veinte.
+@64 Toda la congregación, unida como un solo hombre, era de cuarenta y dos mil trescientos y sesenta, 
+@65 Sin sus siervos y siervas, los cuales eran siete mil trescientos treinta y siete: y tenían doscientos cantores y cantoras. 
+@66 Sus caballos eran setecientos treinta y seis; sus mulos, doscientos cuarenta y cinco; 
+@67 Sus camellos, cuatrocientos treinta y cinco; asnos, seis mil setecientos y veinte.
 
 ## Contribuciones a la construcción del templo en Jerusalén; Palabra final
-^68^ Algunos de los jefes de familia de los padres, cuando llegaron a la casa de Yahvé que está en Jerusalén, ofrecieron voluntariamente por la casa de Dios para levantarla en su lugar. ^69^ Dieron, según su capacidad, para el tesoro de la obra, sesenta y un mil dáricos de oro,^a^ cinco mil minas^b^ de plata, y cien vestidos sacerdotales.
-^a^[**2:69** un dárico era una moneda de oro emitida por un rey persa, que pesaba unos 8,4 gramos o unas 0,27 onzas troy cada una.] ^b^[**2:69** El Seol es el lugar de los muertos. ]
+@68 Y algunos de los cabezas de los padres, cuando vinieron á la casa de Jehová la cual estaba en Jerusalem, ofrecieron voluntariamente para la casa de Dios, para levantarla en su asiento. 
+@69 Según sus fuerzas dieron al tesorero de la obra sesenta y un mil dracmas de oro, y cinco mil libras de plata, y cien túnicas sacerdotales.
 
-^70^ Así que los sacerdotes y los levitas, con parte del pueblo, los cantores, los porteros y los servidores del templo, vivían en sus ciudades, y todo Israel en sus ciudades.
+@70 Y habitaron los sacerdotes, y los Levitas, y los del pueblo, y los cantores, y los porteros y los Nethineos, en sus ciudades; y todo Israel en sus ciudades. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 2
 ## Directory of Returning Jews
-^1^ Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;
+@1 Now these are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;
 
 ## List of returnees
-^2^ who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. The number of the men of the people of Israel: ^3^ The children of Parosh, two thousand one hundred seventy-two. ^4^ The children of Shephatiah, three hundred seventy-two. ^5^ The children of Arah, seven hundred seventy-five. ^6^ The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve. ^7^ The children of Elam, one thousand two hundred fifty-four. ^8^ The children of Zattu, nine hundred forty-five. ^9^ The children of Zaccai, seven hundred sixty. ^10^ The children of Bani, six hundred forty-two. ^11^ The children of Bebai, six hundred twenty-three. ^12^ The children of Azgad, one thousand two hundred twenty-two. ^13^ The children of Adonikam, six hundred sixty-six. ^14^ The children of Bigvai, two thousand fifty-six. ^15^ The children of Adin, four hundred fifty-four. ^16^ The children of Ater, of Hezekiah, ninety-eight. ^17^ The children of Bezai, three hundred twenty-three. ^18^ The children of Jorah, one hundred twelve. ^19^ The children of Hashum, two hundred twenty-three. ^20^ The children of Gibbar, ninety-five. ^21^ The children of Bethlehem, one hundred twenty-three. ^22^ The men of Netophah, fifty-six. ^23^ The men of Anathoth, one hundred twenty-eight. ^24^ The children of Azmaveth, forty-two. ^25^ The children of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three. ^26^ The children of Ramah and Geba, six hundred twenty-one. ^27^ The men of Michmas, one hundred twenty-two. ^28^ The men of Bethel and Ai, two hundred twenty-three. ^29^ The children of Nebo, fifty-two. ^30^ The children of Magbish, one hundred fifty-six. ^31^ The children of the other Elam, one thousand two hundred fifty-four. ^32^ The children of Harim, three hundred twenty. ^33^ The children of Lod, Hadid, and Ono, seven hundred twenty-five. ^34^ The children of Jericho, three hundred forty-five. ^35^ The children of Senaah, three thousand six hundred thirty. ^36^ The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three. ^37^ The children of Immer, one thousand fifty-two. ^38^ The children of Pashhur, one thousand two hundred forty-seven. ^39^ The children of Harim, one thousand seventeen. ^40^ The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four. ^41^ The singers: the children of Asaph, one hundred twenty-eight. ^42^ The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine. ^43^ The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth, ^44^ the children of Keros, the children of Siaha, the children of Padon, ^45^ the children of Lebanah, the children of Hagabah, the children of Akkub, ^46^ the children of Hagab, the children of Shamlai, the children of Hanan, ^47^ the children of Giddel, the children of Gahar, the children of Reaiah, ^48^ the children of Rezin, the children of Nekoda, the children of Gazzam, ^49^ the children of Uzza, the children of Paseah, the children of Besai, ^50^ the children of Asnah, the children of Meunim, the children of Nephisim, ^51^ the children of Bakbuk, the children of Hakupha, the children of Harhur, ^52^ the children of Bazluth, the children of Mehida, the children of Harsha, ^53^ the children of Barkos, the children of Sisera, the children of Temah, ^54^ the children of Neziah, the children of Hatipha. ^55^ The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda, ^56^ the children of Jaalah, the children of Darkon, the children of Giddel, ^57^ the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, the children of Ami. ^58^ All the temple servants, and the children of Solomon’s servants, were three hundred ninety-two. ^59^ These were those who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses and their offspring,^a^ whether they were of Israel: ^60^ the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two. ^61^ Of the children of the priests: the children of Habaiah, the children of Hakkoz, and the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name. ^62^ These sought their place among those who were registered by genealogy, but they were not found; therefore they were deemed disqualified and removed from the priesthood. ^63^ The governor told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim.
+@2 who came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah. 
+
+The number of the men of the people of Israel: 
+@3 The children of Parosh, two thousand one hundred seventy-two. 
+@4 The children of Shephatiah, three hundred seventy-two. 
+@5 The children of Arah, seven hundred seventy-five. 
+@6 The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve. 
+@7 The children of Elam, one thousand two hundred fifty-four. 
+@8 The children of Zattu, nine hundred forty-five. 
+@9 The children of Zaccai, seven hundred sixty. 
+@10 The children of Bani, six hundred forty-two. 
+@11 The children of Bebai, six hundred twenty-three. 
+@12 The children of Azgad, one thousand two hundred twenty-two. 
+@13 The children of Adonikam, six hundred sixty-six. 
+@14 The children of Bigvai, two thousand fifty-six. 
+@15 The children of Adin, four hundred fifty-four. 
+@16 The children of Ater, of Hezekiah, ninety-eight. 
+@17 The children of Bezai, three hundred twenty-three. 
+@18 The children of Jorah, one hundred twelve. 
+@19 The children of Hashum, two hundred twenty-three. 
+@20 The children of Gibbar, ninety-five. 
+@21 The children of Bethlehem, one hundred twenty-three. 
+@22 The men of Netophah, fifty-six. 
+@23 The men of Anathoth, one hundred twenty-eight. 
+@24 The children of Azmaveth, forty-two. 
+@25 The children of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three. 
+@26 The children of Ramah and Geba, six hundred twenty-one. 
+@27 The men of Michmas, one hundred twenty-two. 
+@28 The men of Bethel and Ai, two hundred twenty-three. 
+@29 The children of Nebo, fifty-two. 
+@30 The children of Magbish, one hundred fifty-six. 
+@31 The children of the other Elam, one thousand two hundred fifty-four. 
+@32 The children of Harim, three hundred twenty. 
+@33 The children of Lod, Hadid, and Ono, seven hundred twenty-five. 
+@34 The children of Jericho, three hundred forty-five. 
+@35 The children of Senaah, three thousand six hundred thirty. 
+
+@36 The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three. 
+@37 The children of Immer, one thousand fifty-two. 
+@38 The children of Pashhur, one thousand two hundred forty-seven. 
+@39 The children of Harim, one thousand seventeen. 
+
+@40 The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four. 
+@41 The singers: the children of Asaph, one hundred twenty-eight. 
+@42 The children of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine. 
+
+@43 The temple servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth, 
+@44 the children of Keros, the children of Siaha, the children of Padon, 
+@45 the children of Lebanah, the children of Hagabah, the children of Akkub, 
+@46 the children of Hagab, the children of Shamlai, the children of Hanan, 
+@47 the children of Giddel, the children of Gahar, the children of Reaiah, 
+@48 the children of Rezin, the children of Nekoda, the children of Gazzam, 
+@49 the children of Uzza, the children of Paseah, the children of Besai, 
+@50 the children of Asnah, the children of Meunim, the children of Nephisim, 
+@51 the children of Bakbuk, the children of Hakupha, the children of Harhur, 
+@52 the children of Bazluth, the children of Mehida, the children of Harsha, 
+@53 the children of Barkos, the children of Sisera, the children of Temah, 
+@54 the children of Neziah, the children of Hatipha. 
+
+@55 The children of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda, 
+@56 the children of Jaalah, the children of Darkon, the children of Giddel, 
+@57 the children of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, the children of Ami. 
+@58 All the temple servants, and the children of Solomon’s servants, were three hundred ninety-two. 
+
+@59 These were those who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses and their offspring,^a^ whether they were of Israel: 
+@60 the children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two. 
+@61 Of the children of the priests: the children of Habaiah, the children of Hakkoz, and the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name. 
+@62 These sought their place among those who were registered by genealogy, but they were not found; therefore they were deemed disqualified and removed from the priesthood. 
+@63 The governor told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim. 
 ^a^[**2:59** or, seed]
 
 ## Total number of people and pack animals in the municipality
-^64^ The whole assembly together was forty-two thousand three hundred sixty, ^65^ in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women. ^66^ Their horses were seven hundred thirty-six; their mules, two hundred forty-five; ^67^ their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
+@64 The whole assembly together was forty-two thousand three hundred sixty, 
+@65 in addition to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women. 
+@66 Their horses were seven hundred thirty-six; their mules, two hundred forty-five; 
+@67 their camels, four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
 
 ## Contributions to the construction of the temple in Jerusalem; final word
-^68^ Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place. ^69^ They gave according to their ability into the treasury of the work sixty-one thousand darics of gold,^a^ five thousand minas^b^ of silver, and one hundred priests’ garments. ^70^ So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities. 
+@68 Some of the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place. 
+@69 They gave according to their ability into the treasury of the work sixty-one thousand darics of gold,^a^ five thousand minas^b^ of silver, and one hundred priests’ garments. 
 ^a^[**2:69** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.] ^b^[**2:69** A mina is about 600 grams or 1.3 U. S. pounds, so 5,000 minas is about 3 metric tons.]
+
+@70 So the priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 3
 ## Construcción del altar de las ofrendas quemadas y establecimiento del servicio de sacrificios regular; Celebración de la Fiesta de los Tabernáculos
-^1^ Cuando llegó el séptimo mes, y los hijos de Israel estaban en las ciudades, el pueblo se reunió como un solo hombre en Jerusalén. ^a^ ^2^ Entonces Jesúa, hijo de Josadac, se levantó con sus hermanos los sacerdotes y con Zorobabel, hijo de Salatiel, y sus parientes, y edificaron el altar del Dios de Israel para ofrecer sobre él holocaustos, como está escrito en la ley de Moisés, el hombre de Dios. ^b^ ^3^ A pesar del temor que sentían por los pueblos de las tierras circundantes, colocaron el altar sobre su base, y ofrecieron sobre él holocaustos a Yavé, holocaustos por la mañana y por la tarde. ^4^ Celebraron la fiesta de las cabañas, como está escrito, y ofrecieron los holocaustos diarios por número, según la ordenanza, como lo exigía el deber de cada día; ^c^ ^5^ y después el holocausto continuo, las ofrendas de las lunas nuevas, de todas las fiestas fijas de Yahvé que estaban consagradas, y de todos los que voluntariamente ofrecían una ofrenda voluntaria a Yahvé. ^6^ Desde el primer día del séptimo mes comenzaron a ofrecer holocaustos a Yavé, pero aún no se habían puesto los cimientos del templo de Yavé.
-^a^[**3:1** Esd 2,64] ^b^[**3:2** Esd 2,2; 1Cró 3,17-19; Éxod 27,1; Lev 6,9] ^c^[**3:4** Lev 23,34; Núm 29,12-38]
+@1 Y llegado el mes séptimo, y ya los hijos de Israel en las ciudades, juntóse el pueblo como un solo hombre en Jerusalem. 
+@2 Entonces se levantó Jesuá hijo de Josadec, y sus hermanos los sacerdotes, y Zorobabel hijo de Sealthiel, y sus hermanos, y edificaron el altar del Dios de Israel, para ofrecer sobre él holocaustos, como está escrito en la ley de Moisés varón de Dios. 
+@3 Y asentaron el altar sobre sus basas, bien que tenían miedo de los pueblos de las tierras, y ofrecieron sobre él holocaustos á Jehová, holocaustos á la mañana y á la tarde. 
+@4 Hicieron asimismo la solemnidad de las cabañas, como está escrito, y holocaustos cada día por cuenta, conforme al rito, cada cosa en su día; 
+@5 Y á más de esto, el holocausto continuo, y las nuevas lunas, y todas las fiestas santificadas de Jehová, y todo sacrificio espontáneo, toda ofrenda voluntaria á Jehová. 
+@6 Desde el primer día del mes séptimo comenzaron á ofrecer holocaustos á Jehová; mas el templo de Jehová no estaba aún fundado.
 
 ## Preparaciones para la construcción de templos; Colocación ceremonial de la primera piedra
-^7^ También dieron dinero a los albañiles y a los carpinteros. También dieron comida, bebida y aceite a la gente de Sidón y Tiro para que trajeran cedros del Líbano al mar, a Jope, según la concesión que tenían de Ciro, rey de Persia.
+@7 Y dieron dinero á los carpinteros y oficiales; asimismo comida y bebida y aceite á los Sidonios y Tirios, para que trajesen madera de cedro del Líbano á la mar de Joppe, conforme á la voluntad de Ciro rey de Persia acerca de esto.
 
-^8^ En el segundo año de su llegada a la casa de Dios en Jerusalén, en el segundo mes, Zorobabel hijo de Salatiel, Jesúa hijo de Josadac, y los demás hermanos de ellos, los sacerdotes y los levitas, y todos los que habían venido de la cautividad a Jerusalén, comenzaron la obra y designaron a los levitas, de veinte años para arriba, para que tuvieran la dirección de la obra de la casa de Yahvé. ^9^ Entonces Jesúa se puso de pie con sus hijos y sus hermanos, Cadmiel y sus hijos, los hijos de Judá, juntos para tener la supervisión de los obreros en la casa de Dios: los hijos de Henadad, con sus hijos y sus hermanos los levitas. ^a^
-^a^[**3:9** Neh 10,9]
+@8 Y en el año segundo de su venida á la casa de Dios en Jerusalem, en el mes segundo, comenzaron Zorobabel hijo de Sealthiel, y Jesuá hijo de Josadec, y los otros sus hermanos, los sacerdotes y los Levitas, y todos los que habían venido de la cautividad á Jerusalem; y pusieron á los Levitas de veinte años arriba para que tuviesen cargo de la obra de la casa de Jehová. 
+@9 Jesuá también, sus hijos y sus hermanos, Cadmiel y sus hijos, hijos de Judá, como un solo hombre asistían para dar priesa á los que hacían la obra en la casa de Dios: los hijos de Henadad, sus hijos y sus hermanos, Levitas.
 
-^10^ Cuando los constructores pusieron los cimientos del templo de Yavé, pusieron a los sacerdotes con sus vestimentas y con trompetas, y a los levitas hijos de Asaf con címbalos, para alabar a Yavé, según las indicaciones de David, rey de Israel. ^11^ Cantaron entre sí alabando y dando gracias a Yavé: “Porque es bueno, porque su bondad es eterna para con Israel”. Todo el pueblo gritaba con gran júbilo cuando alababa a Yahvé, porque se habían puesto los cimientos de la casa de Yahvé. ^a^
-^a^[**3:11** 2Cró 5,13; 2Cró 7,3; Sal 118,1]
+@10 Y cuando los albañiles del templo de Jehová echaban los cimientos, pusieron á los sacerdotes vestidos de sus ropas, con trompetas, y á Levitas hijos de Asaph con címbalos, para que alabasen á Jehová, según ordenanza de David rey de Israel. 
+@11 Y cantaban, alabando y confesando á Jehová, y decían: Porque es bueno, porque para siempre es su misericordia sobre Israel. Y todo el pueblo aclamaba con grande júbilo, alabando á Jehová, porque á la casa de Jehová se echaba el cimiento.
 
-^12^ Pero muchos de los sacerdotes, de los levitas y de los jefes de familia, de los ancianos que habían visto la primera casa, cuando se pusieron los cimientos de esta casa ante sus ojos, lloraron a gritos. También muchos gritaban de alegría, ^a^ ^13^ de modo que el pueblo no podía distinguir el ruido del grito de alegría del ruido del llanto del pueblo; porque el pueblo gritaba con fuerza, y el ruido se oía lejos.
-^a^[**3:12** Hag 2,3]
+@12 Y muchos de los sacerdotes y de los Levitas y de los cabezas de los padres, ancianos que habían visto la casa primera, viendo fundar esta casa, lloraban en alta voz, mientras muchos otros daban grandes gritos de alegría. 
+@13 Y no podía discernir el pueblo el clamor de los gritos de alegría, de la voz del lloro del pueblo: porque clamaba el pueblo con grande júbilo, y oíase el ruido hasta de lejos. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 3
 ## Construction of the altar of burnt offerings and establishment of the regular sacrificial service; Celebration of the Feast of Tabernacles
-^1^ When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem. ^2^ Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God. ^3^ In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening. ^4^ They kept the feast of booths, as it is written, and offered the daily burnt offerings by number, according to the ordinance, as the duty of every day required; ^5^ and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh. ^6^ From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid.
+@1 When the seventh month had come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem. 
+@2 Then Jeshua the son of Jozadak stood up with his brothers the priests and Zerubbabel the son of Shealtiel and his relatives, and built the altar of the God of Israel, to offer burnt offerings on it, as it is written in the law of Moses the man of God. 
+@3 In spite of their fear because of the peoples of the surrounding lands, they set the altar on its base; and they offered burnt offerings on it to Yahweh, even burnt offerings morning and evening. 
+@4 They kept the feast of booths, as it is written, and offered the daily burnt offerings by number, according to the ordinance, as the duty of every day required; 
+@5 and afterward the continual burnt offering, the offerings of the new moons, of all the set feasts of Yahweh that were consecrated, and of everyone who willingly offered a free will offering to Yahweh. 
+@6 From the first day of the seventh month, they began to offer burnt offerings to Yahweh; but the foundation of Yahweh’s temple was not yet laid.
 
 ## Preparations for the construction of temples; Ceremonial laying of the foundation stone
-^7^ They also gave money to the masons and to the carpenters. They also gave food, drink, and oil to the people of Sidon and Tyre to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from Cyrus King of Persia. ^8^ Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house. ^9^ Then Jeshua stood with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together to have the oversight of the workmen in God’s house: the sons of Henadad, with their sons and their brothers the Levites. ^10^ When the builders laid the foundation of Yahweh’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the directions of David king of Israel. ^11^ They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh’s house had been laid. ^12^ But many of the priests and Levites and heads of fathers’ households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy, ^13^ so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away. 
+@7 They also gave money to the masons and to the carpenters. They also gave food, drink, and oil to the people of Sidon and Tyre to bring cedar trees from Lebanon to the sea, to Joppa, according to the grant that they had from Cyrus King of Persia. 
+
+@8 Now in the second year of their coming to God’s house at Jerusalem, in the second month, Zerubbabel the son of Shealtiel, Jeshua the son of Jozadak, and the rest of their brothers the priests and the Levites, and all those who had come out of the captivity to Jerusalem, began the work and appointed the Levites, from twenty years old and upward, to have the oversight of the work of Yahweh’s house. 
+@9 Then Jeshua stood with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together to have the oversight of the workmen in God’s house: the sons of Henadad, with their sons and their brothers the Levites. 
+
+@10 When the builders laid the foundation of Yahweh’s temple, they set the priests in their vestments with trumpets, with the Levites the sons of Asaph with cymbals, to praise Yahweh, according to the directions of David king of Israel. 
+@11 They sang to one another in praising and giving thanks to Yahweh, “For he is good, for his loving kindness endures forever toward Israel.” All the people shouted with a great shout, when they praised Yahweh, because the foundation of Yahweh’s house had been laid. 
+
+@12 But many of the priests and Levites and heads of fathers’ households, the old men who had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice. Many also shouted aloud for joy, 
+@13 so that the people could not discern the noise of the shout of joy from the noise of the weeping of the people; for the people shouted with a loud shout, and the noise was heard far away. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 4
 ## Rechazo de los samaritanos de participar en la construcción del templo
-^1^ Cuando los adversarios de Judá y Benjamín se enteraron de que los hijos del cautiverio estaban construyendo un templo a Yavé, el Dios de Israel, ^2^ se acercaron a Zorobabel y a los jefes de familia de los padres y les dijeron: “Permítannos construir con ustedes, pues buscamos a su Dios como ustedes, y le ofrecemos sacrificios desde los días de Esar Haddón, rey de Asiria, que nos hizo subir aquí.” ^a^
-^a^[**4:2** 2Re 17,24; 2Re 17,33; 2Re 19,37]
+@1 Y oyendo los enemigos de Judá y de Benjamín, que los venidos de la cautividad edificaban el templo de Jehová Dios de Israel, 
+@2 Llegáronse á Zorobabel, y á los cabezas de los padres, y dijéronles: Edificaremos con vosotros, porque como vosotros buscaremos á vuestro Dios, y á él sacrificamos desde los días de Esar-haddón rey de Asiria, que nos hizo subir aquí.
 
-^3^ Pero Zorobabel, Jesúa y el resto de los jefes de familia de Israel les dijeron: “Vosotros no tenéis nada que ver con nosotros en la construcción de una casa a nuestro Dios, sino que nosotros mismos construiremos juntos a Yahvé, el Dios de Israel, como nos ha ordenado el rey Ciro, rey de Persia.” ^a^
-^a^[**4:3** Esd 1,3]
+@3 Y díjoles Zorobabel, y Jesuá, y los demás cabezas de los padres de Israel: No nos conviene edificar con vosotros casa á nuestro Dios, sino que nosotros solos la edificaremos á Jehová Dios de Israel, como nos mandó el rey Ciro, rey de Persia.
 
-^4^ Entonces la gente del país debilitó las manos del pueblo de Judá y lo perturbó en la construcción. ^5^ Contrataron consejeros contra ellos para frustrar su propósito todos los días de Ciro, rey de Persia, hasta el reinado de Darío, rey de Persia. ^a^
-^a^[**4:5** Esd 4,24]
+@4 Mas el pueblo de la tierra debilitaba las manos del pueblo de Judá, y los arredraban de edificar. 
+@5 Cohecharon además contra ellos consejeros para disipar su consejo, todo el tiempo de Ciro rey de Persia, y hasta el reinado de Darío rey de Persia.
 
 ## Varias acusaciones contra los judíos y su templo y la construcción de muros bajo el gobierno de Jerjes y Artajerjes
-^6^ En el reinado de Asuero, al principio de su reinado, escribieron una acusación contra los habitantes de Judá y de Jerusalén.
+@6 Y en el reinado de Assuero, en el principio de su reinado, escribieron acusaciones contra los moradores de Judá y de Jerusalem.
 
-^7^ En los días de Artajerjes, Bislam, Mitrídates, Tabeel y el resto de sus compañeros escribieron a Artajerjes, rey de Persia, y la redacción de la carta fue escrita en sirio y entregada en lengua siria. ^8^ Rehum, el canciller, y Simsai, el escriba, escribieron una carta contra Jerusalén al rey Artajerjes, de la siguiente manera ^9^ Entonces Rehum, el canciller, Simsai, el escriba, y el resto de sus compañeros, los dinaítas, los afarsatitas, los tarpelitas, los afarsitas, los archevitas, los babilonios, los susanquitas, los dehaitas, los elamitas, ^10^ y el resto de las naciones que el grande y noble Osnappar trajo y estableció en la ciudad de Samaria, y en el resto del país más allá del río, etc., escribieron. ^a^
-^a^[**4:10** Esd 4,2]
+@7 Y en días de Artajerjes, Bislam, Mitrídates, Tabeel, y los demás sus compañeros, escribieron á Artajerjes rey de Persia; y la escritura de la carta estaba hecha en siriaco, y declarada en siriaco. 
+@8 Rehum canciller, y Simsai secretario, escribieron una carta contra Jerusalem al rey Artajerjes, como se sigue. 
+@9 Entonces Rehum canciller, y Simsai secretario, y los demás sus compañeros, los Dineos, y los Apharsathachêos, Thepharleos, Apharseos, los Erchûeos, los Babilonios, Susanchêos, Dieveos, y Elamitas; 
+@10 Y los demás pueblos que el grande y glorioso Asnappar trasportó, é hizo habitar en las ciudades de Samaria, y los demás de la otra parte del río, etcétera, escribieron.
 
-^11^ Esta es la copia de la carta que enviaron: Al rey Artajerjes, de parte de tus siervos, el pueblo de allende el río. ^12^ Hazle saber al rey que los judíos que subieron de ti han venido a nosotros a Jerusalén. Están construyendo la ciudad rebelde y mala, y han terminado las murallas y reparado los cimientos. ^13^ Sepa ahora el rey que si se construye esta ciudad y se terminan las murallas, no pagarán tributo, ni costumbre, ni peaje, y al final será perjudicial para los reyes. ^14^ Ahora bien, como nosotros comemos la sal del palacio y no es conveniente que veamos la deshonra del rey, hemos enviado a informar al rey, ^15^ para que se busque en el libro de los registros de tus padres. Verás en el libro de los registros, y sabrás que esta ciudad es una ciudad rebelde y perjudicial para los reyes y las provincias, y que en el pasado han iniciado rebeliones en su interior. Por eso esta ciudad fue destruida. ^16^ Informamos al rey que si se construye esta ciudad y se terminan las murallas, no tendrás ninguna posesión más allá del río.
+@11 Este es el traslado de la carta que enviaron: Al rey Artajerjes: Tus siervos de la otra parte del río, etcétera.
+
+@12 Sea notorio al rey, que los Judíos que subieron de ti á nosotros, vinieron á Jerusalem; y edifican la ciudad rebelde y mala, y han erigido los muros; y compuesto los fundamentos. 
+@13 Ahora, notorio sea al rey, que si aquella ciudad fuere reedificada, y los muros fueren establecidos, el tributo, pecho, y rentas no darán, y el catastro de lo reyes será menoscabado. 
+@14 Ya pues que estamos mantenidos de palacio, no nos es justo ver el menosprecio del rey: hemos enviado por tanto, y hécholo saber al rey, 
+@15 Para que busque en el libro de las historias de nuestros padres; y hallarás en el libro de las historias, y sabrás que esta ciudad es ciudad rebelde, y perjudicial á los reyes y á las provincias, y que de tiempo antiguo forman en medio de ella rebeliones; por lo que esta ciudad fué destruída. 
+@16 Hacemos saber al rey, que si esta ciudad fuere edificada, y erigidos sus muros, la parte allá del río no será tuya.
 
 ## La construcción del templo se paralizó como consecuencia de un real decreto
-^17^ Entonces el rey envió una respuesta a Rehum, el canciller, y a Simsai, el escriba, y al resto de sus compañeros que viven en Samaria y en el resto del país al otro lado del río: La paz. ^18^ La carta que nos enviasteis ha sido leída claramente ante mí. ^19^ He decretado, y se ha hecho una búsqueda, y se ha encontrado que esta ciudad ha hecho insurrección contra los reyes en el pasado, y que se han hecho en ella rebeliones y revueltas. ^20^ También ha habido reyes poderosos sobre Jerusalén que han gobernado todo el país más allá del río, y se les pagaba tributo, costumbre y peaje. ^21^ Haz ahora un decreto para que cesen estos hombres, y que no se construya esta ciudad hasta que yo lo decrete. ^22^ Tengan cuidado de no ser negligentes al hacerlo. ¿Por qué ha de crecer el daño en perjuicio de los reyes?
-
-^23^ Entonces, cuando la copia de la carta del rey Artajerjes fue leída ante Rehum, el escriba Simsai y sus compañeros, se dirigieron apresuradamente a Jerusalén a los judíos y los hicieron cesar por la fuerza de las armas. ^24^ Entonces se detuvo el trabajo en la casa de Dios que está en Jerusalén. Se detuvo hasta el segundo año del reinado de Darío, rey de Persia. ^a^
-^a^[**4:24** Esd 4,5; Esd 6,15]
+@17 El rey envió esta respuesta á Rehum canciller, y á Simsai secretario, y á los demás sus compañeros que habitan en Samaria, y á los demás de la parte allá del río: Paz, etc. 
+@18 La carta que nos enviasteis claramente fué leída delante de mí. 
+@19 Y por mí fué dado mandamiento, y buscaron, y hallaron que aquella ciudad de tiempo antiguo se levanta contra los reyes, y se rebela, y se forma en ella sedición: 
+@20 Y que reyes fuertes hubo en Jerusalem, quienes señorearon en todo lo que está á la parte allá del río; y que tributo, y pecho, y rentas se les daba. 
+@21 Ahora pues dad orden que cesen aquellos hombres, y no sea esa ciudad edificada, hasta que por mí sea dado mandamiento. 
+@22 Y mirad bien que no hagáis error en esto: ¿por qué habrá de crecer el daño para perjuicio de los reyes? 
+@23 Entonces, cuando el traslado de la carta del rey Artajerjes fué leído delante de Rehum, y de Simsai secretario, y sus compañeros, fueron prestamente á Jerusalem á los Judíos, é hiciéronles cesar con poder y fuerza. 
+@24 Cesó entonces la obra de la casa de Dios, la cual estaba en Jerusalem: y cesó hasta el año segundo del reinado de Darío rey de Persia. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 4
 ## Refusal of the Samaritans to participate in the construction of the temple
-^1^ Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel, ^2^ they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.” ^3^ But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.” ^4^ Then the people of the land weakened the hands of the people of Judah, and troubled them in building. ^5^ They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
+@1 Now when the adversaries of Judah and Benjamin heard that the children of the captivity were building a temple to Yahweh, the God of Israel, 
+@2 they came near to Zerubbabel, and to the heads of fathers’ households, and said to them, “Let us build with you, for we seek your God as you do; and we have been sacrificing to him since the days of Esar Haddon king of Assyria, who brought us up here.” 
+
+@3 But Zerubbabel, Jeshua, and the rest of the heads of fathers’ households of Israel said to them, “You have nothing to do with us in building a house to our God; but we ourselves together will build to Yahweh, the God of Israel, as King Cyrus the king of Persia has commanded us.” 
+
+@4 Then the people of the land weakened the hands of the people of Judah, and troubled them in building. 
+@5 They hired counselors against them to frustrate their purpose all the days of Cyrus king of Persia, even until the reign of Darius king of Persia.
 
 ## Various accusations against the Jews and their temple and the construction of walls under the rule of Xerxes and Artaxerxes
-^6^ In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. ^7^ In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language. ^8^ Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows. ^9^ Then Rehum the chancellor, Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites, ^10^ and the rest of the nations whom the great and noble Osnappar brought over and settled in the city of Samaria, and in the rest of the country beyond the River, and so forth, wrote. ^11^ This is the copy of the letter that they sent: To King Artaxerxes, from your servants, the people beyond the River. i1 ^12^ Be it known to the king that the Jews who came up from you have come to us to Jerusalem. They are building the rebellious and bad city, and have finished the walls and repaired the foundations. ^13^ Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings. ^14^ Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king, ^15^ that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed. ^16^ We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River.
+@6 In the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem. 
+
+@7 In the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his companions wrote to Artaxerxes king of Persia; and the writing of the letter was written in Syrian and delivered in the Syrian language. 
+@8 Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king as follows. 
+@9 Then Rehum the chancellor, Shimshai the scribe, and the rest of their companions, the Dinaites, and the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Shushanchites, the Dehaites, the Elamites, 
+@10 and the rest of the nations whom the great and noble Osnappar brought over and settled in the city of Samaria, and in the rest of the country beyond the River, and so forth, wrote. 
+
+@11 This is the copy of the letter that they sent: To King Artaxerxes, from your servants, the people beyond the River. 
+
+i1
+@12 Be it known to the king that the Jews who came up from you have come to us to Jerusalem. They are building the rebellious and bad city, and have finished the walls and repaired the foundations. 
+@13 Be it known now to the king that if this city is built and the walls finished, they will not pay tribute, custom, or toll, and in the end it will be hurtful to the kings. 
+@14 Now because we eat the salt of the palace and it is not appropriate for us to see the king’s dishonor, therefore we have sent and informed the king, 
+@15 that search may be made in the book of the records of your fathers. You will see in the book of the records, and know that this city is a rebellious city, and hurtful to kings and provinces, and that they have started rebellions within it in the past. That is why this city was destroyed. 
+@16 We inform the king that if this city is built and the walls finished, then you will have no possession beyond the River.
 
 ## The construction of the temple was paralyzed as a result of a royal decree
-^17^ Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace. i1 ^18^ The letter which you sent to us has been plainly read before me. ^19^ I decreed, and search has been made, and it was found that this city has made insurrection against kings in the past, and that rebellion and revolts have been made in it. ^20^ There have also been mighty kings over Jerusalem who have ruled over all the country beyond the River; and tribute, custom, and toll was paid to them. ^21^ Make a decree now to cause these men to cease, and that this city not be built until a decree is made by me. ^22^ Be careful that you not be slack doing so. Why should damage grow to the hurt of the kings? ^23^ Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms. ^24^ Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia. 
+@17 Then the king sent an answer to Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions who live in Samaria, and in the rest of the country beyond the River: Peace. 
+
+i1
+@18 The letter which you sent to us has been plainly read before me. 
+@19 I decreed, and search has been made, and it was found that this city has made insurrection against kings in the past, and that rebellion and revolts have been made in it. 
+@20 There have also been mighty kings over Jerusalem who have ruled over all the country beyond the River; and tribute, custom, and toll was paid to them. 
+@21 Make a decree now to cause these men to cease, and that this city not be built until a decree is made by me. 
+@22 Be careful that you not be slack doing so. Why should damage grow to the hurt of the kings? 
+
+@23 Then when the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their companions, they went in haste to Jerusalem to the Jews, and made them to cease by force of arms. 
+@24 Then work stopped on God’s house which is at Jerusalem. It stopped until the second year of the reign of Darius king of Persia. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 5
 ## Profecías favorables de dos profetas; Permiso del gobernador para reanudar la construcción
-^1^ Los profetas Hageo y Zacarías, hijo de Iddo, profetizaron a los judíos que estaban en Judá y Jerusalén. Les profetizaron en nombre del Dios de Israel. ^a^ ^2^ Entonces Zorobabel, hijo de Salatiel, y Jesúa, hijo de Josadac, se levantaron y comenzaron a edificar la casa de Dios que está en Jerusalén; y con ellos estaban los profetas de Dios, ayudándoles.
-^a^[**5:1** Hag 1,1; Zac 1,1]
+@1 Y profetizaron Haggeo profeta, y Zacarías hijo de Iddo, profetas, á los Judíos que estaban en Judá y en Jerusalem yendo en nombre del Dios de Israel á ellos. 
+@2 Entonces se levantaron Zorobabel hijo de Sealthiel, y Jesuá hijo de Josadec; y comenzaron á edificar la casa de Dios que estaba en Jerusalem; y con ellos los profetas de Dios que les ayudaban.
 
-^3^ Al mismo tiempo Tattenai, el gobernador del otro lado del río, se acercó a ellos, con Shetharbozenai y sus compañeros, y les preguntó: “¿Quién les dio un decreto para construir esta casa y terminar este muro?” ^4^ También preguntaron por los nombres de los hombres que estaban haciendo este edificio. ^5^ Pero el ojo de su Dios estaba sobre los ancianos de los judíos, y no los hicieron cesar hasta que el asunto llegara a Darío y se les respondiera por carta al respecto. ^a^
-^a^[**5:5** Deut 11,12; 1Re 8,29]
+@3 En aquel tiempo vino á ellos Tatnai, capitán de la parte allá del río, y Sethar-boznai y sus compañeros, y dijéronles así: ¿Quién os dió mandamiento para edificar esta casa, y restablecer estos muros? 
+@4 Entonces les dijimos en orden á esto cuáles eran los nombres de los varones que edificaban este edificio. 
+@5 Mas los ojos de su Dios fueron sobre los ancianos de los Judíos, y no les hicieron cesar hasta que el negocio viniese á Darío: y entonces respondieron por carta sobre esto.
 
 ## Informe e investigación del gobernador al rey Darío sobre la construcción del templo
-^6^ A continuación se presenta la copia de la carta que Tattenai, el gobernador del otro lado del río, y Shetharbozenai, y sus compañeros los afarsacianos que estaban al otro lado del río, enviaron al rey Darío. ^7^ Le enviaron una carta en la que estaba escrito: Al rey Darío, toda la paz. ^8^ Sepa el rey que fuimos a la provincia de Judá, a la casa del gran Dios, que se está construyendo con grandes piedras y se colocan maderas en las paredes. Esta obra avanza con diligencia y prospera en sus manos. ^9^ Entonces preguntamos a esos ancianos y les dijimos así: “¿Quién os ha dado el decreto de construir esta casa y de terminar este muro?” ^10^ Les preguntamos también sus nombres, para informarles de que podíamos escribir los nombres de los hombres que estaban a su cabeza. ^11^ Ellos nos respondieron diciendo: “Nosotros somos los siervos del Dios del cielo y de la tierra y estamos construyendo la casa que se edificó hace tantos años, que un gran rey de Israel construyó y terminó. ^12^ Pero después que nuestros padres provocaron la ira del Dios del cielo, él los entregó en manos de Nabucodonosor, rey de Babilonia, el caldeo, quien destruyó esta casa y llevó al pueblo a Babilonia. ^a^ ^13^ Pero en el primer año de Ciro, rey de Babilonia, el rey Ciro hizo un decreto para construir esta casa de Dios. ^b^ ^14^ Los utensilios de oro y plata de la casa de Dios, que Nabucodonosor sacó del templo que estaba en Jerusalén y los llevó al templo de Babilonia, los sacó también el rey Ciro del templo de Babilonia, y fueron entregados a uno que se llamaba Sesbasar, a quien había nombrado gobernador. ^c^ ^15^ Este le dijo: “Toma estos utensilios, ve y ponlos en el templo que está en Jerusalén, y que se construya la casa de Dios en su lugar”. ^16^ Entonces vino el mismo Sesbasar y puso los cimientos de la casa de Dios que está en Jerusalén. Desde entonces hasta ahora se ha estado construyendo, y aún no se ha terminado. ^17^ Ahora, pues, si al rey le parece bien, que se investigue en la casa del tesoro del rey, que está allí en Babilonia, si es cierto que el rey Ciro decretó la construcción de esta casa de Dios en Jerusalén; y que el rey nos envíe su beneplácito sobre este asunto.”
-^a^[**5:12** 2Re 25,9] ^b^[**5:13** Esd 1,1] ^c^[**5:14** Esd 1,8]
+@6 Traslado de la carta que Tatnai, capitán de la parte allá del río, y Sethar-boznai, y sus compañeros los Apharsachêos, que estaban á la parte allá del río, enviaron al rey Darío. 
+@7 Enviáronle carta, y de esta manera estaba escrito en ella. Al rey Darío toda paz.
+
+@8 Sea notorio al rey, que fuimos á la provincia de Judea, á la casa del gran Dios, la cual se edifica de piedra de mármol; y los maderos son puestos en las paredes, y la obra se hace apriesa, y prospera en sus manos. 
+@9 Entonces preguntamos á los ancianos, diciéndoles así: ¿Quién os dió mandamiento para edificar esta casa, y para restablecer estos muros? 
+@10 Y también les preguntamos sus nombres para hacértelo saber, para escribirte los nombres de los varones que estaban por cabezas de ellos. 
+@11 Y respondiéronnos, diciendo así: Nosotros somos siervos del Dios del cielo y de la tierra, y reedificamos la casa que ya muchos años antes había sido edificada, la cual edificó y fundó el gran rey de Israel. 
+@12 Mas después que nuestros padres ensañaron al Dios de los cielos, él los entregó en mano de Nabucodonosor rey de Babilonia, Caldeo, el cual destruyó esta casa, é hizo trasportar el pueblo á Babilonia. 
+@13 Empero el primer año de Ciro rey de Babilonia, el mismo rey Ciro dió mandamiento para que esta casa de Dios fuese edificada. 
+@14 Y también los vasos de oro y de plata de la casa de Dios, que Nabucodonosor había sacado del templo que estaba en Jerusalem, y los había metido en el templo de Babilonia, el rey Ciro los sacó del templo de Babilonia, y fueron entregados á Sesbassar, al cual había puesto por gobernador; 
+@15 Y le dijo: Toma estos vasos, ve y ponlos en el templo que está en Jerusalem; y la casa de Dios sea edificada en su lugar. 
+@16 Entonces este Sesbassar vino, y puso los fundamentos de la casa de Dios que estaba en Jerusalem, y desde entonces hasta ahora se edifica, y aun no está acabada.
+
+@17 Y ahora, si al rey parece bien, búsquese en la casa de los tesoros del rey que está allí en Babilonia, si es así que por el rey Ciro había sido dado mandamiento para edificar esta casa de Dios en Jerusalem, y envíenos á decir la voluntad del rey sobre esto. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 5
 ## Favorable prophecies of two prophets; Governor's permission to resume construction
-^1^ Now the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem. They prophesied to them in the name of the God of Israel. ^2^ Then Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak rose up and began to build God’s house which is at Jerusalem; and with them were the prophets of God, helping them. ^3^ At the same time Tattenai, the governor beyond the River, came to them, with Shetharbozenai and their companions, and asked them, “Who gave you a decree to build this house and to finish this wall?” ^4^ They also asked for the names of the men were who were making this building. ^5^ But the eye of their God was on the elders of the Jews, and they didn’t make them cease until the matter should come to Darius, and an answer should be returned by letter concerning it.
+@1 Now the prophets, Haggai the prophet and Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem. They prophesied to them in the name of the God of Israel. 
+@2 Then Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak rose up and began to build God’s house which is at Jerusalem; and with them were the prophets of God, helping them. 
+
+@3 At the same time Tattenai, the governor beyond the River, came to them, with Shetharbozenai and their companions, and asked them, “Who gave you a decree to build this house and to finish this wall?” 
+@4 They also asked for the names of the men were who were making this building. 
+@5 But the eye of their God was on the elders of the Jews, and they didn’t make them cease until the matter should come to Darius, and an answer should be returned by letter concerning it.
 
 ## Governor's report and investigation to King Darius on the construction of the temple
-^6^ The copy of the letter that Tattenai, the governor beyond the River, and Shetharbozenai, and his companions the Apharsachites who were beyond the River, sent to Darius the king follows. ^7^ They sent a letter to him, in which was written: To Darius the king, all peace. i1 ^8^ Be it known to the king that we went into the province of Judah, to the house of the great God, which is being built with great stones and timber is laid in the walls. This work goes on with diligence and prospers in their hands. ^9^ Then we asked those elders, and said to them thus, “Who gave you a decree to build this house, and to finish this wall?” ^10^ We asked them their names also, to inform you that we might write the names of the men who were at their head. ^11^ Thus they returned us answer, saying, “We are the servants of the God of heaven and earth and are building the house that was built these many years ago, which a great king of Israel built and finished. ^12^ But after our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried the people away into Babylon. ^13^ But in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God. ^14^ The gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple that was in Jerusalem and brought into the temple of Babylon, those Cyrus the king also took out of the temple of Babylon, and they were delivered to one whose name was Sheshbazzar, whom he had made governor. ^15^ He said to him, ‘Take these vessels, go, put them in the temple that is in Jerusalem, and let God’s house be built in its place.’ ^16^ Then the same Sheshbazzar came and laid the foundations of God’s house which is in Jerusalem. Since that time even until now it has been being built, and yet it is not completed. i1 ^17^ Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so that a decree was made by Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.” 
+@6 The copy of the letter that Tattenai, the governor beyond the River, and Shetharbozenai, and his companions the Apharsachites who were beyond the River, sent to Darius the king follows. 
+@7 They sent a letter to him, in which was written: To Darius the king, all peace. 
+
+i1
+@8 Be it known to the king that we went into the province of Judah, to the house of the great God, which is being built with great stones and timber is laid in the walls. This work goes on with diligence and prospers in their hands. 
+@9 Then we asked those elders, and said to them thus, “Who gave you a decree to build this house, and to finish this wall?” 
+@10 We asked them their names also, to inform you that we might write the names of the men who were at their head. 
+@11 Thus they returned us answer, saying, “We are the servants of the God of heaven and earth and are building the house that was built these many years ago, which a great king of Israel built and finished. 
+@12 But after our fathers had provoked the God of heaven to wrath, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried the people away into Babylon. 
+@13 But in the first year of Cyrus king of Babylon, Cyrus the king made a decree to build this house of God. 
+@14 The gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple that was in Jerusalem and brought into the temple of Babylon, those Cyrus the king also took out of the temple of Babylon, and they were delivered to one whose name was Sheshbazzar, whom he had made governor. 
+@15 He said to him, ‘Take these vessels, go, put them in the temple that is in Jerusalem, and let God’s house be built in its place.’ 
+@16 Then the same Sheshbazzar came and laid the foundations of God’s house which is in Jerusalem. Since that time even until now it has been being built, and yet it is not completed. 
+
+i1
+@17 Now therefore, if it seems good to the king, let a search be made in the king’s treasure house, which is there at Babylon, whether it is so that a decree was made by Cyrus the king to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 6
 ## Encontrar el decreto de Cyrus en Ekbatana e información de él
-^1^ Entonces el rey Darío dictó un decreto, y se registró la casa de los archivos, donde se guardaban los tesoros en Babilonia. ^2^ Se encontró un pergamino en Acmetá, en el palacio que está en la provincia de Media, y en él se escribió esto para que quede constancia: ^3^ En el primer año del rey Ciro, éste dictó un decreto: En cuanto a la casa de Dios en Jerusalén, que se construya la casa, el lugar donde se ofrecen los sacrificios, y que se pongan sus cimientos con fuerza, con su altura de sesenta codos y su anchura de sesenta codos; ^a^ ^4^ con tres hileras de grandes piedras y una hilera de madera nueva. Que los gastos sean dados de la casa del rey. ^5^ También que los utensilios de oro y plata de la casa de Dios, que Nabucodonosor sacó del templo que está en Jerusalén y llevó a Babilonia, sean restaurados y llevados de nuevo al templo que está en Jerusalén, cada cosa a su lugar. Los pondrás en la casa de Dios.
-^a^[**6:3** Esd 1,1]
+@1 Entonces el rey Darío dió mandamiento, y buscaron en la casa de los libros, donde guardaban los tesoros allí en Babilonia. 
+@2 Y fué hallado en Achmetta, en el palacio que está en la provincia de Media, un libro, dentro del cual estaba escrito así: Memoria: 
+@3 En el año primero del rey Ciro, el mismo rey Ciro dió mandamiento acerca de la casa de Dios que estaba en Jerusalem, que fuese la casa edificada para lugar en que sacrifiquen sacrificios, y que sus paredes fuesen cubiertas; su altura de sesenta codos, y de sesenta codos su anchura; 
+@4 Los órdenes, tres de piedra de mármol, y un orden de madera nueva: y que el gasto sea dado de la casa del rey. 
+@5 Y también los vasos de oro y de plata de la casa de Dios, que Nabucodonosor sacó del templo que estaba en Jerusalem y los pasó á Babilonia, sean devueltos y vayan al templo que está en Jerusalem, á su lugar, y sean puestos en la casa de Dios.
 
 ## Decreto de Darío para continuar sin trabas y promover la construcción del templo
-^6^ Ahora, pues, Tattenai, gobernador del otro lado del río, Shetarbozenai, y tus compañeros los afarsaquitas, que están al otro lado del río, debes permanecer lejos de allí. ^7^ Dejad la obra de esta casa de Dios; dejad que el gobernador de los judíos y los ancianos de los judíos construyan esta casa de Dios en su lugar. ^8^ Además, yo dicto lo que haréis por estos ancianos de los judíos para la construcción de esta casa de Dios: que de los bienes del rey, incluso del tributo más allá del Río, se den gastos con toda diligencia a estos hombres, para que no sean estorbados. ^9^ Lo que necesiten, incluyendo novillos, carneros y corderos, para los holocaustos al Dios del cielo; también trigo, sal, vino y aceite, según la palabra de los sacerdotes que están en Jerusalén, que se les dé día a día sin falta, ^10^ para que ofrezcan sacrificios de agradable aroma al Dios del cielo, y oren por la vida del rey y de sus hijos. ^11^ También he decretado que al que altere este mensaje, se le arranque una viga de su casa y se le sujete a ella, y que su casa se convierta en un estercolero por esto. ^12^ Que el Dios que ha hecho habitar su nombre derribe a todos los reyes y pueblos que extiendan su mano para alterar esto, para destruir esta casa de Dios que está en Jerusalén. Yo, Darío, he hecho un decreto. Que se haga con toda diligencia.
+@6 Ahora pues, Tatnai, jefe del lado allá del río, Sethar-boznai, y sus compañeros los Apharsachêos que estáis á la otra parte del río, apartaos de ahí. 
+@7 Dejad la obra de la casa de este Dios al principal de los Judíos, y á sus ancianos, para que edifiquen la casa de este Dios en su lugar. 
+@8 Y por mí es dado mandamiento de lo que habéis de hacer con los ancianos de estos Judíos, para edificar la casa de este Dios: que de la hacienda del rey, que tiene del tributo de la parte allá del río, los gastos sean dados luego á aquellos varones, para que no cesen. 
+@9 Y lo que fuere necesario, becerros y carneros y corderos, para holocaustos al Dios del cielo, trigo, sal, vino y aceite, conforme á lo que dijeren los sacerdotes que están en Jerusalem, déseles cada un día sin obstáculo alguno; 
+@10 Para que ofrezcan olores de holganza al Dios del cielo, y oren por la vida del rey y por sus hijos. 
+@11 También es dado por mí mandamiento, que cualquiera que mudare este decreto, sea derribado un madero de su casa, y enhiesto, sea colgado en él: y su casa sea hecha muladar por esto. 
+@12 Y el Dios que hizo habitar allí su nombre, destruya todo rey y pueblo que pusiere su mano para mudar ó destruir esta casa de Dios, la cual está en Jerusalem. Yo Darío puse el decreto: sea hecho prestamente.
 
 ## Terminación y dedicación solemne del templo
-^13^ Entonces Tattenai, el gobernador del otro lado del río, Shetharbozenai y sus compañeros hicieron lo correspondiente con toda diligencia, porque el rey Darío había enviado un decreto.
+@13 Entonces Tatnai, gobernador del otro lado del río, y Sethar-boznai, y sus compañeros, hicieron prestamente según el rey Darío había enviado.
 
-^14^ Los ancianos de los judíos construyeron y prosperaron, por la profecía del profeta Ageo y de Zacarías, hijo de Iddo. La edificaron y la terminaron, según el mandato del Dios de Israel, y según el decreto de Ciro, de Darío y de Artajerjes, rey de Persia. ^15^ Esta casa fue terminada el tercer día del mes de Adar, que fue en el sexto año del reinado del rey Darío. ^a^
-^a^[**6:15** Esd 4,24]
+@14 Y los ancianos de los Judíos edificaban y prosperaban, conforme á la profecía de Haggeo profeta, y de Zacarías hijo de Iddo. Edificaron pues, y acabaron, por el mandamiento del Dios de Israel, y por el mandamiento de Ciro, y de Darío, y de Artajerjes rey de Persia. 
+@15 Y esta casa fué acabada al tercer día del mes de Adar, que era el sexto año del reinado del rey Darío.
 
-^16^ Los hijos de Israel, los sacerdotes, los levitas y el resto de los hijos del cautiverio, celebraron la dedicación de esta casa de Dios con alegría. ^a^ ^17^ Ofrecieron en la dedicación de esta casa de Dios cien toros, doscientos carneros y cuatrocientos corderos; y como ofrenda por el pecado para todo Israel, doce machos cabríos, según el número de las tribus de Israel. ^b^ ^18^ Pusieron a los sacerdotes en sus divisiones y a los levitas en sus turnos, para el servicio de Dios que está en Jerusalén, como está escrito en el libro de Moisés. ^c^
-^a^[**6:16** Núm 7,10; 1Re 8,62-66] ^b^[**6:17** Esd 8,35] ^c^[**6:18** Núm 3,6; Núm 8,24]
+@16 Y los hijos de Israel, los sacerdotes y los Levitas, y los demás que habían venido de la trasportación, hicieron la dedicación de esta casa de Dios con gozo. 
+@17 Y ofrecieron en la dedicación de esta casa de Dios cien becerros, doscientos carneros, cuatrocientos corderos; y machos de cabrío en expiación por todo Israel, doce, conforme al número de las tribus de Israel. 
+@18 Y pusieron á los sacerdotes en sus clases, y á los Levitas en sus divisiones, sobre la obra de Dios que está en Jerusalem, conforme á lo escrito en el libro de Moisés.
 
 ## Celebración de la Pascua
-^19^ Los hijos del cautiverio celebraron la Pascua el día catorce del primer mes. ^a^ ^20^ Como los sacerdotes y los levitas se habían purificado juntos, todos ellos estaban puros. Mataron la Pascua por todos los hijos del cautiverio, por sus hermanos los sacerdotes y por ellos mismos. ^21^ Los hijos de Israel que habían regresado del cautiverio, y todos los que se habían separado de la inmundicia de las naciones del país para buscar a Yavé, el Dios de Israel, comieron, ^22^ y celebraron con alegría la fiesta de los panes sin levadura durante siete días, porque Yavé los había alegrado y había hecho volver el corazón del rey de Asiria hacia ellos, para fortalecer sus manos en la obra de Dios, el Dios de la casa de Israel.
-^a^[**6:19** Éxod 12,6]
+@19 Y los de la transmigración hicieron la pascua á los catorce del mes primero. 
+@20 Porque los sacerdotes y los Levitas se habían purificado á una; todos fueron limpios: y sacrificaron la pascua por todos los de la transmigración, y por sus hermanos los sacerdotes, y por sí mismos. 
+@21 Y comieron los hijos de Israel que habían vuelto de la transmigración, y todos los que se habían apartado á ellos de la inmundicia de las gentes de la tierra, para buscar á Jehová Dios de Israel. 
+@22 Y celebraron la solemnidad de los panes ázimos siete días con regocijo, por cuanto Jehová los había alegrado, y convertido el corazón del rey de Asiria á ellos, para esforzar sus manos en la obra de la casa de Dios, del Dios de Israel. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 6
 ## Find Cyrus decree in Ekbatana and information about it
-^1^ Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched. ^2^ A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record: i1 ^3^ In the first year of Cyrus the king, Cyrus the king made a decree: Concerning God’s house at Jerusalem, let the house be built, the place where they offer sacrifices, and let its foundations be strongly laid, with its height sixty cubits^a^ and its width sixty cubits; ^4^ with three courses of great stones and a course of new timber. Let the expenses be given out of the king’s house. ^5^ Also let the gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple which is at Jerusalem and brought to Babylon, be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God’s house. i1
+@1 Then Darius the king made a decree, and the house of the archives, where the treasures were laid up in Babylon, was searched. 
+@2 A scroll was found at Achmetha, in the palace that is in the province of Media, and in it this was written for a record: 
+
+i1
+@3 In the first year of Cyrus the king, Cyrus the king made a decree: Concerning God’s house at Jerusalem, let the house be built, the place where they offer sacrifices, and let its foundations be strongly laid, with its height sixty cubits^a^ and its width sixty cubits; 
+@4 with three courses of great stones and a course of new timber. Let the expenses be given out of the king’s house. 
+@5 Also let the gold and silver vessels of God’s house, which Nebuchadnezzar took out of the temple which is at Jerusalem and brought to Babylon, be restored and brought again to the temple which is at Jerusalem, everything to its place. You shall put them in God’s house. 
 ^a^[**6:3** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters.]
 
+i1
+
 ## Decree of Darius to continue unhindered and promote the construction of the temple
-^6^ Now therefore, Tattenai, governor beyond the River, Shetharbozenai, and your companions the Apharsachites, who are beyond the River, you must stay far from there. ^7^ Leave the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in its place. ^8^ Moreover I make a decree regarding what you shall do for these elders of the Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the River, expenses must be given with all diligence to these men, that they not be hindered. ^9^ That which they have need of, including young bulls, rams, and lambs, for burnt offerings to the God of heaven; also wheat, salt, wine, and oil, according to the word of the priests who are at Jerusalem, let it be given them day by day without fail, ^10^ that they may offer sacrifices of pleasant aroma to the God of heaven, and pray for the life of the king and of his sons. ^11^ I have also made a decree that whoever alters this message, let a beam be pulled out from his house, and let him be lifted up and fastened on it; and let his house be made a dunghill for this. ^12^ May the God who has caused his name to dwell there overthrow all kings and peoples who stretch out their hand to alter this, to destroy this house of God which is at Jerusalem. I Darius have made a decree. Let it be done with all diligence.
+@6 Now therefore, Tattenai, governor beyond the River, Shetharbozenai, and your companions the Apharsachites, who are beyond the River, you must stay far from there. 
+@7 Leave the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in its place. 
+@8 Moreover I make a decree regarding what you shall do for these elders of the Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the River, expenses must be given with all diligence to these men, that they not be hindered. 
+@9 That which they have need of, including young bulls, rams, and lambs, for burnt offerings to the God of heaven; also wheat, salt, wine, and oil, according to the word of the priests who are at Jerusalem, let it be given them day by day without fail, 
+@10 that they may offer sacrifices of pleasant aroma to the God of heaven, and pray for the life of the king and of his sons. 
+@11 I have also made a decree that whoever alters this message, let a beam be pulled out from his house, and let him be lifted up and fastened on it; and let his house be made a dunghill for this. 
+@12 May the God who has caused his name to dwell there overthrow all kings and peoples who stretch out their hand to alter this, to destroy this house of God which is at Jerusalem. I Darius have made a decree. Let it be done with all diligence.
 
 ## Completion and solemn dedication of the temple
-^13^ Then Tattenai, the governor beyond the River, Shetharbozenai, and their companions did accordingly with all diligence, because Darius the king had sent a decree. ^14^ The elders of the Jews built and prospered, through the prophesying of Haggai the prophet and Zechariah the son of Iddo. They built and finished it, according to the commandment of the God of Israel, and according to the decree of Cyrus, Darius, and Artaxerxes king of Persia. ^15^ This house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king. ^16^ The children of Israel, the priests, the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy. ^17^ They offered at the dedication of this house of God one hundred bulls, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel. ^18^ They set the priests in their divisions and the Levites in their courses, for the service of God which is at Jerusalem, as it is written in the book of Moses.
+@13 Then Tattenai, the governor beyond the River, Shetharbozenai, and their companions did accordingly with all diligence, because Darius the king had sent a decree. 
+
+@14 The elders of the Jews built and prospered, through the prophesying of Haggai the prophet and Zechariah the son of Iddo. They built and finished it, according to the commandment of the God of Israel, and according to the decree of Cyrus, Darius, and Artaxerxes king of Persia. 
+@15 This house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king. 
+
+@16 The children of Israel, the priests, the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy. 
+@17 They offered at the dedication of this house of God one hundred bulls, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve male goats, according to the number of the tribes of Israel. 
+@18 They set the priests in their divisions and the Levites in their courses, for the service of God which is at Jerusalem, as it is written in the book of Moses.
 
 ## Easter Celebration
-^19^ The children of the captivity kept the Passover on the fourteenth day of the first month. ^20^ Because the priests and the Levites had purified themselves together, all of them were pure. They killed the Passover for all the children of the captivity, for their brothers the priests, and for themselves. ^21^ The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek Yahweh, the God of Israel, ate, ^22^ and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house. 
+@19 The children of the captivity kept the Passover on the fourteenth day of the first month. 
+@20 Because the priests and the Levites had purified themselves together, all of them were pure. They killed the Passover for all the children of the captivity, for their brothers the priests, and for themselves. 
+@21 The children of Israel who had returned out of the captivity, and all who had separated themselves to them from the filthiness of the nations of the land to seek Yahweh, the God of Israel, ate, 
+@22 and kept the feast of unleavened bread seven days with joy; because Yahweh had made them joyful, and had turned the heart of the king of Assyria to them, to strengthen their hands in the work of God, the God of Israel’s house. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 7
 ## El regreso de Esdras y su banda de Babilonia a Jerusalén
-^1^ Después de esto, en el reinado de Artajerjes, rey de Persia, Esdras, hijo de Seraías, hijo de Azarías, hijo de Hilcías, ^a^ ^2^ hijo de Salum, hijo de Sadoc, hijo de Ajitub, ^3^ hijo de Amarías hijo de Azarías, hijo de Meraiot, ^4^ hijo de Zerahías, hijo de Uzi, hijo de Bukki, ^5^ hijo de Abisúa, hijo de Finehas, hijo de Eleazar, hijo de Aarón, el sumo sacerdote — ^6^ este Esdras subió de Babilonia. Era un escriba experto en la ley de Moisés, que Yahvé, el Dios de Israel, había dado; y el rey le concedió toda su petición, según la mano de Yahvé, su Dios, sobre él. ^b^ ^7^ Algunos de los hijos de Israel, entre ellos algunos de los sacerdotes, los levitas, los cantores, los porteros y los servidores del templo, subieron a Jerusalén en el séptimo año del rey Artajerjes. ^c^ ^8^ Llegó a Jerusalén en el quinto mes, que era el séptimo año del rey. ^9^ Porque el primer día del primer mes comenzó a subir de Babilonia, y el primer día del quinto mes llegó a Jerusalén, según la buena mano de su Dios sobre él. ^d^ ^10^ Porque Esdras había puesto su corazón en buscar la ley de Yahvé y en ponerla en práctica, y en enseñar los estatutos y los reglamentos en Israel.
-^a^[**7:1** 1Cró 6,14] ^b^[**7:6** Esd 7,9; Esd 7,28; Esd 8,18; Esd 8,22; Neh 2,8] ^c^[**7:7** Esd 2,43] ^d^[**7:9** Esd 7,6]
+@1 Pasadas estas cosas, en el reinado de Artajerjes rey de Persia, Esdras, hijo de Seraías, hijo de Azarías, hijo de Hilcías, 
+@2 Hijo de Sallum, hijo de Sadoc, hijo de Achîtob, 
+@3 Hijo de Amarías, hijo de Azarías, hijo de Meraioth, 
+@4 Hijo de Zeraías, hijo de Uzzi, hijo de Bucci, 
+@5 Hijo de Abisue, hijo de Phinees, hijo de Eleazar, hijo de Aarón, primer sacerdote: 
+@6 Este Esdras subió de Babilonia, el cual era escriba diligente en la ley de Moisés, que Jehová Dios de Israel había dado; y concedióle el rey, según la mano de Jehová su Dios sobre él, todo lo que pidió. 
+@7 Y subieron con él á Jerusalem de los hijos de Israel, y de los sacerdotes, y Levitas, y cantores, y porteros, y Nethineos, en el séptimo año del rey Artajerjes. 
+@8 Y llegó á Jerusalem en el mes quinto, el año séptimo del rey. 
+@9 Porque el día primero del primer mes fué el principio de la partida de Babilonia, y al primero del mes quinto llegó á Jerusalem, según la buena mano de su Dios sobre él. 
+@10 Porque Esdras había preparado su corazón para inquirir la ley de Jehová, y para hacer y enseñar á Israel mandamientos y juicios.
 
 ## Redacción de la carta real (= carta de salvoconducto) con detalles de los poderes otorgados a Ezra
-^11^ Esta es la copia de la carta que el rey Artajerjes dio al sacerdote Esdras, el escriba de las palabras de los mandamientos de Yahvé y de sus estatutos para Israel: ^12^ Artajerjes, rey de reyes, Al sacerdote Esdras, el escriba de la ley del Dios perfecto del cielo. Ahora bien, ^a^ ^13^ yo decreto que todos los del pueblo de Israel y sus sacerdotes y los levitas de mi reino, que tengan la intención de ir por su propia voluntad a Jerusalén, vayan con vosotros. ^14^ Porque habéis sido enviados por el rey y sus siete consejeros para investigar sobre Judá y Jerusalén, según la ley de vuestro Dios que está en vuestra mano, ^15^ y para llevar la plata y el oro que el rey y sus consejeros han ofrecido voluntariamente al Dios de Israel, cuya morada está en Jerusalén, ^16^ y toda la plata y el oro que encontraréis en toda la provincia de Babilonia, con la ofrenda voluntaria del pueblo y de los sacerdotes, ofreciendo voluntariamente para la casa de su Dios que está en Jerusalén. ^17^ Por lo tanto, con toda diligencia comprarás con este dinero toros, carneros y corderos con sus ofrendas de comida y sus libaciones, y los ofrecerás en el altar de la casa de tu Dios que está en Jerusalén. ^18^ Lo que os parezca bien a vosotros y a vuestros hermanos hacer con el resto de la plata y del oro, hacedlo según la voluntad de vuestro Dios. ^19^ Los utensilios que se te den para el servicio de la casa de tu Dios, entrégalos ante el Dios de Jerusalén. ^20^ Todo lo que se necesite para la casa de tu Dios, y que tengas ocasión de dar, dalo de la casa del tesoro del rey. ^21^ Yo, el rey Artajerjes, decreto a todos los tesoreros que están al otro lado del río, que todo lo que el sacerdote Esdras, escriba de la ley del Dios del cielo, os pida, lo hagáis con toda diligencia, ^22^ hasta cien talentos de plata, y hasta cien cors de trigo, y hasta cien baños de vino, y hasta cien baños de aceite, y sal sin prescribir cuánto. ^23^ Todo lo que sea ordenado por el Dios del cielo, hágase exactamente para la casa del Dios del cielo; porque ¿por qué habría de haber ira contra el reino del rey y de sus hijos? ^24^ También les informamos que no será lícito imponer tributo, costumbre o peaje a ninguno de los sacerdotes, levitas, cantores, porteros, servidores del templo o trabajadores de esta casa de Dios. ^25^ Tú, Esdras, según la sabiduría de tu Dios que está en tu mano, nombra magistrados y jueces que puedan juzgar a todo el pueblo que está al otro lado del río, que todos conozcan las leyes de tu Dios; y enseña al que no las conozca. ^26^ El que no cumpla la ley de tu Dios y la ley del rey, que se ejecute sobre él el juicio con toda diligencia, ya sea a muerte, ya sea a destierro, ya sea a confiscación de bienes, ya sea a prisión.
-^a^[**7:12** Ezeq 26,7]
+@11 Y este es el traslado de la carta que dió el rey Artajerjes á Esdras, sacerdote escriba, escriba de las palabras mandadas de Jehová, y de sus estatutos á Israel: 
+@12 Artajerjes, rey de los reyes, á Esdras sacerdote, escriba perfecto de la ley del Dios del cielo: Salud, etc.
+
+@13 Por mí es dado mandamiento, que cualquiera que quisiere en mi reino, del pueblo de Israel y de sus sacerdotes y Levitas, ir contigo á Jerusalem, vaya. 
+@14 Porque de parte del rey y de sus siete consultores eres enviado á visitar á Judea y á Jerusalem, conforme á la ley de tu Dios que está en tu mano; 
+@15 Y á llevar la plata y el oro que el rey y sus consultores voluntariamente ofrecen al Dios de Israel, cuya morada está en Jerusalem; 
+@16 Y toda la plata y el oro que hallares en toda la provincia de Babilonia, con las ofrendas voluntarias del pueblo y de los sacerdotes, que de su voluntad ofrecieren para la casa de su Dios que está en Jerusalem. 
+@17 Comprarás pues prestamente con esta plata becerros, carneros, corderos, con sus presentes y sus libaciones, y los ofrecerás sobre el altar de la casa de vuestro Dios que está en Jerusalem. 
+@18 Y lo que á ti y á tus hermanos pluguiere hacer de la otra plata y oro, hacedlo conforme á la voluntad de vuestro Dios. 
+@19 Y los vasos que te son entregados para el servicio de la casa de tu Dios, los restituirás delante de Dios en Jerusalem. 
+@20 Y lo demás necesario para la casa de tu Dios que te fuere menester dar, daráslo de la casa de los tesoros del rey.
+
+@21 Y por mí el rey Artajerjes es dado mandamiento á todos los tesoreros que están al otro lado del río, que todo lo que os demandare Esdras sacerdote, escriba de la ley del Dios del cielo, concédasele luego, 
+@22 Hasta cien talentos de plata, y hasta cien coros de trigo, y hasta cien batos de vino, y hasta cien batos de aceite; y sal sin tasa. 
+@23 Todo lo que es mandado por el Dios del cielo, sea hecho prestamente para la casa del Dios del cielo: pues, ¿por qué habría de ser su ira contra el reino del rey y de sus hijos?
+
+@24 Y á vosotros os hacemos saber, que á todos los sacerdotes y Levitas, cantores, porteros, Nethineos y ministros de la casa de Dios, ninguno pueda imponerles tributo, ó pecho, ó renta.
+
+@25 Y tú, Esdras, conforme á la sabiduría de tu Dios que tienes, pon jueces y gobernadores, que gobiernen á todo el pueblo que está del otro lado del río, á todos los que tienen noticia de las leyes de tu Dios; y al que no la tuviere, le enseñaréis. 
+@26 Y cualquiera que no hiciere la ley de tu Dios, y la ley del rey, prestamente sea juzgado, ó á muerte, ó á desarraigo, ó á pena de la hacienda, ó á prisión.
 
 ## Oración de acción de gracias de Esdras e inicio de su actividad
-^27^ Bendito sea Yahvé, el Dios de nuestros padres, que ha puesto algo así en el corazón del rey, para embellecer la casa de Yahvé que está en Jerusalén; ^28^ y ha extendido su bondad conmigo ante el rey y sus consejeros, y ante todos los poderosos príncipes del rey. Me he fortalecido según la mano del Señor, mi Dios, y he reunido a los jefes de Israel para que suban conmigo. ^a^
-^a^[**7:28** Esd 7,6]
+@27 Bendito Jehová, Dios de nuestros padres, que puso tal cosa en el corazón del rey, para honrar la casa de Jehová que está en Jerusalem. 
+@28 E inclinó hacia mí su misericordia delante del rey y de sus consultores, y de todos los príncipes poderosos del rey. Y yo, confortado según la mano de mi Dios sobre mí, junté los principales de Israel para que subiesen conmigo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 7
 ## The return of Ezra and his band from Babylon to Jerusalem
-^1^ Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, ^2^ the son of Shallum, the son of Zadok, the son of Ahitub, ^3^ the son of Amariah, the son of Azariah, the son of Meraioth, ^4^ the son of Zerahiah, the son of Uzzi, the son of Bukki, ^5^ the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest— ^6^ this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God’s hand on him. ^7^ Some of the children of Israel, including some of the priests, the Levites, the singers, the gatekeepers, and the temple servants went up to Jerusalem in the seventh year of Artaxerxes the king. ^8^ He came to Jerusalem in the fifth month, which was in the seventh year of the king. ^9^ For on the first day of the first month he began to go up from Babylon; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. ^10^ For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel.
+@1 Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah, 
+@2 the son of Shallum, the son of Zadok, the son of Ahitub, 
+@3 the son of Amariah, the son of Azariah, the son of Meraioth, 
+@4 the son of Zerahiah, the son of Uzzi, the son of Bukki, 
+@5 the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest— 
+@6 this Ezra went up from Babylon. He was a skilled scribe in the law of Moses, which Yahweh, the God of Israel, had given; and the king granted him all his request, according to Yahweh his God’s hand on him. 
+@7 Some of the children of Israel, including some of the priests, the Levites, the singers, the gatekeepers, and the temple servants went up to Jerusalem in the seventh year of Artaxerxes the king. 
+@8 He came to Jerusalem in the fifth month, which was in the seventh year of the king. 
+@9 For on the first day of the first month he began to go up from Babylon; and on the first day of the fifth month he came to Jerusalem, according to the good hand of his God on him. 
+@10 For Ezra had set his heart to seek Yahweh’s law, and to do it, and to teach statutes and ordinances in Israel.
 
 ## Drafting of the royal letter (= letter of safe conduct) with details of the powers granted to Ezra
-^11^ Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of Yahweh’s commandments, and of his statutes to Israel: ^12^ Artaxerxes, king of kings, To Ezra the priest, the scribe of the law of the perfect God of heaven. i1 Now ^13^ I make a decree that all those of the people of Israel and their priests and the Levites in my realm, who intend of their own free will to go to Jerusalem, go with you. ^14^ Because you are sent by the king and his seven counselors to inquire concerning Judah and Jerusalem, according to the law of your God which is in your hand, ^15^ and to carry the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose habitation is in Jerusalem, ^16^ and all the silver and gold that you will find in all the province of Babylon, with the free will offering of the people and of the priests, offering willingly for the house of their God which is in Jerusalem. ^17^ Therefore you shall with all diligence buy with this money bulls, rams, and lambs with their meal offerings and their drink offerings, and shall offer them on the altar of the house of your God which is in Jerusalem. ^18^ Whatever seems good to you and to your brothers to do with the rest of the silver and the gold, do that according to the will of your God. ^19^ The vessels that are given to you for the service of the house of your God, deliver before the God of Jerusalem. ^20^ Whatever more will be needed for the house of your God, which you may have occasion to give, give it out of the king’s treasure house. i1 ^21^ I, even I, Artaxerxes the king, make a decree to all the treasurers who are beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, requires of you, it shall be done with all diligence, ^22^ up to one hundred talents^a^ of silver, and to one hundred cors^b^ of wheat, and to one hundred baths^c^ of wine, and to one hundred baths of oil, and salt without prescribing how much. ^23^ Whatever is commanded by the God of heaven, let it be done exactly for the house of the God of heaven; for why should there be wrath against the realm of the king and his sons? i1 ^24^ Also we inform you that it shall not be lawful to impose tribute, custom, or toll on any of the priests, Levites, singers, gatekeepers, temple servants, or laborers of this house of God. i1 ^25^ You, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people who are beyond the River, who all know the laws of your God; and teach him who doesn’t know them. ^26^ Whoever will not do the law of your God and the law of the king, let judgment be executed on him with all diligence, whether it is to death, or to banishment, or to confiscation of goods, or to imprisonment.
+@11 Now this is the copy of the letter that King Artaxerxes gave to Ezra the priest, the scribe, even the scribe of the words of Yahweh’s commandments, and of his statutes to Israel: 
+@12 Artaxerxes, king of kings, To Ezra the priest, the scribe of the law of the perfect God of heaven. 
+
+i1 Now 
+@13 I make a decree that all those of the people of Israel and their priests and the Levites in my realm, who intend of their own free will to go to Jerusalem, go with you. 
+@14 Because you are sent by the king and his seven counselors to inquire concerning Judah and Jerusalem, according to the law of your God which is in your hand, 
+@15 and to carry the silver and gold, which the king and his counselors have freely offered to the God of Israel, whose habitation is in Jerusalem, 
+@16 and all the silver and gold that you will find in all the province of Babylon, with the free will offering of the people and of the priests, offering willingly for the house of their God which is in Jerusalem. 
+@17 Therefore you shall with all diligence buy with this money bulls, rams, and lambs with their meal offerings and their drink offerings, and shall offer them on the altar of the house of your God which is in Jerusalem. 
+@18 Whatever seems good to you and to your brothers to do with the rest of the silver and the gold, do that according to the will of your God. 
+@19 The vessels that are given to you for the service of the house of your God, deliver before the God of Jerusalem. 
+@20 Whatever more will be needed for the house of your God, which you may have occasion to give, give it out of the king’s treasure house. 
+
+i1
+@21 I, even I, Artaxerxes the king, make a decree to all the treasurers who are beyond the River, that whatever Ezra the priest, the scribe of the law of the God of heaven, requires of you, it shall be done with all diligence, 
+@22 up to one hundred talents^a^ of silver, and to one hundred cors^b^ of wheat, and to one hundred baths^c^ of wine, and to one hundred baths of oil, and salt without prescribing how much. 
+@23 Whatever is commanded by the God of heaven, let it be done exactly for the house of the God of heaven; for why should there be wrath against the realm of the king and his sons? 
 ^a^[**7:22** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] ^b^[**7:22** 1 cor is the same as a homer, or about 55.9 U. S. gallons (liquid) or 211 liters or 6 bushels.] ^c^[**7:22** 1 bath is one tenth of a cor, or about 5.6 U. S. gallons or 21 liters or 2.4 pecks. 100 baths would be about 2,100 liters.]
 
+i1
+@24 Also we inform you that it shall not be lawful to impose tribute, custom, or toll on any of the priests, Levites, singers, gatekeepers, temple servants, or laborers of this house of God. 
+
+i1
+@25 You, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people who are beyond the River, who all know the laws of your God; and teach him who doesn’t know them. 
+@26 Whoever will not do the law of your God and the law of the king, let judgment be executed on him with all diligence, whether it is to death, or to banishment, or to confiscation of goods, or to imprisonment.
+
 ## Ezra's thanksgiving prayer and start of his activity
-^27^ Blessed be Yahweh, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify Yahweh’s house which is in Jerusalem; ^28^ and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me. 
+@27 Blessed be Yahweh, the God of our fathers, who has put such a thing as this in the king’s heart, to beautify Yahweh’s house which is in Jerusalem; 
+@28 and has extended loving kindness to me before the king and his counselors, and before all the king’s mighty princes. I was strengthened according to Yahweh my God’s hand on me, and I gathered together chief men out of Israel to go up with me. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 8
 ## Directorio de los jefes de las familias de Judea que regresan con Esdras
-^1^ Estos son los jefes de familia de sus padres, y esta es la genealogía de los que subieron conmigo desde Babilonia, en el reinado del rey Artajerjes: ^a^ ^2^ De los hijos de Finehas, Gershom. De los hijos de Ithamar, Daniel. De los hijos de David, Hattush. ^3^ De los hijos de Secanías, de los hijos de Paros, Zacarías; y con él se enumeraron por genealogía de los varones ciento cincuenta. ^b^ ^4^ De los hijos de Pahatmoab, Eliehoenai, hijo de Zerahiah, y con él doscientos varones. ^c^ ^5^ De los hijos de Secanías, hijo de Jahaziel, y con él trescientos varones. ^d^ ^6^ De los hijos de Adín, Ebed, hijo de Jonatán, y con él cincuenta varones. ^7^ De los hijos de Elam, Jesaías, hijo de Atalía, y con él setenta varones. ^8^ De los hijos de Sefatías, Zebadías, hijo de Miguel, y con él ochenta varones. ^9^ De los hijos de Joab, Obadías hijo de Jehiel, y con él doscientos dieciocho varones. ^10^ De los hijos de Selomit, hijo de Josifa, y con él ciento sesenta varones. ^e^ ^11^ De los hijos de Bebai, Zacarías, hijo de Bebai, y con él veintiocho varones. ^12^ De los hijos de Azgad, Johanan hijo de Hakkatan, y con él ciento diez varones. ^13^ De los hijos de Adonikam, que fueron los últimos, sus nombres son: Eliphelet, Jeuel y Semaías; y con ellos sesenta varones. ^14^ De los hijos de Bigvai, Uthai y Zabbud, y con ellos setenta varones.
-^a^[**8:1** Esd 7,1; Esd 7,7] ^b^[**8:3** 1Cró 3,22] ^c^[**8:4** Esd 2,6] ^d^[**8:5** Esd 2,8] ^e^[**8:10** Esd 2,10]
+@1 Y estos son los cabezas de sus familias, y genealogía de aquellos que subieron conmigo de Babilonia, reinando el rey Artajerjes: 
+@2 De los hijos de Phinees, Gersón; de los hijos de Ithamar, Daniel; de los hijos de David, Hattus; 
+@3 De los hijos de Sechânías y de los hijos de Pharos, Zacarías, y con él, en la línea de varones, ciento y cincuenta; 
+@4 De los hijos de Pahath-moab, Elioenai, hijo de Zarahi, y con él doscientos varones; 
+@5 De los hijos de Sechânías, el hijo de Jahaziel, y con él trescientos varones; 
+@6 De los hijos de Adín, Ebed, hijo de Jonathán, y con él cincuenta varones; 
+@7 De los hijos de Elam, Isaía, hijo de Athalías, y con él setenta varones; 
+@8 Y de los hijos de Sephatías, Zebadías, hijo de Michâel, y con él ochenta varones; 
+@9 De los hijos de Joab, Obadías, hijo de Jehiel, y con él doscientos diez y ocho varones; 
+@10 Y de los hijos de Solomith, el hijo de Josiphías, y con él ciento y sesenta varones; 
+@11 Y de los hijos de Bebai, Zacarías, hijo de Bebai, y con él veintiocho varones; 
+@12 Y de los hijos de Azgad, Johanán, hijo de Catán, y con él ciento y diez varones; 
+@13 Y de los hijos de Adonicam, los postreros, cuyos nombres son estos, Eliphelet, Jeiel, y Semaías, y con ellos sesenta varones; 
+@14 Y de los hijos de Bigvai, Utai y Zabud, y con ellos sesenta varones.
 
 ## Los preparativos finales para la salida
-^15^ Los reuní hasta el río que corre hacia Ahava, y allí acampamos tres días. Entonces miré alrededor del pueblo y de los sacerdotes, y encontré que no había ninguno de los hijos de Leví. ^16^ Entonces mandé llamar a Eliezer, a Ariel, a Semaías, a Elnatán, a Jarib, a Elnatán, a Natán, a Zacarías y a Mesulam, hombres principales; también a Joiarib y a Elnatán, que eran maestros. ^17^ Los envié a Iddo, el jefe, al lugar de Casifia, y les dije lo que debían decir a Iddo y a sus hermanos, los servidores del templo en el lugar de Casifia, para que nos trajeran ministros para la casa de nuestro Dios. ^a^ ^18^ Conforme a la buena mano de nuestro Dios sobre nosotros, nos trajeron un hombre discreto, de los hijos de Mahli, hijo de Leví, hijo de Israel, a saber, Serebías, con sus hijos y sus hermanos, dieciocho; ^b^ ^19^ y Hasabías, y con él Jesaías, de los hijos de Merari, sus hermanos y sus hijos, veinte; ^20^ y de los servidores del templo, que David y los príncipes habían dado para el servicio de los levitas, doscientos veinte servidores del templo. Todos ellos fueron mencionados por su nombre. ^c^
-^a^[**8:17** Esd 2,43] ^b^[**8:18** Esd 7,6] ^c^[**8:20** 1Cró 9,2]
+@15 Y juntélos junto al río que viene á Ahava, y reposamos allí tres días: y habiendo buscado entre el pueblo y entre los sacerdotes, no hallé allí de los hijos de Leví. 
+@16 Entonces despaché á Eliezer, y á Ariel, y á Semaías, y á Elnathán, y á Jarib, y á Elnathán, y á Nathán, y á Zacarías, y á Mesullam, principales; asimismo á Joiarib y á Elnathán, hombres doctos; 
+@17 Y enviélos á Iddo, jefe en el lugar de Casipia, y puse en boca de ellos las palabras que habían de hablar á Iddo, y á sus hermanos los Nethineos en el lugar de Casipia, para que nos trajesen ministros para la casa de nuestro Dios. 
+@18 Y trajéronnos, según la buena mano de nuestro Dios sobre nosotros, un varón entendido de los hijos de Mahalí, hijo de Leví, hijo de Israel; y á Serabías con sus hijos y sus hermanos, dieciocho; 
+@19 Y á Hasabías, y con él á Isaía de los hijos de Merari, á sus hermanos y á sus hijos, veinte; 
+@20 Y de los Nethineos, á quienes David con los príncipes puso para el ministerio de los Levitas, doscientos y veinte Nethineos: todos los cuales fueron declarados por sus nombres.
 
 ## Ayuno y oración de los que regresan a casa; Entrega de los dones del templo a hombres confiables
-^21^ Entonces proclamé un ayuno allí, en el río Ahava, para humillarnos ante nuestro Dios y buscar de él un camino recto para nosotros, para nuestros pequeños y para todas nuestras posesiones. ^22^ Porque me daba vergüenza pedir al rey una banda de soldados y jinetes que nos ayudara contra el enemigo en el camino, porque habíamos hablado con el rey diciendo: “La mano de nuestro Dios está sobre todos los que lo buscan, para bien; pero su poder y su ira están contra todos los que lo abandonan.” ^a^ ^23^ Así que ayunamos y rogamos a nuestro Dios por esto, y él nos concedió nuestra petición.
-^a^[**8:22** Esd 7,6]
+@21 Y publiqué ayuno allí junto al río de Ahava, para afligirnos delante de nuestro Dios, para solicitar de él camino derecho para nosotros, y para nuestros niños, y para toda nuestra hacienda. 
+@22 Porque tuve vergüenza de pedir al rey tropa y gente de á caballo que nos defendiesen del enemigo en el camino: porque habíamos hablado al rey, diciendo: La mano de nuestro Dios es para bien sobre todos los que le buscan; mas su fortaleza y su furor sobre todos los que le dejan. 
+@23 Ayunamos pues, y pedimos á nuestro Dios sobre esto, y él nos fué propicio.
 
-^24^ Entonces aparté a doce de los jefes de los sacerdotes, a Serebías, a Hasabías y a diez de sus hermanos con ellos, ^25^ y les pesé la plata, el oro y los utensilios, la ofrenda para la casa de nuestro Dios, que habían ofrecido el rey, sus consejeros, sus príncipes y todo Israel allí presente. ^26^ Pesé en su mano seiscientos cincuenta talentos de plata, cien talentos de recipientes de plata, cien talentos de oro, ^27^ veinte copas de oro que pesaban mil dracmas, y dos recipientes de bronce fino y brillante, preciosos como el oro. ^28^ Les dije: “Vosotros sois santos para Yahvé, y los vasos son santos. La plata y el oro son una ofrenda voluntaria a Yavé, el Dios de vuestros padres. ^29^ Velen y guárdenlos hasta que los pesen ante los jefes de los sacerdotes, los levitas y los príncipes de las casas paternas de Israel en Jerusalén, en las salas de la casa de Yavé.”
+@24 Aparté luego doce de los principales de los sacerdotes, á Serebías y á Hasabías, y con ellos diez de sus hermanos; 
+@25 Y peséles la plata, y el oro, y los vasos, la ofrenda que para la casa de nuestro Dios habían ofrecido el rey, y sus consultores, y sus príncipes, y todos los que se hallaron en Israel. 
+@26 Pesé pues en manos de ellos seiscientos y cincuenta talentos de plata, y vasos de plata por cien talentos, y cien talentos de oro; 
+@27 Además veinte tazones de oro, de mil dracmas; y dos vasos de metal limpio muy bueno, preciados como el oro. 
+@28 Y díjeles: Vosotros sois consagrados á Jehová, y santos los vasos; y la plata y el oro ofrenda voluntaria á Jehová, Dios de nuestros padres. 
+@29 Velad, y guardadlos, hasta que los peséis delante de los príncipes de los sacerdotes y Levitas, y de los jefes de los padres de Israel en Jerusalem, en las cámaras de la casa de Jehová.
 
-^30^ Los sacerdotes y los levitas recibieron el peso de la plata, el oro y los utensilios, para llevarlos a Jerusalén, a la casa de nuestro Dios.
+@30 Los sacerdotes pues y Levitas recibieron el peso de la plata y del oro y de los vasos, para traerlo á Jerusalem á la casa de nuestro Dios.
 
 ## Llegada a Jerusalén; Entrega de los obsequios votivos; Hacer ofrendas; Apoyo de funcionarios reales
-^31^ Entonces partimos del río Ahava el duodécimo día del primer mes, para ir a Jerusalén. La mano de nuestro Dios estaba sobre nosotros, y nos libró de la mano del enemigo y de los bandidos en el camino. ^32^ Llegamos a Jerusalén y nos quedamos allí tres días. ^33^ Al cuarto día se pesó la plata, el oro y los utensilios en la casa de nuestro Dios, en manos de Meremot, hijo del sacerdote Urías; con él estaba Eleazar, hijo de Finees, y con ellos estaban Jozabad, hijo de Jesúa, y Noadías, hijo de Binúi, los levitas. ^34^ Todo fue contado y pesado, y todo el peso fue escrito en ese momento.
+@31 Y partimos del río de Ahava el doce del mes primero, para ir á Jerusalem: y la mano de nuestro Dios fué sobre nosotros, el cual nos libró de mano de enemigo y de asechador en el camino. 
+@32 Y llegamos á Jerusalem, y reposamos allí tres días. 
+@33 Al cuarto día fué luego pesada la plata, y el oro, y los vasos, en la casa de nuestro Dios, por mano de Meremoth hijo de Urías sacerdote, y con él Eleazar hijo de Phinees; y con ellos Jozabad hijo de Jesuá, y Noadías hijo de Binnui, Levitas; 
+@34 Por cuenta y por peso todo: y se apuntó todo aquel peso en aquel tiempo.
 
-^35^ Los hijos del cautiverio, que habían salido del exilio, ofrecieron holocaustos al Dios de Israel: doce toros por todo Israel, noventa y seis carneros, setenta y siete corderos y doce machos cabríos como ofrenda por el pecado. Todo esto fue un holocausto para Yahvé. ^36^ Entregaron los encargos del rey a los gobernadores locales del rey y a los gobernadores del otro lado del río. Así mantenían al pueblo y a la casa de Dios. ^a^
-^a^[**8:36** Esd 7,12-26]
+@35 Los que habían venido de la cautividad, los hijos de la transmigración, ofrecieron holocaustos al Dios de Israel, doce becerros por todo Israel, noventa y seis carneros, setenta y siete corderos, doce machos cabríos por expiación: todo en holocausto á Jehová. 
+@36 Y dieron los despachos del rey á sus gobernadores y capitanes del otro lado del río, los cuales favorecieron al pueblo y á la casa de Dios. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 8
 ## Directory of heads of Judean families returning with Ezra
-^1^ Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king: ^2^ Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. ^3^ Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty. ^4^ Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah; and with him two hundred males. ^5^ Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males. ^6^ Of the sons of Adin, Ebed the son of Jonathan; and with him fifty males. ^7^ Of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males. ^8^ Of the sons of Shephatiah, Zebadiah the son of Michael; and with him eighty males. ^9^ Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred eighteen males. ^10^ Of the sons of Shelomith, the son of Josiphiah; and with him one hundred sixty males. ^11^ Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males. ^12^ Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males. ^13^ Of the sons of Adonikam, who were the last, their names are: Eliphelet, Jeuel, and Shemaiah; and with them sixty males. ^14^ Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.
+@1 Now these are the heads of their fathers’ households, and this is the genealogy of those who went up with me from Babylon, in the reign of Artaxerxes the king: 
+@2 Of the sons of Phinehas, Gershom. Of the sons of Ithamar, Daniel. Of the sons of David, Hattush. 
+@3 Of the sons of Shecaniah, of the sons of Parosh, Zechariah; and with him were listed by genealogy of the males one hundred fifty. 
+@4 Of the sons of Pahathmoab, Eliehoenai the son of Zerahiah; and with him two hundred males. 
+@5 Of the sons of Shecaniah, the son of Jahaziel; and with him three hundred males. 
+@6 Of the sons of Adin, Ebed the son of Jonathan; and with him fifty males. 
+@7 Of the sons of Elam, Jeshaiah the son of Athaliah; and with him seventy males. 
+@8 Of the sons of Shephatiah, Zebadiah the son of Michael; and with him eighty males. 
+@9 Of the sons of Joab, Obadiah the son of Jehiel; and with him two hundred eighteen males. 
+@10 Of the sons of Shelomith, the son of Josiphiah; and with him one hundred sixty males. 
+@11 Of the sons of Bebai, Zechariah the son of Bebai; and with him twenty-eight males. 
+@12 Of the sons of Azgad, Johanan the son of Hakkatan; and with him one hundred ten males. 
+@13 Of the sons of Adonikam, who were the last, their names are: Eliphelet, Jeuel, and Shemaiah; and with them sixty males. 
+@14 Of the sons of Bigvai, Uthai and Zabbud; and with them seventy males.
 
 ## Final preparations for departure
-^15^ I gathered them together to the river that runs to Ahava; and there we encamped three days. Then I looked around at the people and the priests, and found there were none of the sons of Levi. ^16^ Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam, chief men; also for Joiarib and for Elnathan, who were teachers. ^17^ I sent them out to Iddo the chief at the place Casiphia; and I told them what they should tell Iddo and his brothers the temple servants at the place Casiphia, that they should bring to us ministers for the house of our God. ^18^ According to the good hand of our God on us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, with his sons and his brothers, eighteen; ^19^ and Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty; ^20^ and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name.
+@15 I gathered them together to the river that runs to Ahava; and there we encamped three days. Then I looked around at the people and the priests, and found there were none of the sons of Levi. 
+@16 Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam, chief men; also for Joiarib and for Elnathan, who were teachers. 
+@17 I sent them out to Iddo the chief at the place Casiphia; and I told them what they should tell Iddo and his brothers the temple servants at the place Casiphia, that they should bring to us ministers for the house of our God. 
+@18 According to the good hand of our God on us they brought us a man of discretion, of the sons of Mahli, the son of Levi, the son of Israel, namely Sherebiah, with his sons and his brothers, eighteen; 
+@19 and Hashabiah, and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty; 
+@20 and of the temple servants, whom David and the princes had given for the service of the Levites, two hundred twenty temple servants. All of them were mentioned by name.
 
 ## Fasting and prayer of those returning home; Giving of temple gifts to trustworthy men
-^21^ Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from him a straight way for us, for our little ones, and for all our possessions. ^22^ For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy on the way, because we had spoken to the king, saying, “The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.” ^23^ So we fasted and begged our God for this, and he granted our request. ^24^ Then I set apart twelve of the chiefs of the priests, even Sherebiah, Hashabiah, and ten of their brothers with them, ^25^ and weighed to them the silver, the gold, and the vessels, even the offering for the house of our God, which the king, his counselors, his princes, and all Israel there present, had offered. ^26^ I weighed into their hand six hundred fifty talents of silver,^a^ one hundred talents of silver vessels, one hundred talents of gold, ^27^ twenty bowls of gold weighing one thousand darics,^b^ and two vessels of fine bright bronze, precious as gold. ^28^ I said to them, “You are holy to Yahweh, and the vessels are holy. The silver and the gold are a free will offering to Yahweh, the God of your fathers. ^29^ Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of Yahweh’s house.” ^30^ So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God.
+@21 Then I proclaimed a fast there at the river Ahava, that we might humble ourselves before our God, to seek from him a straight way for us, for our little ones, and for all our possessions. 
+@22 For I was ashamed to ask of the king a band of soldiers and horsemen to help us against the enemy on the way, because we had spoken to the king, saying, “The hand of our God is on all those who seek him, for good; but his power and his wrath is against all those who forsake him.” 
+@23 So we fasted and begged our God for this, and he granted our request. 
+
+@24 Then I set apart twelve of the chiefs of the priests, even Sherebiah, Hashabiah, and ten of their brothers with them, 
+@25 and weighed to them the silver, the gold, and the vessels, even the offering for the house of our God, which the king, his counselors, his princes, and all Israel there present, had offered. 
+@26 I weighed into their hand six hundred fifty talents of silver,^a^ one hundred talents of silver vessels, one hundred talents of gold, 
+@27 twenty bowls of gold weighing one thousand darics,^b^ and two vessels of fine bright bronze, precious as gold. 
+@28 I said to them, “You are holy to Yahweh, and the vessels are holy. The silver and the gold are a free will offering to Yahweh, the God of your fathers. 
+@29 Watch and keep them until you weigh them before the chiefs of the priests, the Levites, and the princes of the fathers’ households of Israel at Jerusalem, in the rooms of Yahweh’s house.” 
 ^a^[**8:26** A talent is about 30 kilograms or 66 pounds or 965 Troy ounces] ^b^[**8:27** a daric was a gold coin issued by a Persian king, weighing about 8.4 grams or about 0.27 troy ounces each.]
 
+@30 So the priests and the Levites received the weight of the silver, the gold, and the vessels, to bring them to Jerusalem to the house of our God.
+
 ## Arrival in Jerusalem; Delivery of votive gifts; make offerings; Support from royal officials
-^31^ Then we departed from the river Ahava on the twelfth day of the first month, to go to Jerusalem. The hand of our God was on us, and he delivered us from the hand of the enemy and the bandits by the way. ^32^ We came to Jerusalem, and stayed there three days. ^33^ On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them were Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites. ^34^ Everything was counted and weighed; and all the weight was written at that time. ^35^ The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to Yahweh. ^36^ They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house. 
+@31 Then we departed from the river Ahava on the twelfth day of the first month, to go to Jerusalem. The hand of our God was on us, and he delivered us from the hand of the enemy and the bandits by the way. 
+@32 We came to Jerusalem, and stayed there three days. 
+@33 On the fourth day the silver and the gold and the vessels were weighed in the house of our God into the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them were Jozabad the son of Jeshua, and Noadiah the son of Binnui, the Levites. 
+@34 Everything was counted and weighed; and all the weight was written at that time. 
+
+@35 The children of the captivity, who had come out of exile, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats for a sin offering. All this was a burnt offering to Yahweh. 
+@36 They delivered the king’s commissions to the king’s local governors and to the governors beyond the River. So they supported the people and God’s house. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 9
 ## Esra se da cuenta de los matrimonios mixtos; su consternación por estos funcionarios
-^1^ Cuando se hicieron estas cosas, los príncipes se acercaron a mí, diciendo: “El pueblo de Israel, los sacerdotes y los levitas no se han separado de los pueblos de las tierras, siguiendo sus abominaciones, las de los cananeos, los hititas, los ferezeos, los jebuseos, los amonitas, los moabitas, los egipcios y los amorreos. ^2^ Porque han tomado de sus hijas para sí y para sus hijos, de modo que la santa descendencia se ha mezclado con los pueblos de las tierras. Sí, la mano de los príncipes y gobernantes ha sido la principal en esta transgresión”. ^a^
-^a^[**9:2** Esd 9,11-12; Neh 13,23]
+@1 Y acabadas estas cosas, los príncipes se llegaron á mí, diciendo: El pueblo de Israel, y los sacerdotes y Levitas, no se han apartado de los pueblos de las tierras, de los Cananeos, Hetheos, Pherezeos, Jebuseos, Ammonitas, y Moabitas, Egipcios, y Amorrheos, haciendo conforme á sus abominaciones. 
+@2 Porque han tomado de sus hijas para sí y para sus hijos, y la simiente santa ha sido mezclada con los pueblos de las tierras; y la mano de los príncipes y de los gobernadores ha sido la primera en esta prevaricación.
 
-^3^ Cuando oí esto, rasgué mi vestido y mi túnica, me arranqué el pelo de la cabeza y de la barba, y me senté confundido. ^a^ ^4^ Entonces se reunieron conmigo todos los que temían las palabras del Dios de Israel a causa de la transgresión de los desterrados, y me senté confundido hasta la ofrenda de la tarde.
-^a^[**9:3** Gén 37,34]
+@3 Lo cual oyendo yo, rasgué mi vestido y mi manto, y arranqué de los cabellos de mi cabeza y de mi barba, y sentéme atónito. 
+@4 Y juntáronse á mí todos los temerosos de las palabras del Dios de Israel, á causa de la prevaricación de los de la transmigración; mas yo estuve sentado atónito hasta el sacrificio de la tarde.
 
 ## La oración penitencial de Esdras
-^5^ En la ofrenda de la tarde me levanté de mi humillación, con mi manto y mi túnica rasgados; caí de rodillas y extendí mis manos a Yahvé, mi Dios; ^6^ y dije: “Dios mío, me avergüenzo y me sonrojo al levantar mi rostro hacia ti, mi Dios, porque nuestras iniquidades han aumentado sobre nuestra cabeza, y nuestra culpa ha crecido hasta el cielo. ^a^ ^7^ Desde los días de nuestros padres hemos sido sumamente culpables hasta el día de hoy; y por nuestras iniquidades nosotros, nuestros reyes y nuestros sacerdotes hemos sido entregados en manos de los reyes de las tierras, a la espada, al cautiverio, al saqueo y a la confusión de rostro, como sucede en este día. ^8^ Ahora bien, por un momento se ha manifestado la gracia de Yahvé, nuestro Dios, de dejarnos un remanente para que escapemos, y de darnos una estaca en su lugar santo, para que nuestro Dios ilumine nuestros ojos, y nos reanime un poco en nuestra esclavitud. ^b^ ^9^ Porque somos siervos de la esclavitud, pero nuestro Dios no nos ha abandonado en nuestra esclavitud, sino que nos ha extendido su bondad a los ojos de los reyes de Persia, para revivirnos, para levantar la casa de nuestro Dios y reparar sus ruinas, y para darnos un muro en Judá y en Jerusalén. ^c^
-^a^[**9:6** Dan 9,7-8; Sal 38,4] ^b^[**9:8** Is 22,23] ^c^[**9:9** Is 5,5]
+@5 Y al sacrificio de la tarde levantéme de mi aflicción; y habiendo rasgado mi vestido y mi manto, postréme de rodillas, y extendí mis palmas á Jehová mi Dios; 
+@6 Y dije: Dios mío, confuso y avergonzado estoy para levantar, oh Dios mío, mi rostro á ti: porque nuestras iniquidades se han multiplicado sobre nuestra cabeza, y nuestros delitos han crecido hasta el cielo. 
+@7 Desde los días de nuestros padres hasta este día estamos en grande culpa; y por nuestras iniquidades nosotros, nuestros reyes, y nuestros sacerdotes, hemos sido entregados en manos de los reyes de las tierras, á cuchillo, á cautiverio, y á robo, y á confusión de rostro, como hoy día. 
+@8 Y ahora como por un breve momento fué la misericordia de Jehová nuestro Dios, para hacer que nos quedase un resto libre, y para darnos estaca en el lugar de su santuario, á fin de alumbrar nuestros ojos nuestro Dios, y darnos una poca de vida en nuestra servidumbre. 
+@9 Porque siervos éramos: mas en nuestra servidumbre no nos desamparó nuestro Dios, antes inclinó sobre nosotros misericordia delante de los reyes de Persia, para que se nos diese vida para alzar la casa de nuestro Dios, y para hacer restaurar sus asolamientos, y para darnos vallado en Judá y en Jerusalem.
 
-^10^ “Ahora, Dios nuestro, ¿qué diremos después de esto? Porque hemos abandonado tus mandamientos, ^11^ que has ordenado por medio de tus siervos los profetas, diciendo: ‘La tierra a la que vais a poseer es una tierra impura por la impureza de los pueblos de las tierras, por sus abominaciones, que la han llenado de un extremo a otro con su inmundicia. ^a^ ^12^ Ahora, pues, no des tus hijas a sus hijos. No tomes sus hijas para tus hijos, ni busques su paz o su prosperidad para siempre, para que seas fuerte y comas el bien de la tierra, y la dejes en herencia a tus hijos para siempre.’ ^b^
-^a^[**9:11** Lev 18,24-25] ^b^[**9:12** Deut 7,2-3]
+@10 Mas ahora, ¿qué diremos, oh Dios nuestro, después de esto? porque nosotros hemos dejado tus mandamientos, 
+@11 Los cuales prescribiste por mano de tus siervos los profetas, diciendo: La tierra á la cual entráis para poseerla, tierra inmunda es á causa de la inmundicia de los pueblos de aquellas regiones, por las abominaciones de que la han henchido de uno á otro extremo con su inmundicia. 
+@12 Ahora pues, no daréis vuestras hijas á los hijos de ellos, ni sus hijas tomaréis para vuestros hijos, ni procuraréis su paz ni su bien para siempre; para que seáis corroborados, y comáis el bien de la tierra, y la dejéis por heredad á vuestros hijos para siempre.
 
-^13^ “Después de todo lo que ha caído sobre nosotros por nuestras malas acciones y por nuestra gran culpa, ya que tú, nuestro Dios, nos has castigado menos de lo que merecen nuestras iniquidades, y nos has dado tal remanente, ^14^ ¿volveremos a quebrantar tus mandamientos y a unirnos a los pueblos que hacen estas abominaciones? ¿No te enojarías con nosotros hasta consumirnos, para que no quedara ningún remanente, ni ninguno que pudiera escapar? ^15^ Yahvé, el Dios de Israel, tú eres justo; porque nos ha quedado un remanente que ha escapado, como ocurre hoy. He aquí que estamos ante ti en nuestra culpabilidad; pues nadie puede permanecer ante ti a causa de esto”. ^a^
-^a^[**9:15** Neh 9,33]
+@13 Mas después de todo lo que nos ha sobrevenido á causa de nuestras malas obras, y á causa de nuestro grande delito; ya que tú, Dios nuestro, estorbaste que fuésemos oprimidos bajo de nuestras iniquidades, y nos diste este tal efugio; 
+@14 ¿Hemos de volver á infringir tus mandamientos, y á emparentar con los pueblos de estas abominaciones? ¿No te ensañarías contra nosotros hasta consumirnos, sin que quedara resto ni escapatoria? 
+@15 Jehová, Dios de Israel, tú eres justo: pues que hemos quedado algunos salvos, como este día, henos aquí delante de ti en nuestros delitos; porque no es posible subsistir en tu presencia á causa de esto. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 9
 ## Esra notices mixed marriages; his dismay at these officials
-^1^ Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. ^2^ For they have taken of their daughters for themselves and for their sons, so that the holy offspring have mixed themselves with the peoples of the lands. Yes, the hand of the princes and rulers has been chief in this trespass.” ^3^ When I heard this thing, I tore my garment and my robe, and pulled the hair out of my head and of my beard, and sat down confounded. ^4^ Then everyone who trembled at the words of the God of Israel were assembled to me because of the trespass of the exiles; and I sat confounded until the evening offering.
+@1 Now when these things were done, the princes came near to me, saying, “The people of Israel, the priests, and the Levites have not separated themselves from the peoples of the lands, following their abominations, even those of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites. 
+@2 For they have taken of their daughters for themselves and for their sons, so that the holy offspring have mixed themselves with the peoples of the lands. Yes, the hand of the princes and rulers has been chief in this trespass.” 
+
+@3 When I heard this thing, I tore my garment and my robe, and pulled the hair out of my head and of my beard, and sat down confounded. 
+@4 Then everyone who trembled at the words of the God of Israel were assembled to me because of the trespass of the exiles; and I sat confounded until the evening offering.
 
 ## Ezra's penitential prayer
-^5^ At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God; ^6^ and I said, “My God, I am ashamed and blush to lift up my face to you, my God, for our iniquities have increased over our head, and our guiltiness has grown up to the heavens. ^7^ Since the days of our fathers we have been exceedingly guilty to this day; and for our iniquities we, our kings, and our priests have been delivered into the hand of the kings of the lands, to the sword, to captivity, to plunder, and to confusion of face, as it is this day. ^8^ Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten our eyes, and revive us a little in our bondage. ^9^ For we are bondservants; yet our God has not forsaken us in our bondage, but has extended loving kindness to us in the sight of the kings of Persia, to revive us, to set up the house of our God, and to repair its ruins, and to give us a wall in Judah and in Jerusalem. ^10^ “Now, our God, what shall we say after this? For we have forsaken your commandments, ^11^ which you have commanded by your servants the prophets, saying, ‘The land to which you go to possess is an unclean land through the uncleanness of the peoples of the lands, through their abominations, which have filled it from one end to another with their filthiness. ^12^ Now therefore don’t give your daughters to their sons. Don’t take their daughters to your sons, nor seek their peace or their prosperity forever, that you may be strong and eat the good of the land, and leave it for an inheritance to your children forever.’ ^13^ “After all that has come on us for our evil deeds and for our great guilt, since you, our God, have punished us less than our iniquities deserve, and have given us such a remnant, ^14^ shall we again break your commandments, and join ourselves with the peoples that do these abominations? Wouldn’t you be angry with us until you had consumed us, so that there would be no remnant, nor any to escape? ^15^ Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold,^a^ we are before you in our guiltiness; for no one can stand before you because of this.”
-^a^[**9:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
+@5 At the evening offering I rose up from my humiliation, even with my garment and my robe torn; and I fell on my knees, and spread out my hands to Yahweh my God; 
+@6 and I said, “My God, I am ashamed and blush to lift up my face to you, my God, for our iniquities have increased over our head, and our guiltiness has grown up to the heavens. 
+@7 Since the days of our fathers we have been exceedingly guilty to this day; and for our iniquities we, our kings, and our priests have been delivered into the hand of the kings of the lands, to the sword, to captivity, to plunder, and to confusion of face, as it is this day. 
+@8 Now for a little moment grace has been shown from Yahweh our God, to leave us a remnant to escape, and to give us a stake in his holy place, that our God may lighten our eyes, and revive us a little in our bondage. 
+@9 For we are bondservants; yet our God has not forsaken us in our bondage, but has extended loving kindness to us in the sight of the kings of Persia, to revive us, to set up the house of our God, and to repair its ruins, and to give us a wall in Judah and in Jerusalem. 
+
+@10 “Now, our God, what shall we say after this? For we have forsaken your commandments, 
+@11 which you have commanded by your servants the prophets, saying, ‘The land to which you go to possess is an unclean land through the uncleanness of the peoples of the lands, through their abominations, which have filled it from one end to another with their filthiness. 
+@12 Now therefore don’t give your daughters to their sons. Don’t take their daughters to your sons, nor seek their peace or their prosperity forever, that you may be strong and eat the good of the land, and leave it for an inheritance to your children forever.’ 
+
+@13 “After all that has come on us for our evil deeds and for our great guilt, since you, our God, have punished us less than our iniquities deserve, and have given us such a remnant, 
+@14 shall we again break your commandments, and join ourselves with the peoples that do these abominations? Wouldn’t you be angry with us until you had consumed us, so that there would be no remnant, nor any to escape? 
+@15 Yahweh, the God of Israel, you are righteous; for we are left a remnant that has escaped, as it is today. Behold,^a^ we are before you in our guiltiness; for no one can stand before you because of this.”
+^a^[**9:15** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 10
 ## La acción contra los matrimonios mixtos
-^1^ Mientras Esdras oraba y se confesaba, llorando y postrándose ante la casa de Dios, se reunió con él, de parte de Israel, una asamblea muy numerosa de hombres, mujeres y niños, pues el pueblo lloraba muy amargamente. ^2^ Secanías, hijo de Jehiel, uno de los hijos de Elam, respondió a Esdras: “Nos hemos rebelado contra nuestro Dios y nos hemos casado con mujeres extranjeras de los pueblos de la tierra. Sin embargo, ahora hay esperanza para Israel en cuanto a esto. ^3^ Ahora, pues, hagamos un pacto con nuestro Dios para repudiar a todas las mujeres y a los nacidos de ellas, según el consejo de mi señor y de los que temen el mandamiento de nuestro Dios. Que se haga según la ley. ^4^ Levántate, pues el asunto te pertenece y nosotros estamos contigo. Sé valiente y hazlo”.
+@1 Y orando Esdras y confesando, llorando y postrándose delante de la casa de Dios, juntóse á él una muy grande multitud de Israel, hombres y mujeres y niños; y lloraba el pueblo con gran llanto. 
+@2 Entonces respondió Sechânías hijo de Jehiel, de los hijos de Elam, y dijo á Esdras: Nosotros hemos prevaricado contra nuestro Dios, pues tomamos mujeres extranjeras de los pueblos de la tierra: mas hay aún esperanza para Israel sobre esto. 
+@3 Ahora pues hagamos pacto con nuestro Dios, que echaremos todas las mujeres y los nacidos de ellas, según el consejo del Señor, y de los que temen el mandamiento de nuestro Dios: y hágase conforme á la ley. 
+@4 Levántate, porque á ti toca el negocio, y nosotros seremos contigo; esfuérzate, y ponlo por obra.
 
-^5^ Entonces Esdras se levantó e hizo jurar a los jefes de los sacerdotes, a los levitas y a todo Israel que harían lo que se les dijera. Así lo juraron. ^6^ Entonces Esdras se levantó de delante de la casa de Dios y entró en la habitación de Johanán, hijo de Eliasib. Cuando llegó allí, no comió pan ni bebió agua, pues se lamentó por la transgresión de los exiliados. ^7^ Hicieron un pregón por todo Judá y Jerusalén a todos los hijos del cautiverio, para que se reunieran en Jerusalén; ^8^ y que el que no viniera dentro de tres días, según el consejo de los príncipes y de los ancianos, perdiera todos sus bienes, y él mismo se separara de la asamblea del cautiverio.
+@5 Entonces se levantó Esdras, y juramentó á los príncipes de los sacerdotes y de los Levitas, y á todo Israel, que harían conforme á esto; y ellos juraron. 
+@6 Levantóse luego Esdras de delante la casa de Dios, y fuése á la cámara de Johanán hijo de Eliasib: é ido allá, no comió pan ni bebió agua, porque se entristeció sobre la prevaricación de los de la transmigración. 
+@7 E hicieron pasar pregón por Judá y por Jerusalem á todos los hijos de la transmigración, que se juntasen en Jerusalem: 
+@8 Y que el que no viniera dentro de tres días, conforme al acuerdo de los príncipes y de los ancianos, perdiese toda su hacienda, y él fuese apartado de la compañía de los de la transmigración.
 
-^9^ Entonces todos los hombres de Judá y de Benjamín se reunieron en Jerusalén dentro de los tres días. Era el mes noveno, a los veinte días del mes; y todo el pueblo se sentó en el amplio lugar frente a la casa de Dios, temblando por este asunto y por la gran lluvia.
+@9 Así todos los hombres de Judá y de Benjamín se reunieron en Jerusalem dentro de tres días, á los veinte del mes, el cual era el mes noveno; y sentóse todo el pueblo en la plaza de la casa de Dios, temblando con motivo de aquel negocio, y á causa de las lluvias.
 
-^10^ El sacerdote Esdras se levantó y les dijo: “Ustedes han cometido una infracción y se han casado con mujeres extranjeras, aumentando la culpa de Israel. ^11^ Ahora, pues, confesad a Yavé, el Dios de vuestros padres, y haced su voluntad. Sepárense de los pueblos de la tierra y de las mujeres extranjeras”.
+@10 Y levantóse Esdras el sacerdote, y díjoles: Vosotros habéis prevaricado, por cuanto tomasteis mujeres extrañas, añadiendo así sobre el pecado de Israel. 
+@11 Ahora pues, dad gloria á Jehová Dios de vuestros padres, y haced su voluntad, y apartaos de los pueblos de las tierras, y de las mujeres extranjeras.
 
-^12^ Entonces toda la asamblea respondió en voz alta: “Debemos hacer lo que has dicho sobre nosotros. ^13^ Pero el pueblo es numeroso, y es tiempo de mucha lluvia, y no podemos quedarnos afuera. Esta no es una obra de un día ni de dos, pues hemos transgredido mucho en este asunto. ^14^ Ahora bien, que se designen nuestros príncipes para toda la asamblea, y que vengan a horas señaladas todos los que están en nuestras ciudades que se han casado con mujeres extranjeras, y con ellos los ancianos de cada ciudad y sus jueces, hasta que se aparte de nosotros la feroz ira de nuestro Dios, hasta que se resuelva este asunto.”
+@12 Y respondió todo aquel concurso, y dijeron en alta voz: Así se haga conforme á tu palabra. 
+@13 Mas el pueblo es mucho, y el tiempo lluvioso, y no hay fuerza para estar en la calle: ni la obra es de un día ni de dos, porque somos muchos los que hemos prevaricado en este negocio. 
+@14 Estén ahora nuestros príncipes, los de toda la congregación; y todos aquellos que en nuestras ciudades hubieren tomado mujeres extranjeras, vengan á tiempos aplazados, y con ellos los ancianos de cada ciudad, y los jueces de ellas, hasta que apartemos de nosotros el furor de la ira de nuestro Dios sobre esto.
 
-^15^ Sólo Jonatán, hijo de Asahel, y Jahzé, hijo de Ticva, se opusieron a esto; y Mesulam y el levita Sabetai los ayudaron.
+@15 Fueron pues puestos sobre este negocio Jonathán hijo de Asael, y Jaazías hijo de Tikvah; y Mesullam y Sabethai, Levitas, les ayudaron.
 
-^16^ Así lo hicieron los hijos del cautiverio. El sacerdote Esdras, con algunos jefes de familia, según sus casas paternas, y todos ellos por sus nombres, fueron apartados; y se sentaron el primer día del décimo mes para examinar el asunto. ^17^ Terminaron con todos los hombres que se habían casado con mujeres extranjeras para el primer día del primer mes.
+@16 E hicieron así los hijos de la transmigración. Y apartados que fueron luego Esdras sacerdote, y los varones cabezas de familias en la casa de sus padres, todos ellos por sus nombres, sentáronse el primer día del mes décimo para inquirir el negocio. 
+@17 Y concluyeron, con todos aquellos que habían tomado mujeres extranjeras, al primer día del mes primero.
 
 ## Lista de sacerdotes, levitas y laicos que se casaron con mujeres extrañas
-^18^ Entre los hijos de los sacerdotes se encontraron algunos que se habían casado con mujeres extranjeras: de los hijos de Jesúa, hijo de Josadac, y sus hermanos: Maasías, Eliezer, Jarib y Gedalías. ^a^ ^19^ Ellos dieron su mano para que repudiaran a sus mujeres; y siendo culpables, ofrecieron un carnero del rebaño por su culpa. ^20^ De los hijos de Immer Hanani y Zebadiah. ^21^ De los hijos de Harim: Maasías, Elías, Semaías, Jehiel y Uzías. ^22^ De los hijos de Pashur: Elioenai, Maaseiah, Ismael, Natanel, Jozabad y Elasah. ^23^ De los levitas: Jozabad, Simei, Kelaiah (también llamado Kelita), Pethahiah, Judah y Eliezer. ^24^ De los cantantes: Eliashib. De los guardianes de la puerta: Shallum, Telem y Uri. ^25^ De Israel: De los hijos de Paros: Ramías, Izzías, Malquías, Mijamín, Eleazar, Malquías y Benaías. ^26^ De los hijos de Elam: Matanías, Zacarías, Jehiel, Abdi, Jeremot y Elías. ^27^ De los hijos de Zattu Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad y Aziza. ^28^ De los hijos de Bebai Johanán, Hananías, Zabbai y Atilái. ^29^ De los hijos de Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal y Jeremoth. ^30^ De los hijos de Pahatmoab Adna, Quelal, Benaía, Maasías, Matanías, Bezalel, Binúi y Manasés. ^31^ De los hijos de Harim Eliezer, Ishijá, Malquías, Semaías, Simeón, ^32^ Benjamín, Malluch y Semarías. ^33^ De los hijos de Hasum: Mattenai, Matattah, Zabad, Eliphelet, Jeremai, Manasés y Simei. ^34^ De los hijos de Bani: Maadai, Amram, Uel, ^35^ Benaiah, Bedeiah, Cheluhi, ^36^ Vaniah, Meremoth, Eliashib, ^37^ Mattaniah, Mattenai, Jaasu, ^38^ Bani, Binnui, Shimei, ^39^ Shelemiah, Nathan, Adaiah, ^40^ Machnadebai, Shashai, Sharai, ^41^ Azarel, Shelemiah, Shemariah, ^42^ Shallum, Amariah, y Joseph. ^43^ De los hijos de Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel y Benaiah.
-^a^[**10:18** Esd 3,2; Esd 9,2]
+@18 Y de los hijos de los sacerdotes que habían tomado mujeres extranjeras, fueron hallados estos: De los hijos de Jesuá hijo de Josadec, y de sus hermanos: Maasías, y Eliezer, y Jarib, y Gedalías; 
+@19 Y dieron su mano en promesa de echar sus mujeres, y ofrecieron como culpados un carnero de los rebaños por su delito. 
+@20 Y de los hijos de Immer: Hanani y Zebadías. 
+@21 Y de los hijos de Harím: Maasías, y Elías, y Semeías, y Jehiel, y Uzzías. 
+@22 Y de los hijos de Phasur: Elioenai, Maasías, Ismael, Nathanael, Jozabad, y Elasa. 
+@23 Y de los hijos de los Levitas: Jozabad, y Simi, Kelaía (este es Kelita), Pethaía, Judá y Eliezer. 
+@24 Y de los cantores, Eliasib; y de los porteros: Sellum, y Telem, y Uri. 
+@25 Asimismo de Israel: De los hijos de Pharos: Ramía é Izzías, y Malchías, y Miamim, y Eleazar, y Malchías, y Benaías. 
+@26 Y de los hijos de Elam: Mathanías, Zachârías, y Jehiel, y Abdi, y Jeremoth, y Elía. 
+@27 Y de los hijos de Zattu: Elioenai, Eliasib, Mathanías, y Jeremoth, y Zabad, y Aziza. 
+@28 Y de los hijos de Bebai: Johanán, Hananías, Zabbai, Atlai. 
+@29 Y de los hijos de Bani: Mesullam, Malluch, y Adaías, Jasub, y Seal, y Ramoth. 
+@30 Y de los hijos de Pahath-moab: Adna, y Chêleal, Benaías, Maasías, Mathanías, Besaleel, Binnui y Manasés. 
+@31 Y de los hijos de Harim: Eliezer, Issia, Malchîas, Semeía, Simeón, 
+@32 Benjamín, Malluch, Semarías. 
+@33 De los hijos de Hasum: Mathenai, Mathatha, Zabad, Eliphelet, Jeremai, Manasés, Sami. 
+@34 De los hijos de Bani: Maadi, Amram y Uel, 
+@35 Benaías, Bedías, Chêluhi, 
+@36 Vanías, Meremoth, Eliasib, 
+@37 Mathanías, Mathenai, y Jaasai, 
+@38 Y Bani, y Binnui, Simi, 
+@39 Y Selemías y Nathán y Adaías, 
+@40 Machnadbai, Sasai, Sarai, 
+@41 Azareel, y Selamías, Semarías, 
+@42 Sallum, Amarías, Joseph. 
+@43 Y de los hijos de Nebo: Jehiel, Matithías, Zabad, Zebina, Jadau, y Joel, Benaías.
 
-^44^ Todos ellos habían tomado esposas extranjeras. Algunos de ellos tenían esposas con las que tenían hijos.
+@44 Todos estos habían tomado mujeres extranjeras; y había mujeres de ellos que habían parido hijos.
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 10
 ## The action against mixed marriages
-^1^ Now while Ezra prayed and made confession, weeping and casting himself down before God’s house, there was gathered together to him out of Israel a very great assembly of men and women and children; for the people wept very bitterly. ^2^ Shecaniah the son of Jehiel, one of the sons of Elam, answered Ezra, “We have trespassed against our God, and have married foreign women of the peoples of the land. Yet now there is hope for Israel concerning this thing. ^3^ Now therefore let’s make a covenant with our God to put away all the wives and those who are born of them, according to the counsel of my lord and of those who tremble at the commandment of our God. Let it be done according to the law. ^4^ Arise, for the matter belongs to you and we are with you. Be courageous, and do it.” ^5^ Then Ezra arose, and made the chiefs of the priests, the Levites, and all Israel to swear that they would do according to this word. So they swore. ^6^ Then Ezra rose up from before God’s house, and went into the room of Jehohanan the son of Eliashib. When he came there, he didn’t eat bread or drank water, for he mourned because of the trespass of the exiles. ^7^ They made a proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem; ^8^ and that whoever didn’t come within three days, according to the counsel of the princes and the elders, all his possessions should be forfeited, and he himself separated from the assembly of the captivity. ^9^ Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within the three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the wide place in front of God’s house, trembling because of this matter, and because of the great rain. ^10^ Ezra the priest stood up and said to them, “You have trespassed, and have married foreign women, increasing the guilt of Israel. ^11^ Now therefore make confession to Yahweh, the God of your fathers and do his pleasure. Separate yourselves from the peoples of the land and from the foreign women.” ^12^ Then all the assembly answered with a loud voice, “We must do as you have said concerning us. ^13^ But the people are many, and it is a time of much rain, and we are not able to stand outside. This is not a work of one day or two, for we have greatly transgressed in this matter. ^14^ Now let our princes be appointed for all the assembly, and let all those who are in our cities who have married foreign women come at appointed times, and with them the elders of every city and its judges, until the fierce wrath of our God is turned from us, until this matter is resolved.” ^15^ Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this; and Meshullam and Shabbethai the Levite helped them. ^16^ The children of the captivity did so. Ezra the priest, with certain heads of fathers’ households, after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter. ^17^ They finished with all the men who had married foreign women by the first day of the first month.
+@1 Now while Ezra prayed and made confession, weeping and casting himself down before God’s house, there was gathered together to him out of Israel a very great assembly of men and women and children; for the people wept very bitterly. 
+@2 Shecaniah the son of Jehiel, one of the sons of Elam, answered Ezra, “We have trespassed against our God, and have married foreign women of the peoples of the land. Yet now there is hope for Israel concerning this thing. 
+@3 Now therefore let’s make a covenant with our God to put away all the wives and those who are born of them, according to the counsel of my lord and of those who tremble at the commandment of our God. Let it be done according to the law. 
+@4 Arise, for the matter belongs to you and we are with you. Be courageous, and do it.” 
+
+@5 Then Ezra arose, and made the chiefs of the priests, the Levites, and all Israel to swear that they would do according to this word. So they swore. 
+@6 Then Ezra rose up from before God’s house, and went into the room of Jehohanan the son of Eliashib. When he came there, he didn’t eat bread or drank water, for he mourned because of the trespass of the exiles. 
+@7 They made a proclamation throughout Judah and Jerusalem to all the children of the captivity, that they should gather themselves together to Jerusalem; 
+@8 and that whoever didn’t come within three days, according to the counsel of the princes and the elders, all his possessions should be forfeited, and he himself separated from the assembly of the captivity. 
+
+@9 Then all the men of Judah and Benjamin gathered themselves together to Jerusalem within the three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the wide place in front of God’s house, trembling because of this matter, and because of the great rain. 
+
+@10 Ezra the priest stood up and said to them, “You have trespassed, and have married foreign women, increasing the guilt of Israel. 
+@11 Now therefore make confession to Yahweh, the God of your fathers and do his pleasure. Separate yourselves from the peoples of the land and from the foreign women.” 
+
+@12 Then all the assembly answered with a loud voice, “We must do as you have said concerning us. 
+@13 But the people are many, and it is a time of much rain, and we are not able to stand outside. This is not a work of one day or two, for we have greatly transgressed in this matter. 
+@14 Now let our princes be appointed for all the assembly, and let all those who are in our cities who have married foreign women come at appointed times, and with them the elders of every city and its judges, until the fierce wrath of our God is turned from us, until this matter is resolved.” 
+
+@15 Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah stood up against this; and Meshullam and Shabbethai the Levite helped them. 
+
+@16 The children of the captivity did so. Ezra the priest, with certain heads of fathers’ households, after their fathers’ houses, and all of them by their names, were set apart; and they sat down in the first day of the tenth month to examine the matter. 
+@17 They finished with all the men who had married foreign women by the first day of the first month.
 
 ## List of priests, Levites and laity who married strange women
-^18^ Among the sons of the priests there were found who had married foreign women: of the sons of Jeshua, the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah. ^19^ They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt. ^20^ Of the sons of Immer: Hanani and Zebadiah. ^21^ Of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah. ^22^ Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah. ^23^ Of the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer. ^24^ Of the singers: Eliashib. Of the gatekeepers: Shallum, Telem, and Uri. ^25^ Of Israel: Of the sons of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah. ^26^ Of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah. ^27^ Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza. ^28^ Of the sons of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai. ^29^ Of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth. ^30^ Of the sons of Pahathmoab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh. ^31^ Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon, ^32^ Benjamin, Malluch, and Shemariah. ^33^ Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei. ^34^ Of the sons of Bani: Maadai, Amram, Uel, ^35^ Benaiah, Bedeiah, Cheluhi, ^36^ Vaniah, Meremoth, Eliashib, ^37^ Mattaniah, Mattenai, Jaasu, ^38^ Bani, Binnui, Shimei, ^39^ Shelemiah, Nathan, Adaiah, ^40^ Machnadebai, Shashai, Sharai, ^41^ Azarel, Shelemiah, Shemariah, ^42^ Shallum, Amariah, and Joseph. ^43^ Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel, and Benaiah. ^44^ All these had taken foreign wives. Some of them had wives by whom they had children.
+@18 Among the sons of the priests there were found who had married foreign women: of the sons of Jeshua, the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah. 
+@19 They gave their hand that they would put away their wives; and being guilty, they offered a ram of the flock for their guilt. 
+@20 Of the sons of Immer: Hanani and Zebadiah. 
+@21 Of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah. 
+@22 Of the sons of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah. 
+@23 Of the Levites: Jozabad, Shimei, Kelaiah (also called Kelita), Pethahiah, Judah, and Eliezer. 
+@24 Of the singers: Eliashib. Of the gatekeepers: Shallum, Telem, and Uri. 
+@25 Of Israel: Of the sons of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah. 
+@26 Of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah. 
+@27 Of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza. 
+@28 Of the sons of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai. 
+@29 Of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth. 
+@30 Of the sons of Pahathmoab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh. 
+@31 Of the sons of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon, 
+@32 Benjamin, Malluch, and Shemariah. 
+@33 Of the sons of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei. 
+@34 Of the sons of Bani: Maadai, Amram, Uel, 
+@35 Benaiah, Bedeiah, Cheluhi, 
+@36 Vaniah, Meremoth, Eliashib, 
+@37 Mattaniah, Mattenai, Jaasu, 
+@38 Bani, Binnui, Shimei, 
+@39 Shelemiah, Nathan, Adaiah, 
+@40 Machnadebai, Shashai, Sharai, 
+@41 Azarel, Shelemiah, Shemariah, 
+@42 Shallum, Amariah, and Joseph. 
+@43 Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Iddo, Joel, and Benaiah. 
+
+@44 All these had taken foreign wives. Some of them had wives by whom they had children.
 \nopandoc{\end{otherlanguage}}
 \nopandoc{\end{paracol}}

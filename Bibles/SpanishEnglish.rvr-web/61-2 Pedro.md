@@ -3,72 +3,140 @@
 
 # 1
 ## Bendiciones
-^1^ Simón Pedro, siervo y apóstol de Jesucristo, a los que han obtenido una fe tan preciosa como la nuestra en la justicia de nuestro Dios y Salvador, Jesucristo: ^2^ Gracia a vosotros y paz sean multiplicadas en el conocimiento de Dios y de Jesús nuestro Señor,
+@1 Simón Pedro, siervo y apóstol de Jesucristo, á los que habéis alcanzado fe igualmente preciosa con nosotros en la justicia de nuestro Dios y Salvador Jesucristo: 
+@2 Gracia y paz os sea multiplicada en el conocimiento de Dios, y de nuestro Señor Jesús.
 
 ## Recordatorio de perseverancia y progreso en el desarrollo de la fe para la aceptación en el reino eterno de Cristo
-^3^ viendo que su divino poder nos ha concedido todas las cosas que pertenecen a la vida y a la piedad, mediante el conocimiento de aquel que nos llamó por su propia gloria y virtud, ^a^ ^4^ por el cual nos ha concedido sus preciosas y grandísimas promesas; para que por medio de ellas lleguéis a ser partícipes de la naturaleza divina, habiendo escapado de la corrupción que hay en el mundo por la concupiscencia. ^5^ Sí, y por esto mismo añadiendo de vuestra parte toda la diligencia, en vuestra fe suministrar la excelencia moral; y en la excelencia moral, el conocimiento; ^b^ ^6^ y en el conocimiento, el autocontrol; y en el autocontrol, la perseverancia; y en la perseverancia, la piedad; ^7^ y en la piedad, el afecto fraternal; y en el afecto fraternal, el amor. ^c^ ^8^ Porque si estas cosas son vuestras y abundan, os hacen no ser ociosos ni infructuosos en el conocimiento de nuestro Señor Jesucristo. ^9^ Porque el que carece de estas cosas está ciego, viendo sólo lo que está cerca, habiendo olvidado la limpieza de sus antiguos pecados. ^d^ ^10^ Por tanto, hermanos, procurad con más diligencia asegurar vuestra vocación y elección. Porque si hacéis estas cosas, nunca tropezaréis. ^11^ Porque así se os dará abundantemente la entrada en el Reino eterno de nuestro Señor y Salvador Jesucristo.
-^a^[**1:3** 1Pe 2,9] ^b^[**1:5** Gal 5,6; Gal 5,22] ^c^[**1:7** Gal 6,10] ^d^[**1:9** 1Jn 2,9; 1Jn 1,2-11]
+@3 Como todas las cosas que pertenecen á la vida y á la piedad nos sean dadas de su divina potencia, por el conocimiento de aquel que nos ha llamado por su gloria y virtud: 
+@4 Por las cuales nos son dadas preciosas y grandísimas promesas, para que por ellas fueseis hechos participantes de la naturaleza divina, habiendo huído de la corrupción que está en el mundo por concupiscencia. 
+@5 Vosotros también, poniendo toda diligencia por esto mismo, mostrad en vuestra fe virtud, y en la virtud ciencia; 
+@6 Y en la ciencia templanza, y en la templanza paciencia, y en la paciencia temor de Dios; 
+@7 Y en el temor de Dios, amor fraternal, y en el amor fraternal caridad. 
+@8 Porque si en vosotros hay estas cosas, y abundan, no os dejarán estar ociosos, ni estériles en el conocimiento de nuestro Señor Jesucristo. 
+@9 Mas el que no tiene estas cosas, es ciego, y tiene la vista muy corta, habiendo olvidado la purificación de sus antiguos pecados. 
+@10 Por lo cual, hermanos, procurad tanto más de hacer firme vuestra vocación y elección; porque haciendo estas cosas, no caeréis jamás. 
+@11 Porque de esta manera os será abundantemente administrada la entrada en el reino eterno de nuestro Señor y Salvador Jesucristo.
 
 ## La indicación del apóstol de su muerte inminente
-^12^ Por lo tanto, no me descuidaré de recordaros estas cosas, aunque las conozcáis y estéis establecidos en la verdad presente. ^13^ Me parece justo, mientras esté en esta tienda, estimularos recordándolas, ^a^ ^14^ sabiendo que la salida de mi tienda se produce rápidamente, como me lo hizo saber nuestro Señor Jesucristo. ^b^ ^15^ Sí, me esforzaré para que siempre podáis recordar estas cosas incluso después de mi partida.
-^a^[**1:13** 2Cor 5,1] ^b^[**1:14** Juan 21,18-19]
+@12 Por esto, yo no dejaré de amonestaros siempre de estas cosas, aunque vosotros las sepáis, y estéis confirmados en la verdad presente. 
+@13 Porque tengo por justo, en tanto que estoy en este tabernáculo, de incitaros con amonestación: 
+@14 Sabiendo que brevemente tengo de dejar mi tabernáculo, como nuestro Señor Jesucristo me ha declarado. 
+@15 También yo procuraré con diligencia, que después de mi fallecimiento, vosotros podáis siempre tener memoria de estas cosas.
 
 ## Referencia a la fiabilidad del sermón apostólico y la palabra profética
-^16^ Porque no seguimos fábulas ingeniosas cuando os dimos a conocer el poder y la venida de nuestro Señor Jesucristo, sino que fuimos testigos presenciales de su majestad. ^17^ Porque recibió de Dios Padre el honor y la gloria cuando le llegó la voz desde la Gloria Majestuosa: “Este es mi Hijo amado, en quien me complazco”. ^a^ ^18^ Esta voz la oímos salir del cielo cuando estábamos con él en el monte santo.
-^a^[**1:17** Mat 17,5]
+@16 Porque no os hemos dado á conocer la potencia y la venida de nuestro Señor Jesucristo, siguiendo fábulas por arte compuestas; sino como habiendo con nuestros propios ojos visto su majestad. 
+@17 Porque él había recibido de Dios Padre honra y gloria, cuando una tal voz fué á él enviada de la magnífica gloria: Este es el amado Hijo mío, en el cual yo me he agradado. 
+@18 Y nosotros oímos esta voz enviada del cielo, cuando estábamos juntamente con él en el monte santo.
 
-^19^ Nosotros tenemos la palabra profética más segura; y hacéis bien en prestarle atención como a una lámpara que brilla en un lugar oscuro, hasta que amanezca y surja la estrella de la mañana en vuestros corazones, ^20^ sabiendo primero esto, que ninguna profecía de la Escritura es de interpretación privada. ^21^ Porque ninguna profecía fue jamás fruto de la voluntad del hombre, sino que los santos hombres de Dios hablaron movidos por el Espíritu Santo. ^a^
-^a^[**1:21** 2Tim 3,16-17]
+@19 Tenemos también la palabra profética más permanente, á la cual hacéis bien de estar atentos como á una antorcha que alumbra en lugar oscuro hasta que el día esclarezca, y el lucero de la mañana salga en vuestros corazones: 
+@20 Entendiendo primero esto, que ninguna profecía de la Escritura es de particular interpretación; 
+@21 Porque la profecía no fué en los tiempos pasados traída por voluntad humana, sino los santos hombres de Dios hablaron siendo inspirados del Espíritu Santo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
-^1^ Simon Peter, a servant and apostle of Jesus Christ,^a^ to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ: ^2^ Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord, ^3^ seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue, ^4^ by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust. ^5^ Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; ^6^ and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness; ^7^ and in godliness, brotherly affection; and in brotherly affection, love. ^8^ For if these things are yours and abound, they make you to not be idle or unfruitful in the knowledge of our Lord Jesus Christ. ^9^ For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins. ^10^ Therefore, brothers,^b^ be more diligent to make your calling and election sure. For if you do these things, you will never stumble. ^11^ For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ. 
+## Blessings
+@1 Simon Peter, a servant and apostle of Jesus Christ,^a^ to those who have obtained a like precious faith with us in the righteousness of our God and Savior, Jesus Christ: 
+@2 Grace to you and peace be multiplied in the knowledge of God and of Jesus our Lord,
+
+## Reminder of perseverance and progress in developing faith for acceptance into Christ's eternal kingdom
+@3 seeing that his divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us by his own glory and virtue, 
+@4 by which he has granted to us his precious and exceedingly great promises; that through these you may become partakers of the divine nature, having escaped from the corruption that is in the world by lust. 
+@5 Yes, and for this very cause adding on your part all diligence, in your faith supply moral excellence; and in moral excellence, knowledge; 
+@6 and in knowledge, self-control; and in self-control, perseverance; and in perseverance, godliness; 
+@7 and in godliness, brotherly affection; and in brotherly affection, love. 
+@8 For if these things are yours and abound, they make you to not be idle or unfruitful in the knowledge of our Lord Jesus Christ. 
+@9 For he who lacks these things is blind, seeing only what is near, having forgotten the cleansing from his old sins. 
+@10 Therefore, brothers,^b^ be more diligent to make your calling and election sure. For if you do these things, you will never stumble. 
+@11 For thus you will be richly supplied with the entrance into the eternal Kingdom of our Lord and Savior, Jesus Christ. 
 ^a^[**1:1** “Christ” means “Anointed One”.] ^b^[**1:10** The word for “brothers” here and where context allows may also be correctly translated “brothers and sisters” or “siblings.” ]
 
-^12^ Therefore I will not be negligent to remind you of these things, though you know them and are established in the present truth. ^13^ I think it right, as long as I am in this tent, to stir you up by reminding you, ^14^ knowing that the putting off of my tent comes swiftly, even as our Lord Jesus Christ made clear to me. ^15^ Yes, I will make every effort that you may always be able to remember these things even after my departure. 
+## The apostle's indication of his imminent death
+@12 Therefore I will not be negligent to remind you of these things, though you know them and are established in the present truth. 
+@13 I think it right, as long as I am in this tent, to stir you up by reminding you, 
+@14 knowing that the putting off of my tent comes swiftly, even as our Lord Jesus Christ made clear to me. 
+@15 Yes, I will make every effort that you may always be able to remember these things even after my departure.
 
-^16^ For we didn’t follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. ^17^ For he received from God the Father honor and glory when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”^a^ ^18^ We heard this voice come out of heaven when we were with him on the holy mountain. 
+## Reference to the reliability of the apostolic sermon and the prophetic word
+@16 For we didn’t follow cunningly devised fables when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. 
+@17 For he received from God the Father honor and glory when the voice came to him from the Majestic Glory, “This is my beloved Son, in whom I am well pleased.”^a^ 
+@18 We heard this voice come out of heaven when we were with him on the holy mountain. 
 ^a^[**1:17** Matthew 17:5; Mark 9:7; Luke 9:35]
 
-^19^ We have the more sure word of prophecy; and you do well that you heed it as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts, ^20^ knowing this first, that no prophecy of Scripture is of private interpretation. ^21^ For no prophecy ever came by the will of man, but holy men of God spoke, being moved by the Holy Spirit. 
+@19 We have the more sure word of prophecy; and you do well that you heed it as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts, 
+@20 knowing this first, that no prophecy of Scripture is of private interpretation. 
+@21 For no prophecy ever came by the will of man, but holy men of God spoke, being moved by the Holy Spirit. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 2
 ## Advertencia de los falsos maestros viciosos y perniciosos que enfrentan el juicio divino
-^1^ Pero también surgieron falsos profetas entre el pueblo, como también habrá falsos maestros entre vosotros, que introducirán en secreto herejías destructoras, negando incluso al Maestro que los compró, trayendo sobre sí una rápida destrucción. ^a^ ^2^ Muchos seguirán sus caminos inmorales, y como resultado, el camino de la verdad será calumniado. ^3^ En la codicia os explotarán con palabras engañosas: cuya sentencia ya desde antiguo no se demora, y su destrucción no se demora.
-^a^[**2:1** Mat 24,11; 1Tim 4,1]
+@1 Pero hubo también falsos profetas en el pueblo, como habrá entre vosotros falsos doctores, que introducirán encubiertamente herejías de perdición, y negarán al Señor que los rescató, atrayendo sobre sí mismos perdición acelerada. 
+@2 Y muchos seguirán sus disoluciones, por los cuales el camino de la verdad será blasfemado; 
+@3 Y por avaricia harán mercadería de vosotros con palabras fingidas; sobre los cuales la condenación ya de largo tiempo no se tarda, y su perdición no se duerme.
 
 ## Tres ejemplos del Antiguo Testamento
-^4^ Porque si Dios no perdonó a los ángeles cuando pecaron, sino que los arrojó al Tártaro y los confió a las fosas de las tinieblas para ser reservados al juicio ^5^ y no perdonó al mundo antiguo, sino que preservó a Noé con otros siete, predicador de la justicia, cuando trajo un diluvio sobre el mundo de los impíos, ^a^ ^6^ y convirtiendo en cenizas las ciudades de Sodoma y Gomorra, las condenó a la destrucción, habiéndolas puesto como ejemplo para los que vivían de manera impía, ^b^ ^7^ y libró al justo Lot que estaba muy angustiado por la vida lujuriosa de los malvados ^8^ (pues aquel justo que habitaba entre ellos era atormentado en su alma justa de día en día con ver y oír hechos inicuos), ^9^ entonces el Señor sabe cómo librar a los piadosos de la tentación y mantener a los injustos bajo castigo para el día del juicio, ^c^ ^10^ pero principalmente a los que andan según la carne en la lujuria de la desfloración y desprecian la autoridad. Atrevidos, voluntariosos, no temen hablar mal de los dignatarios, ^11^ mientras que los ángeles, aunque son más grandes en fuerza y poder, no presentan un juicio calumnioso contra ellos ante el Señor.
-^a^[**2:5** 1Pe 3,20; 2Pe 3,6; Gén 8,18] ^b^[**2:6** Gén 19,24-25] ^c^[**2:9** 1Cor 10,13]
+@4 Porque si Dios no perdonó á los ángeles que habían pecado, sino que habiéndolos despeñado en el infierno con cadenas de oscuridad, los entregó para ser reservados al juicio; 
+@5 Y si no perdonó al mundo viejo, mas guardó á Noé, pregonero de justicia, con otras siete personas, trayendo el diluvio sobre el mundo de malvados; 
+@6 Y si condenó por destrucción las ciudades de Sodoma y de Gomorra, tornándolas en ceniza, y poniéndolas por ejemplo á los que habían de vivir sin temor y reverencia de Dios; 
+@7 Y libró al justo Lot, acosado por la nefanda conducta de los malvados; 
+@8 (Porque este justo, con ver y oir, morando entre ellos, afligía cada día su alma justa con los hechos de aquellos injustos;) 
+@9 Sabe el Señor librar de tentación á los píos, y reservar á los injustos para ser atormentados en el día del juicio; 
+@10 Y principalmente á aquellos que, siguiendo la carne, andan en concupiscencia é inmundicia, y desprecian la potestad; atrevidos, contumaces, que no temen decir mal de las potestades superiores: 
+@11 Como quiera que los mismos ángeles, que son mayores en fuerza y en potencia, no pronuncian juicio de maldición contra ellas delante del Señor.
 
 ## Descripción de la maldad y la inmoralidad de los falsos maestros
-^12^ Pero éstos, como criaturas irracionales, nacidos como animales naturales para ser tomados y destruidos, hablando mal en asuntos sobre los que son ignorantes, en su destrucción seguramente serán destruidos, ^13^ recibiendo el salario de la injusticia; gente que considera un placer deleitarse en el día, las manchas y los defectos, deleitándose en su engaño mientras festejan con ustedes; ^14^ teniendo los ojos llenos de adulterio, y que no pueden dejar de pecar, seduciendo a las almas inquietas, teniendo un corazón entrenado en la codicia, ¡hijos malditos! ^15^ Abandonando el camino recto, se extraviaron, habiendo seguido el camino de Balaam, hijo de Beor, que amaba el salario de la maldad; ^a^ ^16^ pero fue reprendido por su propia desobediencia. Un asno mudo habló con voz de hombre y detuvo la locura del profeta.
-^a^[**2:15** Núm 22,7-28]
+@12 Mas éstos, diciendo mal de las cosas que no entienden, como bestias brutas, que naturalmente son hechas para presa y destrucción, perecerán en su perdición, 
+@13 Recibiendo el galardón de su injusticia, ya que reputan por delicia poder gozar de deleites cada día. Estos son suciedades y manchas, los cuales comiendo con vosotros, juntamente se recrean en sus errores; 
+@14 Teniendo los ojos llenos de adulterio, y no saben cesar de pecar; cebando las almas inconstantes; teniendo el corazón ejercitado en codicias, siendo hijos de maldición; 
+@15 Que han dejado el camino derecho, y se han extraviado, siguiendo el camino de Balaam, hijo de Bosor, el cual amó el premio de la maldad. 
+@16 Y fué reprendido por su iniquidad: una muda bestia de carga, hablando en voz de hombre, refrenó la locura del profeta.
 
-^17^ Estos son pozos sin agua, nubes arrastradas por la tormenta, para los que se ha reservado la negrura de las tinieblas para siempre. ^a^ ^18^ Porque, pronunciando grandes palabras hinchadas de vacuidad, atraen en las lujurias de la carne, por medio del libertinaje, a los que en verdad escapan de los que viven en el error; ^19^ prometiéndoles la libertad, mientras ellos mismos son siervos de la corrupción; porque el hombre es llevado a la esclavitud por quien lo vence. ^b^
-^a^[**2:17** Prov 25,14] ^b^[**2:19** Gal 5,13; 1Pe 2,16]
+@17 Estos son fuentes sin agua, y nubes traídas de torbellino de viento: para los cuales está guardada la oscuridad de las tinieblas para siempre. 
+@18 Porque hablando arrogantes palabras de vanidad, ceban con las concupiscencias de la carne en disoluciones á los que verdaderamente habían huído de los que conversan en error; 
+@19 Prometiéndoles libertad, siendo ellos mismos siervos de corrupción. Porque el que es de alguno vencido, es sujeto á la servidumbre del que lo venció.
 
-^20^ Porque si después de haber escapado de la inmundicia del mundo por el conocimiento del Señor y Salvador Jesucristo, vuelven a enredarse en él y a ser vencidos, el último estado les resulta peor que el primero. ^a^ ^21^ Porque más les valdría no haber conocido el camino de la justicia, que después de haberlo conocido, volverse atrás del santo mandamiento que les fue entregado. ^b^ ^22^ Pero les ha sucedido lo que dice el proverbio verdadero: “El perro vuelve a su vómito”, y “la cerda que se ha lavado a revolcarse en el fango”. ^c^
-^a^[**2:20** Mat 12,45] ^b^[**2:21** Luc 12,47-48] ^c^[**2:22** Prov 26,11]
+@20 Ciertamente, si habiéndose ellos apartado de las contaminaciones del mundo, por el conocimiento del Señor y Salvador Jesucristo, y otra vez envolviéndose en ellas, son vencidos, sus postrimerías les son hechas peores que los principios. 
+@21 Porque mejor les hubiera sido no haber conocido el camino de la justicia, que después de haberlo conocido, tornarse atrás del santo mandamiento que les fué dado. 
+@22 Pero les ha acontecido lo del verdadero proverbio: El perro se volvió á su vómito, y la puerca lavada á revolcarse en el cieno. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 2
-^1^ But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction. ^2^ Many will follow their immoral^a^ ways, and as a result, the way of the truth will be maligned. ^3^ In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber. 
+## Warning of vicious and pernicious false teachers facing divine judgment
+@1 But false prophets also arose among the people, as false teachers will also be among you, who will secretly bring in destructive heresies, denying even the Master who bought them, bringing on themselves swift destruction. 
+@2 Many will follow their immoral^a^ ways, and as a result, the way of the truth will be maligned. 
+@3 In covetousness they will exploit you with deceptive words: whose sentence now from of old doesn’t linger, and their destruction will not slumber. 
 ^a^[**2:2** TR reads “destructive” instead of “immoral”]
 
-^4^ For if God didn’t spare angels when they sinned, but cast them down to Tartarus,^a^ and committed them to pits of darkness to be reserved for judgment; ^5^ and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly, ^6^ and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way, ^7^ and delivered righteous Lot, who was very distressed by the lustful life of the wicked ^8^ (for that righteous man dwelling among them was tormented in his righteous soul from day to day with seeing and hearing lawless deeds), ^9^ then the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment, ^10^ but chiefly those who walk after the flesh in the lust of defilement and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries, ^11^ whereas angels, though greater in might and power, don’t bring a slanderous judgment against them before the Lord. ^12^ But these, as unreasoning creatures, born natural animals to be taken and destroyed, speaking evil in matters about which they are ignorant, will in their destroying surely be destroyed, ^13^ receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you; ^14^ having eyes full of adultery, and who can’t cease from sin, enticing unsettled souls, having a heart trained in greed, accursed children! ^15^ Forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing; ^16^ but he was rebuked for his own disobedience. A speechless donkey spoke with a man’s voice and stopped the madness of the prophet. 
+## Three examples from the Old Testament
+@4 For if God didn’t spare angels when they sinned, but cast them down to Tartarus,^a^ and committed them to pits of darkness to be reserved for judgment; 
+@5 and didn’t spare the ancient world, but preserved Noah with seven others, a preacher of righteousness, when he brought a flood on the world of the ungodly, 
+@6 and turning the cities of Sodom and Gomorrah into ashes, condemned them to destruction, having made them an example to those who would live in an ungodly way, 
+@7 and delivered righteous Lot, who was very distressed by the lustful life of the wicked 
+@8 (for that righteous man dwelling among them was tormented in his righteous soul from day to day with seeing and hearing lawless deeds), 
+@9 then the Lord knows how to deliver the godly out of temptation and to keep the unrighteous under punishment for the day of judgment, 
+@10 but chiefly those who walk after the flesh in the lust of defilement and despise authority. Daring, self-willed, they are not afraid to speak evil of dignitaries, 
+@11 whereas angels, though greater in might and power, don’t bring a slanderous judgment against them before the Lord.
+
+## Description of the wickedness and immorality of the false teachers
+@12 But these, as unreasoning creatures, born natural animals to be taken and destroyed, speaking evil in matters about which they are ignorant, will in their destroying surely be destroyed, 
+@13 receiving the wages of unrighteousness; people who count it pleasure to revel in the daytime, spots and defects, reveling in their deceit while they feast with you; 
+@14 having eyes full of adultery, and who can’t cease from sin, enticing unsettled souls, having a heart trained in greed, accursed children! 
+@15 Forsaking the right way, they went astray, having followed the way of Balaam the son of Beor, who loved the wages of wrongdoing; 
+@16 but he was rebuked for his own disobedience. A speechless donkey spoke with a man’s voice and stopped the madness of the prophet. 
 ^a^[**2:4** Tartarus is another name for Hell]
 
-^17^ These are wells without water, clouds driven by a storm, for whom the blackness of darkness has been reserved forever. ^18^ For, uttering great swelling words of emptiness, they entice in the lusts of the flesh, by licentiousness, those who are indeed escaping from those who live in error; ^19^ promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him. 
+@17 These are wells without water, clouds driven by a storm, for whom the blackness of darkness has been reserved forever. 
+@18 For, uttering great swelling words of emptiness, they entice in the lusts of the flesh, by licentiousness, those who are indeed escaping from those who live in error; 
+@19 promising them liberty, while they themselves are bondservants of corruption; for a man is brought into bondage by whoever overcomes him. 
 
-^20^ For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first. ^21^ For it would be better for them not to have known the way of righteousness, than after knowing it, to turn back from the holy commandment delivered to them. ^22^ But it has happened to them according to the true proverb, “The dog turns to his own vomit again,”^a^ and “the sow that has washed to wallowing in the mire.”
+@20 For if, after they have escaped the defilement of the world through the knowledge of the Lord and Savior Jesus Christ, they are again entangled in it and overcome, the last state has become worse for them than the first. 
+@21 For it would be better for them not to have known the way of righteousness, than after knowing it, to turn back from the holy commandment delivered to them. 
+@22 But it has happened to them according to the true proverb, “The dog turns to his own vomit again,”^a^ and “the sow that has washed to wallowing in the mire.”
 ^a^[**2:22** Proverbs 26:11] 
 
 \nopandoc{\end{otherlanguage}}
@@ -76,27 +144,58 @@
 
 # 3
 ## Contra los negadores de la segunda venida de Cristo
-^1^ Esta es ahora, amados, la segunda carta que os he escrito; y en ambas os despierto la mente sincera recordándoos ^a^ ^2^ que debéis recordar las palabras que fueron dichas antes por los santos profetas y el mandamiento de nosotros, los apóstoles del Señor y Salvador, ^3^ sabiendo esto primero, que en los últimos días vendrán burladores, andando según sus propias concupiscencias ^b^ ^4^ y diciendo: “¿Dónde está la promesa de su venida? Porque, desde el día en que los padres se durmieron, todas las cosas siguen como al principio de la creación”. ^c^ ^5^ Porque olvidan voluntariamente que hubo cielos desde la antigüedad, y una tierra formada de agua y en medio del agua por la palabra de Dios, ^d^ ^6^ por lo cual el mundo que entonces existía, al ser desbordado por el agua, pereció. ^e^ ^7^ Pero los cielos que existen ahora y la tierra, por la misma palabra han sido guardados para el fuego, siendo reservados para el día del juicio y de la destrucción de los hombres impíos.
-^a^[**3:1** 2Pe 1,13] ^b^[**3:3** 1Tim 4,1; Jds 1,18] ^c^[**3:4** Is 5,19; Ezeq 12,22; Mat 24,48] ^d^[**3:5** Mat 24,38; Gén 1,2; Gén 1,6; Gén 1,9; Sal 24,2] ^e^[**3:6** 2Pe 2,5; Gén 7,21]
+@1 Carísimos, yo os escribo ahora esta segunda carta, por las cuales ambas despierto con exhortación vuestro limpio entendimiento; 
+@2 Para que tengáis memoria de las palabras que antes han sido dichas por los santos profetas, y de nuestro mandamiento, que somos apóstoles del Señor y Salvador: 
+@3 Sabiendo primero esto, que en los postrimeros días vendrán burladores, andando según sus propias concupiscencias, 
+@4 Y diciendo: ¿Dónde está la promesa de su advenimiento? porque desde el día en que los padres durmieron, todas las cosas permanecen así como desde el principio de la creación. 
+@5 Cierto ellos ignoran voluntariamente, que los cielos fueron en el tiempo antiguo, y la tierra que por agua y en agua está asentada, por la palabra de Dios; 
+@6 Por lo cual el mundo de entonces pereció anegado en agua: 
+@7 Mas los cielos que son ahora, y la tierra, son conservados por la misma palabra, guardados para el fuego en el día del juicio, y de la perdición de los hombres impíos.
 
 ## La paciencia del Señor
-^8^ Pero no olvidéis esto, amados, que un día es para el Señor como mil años, y mil años como un día. ^a^ ^9^ El Señor no es lento en cuanto a su promesa, como algunos consideran la lentitud, sino que es paciente con nosotros, no queriendo que nadie perezca, sino que todos lleguen al arrepentimiento. ^b^
-^a^[**3:8** Sal 90,4] ^b^[**3:9** Hab 2,3; 1Tim 2,4]
+@8 Mas, oh amados, no ignoréis esta una cosa: que un día delante del Señor es como mil años y mil años como un día. 
+@9 El Señor no tarda su promesa, como algunos la tienen por tardanza; sino que es paciente para con nosotros, no queriendo que ninguno perezca, sino que todos procedan al arrepentimiento.
 
 ## Referencia a la ocurrencia repentina y el temor del fin del mundo; Un nuevo mundo emerge
-^10^ Pero el día del Señor vendrá como un ladrón en la noche, en el cual los cielos pasarán con gran estruendo, y los elementos se disolverán con ardor; y la tierra y las obras que hay en ella serán quemadas. ^a^ ^11^ Por lo tanto, ya que todas estas cosas serán destruidas de esta manera, ¿qué clase de personas debéis ser en la vida santa y en la piedad, ^12^ esperando y deseando fervientemente la llegada del día de Dios, que hará que los cielos ardientes se disuelvan, y los elementos se derritan con calor ardiente? ^13^ Pero, según su promesa, esperamos unos cielos nuevos y una tierra nueva, en los que habite la justicia. ^b^
-^a^[**3:10** 1Tes 5,23; Mat 24,29; Apoc 20,11] ^b^[**3:13** Is 65,17; Apoc 21,1; Apoc 21,27]
+@10 Mas el día del Señor vendrá como ladrón en la noche; en el cual los cielos pasarán con grande estruendo, y los elementos ardiendo serán deshechos, y la tierra y las obras que en ella están serán quemadas. 
+@11 Pues como todas estas cosas han de ser deshechas, ¿qué tales conviene que vosotros seáis en santas y pías conversaciones, 
+@12 Esperando y apresurándoos para la venida del día de Dios, en el cual los cielos siendo encendidos serán deshechos, y los elementos siendo abrasados, se fundirán? 
+@13 Bien que esperamos cielos nuevos y tierra nueva, según sus promesas, en los cuales mora la justicia.
 
 ## Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
-^14^ Por lo tanto, amados, ya que buscáis estas cosas, procurad ser hallados en paz, sin defecto e irreprochables ante él. ^[**3:14** 1Cor 1,7-8] ^15^ Considerad la paciencia de nuestro Señor como la salvación; así como también nuestro amado hermano Pablo, según la sabiduría que le fue dada, os escribió, ^[**3:15** Rom 2,4] ^16^ como también en todas sus cartas, hablando en ellas de estas cosas. En ellas hay algunas cosas difíciles de entender, que los ignorantes e inestables tuercen, como también lo hacen con las otras Escrituras, para su propia destrucción. ^17^ Vosotros, pues, amados, conociendo de antemano estas cosas, tened cuidado, no sea que arrastrados por el error de los impíos, caigáis de vuestra propia firmeza. ^18^ Pero creced en la gracia y el conocimiento de nuestro Señor y Salvador Jesucristo. A él sea la gloria ahora y siempre. Amén.
+@14 Por lo cual, oh amados, estando en esperanza de estas cosas, procurad con diligencia que seáis hallados de él sin mácula, y sin reprensión, en paz. 
+@15 Y tened por salud la paciencia de nuestro Señor; como también nuestro amado hermano Pablo, según la sabiduría que le ha sido dada, os ha escrito también; 
+@16 Casi en todas sus epístolas, hablando en ellas de estas cosas; entre las cuales hay algunas difíciles de entender, las cuales los indoctos é inconstantes tuercen, como también las otras Escrituras, para perdición de sí mismos. 
+@17 Así que vosotros, oh amados, pues estáis amonestados, guardaos que por el error de los abominables no seáis juntamente extraviados, y caigáis de vuestra firmeza. 
+@18 Mas creced en la gracia y conocimiento de nuestro Señor y Salvador Jesucristo. A él sea gloria ahora y hasta el día de la eternidad. Amén.
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 3
-^1^ This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you ^2^ that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Savior, ^3^ knowing this first, that in the last days mockers will come, walking after their own lusts ^4^ and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.” ^5^ For they willfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God, ^6^ by which means the world that existed then, being overflowed with water, perished. ^7^ But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men. 
+## Against the deniers of the second coming of Christ
+@1 This is now, beloved, the second letter that I have written to you; and in both of them I stir up your sincere mind by reminding you 
+@2 that you should remember the words which were spoken before by the holy prophets and the commandment of us, the apostles of the Lord and Savior, 
+@3 knowing this first, that in the last days mockers will come, walking after their own lusts 
+@4 and saying, “Where is the promise of his coming? For, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.” 
+@5 For they willfully forget that there were heavens from of old, and an earth formed out of water and amid water by the word of God, 
+@6 by which means the world that existed then, being overflowed with water, perished. 
+@7 But the heavens that exist now and the earth, by the same word have been stored up for fire, being reserved against the day of judgment and destruction of ungodly men.
 
-^8^ But don’t forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day. ^9^ The Lord is not slow concerning his promise, as some count slowness; but he is patient with us, not wishing that anyone should perish, but that all should come to repentance. ^10^ But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat; and the earth and the works that are in it will be burned up. ^11^ Therefore, since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness, ^12^ looking for and earnestly desiring the coming of the day of God, which will cause the burning heavens to be dissolved, and the elements will melt with fervent heat? ^13^ But, according to his promise, we look for new heavens and a new earth, in which righteousness dwells. 
+## The patience of the Lord
+@8 But don’t forget this one thing, beloved, that one day is with the Lord as a thousand years, and a thousand years as one day. 
+@9 The Lord is not slow concerning his promise, as some count slowness; but he is patient with us, not wishing that anyone should perish, but that all should come to repentance.
 
-^14^ Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without defect and blameless in his sight. ^15^ Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you, ^16^ as also in all of his letters, speaking in them of these things. In those, there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction. ^17^ You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness. ^18^ But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.
+## Reference to the sudden occurrence and fear of the end of the world; A new world emerges
+@10 But the day of the Lord will come as a thief in the night, in which the heavens will pass away with a great noise, and the elements will be dissolved with fervent heat; and the earth and the works that are in it will be burned up. 
+@11 Therefore, since all these things will be destroyed like this, what kind of people ought you to be in holy living and godliness, 
+@12 looking for and earnestly desiring the coming of the day of God, which will cause the burning heavens to be dissolved, and the elements will melt with fervent heat? 
+@13 But, according to his promise, we look for new heavens and a new earth, in which righteousness dwells.
+
+## Zusammenfassende Schlußmahnung mit Bezugnahme auf die Briefe des Paulus
+@14 Therefore, beloved, seeing that you look for these things, be diligent to be found in peace, without defect and blameless in his sight. 
+@15 Regard the patience of our Lord as salvation; even as our beloved brother Paul also, according to the wisdom given to him, wrote to you, 
+@16 as also in all of his letters, speaking in them of these things. In those, there are some things that are hard to understand, which the ignorant and unsettled twist, as they also do to the other Scriptures, to their own destruction. 
+@17 You therefore, beloved, knowing these things beforehand, beware, lest being carried away with the error of the wicked, you fall from your own steadfastness. 
+@18 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and forever. Amen.
 \nopandoc{\end{otherlanguage}}
 \nopandoc{\end{paracol}}

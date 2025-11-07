@@ -3,61 +3,96 @@
 
 # 1
 ## El nacimiento y ordenación de Samuel como siervo del Señor en Silo; Canción de alabanza de Hanna
-^1^ Había un hombre de Ramathaim Zophim, de la región montañosa de Ephraim, que se llamaba Elkanah, hijo de Jeroham, hijo de Elihu, hijo de Tohu, hijo de Zuph, un Ephraimita. ^a^ ^2^ Tenía dos esposas. Una se llamaba Ana y la otra Penina. Penina tuvo hijos, pero Ana no tuvo hijos. ^b^ ^3^ Este hombre subía de su ciudad de año en año para adorar y sacrificar a Yavé de los Ejércitos en Silo. Los dos hijos de Elí, Ofni y Finees, sacerdotes de Yavé, estaban allí. ^c^ ^4^ Cuando llegó el día en que Elcana sacrificó, dio porciones a Penina, su esposa, y a todos sus hijos e hijas; ^5^ pero dio una porción doble a Ana, porque amaba a Ana, pero Yavé había cerrado su vientre. ^6^ Su rival la provocaba duramente, para irritarla, porque Yahvé había cerrado su vientre. ^7^ Así, año tras año, cuando subía a la casa de Yavé, su rival la provocaba. Por eso lloraba y no comía. ^8^ Su esposo Elcana le dijo: “Ana, ¿por qué lloras? ¿Por qué no comes? ¿Por qué está afligido tu corazón? ¿No soy yo mejor para ti que diez hijos?”
-^a^[**1:1** 1Cró 6,26-27; 1Cró 6,34-35] ^b^[**1:2** Gén 29,31] ^c^[**1:3** Jos 18,1]
+@1 Hubo un varón de Ramathaim de Sophim, del monte de Ephraim, que se llamaba Elcana, hijo de Jeroham, hijo de Eliú, hijo de Thohu, hijo de Suph, Ephrateo. 
+@2 Y tenía él dos mujeres; el nombre de la una era Anna, y el nombre de la otra Peninna. Y Peninna tenía hijos, mas Anna no los tenía. 
+@3 Y subía aquel varón todos los años de su ciudad, á adorar y sacrificar á Jehová de los ejércitos en Silo, donde estaban dos hijos de Eli, Ophni y Phinees, sacerdotes de Jehová. 
+@4 Y cuando venía el día, Elcana sacrificaba, y daba á Peninna su mujer, y á todos sus hijos y á todas sus hijas, á cada uno su parte. 
+@5 Mas á Anna daba una parte escogida; porque amaba á Anna, aunque Jehová había cerrado su matriz. 
+@6 Y su competidora la irritaba, enojándola y entristeciéndola, porque Jehová había cerrado su matriz. 
+@7 Y así hacía cada año: cuando subía á la casa de Jehová, enojaba así á la otra; por lo cual ella lloraba, y no comía. 
+@8 Y Elcana su marido le dijo: Anna, ¿por qué lloras? ¿y por qué no comes? ¿y por qué está afligido tu corazón? ¿No te soy yo mejor que diez hijos?
 
 ## Los votos de Hanna en Silo y su conversación con Eli
-^9^ Ana se levantó cuando terminaron de comer y beber en Silo. El sacerdote Elí estaba sentado en su silla junto al umbral del templo de Yahvé. ^10^ Ana, amargada de alma, oró a Yahvé, llorando amargamente. ^11^ Hizo un voto y dijo: “Yahvé de los Ejércitos, si en verdad miras la aflicción de tu siervo y te acuerdas de mí, y no te olvidas de tu siervo, sino que le das a tu siervo un hijo varón, yo se lo daré a Yahvé todos los días de su vida, y ninguna navaja pasará por su cabeza.” ^a^
-^a^[**1:11** Núm 6,2-21]
+@9 Y levantóse Anna después que hubo comido y bebido en Silo; y mientras el sacerdote Eli estaba sentado en una silla junto á un pilar del templo de Jehová, 
+@10 Ella con amargura de alma oró á Jehová, y lloró abundantemente. 
+@11 E hizo voto, diciendo: Jehová de los ejércitos, si te dignares mirar la aflicción de tu sierva, y te acordares de mí, y no te olvidares de tu sierva, mas dieres á tu sierva un hijo varón, yo lo dedicaré á Jehová todos los días de su vida, y no subirá navaja sobre su cabeza.
 
-^12^ Mientras ella seguía orando ante el Señor, Elí vio su boca. ^13^ Ana hablaba en su corazón. Sólo sus labios se movían, pero su voz no se oía. Por eso Elí pensó que estaba borracha. ^14^ Elí le dijo: “¿Hasta cuándo estarás borracha? Deshazte de tu vino”.
+@12 Y fué que como ella orase largamente delante de Jehová, Eli estaba observando la boca de ella. 
+@13 Mas Anna hablaba en su corazón, y solamente se movían sus labios, y su voz no se oía; y túvola Eli por borracha. 
+@14 Entonces le dijo Eli: ¿Hasta cuándo estarás borracha?; digiere tu vino.
 
-^15^ Ana respondió: “No, señor mío, soy una mujer de espíritu afligido. No he estado bebiendo vino ni bebida fuerte, sino que he derramado mi alma ante Yahvé. ^a^ ^16^ No consideres a tu sierva una mujer malvada, pues he estado hablando por la abundancia de mi queja y mi provocación.”
-^a^[**1:15** Sal 62,8]
+@15 Y Anna le respondió, diciendo: No, señor mío: mas yo soy una mujer trabajada de espíritu: no he bebido vino ni sidra, sino que he derramado mi alma delante de Jehová. 
+@16 No tengas á tu sierva por una mujer impía: porque por la magnitud de mis congojas y de mi aflicción he hablado hasta ahora.
 
-^17^ Entonces Elí respondió: “Ve en paz, y que el Dios de Israel te conceda la petición que le has hecho.”
+@17 Y Eli respondió, y dijo: Ve en paz, y el Dios de Israel te otorgue la petición que le has hecho.
 
-^18^ Ella dijo: “Que tu sierva encuentre gracia ante tus ojos”. Entonces la mujer se fue y comió; y la expresión de su rostro ya no era triste.
+@18 Y ella dijo: Halle tu sierva gracia delante de tus ojos. Y fuése la mujer su camino, y comió, y no estuvo más triste.
 
 ## Nacimiento de Samuel, primera infancia y consagración en Silo
-^19^ Se levantaron temprano por la mañana y adoraron a Yavé, y luego regresaron y llegaron a su casa en Ramá. Entonces Elcana conoció a su esposa Ana, y el Señor se acordó de ella. ^a^
-^a^[**1:19** Gén 30,22]
+@19 Y levantándose de mañana, adoraron delante de Jehová, y volviéronse, y vinieron á su casa en Ramatha. Y Elcana conoció á Anna su mujer, y Jehová se acordó de ella.
 
-^20^ Llegado el momento, Ana concibió y dio a luz un hijo, al que puso por nombre Samuel, diciendo: “Porque se lo he pedido a Yahvé”.
+@20 Y fué que corrido el tiempo, después de haber concebido Anna, parió un hijo, y púsole por nombre Samuel, diciendo: Por cuanto lo demandé á Jehová.
 
-^21^ El hombre Elcana y toda su casa subieron a ofrecer a Yavé el sacrificio anual y su voto. ^22^ Pero Ana no subió, porque le dijo a su marido: “No hasta que el niño sea destetado; entonces lo llevaré para que se presente ante Yavé y se quede allí para siempre.”
+@21 Después subió el varón Elcana, con toda su familia, á sacrificar á Jehová el sacrificio acostumbrado, y su voto. 
+@22 Mas Anna no subió, sino dijo á su marido: Yo no subiré hasta que el niño sea destetado; para que lo lleve y sea presentado delante de Jehová, y se quede allá para siempre.
 
-^23^ Su esposo Elcana le dijo: “Haz lo que te parezca bien. Espera hasta que lo hayas destetado; sólo que Yahvé confirme su palabra”. La mujer esperó y amamantó a su hijo hasta que lo destetó. ^24^ Cuando lo destetó, lo subió con ella, con tres toros, un efa de harina y un recipiente de vino, y lo llevó a la casa de Yahvé en Silo. El niño era pequeño. ^25^ Mataron el toro y llevaron al niño a Elí. ^26^ Ella dijo: “Oh, señor mío, vive tu alma, señor mío, yo soy la mujer que estuvo aquí junto a ti, orando a Yavé. ^27^ He rogado por este niño, y el Señor me ha concedido la petición que le hice. ^a^ ^28^ Por eso también se lo he entregado a Yavé. Mientras viva está entregado a Yahvé”. Allí adoró a Yahvé. ^b^
-^a^[**1:27** 1Sam 1,17] ^b^[**1:28** 1Sam 1,11]
+@23 Y Elcana su marido le respondió: Haz lo que bien te pareciere; quédate hasta que lo destetes: solamente Jehová cumpla su palabra. Y quedóse la mujer, y crió su hijo hasta que lo destetó.
+
+@24 Y después que lo hubo destetado, llevólo consigo, con tres becerros, y un epha de harina, y una vasija de vino, y trájolo á la casa de Jehová en Silo: y el niño era pequeño. 
+@25 Y matando el becerro, trajeron el niño á Eli. 
+@26 Y ella dijo: ¡Oh, señor mío! vive tu alma, señor mío, yo soy aquella mujer que estuvo aquí junto á ti orando á Jehová. 
+@27 Por este niño oraba, y Jehová me dió lo que le pedí. 
+@28 Yo pues le vuelvo también á Jehová: todos los días que viviere, será de Jehová. Y adoró allí á Jehová. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 1
-^1^ Now there was a certain man of Ramathaim Zophim, of the hill country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. ^2^ He had two wives. The name of one was Hannah, and the name of the other Peninnah. Peninnah had children, but Hannah had no children. ^3^ This man went up out of his city from year to year to worship and to sacrifice to Yahweh^a^ of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to Yahweh, were there. ^4^ When the day came that Elkanah sacrificed, he gave portions to Peninnah his wife and to all her sons and her daughters; ^5^ but he gave a double portion to Hannah, for he loved Hannah, but Yahweh had shut up her womb. ^6^ Her rival provoked her severely, to irritate her, because Yahweh had shut up her womb. ^7^ So year by year, when she went up to Yahweh’s house, her rival provoked her. Therefore she wept, and didn’t eat. ^8^ Elkanah her husband said to her, “Hannah, why do you weep? Why don’t you eat? Why is your heart grieved? Am I not better to you than ten sons?” 
+## The birth and ordination of Samuel as a servant of the Lord in Shiloh; Hanna Praise Song
+@1 Now there was a certain man of Ramathaim Zophim, of the hill country of Ephraim, and his name was Elkanah, the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. 
+@2 He had two wives. The name of one was Hannah, and the name of the other Peninnah. Peninnah had children, but Hannah had no children. 
+@3 This man went up out of his city from year to year to worship and to sacrifice to Yahweh^a^ of Armies in Shiloh. The two sons of Eli, Hophni and Phinehas, priests to Yahweh, were there. 
+@4 When the day came that Elkanah sacrificed, he gave portions to Peninnah his wife and to all her sons and her daughters; 
+@5 but he gave a double portion to Hannah, for he loved Hannah, but Yahweh had shut up her womb. 
+@6 Her rival provoked her severely, to irritate her, because Yahweh had shut up her womb. 
+@7 So year by year, when she went up to Yahweh’s house, her rival provoked her. Therefore she wept, and didn’t eat. 
+@8 Elkanah her husband said to her, “Hannah, why do you weep? Why don’t you eat? Why is your heart grieved? Am I not better to you than ten sons?” 
 ^a^[**1:3** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
 
-^9^ So Hannah rose up after they had finished eating and drinking in Shiloh. Now Eli the priest was sitting on his seat by the doorpost of Yahweh’s temple. ^10^ She was in bitterness of soul, and prayed to Yahweh, weeping bitterly. ^11^ She vowed a vow, and said, “Yahweh of Armies, if you will indeed look at the affliction of your servant and remember me, and not forget your servant, but will give to your servant a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.” 
+## Hanna's vows in Silo and her conversation with Eli
+@9 So Hannah rose up after they had finished eating and drinking in Shiloh. Now Eli the priest was sitting on his seat by the doorpost of Yahweh’s temple. 
+@10 She was in bitterness of soul, and prayed to Yahweh, weeping bitterly. 
+@11 She vowed a vow, and said, “Yahweh of Armies, if you will indeed look at the affliction of your servant and remember me, and not forget your servant, but will give to your servant a boy, then I will give him to Yahweh all the days of his life, and no razor shall come on his head.” 
 
-^12^ As she continued praying before Yahweh, Eli saw her mouth. ^13^ Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk. ^14^ Eli said to her, “How long will you be drunk? Get rid of your wine!” 
+@12 As she continued praying before Yahweh, Eli saw her mouth. 
+@13 Now Hannah spoke in her heart. Only her lips moved, but her voice was not heard. Therefore Eli thought she was drunk. 
+@14 Eli said to her, “How long will you be drunk? Get rid of your wine!” 
 
-^15^ Hannah answered, “No, my lord, I am a woman of a sorrowful spirit. I have not been drinking wine or strong drink, but I poured out my soul before Yahweh. ^16^ Don’t consider your servant a wicked woman; for I have been speaking out of the abundance of my complaint and my provocation.” 
+@15 Hannah answered, “No, my lord, I am a woman of a sorrowful spirit. I have not been drinking wine or strong drink, but I poured out my soul before Yahweh. 
+@16 Don’t consider your servant a wicked woman; for I have been speaking out of the abundance of my complaint and my provocation.” 
 
-^17^ Then Eli answered, “Go in peace; and may the God^a^ of Israel grant your petition that you have asked of him.” 
+@17 Then Eli answered, “Go in peace; and may the God^a^ of Israel grant your petition that you have asked of him.” 
 ^a^[**1:17** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
-^18^ She said, “Let your servant find favor in your sight.” So the woman went her way and ate; and her facial expression wasn’t sad any more. 
+@18 She said, “Let your servant find favor in your sight.” So the woman went her way and ate; and her facial expression wasn’t sad any more.
 
-^19^ They rose up in the morning early and worshiped Yahweh, then returned and came to their house to Ramah. Then Elkanah knew Hannah his wife; and Yahweh remembered her. 
+## Birth of Samuel, early childhood and consecration in Shiloh
+@19 They rose up in the morning early and worshiped Yahweh, then returned and came to their house to Ramah. Then Elkanah knew Hannah his wife; and Yahweh remembered her. 
 
-^20^ When the time had come, Hannah conceived, and bore a son; and she named him Samuel,^a^ saying, “Because I have asked him of Yahweh.” 
+@20 When the time had come, Hannah conceived, and bore a son; and she named him Samuel,^a^ saying, “Because I have asked him of Yahweh.” 
 ^a^[**1:20** Samuel sounds like the Hebrew for “heard by God.”]
 
-^21^ The man Elkanah, and all his house, went up to offer to Yahweh the yearly sacrifice and his vow. ^22^ But Hannah didn’t go up, for she said to her husband, “Not until the child is weaned; then I will bring him, that he may appear before Yahweh, and stay there forever.” 
+@21 The man Elkanah, and all his house, went up to offer to Yahweh the yearly sacrifice and his vow. 
+@22 But Hannah didn’t go up, for she said to her husband, “Not until the child is weaned; then I will bring him, that he may appear before Yahweh, and stay there forever.” 
 
-^23^ Elkanah her husband said to her, “Do what seems good to you. Wait until you have weaned him; only may Yahweh establish his word.” 
+@23 Elkanah her husband said to her, “Do what seems good to you. Wait until you have weaned him; only may Yahweh establish his word.” 
 
-So the woman waited and nursed her son until she weaned him. ^24^ When she had weaned him, she took him up with her, with three bulls, and one ephah^a^ of meal, and a container of wine, and brought him to Yahweh’s house in Shiloh. The child was young. ^25^ They killed the bull, and brought the child to Eli. ^26^ She said, “Oh, my lord, as your soul lives, my lord, I am the woman who stood by you here, praying to Yahweh. ^27^ I prayed for this child, and Yahweh has given me my petition which I asked of him. ^28^ Therefore I have also given him to Yahweh. As long as he lives he is given to Yahweh.” He worshiped Yahweh there.
+So the woman waited and nursed her son until she weaned him. 
+@24 When she had weaned him, she took him up with her, with three bulls, and one ephah^a^ of meal, and a container of wine, and brought him to Yahweh’s house in Shiloh. The child was young. 
+@25 They killed the bull, and brought the child to Eli. 
+@26 She said, “Oh, my lord, as your soul lives, my lord, I am the woman who stood by you here, praying to Yahweh. 
+@27 I prayed for this child, and Yahweh has given me my petition which I asked of him. 
+@28 Therefore I have also given him to Yahweh. As long as he lives he is given to Yahweh.” He worshiped Yahweh there.
 ^a^[**1:24** 1 ephah is about 22 liters or about 2/3 of a bushel] 
 
 \nopandoc{\end{otherlanguage}}
@@ -65,51 +100,108 @@ So the woman waited and nursed her son until she weaned him. ^24^ When she had w
 
 # 2
 ## Himno de alabanza a Hanna; Inicio de servicio de Samuel en Silo
-^1^ Ana oró y dijo, “¡Mi corazón se regocija en Yahvé! Mi cuerno está exaltado en Yahvé. Mi boca se ensancha sobre mis enemigos, porque me alegro de tu salvación. ^a^ ^2^ No hay nadie tan santo como Yahvé, porque no hay nadie más que tú, ni hay ninguna roca como nuestro Dios. ^3^ “No sigas hablando con tanto orgullo. No dejes que la arrogancia salga de tu boca, porque Yahvé es un Dios de conocimiento. Por él se pesan las acciones. ^4^ “Los arcos de los poderosos están rotos. Los que tropezaron están armados de fuerza. ^5^ Los que estaban llenos se han alquilado por el pan. Los que tenían hambre están satisfechos. Sí, la estéril ha dado a luz a siete. La que tiene muchos hijos languidece. ^6^ “Yahvé mata y da vida. Baja al Seol y sube. ^b^ ^7^ Yahvé empobrece y enriquece. Él baja, también levanta. ^c^ ^8^ Él levanta a los pobres del polvo. Él levanta al necesitado del estercoleropara que se sienten con los príncipesy heredar el trono de la gloria. Porque las columnas de la tierra son de Yahvé. Ha puesto el mundo sobre ellos. ^d^ ^9^ Él guardará los pies de sus santos, pero los malvados serán silenciados en la oscuridad; porque ningún hombre prevalecerá por su fuerza. ^e^ ^10^ Los que luchan contra Yahvé serán despedazados. Él tronará contra ellos en el cielo. “Yahvé juzgará los confines de la tierra. Dará fuerza a su rey, y exaltar el cuerno de su ungido”. ^f^
-^a^[**2:1** Luc 1,46-55] ^b^[**2:6** Deut 32,39] ^c^[**2:7** Sal 75,7] ^d^[**2:8** Sal 113,7-8] ^e^[**2:9** Sal 33,16] ^f^[**2:10** Sal 132,17]
+@1 Y Anna oró y dijo: mi corazón se regocija en Jehová, mi cuerno es ensalzado en Jehová; mi boca se ensanchó sobre mis enemigos, por cuanto me alegré en tu salud. 
+@2 No hay santo como Jehová: porque no hay ninguno fuera de ti; y no hay refugio como el Dios nuestro. 
+@3 No multipliquéis hablando grandezas, altanerías; cesen las palabras arrogantes de vuestra boca; porque el Dios de todo saber es Jehová, y á él toca el pesar las acciones. 
+@4 Los arcos de los fuertes fueron quebrados, y los flacos se ciñeron de fortaleza. 
+@5 Los hartos se alquilaron por pan: y cesaron los hambrientos: hasta parir siete la estéril, y la que tenía muchos hijos enfermó. 
+@6 Jehová mata, y él da vida: él hace descender al sepulcro, y hace subir. 
+@7 Jehová empobrece, y él enriquece: abate, y ensalza. 
+@8 El levanta del polvo al pobre, y al menesteroso ensalza del estiércol, para asentarlo con los príncipes; y hace que tengan por heredad asiento de honra: porque de Jehová son las columnas de la tierra, y él asentó sobre ellas el mundo. 
+@9 El guarda los pies de sus santos, mas los impíos perecen en tinieblas; porque nadie será fuerte por su fuerza. 
+@10 Delante de Jehová serán quebrantados sus adversarios, y sobre ellos tronará desde los cielos: Jehová juzgará los términos de la tierra, y dará fortaleza á su Rey, y ensalzará el cuerno de su Mesías.
 
-^11^ Elcana se fue a Ramá, a su casa. El niño sirvió a Yahvé ante el sacerdote Elí.
+@11 Y Elcana se volvió á su casa en Ramatha; y el niño ministraba á Jehová delante del sacerdote Eli.
 
 ## La maldad de los hijos de Elí; Anuncio del juicio divino
-^12^ Los hijos de Elí eran hombres malvados. No conocían a Yavé. ^13^ La costumbre de los sacerdotes con el pueblo era que cuando alguien ofrecía un sacrificio, el siervo del sacerdote se acercaba, mientras la carne estaba hirviendo, con un tenedor de tres dientes en la mano; ^a^ ^14^ y lo clavaba en la sartén, o caldera, o caldero. El sacerdote tomaba para sí todo lo que el tenedor sacaba. Esto lo hacían con todos los israelitas que llegaban allí a Silo. ^15^ Antes de quemar la grasa, se acercaba el criado del sacerdote y le decía al hombre que sacrificaba: “Da carne para asar para el sacerdote, porque no aceptará de ti carne hervida, sino cruda.” ^b^
-^a^[**2:13** Éxod 27,3] ^b^[**2:15** Lev 3,3-5]
+@12 Mas los hijos de Eli eran hombres impíos, y no tenían conocimiento de Jehová. 
+@13 Y la costumbre de los sacerdotes con el pueblo era que, cuando alguno ofrecía sacrificio, venía el criado del sacerdote mientras la carne estaba á cocer, trayendo en su mano un garfio de tres ganchos; 
+@14 Y hería con él en la caldera, ó en la olla, ó en el caldero, ó en el pote; y todo lo que sacaba el garfio, el sacerdote lo tomaba para si. De esta manera hacían á todo Israelita que venía á Silo. 
+@15 Asimismo, antes de quemar el sebo, venía el criado del sacerdote, y decía al que sacrificaba: Da carne que ase para el sacerdote; porque no tomará de ti carne cocida, sino cruda.
 
-^16^ Si el hombre le decía: “Que se queme primero la grasa, y luego toma la cantidad que desee tu alma”, entonces le decía: “No, pero me la darás ahora; y si no, la tomaré por la fuerza”. ^17^ El pecado de los jóvenes fue muy grande ante Yavé, pues los hombres despreciaron la ofrenda de Yavé.
+@16 Y si le respondía el varón, Quemen luego el sebo hoy, y después toma tanta como quisieres; él respondía: No, sino ahora la has de dar: de otra manera yo la tomaré por fuerza. 
+@17 Era pues el pecado de los mozos muy grande delante de Jehová; porque los hombres menospreciaban los sacrificios de Jehová.
 
 ## Hanna y el niño del coro Samuel
-^18^ Pero Samuel ministraba ante Yavé, siendo un niño, vestido con un efod de lino. ^19^ Además, su madre le hizo un pequeño manto, y se lo traía de año en año cuando subía con su esposo a ofrecer el sacrificio anual. ^20^ Elí bendijo a Elcana y a su esposa, y dijo: “Que Yavé les dé descendencia de esta mujer por la petición que se le hizo a Yavé.” Luego se fueron a su casa. ^21^ Yahvé visitó a Ana, y ella concibió y dio a luz tres hijos y dos hijas. El niño Samuel creció ante Yavé. ^a^
-^a^[**2:21** Luc 1,80]
+@18 Y el joven Samuel ministraba delante de Jehová, vestido de un ephod de lino. 
+@19 Y hacíale su madre una túnica pequeña, y traíasela cada año, cuando subía con su marido á ofrecer el sacrificio acostumbrado. 
+@20 Y Eli bendijo á Elcana y á su mujer, diciendo: Jehová te dé simiente de esta mujer en lugar de esta petición que hizo á Jehová. Y volviéronse á su casa. 
+@21 Y visitó Jehová á Anna, y concibió, y parió tres hijos, y dos hijas. Y el joven Samuel crecía delante de Jehová.
 
 ## Las suaves amonestaciones de Elí a sus hijos degenerados
-^22^ Elí era ya muy viejo, y oyó todo lo que sus hijos hacían a todo Israel, y cómo se acostaban con las mujeres que servían a la puerta de la Tienda de las Reuniones. ^a^ ^23^ Les dijo: “¿Por qué hacéis tales cosas? Porque me he enterado de vuestros malos tratos por parte de todo este pueblo. ^24^ ¡No, hijos míos, porque no es una buena noticia lo que oigo! Ustedes hacen desobedecer al pueblo de Yavé. ^25^ Si un hombre peca contra otro, Dios lo juzgará; pero si un hombre peca contra Yavé, ¿quién intercederá por él?” No obstante, no escucharon la voz de su padre, porque Yahvé pretendía matarlos.
-^a^[**2:22** Éxod 38,8]
+@22 Eli empero era muy viejo, y oyó todo lo que sus hijos hacían á todo Israel, y como dormían con las mujeres que velaban á la puerta del tabernáculo del testimonio. 
+@23 Y díjoles: ¿Por qué hacéis cosas semejantes? Porque yo oigo de todo este pueblo vuestros malos procederes. 
+@24 No, hijos míos; porque no es buena fama la que yo oigo: que hacéis pecar al pueblo de Jehová. 
+@25 Si pecare el hombre contra el hombre, los jueces le juzgarán; mas si alguno pecare contra Jehová, ¿quién rogará por él? Mas ellos no oyeron la voz de su padre, porque Jehová los quería matar.
 
-^26^ El niño Samuel crecía y aumentaba el favor de Yahvé y de los hombres. ^a^
-^a^[**2:26** Luc 2,52]
+@26 Y el joven Samuel iba creciendo, y adelantando delante de Dios y delante de los hombres.
 
 ## Refrán del Profeta: Anuncio de la caída de Eli y su casa
-^27^ Un hombre de Dios se acercó a Elí y le dijo: “Yahvé dice: ‘¿Acaso me revelé a la casa de tu padre cuando estaban en Egipto en la esclavitud de la casa del faraón? ^28^ ¿Acaso no lo elegí de entre todas las tribus de Israel para que fuera mi sacerdote, para que subiera a mi altar, quemara incienso y llevara un efod ante mí? ¿No le di a la casa de su padre todas las ofrendas de los hijos de Israel hechas por el fuego? ^a^ ^29^ ¿Por qué pateáis mi sacrificio y mi ofrenda, que yo he ordenado en mi morada, y honráis a vuestros hijos por encima de mí, para engordaros con lo mejor de todas las ofrendas de Israel, mi pueblo?’ ^30^ “Por tanto, Yahvé, el Dios de Israel, dice: ‘Ciertamente dije que tu casa y la casa de tu padre andarían delante de mí para siempre’. Pero ahora Yahvé dice: ‘Lejos de mí; porque a los que me honran los honraré, y a los que me desprecian los maldeciré. ^b^ ^31^ He aquí, vienen los días en que cortaré tu brazo y el brazo de la casa de tu padre, para que no haya un anciano en tu casa. ^c^ ^32^ Verás la aflicción de mi morada, en toda la riqueza que daré a Israel. No habrá un anciano en tu casa para siempre. ^33^ El hombre tuyo que no corte de mi altar consumirá tus ojos y entristecerá tu corazón. Todo el aumento de tu casa morirá en la flor de su edad. ^d^ ^34^ Esta será la señal que te llegará sobre tus dos hijos, sobre Ofni y Finees: en un solo día morirán los dos. ^e^ ^35^ Yo me levantaré un sacerdote fiel que hará lo que está en mi corazón y en mi mente. Le construiré una casa segura. Él caminará delante de mi ungido para siempre. ^36^ Sucederá que todos los que queden en tu casa vendrán y se inclinarán ante él por una pieza de plata y un pan, y dirán: “Por favor, ponme en uno de los oficios de los sacerdotes, para que pueda comer un bocado de pan””.
-^a^[**2:28** Núm 18,8] ^b^[**2:30** Éxod 28,1] ^c^[**2:31** 1Re 2,27] ^d^[**2:33** 1Sam 22,20] ^e^[**2:34** 1Sam 4,11]
+@27 Y vino un varón de Dios á Eli, y díjole: Así ha dicho Jehová: ¿No me manifesté yo claramente á la casa de tu padre, cuando estaban en Egipto en casa de Faraón? 
+@28 Y yo le escogí por mi sacerdote entre todas las tribus de Israel, para que ofreciese sobre mi altar, y quemase perfume, y trajese ephod delante de mí; y dí á la casa de tu padre todas las ofrendas de los hijos de Israel. 
+@29 ¿Por qué habéis hollado mis sacrificios y mis presentes, que yo mandé ofrecer en el tabernáculo; y has honrado á tus hijos más que á mí, engordándoos de lo principal de todas las ofrendas de mi pueblo Israel? 
+@30 Por tanto, Jehová el Dios de Israel dice: Yo había dicho que tu casa y la casa de tu padre andarían delante de mí perpetuamente; mas ahora ha dicho Jehová: Nunca yo tal haga, porque yo honraré á los que me honran, y los que me tuvieren en poco, serán viles. 
+@31 He aquí vienen días, en que cortaré tu brazo, y el brazo de la casa de tu padre, que no haya viejo en tu casa. 
+@32 Y verás competidor en el tabernáculo, en todas las cosas en que hiciere bien á Israel; y en ningún tiempo habrá viejo en tu casa. 
+@33 Y no te cortaré del todo varón de mi altar, para hacerte marchitar tus ojos, y henchir tu ánimo de dolor; mas toda la cría de tu casa morirá en la edad varonil. 
+@34 Y te será por señal esto que acontecerá á tus dos hijos, Ophni y Phinees: ambos morirán en un día. 
+@35 Y yo me suscitaré un sacerdote fiel, que haga conforme á mi corazón y á mi alma; y yo le edificaré casa firme, y andará delante de mi ungido todos los días. 
+@36 Y será que el que hubiere quedado en tu casa, vendrá á postrársele por un dinero de plata y un bocado de pan, diciéndole: Ruégote que me constituyas en algún ministerio, para que coma un bocado de pan. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 2
-^1^ Hannah prayed, and said, “My heart exults in Yahweh! My horn is exalted in Yahweh. My mouth is enlarged over my enemies, because I rejoice in your salvation. ^2^ There is no one as holy as Yahweh, for there is no one besides you, nor is there any rock like our God. ^3^ “Don’t keep talking so exceedingly proudly. Don’t let arrogance come out of your mouth, for Yahweh is a God of knowledge. By him actions are weighed. ^4^ “The bows of the mighty men are broken. Those who stumbled are armed with strength. ^5^ Those who were full have hired themselves out for bread. Those who were hungry are satisfied. Yes, the barren has borne seven. She who has many children languishes. ^6^ “Yahweh kills and makes alive. He brings down to Sheol^a^ and brings up. ^7^ Yahweh makes poor and makes rich. He brings low, he also lifts up. ^8^ He raises up the poor out of the dust. He lifts up the needy from the dunghill to make them sit with princes and inherit the throne of glory. For the pillars of the earth are Yahweh’s. He has set the world on them. ^9^ He will keep the feet of his holy ones, but the wicked will be put to silence in darkness; for no man will prevail by strength. ^10^ Those who strive with Yahweh shall be broken to pieces. He will thunder against them in the sky. “Yahweh will judge the ends of the earth. He will give strength to his king, and exalt the horn of his anointed.” 
+## Praise hymn to Hanna; Start of Samuel's service in Shiloh
+@1 Hannah prayed, and said, “My heart exults in Yahweh! My horn is exalted in Yahweh. My mouth is enlarged over my enemies, because I rejoice in your salvation. 
+@2 There is no one as holy as Yahweh, for there is no one besides you, nor is there any rock like our God. 
+@3 “Don’t keep talking so exceedingly proudly. Don’t let arrogance come out of your mouth, for Yahweh is a God of knowledge. By him actions are weighed. 
+@4 “The bows of the mighty men are broken. Those who stumbled are armed with strength. 
+@5 Those who were full have hired themselves out for bread. Those who were hungry are satisfied. Yes, the barren has borne seven. She who has many children languishes. 
+@6 “Yahweh kills and makes alive. He brings down to Sheol^a^ and brings up. 
+@7 Yahweh makes poor and makes rich. He brings low, he also lifts up. 
+@8 He raises up the poor out of the dust. He lifts up the needy from the dunghill to make them sit with princes and inherit the throne of glory. For the pillars of the earth are Yahweh’s. He has set the world on them. 
+@9 He will keep the feet of his holy ones, but the wicked will be put to silence in darkness; for no man will prevail by strength. 
+@10 Those who strive with Yahweh shall be broken to pieces. He will thunder against them in the sky. “Yahweh will judge the ends of the earth. He will give strength to his king, and exalt the horn of his anointed.” 
 ^a^[**2:6** Sheol is the place of the dead.]
 
-^11^ Elkanah went to Ramah to his house. The child served Yahweh before Eli the priest. 
+@11 Elkanah went to Ramah to his house. The child served Yahweh before Eli the priest.
 
-^12^ Now the sons of Eli were wicked men. They didn’t know Yahweh. ^13^ The custom of the priests with the people was that when anyone offered a sacrifice, the priest’s servant came while the meat was boiling, with a fork of three teeth in his hand; ^14^ and he stabbed it into the pan, or kettle, or cauldron, or pot. The priest took all that the fork brought up for himself. They did this to all the Israelites who came there to Shiloh. ^15^ Yes, before they burned the fat, the priest’s servant came, and said to the man who sacrificed, “Give meat to roast for the priest; for he will not accept boiled meat from you, but raw.” 
+## The wickedness of the sons of Eli; Announcement of divine judgment
+@12 Now the sons of Eli were wicked men. They didn’t know Yahweh. 
+@13 The custom of the priests with the people was that when anyone offered a sacrifice, the priest’s servant came while the meat was boiling, with a fork of three teeth in his hand; 
+@14 and he stabbed it into the pan, or kettle, or cauldron, or pot. The priest took all that the fork brought up for himself. They did this to all the Israelites who came there to Shiloh. 
+@15 Yes, before they burned the fat, the priest’s servant came, and said to the man who sacrificed, “Give meat to roast for the priest; for he will not accept boiled meat from you, but raw.” 
 
-^16^ If the man said to him, “Let the fat be burned first, and then take as much as your soul desires;” then he would say, “No, but you shall give it to me now; and if not, I will take it by force.” ^17^ The sin of the young men was very great before Yahweh; for the men despised Yahweh’s offering. ^18^ But Samuel ministered before Yahweh, being a child, clothed with a linen ephod. ^19^ Moreover his mother made him a little robe, and brought it to him from year to year when she came up with her husband to offer the yearly sacrifice. ^20^ Eli blessed Elkanah and his wife, and said, “May Yahweh give you offspring^a^ from this woman for the petition which was asked of Yahweh.” Then they went to their own home. ^21^ Yahweh visited Hannah, and she conceived and bore three sons and two daughters. The child Samuel grew before Yahweh. 
+@16 If the man said to him, “Let the fat be burned first, and then take as much as your soul desires;” then he would say, “No, but you shall give it to me now; and if not, I will take it by force.” 
+@17 The sin of the young men was very great before Yahweh; for the men despised Yahweh’s offering.
+
+## Hanna and choirboy Samuel
+@18 But Samuel ministered before Yahweh, being a child, clothed with a linen ephod. 
+@19 Moreover his mother made him a little robe, and brought it to him from year to year when she came up with her husband to offer the yearly sacrifice. 
+@20 Eli blessed Elkanah and his wife, and said, “May Yahweh give you offspring^a^ from this woman for the petition which was asked of Yahweh.” Then they went to their own home. 
+@21 Yahweh visited Hannah, and she conceived and bore three sons and two daughters. The child Samuel grew before Yahweh. 
 ^a^[**2:20** or, seed]
 
-^22^ Now Eli was very old; and he heard all that his sons did to all Israel, and how that they slept with the women who served at the door of the Tent of Meeting. ^23^ He said to them, “Why do you do such things? For I hear of your evil dealings from all these people. ^24^ No, my sons; for it is not a good report that I hear! You make Yahweh’s people disobey. ^25^ If one man sins against another, God will judge him; but if a man sins against Yahweh, who will intercede for him?” Notwithstanding, they didn’t listen to the voice of their father, because Yahweh intended to kill them. 
+## Eli's gentle admonitions to his degenerate sons
+@22 Now Eli was very old; and he heard all that his sons did to all Israel, and how that they slept with the women who served at the door of the Tent of Meeting. 
+@23 He said to them, “Why do you do such things? For I hear of your evil dealings from all these people. 
+@24 No, my sons; for it is not a good report that I hear! You make Yahweh’s people disobey. 
+@25 If one man sins against another, God will judge him; but if a man sins against Yahweh, who will intercede for him?” Notwithstanding, they didn’t listen to the voice of their father, because Yahweh intended to kill them. 
 
-^26^ The child Samuel grew on, and increased in favor both with Yahweh and also with men. 
+@26 The child Samuel grew on, and increased in favor both with Yahweh and also with men.
 
-^27^ A man of God came to Eli and said to him, “Yahweh says, ‘Did I reveal myself to the house of your father when they were in Egypt in bondage to Pharaoh’s house? ^28^ Didn’t I choose him out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me? Didn’t I give to the house of your father all the offerings of the children of Israel made by fire? ^29^ Why do you kick at my sacrifice and at my offering, which I have commanded in my habitation, and honor your sons above me, to make yourselves fat with the best of all the offerings of Israel my people?’ ^30^ “Therefore Yahweh, the God of Israel, says, ‘I said indeed that your house and the house of your father should walk before me forever.’ But now Yahweh says, ‘Far be it from me; for those who honor me I will honor, and those who despise me will be cursed. ^31^ Behold,^a^ the days come that I will cut off your arm and the arm of your father’s house, that there will not be an old man in your house. ^32^ You will see the affliction of my habitation, in all the wealth which I will give Israel. There shall not be an old man in your house forever. ^33^ The man of yours whom I don’t cut off from my altar will consume your eyes^b^ and grieve your heart. All the increase of your house will die in the flower of their age. ^34^ This will be the sign to you that will come on your two sons, on Hophni and Phinehas: in one day they will both die. ^35^ I will raise up a faithful priest for myself who will do according to that which is in my heart and in my mind. I will build him a sure house. He will walk before my anointed forever. ^36^ It will happen that everyone who is left in your house will come and bow down to him for a piece of silver and a loaf of bread, and will say, “Please put me into one of the priests’ offices, that I may eat a morsel of bread.”’”
+## Saying of the Prophet: Announcement of the fall of Eli and his house
+@27 A man of God came to Eli and said to him, “Yahweh says, ‘Did I reveal myself to the house of your father when they were in Egypt in bondage to Pharaoh’s house? 
+@28 Didn’t I choose him out of all the tribes of Israel to be my priest, to go up to my altar, to burn incense, to wear an ephod before me? Didn’t I give to the house of your father all the offerings of the children of Israel made by fire? 
+@29 Why do you kick at my sacrifice and at my offering, which I have commanded in my habitation, and honor your sons above me, to make yourselves fat with the best of all the offerings of Israel my people?’ 
+@30 “Therefore Yahweh, the God of Israel, says, ‘I said indeed that your house and the house of your father should walk before me forever.’ But now Yahweh says, ‘Far be it from me; for those who honor me I will honor, and those who despise me will be cursed. 
+@31 Behold,^a^ the days come that I will cut off your arm and the arm of your father’s house, that there will not be an old man in your house. 
+@32 You will see the affliction of my habitation, in all the wealth which I will give Israel. There shall not be an old man in your house forever. 
+@33 The man of yours whom I don’t cut off from my altar will consume your eyes^b^ and grieve your heart. All the increase of your house will die in the flower of their age. 
+@34 This will be the sign to you that will come on your two sons, on Hophni and Phinehas: in one day they will both die. 
+@35 I will raise up a faithful priest for myself who will do according to that which is in my heart and in my mind. I will build him a sure house. He will walk before my anointed forever. 
+@36 It will happen that everyone who is left in your house will come and bow down to him for a piece of silver and a loaf of bread, and will say, “Please put me into one of the priests’ offices, that I may eat a morsel of bread.”’”
 ^a^[**2:31** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.] ^b^[**2:33** or, blind your eyes with tears] 
 
 \nopandoc{\end{otherlanguage}}
@@ -117,105 +209,167 @@ So the woman waited and nursed her son until she weaned him. ^24^ When she had w
 
 # 3
 ## Dios se revela a Samuel y anuncia la caída de la casa de Elí
-^1^ El niño Samuel ministraba a Yahvé ante Elí. La palabra de Yahvé era rara en aquellos días. No había entonces muchas visiones. ^a^ ^2^ En aquel tiempo, cuando Elí estaba acostado en su lugar (ahora sus ojos habían comenzado a oscurecerse, de modo que no podía ver), ^3^ y la lámpara de Dios aún no se había apagado, y Samuel se había acostado en el templo de Yavé donde estaba el arca de Dios, ^4^ Yavé llamó a Samuel. Le dijo: “Aquí estoy”.
-^a^[**3:1** Am 8,11]
+@1 Y el joven Samuel ministraba á Jehová delante de Eli: y la palabra de Jehová era de estima en aquellos días; no había visión manifiesta. 
+@2 Y aconteció un día, que estando Eli acostado en su aposento, cuando sus ojos comenzaban á oscurecerse, que no podía ver, 
+@3 Samuel estaba durmiendo en el templo de Jehová, donde el arca de Dios estaba: y antes que la lámpara de Dios fuese apagada, 
+@4 Jehová llamó á Samuel; y él respondió: Heme aquí.
 
-^5^ Corrió hacia Elí y le dijo: “Aquí estoy, porque me has llamado”. Dijo: “No he llamado. Acuéstate de nuevo”. Fue y se acostó. ^6^ Yahvé volvió a llamar: “¡Samuel!” Samuel se levantó y se dirigió a Elí y le dijo: “Aquí estoy, porque me has llamado”. Respondió: “No he llamado, hijo mío. Vuelve a acostarte”. ^7^ Samuel aún no conocía a Yavé ni se le había revelado la palabra de Yavé. ^8^ Yahvé volvió a llamar a Samuel por tercera vez. Se levantó y fue a Elí y le dijo: “Aquí estoy, porque me has llamado”. Elí percibió que Yahvé había llamado al niño. ^9^ Por eso Elí dijo a Samuel: “Ve, acuéstate. Si te llama, dirás: ‘Habla, Yahvé, porque tu siervo escucha’”. Entonces Samuel fue y se acostó en su lugar. ^10^ Llegó Yahvé, se puso de pie y llamó como otras veces: “¡Samuel! Samuel!” Entonces Samuel dijo: “Habla, que tu siervo oye”.
+@5 Y corriendo luego á Eli, dijo: Heme aquí; ¿para qué me llamaste? Y Eli le dijo: Yo no he llamado; vuélvete á acostar. Y él se volvió, y acostóse.
 
-^11^ El Señor dijo a Samuel: “He aquí que yo haré en Israel una cosa que hará vibrar los oídos de todo el que la oiga. ^12^ En aquel día cumpliré contra Elí todo lo que he dicho sobre su casa, desde el principio hasta el fin. ^13^ Porque le he dicho que juzgaré a su casa para siempre por la iniquidad que él conoció, porque sus hijos trajeron una maldición sobre sí mismos, y él no los refrenó. ^a^ ^14^ Por eso he jurado a la casa de Elí que la iniquidad de la casa de Elí no se quitará con sacrificio ni con ofrenda para siempre.”
-^a^[**3:13** 1Sam 2,27-36]
+@6 Y Jehová volvió á llamar otra vez á Samuel. Y levantándose Samuel vino á Eli, y dijo: Heme aquí; ¿para qué me has llamado? Y él dijo: Hijo mío, yo no he llamado; vuelve, y acuéstate.
+
+@7 Y Samuel no había conocido aún á Jehová, ni la palabra de Jehová le había sido revelada. 
+@8 Jehová pues llamó la tercera vez á Samuel. Y él levantándose vino á Eli, y dijo: Heme aquí; ¿para qué me has llamado? Entonces entendió Eli que Jehová llamaba al joven.
+
+@9 Y dijo Eli á Samuel: Ve, y acuéstate: y si te llamare, dirás: Habla, Jehová, que tu siervo oye. Así se fué Samuel, y acostóse en su lugar. 
+@10 Y vino Jehová, y paróse, y llamó como las otras veces: ¡Samuel, Samuel! Entonces Samuel dijo: Habla, que tu siervo oye.
+
+@11 Y Jehová dijo á Samuel: He aquí haré yo una cosa en Israel, que á quien la oyere, le retiñirán ambos oídos. 
+@12 Aquel día yo despertaré contra Eli todas las cosas que he dicho sobre su casa. En comenzando, acabaré también. 
+@13 Y mostraréle que yo juzgaré su casa para siempre, por la iniquidad que él sabe; porque sus hijos se han envilecido, y él no los ha estorbado. 
+@14 Y por tanto yo he jurado á la casa de Eli, que la iniquidad de la casa de Eli no será expiada jamás, ni con sacrificios ni con presentes.
 
 ## Samuel comparte la revelación con Elí y comienza su trabajo como profeta para todo Israel
-^15^ Samuel se acostó hasta la mañana y abrió las puertas de la casa de Yahvé. Samuel tenía miedo de mostrarle a Elí la visión. ^16^ Entonces Elí llamó a Samuel y le dijo: “¡Samuel, hijo mío!” Dijo: “Aquí estoy”.
+@15 Y Samuel estuvo acostado hasta la mañana, y abrió las puertas de la casa de Jehová. Y Samuel temía descubrir la visión á Eli. 
+@16 Llamando pues Eli á Samuel, díjole: Hijo mío, Samuel. Y él respondió: Heme aquí.
 
-^17^ Él dijo: “¿Qué es lo que te ha dicho? Por favor, no me lo ocultes. Dios te lo haga, y más aún, si me ocultas algo de todo lo que te ha hablado”.
+@17 Y dijo: ¿Qué es la palabra que te habló Jehová?; ruégote que no me la encubras: así te haga Dios y así te añada, si me encubrieres palabra de todo lo que habló contigo.
 
-^18^ Samuel le contó todo y no le ocultó nada. Dijo: “Es Yahvé. Que haga lo que le parezca bien”. ^a^
-^a^[**3:18** 2Sam 15,26]
+@18 Y Samuel se lo manifestó todo, sin encubrirle nada. Entonces él dijo: Jehová es; haga lo que bien le pareciere.
 
-^19^ Samuel crecía, y el Señor estaba con él y no dejaba que ninguna de sus palabras cayera en tierra. ^20^ Todo Israel, desde Dan hasta Beerseba, sabía que Samuel había sido establecido como profeta de Yavé. ^21^ Yahvé volvió a aparecer en Silo; porque Yahvé se reveló a Samuel en Silo por palabra de Yahvé.
+@19 Y Samuel creció, y Jehová fué con él, y no dejó caer á tierra ninguna de sus palabras. 
+@20 Y conoció todo Israel desde Dan hasta Beer-sebah, que Samuel era fiel profeta de Jehová. 
+@21 Así tornó Jehová á aparecer en Silo: porque Jehová se manifestó á Samuel en Silo con palabra de Jehová. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 3
-^1^ The child Samuel ministered to Yahweh before Eli. Yahweh’s word was rare in those days. There were not many visions, then. ^2^ At that time, when Eli was laid down in his place (now his eyes had begun to grow dim, so that he could not see), ^3^ and God’s lamp hadn’t yet gone out, and Samuel had laid down in Yahweh’s temple where God’s ark was, ^4^ Yahweh called Samuel. He said, “Here I am.” 
+## God reveals himself to Samuel and announces the fall of the house of Eli
+@1 The child Samuel ministered to Yahweh before Eli. Yahweh’s word was rare in those days. There were not many visions, then. 
+@2 At that time, when Eli was laid down in his place (now his eyes had begun to grow dim, so that he could not see), 
+@3 and God’s lamp hadn’t yet gone out, and Samuel had laid down in Yahweh’s temple where God’s ark was, 
+@4 Yahweh called Samuel. He said, “Here I am.” 
 
-^5^ He ran to Eli and said, “Here I am; for you called me.” 
+@5 He ran to Eli and said, “Here I am; for you called me.” 
 
 He said, “I didn’t call. Lie down again.” 
 
-He went and lay down. ^6^ Yahweh called yet again, “Samuel!” 
+He went and lay down. 
+@6 Yahweh called yet again, “Samuel!” 
 
 Samuel arose and went to Eli and said, “Here I am; for you called me.” 
 
-He answered, “I didn’t call, my son. Lie down again.” ^7^ Now Samuel didn’t yet know Yahweh, neither was Yahweh’s word yet revealed to him. ^8^ Yahweh called Samuel again the third time. He arose and went to Eli and said, “Here I am; for you called me.” 
+He answered, “I didn’t call, my son. Lie down again.” 
+@7 Now Samuel didn’t yet know Yahweh, neither was Yahweh’s word yet revealed to him. 
+@8 Yahweh called Samuel again the third time. He arose and went to Eli and said, “Here I am; for you called me.” 
 
-Eli perceived that Yahweh had called the child. ^9^ Therefore Eli said to Samuel, “Go, lie down. It shall be, if he calls you, that you shall say, ‘Speak, Yahweh; for your servant hears.’” So Samuel went and lay down in his place. ^10^ Yahweh came, and stood, and called as at other times, “Samuel! Samuel!” 
+Eli perceived that Yahweh had called the child. 
+@9 Therefore Eli said to Samuel, “Go, lie down. It shall be, if he calls you, that you shall say, ‘Speak, Yahweh; for your servant hears.’” So Samuel went and lay down in his place. 
+@10 Yahweh came, and stood, and called as at other times, “Samuel! Samuel!” 
 
 Then Samuel said, “Speak; for your servant hears.” 
 
-^11^ Yahweh said to Samuel, “Behold, I will do a thing in Israel at which both the ears of everyone who hears it will tingle. ^12^ In that day I will perform against Eli all that I have spoken concerning his house, from the beginning even to the end. ^13^ For I have told him that I will judge his house forever for the iniquity which he knew, because his sons brought a curse on themselves, and he didn’t restrain them. ^14^ Therefore I have sworn to the house of Eli that the iniquity of Eli’s house shall not be removed with sacrifice or offering forever.” 
+@11 Yahweh said to Samuel, “Behold, I will do a thing in Israel at which both the ears of everyone who hears it will tingle. 
+@12 In that day I will perform against Eli all that I have spoken concerning his house, from the beginning even to the end. 
+@13 For I have told him that I will judge his house forever for the iniquity which he knew, because his sons brought a curse on themselves, and he didn’t restrain them. 
+@14 Therefore I have sworn to the house of Eli that the iniquity of Eli’s house shall not be removed with sacrifice or offering forever.”
 
-^15^ Samuel lay until the morning, and opened the doors of Yahweh’s house. Samuel was afraid to show Eli the vision. ^16^ Then Eli called Samuel and said, “Samuel, my son!” 
+## Samuel shares the revelation with Eli and begins his work as a prophet for all Israel
+@15 Samuel lay until the morning, and opened the doors of Yahweh’s house. Samuel was afraid to show Eli the vision. 
+@16 Then Eli called Samuel and said, “Samuel, my son!” 
 
 He said, “Here I am.” 
 
-^17^ He said, “What is the thing that he has spoken to you? Please don’t hide it from me. God do so to you, and more also, if you hide anything from me of all the things that he spoke to you.” 
+@17 He said, “What is the thing that he has spoken to you? Please don’t hide it from me. God do so to you, and more also, if you hide anything from me of all the things that he spoke to you.” 
 
-^18^ Samuel told him every bit, and hid nothing from him. 
+@18 Samuel told him every bit, and hid nothing from him. 
 
 He said, “It is Yahweh. Let him do what seems good to him.” 
 
-^19^ Samuel grew, and Yahweh was with him and let none of his words fall to the ground. ^20^ All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of Yahweh. ^21^ Yahweh appeared again in Shiloh; for Yahweh revealed himself to Samuel in Shiloh by Yahweh’s word. 
+@19 Samuel grew, and Yahweh was with him and let none of his words fall to the ground. 
+@20 All Israel from Dan even to Beersheba knew that Samuel was established to be a prophet of Yahweh. 
+@21 Yahweh appeared again in Shiloh; for Yahweh revealed himself to Samuel in Shiloh by Yahweh’s word. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 4
 ## Die Bundeslade ins Lager der Israeliten geholt
-^1^ La palabra de Samuel llegó a todo Israel. Salió Israel contra los filisteos para combatir, y acampó junto a Ebenezer, y los filisteos acamparon en Afec. ^a^ ^2^ Los filisteos se pusieron en fila contra Israel. Cuando entraron en combate, Israel fue derrotado por los filisteos, que mataron en el campo a unos cuatro mil hombres del ejército. ^3^ Cuando el pueblo entró en el campamento, los ancianos de Israel dijeron: “¿Por qué el Señor nos ha derrotado hoy ante los filisteos? Saquemos de Silo el arca de la alianza de Yavé y traigámosla, para que venga entre nosotros y nos salve de la mano de nuestros enemigos.” ^b^
-^a^[**4:1** Jos 15,53] ^b^[**4:3** 1Sam 14,18]
+@1 Y Samuel habló á todo Israel. Por aquel tiempo salió Israel á encontrar en batalla á los Filisteos, y asentó campo junto á Eben-ezer, y los Filisteos asentaron el suyo en Aphec.
 
-^4^ Entonces el pueblo envió a Silo, y trajeron de allí el arca de la alianza de Yavé de los Ejércitos, que está sentada sobre los querubines; y los dos hijos de Elí, Ofni y Finees, estaban allí con el arca de la alianza de Dios. ^a^
-^a^[**4:4** 2Sam 6,2]
+@2 Y los Filisteos presentaron la batalla á Israel; y trabándose el combate, Israel fué vencido delante de los Filisteos, los cuales hirieron en la batalla por el campo como cuatro mil hombres. 
+@3 Y vuelto que hubo el pueblo al campamento, los ancianos de Israel dijeron: ¿Por qué nos ha herido hoy Jehová delante de los Filisteos? Traigamos á nosotros de Silo el arca del pacto de Jehová, para que viniendo entre nosotros nos salve de la mano de nuestros enemigos.
+
+@4 Y envió el pueblo á Silo, y trajeron de allá el arca del pacto de Jehová de los ejércitos, que estaba asentado entre los querubines; y los dos hijos de Eli, Ophni y Phinees, estaban allí con el arca del pacto de Dios.
 
 ## El efecto de este evento en las partes en conflicto; Derrota de los israelitas y pérdida del arca
-^5^ Cuando el arca de la alianza de Yavé entró en el campamento, todo Israel gritó con un gran alarido, de modo que la tierra resonó. ^6^ Cuando los filisteos oyeron el ruido del grito, dijeron: “¿Qué significa el ruido de este gran grito en el campamento de los hebreos?” Comprendieron que el arca de Yavé había entrado en el campamento. ^7^ Los filisteos se asustaron, pues dijeron: “Dios ha entrado en el campamento”. Dijeron: “¡Ay de nosotros! Porque nunca antes había ocurrido algo semejante. ^8^ ¡Ay de nosotros! ¿Quién nos librará de la mano de estos poderosos dioses? Estos son los dioses que golpearon a los egipcios con toda clase de plagas en el desierto. ^9^ Fortaleceos y comportaos como hombres, oh filisteos, para que no seáis siervos de los hebreos, como ellos lo han sido de vosotros. Fortalézcanse como hombres y luchen”. ^a^ ^10^ Los filisteos lucharon, e Israel fue derrotado, y cada uno huyó a su tienda. Hubo una matanza muy grande, pues cayeron treinta mil hombres de a pie de Israel. ^11^ El arca de Dios fue tomada, y los dos hijos de Elí, Ofni y Finees, fueron asesinados.
-^a^[**4:9** Jue 13,1]
+@5 Y aconteció que, como el arca del pacto de Jehová vino al campo, todo Israel dió grita con tan gran júbilo, que la tierra tembló. 
+@6 Y cuando los Filisteos oyeron la voz de júbilo, dijeron: ¿Qué voz de gran júbilo es esta en el campo de los Hebreos? Y supieron que el arca de Jehová había venido al campo. 
+@7 Y los Filisteos tuvieron miedo, porque decían: Ha venido Dios al campo. Y dijeron: ¡Ay de nosotros! pues antes de ahora no fué así. 
+@8 ¡Ay de nosotros! ¿Quién nos librará de las manos de estos dioses fuertes? Estos son los dioses que hirieron á Egipto con toda plaga en el desierto. 
+@9 Esforzaos, oh Filisteos, y sed hombres, porque no sirváis á los Hebreos, como ellos os han servido á vosotros: sed hombres, y pelead. 
+@10 Pelearon pues los Filisteos, é Israel fué vencido, y huyeron cada cual á sus tiendas; y fué hecha muy grande mortandad, pues cayeron de Israel treinta mil hombres de á pie. 
+@11 Y el arca de Dios fué tomada, y muertos los dos hijos de Eli, Ophni y Phinees.
 
 ## Los tristes efectos del mensaje en Shiloh; la muerte de Eli y su nuera
-^12^ Un hombre de Benjamín salió corriendo del ejército y llegó a Silo ese mismo día, con la ropa rota y con tierra en la cabeza. ^13^ Cuando llegó, he aquí que Elí estaba sentado en su asiento junto al camino, vigilando, porque su corazón temía el arca de Dios. Cuando el hombre llegó a la ciudad y lo contó, toda la ciudad gritó. ^14^ Cuando Elí oyó el ruido del clamor, dijo: “¿Qué significa el ruido de este tumulto?” El hombre se apresuró y vino a contárselo a Elí. ^15^ Elí tenía noventa y ocho años. Sus ojos estaban entornados, de modo que no podía ver. ^a^ ^16^ El hombre le dijo a Elí: “Yo soy el que salió del ejército, y hoy he huido del ejército”. Dijo: “¿Cómo fue el asunto, hijo mío?”
-^a^[**4:15** 1Sam 3,2]
+@12 Y corriendo de la batalla un hombre de Benjamín, vino aquel día á Silo, rotos sus vestidos y tierra sobre su cabeza: 
+@13 Y cuando llegó, he aquí Eli que estaba sentado en una silla atalayando junto al camino; porque su corazón estaba temblando por causa del arca de Dios. Llegado pues aquel hombre á la ciudad, y dadas las nuevas, toda la ciudad gritó. 
+@14 Y como Eli oyó el estruendo de la gritería, dijo: ¿Qué estruendo de alboroto es éste? Y aquel hombre vino apriesa, y dió las nuevas á Eli.
 
-^17^ El que trajo la noticia respondió: “Israel ha huido ante los filisteos, y también ha habido una gran matanza entre el pueblo. También tus dos hijos, Ofni y Finees, han muerto, y el arca de Dios ha sido capturada.”
+@15 Era ya Eli de edad de noventa y ocho años, y sus ojos se habían entenebrecido, de modo que no podía ver. 
+@16 Dijo pues aquel hombre á Eli: Yo vengo de la batalla, yo he escapado hoy del combate. Y él dijo: ¿Qué ha acontecido, hijo mío?
 
-^18^ Cuando mencionó el arca de Dios, Elí se cayó de su asiento hacia atrás, al lado de la puerta, y su cuello se quebró y murió, pues era un hombre viejo y pesado. Había juzgado a Israel durante cuarenta años.
+@17 Y el mensajero respondió, y dijo: Israel huyó delante de los Filisteos, y también fué hecha gran mortandad en el pueblo; y también tus dos hijos, Ophni y Phinees, son muertos, y el arca de Dios fué tomada.
 
-^19^ Su nuera, la mujer de Finees, estaba encinta, a punto de dar a luz. Cuando oyó la noticia de que el arca de Dios había sido tomada y que su suegro y su marido habían muerto, se inclinó y dio a luz, pues le sobrevinieron los dolores. ^20^ A punto de morir, las mujeres que estaban junto a ella le dijeron: “No temas, porque has dado a luz un hijo”. Pero ella no respondió, ni lo consideró. ^a^ ^21^ Le puso al niño el nombre de Icabod, diciendo: “¡La gloria se ha ido de Israel!”, porque el arca de Dios fue tomada, y por su suegro y su marido. ^b^ ^22^ Ella dijo: “La gloria se ha alejado de Israel, porque el arca de Dios ha sido tomada”.
-^a^[**4:20** Gén 35,17] ^b^[**4:21** Sal 78,61]
+@18 Y aconteció que como él hizo mención del arca de Dios, Eli cayó hacia atrás de la silla al lado de la puerta, y quebrósele la cerviz, y murió: porque era hombre viejo y pesado. Y había juzgado á Israel cuarenta años.
+
+@19 Y su nuera, la mujer de Phinees, que estaba preñada, cercana al parto, oyendo el rumor que el arca de Dios era tomada, y muertos su suegro y su marido, encorvóse y parió; porque sus dolores se habían ya derramado por ella. 
+@20 Y al tiempo que se moría, decíanle las que estaban junto á ella: No tengas temor, porque has parido un hijo. Mas ella no respondió, ni paró mientes. 
+@21 Y llamó al niño Ichâbod, diciendo: ¡Traspasada es la gloria de Israel! por el arca de Dios que fué tomada, y porque era muerto su suegro, y su marido. 
+@22 Dijo pues: Traspasada es la gloria de Israel: porque el arca de Dios fué tomada. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 4
-^1^ The word of Samuel came to all Israel. 
+## Die Bundeslade ins Lager der Israeliten geholt
+@1 The word of Samuel came to all Israel. 
 
-Now Israel went out against the Philistines to battle, and encamped beside Ebenezer; and the Philistines encamped in Aphek. ^2^ The Philistines put themselves in array against Israel. When they joined battle, Israel was defeated by the Philistines, who killed about four thousand men of the army in the field. ^3^ When the people had come into the camp, the elders of Israel said, “Why has Yahweh defeated us today before the Philistines? Let’s get the ark of Yahweh’s covenant out of Shiloh and bring it to us, that it may come among us and save us out of the hand of our enemies.” 
+Now Israel went out against the Philistines to battle, and encamped beside Ebenezer; and the Philistines encamped in Aphek. 
+@2 The Philistines put themselves in array against Israel. When they joined battle, Israel was defeated by the Philistines, who killed about four thousand men of the army in the field. 
+@3 When the people had come into the camp, the elders of Israel said, “Why has Yahweh defeated us today before the Philistines? Let’s get the ark of Yahweh’s covenant out of Shiloh and bring it to us, that it may come among us and save us out of the hand of our enemies.” 
 
-^4^ So the people sent to Shiloh, and they brought from there the ark of the covenant of Yahweh of Armies, who sits above the cherubim; and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God. ^5^ When the ark of Yahweh’s covenant came into the camp, all Israel shouted with a great shout, so that the earth resounded. ^6^ When the Philistines heard the noise of the shout, they said, “What does the noise of this great shout in the camp of the Hebrews mean?” They understood that Yahweh’s ark had come into the camp. ^7^ The Philistines were afraid, for they said, “God has come into the camp.” They said, “Woe to us! For there has not been such a thing before. ^8^ Woe to us! Who shall deliver us out of the hand of these mighty gods? These are the gods that struck the Egyptians with all kinds of plagues in the wilderness. ^9^ Be strong and behave like men, O you Philistines, that you not be servants to the Hebrews, as they have been to you. Strengthen yourselves like men, and fight!” ^10^ The Philistines fought, and Israel was defeated, and each man fled to his tent. There was a very great slaughter; for thirty thousand footmen of Israel fell. ^11^ God’s ark was taken; and the two sons of Eli, Hophni and Phinehas, were slain. 
+@4 So the people sent to Shiloh, and they brought from there the ark of the covenant of Yahweh of Armies, who sits above the cherubim; and the two sons of Eli, Hophni and Phinehas, were there with the ark of the covenant of God.
 
-^12^ A man of Benjamin ran out of the army and came to Shiloh the same day, with his clothes torn and with dirt on his head. ^13^ When he came, behold, Eli was sitting on his seat by the road watching, for his heart trembled for God’s ark. When the man came into the city and told about it, all the city cried out. ^14^ When Eli heard the noise of the crying, he said, “What does the noise of this tumult mean?” 
+## The effect of this event on the conflicting parties; Defeat of the Israelites and loss of the ark
+@5 When the ark of Yahweh’s covenant came into the camp, all Israel shouted with a great shout, so that the earth resounded. 
+@6 When the Philistines heard the noise of the shout, they said, “What does the noise of this great shout in the camp of the Hebrews mean?” They understood that Yahweh’s ark had come into the camp. 
+@7 The Philistines were afraid, for they said, “God has come into the camp.” They said, “Woe to us! For there has not been such a thing before. 
+@8 Woe to us! Who shall deliver us out of the hand of these mighty gods? These are the gods that struck the Egyptians with all kinds of plagues in the wilderness. 
+@9 Be strong and behave like men, O you Philistines, that you not be servants to the Hebrews, as they have been to you. Strengthen yourselves like men, and fight!” 
+@10 The Philistines fought, and Israel was defeated, and each man fled to his tent. There was a very great slaughter; for thirty thousand footmen of Israel fell. 
+@11 God’s ark was taken; and the two sons of Eli, Hophni and Phinehas, were slain.
 
-The man hurried, and came and told Eli. ^15^ Now Eli was ninety-eight years old. His eyes were set, so that he could not see. ^16^ The man said to Eli, “I am he who came out of the army, and I fled today out of the army.” 
+## The sad effects of the message in Shiloh; the death of Eli and his daughter-in-law
+@12 A man of Benjamin ran out of the army and came to Shiloh the same day, with his clothes torn and with dirt on his head. 
+@13 When he came, behold, Eli was sitting on his seat by the road watching, for his heart trembled for God’s ark. When the man came into the city and told about it, all the city cried out. 
+@14 When Eli heard the noise of the crying, he said, “What does the noise of this tumult mean?” 
+
+The man hurried, and came and told Eli. 
+@15 Now Eli was ninety-eight years old. His eyes were set, so that he could not see. 
+@16 The man said to Eli, “I am he who came out of the army, and I fled today out of the army.” 
 
 He said, “How did the matter go, my son?” 
 
-^17^ He who brought the news answered, “Israel has fled before the Philistines, and there has been also a great slaughter among the people. Your two sons also, Hophni and Phinehas, are dead, and God’s ark has been captured.” 
+@17 He who brought the news answered, “Israel has fled before the Philistines, and there has been also a great slaughter among the people. Your two sons also, Hophni and Phinehas, are dead, and God’s ark has been captured.” 
 
-^18^ When he made mention of God’s ark, Eli fell from off his seat backward by the side of the gate; and his neck broke, and he died, for he was an old man and heavy. He had judged Israel forty years. 
+@18 When he made mention of God’s ark, Eli fell from off his seat backward by the side of the gate; and his neck broke, and he died, for he was an old man and heavy. He had judged Israel forty years. 
 
-^19^ His daughter-in-law, Phinehas’ wife, was with child, near to giving birth. When she heard the news that God’s ark was taken and that her father-in-law and her husband were dead, she bowed herself and gave birth; for her pains came on her. ^20^ About the time of her death the women who stood by her said to her, “Don’t be afraid, for you have given birth to a son.” But she didn’t answer, neither did she regard it. ^21^ She named the child Ichabod,^a^ saying, “The glory has departed from Israel!” because God’s ark was taken, and because of her father-in-law and her husband. ^22^ She said, “The glory has departed from Israel; for God’s ark has been taken.”
+@19 His daughter-in-law, Phinehas’ wife, was with child, near to giving birth. When she heard the news that God’s ark was taken and that her father-in-law and her husband were dead, she bowed herself and gave birth; for her pains came on her. 
+@20 About the time of her death the women who stood by her said to her, “Don’t be afraid, for you have given birth to a son.” But she didn’t answer, neither did she regard it. 
+@21 She named the child Ichabod,^a^ saying, “The glory has departed from Israel!” because God’s ark was taken, and because of her father-in-law and her husband. 
+@22 She said, “The glory has departed from Israel; for God’s ark has been taken.”
 ^a^[**4:21** “Ichabod” means “no glory”.] 
 
 \nopandoc{\end{otherlanguage}}
@@ -223,140 +377,253 @@ He said, “How did the matter go, my son?”
 
 # 5
 ## En la tierra de los filisteos, el arca está causando estragos en varias ciudades
-^1^ Los filisteos tomaron el arca de Dios y la llevaron de Ebenezer a Asdod. ^2^ Los filisteos tomaron el arca de Dios, la llevaron a la casa de Dagón y la pusieron junto a Dagón. ^a^ ^3^ Cuando el pueblo de Asdod se levantó temprano al día siguiente, he aquí que Dagón había caído de bruces al suelo ante el arca de Dios. Tomaron a Dagón y lo volvieron a colocar en su lugar. ^4^ Al día siguiente, cuando se levantaron de madrugada, vieron que Dagón había caído de bruces al suelo ante el arca de Yahvé, y que la cabeza de Dagón y las dos palmas de sus manos estaban cortadas en el umbral. Sólo el torso de Dagón estaba intacto. ^5^ Por eso, ni los sacerdotes de Dagón ni los que entran en la casa de Dagón pisan el umbral de Dagón en Asdod hasta el día de hoy. ^6^ Pero la mano de Yavé se ensañó con el pueblo de Asdod, y lo destruyó y lo golpeó con tumores, incluso a Asdod y sus fronteras. ^b^
-^a^[**5:2** Jue 16,23] ^b^[**5:6** Sal 78,66]
+@1 Y los Filisteos, tomada el arca de Dios, trajéronla desde Eben-ezer á Asdod. 
+@2 Y tomaron los Filisteos el arca de Dios, y metiéronla en la casa de Dagón, y pusiéronla junto á Dagón. 
+@3 Y el siguiente día los de Asdod se levantaron de mañana, y he aquí Dagón postrado en tierra delante del arca de Jehová: y tomaron á Dagón, y volviéronlo á su lugar. 
+@4 Y tornándose á levantar de mañana el siguiente día, he aquí que Dagón había caído postrado en tierra delante del arca de Jehová; y la cabeza de Dagón y las dos palmas de sus manos estaban cortadas sobre el umbral, habiéndole quedado á Dagón el tronco solamente. 
+@5 Por esta causa los sacerdotes de Dagón, y todos los que en el templo de Dagón entran, no pisan el umbral de Dagón en Asdod, hasta hoy. 
+@6 Empero agravóse la mano de Jehová sobre los de Asdod, y destruyólos, é hiriólos con hemorroides en Asdod y en todos sus términos.
 
-^7^ Cuando los hombres de Asdod vieron que era así, dijeron: “El arca del Dios de Israel no se quedará con nosotros, porque su mano es severa con nosotros y con Dagón, nuestro dios.” ^8^ Enviaron, pues, a reunir a todos los señores de los filisteos y dijeron: “¿Qué haremos con el arca del Dios de Israel?” Respondieron: “Que el arca del Dios de Israel sea llevada a Gat”. Llevaron allí el arca del Dios de Israel. ^9^ Y cuando la llevaron allí, la mano de Yavé se abatió sobre la ciudad con una gran confusión, e hirió a los hombres de la ciudad, tanto a los pequeños como a los grandes, de modo que los tumores estallaron sobre ellos. ^10^ Entonces enviaron el arca de Dios a Ecrón. Cuando el arca de Dios llegó a Ecrón, los ecronitas gritaron diciendo: “Han traído aquí el arca del Dios de Israel para matarnos a nosotros y a nuestro pueblo.” ^11^ Enviaron, pues, y reunieron a todos los señores de los filisteos, y dijeron: “Despide el arca del Dios de Israel y que vuelva a su lugar, para que no nos mate a nosotros y a nuestro pueblo.” Porque hubo un pánico mortal en toda la ciudad. La mano de Dios estaba muy pesada allí. ^12^ Los hombres que no murieron fueron alcanzados por los tumores, y el clamor de la ciudad subió al cielo.
+@7 Y viendo esto los de Asdod, dijeron: No quede con nosotros el arca del Dios de Israel, porque su mano es dura sobre nosotros, y sobre nuestro dios Dagón. 
+@8 Enviaron pues á juntar á sí todos los príncipes de los Filisteos, y dijeron: ¿Qué haremos del arca del Dios de Israel? Y ellos respondieron: Pásese el arca del Dios de Israel á Gath. Y pasaron allá el arca del Dios de Israel.
+
+@9 Y aconteció que como la hubieron pasado, la mano de Jehová fué contra la ciudad con grande quebrantamiento; é hirió los hombres de aquella ciudad desde el chico hasta el grande, que se llenaron de hemorroides. 
+@10 Entonces enviaron el arca de Dios á Ecrón. Y como el arca de Dios vino á Ecrón, los Ecronitas dieron voces diciendo: Han pasado á mí el arca del Dios de Israel por matarme á mí y á mi pueblo.
+
+@11 Y enviaron á juntar todos los príncipes de los Filisteos, diciendo: Despachad el arca del Dios de Israel, y tórnese á su lugar, y no mate á mí ni á mi pueblo: porque había quebrantamiento de muerte en toda la ciudad, y la mano de Dios se había allí agravado. 
+@12 Y los que no morían, eran heridos de hemorroides; y el clamor de la ciudad subía al cielo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 5
-^1^ Now the Philistines had taken God’s ark, and they brought it from Ebenezer to Ashdod. ^2^ The Philistines took God’s ark, and brought it into the house of Dagon and set it by Dagon. ^3^ When the people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to the ground before Yahweh’s ark. They took Dagon and set him in his place again. ^4^ When they arose early on the following morning, behold, Dagon had fallen on his face to the ground before Yahweh’s ark; and the head of Dagon and both the palms of his hands were cut off on the threshold. Only Dagon’s torso was intact. ^5^ Therefore neither the priests of Dagon nor any who come into Dagon’s house step on the threshold of Dagon in Ashdod to this day. ^6^ But Yahweh’s hand was heavy on the people of Ashdod, and he destroyed them and struck them with tumors, even Ashdod and its borders. 
+## In the land of the Philistines, the ark is wreaking havoc in several cities
+@1 Now the Philistines had taken God’s ark, and they brought it from Ebenezer to Ashdod. 
+@2 The Philistines took God’s ark, and brought it into the house of Dagon and set it by Dagon. 
+@3 When the people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to the ground before Yahweh’s ark. They took Dagon and set him in his place again. 
+@4 When they arose early on the following morning, behold, Dagon had fallen on his face to the ground before Yahweh’s ark; and the head of Dagon and both the palms of his hands were cut off on the threshold. Only Dagon’s torso was intact. 
+@5 Therefore neither the priests of Dagon nor any who come into Dagon’s house step on the threshold of Dagon in Ashdod to this day. 
+@6 But Yahweh’s hand was heavy on the people of Ashdod, and he destroyed them and struck them with tumors, even Ashdod and its borders. 
 
-^7^ When the men of Ashdod saw that it was so, they said, “The ark of the God of Israel shall not stay with us, for his hand is severe on us and on Dagon our god.” ^8^ They sent therefore and gathered together all the lords of the Philistines, and said, “What shall we do with the ark of the God of Israel?” 
+@7 When the men of Ashdod saw that it was so, they said, “The ark of the God of Israel shall not stay with us, for his hand is severe on us and on Dagon our god.” 
+@8 They sent therefore and gathered together all the lords of the Philistines, and said, “What shall we do with the ark of the God of Israel?” 
 
-They answered, “Let the ark of the God of Israel be carried over to Gath.” They carried the ark of the God of Israel there. ^9^ It was so, that after they had carried it there, Yahweh’s hand was against the city with a very great confusion; and he struck the men of the city, both small and great, so that tumors broke out on them. ^10^ So they sent God’s ark to Ekron. 
+They answered, “Let the ark of the God of Israel be carried over to Gath.” They carried the ark of the God of Israel there. 
+@9 It was so, that after they had carried it there, Yahweh’s hand was against the city with a very great confusion; and he struck the men of the city, both small and great, so that tumors broke out on them. 
+@10 So they sent God’s ark to Ekron. 
 
-As God’s ark came to Ekron, the Ekronites cried out, saying, “They have brought the ark of the God of Israel here to us, to kill us and our people.” ^11^ They sent therefore and gathered together all the lords of the Philistines, and they said, “Send the ark of the God of Israel away, and let it go again to its own place, that it not kill us and our people.” For there was a deadly panic throughout all the city. The hand of God was very heavy there. ^12^ The men who didn’t die were struck with the tumors; and the cry of the city went up to heaven. 
+As God’s ark came to Ekron, the Ekronites cried out, saying, “They have brought the ark of the God of Israel here to us, to kill us and our people.” 
+@11 They sent therefore and gathered together all the lords of the Philistines, and they said, “Send the ark of the God of Israel away, and let it go again to its own place, that it not kill us and our people.” For there was a deadly panic throughout all the city. The hand of God was very heavy there. 
+@12 The men who didn’t die were struck with the tumors; and the cry of the city went up to heaven. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 6
 ## Resolución de los filisteos sobre el regreso del arca
-^1^ El arca de Yavé estuvo siete meses en el país de los filisteos. ^2^ Los filisteos llamaron a los sacerdotes y a los adivinos, diciendo: “¿Qué haremos con el arca de Yavé? Muéstranos cómo debemos enviarla a su lugar”.
+@1 Y estuvo el arca de Jehová en la tierra de los Filisteos siete meses. 
+@2 Entonces los Filisteos, llamando los sacerdotes y adivinos, preguntaron: ¿Qué haremos del arca de Jehová? Declaradnos cómo la hemos de tornar á enviar á su lugar.
 
-^3^ Ellos dijeron: “Si envías el arca del Dios de Israel, no la envíes vacía, sino que por todos los medios devuélvele una ofrenda por la culpa. Entonces quedarás curado, y se sabrá por qué su mano no se aparta de ti”.
+@3 Y ellos dijeron: Si enviáis el arca del Dios de Israel, no la enviéis vacía; mas le pagaréis la expiación: y entonces seréis sanos, y conoceréis por qué no se apartó de vosotros su mano.
 
-^4^ Entonces dijeron: “¿Cuál debe ser la ofrenda por la culpa que le devolveremos?” Dijeron: “Cinco tumores de oro y cinco ratones de oro, por el número de los señores de los filisteos; porque una sola plaga fue sobre todos vosotros y sobre vuestros señores. ^a^ ^5^ Por tanto, haréis imágenes de vuestros tumores e imágenes de vuestros ratones que estropean la tierra, y daréis gloria al Dios de Israel. Tal vez él libere su mano de vosotros, de vuestros dioses y de vuestra tierra. ^6^ ¿Por qué, pues, endurecéis vuestros corazones como endurecieron los egipcios y el Faraón? Cuando había obrado maravillosamente entre ellos, ¿no dejaron ir al pueblo y se marcharon? ^b^
-^a^[**6:4** Jos 13,3] ^b^[**6:6** Éxod 8,15; Éxod 12,31]
+@4 Y ellos dijeron: ¿Y qué será la expiación que le pagaremos? Y ellos respondieron: Conforme al número de los príncipes de los Filisteos, cinco hemorroides de oro, y cinco ratones de oro, porque la misma plaga que todos tienen, tienen también vuestros príncipes.
 
-^7^ “Ahora, pues, tomad y preparad un carro nuevo y dos vacas lecheras en las que no haya yugo; atad las vacas al carro y llevad de ellas a casa sus terneros; ^8^ y tomad el arca de Yahvé y ponedla sobre el carro. Pon las joyas de oro, que le devuelves como ofrenda por la culpa, en una caja a su lado; y envíala para que se vaya. ^9^ He aquí, si sube por el camino de su propia frontera hasta Bet Semes, entonces él nos ha hecho este gran mal; pero si no, entonces sabremos que no es su mano la que nos golpeó. Fue una casualidad que nos sucedió”.
+@5 Haréis pues las formas de vuestras hemorroides, y las formas de vuestros ratones que destruyen la tierra, y daréis gloria al Dios de Israel: quizá aliviará su mano de sobre vosotros, y de sobre vuestros dioses, y de sobre vuestra tierra. 
+@6 Mas ¿por qué endurecéis vuestro corazón, como los Egipcios y Faraón endurecieron su corazón? Después que los hubo así tratado, ¿no los dejaron que se fuesen, y se fueron?
+
+@7 Haced pues ahora un carro nuevo, y tomad luego dos vacas que críen, á las cuales no haya sido puesto yugo, y uncid las vacas al carro, y haced tornar de detrás de ellas sus becerros á casa. 
+@8 Tomaréis luego el arca de Jehová, y la pondréis sobre el carro; y poned en una caja al lado de ella las alhajas de oro que le pagáis en expiación: y la dejaréis que se vaya. 
+@9 Y mirad: si sube por el camino de su término á Beth-semes, él nos ha hecho este mal tan grande; y si no, seremos ciertos que su mano no nos hirió, nos ha sido accidente.
 
 ## Ejecución de la resolución; Llegada y recepción del arca en Bet-semes
-^10^ Así lo hicieron los hombres, quienes tomaron dos vacas lecheras, las ataron al carro y encerraron a sus terneros en casa. ^11^ Pusieron el arca de Yahvé en el carro, y la caja con los ratones de oro y las imágenes de sus tumores. ^12^ Las vacas tomaron el camino recto por la vía de Bet Shemesh. Iban por el camino, mugiendo a su paso, y no se apartaban ni a la derecha ni a la izquierda; y los señores de los filisteos iban tras ellas hasta el límite de Bet Semes. ^13^ Los habitantes de Bet Semes estaban segando su cosecha de trigo en el valle, y alzando los ojos vieron el arca y se alegraron de verla. ^14^ El carro llegó al campo de Josué de Bet Semes, y se detuvo allí, donde había una gran piedra. Entonces partieron la madera del carro y ofrecieron las vacas en holocausto a Yavé. ^15^ Los levitas bajaron el arca de Yavé y el cofre que la acompañaba, en el que estaban las joyas de oro, y los pusieron sobre la gran piedra; y los hombres de Bet Shemesh ofrecieron ese mismo día holocaustos y sacrificios a Yavé. ^16^ Cuando los cinco señores de los filisteos lo vieron, volvieron a Ecrón el mismo día. ^17^ Estas son las tumbas de oro que los filisteos devolvieron como ofrenda por la culpa a Yavé: por Asdod una, por Gaza una, por Ascalón una, por Gat una, por Ecrón una; ^18^ y los ratones de oro, según el número de todas las ciudades de los filisteos que pertenecían a los cinco señores, tanto de las ciudades fortificadas como de las aldeas rurales, hasta la gran piedra sobre la que depositaron el arca de Yavé. Esa piedra permanece hasta hoy en el campo de Josué de Bet Semes.
+@10 Y aquellos hombres lo hicieron así; pues tomando dos vacas que criaban, unciéronlas al carro, y encerraron en casa sus becerros. 
+@11 Luego pusieron el arca de Jehová sobre el carro, y la caja con los ratones de oro y con las formas de sus hemorroides. 
+@12 Y las vacas se encaminaron por el camino de Beth-semes, é iban por un mismo camino andando y bramando, sin apartarse ni á diestra ni á siniestra: y los príncipes de los Filisteos fueron tras ellas hasta el término de Beth-semes. 
+@13 Y los de Beth-semes segaban el trigo en el valle; y alzando sus ojos vieron el arca, y holgáronse cuando la vieron. 
+@14 Y el carro vino al campo de Josué Beth-semita, y paró allí: porque allí había una gran piedra: y ellos cortaron la madera del carro, y ofrecieron las vacas en holocausto á Jehová. 
+@15 Y los Levitas bajaron el arca de Jehová, y la caja que estaba junto á ella, en la cual estaban las alhajas de oro, y pusiéronlas sobre aquella gran piedra: y los hombres de Beth-semes sacrificaron holocaustos y mataron víctimas á Jehová en aquel día. 
+@16 Lo cual viendo los cinco príncipes de los Filisteos, volviéronse á Ecrón el mismo día. 
+@17 Estas pues son las hemorroides de oro que pagaron los Filisteos á Jehová en expiación: por Asdod una, por Gaza una, por Ascalón una, por Gath una, por Ecrón una; 
+@18 Y ratones de oro conforme al número de todas las ciudades de los Filisteos pertenecientes á los cinco príncipes, desde las ciudades fuertes hasta las aldeas sin muro; y hasta la gran piedra sobre la cual pusieron el arca de Jehová, piedra que está en el campo de Josué Beth-semita hasta hoy.
 
 ## Se instala el arca en Quiriat-Jearim
-^19^ Hirió a los hombres de Bet Semes, porque habían mirado el arca de Yavé, hirió a cincuenta mil setenta de los hombres. Entonces el pueblo se lamentó, porque Yavé había herido al pueblo con una gran matanza. ^a^ ^20^ Los hombres de Bet Semes dijeron: “¿Quién podrá estar frente a Yavé, este Dios santo? ¿A quién subirá de nosotros?”
-^a^[**6:19** Núm 4,20; 2Sam 6,6-7]
+@19 Entonces hirió Dios á los de Beth-semes, porque habían mirado en el arca de Jehová; hirió en el pueblo cincuenta mil y setenta hombres. Y el pueblo puso luto, porque Jehová le había herido de tan gran plaga. 
+@20 Y dijeron los de Beth-semes: ¿Quién podrá estar delante de Jehová el Dios santo? ¿y á quién subirá desde nosotros?
 
-^21^ Enviaron mensajeros a los habitantes de Quiriat Jearim, diciendo: “Los filisteos han traído de vuelta el arca de Yahvé. Bajen y llévenla a ustedes”.
+@21 Y enviaron mensajeros á los de Chîriath-jearim, diciendo: Los Filisteos han vuelto el arca de Jehová: descended pues, y llevadla á vosotros. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 6
-^1^ Yahweh’s ark was in the country of the Philistines seven months. ^2^ The Philistines called for the priests and the diviners, saying, “What shall we do with Yahweh’s ark? Show us how we should send it to its place.” 
+## Resolution of the Philistines on the return of the ark
+@1 Yahweh’s ark was in the country of the Philistines seven months. 
+@2 The Philistines called for the priests and the diviners, saying, “What shall we do with Yahweh’s ark? Show us how we should send it to its place.” 
 
-^3^ They said, “If you send away the ark of the God of Israel, don’t send it empty; but by all means return a trespass offering to him. Then you will be healed, and it will be known to you why his hand is not removed from you.” 
+@3 They said, “If you send away the ark of the God of Israel, don’t send it empty; but by all means return a trespass offering to him. Then you will be healed, and it will be known to you why his hand is not removed from you.” 
 
-^4^ Then they said, “What should the trespass offering be which we shall return to him?” 
+@4 Then they said, “What should the trespass offering be which we shall return to him?” 
 
-They said, “Five golden tumors and five golden mice, for the number of the lords of the Philistines; for one plague was on you all, and on your lords. ^5^ Therefore you shall make images of your tumors and images of your mice that mar the land; and you shall give glory to the God of Israel. Perhaps he will release his hand from you, from your gods, and from your land. ^6^ Why then do you harden your hearts as the Egyptians and Pharaoh hardened their hearts? When he had worked wonderfully among them, didn’t they let the people go, and they departed? 
+They said, “Five golden tumors and five golden mice, for the number of the lords of the Philistines; for one plague was on you all, and on your lords. 
+@5 Therefore you shall make images of your tumors and images of your mice that mar the land; and you shall give glory to the God of Israel. Perhaps he will release his hand from you, from your gods, and from your land. 
+@6 Why then do you harden your hearts as the Egyptians and Pharaoh hardened their hearts? When he had worked wonderfully among them, didn’t they let the people go, and they departed? 
 
-^7^ “Now therefore take and prepare yourselves a new cart and two milk cows on which there has come no yoke; and tie the cows to the cart, and bring their calves home from them; ^8^ and take Yahweh’s ark and lay it on the cart. Put the jewels of gold, which you return him for a trespass offering, in a box by its side; and send it away, that it may go. ^9^ Behold, if it goes up by the way of its own border to Beth Shemesh, then he has done us this great evil; but if not, then we shall know that it is not his hand that struck us. It was a chance that happened to us.” 
+@7 “Now therefore take and prepare yourselves a new cart and two milk cows on which there has come no yoke; and tie the cows to the cart, and bring their calves home from them; 
+@8 and take Yahweh’s ark and lay it on the cart. Put the jewels of gold, which you return him for a trespass offering, in a box by its side; and send it away, that it may go. 
+@9 Behold, if it goes up by the way of its own border to Beth Shemesh, then he has done us this great evil; but if not, then we shall know that it is not his hand that struck us. It was a chance that happened to us.”
 
-^10^ The men did so, and took two milk cows and tied them to the cart, and shut up their calves at home. ^11^ They put Yahweh’s ark on the cart, and the box with the golden mice and the images of their tumors. ^12^ The cows took the straight way by the way to Beth Shemesh. They went along the highway, lowing as they went, and didn’t turn away to the right hand or to the left; and the lords of the Philistines went after them to the border of Beth Shemesh. ^13^ The people of Beth Shemesh were reaping their wheat harvest in the valley; and they lifted up their eyes and saw the ark, and rejoiced to see it. ^14^ The cart came into the field of Joshua of Beth Shemesh, and stood there, where there was a great stone. Then they split the wood of the cart and offered up the cows for a burnt offering to Yahweh. ^15^ The Levites took down Yahweh’s ark and the box that was with it, in which the jewels of gold were, and put them on the great stone; and the men of Beth Shemesh offered burnt offerings and sacrificed sacrifices the same day to Yahweh. ^16^ When the five lords of the Philistines had seen it, they returned to Ekron the same day. ^17^ These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one; ^18^ and the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fortified cities and of country villages, even to the great stone on which they set down Yahweh’s ark. That stone remains to this day in the field of Joshua of Beth Shemesh. ^19^ He struck of the men of Beth Shemesh, because they had looked into Yahweh’s ark, he struck fifty thousand seventy of the men. Then the people mourned, because Yahweh had struck the people with a great slaughter. ^20^ The men of Beth Shemesh said, “Who is able to stand before Yahweh, this holy God? To whom shall he go up from us?” 
+## Execution of resolution; Arrival and reception of the ark at Beth-shemesh
+@10 The men did so, and took two milk cows and tied them to the cart, and shut up their calves at home. 
+@11 They put Yahweh’s ark on the cart, and the box with the golden mice and the images of their tumors. 
+@12 The cows took the straight way by the way to Beth Shemesh. They went along the highway, lowing as they went, and didn’t turn away to the right hand or to the left; and the lords of the Philistines went after them to the border of Beth Shemesh. 
+@13 The people of Beth Shemesh were reaping their wheat harvest in the valley; and they lifted up their eyes and saw the ark, and rejoiced to see it. 
+@14 The cart came into the field of Joshua of Beth Shemesh, and stood there, where there was a great stone. Then they split the wood of the cart and offered up the cows for a burnt offering to Yahweh. 
+@15 The Levites took down Yahweh’s ark and the box that was with it, in which the jewels of gold were, and put them on the great stone; and the men of Beth Shemesh offered burnt offerings and sacrificed sacrifices the same day to Yahweh. 
+@16 When the five lords of the Philistines had seen it, they returned to Ekron the same day. 
+@17 These are the golden tumors which the Philistines returned for a trespass offering to Yahweh: for Ashdod one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one; 
+@18 and the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fortified cities and of country villages, even to the great stone on which they set down Yahweh’s ark. That stone remains to this day in the field of Joshua of Beth Shemesh.
 
-^21^ They sent messengers to the inhabitants of Kiriath Jearim, saying, “The Philistines have brought back Yahweh’s ark. Come down and bring it up to yourselves.” 
+## The ark is installed in Quiriat-Jearim
+@19 He struck of the men of Beth Shemesh, because they had looked into Yahweh’s ark, he struck fifty thousand seventy of the men. Then the people mourned, because Yahweh had struck the people with a great slaughter. 
+@20 The men of Beth Shemesh said, “Who is able to stand before Yahweh, this holy God? To whom shall he go up from us?” 
+
+@21 They sent messengers to the inhabitants of Kiriath Jearim, saying, “The Philistines have brought back Yahweh’s ark. Come down and bring it up to yourselves.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 7
-^1^ Los hombres de Quiriat Jearim vinieron y tomaron el arca de Yavé, y la llevaron a la casa de Abinadab en la colina, y consagraron a Eleazar, su hijo, para que guardara el arca de Yavé.
+@1 Y vinieron los de Chîriath-jearim, y llevaron el arca de Jehová, y metiéronla en casa de Abinadab, situada en el collado; y santificaron á Eleazar su hijo, para que guardase el arca de Jehová.
 
 ## Los israelitas se vuelven arrepentidos a Dios
-^2^ Desde el día en que el arca permaneció en Quiriat Jearim, el tiempo se prolongó, pues fueron veinte años; y toda la casa de Israel se lamentaba en pos de Yavé. ^a^ ^3^ Samuel habló a toda la casa de Israel, diciendo: “Si volvéis a Yahvé de todo corazón, quitad de en medio los dioses extranjeros y el Astarot, y dirigid vuestro corazón a Yahvé, y servidle sólo a él; y él os librará de la mano de los filisteos.” ^b^ ^4^ Entonces los hijos de Israel eliminaron a los baales y a Astarot, y sólo sirvieron a Yavé. ^c^
-^a^[**7:2** 1Cró 13,6] ^b^[**7:3** Gén 35,2; Jos 24,23] ^c^[**7:4** Jue 10,6; Jue 10,16]
+@2 Y aconteció que desde el día que llegó el arca á Chîriath-jearim pasaron muchos días, veinte años; y toda la casa de Israel lamentaba en pos de Jehová. 
+@3 Y habló Samuel á toda la casa de Israel, diciendo: Si de todo vuestro corazón os volvéis á Jehová, quitad los dioses ajenos y á Astaroth de entre vosotros, y preparad vuestro corazón á Jehová, y á sólo él servid, y os librará de mano de los Filisteos. 
+@4 Entonces los hijos de Israel quitaron á los Baales y á Astaroth, y sirvieron á solo Jehová.
 
 ## La intercesión y el sacrificio de Samuel por Israel en Mizpa; Derrota de los filisteos; la piedra Eben-Eser
-^5^ Samuel dijo: “Reúnan a todo Israel en Mizpa, y yo oraré a Yavé por ustedes.” ^a^ ^6^ Se reunieron en Mizpa, sacaron agua y la derramaron ante Yavé, y ese día ayunaron y dijeron allí: “Hemos pecado contra Yavé.” Samuel juzgó a los hijos de Israel en Mizpa.
-^a^[**7:5** 1Sam 10,17; Jue 11,11; Jue 20,1]
+@5 Y Samuel dijo: Juntad á todo Israel en Mizpa, y yo oraré por vosotros á Jehová. 
+@6 Y juntándose en Mizpa, sacaron agua, y derramáronla delante de Jehová, y ayunaron aquel día, y dijeron allí: Contra Jehová hemos pecado. Y juzgó Samuel á los hijos de Israel en Mizpa.
 
-^7^ Cuando los filisteos oyeron que los hijos de Israel estaban reunidos en Mizpa, los señores de los filisteos subieron contra Israel. Cuando los hijos de Israel lo oyeron, tuvieron miedo de los filisteos. ^8^ Los hijos de Israel dijeron a Samuel: “No dejes de clamar por nosotros a Yavé, nuestro Dios, para que nos salve de la mano de los filisteos.” ^a^ ^9^ Samuel tomó un cordero lechal y lo ofreció en holocausto a Yavé. Samuel clamó a Yavé por Israel, y Yavé le respondió. ^10^ Mientras Samuel ofrecía el holocausto, los filisteos se acercaron para combatir contra Israel; pero aquel día Yavé tronó con gran estruendo sobre los filisteos y los confundió, y fueron derribados ante Israel. ^11^ Los hombres de Israel salieron de Mizpa y persiguieron a los filisteos, y los golpearon hasta que llegaron debajo de Bet Kar.
-^a^[**7:8** 1Sam 12,23]
+@7 Y oyendo los Filisteos que los hijos de Israel estaban reunidos en Mizpa, subieron los príncipes de los Filisteos contra Israel: lo cual como hubieron oído los hijos de Israel, tuvieron temor de los Filisteos. 
+@8 Y dijeron los hijos de Israel á Samuel: No ceses de clamar por nosotros á Jehová nuestro Dios, que nos guarde de mano de los filisteos. 
+@9 Y Samuel tomó un cordero de leche, y sacrificólo entero á Jehová en holocausto: y clamó Samuel á Jehová por Israel, y Jehová le oyó. 
+@10 Y aconteció que estando Samuel sacrificando el holocausto, los Filisteos llegaron para pelear con los hijos de Israel. Mas Jehová tronó aquel día con grande estruendo sobre los Filisteos, y desbaratólos, y fueron vencidos delante de Israel. 
+@11 Y saliendo los hijos de Israel de Mizpa, siguieron á los Filisteos, hiriéndolos hasta abajo de Beth-car.
 
-^12^ Entonces Samuel tomó una piedra y la puso entre Mizpa y Shen, y la llamó Ebenezer, diciendo: “El Señor nos ha ayudado hasta ahora.”
+@12 Tomó luego Samuel una piedra, y púsola entre Mizpa y Sen, y púsole por nombre Eben-ezer, diciendo: Hasta aquí nos ayudó Jehová.
 
 ## Estado de paz en el país; La eficacia de Samuel como juez
-^13^ Así los filisteos fueron sometidos y dejaron de entrar en la frontera de Israel. La mano de Yavé estuvo contra los filisteos todos los días de Samuel.
+@13 Fueron pues los Filisteos humillados, que no vinieron más al término de Israel; y la mano de Jehová fué contra los Filisteos todo el tiempo de Samuel.
 
-^14^ Las ciudades que los filisteos habían arrebatado a Israel fueron devueltas a éste, desde Ecrón hasta Gat, e Israel recuperó su frontera de manos de los filisteos. Hubo paz entre Israel y los amorreos.
+@14 Y fueron restituídas á los hijos de Israel las ciudades que los Filisteos habían tomado á los Israelitas, desde Ecrón hasta Gath, con sus términos: é Israel las libró de mano de los Filisteos. Y hubo paz entre Israel y el Amorrheo.
 
-^15^ Samuel juzgó a Israel todos los días de su vida. ^16^ Iba de año en año en un circuito a Betel, Gilgal y Mizpa, y juzgaba a Israel en todos esos lugares. ^17^ Su regreso fue a Ramá, porque allí estaba su casa, y allí juzgó a Israel; y allí construyó un altar a Yahvé.
+@15 Y juzgó Samuel á Israel todo el tiempo que vivió. 
+@16 Y todos los años iba y daba vuelta á Beth-el, y á Gilgal, y á Mizpa, y juzgaba á Israel en todos estos lugares. 
+@17 Volvíase después á Rama, porque allí estaba su casa, y allí juzgaba á Israel; y edificó allí altar á Jehová. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 7
-^1^ The men of Kiriath Jearim came and took Yahweh’s ark, and brought it into Abinadab’s house on the hill, and consecrated Eleazar his son to keep Yahweh’s ark. ^2^ From the day that the ark stayed in Kiriath Jearim, the time was long—for it was twenty years; and all the house of Israel lamented after Yahweh. ^3^ Samuel spoke to all the house of Israel, saying, “If you are returning to Yahweh with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to Yahweh, and serve him only; and he will deliver you out of the hand of the Philistines.” ^4^ Then the children of Israel removed the Baals and the Ashtaroth, and served Yahweh only. ^5^ Samuel said, “Gather all Israel to Mizpah, and I will pray to Yahweh for you.” ^6^ They gathered together to Mizpah, and drew water, and poured it out before Yahweh, and fasted on that day, and said there, “We have sinned against Yahweh.” Samuel judged the children of Israel in Mizpah. 
+@1 The men of Kiriath Jearim came and took Yahweh’s ark, and brought it into Abinadab’s house on the hill, and consecrated Eleazar his son to keep Yahweh’s ark.
 
-^7^ When the Philistines heard that the children of Israel were gathered together at Mizpah, the lords of the Philistines went up against Israel. When the children of Israel heard it, they were afraid of the Philistines. ^8^ The children of Israel said to Samuel, “Don’t stop crying to Yahweh our God for us, that he will save us out of the hand of the Philistines.” ^9^ Samuel took a suckling lamb, and offered it for a whole burnt offering to Yahweh. Samuel cried to Yahweh for Israel, and Yahweh answered him. ^10^ As Samuel was offering up the burnt offering, the Philistines came near to battle against Israel; but Yahweh thundered with a great thunder on that day on the Philistines and confused them; and they were struck down before Israel. ^11^ The men of Israel went out of Mizpah and pursued the Philistines, and struck them until they came under Beth Kar. 
+## The Israelites turn repentant to God
+@2 From the day that the ark stayed in Kiriath Jearim, the time was long—for it was twenty years; and all the house of Israel lamented after Yahweh. 
+@3 Samuel spoke to all the house of Israel, saying, “If you are returning to Yahweh with all your heart, then put away the foreign gods and the Ashtaroth from among you, and direct your hearts to Yahweh, and serve him only; and he will deliver you out of the hand of the Philistines.” 
+@4 Then the children of Israel removed the Baals and the Ashtaroth, and served Yahweh only.
 
-^12^ Then Samuel took a stone and set it between Mizpah and Shen, and called its name Ebenezer,^a^ saying, “Yahweh helped us until now.” ^13^ So the Philistines were subdued, and they stopped coming within the border of Israel. Yahweh’s hand was against the Philistines all the days of Samuel. 
+## Samuel's intercession and sacrifice for Israel at Mizpah; Defeat of the Philistines; the Eben-Eser stone
+@5 Samuel said, “Gather all Israel to Mizpah, and I will pray to Yahweh for you.” 
+@6 They gathered together to Mizpah, and drew water, and poured it out before Yahweh, and fasted on that day, and said there, “We have sinned against Yahweh.” Samuel judged the children of Israel in Mizpah. 
+
+@7 When the Philistines heard that the children of Israel were gathered together at Mizpah, the lords of the Philistines went up against Israel. When the children of Israel heard it, they were afraid of the Philistines. 
+@8 The children of Israel said to Samuel, “Don’t stop crying to Yahweh our God for us, that he will save us out of the hand of the Philistines.” 
+@9 Samuel took a suckling lamb, and offered it for a whole burnt offering to Yahweh. Samuel cried to Yahweh for Israel, and Yahweh answered him. 
+@10 As Samuel was offering up the burnt offering, the Philistines came near to battle against Israel; but Yahweh thundered with a great thunder on that day on the Philistines and confused them; and they were struck down before Israel. 
+@11 The men of Israel went out of Mizpah and pursued the Philistines, and struck them until they came under Beth Kar. 
+
+@12 Then Samuel took a stone and set it between Mizpah and Shen, and called its name Ebenezer,^a^ saying, “Yahweh helped us until now.”
+
+## State of peace in the country; Samuel's effectiveness as a judge
+@13 So the Philistines were subdued, and they stopped coming within the border of Israel. Yahweh’s hand was against the Philistines all the days of Samuel. 
 ^a^[**7:12** “Ebenezer” means “stone of help”.]
 
-^14^ The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and Israel recovered its border out of the hand of the Philistines. There was peace between Israel and the Amorites. 
+@14 The cities which the Philistines had taken from Israel were restored to Israel, from Ekron even to Gath; and Israel recovered its border out of the hand of the Philistines. There was peace between Israel and the Amorites. 
 
-^15^ Samuel judged Israel all the days of his life. ^16^ He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he judged Israel in all those places. ^17^ His return was to Ramah, for his house was there, and he judged Israel there; and he built an altar to Yahweh there. 
+@15 Samuel judged Israel all the days of his life. 
+@16 He went from year to year in a circuit to Bethel, Gilgal, and Mizpah; and he judged Israel in all those places. 
+@17 His return was to Ramah, for his house was there, and he judged Israel there; and he built an altar to Yahweh there. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 8
 ## El deseo de Israel por un rey; La demanda del pueblo despierta el disgusto de Samuel, pero encuentra la aprobación de Dios
-^1^ Cuando Samuel envejeció, puso a sus hijos como jueces de Israel. ^a^ ^2^ El nombre de su primogénito fue Joel, y el del segundo, Abías. Fueron jueces en Beerseba. ^3^ Sus hijos no siguieron sus caminos, sino que se apartaron en pos de ganancias deshonestas, aceptaron sobornos y pervirtieron la justicia. ^b^
-^a^[**8:1** 1Cró 6,28] ^b^[**8:3** Deut 16,19]
+@1 Y aconteció que habiendo Samuel envejecido, puso sus hijos por jueces sobre Israel. 
+@2 Y el nombre de su hijo primogénito fué Joel, y el nombre del segundo, Abia: fueron jueces en Beer-sebah. 
+@3 Mas no anduvieron los hijos por los caminos de su padre, antes se ladearon tras la avaricia, recibiendo cohecho y pervirtiendo el derecho.
 
-^4^ Entonces se reunieron todos los ancianos de Israel y vinieron a Samuel a Ramá. ^a^ ^5^ Le dijeron: “Mira que eres viejo, y tus hijos no andan por tus caminos. Haznos ahora un rey que nos juzgue como a todas las naciones”. ^b^ ^6^ Pero a Samuel le disgustó que dijeran: “Danos un rey que nos juzgue”. Samuel oró a Yahvé. ^7^ Yahvé le dijo a Samuel: “Escucha la voz del pueblo en todo lo que te diga; porque no te han rechazado a ti, sino que me han rechazado a mí como rey sobre ellos. ^8^ Según todas las obras que han hecho desde el día en que los saqué de Egipto hasta hoy, en que me han abandonado y han servido a otros dioses, así hacen también contigo. ^9^ Ahora, pues, escucha su voz. Sin embargo, protestarás solemnemente ante ellos, y les mostrarás el camino del rey que reinará sobre ellos.”
-^a^[**8:4** 1Sam 7,17] ^b^[**8:5** Deut 17,14; Os 13,10; Hech 13,21]
+@4 Entonces todos los ancianos de Israel se juntaron, y vinieron á Samuel en Rama, 
+@5 Y dijéronle: He aquí tú has envejecido, y tus hijos no van por tus caminos: por tanto, constitúyenos ahora un rey que nos juzgue, como todas las gentes. 
+@6 Y descontentó á Samuel esta palabra que dijeron: Danos rey que nos juzgue. Y Samuel oró á Jehová.
+
+@7 Y dijo Jehová á Samuel: Oye la voz del pueblo en todo lo que te dijeren: porque no te han desechado á ti, sino á mí me han desechado, para que no reine sobre ellos. 
+@8 Conforme á todas las obras que han hecho desde el día que los saqué de Egipto hasta hoy, que me han dejado y han servido á dioses ajenos, así hacen también contigo. 
+@9 Ahora pues, oye su voz: mas protesta contra ellos declarándoles el derecho del rey que ha de reinar sobre ellos.
 
 ## Samuel le dice a la gente los derechos de un rey
-^10^ Samuel contó todas las palabras de Yahvé al pueblo que le pedía un rey. ^11^ Dijo: “Este será el camino del rey que reinará sobre ustedes: tomará a sus hijos y los designará como sus servidores, para sus carros y para ser sus jinetes; y correrán delante de sus carros. ^12^ Los nombrará para él como capitanes de millares y capitanes de cincuenta; y asignará a algunos para arar su tierra y segar su cosecha, y para hacer sus instrumentos de guerra y los instrumentos de sus carros. ^13^ Tomará a vuestras hijas para que sean perfumistas, cocineras y panaderas. ^14^ Tomará tus campos, tus viñedos y tus olivares, incluso los mejores, y los dará a sus siervos. ^15^ Tomará la décima parte de tus semillas y de tus viñedos, y se la dará a sus funcionarios y a sus siervos. ^16^ Tomará tus siervos, tus siervas, tus mejores jóvenes y tus asnos, y los destinará a su propio trabajo. ^17^ Tomará la décima parte de vuestros rebaños, y vosotros seréis sus siervos. ^18^ Aquel día gritaréis a causa de vuestro rey que habréis elegido para vosotros, y el Señor no os responderá en aquel día.”
+@10 Y dijo Samuel todas las palabras de Jehová al pueblo que le había pedido rey. 
+@11 Dijo pues: Este será el derecho del rey que hubiere de reinar sobre vosotros: tomará vuestros hijos, y pondrálos en sus carros, y en su gente de á caballo, para que corran delante de su carro: 
+@12 Y se elegirá capitanes de mil, y capitanes de cincuenta: pondrálos asimismo á que aren sus campos, y sieguen sus mieses, y á que hagan sus armas de guerra, y los pertrechos de sus carros: 
+@13 Tomará también vuestras hijas para que sean perfumadoras, cocineras, y amasadoras. 
+@14 Asimismo tomará vuestras tierras, vuestras viñas, y vuestros buenos olivares, y los dará á sus siervos. 
+@15 El diezmará vuestras simientes y vuestras viñas, para dar á sus eunucos y á sus siervos. 
+@16 El tomará vuestros siervos, y vuestras siervas, y vuestros buenos mancebos, y vuestros asnos, y con ellos hará sus obras. 
+@17 Diezmará también vuestro rebaño, y seréis sus siervos. 
+@18 Y clamaréis aquel día á causa de vuestro rey que os habréis elegido, mas Jehová no os oirá en aquel día.
 
 ## La gente persiste en su demanda; La aprobación de dios
-^19^ Pero el pueblo se negó a escuchar la voz de Samuel y dijo: “No, sino que tendremos un rey sobre nosotros, ^20^ para que también seamos como todas las naciones, y para que nuestro rey nos juzgue y salga delante de nosotros y pelee nuestras batallas.”
+@19 Empero el pueblo no quiso oir la voz de Samuel; antes dijeron: No, sino que habrá rey sobre nosotros: 
+@20 Y nosotros seremos también como todas las gentes, y nuestro rey nos gobernará, y saldrá delante de nosotros, y hará nuestras guerras.
 
-^21^ Samuel escuchó todas las palabras del pueblo y las ensayó en los oídos de Yavé. ^22^ Yahvé dijo a Samuel: “Escucha su voz y hazles un rey”. Samuel dijo a los hombres de Israel: “Que cada uno se vaya a su ciudad”. ^a^
-^a^[**8:22** 1Sam 8,7; 1Sam 8,9]
+@21 Y oyó Samuel todas las palabras del pueblo, y refiriólas en oídos de Jehová. 
+@22 Y Jehová dijo á Samuel: Oye su voz, y pon rey sobre ellos. Entonces dijo Samuel á los varones de Israel: Idos cada uno á su ciudad. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 8
-^1^ When Samuel was old, he made his sons judges over Israel. ^2^ Now the name of his firstborn was Joel, and the name of his second, Abijah. They were judges in Beersheba. ^3^ His sons didn’t walk in his ways, but turned away after dishonest gain, took bribes, and perverted justice. 
+## Israel's desire for a king; The people's demand arouses Samuel's displeasure, but finds God's approval
+@1 When Samuel was old, he made his sons judges over Israel. 
+@2 Now the name of his firstborn was Joel, and the name of his second, Abijah. They were judges in Beersheba. 
+@3 His sons didn’t walk in his ways, but turned away after dishonest gain, took bribes, and perverted justice. 
 
-^4^ Then all the elders of Israel gathered themselves together and came to Samuel to Ramah. ^5^ They said to him, “Behold, you are old, and your sons don’t walk in your ways. Now make us a king to judge us like all the nations.” ^6^ But the thing displeased Samuel when they said, “Give us a king to judge us.” 
+@4 Then all the elders of Israel gathered themselves together and came to Samuel to Ramah. 
+@5 They said to him, “Behold, you are old, and your sons don’t walk in your ways. Now make us a king to judge us like all the nations.” 
+@6 But the thing displeased Samuel when they said, “Give us a king to judge us.” 
 
-Samuel prayed to Yahweh. ^7^ Yahweh said to Samuel, “Listen to the voice of the people in all that they tell you; for they have not rejected you, but they have rejected me as the king over them. ^8^ According to all the works which they have done since the day that I brought them up out of Egypt even to this day, in that they have forsaken me and served other gods, so they also do to you. ^9^ Now therefore, listen to their voice. However, you shall protest solemnly to them, and shall show them the way of the king who will reign over them.” 
+Samuel prayed to Yahweh. 
+@7 Yahweh said to Samuel, “Listen to the voice of the people in all that they tell you; for they have not rejected you, but they have rejected me as the king over them. 
+@8 According to all the works which they have done since the day that I brought them up out of Egypt even to this day, in that they have forsaken me and served other gods, so they also do to you. 
+@9 Now therefore, listen to their voice. However, you shall protest solemnly to them, and shall show them the way of the king who will reign over them.”
 
-^10^ Samuel told all Yahweh’s words to the people who asked him for a king. ^11^ He said, “This will be the way of the king who shall reign over you: he will take your sons and appoint them as his servants, for his chariots and to be his horsemen; and they will run before his chariots. ^12^ He will appoint them to him for captains of thousands and captains of fifties; and he will assign some to plow his ground and to reap his harvest; and to make his instruments of war and the instruments of his chariots. ^13^ He will take your daughters to be perfumers, to be cooks, and to be bakers. ^14^ He will take your fields, your vineyards, and your olive groves, even your best, and give them to his servants. ^15^ He will take one tenth of your seed and of your vineyards, and give it to his officers and to his servants. ^16^ He will take your male servants, your female servants, your best young men, and your donkeys, and assign them to his own work. ^17^ He will take one tenth of your flocks; and you will be his servants. ^18^ You will cry out in that day because of your king whom you will have chosen for yourselves; and Yahweh will not answer you in that day.” 
+## Samuel tells the people the rights of a king
+@10 Samuel told all Yahweh’s words to the people who asked him for a king. 
+@11 He said, “This will be the way of the king who shall reign over you: he will take your sons and appoint them as his servants, for his chariots and to be his horsemen; and they will run before his chariots. 
+@12 He will appoint them to him for captains of thousands and captains of fifties; and he will assign some to plow his ground and to reap his harvest; and to make his instruments of war and the instruments of his chariots. 
+@13 He will take your daughters to be perfumers, to be cooks, and to be bakers. 
+@14 He will take your fields, your vineyards, and your olive groves, even your best, and give them to his servants. 
+@15 He will take one tenth of your seed and of your vineyards, and give it to his officers and to his servants. 
+@16 He will take your male servants, your female servants, your best young men, and your donkeys, and assign them to his own work. 
+@17 He will take one tenth of your flocks; and you will be his servants. 
+@18 You will cry out in that day because of your king whom you will have chosen for yourselves; and Yahweh will not answer you in that day.”
 
-^19^ But the people refused to listen to the voice of Samuel; and they said, “No, but we will have a king over us, ^20^ that we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.” 
+## People persist in their demand; God's approval
+@19 But the people refused to listen to the voice of Samuel; and they said, “No, but we will have a king over us, 
+@20 that we also may be like all the nations; and that our king may judge us, and go out before us, and fight our battles.” 
 
-^21^ Samuel heard all the words of the people, and he rehearsed them in the ears of Yahweh. ^22^ Yahweh said to Samuel, “Listen to their voice, and make them a king.” 
+@21 Samuel heard all the words of the people, and he rehearsed them in the ears of Yahweh. 
+@22 Yahweh said to Samuel, “Listen to their voice, and make them a king.” 
 
 Samuel said to the men of Israel, “Everyone go to your own city.” 
 
@@ -365,706 +632,1026 @@ Samuel said to the men of Israel, “Everyone go to your own city.”
 
 # 9
 ## Saúl llega a la casa de Samuel en busca de los asnos de su padre
-^1^ Había un hombre de Benjamín que se llamaba Cis, hijo de Abiel, hijo de Zeror, hijo de Becorat, hijo de Afía, hijo de un benjamita, hombre valiente. ^2^ Tenía un hijo que se llamaba Saúl, un joven impresionante, y no había entre los hijos de Israel una persona más hermosa que él. Desde los hombros hacia arriba era más alto que cualquiera del pueblo.
+@1 Y había un varón de Benjamín, hombre valeroso, el cual se llamaba Cis, hijo de Abiel, hijo de Seor, hijo de Bechôra, hijo de Aphia, hijo de un hombre de Benjamín. 
+@2 Y tenía él un hijo que se llamaba Saúl, mancebo y hermoso, que entre los hijos de Israel no había otro más hermoso que él; del hombro arriba sobrepujaba á cualquiera del pueblo.
 
-^3^ Los asnos de Cis, padre de Saúl, se perdieron. Kish dijo a su hijo Saúl: “Toma ahora uno de los criados contigo, y levántate, ve a buscar los asnos”. ^4^ Atravesó la región montañosa de Efraín y pasó por la tierra de Salisá, pero no los encontraron. Luego pasaron por la tierra de Shaalim, y no estaban allí. Luego pasó por la tierra de los benjamitas, pero no los encontraron. ^a^
-^a^[**9:4** Juan 3,23]
+@3 Y habíanse perdido las asnas de Cis, padre de Saúl; por lo que dijo Cis á Saúl su hijo: Toma ahora contigo alguno de los criados, y levántate, y ve á buscar las asnas. 
+@4 Y él pasó al monte de Ephraim, y de allí á la tierra de Salisa, y no las hallaron. Pasaron luego por la tierra de Saalim, y tampoco. Después pasaron por la tierra de Benjamín, y no las encontraron.
 
-^5^ Cuando llegaron a la tierra de Zuf, Saúl dijo a su criado que estaba con él: “¡Ven! Volvamos, no sea que mi padre deje de preocuparse por los asnos y se inquiete por nosotros”. ^a^
-^a^[**9:5** 1Sam 10,2]
+@5 Y cuando vinieron á la tierra de Suph, Saúl dijo á su criado que tenía consigo: Ven, volvámonos; porque quizá mi padre, dejado el cuidado de las asnas, estará congojado por nosotros.
 
-^6^ El criado le dijo: “He aquí que hay un hombre de Dios en esta ciudad, y es un hombre al que se le tiene en honor. Todo lo que él dice, ciertamente sucede. Ahora vayamos allí. Tal vez él pueda indicarnos el camino a seguir”.
+@6 Y él le respondió: He aquí ahora hay en esta ciudad un hombre de Dios, que es varón insigne: todas las cosas que él dijere, sin duda vendrán. Vamos pues allá: quizá nos enseñará nuestro camino por donde hayamos de ir.
 
-^7^ Entonces Saúl dijo a su criado: “Pero si vamos, ¿qué le vamos a llevar al hombre? Porque el pan se ha gastado en nuestros sacos, y no hay regalo que llevar al hombre de Dios. ¿Qué tenemos?”
+@7 Y Saúl respondió á su criado: Vamos ahora: ¿mas qué llevaremos al varón? Porque el pan de nuestras alforjas se ha acabado, y no tenemos qué presentar al varón de Dios: ¿qué tenemos?
 
-^8^ El criado volvió a responder a Saúl y le dijo: “Mira, tengo en mi mano la cuarta parte de un siclo de plata. Se lo daré al hombre de Dios, para que nos indique nuestro camino”. ^9^ (En tiempos anteriores en Israel, cuando un hombre iba a consultar a Dios, decía: “¡Ven! Vayamos al vidente”; pues el que ahora se llama profeta, antes se llamaba vidente). ^a^
-^a^[**9:9** 2Re 17,13; 1Cró 9,22; Núm 24,3]
+@8 Entonces tornó el criado á responder á Saúl, diciendo: He aquí se halla en mi mano la cuarta parte de un siclo de plata: esto daré al varón de Dios, porque nos declare nuestro camino. 
+@9 (Antiguamente en Israel cualquiera que iba á consultar á Dios, decía así: Venid y vamos hasta el vidente: porque el que ahora se llama profeta, antiguamente era llamado vidente).
 
 ## La cálida bienvenida de Saúl y el trato honorable de parte de Samuel
-^10^ Entonces Saúl dijo a su criado: “Bien dicho. Ven. Vamos”. Y fueron a la ciudad donde estaba el hombre de Dios. ^11^ Mientras subían la cuesta de la ciudad, encontraron a unas jóvenes que salían a sacar agua, y les dijeron: “¿Está aquí el vidente?”
+@10 Dijo entonces Saúl á su criado: Bien dices; ea pues, vamos. Y fueron á la ciudad donde estaba el varón de Dios. 
+@11 Y cuando subían por la cuesta de la ciudad, hallaron unas mozas que salían por agua, á las cuales dijeron: ¿Está en este lugar el vidente?
 
-^12^ Ellos les respondieron y dijeron: “Es él. Mirad, está delante de vosotros. Daos prisa, porque ha venido hoy a la ciudad; porque el pueblo tiene hoy un sacrificio en el lugar alto. ^13^ En cuanto hayáis entrado en la ciudad, lo encontraréis inmediatamente antes de que suba al lugar alto a comer; porque el pueblo no comerá hasta que él llegue, porque él bendice el sacrificio. Después comen los invitados. Ahora, pues, sube; porque a esta hora lo encontrarás”.
+@12 Y ellas respondiéndoles, dijeron: Sí; helo aquí delante de ti: date pues priesa, porque hoy ha venido á la ciudad en atención á que el pueblo tiene hoy sacrificio en el alto. 
+@13 Y cuando entrareis en la ciudad, le encontraréis luego, antes que suba al alto á comer; pues el pueblo no comerá hasta que él haya venido, por cuanto él haya de bendecir el sacrificio, y después comerán los convidados. Subid pues ahora, porque ahora le hallaréis.
 
-^14^ Subieron a la ciudad. Cuando llegaron a la ciudad, he aquí que Samuel salió hacia ellos para subir al lugar alto.
+@14 Ellos entonces subieron á la ciudad; y cuando en medio de la ciudad estuvieron, he aquí Samuel que delante de ellos salía para subir al alto.
 
-^15^ Un día antes de que llegara Saúl, Yahvé se lo había revelado a Samuel, diciendo: ^16^ “Mañana a esta hora te enviaré un hombre de la tierra de Benjamín, y lo ungirás para que sea príncipe de mi pueblo Israel. Él salvará a mi pueblo de la mano de los filisteos; porque yo he mirado a mi pueblo, porque su clamor ha llegado hasta mí.”
+@15 Y un día antes que Saúl viniese, Jehová había revelado al oído de Samuel, diciendo: 
+@16 Mañana á esta misma hora yo enviaré á ti un varón de la tierra de Benjamín, al cual ungirás por príncipe sobre mi pueblo Israel, y salvará mi pueblo de mano de los Filisteos: pues yo he mirado á mi pueblo, porque su clamor ha llegado hasta mí.
 
-^17^ Cuando Samuel vio a Saúl, Yahvé le dijo: “¡Mira al hombre del que te hablé! Él tendrá autoridad sobre mi pueblo”.
+@17 Y luego que Samuel vió á Saúl, Jehová le dijo: He aquí éste es el varón del cual te hablé; éste señoreará á mi pueblo.
 
-^18^ Entonces Saúl se acercó a Samuel en la puerta y le dijo: “Por favor, dime dónde está la casa del vidente”.
+@18 Y llegando Saúl á Samuel en medio de la puerta, díjole: Ruégote que me enseñes dónde está la casa del vidente.
 
-^19^ Samuel respondió a Saúl y le dijo: “Yo soy el vidente. Sube delante de mí al lugar alto, porque hoy vas a comer conmigo. Por la mañana te dejaré ir y te diré todo lo que hay en tu corazón. ^20^ En cuanto a tus asnos que se perdieron hace tres días, no te preocupes por ellos, pues han sido encontrados. ¿Por quién desea todo Israel? ¿No eres tú y toda la casa de tu padre?”
+@19 Y Samuel respondió á Saúl, y dijo: Yo soy el vidente: sube delante de mí al alto, y comed hoy conmigo, y por la mañana te despacharé, y te descubriré todo lo que está en tu corazón. 
+@20 Y de las asnas que se te perdieron hoy ha tres días, pierde cuidado de ellas, porque se han hallado. Mas ¿por quién es todo el deseo de Israel, sino por ti y por toda la casa de tu padre?
 
-^21^ Saúl respondió: “¿No soy yo un benjamita, de la más pequeña de las tribus de Israel? ¿Y mi familia la más pequeña de todas las familias de la tribu de Benjamín? ¿Por qué, pues, me hablas así?” ^a^
-^a^[**9:21** 1Sam 15,17]
+@21 Y Saúl respondió, y dijo: ¿No soy yo hijo de Benjamín, de las más pequeñas tribus de Israel? Y mi familia ¿no es la más pequeña de todas las familias de la tribu de Benjamín? ¿por qué pues me has dicho cosa semejante?
 
-^22^ Samuel tomó a Saúl y a su criado y los llevó a la sala de invitados, y los hizo sentarse en el mejor lugar entre los invitados, que eran unas treinta personas. ^23^ Samuel dijo al cocinero: “Trae la porción que te di, de la que te dije: “Apártala””. ^24^ El cocinero tomó el muslo y lo que había en él, y lo puso delante de Saúl. Samuel dijo: “¡Mira lo que se ha reservado! Ponlo delante de ti y come; porque te ha sido reservado para el tiempo señalado, pues yo dije: ‘He invitado al pueblo’.” Así que Saúl comió con Samuel aquel día.
+@22 Y trabando Samuel de Saúl y de su criado, metiólos en la sala, y dióles lugar á la cabecera de los convidados, que eran como unos treinta hombres. 
+@23 Y dijo Samuel al cocinero: Trae acá la porción que te dí, la cual te dije que guardases aparte. 
+@24 Entonces alzó el cocinero una espaldilla, con lo que estaba sobre ella, y púsola delante de Saúl. Y Samuel dijo: He aquí lo que estaba reservado: ponlo delante de ti, y come; porque de industria se guardó para ti, cuando dije: Yo he convidado al pueblo. Y Saúl comió aquel día con Samuel.
 
-^25^ Cuando bajaron del lugar alto a la ciudad, habló con Saúl en el terrado.
+@25 Y cuando hubieron descendido del alto á la ciudad, él habló con Saúl en el terrado.
 
 ## Saúl ungido rey por Samuel; su regreso a Guibeá
-^26^ Se levantaron temprano, y cerca del amanecer, Samuel llamó a Saúl en el terrado, diciendo: “Levántate, para que te despache”. Saúl se levantó, y ambos salieron fuera, él y Samuel, juntos. ^27^ Cuando bajaban al final de la ciudad, Samuel dijo a Saúl: “Dile al criado que se adelante a nosotros.” Él se adelantó, y entonces Samuel le dijo: “Pero quédate quieto primero, para que te haga escuchar el mensaje de Dios”.
+@26 Y al otro día madrugaron: y como al apuntar del alba, Samuel llamó á Saúl, que estaba en el terrado; y dijo: Levántate, para que te despache. Levantóse luego Saúl, y salieron fuera ambos, él y Samuel. 
+@27 Y descendiendo ellos al cabo de la ciudad, dijo Samuel á Saúl: Di al mozo que vaya delante, (y adelantóse el mozo); mas espera tú un poco para que te declare palabra de Dios. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 9
-^1^ Now there was a man of Benjamin, whose name was Kish the son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah, the son of a Benjamite, a mighty man of valor. ^2^ He had a son whose name was Saul, an impressive young man; and there was not among the children of Israel a more handsome person than he. From his shoulders and upward he was taller than any of the people. 
+## Saul arrives at Samuel's house in search of his father's donkeys
+@1 Now there was a man of Benjamin, whose name was Kish the son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah, the son of a Benjamite, a mighty man of valor. 
+@2 He had a son whose name was Saul, an impressive young man; and there was not among the children of Israel a more handsome person than he. From his shoulders and upward he was taller than any of the people. 
 
-^3^ The donkeys of Kish, Saul’s father, were lost. Kish said to Saul his son, “Now take one of the servants with you, and arise, go look for the donkeys.” ^4^ He passed through the hill country of Ephraim, and passed through the land of Shalishah, but they didn’t find them. Then they passed through the land of Shaalim, and they weren’t there. Then he passed through the land of the Benjamites, but they didn’t find them. 
+@3 The donkeys of Kish, Saul’s father, were lost. Kish said to Saul his son, “Now take one of the servants with you, and arise, go look for the donkeys.” 
+@4 He passed through the hill country of Ephraim, and passed through the land of Shalishah, but they didn’t find them. Then they passed through the land of Shaalim, and they weren’t there. Then he passed through the land of the Benjamites, but they didn’t find them. 
 
-^5^ When they had come to the land of Zuph, Saul said to his servant who was with him, “Come! Let’s return, lest my father stop caring about the donkeys and be anxious for us.” 
+@5 When they had come to the land of Zuph, Saul said to his servant who was with him, “Come! Let’s return, lest my father stop caring about the donkeys and be anxious for us.” 
 
-^6^ The servant said to him, “Behold now, there is a man of God in this city, and he is a man who is held in honor. All that he says surely happens. Now let’s go there. Perhaps he can tell us which way to go.” 
+@6 The servant said to him, “Behold now, there is a man of God in this city, and he is a man who is held in honor. All that he says surely happens. Now let’s go there. Perhaps he can tell us which way to go.” 
 
-^7^ Then Saul said to his servant, “But behold, if we go, what should we bring the man? For the bread is spent in our sacks, and there is not a present to bring to the man of God. What do we have?” 
+@7 Then Saul said to his servant, “But behold, if we go, what should we bring the man? For the bread is spent in our sacks, and there is not a present to bring to the man of God. What do we have?” 
 
-^8^ The servant answered Saul again and said, “Behold, I have in my hand the fourth part of a shekel^a^ of silver. I will give that to the man of God, to tell us our way.” ^9^ (In earlier times in Israel, when a man went to inquire of God, he said, “Come! Let’s go to the seer;” for he who is now called a prophet was before called a seer.) 
+@8 The servant answered Saul again and said, “Behold, I have in my hand the fourth part of a shekel^a^ of silver. I will give that to the man of God, to tell us our way.” 
+@9 (In earlier times in Israel, when a man went to inquire of God, he said, “Come! Let’s go to the seer;” for he who is now called a prophet was before called a seer.) 
 ^a^[**9:8** A shekel is about 10 grams or about 0.35 ounces, so 1/4 shekel would be a small coin of about 2.5 grams.]
 
-^10^ Then Saul said to his servant, “Well said. Come! Let’s go.” So they went to the city where the man of God was. ^11^ As they went up the ascent to the city, they found young maidens going out to draw water, and said to them, “Is the seer here?” 
+## Saul's warm welcome and Samuel's honorable treatment
+@10 Then Saul said to his servant, “Well said. Come! Let’s go.” So they went to the city where the man of God was. 
+@11 As they went up the ascent to the city, they found young maidens going out to draw water, and said to them, “Is the seer here?” 
 
-^12^ They answered them and said, “He is. Behold, he is before you. Hurry now, for he has come today into the city; for the people have a sacrifice today in the high place. ^13^ As soon as you have come into the city, you will immediately find him before he goes up to the high place to eat; for the people will not eat until he comes, because he blesses the sacrifice. Afterwards those who are invited eat. Now therefore go up; for at this time you will find him.” 
+@12 They answered them and said, “He is. Behold, he is before you. Hurry now, for he has come today into the city; for the people have a sacrifice today in the high place. 
+@13 As soon as you have come into the city, you will immediately find him before he goes up to the high place to eat; for the people will not eat until he comes, because he blesses the sacrifice. Afterwards those who are invited eat. Now therefore go up; for at this time you will find him.” 
 
-^14^ They went up to the city. As they came within the city, behold, Samuel came out toward them to go up to the high place. 
+@14 They went up to the city. As they came within the city, behold, Samuel came out toward them to go up to the high place. 
 
-^15^ Now Yahweh had revealed to Samuel a day before Saul came, saying, ^16^ “Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel. He will save my people out of the hand of the Philistines; for I have looked upon my people, because their cry has come to me.” 
+@15 Now Yahweh had revealed to Samuel a day before Saul came, saying, 
+@16 “Tomorrow about this time I will send you a man out of the land of Benjamin, and you shall anoint him to be prince over my people Israel. He will save my people out of the hand of the Philistines; for I have looked upon my people, because their cry has come to me.” 
 
-^17^ When Samuel saw Saul, Yahweh said to him, “Behold, the man of whom I spoke to you! He will have authority over my people.” 
+@17 When Samuel saw Saul, Yahweh said to him, “Behold, the man of whom I spoke to you! He will have authority over my people.” 
 
-^18^ Then Saul approached Samuel in the gateway, and said, “Please tell me where the seer’s house is.” 
+@18 Then Saul approached Samuel in the gateway, and said, “Please tell me where the seer’s house is.” 
 
-^19^ Samuel answered Saul and said, “I am the seer. Go up before me to the high place, for you are to eat with me today. In the morning I will let you go and will tell you all that is in your heart. ^20^ As for your donkeys who were lost three days ago, don’t set your mind on them, for they have been found. For whom does all Israel desire? Is it not you and all your father’s house?” 
+@19 Samuel answered Saul and said, “I am the seer. Go up before me to the high place, for you are to eat with me today. In the morning I will let you go and will tell you all that is in your heart. 
+@20 As for your donkeys who were lost three days ago, don’t set your mind on them, for they have been found. For whom does all Israel desire? Is it not you and all your father’s house?” 
 
-^21^ Saul answered, “Am I not a Benjamite, of the smallest of the tribes of Israel? And my family the least of all the families of the tribe of Benjamin? Why then do you speak to me like this?” 
+@21 Saul answered, “Am I not a Benjamite, of the smallest of the tribes of Israel? And my family the least of all the families of the tribe of Benjamin? Why then do you speak to me like this?” 
 
-^22^ Samuel took Saul and his servant and brought them into the guest room, and made them sit in the best place among those who were invited, who were about thirty persons. ^23^ Samuel said to the cook, “Bring the portion which I gave you, of which I said to you, ‘Set it aside.’” ^24^ The cook took up the thigh, and that which was on it, and set it before Saul. Samuel said, “Behold, that which has been reserved! Set it before yourself and eat; because it has been kept for you for the appointed time, for I said, ‘I have invited the people.’” So Saul ate with Samuel that day. 
+@22 Samuel took Saul and his servant and brought them into the guest room, and made them sit in the best place among those who were invited, who were about thirty persons. 
+@23 Samuel said to the cook, “Bring the portion which I gave you, of which I said to you, ‘Set it aside.’” 
+@24 The cook took up the thigh, and that which was on it, and set it before Saul. Samuel said, “Behold, that which has been reserved! Set it before yourself and eat; because it has been kept for you for the appointed time, for I said, ‘I have invited the people.’” So Saul ate with Samuel that day. 
 
-^25^ When they had come down from the high place into the city, he talked with Saul on the housetop. ^26^ They arose early; and about daybreak, Samuel called to Saul on the housetop, saying, “Get up, that I may send you away.” Saul arose, and they both went outside, he and Samuel, together. ^27^ As they were going down at the end of the city, Samuel said to Saul, “Tell the servant to go on ahead of us.” He went ahead, then Samuel said, “But stand still first, that I may cause you to hear God’s message.” 
+@25 When they had come down from the high place into the city, he talked with Saul on the housetop.
+
+## Saul anointed king by Samuel; his return to Gibeah
+@26 They arose early; and about daybreak, Samuel called to Saul on the housetop, saying, “Get up, that I may send you away.” Saul arose, and they both went outside, he and Samuel, together. 
+@27 As they were going down at the end of the city, Samuel said to Saul, “Tell the servant to go on ahead of us.” He went ahead, then Samuel said, “But stand still first, that I may cause you to hear God’s message.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 10
-^1^ Entonces Samuel tomó la vasija de aceite y la derramó sobre su cabeza; luego lo besó y le dijo: “¿No te ha ungido Yahvé para que seas príncipe sobre su heredad?
+@1 Tomando entonces Samuel una ampolla de aceite, derramóla sobre su cabeza, y besólo, y díjole: ¿No te ha ungido Jehová por capitán sobre su heredad?
 
 ## Samuel profetiza tres señales que Saúl recibirá de camino a casa y lo envía a Gilgal
-^2^ Cuando hoy te hayas alejado de mí, encontrarás a dos hombres junto a la tumba de Raquel, en la frontera de Benjamín, en Zelza. Ellos te dirán: ‘Los asnos que fuiste a buscar han sido encontrados; y he aquí que tu padre ha dejado de preocuparse por los asnos y está ansioso por ti, diciendo: “¿Qué haré por mi hijo?”’ ^a^
-^a^[**10:2** Gén 35,19]
+@2 Hoy, después que te hayas apartado de mí, hallarás dos hombres junto al sepulcro de Rachêl, en el término de Benjamín, en Selsah, los cuales te dirán: Las asnas que habías ido á buscar, se han hallado; tu padre pues ha dejado ya el negocio de las asnas, si bien está angustioso por vosotros, diciendo: ¿Qué haré acerca de mi hijo?
 
-^3^ “Luego seguirás adelante desde allí, y llegarás a la encina de Tabor. Allí te saldrán al encuentro tres hombres que suben a Dios a Betel: uno que llevará tres cabritos, otro que llevará tres panes y otro que llevará un recipiente de vino. ^4^ Ellos te saludarán y te darán dos panes, que recibirás de su mano.
+@3 Y como de allí te fueres más adelante, y llegares á la campiña de Tabor, te saldrán al encuentro tres hombres que suben á Dios en Beth-el, llevando el uno tres cabritos, y el otro tres tortas de pan, y el tercero una vasija de vino: 
+@4 Los cuales, luego que te hayan saludado, te darán dos panes, los que tomarás de manos de ellos.
 
-^5^ “Después llegarás a la colina de Dios, donde está la guarnición de los filisteos; y sucederá que cuando hayas llegado allí a la ciudad, te encontrarás con una banda de profetas que bajarán del lugar alto con un laúd, un pandero, una flauta y un arpa delante de ellos; y estarán profetizando. ^6^ Entonces el Espíritu de Yahvé vendrá poderosamente sobre ti, entonces profetizarás con ellos y te convertirás en otro hombre. ^a^ ^7^ Cuando te lleguen estas señales, haz lo que sea apropiado para la ocasión, porque Dios está contigo.
-^a^[**10:6** 1Sam 10,10]
+@5 De allí vendrás al collado de Dios donde está la guarnición de los Filisteos; y cuando entrares allá en la ciudad encontrarás una compañía de profetas que descienden del alto, y delante de ellos salterio, y adufe, y flauta, y arpa, y ellos profetizando: 
+@6 Y el espíritu de Jehová te arrebatará, y profetizarás con ellos, y serás mudado en otro hombre. 
+@7 Y cuando te hubieren sobrevenido estas señales, haz lo que te viniere á la mano, porque Dios es contigo.
 
-^8^ “Desciende delante de mí a Gilgal; y he aquí que yo bajaré a ti para ofrecer holocaustos y sacrificar ofrendas de paz. Espera siete días, hasta que venga a ti y te muestre lo que debes hacer”. ^a^
-^a^[**10:8** 1Sam 13,8]
+@8 Y bajarás delante de mí á Gilgal; y luego descenderé yo á ti para sacrificar holocaustos, é inmolar víctimas pacíficas. Espera siete días, hasta que yo venga á ti, y te enseñe lo que has de hacer.
 
 ## La llegada de los carteles anunciados; Saulo entre los profetas
-^9^ Fue así que cuando le dio la espalda a Samuel para irse, Dios le dio otro corazón; y todas esas señales sucedieron ese día. ^10^ Cuando llegaron al monte, he aquí que un grupo de profetas le salió al encuentro; y el Espíritu de Dios vino poderosamente sobre él, y profetizó entre ellos. ^a^ ^11^ Cuando todos los que le conocían de antes vieron que profetizaba con los profetas, el pueblo se dijo: “¿Qué es esto que le ha sucedido al hijo de Cis? ¿Está Saúl también entre los profetas?”
-^a^[**10:10** 1Sam 19,20-24]
+@9 Y fué que así como tornó él su hombro para partirse de Samuel, mudóle Dios su corazón; y todas estas señales acaecieron en aquel día. 
+@10 Y cuando llegaron allá al collado, he aquí la compañía de los profetas que venía á encontrarse con él, y el espíritu de Dios lo arrebató, y profetizó entre ellos. 
+@11 Y aconteció que, cuando todos los que le conocían de ayer y de antes, vieron como profetizaba con los profetas, el pueblo decía el uno al otro: ¿Qué ha sucedido al hijo de Cis? ¿Saúl también entre los profetas?
 
-^12^ Uno del mismo lugar respondió: “¿Quién es su padre?” Por eso se convirtió en un proverbio: “¿También Saúl está entre los profetas?”
+@12 Y alguno de allí respondió, y dijo: ¿Y quién es el padre de ellos? Por esta causa se tornó en proverbio: ¿También Saúl entre los profetas?
 
 ## Saul de regreso a casa; su conversación reservada con su prima
-^13^ Cuando terminó de profetizar, llegó al lugar alto.
+@13 Y cesó de profetizar, y llegó al alto. 
+@14 Y un tío de Saúl dijo á él y á su criado: ¿Dónde fuisteis? Y él respondió: A buscar las asnas; y como vimos que no parecían, fuimos á Samuel.
 
-^14^ El tío de Saúl les dijo a él y a su criado: “¿Adónde habéis ido?” Dijo: “Para buscar los burros. Cuando vimos que no se encontraban, vinimos a Samuel”.
+@15 Y dijo el tío de Saúl: Yo te ruego me declares qué os dijo Samuel.
 
-^15^ El tío de Saúl le dijo: “Por favor, cuéntame lo que te dijo Samuel”.
-
-^16^ Saúl dijo a su tío: “Nos dijo claramente que los asnos habían sido encontrados”. Pero en cuanto al asunto del reino, del que habló Samuel, no se lo dijo.
+@16 Y Saúl respondió á su tío: Declarónos expresamente que las asnas habían parecido. Mas del negocio del reino, de que Samuel le había hablado, no le descubrió nada.
 
 ## Saúl está decidido a ser rey en Mizpa por la santa suerte
-^17^ Samuel convocó al pueblo ante Yavé en Mizpa; ^18^ y dijo a los hijos de Israel: “Yavé, el Dios de Israel, dice: ‘Yo saqué a Israel de Egipto y os libré de la mano de los egipcios, y de la mano de todos los reinos que os oprimían’. ^19^ Pero hoy habéis rechazado a vuestro Dios, que os salva de todas vuestras calamidades y angustias, y le habéis dicho: “¡No, poned un rey sobre nosotros!”. Ahora, pues, preséntense ante Yahvé por sus tribus y por sus miles”. ^a^
-^a^[**10:19** 1Sam 8,7]
+@17 Y Samuel convocó el pueblo á Jehová en Mizpa; 
+@18 Y dijo á los hijos de Israel: Así ha dicho Jehová el Dios de Israel: Yo saqué á Israel de Egipto, y os libré de mano de los Egipcios, y de mano de todos los reinos que os afligieron: 
+@19 Mas vosotros habéis desechado hoy á vuestro Dios, que os guarda de todas vuestras aflicciones y angustias, y dijisteis: No, sino pon rey sobre nosotros. Ahora pues, poneos delante de Jehová por vuestras tribus y por vuestros millares.
 
-^20^ Entonces Samuel acercó a todas las tribus de Israel, y fue elegida la tribu de Benjamín. ^a^ ^21^ Hizo acercar a la tribu de Benjamín por sus familias, y fue elegida la familia de los matritenses. Luego se eligió a Saúl, hijo de Cis, pero cuando lo buscaron, no lo encontraron. ^22^ Por lo tanto, preguntaron más a Yahvé: “¿Hay todavía un hombre que venga aquí?” Yahvé respondió: “He aquí que se ha escondido entre el equipaje”.
-^a^[**10:20** 1Sam 14,41-42; Jos 7,16]
+@20 Y haciendo allegar Samuel todas las tribus de Israel, fué tomada la tribu de Benjamín. 
+@21 E hizo llegar la tribu de Benjamín por sus linajes, y fué tomada la familia de Matri; y de ella fué tomado Saúl hijo de Cis. Y le buscaron, mas no fué hallado. 
+@22 Preguntaron pues otra vez á Jehová, si había aún de venir allí aquel varón. Y respondió Jehová: He aquí que él está escondido entre el bagaje.
 
-^23^ Corrieron y lo llevaron allí. Cuando se puso de pie en medio del pueblo, era más alto que cualquiera de ellos desde los hombros hacia arriba. ^24^ Samuel dijo a todo el pueblo: “¿Ven al que Yahvé ha elegido, que no hay nadie como él en todo el pueblo?” Todo el pueblo gritó y dijo: “¡Viva el rey!” ^a^
-^a^[**10:24** 1Re 1,25]
+@23 Entonces corrieron, y tomáronlo de allí, y puesto en medio del pueblo, desde el hombro arriba era más alto que todo el pueblo. 
+@24 Y Samuel dijo á todo el pueblo: ¿Habéis visto al que ha elegido Jehová, que no hay semejante á él en todo el pueblo? Entonces el pueblo clamó con alegría, diciendo: Viva el rey.
 
-^25^ Entonces Samuel comunicó al pueblo el reglamento del reino, lo escribió en un libro y lo puso delante de Yavé. Samuel despidió a todo el pueblo, cada uno a su casa. ^a^ ^26^ Saúl también se fue a su casa en Gabaa, y con él iba el ejército, cuyos corazones había tocado Dios. ^27^ Pero algunos despreciables dijeron: “¿Cómo podría salvarnos este hombre?” Lo despreciaron, y no le trajeron ningún tributo. Pero él calló. ^b^
-^a^[**10:25** 1Sam 8,11; Deut 17,14-20] ^b^[**10:27** 1Sam 11,12]
+@25 Samuel recitó luego al pueblo el derecho del reino, y escribiólo en un libro, el cual guardó delante de Jehová. 
+@26 Y envió Samuel á todo el pueblo cada uno á su casa. Y Saúl también se fué á su casa en Gabaa, y fueron con él el ejército, el corazón de los cuales Dios había tocado. 
+@27 Pero los impíos dijeron: ¿Cómo nos ha de salvar éste? Y tuviéronle en poco, y no le trajeron presente: mas él disimuló. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 10
-^1^ Then Samuel took the vial of oil and poured it on his head, then kissed him and said, “Hasn’t Yahweh anointed you to be prince over his inheritance? ^2^ When you have departed from me today, then you will find two men by Rachel’s tomb, on the border of Benjamin at Zelzah. They will tell you, ‘The donkeys which you went to look for have been found; and behold, your father has stopped caring about the donkeys and is anxious for you, saying, “What shall I do for my son?”’ 
+@1 Then Samuel took the vial of oil and poured it on his head, then kissed him and said, “Hasn’t Yahweh anointed you to be prince over his inheritance?
 
-^3^ “Then you will go on forward from there, and you will come to the oak of Tabor. Three men will meet you there going up to God to Bethel: one carrying three young goats, and another carrying three loaves of bread, and another carrying a container of wine. ^4^ They will greet you and give you two loaves of bread, which you shall receive from their hand. 
+## Samuel prophesies three signs that Saul will receive on his way home and sends him to Gilgal
+@2 When you have departed from me today, then you will find two men by Rachel’s tomb, on the border of Benjamin at Zelzah. They will tell you, ‘The donkeys which you went to look for have been found; and behold, your father has stopped caring about the donkeys and is anxious for you, saying, “What shall I do for my son?”’ 
 
-^5^ “After that you will come to the hill of God, where the garrison of the Philistines is; and it will happen, when you have come there to the city, that you will meet a band of prophets coming down from the high place with a lute, a tambourine, a pipe, and a harp before them; and they will be prophesying. ^6^ Then Yahweh’s Spirit will come mightily on you, then you will prophesy with them and will be turned into another man. ^7^ Let it be, when these signs have come to you, that you do what is appropriate for the occasion; for God is with you. 
+@3 “Then you will go on forward from there, and you will come to the oak of Tabor. Three men will meet you there going up to God to Bethel: one carrying three young goats, and another carrying three loaves of bread, and another carrying a container of wine. 
+@4 They will greet you and give you two loaves of bread, which you shall receive from their hand. 
 
-^8^ “Go down ahead of me to Gilgal; and behold, I will come down to you to offer burnt offerings and to sacrifice sacrifices of peace offerings. Wait seven days, until I come to you and show you what you are to do.” ^9^ It was so, that when he had turned his back to go from Samuel, God gave him another heart; and all those signs happened that day. ^10^ When they came there to the hill, behold, a band of prophets met him; and the Spirit of God came mightily on him, and he prophesied among them. ^11^ When all who knew him before saw that, behold, he prophesied with the prophets, then the people said to one another, “What is this that has come to the son of Kish? Is Saul also among the prophets?” 
+@5 “After that you will come to the hill of God, where the garrison of the Philistines is; and it will happen, when you have come there to the city, that you will meet a band of prophets coming down from the high place with a lute, a tambourine, a pipe, and a harp before them; and they will be prophesying. 
+@6 Then Yahweh’s Spirit will come mightily on you, then you will prophesy with them and will be turned into another man. 
+@7 Let it be, when these signs have come to you, that you do what is appropriate for the occasion; for God is with you. 
 
-^12^ One from the same place answered, “Who is their father?” Therefore it became a proverb, “Is Saul also among the prophets?” ^13^ When he had finished prophesying, he came to the high place. 
+@8 “Go down ahead of me to Gilgal; and behold, I will come down to you to offer burnt offerings and to sacrifice sacrifices of peace offerings. Wait seven days, until I come to you and show you what you are to do.”
 
-^14^ Saul’s uncle said to him and to his servant, “Where did you go?” 
+## The arrival of the announced posters; Saul among the prophets
+@9 It was so, that when he had turned his back to go from Samuel, God gave him another heart; and all those signs happened that day. 
+@10 When they came there to the hill, behold, a band of prophets met him; and the Spirit of God came mightily on him, and he prophesied among them. 
+@11 When all who knew him before saw that, behold, he prophesied with the prophets, then the people said to one another, “What is this that has come to the son of Kish? Is Saul also among the prophets?” 
+
+@12 One from the same place answered, “Who is their father?” Therefore it became a proverb, “Is Saul also among the prophets?”
+
+## Saul on the way home; her private conversation with her cousin
+@13 When he had finished prophesying, he came to the high place. 
+
+@14 Saul’s uncle said to him and to his servant, “Where did you go?” 
 
 He said, “To seek the donkeys. When we saw that they were not found, we came to Samuel.” 
 
-^15^ Saul’s uncle said, “Please tell me what Samuel said to you.” 
+@15 Saul’s uncle said, “Please tell me what Samuel said to you.” 
 
-^16^ Saul said to his uncle, “He told us plainly that the donkeys were found.” But concerning the matter of the kingdom, of which Samuel spoke, he didn’t tell him. 
+@16 Saul said to his uncle, “He told us plainly that the donkeys were found.” But concerning the matter of the kingdom, of which Samuel spoke, he didn’t tell him.
 
-^17^ Samuel called the people together to Yahweh to Mizpah; ^18^ and he said to the children of Israel, “Yahweh, the God of Israel, says ‘I brought Israel up out of Egypt and I delivered you out of the hand of the Egyptians, and out of the hand of all the kingdoms that oppressed you.’ ^19^ But you have today rejected your God, who himself saves you out of all your calamities and your distresses; and you have said to him, ‘No! Set a king over us!’ Now therefore present yourselves before Yahweh by your tribes and by your thousands.” 
+## Saul is determined to be king in Mizpah by holy luck
+@17 Samuel called the people together to Yahweh to Mizpah; 
+@18 and he said to the children of Israel, “Yahweh, the God of Israel, says ‘I brought Israel up out of Egypt and I delivered you out of the hand of the Egyptians, and out of the hand of all the kingdoms that oppressed you.’ 
+@19 But you have today rejected your God, who himself saves you out of all your calamities and your distresses; and you have said to him, ‘No! Set a king over us!’ Now therefore present yourselves before Yahweh by your tribes and by your thousands.” 
 
-^20^ So Samuel brought all the tribes of Israel near, and the tribe of Benjamin was chosen. ^21^ He brought the tribe of Benjamin near by their families and the family of the Matrites was chosen. Then Saul the son of Kish was chosen; but when they looked for him, he could not be found. ^22^ Therefore they asked of Yahweh further, “Is there yet a man to come here?” 
+@20 So Samuel brought all the tribes of Israel near, and the tribe of Benjamin was chosen. 
+@21 He brought the tribe of Benjamin near by their families and the family of the Matrites was chosen. Then Saul the son of Kish was chosen; but when they looked for him, he could not be found. 
+@22 Therefore they asked of Yahweh further, “Is there yet a man to come here?” 
 
 Yahweh answered, “Behold, he has hidden himself among the baggage.” 
 
-^23^ They ran and got him there. When he stood among the people, he was higher than any of the people from his shoulders and upward. ^24^ Samuel said to all the people, “Do you see him whom Yahweh has chosen, that there is no one like him among all the people?” 
+@23 They ran and got him there. When he stood among the people, he was higher than any of the people from his shoulders and upward. 
+@24 Samuel said to all the people, “Do you see him whom Yahweh has chosen, that there is no one like him among all the people?” 
 
 All the people shouted and said, “Long live the king!” 
 
-^25^ Then Samuel told the people the regulations of the kingdom, and wrote it in a book and laid it up before Yahweh. Samuel sent all the people away, every man to his house. ^26^ Saul also went to his house in Gibeah; and the army went with him, whose hearts God had touched. ^27^ But certain worthless fellows said, “How could this man save us?” They despised him, and brought him no tribute. But he held his peace. 
+@25 Then Samuel told the people the regulations of the kingdom, and wrote it in a book and laid it up before Yahweh. Samuel sent all the people away, every man to his house. 
+@26 Saul also went to his house in Gibeah; and the army went with him, whose hearts God had touched. 
+@27 But certain worthless fellows said, “How could this man save us?” They despised him, and brought him no tribute. But he held his peace. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 11
 ## La ciudad de Jabés, que está en apuros por los amonitas Nahas, pide la ayuda de los israelitas
-^1^ Entonces Nahas, el amonita, subió y acampó contra Jabes de Galaad; y todos los hombres de Jabes dijeron a Nahas: “Haz un pacto con nosotros y te serviremos.” ^a^
-^a^[**11:1** 1Sam 31,11]
+@1 Y subió Naas Ammonita, y asentó campo contra Jabes de Galaad. Y todos los de Jabes dijeron á Naas: Haz alianza con nosotros, y te serviremos.
 
-^2^ Nahas, el amonita, les dijo: “Con esta condición lo haré con ustedes: que les saquen todos los ojos derechos. Haré que esto deshonre a todo Israel”. ^a^
-^a^[**11:2** Jer 39,7]
+@2 Y Naas Ammonita les respondió: Con esta condición haré alianza con vosotros, que á cada uno de todos vosotros saque el ojo derecho, y ponga esta afrenta sobre todo Israel.
 
-^3^ Los ancianos de Jabes le dijeron: “Danos siete días, para que enviemos mensajeros a todos los confines de Israel; y entonces, si no hay nadie que nos salve, saldremos hacia ti.”
+@3 Entonces los ancianos de Jabes le dijeron: Danos siete días, para que enviemos mensajeros á todos los términos de Israel; y si nadie hubiere que nos defienda, saldremos á ti.
 
 ## La conducta decidida de Saúl y su espléndida victoria
-^4^ Los mensajeros llegaron a Gabaa de Saúl y dijeron estas palabras a los oídos del pueblo; entonces todo el pueblo alzó la voz y lloró.
+@4 Y llegando los mensajeros á Gabaa de Saúl, dijeron estas palabras en oídos del pueblo; y todo el pueblo lloró á voz en grito.
 
-^5^ He aquí que Saúl venía siguiendo a los bueyes del campo, y dijo: “¿Qué le pasa al pueblo que llora?” Ellos le contaron las palabras de los hombres de Jabes. ^6^ El Espíritu de Dios se apoderó de Saúl al oír esas palabras, y su ira se encendió. ^a^ ^7^ Tomó una yunta de bueyes y los cortó en pedazos, y los envió por todos los límites de Israel por medio de mensajeros, diciendo: “El que no salga en pos de Saúl y en pos de Samuel, así se hará con sus bueyes.” El temor de Yavé cayó sobre el pueblo, y salieron como un solo hombre. ^b^ ^8^ Los contó en Bezec, y los hijos de Israel eran trescientos mil, y los hombres de Judá treinta mil. ^9^ Dijeron a los mensajeros que vinieron: “Digan a los hombres de Jabes de Galaad: ‘Mañana, cuando el sol esté caliente, serán rescatados’”. Los mensajeros vinieron y se lo dijeron a los hombres de Jabes; y se alegraron. ^10^ Por lo tanto, los hombres de Jabes dijeron: “Mañana saldremos hacia ti, y harás con nosotros todo lo que te parezca bien.” ^11^ Al día siguiente, Saúl puso a la gente en tres compañías, y llegaron al centro del campamento en la guardia de la mañana, y golpearon a los amonitas hasta el calor del día. Los que quedaron se dispersaron, de modo que no quedaron dos juntos.
-^a^[**11:6** Jue 14,6] ^b^[**11:7** Jue 19,29]
+@5 Y he aquí Saúl que venía del campo, tras los bueyes; y dijo Saúl: ¿Qué tiene el pueblo, que lloran? Y contáronle las palabras de los hombres de Jabes. 
+@6 Y el espíritu de Dios arrebató á Saúl en oyendo estas palabras, y encendióse en ira en gran manera. 
+@7 Y tomando un par de bueyes, cortólos en piezas, y enviólas por todos los términos de Israel por mano de mensajeros, diciendo: Cualquiera que no saliere en pos de Saúl y en pos de Samuel, así será hecho á sus bueyes. Y cayó temor de Jehová sobre el pueblo, y salieron como un solo hombre. 
+@8 Y contólos en Bezec; y fueron los hijos de Israel trescientos mil, y treinta mil los hombres de Judá. 
+@9 Y respondieron á los mensajeros que habían venido: Así diréis á los de Jabes de Galaad: Mañana en calentando el sol, tendréis salvamento. Y vinieron los mensajeros, y declaráronlo á los de Jabes, los cuales se holgaron. 
+@10 Y los de Jabes dijeron: Mañana saldremos á vosotros, para que hagáis con nosotros todo lo que bien os pareciere. 
+@11 Y el día siguiente dispuso Saúl el pueblo en tres escuadrones, y entraron en medio del real á la vela de la mañana, é hirieron á los Ammonitas hasta que el día calentaba: y los que quedaron fueron dispersos, tal que no quedaron dos de ellos juntos.
 
 ## La generosidad de Saúl hacia sus despreciadores; Celebración de la alegría en Gilgal
-^12^ El pueblo dijo a Samuel: “¿Quién es el que ha dicho: “Saúl reinará sobre nosotros”? Traigan a esos hombres, para que los matemos”. ^a^
-^a^[**11:12** 1Sam 10,27]
+@12 El pueblo entonces dijo á Samuel: ¿Quiénes son lo que decían: Reinará Saúl sobre nosotros? Dadnos esos hombres, y los mataremos.
 
-^13^ Saúl dijo: “Ningún hombre será ejecutado hoy, porque hoy Yahvé ha rescatado a Israel”. ^a^
-^a^[**11:13** 1Sam 14,45]
+@13 Y Saúl dijo: No morirá hoy ninguno, porque hoy ha obrado Jehová salud en Israel.
 
-^14^ Entonces Samuel dijo al pueblo: “¡Vengan! Vayamos a Gilgal y renovemos allí el reino”. ^a^ ^15^ Todo el pueblo fue a Gilgal, y allí hicieron a Saúl rey ante Yavé en Gilgal. Allí ofrecieron sacrificios de ofrendas de paz ante Yahvé; y allí se alegraron mucho Saúl y todos los hombres de Israel.
-^a^[**11:14** 1Sam 10,8]
+@14 Mas Samuel dijo al pueblo: Venid, vamos á Gilgal para que renovemos allí el reino. 
+@15 Y fué todo el pueblo á Gilgal, é invistieron allí á Saúl por rey delante de Jehová en Gilgal. Y sacrificaron allí víctimas pacíficas delante de Jehová; y alegráronse mucho allí Saúl y todos los de Israel. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 11
-^1^ Then Nahash the Ammonite came up and encamped against Jabesh Gilead; and all the men of Jabesh said to Nahash, “Make a covenant with us, and we will serve you.” 
+## The city of Jabez, which is in trouble because of the Ammonites Nahas, asks for the help of the Israelites
+@1 Then Nahash the Ammonite came up and encamped against Jabesh Gilead; and all the men of Jabesh said to Nahash, “Make a covenant with us, and we will serve you.” 
 
-^2^ Nahash the Ammonite said to them, “On this condition I will make it with you, that all your right eyes be gouged out. I will make this dishonor all Israel.” 
+@2 Nahash the Ammonite said to them, “On this condition I will make it with you, that all your right eyes be gouged out. I will make this dishonor all Israel.” 
 
-^3^ The elders of Jabesh said to him, “Give us seven days, that we may send messengers to all the borders of Israel; and then, if there is no one to save us, we will come out to you.” ^4^ Then the messengers came to Gibeah of Saul, and spoke these words in the ears of the people, then all the people lifted up their voice and wept. 
+@3 The elders of Jabesh said to him, “Give us seven days, that we may send messengers to all the borders of Israel; and then, if there is no one to save us, we will come out to you.”
 
-^5^ Behold, Saul came following the oxen out of the field; and Saul said, “What ails the people that they weep?” They told him the words of the men of Jabesh. ^6^ God’s Spirit came mightily on Saul when he heard those words, and his anger burned hot. ^7^ He took a yoke of oxen and cut them in pieces, then sent them throughout all the borders of Israel by the hand of messengers, saying, “Whoever doesn’t come out after Saul and after Samuel, so shall it be done to his oxen.” The dread of Yahweh fell on the people, and they came out as one man. ^8^ He counted them in Bezek; and the children of Israel were three hundred thousand, and the men of Judah thirty thousand. ^9^ They said to the messengers who came, “Tell the men of Jabesh Gilead, ‘Tomorrow, by the time the sun is hot, you will be rescued.’” The messengers came and told the men of Jabesh; and they were glad. ^10^ Therefore the men of Jabesh said, “Tomorrow we will come out to you, and you shall do with us all that seems good to you.” ^11^ On the next day, Saul put the people in three companies; and they came into the middle of the camp in the morning watch, and struck the Ammonites until the heat of the day. Those who remained were scattered, so that no two of them were left together. 
+## Saul's determined conduct and his splendid victory
+@4 Then the messengers came to Gibeah of Saul, and spoke these words in the ears of the people, then all the people lifted up their voice and wept. 
 
-^12^ The people said to Samuel, “Who is he who said, ‘Shall Saul reign over us?’ Bring those men, that we may put them to death!” 
+@5 Behold, Saul came following the oxen out of the field; and Saul said, “What ails the people that they weep?” They told him the words of the men of Jabesh. 
+@6 God’s Spirit came mightily on Saul when he heard those words, and his anger burned hot. 
+@7 He took a yoke of oxen and cut them in pieces, then sent them throughout all the borders of Israel by the hand of messengers, saying, “Whoever doesn’t come out after Saul and after Samuel, so shall it be done to his oxen.” The dread of Yahweh fell on the people, and they came out as one man. 
+@8 He counted them in Bezek; and the children of Israel were three hundred thousand, and the men of Judah thirty thousand. 
+@9 They said to the messengers who came, “Tell the men of Jabesh Gilead, ‘Tomorrow, by the time the sun is hot, you will be rescued.’” The messengers came and told the men of Jabesh; and they were glad. 
+@10 Therefore the men of Jabesh said, “Tomorrow we will come out to you, and you shall do with us all that seems good to you.” 
+@11 On the next day, Saul put the people in three companies; and they came into the middle of the camp in the morning watch, and struck the Ammonites until the heat of the day. Those who remained were scattered, so that no two of them were left together.
 
-^13^ Saul said, “No man shall be put to death today; for today Yahweh has rescued Israel.” 
+## Saul's generosity towards his despisers; Celebration of joy in Gilgal
+@12 The people said to Samuel, “Who is he who said, ‘Shall Saul reign over us?’ Bring those men, that we may put them to death!” 
 
-^14^ Then Samuel said to the people, “Come! Let’s go to Gilgal, and renew the kingdom there.” ^15^ All the people went to Gilgal; and there they made Saul king before Yahweh in Gilgal. There they offered sacrifices of peace offerings before Yahweh; and there Saul and all the men of Israel rejoiced greatly. 
+@13 Saul said, “No man shall be put to death today; for today Yahweh has rescued Israel.” 
+
+@14 Then Samuel said to the people, “Come! Let’s go to Gilgal, and renew the kingdom there.” 
+@15 All the people went to Gilgal; and there they made Saul king before Yahweh in Gilgal. There they offered sacrifices of peace offerings before Yahweh; and there Saul and all the men of Israel rejoiced greatly. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 12
 ## La renuncia voluntaria de Samuel y la solemne despedida del pueblo
-^1^ Samuel dijo a todo Israel: “He aquí que he escuchado vuestra voz en todo lo que me habéis dicho, y he puesto un rey sobre vosotros. ^a^ ^2^ Ahora, he aquí que el rey camina delante de ustedes. Yo soy viejo y canoso. He aquí que mis hijos están contigo. He caminado delante de ti desde mi juventud hasta hoy. ^3^ Aquí estoy. Atestigüen contra mí ante el Señor y ante su ungido. ¿De quién es el buey que he tomado? ¿De quién he tomado el asno? ¿A quién he defraudado? ¿A quién he oprimido? ¿De quién he tomado un soborno para que me ciegue los ojos? Te lo devolveré”. ^b^
-^a^[**12:1** 1Sam 8,7; 1Sam 8,22; 1Sam 11,15] ^b^[**12:3** Núm 16,15]
+@1 Y dijo Samuel á todo Israel: He aquí, yo he oído vuestra voz en todas las cosas que me habéis dicho, y os he puesto rey. 
+@2 Ahora pues, he aquí vuestro rey va delante de vosotros. Yo soy ya viejo y cano: mas mis hijos están con vosotros, y yo he andado delante de vosotros desde mi mocedad hasta este día. 
+@3 Aquí estoy; atestiguad contra mí delante de Jehová y delante de su ungido, si he tomado el buey de alguno, ó si he tomado el asno de alguno, ó si he calumniado á alguien, ó si he agraviado á alguno, ó si de alguien he tomado cohecho por el cual haya cubierto mis ojos: y os satisfaré.
 
-^4^ Dijeron: “No nos has defraudado, ni nos has oprimido, ni has tomado nada de la mano de nadie”.
+@4 Entonces dijeron: Nunca nos has calumniado, ni agraviado, ni has tomado algo de mano de ningún hombre.
 
-^5^ Les dijo: “Yahvé es testigo contra vosotros, y su ungido es testigo hoy, de que no habéis encontrado nada en mi mano.” Dijeron: “Él es testigo”.
+@5 Y él les dijo: Jehová es testigo contra vosotros, y su ungido también es testigo en este día, que no habéis hallado en mi mano cosa ninguna. Y ellos respondieron: Así es.
 
 ## Samuel le recuerda al pueblo los muchos beneficios de Dios
-^6^ Samuel dijo al pueblo: “Es Yahvé quien designó a Moisés y a Aarón, y quien sacó a vuestros padres de la tierra de Egipto. ^7^ Ahora, pues, quédense quietos, para que yo pueda alegar ante Yavé todos los actos justos de Yavé, que hizo con ustedes y con sus padres.
+@6 Entonces Samuel dijo al pueblo: Jehová es quien hizo á Moisés y á Aarón, y que sacó á vuestros padres de la tierra de Egipto. 
+@7 Ahora pues, aguardad, y yo os haré cargo delante de Jehová de todas las justicias de Jehová, que ha hecho con vosotros y con vuestros padres.
 
-^8^ “Cuando Jacob entró en Egipto, y vuestros padres clamaron a Yavé, entonces Yavé envió a Moisés y a Aarón, quienes sacaron a vuestros padres de Egipto y los hicieron habitar en este lugar. ^a^ ^9^ Pero ellos se olvidaron de Yavé, su Dios, y él los vendió en manos de Sísara, capitán del ejército de Hazor, y en manos de los filisteos, y en manos del rey de Moab; y pelearon contra ellos. ^b^ ^10^ Ellos clamaron a Yavé y dijeron: “Hemos pecado, porque hemos abandonado a Yavé y hemos servido a los baales y a Astarot; pero líbranos ahora de la mano de nuestros enemigos, y te serviremos”. ^11^ Yahvé envió a Jerobaal, a Bedán, a Jefté y a Samuel, y os libró de la mano de vuestros enemigos de todas partes, y vivisteis seguros. ^c^
-^a^[**12:8** Éxod 3,7] ^b^[**12:9** Jue 4,2; Jue 10,7; Jue 13,1; Jue 3,12] ^c^[**12:11** Jue 6,14; Jue 11,29; 1Sam 7,3]
+@8 Después que Jacob hubo entrado en Egipto y vuestros padres clamaron á Jehová, Jehová envió á Moisés y á Aarón, los cuales sacaron á vuestros padres de Egipto, y los hicieron habitar en este lugar. 
+@9 Y olvidaron á Jehová su Dios, y él los vendió en la mano de Sísara capitán del ejército de Asor, y en la mano de los Filisteos, y en la mano del rey de Moab, los cuales les hicieron guerra. 
+@10 Y ellos clamaron á Jehová, y dijeron: Pecamos, que hemos dejado á Jehová, y hemos servido á los Baales y á Astaroth: líbranos pues ahora de la mano de nuestros enemigos, y te serviremos. 
+@11 Entonces Jehová envió á Jerobaal, y á Bedán, y á Jephté, y á Samuel, y os libró de mano de vuestros enemigos alrededor, y habitasteis seguros.
 
 ## Samuel demuestra al pueblo a través de una maravillosa señal divina que han pecado al elegir un rey
-^12^ “Cuando viste que Nahas, el rey de los hijos de Amón, venía contra ti, me dijiste: ‘No, sino que un rey reinará sobre nosotros’, cuando Yahvé, tu Dios, era tu rey. ^a^ ^13^ Ahora, pues, vean al rey que han elegido y al que han pedido. He aquí que el Señor ha puesto un rey sobre ustedes. ^14^ Si temes a Yavé, le sirves y escuchas su voz, y no te rebelas contra el mandamiento de Yavé, tanto tú como el rey que reina sobre ti son seguidores de Yavé tu Dios. ^15^ Pero si no escuchan la voz de Yahvé y se rebelan contra el mandamiento de Yahvé, la mano de Yahvé estará contra ustedes, como lo estuvo contra sus padres.
-^a^[**12:12** 1Sam 8,19]
+@12 Y habiendo visto que Naas rey de lo hijos de Ammón venía contra vosotros, me dijisteis: No, sino rey reinará sobre nosotros; siendo vuestro rey Jehová vuestro Dios. 
+@13 Ahora pues, ved aquí vuestro rey que habéis elegido, el cual pedisteis; ya veis que Jehová ha puesto sobre vosotros rey. 
+@14 Si temiereis á Jehová y le sirviereis, y oyereis su voz, y no fuereis rebeldes á la palabra de Jehová, así vosotros como el rey que reina sobre vosotros, seréis en pos de Jehová vuestro Dios. 
+@15 Mas si no oyereis la voz de Jehová, y si fuereis rebeldes á las palabras de Jehová, la mano de Jehová será contra vosotros como contra vuestros padres.
 
-^16^ “Ahora, pues, quédense quietos y vean esta gran cosa que el Señor va a hacer ante sus ojos. ^17^ ¿No es hoy la cosecha de trigo? Invocaré a Yavé, para que envíe truenos y lluvia; y ustedes sabrán y verán que es grande la maldad que han hecho ante los ojos de Yavé, al pedir un rey.”
+@16 Esperad aún ahora, y mirad esta gran cosa que Jehová hará delante de vuestros ojos. 
+@17 ¿No es ahora la siega de los trigos? Yo clamaré á Jehová, y él dará truenos y aguas; para que conozcáis y veáis que es grande vuestra maldad que habéis hecho en los ojos de Jehová, pidiéndoos rey.
 
-^18^ Entonces Samuel invocó a Yahvé, y Yahvé envió truenos y lluvia aquel día. Entonces todo el pueblo temió mucho a Yavé y a Samuel.
+@18 Y Samuel clamó á Jehová; y Jehová dió truenos y aguas en aquel día; y todo el pueblo temió en gran manera á Jehová y á Samuel.
 
 ## Samuel anima al pueblo, les exhorta a temer a Dios y les manda recibir bendiciones divinas
-^19^ Todo el pueblo dijo a Samuel: “Ruega por tus siervos a Yahvé, tu Dios, para que no muramos, pues hemos añadido a todos nuestros pecados esta maldad de pedir un rey.”
+@19 Entonces dijo todo el pueblo á Samuel: Ruega por tus siervos á Jehová tu Dios, que no muramos: porque á todos nuestros pecados hemos añadido este mal de pedir rey para nosotros.
 
-^20^ Samuel dijo al pueblo: “No tengan miedo. Ciertamente han hecho todo este mal; pero no se aparten de seguir a Yavé, sino que sirvan a Yavé con todo su corazón. ^21^ No se aparten para ir en pos de cosas vanas que no pueden aprovechar ni liberar, porque son vanas. ^a^ ^22^ Porque Yahvé no abandonará a su pueblo por causa de su gran nombre, porque a Yahvé le ha gustado hacer de ustedes un pueblo para sí mismo. ^b^ ^23^ Además, en cuanto a mí, lejos de pecar contra Yahvé al dejar de orar por ustedes, los instruiré en el camino bueno y correcto. ^c^ ^24^ Sólo temed a Yahvé y servidle de verdad con todo vuestro corazón, pues considerad las grandes cosas que ha hecho por vosotros. ^d^ ^25^ Pero si sigues haciendo el mal, serás consumido, tanto tú como tu rey”.
-^a^[**12:21** Deut 32,37-38] ^b^[**12:22** Éxod 19,6] ^c^[**12:23** 1Sam 7,8] ^d^[**12:24** 2Re 17,39]
+@20 Y Samuel respondió al pueblo: No temáis: vosotros habéis cometido todo este mal; mas con todo eso no os apartéis de en pos de Jehová, sino servid á Jehová con todo vuestro corazón: 
+@21 No os apartéis en pos de las vanidades, que no aprovechan ni libran, porque son vanidades. 
+@22 Pues Jehová no desamparará á su pueblo por su grande nombre; porque Jehová ha querido haceros pueblo suyo. 
+@23 Así que, lejos sea de mí que peque yo contra Jehová cesando de rogar por vosotros; antes yo os enseñaré por el camino bueno y derecho. 
+@24 Solamente temed á Jehová, y servidle de verdad con todo vuestro corazón, porque considerad cuán grandes cosas ha hecho con vosotros. 
+@25 Mas si perseverareis en hacer mal, vosotros y vuestro rey pereceréis. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 12
-^1^ Samuel said to all Israel, “Behold, I have listened to your voice in all that you said to me, and have made a king over you. ^2^ Now, behold, the king walks before you. I am old and gray-headed. Behold, my sons are with you. I have walked before you from my youth to this day. ^3^ Here I am. Witness against me before Yahweh and before his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I oppressed? Of whose hand have I taken a bribe to make me blind my eyes? I will restore it to you.” 
+## The voluntary resignation of Samuel and the solemn farewell of the people
+@1 Samuel said to all Israel, “Behold, I have listened to your voice in all that you said to me, and have made a king over you. 
+@2 Now, behold, the king walks before you. I am old and gray-headed. Behold, my sons are with you. I have walked before you from my youth to this day. 
+@3 Here I am. Witness against me before Yahweh and before his anointed. Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I oppressed? Of whose hand have I taken a bribe to make me blind my eyes? I will restore it to you.” 
 
-^4^ They said, “You have not defrauded us, nor oppressed us, neither have you taken anything from anyone’s hand.” 
+@4 They said, “You have not defrauded us, nor oppressed us, neither have you taken anything from anyone’s hand.” 
 
-^5^ He said to them, “Yahweh is witness against you, and his anointed is witness today, that you have not found anything in my hand.” 
+@5 He said to them, “Yahweh is witness against you, and his anointed is witness today, that you have not found anything in my hand.” 
 
-They said, “He is witness.” ^6^ Samuel said to the people, “It is Yahweh who appointed Moses and Aaron, and that brought your fathers up out of the land of Egypt. ^7^ Now therefore stand still, that I may plead with you before Yahweh concerning all the righteous acts of Yahweh, which he did to you and to your fathers. 
+They said, “He is witness.”
 
-^8^ “When Jacob had come into Egypt, and your fathers cried to Yahweh, then Yahweh sent Moses and Aaron, who brought your fathers out of Egypt, and made them to dwell in this place. ^9^ But they forgot Yahweh their God; and he sold them into the hand of Sisera, captain of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab; and they fought against them. ^10^ They cried to Yahweh, and said, ‘We have sinned, because we have forsaken Yahweh and have served the Baals and the Ashtaroth; but now deliver us out of the hand of our enemies, and we will serve you.’ ^11^ Yahweh sent Jerubbaal, Bedan, Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side; and you lived in safety. 
+## Samuel reminds the people of God's many benefits
+@6 Samuel said to the people, “It is Yahweh who appointed Moses and Aaron, and that brought your fathers up out of the land of Egypt. 
+@7 Now therefore stand still, that I may plead with you before Yahweh concerning all the righteous acts of Yahweh, which he did to you and to your fathers. 
 
-^12^ “When you saw that Nahash the king of the children of Ammon came against you, you said to me, ‘No, but a king shall reign over us,’ when Yahweh your God was your king. ^13^ Now therefore see the king whom you have chosen and whom you have asked for. Behold, Yahweh has set a king over you. ^14^ If you will fear Yahweh, and serve him, and listen to his voice, and not rebel against the commandment of Yahweh, then both you and also the king who reigns over you are followers of Yahweh your God. ^15^ But if you will not listen to Yahweh’s voice, but rebel against the commandment of Yahweh, then Yahweh’s hand will be against you, as it was against your fathers. 
+@8 “When Jacob had come into Egypt, and your fathers cried to Yahweh, then Yahweh sent Moses and Aaron, who brought your fathers out of Egypt, and made them to dwell in this place. 
+@9 But they forgot Yahweh their God; and he sold them into the hand of Sisera, captain of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab; and they fought against them. 
+@10 They cried to Yahweh, and said, ‘We have sinned, because we have forsaken Yahweh and have served the Baals and the Ashtaroth; but now deliver us out of the hand of our enemies, and we will serve you.’ 
+@11 Yahweh sent Jerubbaal, Bedan, Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side; and you lived in safety.
 
-^16^ “Now therefore stand still and see this great thing, which Yahweh will do before your eyes. ^17^ Isn’t it wheat harvest today? I will call to Yahweh, that he may send thunder and rain; and you will know and see that your wickedness is great, which you have done in Yahweh’s sight, in asking for a king.” 
+## Samuel shows the people through a wonderful divine sign that they have sinned by choosing a king
+@12 “When you saw that Nahash the king of the children of Ammon came against you, you said to me, ‘No, but a king shall reign over us,’ when Yahweh your God was your king. 
+@13 Now therefore see the king whom you have chosen and whom you have asked for. Behold, Yahweh has set a king over you. 
+@14 If you will fear Yahweh, and serve him, and listen to his voice, and not rebel against the commandment of Yahweh, then both you and also the king who reigns over you are followers of Yahweh your God. 
+@15 But if you will not listen to Yahweh’s voice, but rebel against the commandment of Yahweh, then Yahweh’s hand will be against you, as it was against your fathers. 
 
-^18^ So Samuel called to Yahweh, and Yahweh sent thunder and rain that day. Then all the people greatly feared Yahweh and Samuel. 
+@16 “Now therefore stand still and see this great thing, which Yahweh will do before your eyes. 
+@17 Isn’t it wheat harvest today? I will call to Yahweh, that he may send thunder and rain; and you will know and see that your wickedness is great, which you have done in Yahweh’s sight, in asking for a king.” 
 
-^19^ All the people said to Samuel, “Pray for your servants to Yahweh your God, that we not die; for we have added to all our sins this evil, to ask for a king.” 
+@18 So Samuel called to Yahweh, and Yahweh sent thunder and rain that day. Then all the people greatly feared Yahweh and Samuel.
 
-^20^ Samuel said to the people, “Don’t be afraid. You have indeed done all this evil; yet don’t turn away from following Yahweh, but serve Yahweh with all your heart. ^21^ Don’t turn away to go after vain things which can’t profit or deliver, for they are vain. ^22^ For Yahweh will not forsake his people for his great name’s sake, because it has pleased Yahweh to make you a people for himself. ^23^ Moreover, as for me, far be it from me that I should sin against Yahweh in ceasing to pray for you; but I will instruct you in the good and the right way. ^24^ Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you. ^25^ But if you keep doing evil, you will be consumed, both you and your king.” 
+## Samuel encourages the people, exhorts them to fear God and commands them to receive divine blessings
+@19 All the people said to Samuel, “Pray for your servants to Yahweh your God, that we not die; for we have added to all our sins this evil, to ask for a king.” 
+
+@20 Samuel said to the people, “Don’t be afraid. You have indeed done all this evil; yet don’t turn away from following Yahweh, but serve Yahweh with all your heart. 
+@21 Don’t turn away to go after vain things which can’t profit or deliver, for they are vain. 
+@22 For Yahweh will not forsake his people for his great name’s sake, because it has pleased Yahweh to make you a people for himself. 
+@23 Moreover, as for me, far be it from me that I should sin against Yahweh in ceasing to pray for you; but I will instruct you in the good and the right way. 
+@24 Only fear Yahweh, and serve him in truth with all your heart; for consider what great things he has done for you. 
+@25 But if you keep doing evil, you will be consumed, both you and your king.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 13
 ## Estallido de la guerra filistea; La primera desobediencia de Saúl mediante un sacrificio apresurado
-^1^ Saúl tenía treinta años cuando llegó a ser rey, y reinó sobre Israel cuarenta y dos años.
+@1 Había ya Saúl reinado un año; y reinado que hubo dos años sobre Israel,
 
-^2^ Saúl escogió para sí tres mil hombres de Israel, de los cuales dos mil estaban con Saúl en Micmas y en el monte de Betel, y mil estaban con Jonatán en Guibeá de Benjamín. Envió al resto del pueblo a sus propias tiendas. ^3^ Jonatán atacó la guarnición de los filisteos que estaba en Geba, y los filisteos se enteraron. Saúl hizo sonar la trompeta por todo el país, diciendo: “¡Que se enteren los hebreos!”. ^a^ ^4^ Todo Israel se enteró de que Saúl había golpeado a la guarnición de los filisteos, y también de que Israel era considerado una abominación para los filisteos. El pueblo se reunió tras Saúl en Gilgal. ^5^ Los filisteos se reunieron para luchar contra Israel: treinta mil carros, seis mil jinetes y gente como la arena que está a la orilla del mar en multitud. Subieron y acamparon en Micmas, al este de Bet Aven. ^6^ Cuando los hombres de Israel vieron que estaban en apuros (pues el pueblo estaba angustiado), el pueblo se escondió en cuevas, en matorrales, en rocas, en tumbas y en fosas. ^7^ Algunos de los hebreos habían pasado el Jordán a la tierra de Gad y de Galaad; pero Saúl estaba todavía en Gilgal, y todo el pueblo lo seguía temblando.
-^a^[**13:3** 1Sam 14,49]
+@2 Escogióse luego tres mil de Israel: los dos mil estuvieron con Saúl en Michmas y en el monte de Beth-el, y los mil estuvieron con Jonathán en Gabaa de Benjamín; y envió á todo el otro pueblo cada uno á sus tiendas. 
+@3 Y Jonathán hirió la guarnición de los Filisteos que había en el collado, y oyéronlo los Filisteos. E hizo Saúl tocar trompetas por toda la tierra, diciendo: Oigan los Hebreos. 
+@4 Y todo Israel oyó que se decía: Saúl ha herido la guarnición de los Filisteos; y también que Israel olía mal á los Filisteos. Y juntóse el pueblo en pos de Saúl en Gilgal. 
+@5 Entonces los Filisteos se juntaron para pelear con Israel, treinta mil carros, y seis mil caballos, y pueblo como la arena que está á la orilla de la mar en multitud; y subieron, y asentaron campo en Michmas, al oriente de Beth-aven. 
+@6 Mas los hombres de Israel, viéndose puestos en estrecho, (porque el pueblo estaba en aprieto), escondióse el pueblo en cuevas, en fosos, en peñascos, en rocas y en cisternas. 
+@7 Y algunos de los Hebreos pasaron el Jordán á la tierra de Gad y de Galaad: y Saúl se estaba aún en Gilgal, y todo el pueblo iba tras él temblando.
 
 ## El sacrificio apresurado y arbitrario de Saúl en Gilgal; Rompe entre Samuel y el rey; El rechazo de Saúl
-^8^ Se quedó siete días, según el tiempo fijado por Samuel; pero éste no llegó a Gilgal, y el pueblo se dispersó de él. ^a^ ^9^ Saúl le dijo: “Tráeme aquí el holocausto y las ofrendas de paz”. Ofreció el holocausto.
-^a^[**13:8** 1Sam 10,8]
+@8 Y él esperó siete días, conforme al plazo que Samuel había dicho; pero Samuel no venía á Gilgal, y el pueblo se le desertaba. 
+@9 Entonces dijo Saúl: Traedme holocausto y sacrificios pacíficos. Y ofreció el holocausto.
 
-^10^ Sucedió que en cuanto terminó de ofrecer el holocausto, he aquí que llegó Samuel; y Saúl salió a recibirlo para saludarlo. ^11^ Samuel le dijo: “¿Qué has hecho?” Saúl dijo: “Como vi que el pueblo se dispersaba de mí, y que tú no venías en los días señalados, y que los filisteos se reunían en Micmas, ^12^ dije: “Ahora los filisteos bajarán sobre mí a Gilgal, y yo no he suplicado el favor de Yahvé. Me obligué, pues, a ofrecer el holocausto”.
+@10 Y como él acababa de hacer el holocausto, he aquí Samuel que venía; y Saúl le salió á recibir para saludarle. 
+@11 Entonces Samuel dijo: ¿Qué has hecho? Y Saúl respondió: Porque vi que el pueblo se me iba, y que tú no venías al plazo de los días, y que los Filisteos estaban juntos en Michmas,
 
-^13^ Samuel le dijo a Saúl: “Has hecho una tontería. No has cumplido el mandamiento del Señor, tu Dios, que él te ordenó; porque ahora el Señor habría establecido tu reino en Israel para siempre. ^14^ Pero ahora tu reino no continuará. Yahvé se ha buscado un hombre según su propio corazón, y Yahvé lo ha designado como príncipe de su pueblo, porque tú no has guardado lo que Yahvé te mandó.” ^a^
-^a^[**13:14** Hech 13,22]
+@12 Me dije: Los Filisteos descenderán ahora contra mí á Gilgal, y yo no he implorado el favor de Jehová. Esforcéme pues, y ofrecí holocausto.
+
+@13 Entonces Samuel dijo á Saúl: Locamente has hecho; no guardaste el mandamiento de Jehová tu Dios, que él te había intimado; porque ahora Jehová hubiera confirmado tu reino sobre Israel para siempre. 
+@14 Mas ahora tu reino no será durable: Jehová se ha buscado varón según su corazón, al cual Jehová ha mandado que sea capitán sobre su pueblo, por cuanto tú no has guardado lo que Jehová te mandó.
 
 ## El pequeño ejército de Saúl; el pillaje de los filisteos; Indefensión de los israelitas
-^15^ Samuel se levantó y se dirigió de Gilgal a Gabaa de Benjamín. Saúl contó el pueblo que estaba presente con él, unos seiscientos hombres. ^16^ Saúl, su hijo Jonatán y el pueblo que estaba con ellos se quedaron en Gabaa de Benjamín, pero los filisteos acamparon en Micmas. ^17^ Los asaltantes salieron del campamento de los filisteos en tres compañías: una compañía se dirigió al camino que lleva a Ofra, a la tierra de Shual; ^18^ otra compañía se dirigió al camino de Bet Horón; y otra compañía se dirigió al camino de la frontera que da al valle de Zeboim, hacia el desierto. ^19^ No se encontró ningún herrero en toda la tierra de Israel, porque los filisteos dijeron: “No sea que los hebreos se hagan espadas o lanzas”; ^20^ pero todos los israelitas bajaron a los filisteos, cada uno para afilar su propia reja de arado, su azadón, su hacha y su hoz. ^21^ El precio era de un payim cada uno para afilar azadones, rejas de arado, horcas, hachas y picos. ^22^ Y sucedió que el día de la batalla no se encontró espada ni lanza en manos de ninguno de los que estaban con Saúl y Jonatán, sino que Saúl y su hijo las tenían.
+@15 Y levantándose Samuel, subió de Gilgal á Gabaa de Benjamín. Y Saúl contó la gente que se hallaba con él, como seiscientos hombres. 
+@16 Saúl pues y Jonathán su hijo, y el pueblo que con ellos se hallaba, quedáronse en Gabaa de Benjamín: mas los Filisteos habían puesto su campo en Michmas. 
+@17 Y salieron del campo de los Filisteos en correría tres escuadrones. El un escuadrón tiró por el camino de Ophra hacia la tierra de Sual. 
+@18 El otro escuadrón marchó hacia Beth-oron, y el tercer escuadrón marchó hacia la región que mira al valle de Seboim hacia el desierto. 
+@19 Y en toda la tierra de Israel no se hallaba herrero; porque los Filisteos habían dicho: Para que los Hebreos no hagan espada ó lanza. 
+@20 Y todos los de Israel descendían á los Filisteos cada cual á amolar su reja, su azadón, su hacha, ó su sacho, 
+@21 Y cuando se hacían bocas en las rejas, ó en los azadones, ó en las horquillas, ó en las hachas; hasta para una ahijada que se hubiera de componer. 
+@22 Así aconteció que el día de la batalla no se halló espada ni lanza en mano de alguno de todo el pueblo que estaba con Saúl y con Jonathán, excepto Saúl y Jonathán su hijo, que las tenían.
 
-^23^ La guarnición de los filisteos salió al paso de Micmas.
+@23 Y la guarnición de los Filisteos salió al paso de Michmas. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 13
-^1^ Saul was thirty years old when he became king, and he reigned over Israel forty-two years.^a^ 
+## Outbreak of the Philistine War; Saul's first disobedience through hasty sacrifice
+@1 Saul was thirty years old when he became king, and he reigned over Israel forty-two years.^a^ 
 ^a^[**13:1** The traditional Hebrew text omits “thirty” and “forty-”. The blanks are filled in here from a few manuscripts of the Septuagint.]
 
-^2^ Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the Mount of Bethel, and one thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people to their own tents. ^3^ Jonathan struck the garrison of the Philistines that was in Geba, and the Philistines heard of it. Saul blew the trumpet throughout all the land, saying, “Let the Hebrews hear!” ^4^ All Israel heard that Saul had struck the garrison of the Philistines, and also that Israel was considered an abomination to the Philistines. The people were gathered together after Saul to Gilgal. ^5^ The Philistines assembled themselves together to fight with Israel: thirty thousand chariots, six thousand horsemen, and people as the sand which is on the seashore in multitude. They came up and encamped in Michmash, eastward of Beth Aven. ^6^ When the men of Israel saw that they were in trouble (for the people were distressed), then the people hid themselves in caves, in thickets, in rocks, in tombs, and in pits. ^7^ Now some of the Hebrews had gone over the Jordan to the land of Gad and Gilead; but as for Saul, he was yet in Gilgal, and all the people followed him trembling. ^8^ He stayed seven days, according to the time set by Samuel; but Samuel didn’t come to Gilgal, and the people were scattering from him. ^9^ Saul said, “Bring the burnt offering to me here, and the peace offerings.” He offered the burnt offering. 
+@2 Saul chose for himself three thousand men of Israel, of which two thousand were with Saul in Michmash and in the Mount of Bethel, and one thousand were with Jonathan in Gibeah of Benjamin. He sent the rest of the people to their own tents. 
+@3 Jonathan struck the garrison of the Philistines that was in Geba, and the Philistines heard of it. Saul blew the trumpet throughout all the land, saying, “Let the Hebrews hear!” 
+@4 All Israel heard that Saul had struck the garrison of the Philistines, and also that Israel was considered an abomination to the Philistines. The people were gathered together after Saul to Gilgal. 
+@5 The Philistines assembled themselves together to fight with Israel: thirty thousand chariots, six thousand horsemen, and people as the sand which is on the seashore in multitude. They came up and encamped in Michmash, eastward of Beth Aven. 
+@6 When the men of Israel saw that they were in trouble (for the people were distressed), then the people hid themselves in caves, in thickets, in rocks, in tombs, and in pits. 
+@7 Now some of the Hebrews had gone over the Jordan to the land of Gad and Gilead; but as for Saul, he was yet in Gilgal, and all the people followed him trembling.
 
-^10^ It came to pass that as soon as he had finished offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might greet him. ^11^ Samuel said, “What have you done?” 
+## The hasty and arbitrary sacrifice of Saul at Gilgal; Break between Samuel and the king; Saul's Rejection
+@8 He stayed seven days, according to the time set by Samuel; but Samuel didn’t come to Gilgal, and the people were scattering from him. 
+@9 Saul said, “Bring the burnt offering to me here, and the peace offerings.” He offered the burnt offering. 
 
-Saul said, “Because I saw that the people were scattered from me, and that you didn’t come within the days appointed, and that the Philistines assembled themselves together at Michmash, ^12^ therefore I said, ‘Now the Philistines will come down on me to Gilgal, and I haven’t entreated the favor of Yahweh.’ I forced myself therefore, and offered the burnt offering.” 
+@10 It came to pass that as soon as he had finished offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might greet him. 
+@11 Samuel said, “What have you done?” 
 
-^13^ Samuel said to Saul, “You have done foolishly. You have not kept the commandment of Yahweh your God, which he commanded you; for now Yahweh would have established your kingdom on Israel forever. ^14^ But now your kingdom will not continue. Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over his people, because you have not kept that which Yahweh commanded you.” 
+Saul said, “Because I saw that the people were scattered from me, and that you didn’t come within the days appointed, and that the Philistines assembled themselves together at Michmash, 
+@12 therefore I said, ‘Now the Philistines will come down on me to Gilgal, and I haven’t entreated the favor of Yahweh.’ I forced myself therefore, and offered the burnt offering.” 
 
-^15^ Samuel arose, and went from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men. ^16^ Saul, and Jonathan his son, and the people who were present with them, stayed in Geba of Benjamin; but the Philistines encamped in Michmash. ^17^ The raiders came out of the camp of the Philistines in three companies: one company turned to the way that leads to Ophrah, to the land of Shual; ^18^ another company turned the way to Beth Horon; and another company turned the way of the border that looks down on the valley of Zeboim toward the wilderness. ^19^ Now there was no blacksmith found throughout all the land of Israel, for the Philistines said, “Lest the Hebrews make themselves swords or spears”; ^20^ but all the Israelites went down to the Philistines, each man to sharpen his own plowshare, mattock, ax, and sickle. ^21^ The price was one payim^a^ each to sharpen mattocks, plowshares, pitchforks, axes, and goads. ^22^ So it came to pass in the day of battle that neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan; but Saul and Jonathan his son had them. 
+@13 Samuel said to Saul, “You have done foolishly. You have not kept the commandment of Yahweh your God, which he commanded you; for now Yahweh would have established your kingdom on Israel forever. 
+@14 But now your kingdom will not continue. Yahweh has sought for himself a man after his own heart, and Yahweh has appointed him to be prince over his people, because you have not kept that which Yahweh commanded you.”
+
+## Saul's Little Army; the plunder of the Philistines; Defenselessness of the Israelites
+@15 Samuel arose, and went from Gilgal to Gibeah of Benjamin. Saul counted the people who were present with him, about six hundred men. 
+@16 Saul, and Jonathan his son, and the people who were present with them, stayed in Geba of Benjamin; but the Philistines encamped in Michmash. 
+@17 The raiders came out of the camp of the Philistines in three companies: one company turned to the way that leads to Ophrah, to the land of Shual; 
+@18 another company turned the way to Beth Horon; and another company turned the way of the border that looks down on the valley of Zeboim toward the wilderness. 
+@19 Now there was no blacksmith found throughout all the land of Israel, for the Philistines said, “Lest the Hebrews make themselves swords or spears”; 
+@20 but all the Israelites went down to the Philistines, each man to sharpen his own plowshare, mattock, ax, and sickle. 
+@21 The price was one payim^a^ each to sharpen mattocks, plowshares, pitchforks, axes, and goads. 
+@22 So it came to pass in the day of battle that neither sword nor spear was found in the hand of any of the people who were with Saul and Jonathan; but Saul and Jonathan his son had them. 
 ^a^[**13:21** A payim (or pim) was 2/3 shekel of silver, or 0.26 ounces, or 7.6 grams]
 
-^23^ The garrison of the Philistines went out to the pass of Michmash. 
+@23 The garrison of the Philistines went out to the pass of Michmash. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 14
 ## El heroísmo de Jonathan; La victoria de Saúl sobre los filisteos
-^1^ Sucedió un día que Jonatán, hijo de Saúl, dijo al joven que llevaba su armadura: “¡Ven! Vamos a la guarnición de los filisteos que está al otro lado”. Pero no se lo dijo a su padre. ^2^ Saúl se quedó en el extremo de Guibeá, bajo el granado que está en Migrón; y la gente que estaba con él era como seiscientos hombres, ^3^ incluyendo a Ajías, hijo de Ajitub, hermano de Icabod, hijo de Finehas, hijo de Elí, sacerdote de Yavé en Silo, que llevaba un efod. El pueblo no sabía que Jonatán se había ido. ^a^
-^a^[**14:3** 1Sam 4,19; 1Sam 4,21]
+@1 Y un día aconteció, que Jonathán hijo de Saúl dijo á su criado que le traía las armas: Ven, y pasemos á la guarnición de los Filisteos, que está á aquel lado. Y no lo hizo saber á su padre. 
+@2 Y Saúl estaba en el término de Gabaa, debajo de un granado que hay en Migrón, y el pueblo que estaba con él era como seiscientos hombres. 
+@3 Y Achîas hijo de Achîtob, hermano de Ichâbod, hijo de Phinees, hijo de Eli, sacerdote de Jehová en Silo, llevaba el ephod; y no sabía el pueblo que Jonathán se hubiese ido.
 
-^4^ Entre los pasos por los que Jonatán pretendía pasar a la guarnición de los filisteos, había un peñasco a un lado y otro peñasco al otro lado; el nombre del uno era Bozez, y el del otro Seneh. ^5^ Un peñasco se levantaba al norte, frente a Micmas, y el otro al sur, frente a Geba. ^6^ Jonatán dijo al joven que llevaba su armadura: “¡Ven! Vamos a la guarnición de estos incircuncisos. Puede ser que Yavé actúe a nuestro favor, pues no hay freno para que Yavé salve por muchos o por pocos.” ^a^
-^a^[**14:6** Jue 7,7; 2Cró 14,11]
+@4 Y entre los pasos por donde Jonathán procuraba pasar á la guarnición de los Filisteos, había un peñasco agudo de la una parte, y otro de la otra parte; el uno se llamaba Boses y el otro Sene: 
+@5 El un peñasco situado al norte hacia Michmas, y el otro al mediodía hacia Gabaa. 
+@6 Dijo pues Jonathán á su criado que le traía las armas: Ven, pasemos á la guarnición de estos incircuncisos: quizá hará Jehová por nosotros; que no es difícil á Jehová salvar con multitud ó con poco número.
 
-^7^ El portador de su armadura le dijo: “Haz todo lo que está en tu corazón. Ve, y he aquí que yo estoy contigo según tu corazón”.
+@7 Y su paje de armas le respondió: Haz todo lo que tienes en tu corazón: ve, que aquí estoy contigo á tu voluntad.
 
-^8^ Entonces Jonatán dijo: “He aquí que pasaremos a los hombres y nos revelaremos a ellos. ^9^ Si nos dicen esto: ‘Esperen hasta que lleguemos a ustedes’, nos quedaremos quietos en nuestro lugar y no subiremos a ellos. ^10^ Pero si nos dicen esto: “¡Suban a nosotros!”, entonces subiremos, porque el Señor los ha entregado en nuestra mano. Esta será la señal para nosotros”.
+@8 Y Jonathán dijo: He aquí, nosotros pasaremos á los hombres, y nos mostraremos á ellos. 
+@9 Si nos dijeren así: Esperad hasta que lleguemos á vosotros; entonces nos estaremos en nuestro lugar, y no subiremos á ellos. 
+@10 Mas si nos dijeren así: Subid á nosotros: entonces subiremos, porque Jehová los ha entregado en nuestras manos: y esto nos será por señal.
 
-^11^ Ambos se revelaron ante la guarnición de los filisteos, y éstos dijeron: “¡Mira que los hebreos salen de los agujeros donde se habían escondido!” ^12^ Los hombres de la guarnición respondieron a Jonatán y a su portador de armadura y les dijeron: “¡Suban a nosotros y les mostraremos algo!” Jonatán dijo a su portador de armadura: “Sube detrás de mí, porque Yahvé los ha entregado en manos de Israel”. ^13^ Jonatán subió sobre sus manos y sus pies, y su escudero tras él, y ellos cayeron ante Jonatán; y su escudero los mató tras él. ^a^ ^14^ Aquella primera matanza que hicieron Jonatán y su portador de armadura fue de unos veinte hombres, dentro de la longitud de medio surco en un acre de tierra.
-^a^[**14:13** Lev 26,7-8]
+@11 Mostráronse pues ambos á la guarnición de los Filisteos, y los Filisteos dijeron: He aquí los Hebreos, que salen de las cavernas en que se habían escondido. 
+@12 Y los hombres de la guarnición respondieron á Jonathán y á su paje de armas, y dijeron: Subid á nosotros, y os haremos saber una cosa. Entonces Jonathán dijo á su paje de armas: Sube tras mí, que Jehová los ha entregado en la mano de Israel.
 
-^15^ Hubo un temblor en el campamento, en el campo y en todo el pueblo; la guarnición y los asaltantes también temblaron, y la tierra se estremeció, por lo que hubo un temblor sumamente grande.
+@13 Y subió Jonathán trepando con sus manos y sus pies, y tras él su paje de armas; y los que caían delante de Jonathán, su paje de armas que iba tras él, los mataba. 
+@14 Esta fué la primera rota, en la cual Jonathán con su paje de armas, mataron como unos veinte hombres en el espacio de una media yugada.
+
+@15 Y hubo temblor en el real y por el campo, y entre toda la gente de la guarnición; y los que habían ido á hacer correrías, también ellos temblaron, y alborotóse la tierra: hubo pues gran consternación.
 
 ## Saúl interviene y obtiene una brillante victoria
-^16^ Los centinelas de Saúl en Gabaa de Benjamín miraron, y he aquí que la multitud se desvaneció y se dispersó. ^17^ Entonces Saúl dijo al pueblo que estaba con él: “Contad ahora y ved quién falta de nosotros.” Cuando hubieron contado, he aquí que Jonatán y su portador de armadura no estaban allí.
+@16 Y las centinelas de Saúl vieron desde Gabaa de Benjamín cómo la multitud estaba turbada, é iba de una parte á otra, y era deshecha. 
+@17 Entonces Saúl dijo al pueblo que tenía consigo: Reconoced luego, y mirad quién haya ido de los nuestros. Y reconocido que hubieron, hallaron que faltaban Jonathán y su paje de armas.
 
-^18^ Saúl dijo a Ahías: “Trae aquí el arca de Dios”. Pues el arca de Dios estaba con los hijos de Israel en ese momento. ^a^ ^19^ Mientras Saúl hablaba con el sacerdote, el tumulto que había en el campamento de los filisteos continuaba y aumentaba, y Saúl le dijo al sacerdote: “¡Retírate!”
-^a^[**14:18** 1Sam 4,3]
+@18 Y Saúl dijo á Achîas: Trae el arca de Dios. Porque el arca de Dios estaba entonces con los hijos de Israel. 
+@19 Y aconteció que estando aún hablando Saúl con el sacerdote, el alboroto que había en el campo de los Filisteos se aumentaba, é iba creciendo en gran manera. Entonces dijo Saúl al sacerdote: Detén tu mano.
 
-^20^ Saúl y todo el pueblo que estaba con él se reunieron y vinieron a la batalla; y he aquí que todos se golpeaban con sus espadas en una gran confusión. ^a^ ^21^ Los hebreos que antes estaban con los filisteos y que subieron con ellos al campamento desde todos los alrededores, también se volvieron para estar con los israelitas que estaban con Saúl y Jonatán. ^22^ Asimismo, todos los hombres de Israel que se habían escondido en la región montañosa de Efraín, cuando oyeron que los filisteos habían huido, también los siguieron con ahínco en la batalla. ^23^ Así salvó Yahvé a Israel aquel día, y la batalla pasó junto a Bet-Aven.
-^a^[**14:20** Jue 7,22; 2Cró 20,23]
+@20 Y juntando Saúl todo el pueblo que con él estaba, vinieron hasta el lugar de la batalla: y he aquí que la espada de cada uno era vuelta contra su compañero, y la mortandad era grande. 
+@21 Y los Hebreos que habían estado con los Filisteos de tiempo antes, y habían venido con ellos de los alrededores al campo, también éstos se volvieron para ser con los Israelitas que estaban con Saúl y con Jonathán. 
+@22 Asimismo todos los Israelitas que se habían escondido en el monte de Ephraim, oyendo que los Filisteos huían, ellos también los persiguieron en aquella batalla. 
+@23 Así salvó Jehová á Israel aquel día. Y llegó el alcance hasta Beth-aven.
 
 ## El celo intempestivo de Saúl; Jonathan está amenazado de muerte; Las guerras de Saúl y su familia
-^24^ Aquel día los hombres de Israel estaban angustiados, pues Saúl había conjurado al pueblo diciendo: “Maldito el hombre que coma cualquier alimento hasta que anochezca, y me vengue de mis enemigos.” Así que nadie del pueblo probó alimento.
+@24 Pero los hombres de Israel fueron puestos en apuro aquel día; porque Saúl había conjurado al pueblo, diciendo: Cualquiera que comiere pan hasta la tarde, hasta que haya tomado venganza de mis enemigos, sea maldito. Y todo el pueblo no había gustado pan.
 
-^25^ Todo el pueblo entró en el bosque, y había miel en el suelo. ^26^ Cuando el pueblo llegó al bosque, he aquí que la miel goteaba, pero nadie se llevó la mano a la boca, porque el pueblo temía el juramento. ^27^ Pero Jonatán no escuchó cuando su padre ordenó al pueblo con el juramento. Por eso sacó la punta de la vara que tenía en la mano y la mojó en el panal, y se llevó la mano a la boca; y sus ojos se iluminaron. ^28^ Entonces respondió uno del pueblo y dijo: “Tu padre ordenó directamente al pueblo con un juramento, diciendo: “Maldito el hombre que hoy coma comida””. Entonces el pueblo se desmayó.
+@25 Y todo el pueblo del país llegó á un bosque donde había miel en la superficie del campo. 
+@26 Entró pues el pueblo en el bosque, y he aquí que la miel corría; mas ninguno hubo que llegase la mano á su boca: porque el pueblo temía el juramento. 
+@27 Empero Jonathán no había oído cuando su padre conjuró al pueblo, y alargó la punta de una vara que traía en su mano, y mojóla en un panal de miel, y llegó su mano á su boca; y sus ojos fueron aclarados. 
+@28 Entonces habló uno del pueblo, diciendo: Tu padre ha conjurado expresamente al pueblo, diciendo: Maldito sea el hombre que comiere hoy manjar. Y el pueblo desfallecía.
 
-^29^ Entonces Jonatán dijo: “Mi padre ha turbado la tierra. Por favor, mira cómo se han iluminado mis ojos porque he probado un poco de esta miel. ^30^ ¿Cuánto más, si acaso el pueblo hubiera comido hoy libremente del botín de sus enemigos que encontró? Porque ahora no ha habido gran matanza entre los filisteos”. ^31^ Aquel día atacaron a los filisteos desde Micmas hasta Ajalón. El pueblo estaba muy desmayado; ^32^ y el pueblo se abalanzó sobre el botín, y tomó ovejas, vacas y terneros, y los mató en el suelo; y el pueblo se los comió con la sangre. ^a^ ^33^ Entonces se lo comunicaron a Saúl, diciendo: “He aquí que el pueblo peca contra Yavé, pues come carne con la sangre.” Dijo: “Has hecho un trato traicionero. Hazme rodar hoy una gran piedra”. ^34^ Saúl dijo: “Dispérsense entre el pueblo y díganle: “Cada uno traiga aquí su buey y cada uno su oveja, y mátenlos aquí y coman, y no pequen contra Yavé comiendo carne con la sangre”.” Todo el pueblo trajo aquella noche cada uno su buey, y los mató allí.
-^a^[**14:32** Lev 3,17]
+@29 Y respondió Jonathán: Mi padre ha turbado el país. Ved ahora cómo han sido aclarados mis ojos, por haber gustado un poco de esta miel: 
+@30 ¿Cuánto más si el pueblo hubiera hoy comido del despojo de sus enemigos que halló? ¿no se habría hecho ahora mayor estrago en los Filisteos? 
+@31 E hirieron aquel día á los Filisteos desde Michmas hasta Ajalón: mas el pueblo se cansó mucho. 
+@32 Tornóse por tanto el pueblo al despojo, y tomaron ovejas y vacas y becerros, y matáronlos en tierra, y el pueblo comió con sangre. 
+@33 Y dándole de ello aviso á Saúl, dijéronle: El pueblo peca contra Jehová comiendo con sangre. Y él dijo: Vosotros habéis prevaricado; rodadme ahora acá una grande piedra.
 
-^35^ Saúl construyó un altar a Yahvé. Este fue el primer altar que construyó a Yahvé.
+@34 Y Saúl tornó á decir: Esparcíos por el pueblo, y decidles que me traigan cada uno su vaca, y cada cual su oveja, y degolladlos aquí, y comed; y no pecaréis contra Jehová comiendo con sangre. Y trajo todo el pueblo cada cual por su mano su vaca aquella noche, y degollaron allí.
+
+@35 Y edificó Saúl altar á Jehová, el cual altar fué el primero que edificó á Jehová.
 
 ## Jonatán, amenazado de muerte por el celo ciego de Saúl, es salvado por el ejército
-^36^ Saúl dijo: “Descendamos tras los filisteos de noche y saquemos provecho entre ellos hasta la luz de la mañana. No dejemos a ningún hombre de ellos”. Dijeron: “Haz lo que te parezca bien”. Entonces el sacerdote dijo: “Acerquémonos aquí a Dios”.
+@36 Y dijo Saúl: Descendamos de noche contra los Filisteos, y los saquearemos hasta la mañana, y no dejaremos de ellos ninguno. Y ellos dijeron: Haz lo que bien te pareciere. Dijo luego el sacerdote: Lleguémonos aquí á Dios.
 
-^37^ Saúl pidió consejo a Dios: “¿Debo bajar tras los filisteos? ¿Los entregarás en manos de Israel?” Pero aquel día no le respondió. ^a^ ^38^ Saúl dijo: “Acercaos aquí todos los jefes del pueblo, y sabed y ved en quién ha estado hoy este pecado. ^39^ Porque vive Yahvé, que salva a Israel, aunque sea en Jonatán, mi hijo, sin duda morirá.” Pero no hubo un solo hombre de todo el pueblo que le respondiera. ^40^ Entonces dijo a todo Israel: “Vosotros estáis de un lado, y yo y Jonatán mi hijo estaremos del otro”. El pueblo le dijo a Saúl: “Haz lo que te parezca bien”.
-^a^[**14:37** 1Sam 14,18; 1Sam 23,9]
+@37 Y Saúl consultó á Dios: ¿Descenderé tras los Filisteos? ¿los entregarás en mano de Israel? Mas Jehová no le dió respuesta aquel día. 
+@38 Entonces dijo Saúl: Llegaos acá todos los principales del pueblo; y sabed y mirad por quién ha sido hoy este pecado; 
+@39 Porque vive Jehová, que salva á Israel, que si fuere en mi hijo Jonathán, el morirá de cierto. Y no hubo en todo el pueblo quien le respondiese. 
+@40 Dijo luego á todo Israel: Vosotros estaréis á un lado, y yo y Jonathán mi hijo estaremos á otro lado. Y el pueblo respondió á Saúl: Haz lo que bien te pareciere.
 
-^41^ Por eso Saúl dijo a Yahvé, el Dios de Israel: “Muestra la derecha”. Jonatán y Saúl fueron elegidos, pero el pueblo escapó. ^a^
-^a^[**14:41** 1Sam 10,20]
+@41 Entonces dijo Saúl á Jehová Dios de Israel: Da perfección. Y fueron tomados Jonathán y Saúl, y el pueblo salió libre.
 
-^42^ Saúl dijo: “Echad suertes entre mi hijo y yo”. Jonathan fue seleccionado.
+@42 Y Saúl dijo: Echad suerte entre mí y Jonathán mi hijo. Y fué tomado Jonathán.
 
-^43^ Entonces Saúl dijo a Jonatán: “¡Dime qué has hecho!” Jonatán se lo contó y dijo: “Ciertamente probé un poco de miel con la punta de la vara que tenía en la mano, y he de morir”. ^a^
-^a^[**14:43** Jos 7,19]
+@43 Entonces Saúl dijo á Jonathán: Declárame qué has hecho. Y Jonathán se lo declaró, y dijo: Cierto que gusté con la punta de la vara que traía en mi mano, un poco de miel: ¿y he aquí he de morir?
 
-^44^ Saúl dijo: “Que Dios haga eso y más, porque seguramente morirás, Jonatán”.
+@44 Y Saúl respondió: Así me haga Dios y así me añada, que sin duda morirás, Jonathán.
 
-^45^ El pueblo dijo a Saúl: “¿Ha de morir Jonatán, que ha obrado esta gran salvación en Israel? ¡Lejos de eso! Vive Yahvé, que no se le caerá ni un pelo de la cabeza, ¡porque hoy ha trabajado con Dios!” Así que el pueblo rescató a Jonatán, para que no muriera. ^46^ Entonces Saúl subió de seguir a los filisteos, y los filisteos se fueron a su lugar.
+@45 Mas el pueblo dijo á Saúl: ¿Ha pues de morir Jonathán, el que ha hecho esta salud grande en Israel? No será así. Vive Jehová, que no ha de caer un cabello de su cabeza en tierra, pues que ha obrado hoy con Dios. Así libró el pueblo á Jonathán, para que no muriese. 
+@46 Y Saúl dejó de seguir á los Filisteos; y los Filisteos se fueron á su lugar.
 
 ## Los otros actos de guerra de Saúl y su familia
-^47^ Cuando Saúl tomó el reino de Israel, luchó contra todos sus enemigos de todas partes: contra Moab, contra los hijos de Amón, contra Edom, contra los reyes de Soba y contra los filisteos. A dondequiera que se dirigía, los derrotaba. ^48^ Hizo valentía e hirió a los amalecitas, y libró a Israel de las manos de los que lo saqueaban. ^49^ Los hijos de Saúl fueron Jonatán, Ishvi y Malquisúa, y los nombres de sus dos hijas fueron estos: el nombre de la primogénita, Merab, y el de la menor, Mical. ^a^ ^50^ El nombre de la esposa de Saúl era Ahinoam, hija de Ahimaas. El nombre del capitán de su ejército era Abner, hijo de Ner, tío de Saúl. ^b^ ^51^ Cis era el padre de Saúl, y Ner el padre de Abner era hijo de Abiel.
-^a^[**14:49** 1Cró 9,39] ^b^[**14:50** 1Sam 17,55]
+@47 Y ocupando Saúl el reino sobre Israel, hizo guerra á todos sus enemigos alrededor: contra Moab, contra los hijos de Ammón, contra Edom, contra los reyes de Soba, y contra los Filisteos: y á donde quiera que se tornaba era vencedor. 
+@48 Y reunió un ejército, é hirió á Amalec, y libró á Israel de mano de los que le robaban. 
+@49 Y los hijos de Saúl fueron Jonathán, Isui, y Melchi-sua. Y los nombres de sus dos hijas eran, el nombre de la mayor, Merab, y el de la menor, Michâl. 
+@50 Y el nombre de la mujer de Saúl era Ahinoam, hija de Aimaas. Y el nombre del general de su ejército era Abner, hijo de Ner tío de Saúl. 
+@51 Porque Cis padre de Saúl, y Ner padre de Abner, fueron hijos de Abiel.
 
-^52^ Hubo una severa guerra contra los filisteos durante todos los días de Saúl; y cuando éste veía a algún hombre poderoso o valiente, lo tomaba a su servicio.
+@52 Y la guerra fué fuerte contra los Filisteos todo el tiempo de Saúl; y á cualquiera que Saúl veía hombre valiente y hombre de esfuerzo, juntábale consigo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 14
-^1^ Now it happened on a day that Jonathan the son of Saul said to the young man who bore his armor, “Come! Let’s go over to the Philistines’ garrison that is on the other side.” But he didn’t tell his father. ^2^ Saul stayed in the uttermost part of Gibeah under the pomegranate tree which is in Migron; and the people who were with him were about six hundred men, ^3^ including Ahijah the son of Ahitub, Ichabod’s brother, the son of Phinehas, the son of Eli the priest of Yahweh in Shiloh, wearing an ephod. The people didn’t know that Jonathan was gone. 
+## Jonathan's heroism; Saul's victory over the Philistines
+@1 Now it happened on a day that Jonathan the son of Saul said to the young man who bore his armor, “Come! Let’s go over to the Philistines’ garrison that is on the other side.” But he didn’t tell his father. 
+@2 Saul stayed in the uttermost part of Gibeah under the pomegranate tree which is in Migron; and the people who were with him were about six hundred men, 
+@3 including Ahijah the son of Ahitub, Ichabod’s brother, the son of Phinehas, the son of Eli the priest of Yahweh in Shiloh, wearing an ephod. The people didn’t know that Jonathan was gone. 
 
-^4^ Between the passes, by which Jonathan sought to go over to the Philistines’ garrison, there was a rocky crag on the one side and a rocky crag on the other side; and the name of the one was Bozez, and the name of the other Seneh. ^5^ The one crag rose up on the north in front of Michmash, and the other on the south in front of Geba. ^6^ Jonathan said to the young man who bore his armor, “Come! Let’s go over to the garrison of these uncircumcised. It may be that Yahweh will work for us, for there is no restraint on Yahweh to save by many or by few.” 
+@4 Between the passes, by which Jonathan sought to go over to the Philistines’ garrison, there was a rocky crag on the one side and a rocky crag on the other side; and the name of the one was Bozez, and the name of the other Seneh. 
+@5 The one crag rose up on the north in front of Michmash, and the other on the south in front of Geba. 
+@6 Jonathan said to the young man who bore his armor, “Come! Let’s go over to the garrison of these uncircumcised. It may be that Yahweh will work for us, for there is no restraint on Yahweh to save by many or by few.” 
 
-^7^ His armor bearer said to him, “Do all that is in your heart. Go, and behold, I am with you according to your heart.” 
+@7 His armor bearer said to him, “Do all that is in your heart. Go, and behold, I am with you according to your heart.” 
 
-^8^ Then Jonathan said, “Behold, we will pass over to the men, and we will reveal ourselves to them. ^9^ If they say this to us, ‘Wait until we come to you!’ then we will stand still in our place and will not go up to them. ^10^ But if they say this, ‘Come up to us!’ then we will go up, for Yahweh has delivered them into our hand. This shall be the sign to us.” 
+@8 Then Jonathan said, “Behold, we will pass over to the men, and we will reveal ourselves to them. 
+@9 If they say this to us, ‘Wait until we come to you!’ then we will stand still in our place and will not go up to them. 
+@10 But if they say this, ‘Come up to us!’ then we will go up, for Yahweh has delivered them into our hand. This shall be the sign to us.” 
 
-^11^ Both of them revealed themselves to the garrison of the Philistines; and the Philistines said, “Behold, the Hebrews are coming out of the holes where they had hidden themselves!” ^12^ The men of the garrison answered Jonathan and his armor bearer, and said, “Come up to us, and we will show you something!” 
+@11 Both of them revealed themselves to the garrison of the Philistines; and the Philistines said, “Behold, the Hebrews are coming out of the holes where they had hidden themselves!” 
+@12 The men of the garrison answered Jonathan and his armor bearer, and said, “Come up to us, and we will show you something!” 
 
-Jonathan said to his armor bearer, “Come up after me, for Yahweh has delivered them into the hand of Israel.” ^13^ Jonathan climbed up on his hands and on his feet, and his armor bearer after him, and they fell before Jonathan; and his armor bearer killed them after him. ^14^ That first slaughter, which Jonathan and his armor bearer made, was about twenty men, within as it were half a furrow’s length in an acre of land. 
+Jonathan said to his armor bearer, “Come up after me, for Yahweh has delivered them into the hand of Israel.” 
+@13 Jonathan climbed up on his hands and on his feet, and his armor bearer after him, and they fell before Jonathan; and his armor bearer killed them after him. 
+@14 That first slaughter, which Jonathan and his armor bearer made, was about twenty men, within as it were half a furrow’s length in an acre of land. 
 
-^15^ There was a trembling in the camp, in the field, and among all the people; the garrison and the raiders also trembled; and the earth quaked, so there was an exceedingly great trembling. ^16^ The watchmen of Saul in Gibeah of Benjamin looked; and behold, the multitude melted away and scattered. ^17^ Then Saul said to the people who were with him, “Count now, and see who is missing from us.” When they had counted, behold, Jonathan and his armor bearer were not there. 
+@15 There was a trembling in the camp, in the field, and among all the people; the garrison and the raiders also trembled; and the earth quaked, so there was an exceedingly great trembling.
 
-^18^ Saul said to Ahijah, “Bring God’s ark here.” For God’s ark was with the children of Israel at that time. ^19^ While Saul talked to the priest, the tumult that was in the camp of the Philistines went on and increased; and Saul said to the priest, “Withdraw your hand!” 
+## Saul intervenes and wins a brilliant victory
+@16 The watchmen of Saul in Gibeah of Benjamin looked; and behold, the multitude melted away and scattered. 
+@17 Then Saul said to the people who were with him, “Count now, and see who is missing from us.” When they had counted, behold, Jonathan and his armor bearer were not there. 
 
-^20^ Saul and all the people who were with him were gathered together, and came to the battle; and behold, they were all striking each other with their swords in very great confusion. ^21^ Now the Hebrews who were with the Philistines before and who went up with them into the camp from all around, even they also turned to be with the Israelites who were with Saul and Jonathan. ^22^ Likewise all the men of Israel who had hidden themselves in the hill country of Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle. ^23^ So Yahweh saved Israel that day; and the battle passed over by Beth Aven. 
+@18 Saul said to Ahijah, “Bring God’s ark here.” For God’s ark was with the children of Israel at that time. 
+@19 While Saul talked to the priest, the tumult that was in the camp of the Philistines went on and increased; and Saul said to the priest, “Withdraw your hand!” 
 
-^24^ The men of Israel were distressed that day; for Saul had adjured the people, saying, “Cursed is the man who eats any food until it is evening, and I am avenged of my enemies.” So none of the people tasted food. 
+@20 Saul and all the people who were with him were gathered together, and came to the battle; and behold, they were all striking each other with their swords in very great confusion. 
+@21 Now the Hebrews who were with the Philistines before and who went up with them into the camp from all around, even they also turned to be with the Israelites who were with Saul and Jonathan. 
+@22 Likewise all the men of Israel who had hidden themselves in the hill country of Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle. 
+@23 So Yahweh saved Israel that day; and the battle passed over by Beth Aven.
 
-^25^ All the people came into the forest; and there was honey on the ground. ^26^ When the people had come to the forest, behold, honey was dripping, but no one put his hand to his mouth, for the people feared the oath. ^27^ But Jonathan didn’t hear when his father commanded the people with the oath. Therefore he put out the end of the rod that was in his hand and dipped it in the honeycomb, and put his hand to his mouth; and his eyes brightened. ^28^ Then one of the people answered, and said, “Your father directly commanded the people with an oath, saying, ‘Cursed is the man who eats food today.’” So the people were faint. 
+## The untimely zeal of Saul; Jonathan is threatened with death; The wars of Saul and his family
+@24 The men of Israel were distressed that day; for Saul had adjured the people, saying, “Cursed is the man who eats any food until it is evening, and I am avenged of my enemies.” So none of the people tasted food. 
 
-^29^ Then Jonathan said, “My father has troubled the land. Please look how my eyes have brightened because I tasted a little of this honey. ^30^ How much more, if perhaps the people had eaten freely today of the plunder of their enemies which they found? For now there has been no great slaughter among the Philistines.” ^31^ They struck the Philistines that day from Michmash to Aijalon. The people were very faint; ^32^ and the people pounced on the plunder, and took sheep, cattle, and calves, and killed them on the ground; and the people ate them with the blood. ^33^ Then they told Saul, saying, “Behold, the people are sinning against Yahweh, in that they eat meat with the blood.” 
+@25 All the people came into the forest; and there was honey on the ground. 
+@26 When the people had come to the forest, behold, honey was dripping, but no one put his hand to his mouth, for the people feared the oath. 
+@27 But Jonathan didn’t hear when his father commanded the people with the oath. Therefore he put out the end of the rod that was in his hand and dipped it in the honeycomb, and put his hand to his mouth; and his eyes brightened. 
+@28 Then one of the people answered, and said, “Your father directly commanded the people with an oath, saying, ‘Cursed is the man who eats food today.’” So the people were faint. 
 
-He said, “You have dealt treacherously. Roll a large stone to me today!” ^34^ Saul said, “Disperse yourselves among the people, and tell them, ‘Every man bring me here his ox, and every man his sheep, and kill them here, and eat; and don’t sin against Yahweh in eating meat with the blood.’” All the people brought every man his ox with him that night, and killed them there. 
+@29 Then Jonathan said, “My father has troubled the land. Please look how my eyes have brightened because I tasted a little of this honey. 
+@30 How much more, if perhaps the people had eaten freely today of the plunder of their enemies which they found? For now there has been no great slaughter among the Philistines.” 
+@31 They struck the Philistines that day from Michmash to Aijalon. The people were very faint; 
+@32 and the people pounced on the plunder, and took sheep, cattle, and calves, and killed them on the ground; and the people ate them with the blood. 
+@33 Then they told Saul, saying, “Behold, the people are sinning against Yahweh, in that they eat meat with the blood.” 
 
-^35^ Saul built an altar to Yahweh. This was the first altar that he built to Yahweh. ^36^ Saul said, “Let’s go down after the Philistines by night, and take plunder among them until the morning light. Let’s not leave a man of them.” 
+He said, “You have dealt treacherously. Roll a large stone to me today!” 
+@34 Saul said, “Disperse yourselves among the people, and tell them, ‘Every man bring me here his ox, and every man his sheep, and kill them here, and eat; and don’t sin against Yahweh in eating meat with the blood.’” All the people brought every man his ox with him that night, and killed them there. 
+
+@35 Saul built an altar to Yahweh. This was the first altar that he built to Yahweh.
+
+## Jonathan, threatened with death by Saul's blind zeal, is saved by the army
+@36 Saul said, “Let’s go down after the Philistines by night, and take plunder among them until the morning light. Let’s not leave a man of them.” 
 
 They said, “Do whatever seems good to you.” 
 
 Then the priest said, “Let’s draw near here to God.” 
 
-^37^ Saul asked counsel of God: “Shall I go down after the Philistines? Will you deliver them into the hand of Israel?” But he didn’t answer him that day. ^38^ Saul said, “Draw near here, all you chiefs of the people, and know and see in whom this sin has been today. ^39^ For as Yahweh lives, who saves Israel, though it is in Jonathan my son, he shall surely die.” But there was not a man among all the people who answered him. ^40^ Then he said to all Israel, “You be on one side, and I and Jonathan my son will be on the other side.” 
+@37 Saul asked counsel of God: “Shall I go down after the Philistines? Will you deliver them into the hand of Israel?” But he didn’t answer him that day. 
+@38 Saul said, “Draw near here, all you chiefs of the people, and know and see in whom this sin has been today. 
+@39 For as Yahweh lives, who saves Israel, though it is in Jonathan my son, he shall surely die.” But there was not a man among all the people who answered him. 
+@40 Then he said to all Israel, “You be on one side, and I and Jonathan my son will be on the other side.” 
 
 The people said to Saul, “Do what seems good to you.” 
 
-^41^ Therefore Saul said to Yahweh, the God of Israel, “Show the right.” 
+@41 Therefore Saul said to Yahweh, the God of Israel, “Show the right.” 
 
 Jonathan and Saul were chosen, but the people escaped. 
 
-^42^ Saul said, “Cast lots between me and Jonathan my son.” 
+@42 Saul said, “Cast lots between me and Jonathan my son.” 
 
 Jonathan was selected. 
 
-^43^ Then Saul said to Jonathan, “Tell me what you have done!” 
+@43 Then Saul said to Jonathan, “Tell me what you have done!” 
 
 Jonathan told him, and said, “I certainly did taste a little honey with the end of the rod that was in my hand; and behold, I must die.” 
 
-^44^ Saul said, “God do so and more also; for you shall surely die, Jonathan.” 
+@44 Saul said, “God do so and more also; for you shall surely die, Jonathan.” 
 
-^45^ The people said to Saul, “Shall Jonathan die, who has worked this great salvation in Israel? Far from it! As Yahweh lives, there shall not one hair of his head fall to the ground, for he has worked with God today!” So the people rescued Jonathan, so he didn’t die. ^46^ Then Saul went up from following the Philistines; and the Philistines went to their own place. 
+@45 The people said to Saul, “Shall Jonathan die, who has worked this great salvation in Israel? Far from it! As Yahweh lives, there shall not one hair of his head fall to the ground, for he has worked with God today!” So the people rescued Jonathan, so he didn’t die. 
+@46 Then Saul went up from following the Philistines; and the Philistines went to their own place.
 
-^47^ Now when Saul had taken the kingdom over Israel, he fought against all his enemies on every side: against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines. Wherever he turned himself, he defeated them. ^48^ He did valiantly and struck the Amalekites, and delivered Israel out of the hands of those who plundered them. ^49^ Now the sons of Saul were Jonathan, Ishvi, and Malchishua; and the names of his two daughters were these: the name of the firstborn Merab, and the name of the younger Michal. ^50^ The name of Saul’s wife was Ahinoam the daughter of Ahimaaz. The name of the captain of his army was Abner the son of Ner, Saul’s uncle. ^51^ Kish was the father of Saul, and Ner the father of Abner was the son of Abiel. 
+## The other acts of war of Saul and his family
+@47 Now when Saul had taken the kingdom over Israel, he fought against all his enemies on every side: against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines. Wherever he turned himself, he defeated them. 
+@48 He did valiantly and struck the Amalekites, and delivered Israel out of the hands of those who plundered them. 
+@49 Now the sons of Saul were Jonathan, Ishvi, and Malchishua; and the names of his two daughters were these: the name of the firstborn Merab, and the name of the younger Michal. 
+@50 The name of Saul’s wife was Ahinoam the daughter of Ahimaaz. The name of the captain of his army was Abner the son of Ner, Saul’s uncle. 
+@51 Kish was the father of Saul, and Ner the father of Abner was the son of Abiel. 
 
-^52^ There was severe war against the Philistines all the days of Saul; and when Saul saw any mighty man or any valiant man, he took him into his service. 
+@52 There was severe war against the Philistines all the days of Saul; and when Saul saw any mighty man or any valiant man, he took him into his service. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 15
 ## La campaña de Saúl contra los amalecitas; su desobediencia a Dios y su rechazo
-^1^ Samuel dijo a Saúl: “Yahvé me ha enviado para ungirte como rey de su pueblo, de Israel. Ahora, pues, escucha la voz de las palabras de Yahvé. ^a^ ^2^ El Señor de los Ejércitos dice: ‘Me acuerdo de lo que Amalec hizo a Israel, de cómo se puso en su contra en el camino cuando subió de Egipto. ^b^ ^3^ Ahora ve y ataca a Amalec, y destruye por completo todo lo que tiene, y no lo perdones; mata tanto al hombre como a la mujer, al niño y al lactante, al buey y a la oveja, al camello y al asno’”. ^c^
-^a^[**15:1** 1Sam 10,1] ^b^[**15:2** Éxod 17,8-16; Deut 25,17-19] ^c^[**15:3** Núm 21,2]
+@1 Y Samuel dijo á Saúl: Jehová me envió á que te ungiese por rey sobre su pueblo Israel: oye pues la voz de las palabras de Jehová. 
+@2 Así ha dicho Jehová de los ejércitos: Acuérdome de lo que hizo Amalec á Israel; que se le opuso en el camino, cuando subía de Egipto. 
+@3 Ve pues, y hiere á Amalec, y destruiréis en él todo lo que tuviere: y no te apiades de él: mata hombres y mujeres, niños y mamantes, vacas y ovejas, camellos y asnos.
 
-^4^ Saúl convocó al pueblo y lo contó en Telaim, doscientos mil hombres de a pie y diez mil hombres de Judá. ^5^ Saúl llegó a la ciudad de Amalec y puso una emboscada en el valle. ^6^ Saúl dijo a los ceneos: “Vayan, váyanse, desciendan de entre los amalecitas, para que no los destruya con ellos, pues ustedes mostraron bondad con todos los hijos de Israel cuando subieron de Egipto.” Así que los ceneos se marcharon de entre los amalecitas. ^a^
-^a^[**15:6** Jue 1,16]
+@4 Saúl pues juntó el pueblo, y reconociólos en Telaim, doscientos mil de á pie, y diez mil hombres de Judá. 
+@5 Y viniendo Saúl á la ciudad de Amalec, puso emboscada en el valle. 
+@6 Y dijo Saúl al Cineo: Idos, apartaos, y salid de entre los de Amalec, para que no te destruya juntamente con él: pues que tú hiciste misericordia con todos los hijos de Israel, cuando subían de Egipto. Apartóse pues el Cineo de entre los de Amalec.
 
-^7^ Saúl hirió a los amalecitas, desde Havila, como vas a Shur, que está frente a Egipto. ^8^ Tomó vivo a Agag, rey de los amalecitas, y destruyó a todo el pueblo a filo de espada. ^9^ Pero Saúl y el pueblo perdonaron a Agag y a lo mejor de las ovejas, del ganado, de los terneros gordos, de los corderos, y de todo lo bueno, y no quisieron destruirlo del todo; pero todo lo vil y desecho lo destruyeron del todo.
+@7 Y Saúl hirió á Amalec, desde Havila hasta llegar á Shur, que está á la frontera de Egipto. 
+@8 Y tomó vivo á Agag rey de Amalec, mas á todo el pueblo mató á filo de espada. 
+@9 Y Saúl y el pueblo perdonaron á Agag, y á lo mejor de las ovejas, y al ganado mayor, á los gruesos y á los carneros, y á todo lo bueno: que no lo quisieron destruir: mas todo lo que era vil y flaco destruyeron.
 
 ## Saulo rechazado por Dios a causa de su desobediencia; El discurso de Samuel y la admisión de culpabilidad de Saúl
-^10^ Entonces llegó la palabra de Yahvé a Samuel, diciendo: ^11^ “Me apena haber puesto a Saúl como rey, pues se ha apartado de seguirme y no ha cumplido mis mandatos.” Samuel se enfureció y clamó a Yahvé toda la noche.
+@10 Y fué palabra de Jehová á Samuel, diciendo: 
+@11 Pésame de haber puesto por rey á Saúl, porque se ha vuelto de en pos de mí, y no ha cumplido mis palabras. Y apesadumbróse Samuel, y clamó á Jehová toda aquella noche.
 
-^12^ Samuel se levantó temprano para encontrarse con Saúl por la mañana, y le dijeron: “Saúl llegó al Carmelo, y he aquí que se levantó un monumento, se volvió, pasó y bajó a Gilgal.”
+@12 Madrugó luego Samuel para ir á encontrar á Saúl por la mañana; y fué dado aviso á Samuel, diciendo: Saúl ha venido al Carmel, y he aquí él se ha levantado un trofeo, y después volviendo, ha pasado y descendido á Gilgal.
 
-^13^ Samuel se acercó a Saúl, y éste le dijo: “¡Bendito seas por Yahvé! He cumplido el mandamiento de Yahvé”.
+@13 Vino pues Samuel á Saúl, y Saúl le dijo: Bendito seas tú de Jehová; yo he cumplido la palabra de Jehová.
 
-^14^ Samuel dijo: “Entonces, ¿qué significa este balido de las ovejas en mis oídos y el mugido del ganado que oigo?”
+@14 Samuel entonces dijo: ¿Pues qué balido de ganados y bramido de bueyes es este que yo oigo con mis oídos?
 
-^15^ Saúl dijo: “Los han traído de los amalecitas, pues el pueblo perdonó lo mejor de las ovejas y del ganado, para sacrificar a Yavé tu Dios. El resto lo hemos destruido por completo”.
+@15 Y Saúl respondió: De Amalec los han traído; porque el pueblo perdonó á lo mejor de las ovejas y de las vacas, para sacrificarlas á Jehová tu Dios; pero lo demás lo destruimos.
 
-^16^ Entonces Samuel dijo a Saúl: “Quédate, y te contaré lo que me dijo Yahvé anoche”. Le dijo: “Diga”.
+@16 Entonces dijo Samuel á Saúl: Déjame declararte lo que Jehová me ha dicho esta noche. Y él le respondió: Di.
 
-^17^ Samuel dijo: “Aunque eras pequeño a tus ojos, ¿no fuiste hecho jefe de las tribus de Israel? Yahvé te ungió como rey de Israel; ^a^ ^18^ y Yahvé te envió de viaje y te dijo: ‘Ve y destruye por completo a los pecadores amalecitas, y lucha contra ellos hasta consumirlos’. ^19^ ¿Por qué entonces no obedeciste la voz de Yavé, sino que tomaste el botín e hiciste lo que era malo a los ojos de Yavé?”
-^a^[**15:17** 1Sam 9,21]
+@17 Y dijo Samuel: Siendo tú pequeño en tus ojos ¿no has sido hecho cabeza á las tribus de Israel, y Jehová te ha ungido por rey sobre Israel? 
+@18 Y envióte Jehová en jornada, y dijo: Ve, y destruye los pecadores de Amalec, y hazles guerra hasta que los acabes. 
+@19 ¿Por qué pues no has oído la voz de Jehová, sino que vuelto al despojo, has hecho lo malo en los ojos de Jehová?
 
-^20^ Saúl dijo a Samuel: “Pero yo he obedecido la voz de Yavé y he seguido el camino que Yavé me envió, y he traído a Agag, rey de Amalec, y he destruido por completo a los amalecitas. ^21^ Pero el pueblo tomó del botín, ovejas y ganado, lo mejor de lo consagrado, para sacrificar a Yavé tu Dios en Gilgal.”
+@20 Y Saúl respondió á Samuel: Antes he oído la voz de Jehová, y fuí á la jornada que Jehová me envió, y he traído á Agag rey de Amalec, y he destruído á los Amalecitas: 
+@21 Mas el pueblo tomó del despojo ovejas y vacas, las primicias del anatema, para sacrificarlas á Jehová tu Dios en Gilgal.
 
-^22^ Samuel dijo: “¿Se complace tanto Yahvé en los holocaustos y sacrificios como en obedecer la voz de Yahvé? He aquí que obedecer es mejor que los sacrificios, y escuchar que la grasa de los carneros. ^a^ ^23^ Porque la rebeldía es como el pecado de brujería, y la obstinación es como la idolatría y los terafines.^b^ Porque has rechazado la palabra de Yahvé, él también te ha rechazado para ser rey”. ^c^
-^a^[**15:22** Os 6,6; Is 1,11; Mat 9,13; Mat 12,7] ^b^[**15:23** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.] ^c^[**15:23** 1Sam 16,1]
+@22 Y Samuel dijo: ¿Tiene Jehová tanto contentamiento con los holocaustos y víctimas, como en obedecer á las palabras de Jehová? Ciertamente el obedecer es mejor que los sacrificios; y el prestar atención que el sebo de los carneros: 
+@23 Porque como pecado de adivinación es la rebelión, y como ídolos é idolatría el infringir. Por cuanto tú desechaste la palabra de Jehová, él también te ha desechado para que no seas rey.
 
-^24^ Saúl dijo a Samuel: “He pecado, pues he transgredido el mandamiento de Yavé y tus palabras, porque temí al pueblo y obedecí su voz. ^25^ Ahora, pues, te ruego que perdones mi pecado y vuelvas conmigo para que pueda adorar a Yavé”.
+@24 Entonces Saúl dijo á Samuel: Yo he pecado; que he quebrantado el dicho de Jehová y tus palabras: porque temí al pueblo, consentí á la voz de ellos. Perdona pues ahora mi pecado, 
+@25 Y vuelve conmigo para que adore á Jehová.
 
-^26^ Samuel le dijo a Saúl: “No volveré contigo, porque has rechazado la palabra de Yahvé, y Yahvé te ha rechazado para ser rey de Israel”. ^27^ Cuando Samuel se dio la vuelta para marcharse, Saúl se agarró a la falda de su túnica y ésta se rasgó. ^28^ Samuel le dijo: “Yahvé te ha arrancado hoy el reino de Israel y se lo ha dado a un vecino tuyo que es mejor que tú. ^a^ ^29^ También la Fuerza de Israel no mentirá ni se arrepentirá, porque no es hombre para arrepentirse.” ^b^
-^a^[**15:28** 1Sam 28,17] ^b^[**15:29** Núm 23,19]
+@26 Y Samuel respondió á Saúl: No volveré contigo; porque desechaste la palabra de Jehová, y Jehová te ha desechado para que no seas rey sobre Israel. 
+@27 Y volviéndose Samuel para irse, él echó mano de la orla de su capa, y desgarróse. 
+@28 Entonces Samuel le dijo: Jehová ha desgarrado hoy de ti el reino de Israel, y lo ha dado á tu prójimo mejor que tú. 
+@29 Y también el Vencedor de Israel no mentirá, ni se arrepentirá: porque no es hombre para que se arrepienta.
 
-^30^ Entonces dijo: “He pecado; pero te ruego que me honres ahora ante los ancianos de mi pueblo y ante Israel, y que vuelvas conmigo para que pueda adorar a Yahvé, tu Dios.”
+@30 Y él dijo: Yo he pecado: mas ruégote que me honres delante de los ancianos de mi pueblo, y delante de Israel; y vuelve conmigo para que adore á Jehová tu Dios.
 
-^31^ Entonces Samuel regresó con Saúl, y éste adoró a Yahvé.
+@31 Y volvió Samuel tras Saúl, y adoró Saúl á Jehová.
 
 ## Samuel realiza la proscripción del rey Agag y se separa de Saúl para no volver a ser visto
-^32^ Entonces Samuel dijo: “¡Trae aquí a Agag, rey de los amalecitas!” Agag se acercó a él alegremente. Agag dijo: “Ciertamente la amargura de la muerte ha pasado”.
+@32 Después dijo Samuel: Traedme á Agag rey de Amalec. Y Agag vino á él delicadamente. Y dijo Agag: Ciertamente se pasó la amargura de la muerte.
 
-^33^ Samuel dijo: “¡Como tu espada ha dejado sin hijos a las mujeres, así tu madre quedará sin hijos entre las mujeres!” Entonces Samuel cortó en pedazos a Agag ante Yahvé en Gilgal.
+@33 Y Samuel dijo: Como tu espada dejó las mujeres sin hijos, así tu madre será sin hijo entre las mujeres. Entonces Samuel cortó en pedazos á Agag delante de Jehová en Gilgal.
 
-^34^ Entonces Samuel se fue a Ramá, y Saúl subió a su casa en Gabaa de Saúl. ^35^ Samuel no volvió a ver a Saúl hasta el día de su muerte, pero Samuel hizo duelo por Saúl. El Señor se afligió por haber hecho a Saúl rey de Israel.
+@34 Fuése luego Samuel á Rama, y Saúl subió á su casa en Gabaa de Saúl. 
+@35 Y nunca después vió Samuel á Saúl en toda su vida: y Samuel lloraba á Saúl: mas Jehová se había arrepentido de haber puesto á Saúl por rey sobre Israel. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 15
-^1^ Samuel said to Saul, “Yahweh sent me to anoint you to be king over his people, over Israel. Now therefore listen to the voice of Yahweh’s words. ^2^ Yahweh of Armies says, ‘I remember what Amalek did to Israel, how he set himself against him on the way when he came up out of Egypt. ^3^ Now go and strike Amalek, and utterly destroy all that they have, and don’t spare them; but kill both man and woman, infant and nursing baby, ox and sheep, camel and donkey.’” 
+## Saul's campaign against the Amalekites; his disobedience to God and his rejection
+@1 Samuel said to Saul, “Yahweh sent me to anoint you to be king over his people, over Israel. Now therefore listen to the voice of Yahweh’s words. 
+@2 Yahweh of Armies says, ‘I remember what Amalek did to Israel, how he set himself against him on the way when he came up out of Egypt. 
+@3 Now go and strike Amalek, and utterly destroy all that they have, and don’t spare them; but kill both man and woman, infant and nursing baby, ox and sheep, camel and donkey.’” 
 
-^4^ Saul summoned the people, and counted them in Telaim, two hundred thousand footmen and ten thousand men of Judah. ^5^ Saul came to the city of Amalek, and set an ambush in the valley. ^6^ Saul said to the Kenites, “Go, depart, go down from among the Amalekites, lest I destroy you with them; for you showed kindness to all the children of Israel when they came up out of Egypt.” So the Kenites departed from among the Amalekites. 
+@4 Saul summoned the people, and counted them in Telaim, two hundred thousand footmen and ten thousand men of Judah. 
+@5 Saul came to the city of Amalek, and set an ambush in the valley. 
+@6 Saul said to the Kenites, “Go, depart, go down from among the Amalekites, lest I destroy you with them; for you showed kindness to all the children of Israel when they came up out of Egypt.” So the Kenites departed from among the Amalekites. 
 
-^7^ Saul struck the Amalekites, from Havilah as you go to Shur, which is before Egypt. ^8^ He took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. ^9^ But Saul and the people spared Agag and the best of the sheep, of the cattle, of the fat calves, of the lambs, and all that was good, and were not willing to utterly destroy them; but everything that was vile and refuse, that they destroyed utterly. 
+@7 Saul struck the Amalekites, from Havilah as you go to Shur, which is before Egypt. 
+@8 He took Agag the king of the Amalekites alive, and utterly destroyed all the people with the edge of the sword. 
+@9 But Saul and the people spared Agag and the best of the sheep, of the cattle, of the fat calves, of the lambs, and all that was good, and were not willing to utterly destroy them; but everything that was vile and refuse, that they destroyed utterly.
 
-^10^ Then Yahweh’s word came to Samuel, saying, ^11^ “It grieves me that I have set up Saul to be king, for he has turned back from following me, and has not performed my commandments.” Samuel was angry; and he cried to Yahweh all night. 
+## Saul rejected by God because of his disobedience; Samuel's speech and Saul's admission of guilt
+@10 Then Yahweh’s word came to Samuel, saying, 
+@11 “It grieves me that I have set up Saul to be king, for he has turned back from following me, and has not performed my commandments.” Samuel was angry; and he cried to Yahweh all night. 
 
-^12^ Samuel rose early to meet Saul in the morning; and Samuel was told, saying, “Saul came to Carmel, and behold, he set up a monument for himself, turned, passed on, and went down to Gilgal.” 
+@12 Samuel rose early to meet Saul in the morning; and Samuel was told, saying, “Saul came to Carmel, and behold, he set up a monument for himself, turned, passed on, and went down to Gilgal.” 
 
-^13^ Samuel came to Saul; and Saul said to him, “You are blessed by Yahweh! I have performed the commandment of Yahweh.” 
+@13 Samuel came to Saul; and Saul said to him, “You are blessed by Yahweh! I have performed the commandment of Yahweh.” 
 
-^14^ Samuel said, “Then what does this bleating of the sheep in my ears and the lowing of the cattle which I hear mean?” 
+@14 Samuel said, “Then what does this bleating of the sheep in my ears and the lowing of the cattle which I hear mean?” 
 
-^15^ Saul said, “They have brought them from the Amalekites; for the people spared the best of the sheep and of the cattle, to sacrifice to Yahweh your God. We have utterly destroyed the rest.” 
+@15 Saul said, “They have brought them from the Amalekites; for the people spared the best of the sheep and of the cattle, to sacrifice to Yahweh your God. We have utterly destroyed the rest.” 
 
-^16^ Then Samuel said to Saul, “Stay, and I will tell you what Yahweh said to me last night.” 
+@16 Then Samuel said to Saul, “Stay, and I will tell you what Yahweh said to me last night.” 
 
 He said to him, “Say on.” 
 
-^17^ Samuel said, “Though you were little in your own sight, weren’t you made the head of the tribes of Israel? Yahweh anointed you king over Israel; ^18^ and Yahweh sent you on a journey, and said, ‘Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.’ ^19^ Why then didn’t you obey Yahweh’s voice, but took the plunder, and did that which was evil in Yahweh’s sight?” 
+@17 Samuel said, “Though you were little in your own sight, weren’t you made the head of the tribes of Israel? Yahweh anointed you king over Israel; 
+@18 and Yahweh sent you on a journey, and said, ‘Go, and utterly destroy the sinners the Amalekites, and fight against them until they are consumed.’ 
+@19 Why then didn’t you obey Yahweh’s voice, but took the plunder, and did that which was evil in Yahweh’s sight?” 
 
-^20^ Saul said to Samuel, “But I have obeyed Yahweh’s voice, and have gone the way which Yahweh sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. ^21^ But the people took of the plunder, sheep and cattle, the best of the devoted things, to sacrifice to Yahweh your God in Gilgal.” 
+@20 Saul said to Samuel, “But I have obeyed Yahweh’s voice, and have gone the way which Yahweh sent me, and have brought Agag the king of Amalek, and have utterly destroyed the Amalekites. 
+@21 But the people took of the plunder, sheep and cattle, the best of the devoted things, to sacrifice to Yahweh your God in Gilgal.” 
 
-^22^ Samuel said, “Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh’s voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams. ^23^ For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim.^a^ Because you have rejected Yahweh’s word, he has also rejected you from being king.” 
+@22 Samuel said, “Has Yahweh as great delight in burnt offerings and sacrifices, as in obeying Yahweh’s voice? Behold, to obey is better than sacrifice, and to listen than the fat of rams. 
+@23 For rebellion is as the sin of witchcraft, and stubbornness is as idolatry and teraphim.^a^ Because you have rejected Yahweh’s word, he has also rejected you from being king.” 
 ^a^[**15:23** teraphim were household idols that may have been associated with inheritance rights to the household property.]
 
-^24^ Saul said to Samuel, “I have sinned; for I have transgressed the commandment of Yahweh and your words, because I feared the people and obeyed their voice. ^25^ Now therefore, please pardon my sin, and turn again with me, that I may worship Yahweh.” 
+@24 Saul said to Samuel, “I have sinned; for I have transgressed the commandment of Yahweh and your words, because I feared the people and obeyed their voice. 
+@25 Now therefore, please pardon my sin, and turn again with me, that I may worship Yahweh.” 
 
-^26^ Samuel said to Saul, “I will not return with you; for you have rejected Yahweh’s word, and Yahweh has rejected you from being king over Israel.” ^27^ As Samuel turned around to go away, Saul grabbed the skirt of his robe, and it tore. ^28^ Samuel said to him, “Yahweh has torn the kingdom of Israel from you today, and has given it to a neighbor of yours who is better than you. ^29^ Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.” 
+@26 Samuel said to Saul, “I will not return with you; for you have rejected Yahweh’s word, and Yahweh has rejected you from being king over Israel.” 
+@27 As Samuel turned around to go away, Saul grabbed the skirt of his robe, and it tore. 
+@28 Samuel said to him, “Yahweh has torn the kingdom of Israel from you today, and has given it to a neighbor of yours who is better than you. 
+@29 Also the Strength of Israel will not lie nor repent; for he is not a man, that he should repent.” 
 
-^30^ Then he said, “I have sinned; yet please honor me now before the elders of my people and before Israel, and come back with me, that I may worship Yahweh your God.” 
+@30 Then he said, “I have sinned; yet please honor me now before the elders of my people and before Israel, and come back with me, that I may worship Yahweh your God.” 
 
-^31^ So Samuel went back with Saul; and Saul worshiped Yahweh. ^32^ Then Samuel said, “Bring Agag the king of the Amalekites here to me!” 
+@31 So Samuel went back with Saul; and Saul worshiped Yahweh.
+
+## Samuel performs the ban on King Agag and separates from Saul never to be seen again
+@32 Then Samuel said, “Bring Agag the king of the Amalekites here to me!” 
 
 Agag came to him cheerfully. Agag said, “Surely the bitterness of death is past.” 
 
-^33^ Samuel said, “As your sword has made women childless, so your mother will be childless among women!” Then Samuel cut Agag in pieces before Yahweh in Gilgal. 
+@33 Samuel said, “As your sword has made women childless, so your mother will be childless among women!” Then Samuel cut Agag in pieces before Yahweh in Gilgal. 
 
-^34^ Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul. ^35^ Samuel came no more to see Saul until the day of his death, but Samuel mourned for Saul. Yahweh grieved that he had made Saul king over Israel. 
+@34 Then Samuel went to Ramah; and Saul went up to his house to Gibeah of Saul. 
+@35 Samuel came no more to see Saul until the day of his death, but Samuel mourned for Saul. Yahweh grieved that he had made Saul king over Israel. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 16
 ## El llamado y unción de David por Samuel
-^1^ El Señor le dijo a Samuel: “¿Hasta cuándo llorarás por Saúl, ya que lo he rechazado como rey de Israel? Llena tu cuerno de aceite y vete. Te enviaré a Jesé, el betlemita, porque me he provisto de un rey entre sus hijos”. ^a^
-^a^[**16:1** 1Sam 15,23; 1Sam 15,35]
+@1 Y dijo Jehová á Samuel: ¿Hasta cuándo has tú de llorar á Saúl, habiéndolo yo desechado para que no reine sobre Israel? Hinche tu cuerno de aceite, y ven, te enviaré á Isaí de Beth-lehem: porque de sus hijos me he provisto de rey.
 
-^2^ Samuel dijo: “¿Cómo puedo ir? Si Saúl se entera, me matará”. Yahvé dijo: “Toma una novilla contigo y di: ‘He venido a sacrificar a Yahvé’. ^3^ Llama a Isaí al sacrificio, y yo te mostraré lo que debes hacer. Me ungirás al que yo te nombre”.
+@2 Y dijo Samuel: ¿Cómo iré? Si Saúl lo entendiere, me matará. Jehová respondió: Toma contigo una becerra de la vacada, y di: A sacrificar á Jehová he venido.
 
-^4^ Samuel hizo lo que Yahvé había dicho y llegó a Belén. Los ancianos de la ciudad salieron a su encuentro temblando, y le dijeron: “¿Vienes en paz?”. ^a^
-^a^[**16:4** 2Re 9,18]
+@3 Y llama á Isaí al sacrificio, y yo te enseñaré lo que has de hacer; y ungirme has al que yo te dijere.
 
-^5^ Dijo: “Tranquilos; he venido a sacrificar a Yahvé. Santificaos y venid conmigo al sacrificio”. Santificó a Jesé y a sus hijos, y los llamó al sacrificio.
+@4 Hizo pues Samuel como le dijo Jehová: y luego que él llegó á Beth-lehem, los ancianos de la ciudad le salieron á recibir con miedo, y dijeron: ¿Es pacífica tu venida?
+
+@5 Y él respondió: Sí, vengo á sacrificar á Jehová; santificaos, y venid conmigo al sacrificio. Y santificando él á Isaí y á sus hijos, llamólos al sacrificio.
 
 ## Samuel unge como rey al hijo menor de Isaí, David
-^6^ Cuando llegaron, miró a Eliab y dijo: “Ciertamente el ungido de Yavé está delante de él.”
+@6 Y aconteció que como ellos vinieron, él vió á Eliab, y dijo: De cierto delante de Jehová está su ungido.
 
-^7^ Pero Yahvé dijo a Samuel: “No te fijes en su rostro ni en la altura de su estatura, porque lo he rechazado; porque yo no veo como ve el hombre. Porque el hombre mira la apariencia exterior, pero Yahvé mira el corazón”. ^a^
-^a^[**16:7** Hech 10,34; Sal 7,9]
+@7 Y Jehová respondió á Samuel: No mires á su parecer, ni á lo grande de su estatura, porque yo lo desecho; porque Jehová mira no lo que el hombre mira; pues que el hombre mira lo que está delante de sus ojos, mas Jehová mira el corazón.
 
-^8^ Entonces Isaí llamó a Abinadab y lo hizo pasar ante Samuel. Éste le dijo: “El Señor tampoco ha elegido a éste”. ^9^ Luego Isaí hizo pasar a Shammah. Dijo: “Tampoco a éste lo ha elegido Yahvé”. ^10^ Isaí hizo pasar a siete de sus hijos ante Samuel. Samuel dijo a Isaí: “Yahvé no ha elegido a éstos”. ^a^ ^11^ Samuel dijo a Isaí: “¿Están todos tus hijos aquí?” Dijo: “Todavía queda el más joven. He aquí que está guardando las ovejas”. Samuel dijo a Isaí: “Envía a buscarlo, porque no nos sentaremos hasta que venga”. ^b^
-^a^[**16:10** 1Cró 2,13-15] ^b^[**16:11** 1Sam 17,14]
+@8 Entonces llamó Isaí á Abinadab, é hízole pasar delante de Samuel, el cual dijo: Ni á éste ha elegido Jehová. 
+@9 Hizo luego pasar Isaí á Samma. Y él dijo: Tampoco á éste ha elegido Jehová. 
+@10 E hizo pasar Isaí sus siete hijos delante de Samuel; mas Samuel dijo á Isaí: Jehová no ha elegido á éstos. 
+@11 Entonces dijo Samuel á Isaí: ¿Hanse acabado los mozos? Y él respondió: Aun queda el menor, que apacienta las ovejas. Y dijo Samuel á Isaí: Envía por él, porque no nos asentaremos á la mesa hasta que él venga aquí.
 
-^12^ Envió y lo hizo entrar. Ahora era rubicundo, de rostro apuesto y buena apariencia. Yahvé dijo: “¡Levántate! Ungidlo, porque éste es”.
+@12 Envió pues por él, é introdújolo; el cual era rubio, de hermoso parecer y de bello aspecto. Entonces Jehová dijo: Levántate y úngelo, que éste es.
 
-^13^ Entonces Samuel tomó el cuerno de aceite y lo ungió en medio de sus hermanos. Entonces el Espíritu de Yahvé vino poderosamente sobre David desde aquel día. Samuel se levantó y se fue a Ramá. ^a^
-^a^[**16:13** 2Sam 2,4; 2Sam 5,3]
+@13 Y Samuel tomó el cuerno del aceite, y ungiólo de entre sus hermanos: y desde aquel día en adelante el espíritu de Jehová tomó á David. Levantóse luego Samuel, y volvióse á Rama.
 
 ## David es llamado a tocar el arpa en la corte de Saúl y entra al servicio real
-^14^ El Espíritu de Yahvé se apartó de Saúl, y un espíritu maligno de Yahvé lo perturbó. ^a^ ^15^ Los servidores de Saúl le dijeron: “Mira, un espíritu maligno de parte de Dios te perturba. ^16^ Que nuestro señor ordene ahora a sus siervos que están delante de usted que busquen a un hombre que sepa tocar el arpa. Entonces, cuando el espíritu maligno de Dios esté sobre ti, él tocará con su mano, y tú estarás bien”. ^b^
-^a^[**16:14** 1Sam 18,10] ^b^[**16:16** 2Re 3,15]
+@14 Y el espíritu de Jehová se apartó de Saúl, y atormentábale el espíritu malo de parte de Jehová. 
+@15 Y los criados de Saúl le dijeron: He aquí ahora, que el espíritu malo de parte de Dios te atormenta. 
+@16 Diga pues nuestro señor á tus siervos que están delante de ti, que busquen alguno que sepa tocar el arpa; para que cuando fuere sobre ti el espíritu malo de parte de Dios, él taña con su mano, y tengas alivio.
 
-^17^ Saúl dijo a sus siervos: “Proporciónenme ahora un hombre que sepa tocar bien y tráiganmelo”.
+@17 Y Saúl respondió á sus criados: Buscadme pues ahora alguno que taña bien, y traédmelo.
 
-^18^ Uno de los jóvenes respondió y dijo: “He aquí que he visto a un hijo de Jesé, el de Belén, que es hábil en el juego, valiente, hombre de guerra, prudente en la palabra y apuesto; y Yahvé está con él.”
+@18 Entonces uno de los criados respondió, diciendo: He aquí yo he visto á un hijo de Isaí de Beth-lehem, que sabe tocar, y es valiente y vigoroso, y hombre de guerra, prudente en sus palabras, y hermoso, y Jehová es con él.
 
-^19^ Por eso Saúl envió mensajeros a Jesé y le dijo: “Envíame a tu hijo David, que está con las ovejas”.
+@19 Y Saúl envió mensajeros á Isaí, diciendo: Envíame á David tu hijo, el que está con las ovejas.
 
-^20^ Jesé tomó un asno cargado de pan, un recipiente de vino y un cabrito, y los envió por medio de su hijo David a Saúl. ^21^ David llegó a Saúl y se presentó ante él. Lo amaba mucho, y se convirtió en su portador de la armadura. ^22^ Saúl envió a decir a Isaí: “Por favor, deja que David se presente ante mí, porque ha encontrado gracia ante mis ojos”. ^23^ Cuando el espíritu de Dios estaba sobre Saúl, David tomó el arpa y tocó con su mano; así Saúl se refrescó y se puso bien, y el espíritu malo se alejó de él. ^a^
-^a^[**16:23** 1Sam 16,14]
+@20 Y tomó Isaí un asno cargado de pan, y una vasija de vino y un cabrito, y enviólo á Saúl por mano de David su hijo. 
+@21 Y viniendo David á Saúl, estuvo delante de él: y amólo él mucho, y fué hecho su escudero. 
+@22 Y Saúl envió á decir á Isaí: Yo te ruego que esté David conmigo; porque ha hallado gracia en mis ojos. 
+@23 Y cuando el espíritu malo de parte de Dios era sobre Saúl, David tomaba el arpa, y tañía con su mano; y Saúl tenía refrigerio, y estaba mejor, y el espíritu malo se apartaba de él. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 16
-^1^ Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.” 
+## The calling and anointing of David by Samuel
+@1 Yahweh said to Samuel, “How long will you mourn for Saul, since I have rejected him from being king over Israel? Fill your horn with oil, and go. I will send you to Jesse the Bethlehemite, for I have provided a king for myself among his sons.” 
 
-^2^ Samuel said, “How can I go? If Saul hears it, he will kill me.” 
+@2 Samuel said, “How can I go? If Saul hears it, he will kill me.” 
 
-Yahweh said, “Take a heifer with you, and say, ‘I have come to sacrifice to Yahweh.’ ^3^ Call Jesse to the sacrifice, and I will show you what you shall do. You shall anoint to me him whom I name to you.” 
+Yahweh said, “Take a heifer with you, and say, ‘I have come to sacrifice to Yahweh.’ 
+@3 Call Jesse to the sacrifice, and I will show you what you shall do. You shall anoint to me him whom I name to you.” 
 
-^4^ Samuel did that which Yahweh spoke, and came to Bethlehem. The elders of the city came to meet him trembling, and said, “Do you come peaceably?” 
+@4 Samuel did that which Yahweh spoke, and came to Bethlehem. The elders of the city came to meet him trembling, and said, “Do you come peaceably?” 
 
-^5^ He said, “Peaceably; I have come to sacrifice to Yahweh. Sanctify yourselves, and come with me to the sacrifice.” He sanctified Jesse and his sons, and called them to the sacrifice. ^6^ When they had come, he looked at Eliab, and said, “Surely Yahweh’s anointed is before him.” 
+@5 He said, “Peaceably; I have come to sacrifice to Yahweh. Sanctify yourselves, and come with me to the sacrifice.” He sanctified Jesse and his sons, and called them to the sacrifice.
 
-^7^ But Yahweh said to Samuel, “Don’t look on his face, or on the height of his stature, because I have rejected him; for I don’t see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.” 
+## Samuel anoints Jesse's youngest son David as king
+@6 When they had come, he looked at Eliab, and said, “Surely Yahweh’s anointed is before him.” 
 
-^8^ Then Jesse called Abinadab, and made him pass before Samuel. He said, “Yahweh has not chosen this one, either.” ^9^ Then Jesse made Shammah to pass by. He said, “Yahweh has not chosen this one, either.” ^10^ Jesse made seven of his sons to pass before Samuel. Samuel said to Jesse, “Yahweh has not chosen these.” ^11^ Samuel said to Jesse, “Are all your children here?” 
+@7 But Yahweh said to Samuel, “Don’t look on his face, or on the height of his stature, because I have rejected him; for I don’t see as man sees. For man looks at the outward appearance, but Yahweh looks at the heart.” 
+
+@8 Then Jesse called Abinadab, and made him pass before Samuel. He said, “Yahweh has not chosen this one, either.” 
+@9 Then Jesse made Shammah to pass by. He said, “Yahweh has not chosen this one, either.” 
+@10 Jesse made seven of his sons to pass before Samuel. Samuel said to Jesse, “Yahweh has not chosen these.” 
+@11 Samuel said to Jesse, “Are all your children here?” 
 
 He said, “There remains yet the youngest. Behold, he is keeping the sheep.” 
 
 Samuel said to Jesse, “Send and get him, for we will not sit down until he comes here.” 
 
-^12^ He sent, and brought him in. Now he was ruddy, with a handsome face and good appearance. Yahweh said, “Arise! Anoint him, for this is he.” 
+@12 He sent, and brought him in. Now he was ruddy, with a handsome face and good appearance. Yahweh said, “Arise! Anoint him, for this is he.” 
 
-^13^ Then Samuel took the horn of oil and anointed him in the middle of his brothers. Then Yahweh’s Spirit came mightily on David from that day forward. So Samuel rose up and went to Ramah. ^14^ Now Yahweh’s Spirit departed from Saul, and an evil spirit from Yahweh troubled him. ^15^ Saul’s servants said to him, “See now, an evil spirit from God troubles you. ^16^ Let our lord now command your servants who are in front of you to seek out a man who is a skillful player on the harp. Then when the evil spirit from God is on you, he will play with his hand, and you will be well.” 
+@13 Then Samuel took the horn of oil and anointed him in the middle of his brothers. Then Yahweh’s Spirit came mightily on David from that day forward. So Samuel rose up and went to Ramah.
 
-^17^ Saul said to his servants, “Provide me now a man who can play well, and bring him to me.” 
+## David is called to play the harp in Saul's court and enters the royal service
+@14 Now Yahweh’s Spirit departed from Saul, and an evil spirit from Yahweh troubled him. 
+@15 Saul’s servants said to him, “See now, an evil spirit from God troubles you. 
+@16 Let our lord now command your servants who are in front of you to seek out a man who is a skillful player on the harp. Then when the evil spirit from God is on you, he will play with his hand, and you will be well.” 
 
-^18^ Then one of the young men answered and said, “Behold, I have seen a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him.” 
+@17 Saul said to his servants, “Provide me now a man who can play well, and bring him to me.” 
 
-^19^ Therefore Saul sent messengers to Jesse, and said, “Send me David your son, who is with the sheep.” 
+@18 Then one of the young men answered and said, “Behold, I have seen a son of Jesse the Bethlehemite who is skillful in playing, a mighty man of valor, a man of war, prudent in speech, and a handsome person; and Yahweh is with him.” 
 
-^20^ Jesse took a donkey loaded with bread, a container of wine, and a young goat, and sent them by David his son to Saul. ^21^ David came to Saul and stood before him. He loved him greatly; and he became his armor bearer. ^22^ Saul sent to Jesse, saying, “Please let David stand before me, for he has found favor in my sight.” ^23^ When the spirit from God was on Saul, David took the harp and played with his hand; so Saul was refreshed and was well, and the evil spirit departed from him. 
+@19 Therefore Saul sent messengers to Jesse, and said, “Send me David your son, who is with the sheep.” 
+
+@20 Jesse took a donkey loaded with bread, a container of wine, and a young goat, and sent them by David his son to Saul. 
+@21 David came to Saul and stood before him. He loved him greatly; and he became his armor bearer. 
+@22 Saul sent to Jesse, saying, “Please let David stand before me, for he has found favor in my sight.” 
+@23 When the spirit from God was on Saul, David took the harp and played with his hand; so Saul was refreshed and was well, and the evil spirit departed from him. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 17
 ## David y el campeón enemigo Goliat
-^1^ Los filisteos reunieron sus ejércitos para combatir, y se reunieron en Soco, que pertenece a Judá, y acamparon entre Soco y Azeca, en Efesdammim. ^2^ Saúl y los hombres de Israel se reunieron y acamparon en el valle de Ela, y prepararon la batalla contra los filisteos. ^3^ Los filisteos estaban en la montaña de un lado, e Israel estaba en la montaña del otro lado; y había un valle entre ellos. ^4^ Del campamento de los filisteos salió un campeón llamado Goliat de Gat, cuya altura era de seis codos y un palmo.^a^ ^b^ ^5^ Tenía un casco de bronce en la cabeza y llevaba una cota de malla, cuyo peso era de cinco mil siclos^c^ de bronce. ^6^ Tenía espinilleras de bronce en las piernas y una jabalina de bronce entre los hombros. ^7^ El asta de su lanza era como una viga de tejedor, y la punta de su lanza pesaba seiscientos siclos de hierro.^d^ Su escudero iba delante de él. ^8^ Se puso de pie y gritó a los ejércitos de Israel, y les dijo: “¿Por qué habéis salido a preparar vuestra batalla? ¿Acaso no soy yo un filisteo, y vosotros siervos de Saúl? Escoged a un hombre para vosotros, y que baje hacia mí. ^9^ Si es capaz de luchar conmigo y de matarme, entonces seremos tus siervos; pero si yo venzo contra él y lo mato, entonces seréis nuestros siervos y nos serviréis.” ^10^ El filisteo dijo: “¡Desafío hoy a los ejércitos de Israel! Dame un hombre, para que luchemos juntos”. ^e^
-^a^[**17:4** Un codo es la longitud desde la punta del dedo corazón hasta el codo del brazo de un hombre, es decir, unas 18 pulgadas o 46 centímetros. Un palmo es la longitud desde la punta del pulgar de un hombre hasta la punta de su dedo meñique cuando su mano está extendida (aproximadamente medio codo, o 9 pulgadas, o 22,8 cm.) Por lo tanto, Goliat medía aproximadamente 9 pies y 9 pulgadas o 2,97 metros de altura.] ^b^[**17:4** Jos 11,22] ^c^[**17:5** Un siclo equivale a unos 10 gramos o a unas 0,35 onzas, por lo que 5000 siclos equivalen a unos 50 kilogramos o 110 libras.] ^d^[**17:7** Un siclo equivale a unos 10 gramos o a unas 0,35 onzas, por lo que 600 siclos son unos 6 kilogramos o unas 13 libras.] ^e^[**17:10** 2Re 19,4; 2Re 19,16]
+@1 Y los Filisteos juntaron sus ejércitos para la guerra, y congregáronse en Sochô, que es de Judá, y asentaron el campo entre Sochô y Azeca, en Ephes-dammim. 
+@2 Y también Saúl y los hombres de Israel se juntaron, y asentaron el campo en el valle del Alcornoque, y ordenaron la batalla contra los Filisteos. 
+@3 Y los Filisteos estaban sobre el un monte de la una parte, é Israel estaba sobre el otro monte de la otra parte, y el valle entre ellos: 
+@4 Salió entonces un varón del campo de los Filisteos que se puso entre los dos campos, el cual se llamaba Goliath, de Gath, y tenía de altura seis codos y un palmo. 
+@5 Y traía un almete de acero en su cabeza, é iba vestido con corazas de planchas: y era el peso de la coraza cinco mil siclos de metal: 
+@6 Y sobre sus piernas traía grebas de hierro, y escudo de acero á sus hombros. 
+@7 El asta de su lanza era como un enjullo de telar, y tenía el hierro de su lanza seiscientos siclos de hierro: é iba su escudero delante de él. 
+@8 Y paróse, y dió voces á los escuadrones de Israel, diciéndoles: ¿Para qué salís á dar batalla? ¿no soy yo el Filisteo, y vosotros los siervos de Saúl? Escoged de entre vosotros un hombre que venga contra mí: 
+@9 Si él pudiere pelear conmigo, y me venciere, nosotros seremos vuestros siervos: y si yo pudiere más que él, y lo venciere, vosotros seréis nuestros siervos y nos serviréis. 
+@10 Y añadió el Filisteo: Hoy yo he desafiado el campo de Israel; dadme un hombre que pelee conmigo.
 
-^11^ Cuando Saúl y todo Israel oyeron estas palabras del filisteo, se espantaron y tuvieron mucho miedo.
+@11 Y oyendo Saúl y todo Israel estas palabras del Filisteo, conturbáronse, y tuvieron gran miedo.
 
 ## David, enviado por su padre a sus hermanos en el campamento, está indignado por la arrogancia de Goliat y se siente llamado a pelear con él
-^12^ David era hijo de aquel efrateo de Belén de Judá, que se llamaba Isaí, y tenía ocho hijos. El hombre era un anciano en los días de Saúl. ^a^ ^13^ Los tres hijos mayores de Isaí habían ido en pos de Saúl a la batalla; y los nombres de sus tres hijos que fueron a la batalla eran Eliab, el primogénito, y junto a él Abinadab, y el tercero Samá. ^b^ ^14^ David era el menor, y los tres mayores siguieron a Saúl. ^15^ David iba y venía de Saúl para apacentar las ovejas de su padre en Belén.
-^a^[**17:12** 1Sam 16,1] ^b^[**17:13** 1Sam 16,6; 1Sam 16,8-9]
+@12 Y David era hijo de aquel hombre Ephrateo de Beth-lehem de Judá, cuyo nombre era Isaí, el cual tenía ocho hijos; y era este hombre en el tiempo de Saúl, viejo, y de grande edad entre los hombres. 
+@13 Y los tres hijos mayores de Isaí habían ido á seguir á Saúl en la guerra. Y los nombres de sus tres hijos que habían ido á la guerra, eran, Eliab el primogénito, el segundo Abinadab, y el tercero Samma. 
+@14 Y David era el menor. Siguieron pues los tres mayores á Saúl. 
+@15 Empero David había ido y vuelto de con Saúl, para apacentar las ovejas de su padre en Beth-lehem.
 
-^16^ El filisteo se acercó por la mañana y por la tarde, y se presentó durante cuarenta días.
+@16 Venía pues aquel Filisteo por la mañana y á la tarde, y presentóse por cuarenta días.
 
-^17^ Jesé dijo a su hijo David: “Toma ahora para tus hermanos un efa^a^ de este grano tostado y estos diez panes, y llévalos rápidamente al campamento para tus hermanos; ^18^ y lleva estos diez quesos al capitán de sus mil; y mira cómo están tus hermanos, y trae noticias.” ^19^ Saúl, ellos y todos los hombres de Israel estaban en el valle de Elah, luchando contra los filisteos.
-^a^[**17:17** 1 efa equivale a unos 22 litros o a 2/3 de una fanega]
+@17 Y dijo Isaí á David su hijo: Toma ahora para tus hermanos un epha de este grano tostado, y estos diez panes, y llévalo presto al campamento á tus hermanos. 
+@18 Llevarás asimismo estos diez quesos de leche al capitán, y cuida de ver si tus hermanos están buenos, y toma prendas de ellos. 
+@19 Y Saúl y ellos y todos lo de Israel, estaban en el valle del Alcornoque, peleando con los Filisteos.
 
-^20^ David se levantó de madrugada, dejó las ovejas con un cuidador, tomó las provisiones y se fue, como le había ordenado Isaí. Llegó al lugar de los carros cuando el ejército que salía a la lucha gritaba para la batalla. ^21^ Israel y los filisteos se prepararon para la batalla, ejército contra ejército. ^22^ David dejó su equipaje en manos del guardián del equipaje y corrió hacia el ejército, y llegó a saludar a sus hermanos. ^23^ Mientras hablaba con ellos, he aquí que el campeón, el filisteo de Gat, de nombre Goliat, salió de las filas de los filisteos y dijo las mismas palabras; y David las oyó. ^24^ Todos los hombres de Israel, al ver al hombre, huyeron de él y se aterrorizaron. ^25^ Los hombres de Israel dijeron: “¿Habéis visto a este hombre que ha subido? Seguramente ha subido para desafiar a Israel. El rey dará grandes riquezas al hombre que lo mate, y le dará su hija, y hará que la casa de su padre quede libre de impuestos en Israel.”
+@20 Levantóse pues David de mañana, y dejando las ovejas al cuidado de un guarda, fuése con su carga, como Isaí le había mandado; y llegó al atrincheramiento del ejército, el cual había salido en ordenanza, y tocaba alarma para la pelea. 
+@21 Porque así los Israelitas como los Filisteos estaban en ordenanza, escuadrón contra escuadrón. 
+@22 Y David dejó de sobre sí la carga en mano del que guardaba el bagaje, y corrió al escuadrón; y llegado que hubo, preguntaba por sus hermanos, si estaban buenos. 
+@23 Y estando él hablando con ellos, he aquí aquel varón que se ponía en medio de los dos campos, que se llamaba Goliath, el Filisteo de Gath, salió de los escuadrones de los Filisteos, y habló las mismas palabras; las cuales oyó David. 
+@24 Y todos los varones de Israel que veían aquel hombre, huían de su presencia, y tenían gran temor. 
+@25 Y cada uno de los de Israel decía: ¿No habéis visto aquel hombre que ha salido? él se adelanta para provocar á Israel. Al que le venciere, el rey le enriquecerá con grandes riquezas, y le dará su hija, y hará franca la casa de su padre en Israel.
 
-^26^ David habló con los hombres que estaban a su lado, diciendo: “¿Qué se hará con el hombre que mate a este filisteo y quite el oprobio a Israel? Porque ¿quién es este filisteo incircunciso, para que desafíe a los ejércitos del Dios vivo?”
+@26 Entonces habló David á los que junto á él estaban, diciendo: ¿Qué harán al hombre que venciere á este Filisteo, y quitare el oprobio de Israel? Porque ¿quién es este Filisteo incircunciso, para que provoque á los escuadrones del Dios viviente?
 
-^27^ La gente le respondió así: “Así se hará con el que lo mate”.
+@27 Y el pueblo le respondió las mismas palabras, diciendo: Así se hará al hombre que lo venciere.
 
-^28^ Eliab, su hermano mayor, oyó cuando hablaba con los hombres; y la ira de Eliab ardió contra David, y dijo: “¿Por qué has bajado? ¿Con quién has dejado esas pocas ovejas en el desierto? Conozco tu orgullo y la maldad de tu corazón; porque has descendido para ver la batalla”.
+@28 Y oyéndole hablar Eliab su hermano mayor con aquellos hombres, Eliab se encendió en ira contra David, y dijo: ¿Para qué has descendido acá? ¿y á quién has dejado aquellas pocas ovejas en el desierto? Yo conozco tu soberbia y la malicia de tu corazón, que para ver la batalla has venido.
 
-^29^ David dijo: “¿Qué he hecho ahora? ¿No hay una causa?” ^30^ Se apartó de él hacia otro, y volvió a hablar así; y el pueblo volvió a responderle de la misma manera.
+@29 Y David respondió: ¿Qué he hecho yo ahora? Estas, ¿no son palabras? 
+@30 Y apartándose de él hacia otros, habló lo mismo; y respondiéronle los del pueblo como primero.
 
 ## David se ofrece a duelo, pero rechaza la armadura de Saúl y solo usa su honda como arma
-^31^ Al oír las palabras que David había dicho, las repitieron ante Saúl, y éste mandó a buscarlo. ^32^ David dijo a Saúl: “Que no desfallezca el corazón de nadie a causa de él. Tu siervo irá a pelear con este filisteo”.
+@31 Y fueron oídas las palabras que David había dicho, las cuales como refiriesen delante de Saúl, él lo hizo venir. 
+@32 Y dijo David á Saúl: No desmaye ninguno á causa de él; tu siervo irá y peleará con este Filisteo.
 
-^33^ Saúl dijo a David: “No eres capaz de ir contra ese filisteo para luchar con él, pues tú eres sólo un joven, y él un hombre de guerra desde su juventud.”
+@33 Y dijo Saúl á David: No podrás tú ir contra aquel Filisteo, para pelear con él; porque tú eres mozo, y él un hombre de guerra desde su juventud.
 
-^34^ David dijo a Saúl: “Tu siervo estaba cuidando las ovejas de su padre; y cuando vino un león o un oso y se llevó un cordero del rebaño, ^35^ salí tras él, lo golpeé y lo rescaté de su boca. Cuando se levantó contra mí, lo agarré por la barba, lo golpeé y lo maté. ^36^ Tu siervo golpeó al león y al oso. Este filisteo incircunciso será como uno de ellos, pues ha desafiado a los ejércitos del Dios vivo.” ^37^ David dijo: “El Señor, que me libró de la zarpa del león y de la zarpa del oso, me librará de la mano de este filisteo.” Saúl le dijo a David: “Ve, Yahvé estará contigo”.
+@34 Y David respondió á Saúl: Tu siervo era pastor en las ovejas de su padre, y venía un león, ó un oso, y tomaba algún cordero de la manada, 
+@35 Y salía yo tras él, y heríalo, y librábale de su boca: y si se levantaba contra mí, yo le echaba mano de la quijada, y lo hería y mataba. 
+@36 Fuese león, fuese oso, tu siervo lo mataba; pues este Filisteo incircunciso será como uno de ellos, porque ha provocado al ejército del Dios viviente. 
+@37 Y añadió David: Jehová que me ha librado de las garras del león y de las garras del oso, él también me librará de la mano de este Filisteo. Y dijo Saúl á David: Ve, y Jehová sea contigo.
 
-^38^ Saúl vistió a David con sus ropas. Le puso un casco de bronce en la cabeza y lo vistió con una cota de malla. ^39^ David se ató la espada a la ropa y trató de moverse, pues no la había probado. David le dijo a Saúl: “No puedo ir con esto, pues no lo he probado”. Entonces David se los quitó.
+@38 Y Saúl vistió á David de sus ropas, y puso sobre su cabeza un almete de acero, y armóle de coraza. 
+@39 Y ciñó David su espada sobre sus vestidos, y probó á andar, porque nunca había probado. Y dijo David á Saúl: Yo no puedo andar con esto, porque nunca lo practiqué. Y echando de sí David aquellas cosas,
 
-^40^ Tomó su bastón en la mano, y escogió para sí cinco piedras lisas del arroyo, y las puso en el zurrón de su bolsa de pastor que tenía. Tenía su honda en la mano, y se acercó al filisteo. ^a^
-^a^[**17:40** 1Cró 11,23]
+@40 Tomó su cayado en su mano, y escogióse cinco piedras lisas del arroyo, y púsolas en el saco pastoril y en el zurrón que traía, y con su honda en su mano vase hacia el Filisteo.
 
 ## La lucha victoriosa de David con Goliat
-^41^ El filisteo caminó y se acercó a David, y el hombre que llevaba el escudo iba delante de él. ^42^ Cuando el filisteo miró a su alrededor y vio a David, lo menospreció, pues era un joven rubio y de buen aspecto. ^a^ ^43^ El filisteo dijo a David: “¿Soy un perro, para que vengas a mí con palos?” El filisteo maldijo a David por sus dioses. ^44^ El filisteo dijo a David: “Ven a mí, y daré tu carne a las aves del cielo y a los animales del campo”. ^b^
-^a^[**17:42** 1Sam 16,12] ^b^[**17:44** Ezeq 29,5]
+@41 Y el Filisteo venía andando y acercándose á David, y su escudero delante de él. 
+@42 Y como el Filisteo miró y vió á David túvole en poco; porque era mancebo, y rubio, y de hermoso parecer. 
+@43 Y dijo el Filisteo á David: ¿Soy yo perro para que vengas á mí con palos? Y maldijo á David por sus dioses. 
+@44 Dijo luego el Filisteo á David: Ven á mí, y daré tu carne á las aves del cielo, y á las bestias del campo.
 
-^45^ Entonces David dijo al filisteo: “Tú vienes a mí con espada, con lanza y con jabalina; pero yo vengo a ti en nombre del Señor de los Ejércitos, el Dios de los ejércitos de Israel, a quien has desafiado. ^46^ Hoy, Yahvé te entregará en mi mano. Te golpearé y te quitaré la cabeza. Entregaré hoy los cadáveres del ejército de los filisteos a las aves del cielo y a las fieras de la tierra, para que toda la tierra sepa que hay un Dios en Israel, ^47^ y para que toda esta asamblea sepa que Yahvé no salva con espada y lanza; porque la batalla es de Yahvé, y él te entregará en nuestra mano.”
+@45 Entonces dijo David al Filisteo: Tú vienes á mí con espada y lanza y escudo; mas yo vengo á ti en el nombre de Jehová de los ejércitos, el Dios de los escuadrones de Israel, que tú has provocado. 
+@46 Jehová te entregará hoy en mi mano, y yo te venceré, y quitaré tu cabeza de ti: y daré hoy los cuerpos de los Filisteos á las aves del cielo y á las bestias de la tierra: y sabrá la tierra toda que hay Dios en Israel. 
+@47 Y sabrá toda esta congregación que Jehová no salva con espada y lanza; porque de Jehová es la guerra, y él os entregará en nuestras manos.
 
-^48^ Cuando el filisteo se levantó y caminó y se acercó para encontrarse con David, éste se apresuró y corrió hacia el ejército para encontrarse con el filisteo. ^49^ David metió la mano en su bolsa, tomó una piedra y la lanzó, e hirió al filisteo en la frente. La piedra se hundió en su frente, y él cayó de bruces a la tierra. ^50^ Entonces David se impuso al filisteo con la honda y con la piedra, e hirió al filisteo y lo mató; pero David no tenía espada en la mano. ^51^ Entonces David corrió, se paró sobre el filisteo, tomó su espada, la sacó de su vaina, lo mató y le cortó la cabeza con ella. Cuando los filisteos vieron que su campeón había muerto, huyeron. ^52^ Los hombres de Israel y de Judá se levantaron y gritaron, y persiguieron a los filisteos hasta Gai y hasta las puertas de Ecrón. Los heridos de los filisteos cayeron por el camino de Shaaraim, hasta Gat y Ecrón. ^53^ Los hijos de Israel volvieron de perseguir a los filisteos, y saquearon su campamento. ^54^ David tomó la cabeza del filisteo y la llevó a Jerusalén, pero puso su armadura en su tienda.
+@48 Y aconteció que, como el Filisteo se levantó para ir y llegarse contra David, David se dió priesa, y corrió al combate contra el Filisteo. 
+@49 Y metiendo David su mano en el saco, tomó de allí una piedra, y tirósela con la honda, é hirió al Filisteo en la frente: y la piedra quedó hincada en la frente, y cayó en tierra sobre su rostro. 
+@50 Así venció David al Filisteo con honda y piedra; é hirió al Filisteo y matólo, sin tener David espada en su mano. 
+@51 Mas corrió David y púsose sobre el Filisteo, y tomando la espada de él, sacándola de su vaina, matólo, y cortóle con ella la cabeza. Y como los Filisteos vieron su gigante muerto, huyeron.
+
+@52 Y levantándose los de Israel y de Judá, dieron grita, y siguieron á los Filisteos hasta llegar al valle, y hasta las puertas de Ecrón. Y cayeron heridos de los Filisteos por el camino de Saraim, hasta Gath y Ecrón. 
+@53 Tornando luego los hijos de Israel de seguir los Filisteos, despojaron su campamento. 
+@54 Y David tomó la cabeza del Filisteo, y trájola á Jerusalem, mas puso sus armas en su tienda.
 
 ## Saúl pregunta por David
-^55^ Cuando Saúl vio que David salía contra el filisteo, le dijo a Abner, el capitán del ejército: “Abner, ¿de quién es hijo este joven?” Abner dijo: “Como vive tu alma, oh rey, no puedo saberlo”. ^a^
-^a^[**17:55** 1Sam 14,50]
+@55 Y cuando Saúl vió á David que salía á encontrarse con el Filisteo, dijo á Abner general del ejército: Abner, ¿de quién es hijo aquel mancebo? Y Abner respondió:
 
-^56^ El rey dijo: “¡Investiga de quién es hijo el joven!”
+@56 Vive tu alma, oh rey, que no lo sé. Y el rey dijo: Pregunta pues de quién es hijo aquel mancebo.
 
-^57^ Cuando David regresó de la matanza del filisteo, Abner lo tomó y lo llevó ante Saúl con la cabeza del filisteo en la mano. ^58^ Saúl le dijo: “¿De quién eres hijo, joven?” David respondió: “Soy hijo de tu siervo Jesé, el de Belén”.
+@57 Y cuando David volvía de matar al Filisteo, Abner lo tomó, y llevólo delante de Saúl, teniendo la cabeza del Filisteo en su mano. 
+@58 Y díjole Saúl: Mancebo, ¿de quién eres hijo? Y David respondió: Yo soy hijo de tu siervo Isaí de Beth-lehem. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 17
-^1^ Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah in Ephesdammim. ^2^ Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines. ^3^ The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them. ^4^ A champion out of the camp of the Philistines named Goliath of Gath, whose height was six cubits and a span^a^ went out. ^5^ He had a helmet of bronze on his head, and he wore a coat of mail; and the weight of the coat was five thousand shekels^b^ of bronze. ^6^ He had bronze shin armor on his legs and a bronze javelin between his shoulders. ^7^ The staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron.^c^ His shield bearer went before him. ^8^ He stood and cried to the armies of Israel, and said to them, “Why have you come out to set your battle in array? Am I not a Philistine, and you servants to Saul? Choose a man for yourselves, and let him come down to me. ^9^ If he is able to fight with me and kill me, then will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us.” ^10^ The Philistine said, “I defy the armies of Israel today! Give me a man, that we may fight together!” 
+## David and Goliath enemy champion
+@1 Now the Philistines gathered together their armies to battle; and they were gathered together at Socoh, which belongs to Judah, and encamped between Socoh and Azekah in Ephesdammim. 
+@2 Saul and the men of Israel were gathered together, and encamped in the valley of Elah, and set the battle in array against the Philistines. 
+@3 The Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side: and there was a valley between them. 
+@4 A champion out of the camp of the Philistines named Goliath of Gath, whose height was six cubits and a span^a^ went out. 
+@5 He had a helmet of bronze on his head, and he wore a coat of mail; and the weight of the coat was five thousand shekels^b^ of bronze. 
+@6 He had bronze shin armor on his legs and a bronze javelin between his shoulders. 
+@7 The staff of his spear was like a weaver’s beam; and his spear’s head weighed six hundred shekels of iron.^c^ His shield bearer went before him. 
+@8 He stood and cried to the armies of Israel, and said to them, “Why have you come out to set your battle in array? Am I not a Philistine, and you servants to Saul? Choose a man for yourselves, and let him come down to me. 
+@9 If he is able to fight with me and kill me, then will we be your servants; but if I prevail against him and kill him, then you will be our servants and serve us.” 
+@10 The Philistine said, “I defy the armies of Israel today! Give me a man, that we may fight together!” 
 ^a^[**17:4** A cubit is the length from the tip of the middle finger to the elbow on a man’s arm, or about 18 inches or 46 centimeters. A span is the length from the tip of a man’s thumb to the tip of his little finger when his hand is stretched out (about half a cubit, or 9 inches, or 22.8 cm.) Therefore, Goliath was about 9 feet and 9 inches or 2.97 meters tall.] ^b^[**17:5** A shekel is about 10 grams or about 0.35 ounces, so 5000 shekels is about 50 kilograms or 110 pounds.] ^c^[**17:7** A shekel is about 10 grams or about 0.35 ounces, so 600 shekels is about 6 kilograms or about 13 pounds.]
 
-^11^ When Saul and all Israel heard those words of the Philistine, they were dismayed and greatly afraid. ^12^ Now David was the son of that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The man was an elderly old man in the days of Saul. ^13^ The three oldest sons of Jesse had gone after Saul to the battle; and the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah. ^14^ David was the youngest; and the three oldest followed Saul. ^15^ Now David went back and forth from Saul to feed his father’s sheep at Bethlehem. 
+@11 When Saul and all Israel heard those words of the Philistine, they were dismayed and greatly afraid.
 
-^16^ The Philistine came near morning and evening, and presented himself forty days. 
+## David, sent by his father to his brothers in the camp, is outraged by Goliath's arrogance and feels called to fight him
+@12 Now David was the son of that Ephrathite of Bethlehem Judah, whose name was Jesse; and he had eight sons. The man was an elderly old man in the days of Saul. 
+@13 The three oldest sons of Jesse had gone after Saul to the battle; and the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah. 
+@14 David was the youngest; and the three oldest followed Saul. 
+@15 Now David went back and forth from Saul to feed his father’s sheep at Bethlehem. 
 
-^17^ Jesse said to David his son, “Now take for your brothers an ephah^a^ of this parched grain and these ten loaves, and carry them quickly to the camp to your brothers; ^18^ and bring these ten cheeses to the captain of their thousand; and see how your brothers are doing, and bring back news.” ^19^ Now Saul, and they, and all the men of Israel were in the valley of Elah, fighting with the Philistines. 
+@16 The Philistine came near morning and evening, and presented himself forty days. 
+
+@17 Jesse said to David his son, “Now take for your brothers an ephah^a^ of this parched grain and these ten loaves, and carry them quickly to the camp to your brothers; 
+@18 and bring these ten cheeses to the captain of their thousand; and see how your brothers are doing, and bring back news.” 
+@19 Now Saul, and they, and all the men of Israel were in the valley of Elah, fighting with the Philistines. 
 ^a^[**17:17** 1 ephah is about 22 liters or about 2/3 of a bushel]
 
-^20^ David rose up early in the morning and left the sheep with a keeper, and took the provisions and went, as Jesse had commanded him. He came to the place of the wagons as the army which was going out to the fight shouted for the battle. ^21^ Israel and the Philistines put the battle in array, army against army. ^22^ David left his baggage in the hand of the keeper of the baggage and ran to the army, and came and greeted his brothers. ^23^ As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines, and said the same words; and David heard them. ^24^ All the men of Israel, when they saw the man, fled from him and were terrified. ^25^ The men of Israel said, “Have you seen this man who has come up? He has surely come up to defy Israel. The king will give great riches to the man who kills him, and will give him his daughter, and will make his father’s house tax-free in Israel.” 
+@20 David rose up early in the morning and left the sheep with a keeper, and took the provisions and went, as Jesse had commanded him. He came to the place of the wagons as the army which was going out to the fight shouted for the battle. 
+@21 Israel and the Philistines put the battle in array, army against army. 
+@22 David left his baggage in the hand of the keeper of the baggage and ran to the army, and came and greeted his brothers. 
+@23 As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines, and said the same words; and David heard them. 
+@24 All the men of Israel, when they saw the man, fled from him and were terrified. 
+@25 The men of Israel said, “Have you seen this man who has come up? He has surely come up to defy Israel. The king will give great riches to the man who kills him, and will give him his daughter, and will make his father’s house tax-free in Israel.” 
 
-^26^ David spoke to the men who stood by him, saying, “What shall be done to the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?” 
+@26 David spoke to the men who stood by him, saying, “What shall be done to the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?” 
 
-^27^ The people answered him in this way, saying, “So shall it be done to the man who kills him.” 
+@27 The people answered him in this way, saying, “So shall it be done to the man who kills him.” 
 
-^28^ Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger burned against David, and he said, “Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride and the evil of your heart; for you have come down that you might see the battle.” 
+@28 Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger burned against David, and he said, “Why have you come down? With whom have you left those few sheep in the wilderness? I know your pride and the evil of your heart; for you have come down that you might see the battle.” 
 
-^29^ David said, “What have I now done? Is there not a cause?” ^30^ He turned away from him toward another, and spoke like that again; and the people answered him again the same way. ^31^ When the words were heard which David spoke, they rehearsed them before Saul; and he sent for him. ^32^ David said to Saul, “Let no man’s heart fail because of him. Your servant will go and fight with this Philistine.” 
+@29 David said, “What have I now done? Is there not a cause?” 
+@30 He turned away from him toward another, and spoke like that again; and the people answered him again the same way.
 
-^33^ Saul said to David, “You are not able to go against this Philistine to fight with him; for you are but a youth, and he a man of war from his youth.” 
+## David offers to duel, but rejects Saul's armor, using only his sling as a weapon
+@31 When the words were heard which David spoke, they rehearsed them before Saul; and he sent for him. 
+@32 David said to Saul, “Let no man’s heart fail because of him. Your servant will go and fight with this Philistine.” 
 
-^34^ David said to Saul, “Your servant was keeping his father’s sheep; and when a lion or a bear came and took a lamb out of the flock, ^35^ I went out after him, struck him, and rescued it out of his mouth. When he arose against me, I caught him by his beard, struck him, and killed him. ^36^ Your servant struck both the lion and the bear. This uncircumcised Philistine shall be as one of them, since he has defied the armies of the living God.” ^37^ David said, “Yahweh, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.” 
+@33 Saul said to David, “You are not able to go against this Philistine to fight with him; for you are but a youth, and he a man of war from his youth.” 
+
+@34 David said to Saul, “Your servant was keeping his father’s sheep; and when a lion or a bear came and took a lamb out of the flock, 
+@35 I went out after him, struck him, and rescued it out of his mouth. When he arose against me, I caught him by his beard, struck him, and killed him. 
+@36 Your servant struck both the lion and the bear. This uncircumcised Philistine shall be as one of them, since he has defied the armies of the living God.” 
+@37 David said, “Yahweh, who delivered me out of the paw of the lion and out of the paw of the bear, will deliver me out of the hand of this Philistine.” 
 
 Saul said to David, “Go! Yahweh will be with you.” 
 
-^38^ Saul dressed David with his clothing. He put a helmet of bronze on his head, and he clad him with a coat of mail. ^39^ David strapped his sword on his clothing and he tried to move, for he had not tested it. David said to Saul, “I can’t go with these, for I have not tested them.” Then David took them off. 
+@38 Saul dressed David with his clothing. He put a helmet of bronze on his head, and he clad him with a coat of mail. 
+@39 David strapped his sword on his clothing and he tried to move, for he had not tested it. David said to Saul, “I can’t go with these, for I have not tested them.” Then David took them off. 
 
-^40^ He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd’s bag which he had. His sling was in his hand; and he came near to the Philistine. ^41^ The Philistine walked and came near to David; and the man who bore the shield went before him. ^42^ When the Philistine looked around and saw David, he disdained him; for he was but a youth, and ruddy, and had a good looking face. ^43^ The Philistine said to David, “Am I a dog, that you come to me with sticks?” The Philistine cursed David by his gods. ^44^ The Philistine said to David, “Come to me, and I will give your flesh to the birds of the sky and to the animals of the field.” 
+@40 He took his staff in his hand, and chose for himself five smooth stones out of the brook, and put them in the pouch of his shepherd’s bag which he had. His sling was in his hand; and he came near to the Philistine.
 
-^45^ Then David said to the Philistine, “You come to me with a sword, with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied. ^46^ Today, Yahweh will deliver you into my hand. I will strike you and take your head from off you. I will give the dead bodies of the army of the Philistines today to the birds of the sky and to the wild animals of the earth, that all the earth may know that there is a God in Israel, ^47^ and that all this assembly may know that Yahweh doesn’t save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.” 
+## David's victorious fight with Goliath
+@41 The Philistine walked and came near to David; and the man who bore the shield went before him. 
+@42 When the Philistine looked around and saw David, he disdained him; for he was but a youth, and ruddy, and had a good looking face. 
+@43 The Philistine said to David, “Am I a dog, that you come to me with sticks?” The Philistine cursed David by his gods. 
+@44 The Philistine said to David, “Come to me, and I will give your flesh to the birds of the sky and to the animals of the field.” 
 
-^48^ When the Philistine arose, and walked and came near to meet David, David hurried and ran toward the army to meet the Philistine. ^49^ David put his hand in his bag, took a stone and slung it, and struck the Philistine in his forehead. The stone sank into his forehead, and he fell on his face to the earth. ^50^ So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him; but there was no sword in David’s hand. ^51^ Then David ran, stood over the Philistine, took his sword, drew it out of its sheath, killed him, and cut off his head with it. 
+@45 Then David said to the Philistine, “You come to me with a sword, with a spear, and with a javelin; but I come to you in the name of Yahweh of Armies, the God of the armies of Israel, whom you have defied. 
+@46 Today, Yahweh will deliver you into my hand. I will strike you and take your head from off you. I will give the dead bodies of the army of the Philistines today to the birds of the sky and to the wild animals of the earth, that all the earth may know that there is a God in Israel, 
+@47 and that all this assembly may know that Yahweh doesn’t save with sword and spear; for the battle is Yahweh’s, and he will give you into our hand.” 
 
-When the Philistines saw that their champion was dead, they fled. ^52^ The men of Israel and of Judah arose and shouted, and pursued the Philistines as far as Gai and to the gates of Ekron. The wounded of the Philistines fell down by the way to Shaaraim, even to Gath and to Ekron. ^53^ The children of Israel returned from chasing after the Philistines, and they plundered their camp. ^54^ David took the head of the Philistine and brought it to Jerusalem, but he put his armor in his tent. ^55^ When Saul saw David go out against the Philistine, he said to Abner, the captain of the army, “Abner, whose son is this youth?” 
+@48 When the Philistine arose, and walked and came near to meet David, David hurried and ran toward the army to meet the Philistine. 
+@49 David put his hand in his bag, took a stone and slung it, and struck the Philistine in his forehead. The stone sank into his forehead, and he fell on his face to the earth. 
+@50 So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him; but there was no sword in David’s hand. 
+@51 Then David ran, stood over the Philistine, took his sword, drew it out of its sheath, killed him, and cut off his head with it. 
+
+When the Philistines saw that their champion was dead, they fled. 
+@52 The men of Israel and of Judah arose and shouted, and pursued the Philistines as far as Gai and to the gates of Ekron. The wounded of the Philistines fell down by the way to Shaaraim, even to Gath and to Ekron. 
+@53 The children of Israel returned from chasing after the Philistines, and they plundered their camp. 
+@54 David took the head of the Philistine and brought it to Jerusalem, but he put his armor in his tent.
+
+## Saul asks about David
+@55 When Saul saw David go out against the Philistine, he said to Abner, the captain of the army, “Abner, whose son is this youth?” 
 
 Abner said, “As your soul lives, O king, I can’t tell.” 
 
-^56^ The king said, “Inquire whose son the young man is!” 
+@56 The king said, “Inquire whose son the young man is!” 
 
-^57^ As David returned from the slaughter of the Philistine, Abner took him and brought him before Saul with the head of the Philistine in his hand. ^58^ Saul said to him, “Whose son are you, you young man?” 
+@57 As David returned from the slaughter of the Philistine, Abner took him and brought him before Saul with the head of the Philistine in his hand. 
+@58 Saul said to him, “Whose son are you, you young man?” 
 
 David answered, “I am the son of your servant Jesse the Bethlehemite.” 
 
@@ -1073,607 +1660,904 @@ David answered, “I am the son of your servant Jesse the Bethlehemite.”
 
 # 18
 ## David llega a la corte de Saúl; su relación con Saúl y Jonatán
-^1^ Cuando terminó de hablar con Saúl, el alma de Jonatán se unió al alma de David, y Jonatán lo amó como a su propia alma. ^2^ Ese día Saúl lo apresó y no lo dejó volver a la casa de su padre. ^a^ ^3^ Entonces Jonatán y David hicieron un pacto, porque él lo amaba como a su propia alma. ^b^ ^4^ Jonatán se despojó de la túnica que llevaba puesta y se la dio a David con sus ropas, incluyendo su espada, su arco y su faja.
-^a^[**18:2** 1Sam 16,22; 1Sam 17,15] ^b^[**18:3** 1Sam 19,1; 1Sam 20,17; 1Sam 23,18; 2Sam 1,26; 2Sam 21,7]
+@1 Y así que él hubo acabado de hablar con Saúl, el alma de Jonathán fué ligada con la de David, y amólo Jonathán como á su alma. 
+@2 Y Saúl le tomó aquel día, y no le dejó volver á casa de su padre. 
+@3 E hicieron alianza Jonathán y David, porque él le amaba como á su alma. 
+@4 Y Jonathán se desnudó la ropa que tenía sobre sí, y dióla á David, y otras ropas suyas, hasta su espada, y su arco, y su talabarte.
 
-^5^ David salía a dondequiera que Saúl lo enviaba, y se comportaba con sabiduría; y Saúl lo puso al frente de los hombres de guerra. Fue bueno a los ojos de todo el pueblo, y también a los ojos de los servidores de Saúl. ^a^
-^a^[**18:5** 1Sam 18,14]
+@5 Y salía David á donde quiera que Saúl le enviaba, y portábase prudentemente. Hízolo por tanto Saúl capitán de gente de guerra, y era acepto en los ojos de todo el pueblo, y en los ojos de los criados de Saúl.
 
 ## Regreso festivo de los guerreros; David fue celebrado como el vencedor por la gente
-^6^ Cuando David regresó de la matanza del filisteo, las mujeres salieron de todas las ciudades de Israel, cantando y bailando, a recibir al rey Saúl con panderetas, con alegría y con instrumentos de música. ^a^ ^7^ Las mujeres cantaban entre sí mientras tocaban, y decían“Saúl ha matado a sus miles, y David sus diez mil”. ^b^
-^a^[**18:6** Jue 11,34] ^b^[**18:7** 1Sam 21,11; 1Sam 29,5]
+@6 Y aconteció que como volvían ellos, cuando David tornó de matar al Filisteo, salieron las mujeres de todas las ciudades de Israel cantando, y con danzas, con tamboriles, y con alegrías y sonajas, á recibir al rey Saúl. 
+@7 Y cantaban las mujeres que danzaba, y decían: Saúl hirió sus miles, y David sus diez miles.
 
-^8^ Saúl se enojó mucho, y este dicho le desagradó. Dijo: “A David le han acreditado diez mil, y a mí sólo me han acreditado mil. ¿Qué más puede tener él sino el reino?”. ^9^ Saúl vigiló a David desde ese día en adelante.
+@8 Y enojóse Saúl en gran manera, y desagradó esta palabra en sus ojos, y dijo: A David dieron diez miles, y á mí miles; no le falta más que el reino. 
+@9 Y desde aquel día Saúl miró de través á David.
 
 ## David, odiado mortalmente por Saúl, demuestra ser un héroe de guerra
-^10^ Al día siguiente, un espíritu maligno de Dios se apoderó poderosamente de Saúl, y profetizó en medio de la casa. David jugaba con su mano, como lo hacía cada día. Saúl tenía su lanza en la mano; ^a^ ^11^ y Saúl arrojó la lanza, pues dijo: “¡Clavaré a David contra la pared!” David escapó de su presencia dos veces. ^b^ ^12^ Saúl tenía miedo de David, porque Yahvé estaba con él y se había alejado de Saúl. ^13^ Por eso Saúl lo apartó de su presencia y lo puso como jefe de mil, y salió y entró delante del pueblo.
-^a^[**18:10** 1Sam 16,14] ^b^[**18:11** 1Sam 19,10; 1Sam 20,33]
+@10 Otro día aconteció que el espíritu malo de parte de Dios tomó á Saúl, y mostrábase en su casa con trasportes de profeta: y David tañía con su mano como los otros días; y estaba una lanza á mano de Saúl. 
+@11 Y arrojó Saúl la lanza, diciendo: Enclavaré á David en la pared. Y dos veces se apartó de él David. 
+@12 Mas Saúl se temía de David, por cuanto Jehová era con él, y se había apartado de Saúl. 
+@13 Apartólo pues Saúl de sí, é hízole capitán de mil; y salía y entraba delante del pueblo.
 
-^14^ David se comportó sabiamente en todos sus caminos, y el Señor estaba con él. ^a^ ^15^ Cuando Saúl vio que se comportaba con mucha sabiduría, le tuvo miedo. ^16^ Pero todo Israel y Judá amaban a David, porque salía y entraba delante de ellos.
-^a^[**18:14** 1Sam 18,5]
+@14 Y David se conducía prudentemente en todos sus negocios, y Jehová era con él. 
+@15 Y viendo Saúl que se portaba tan prudentemente, temíase de él. 
+@16 Mas todo Israel y Judá amaba á David, porque él salía y entraba delante de ellos.
 
 ## David, engañado para casarse con la hija mayor de Saúl, se casó con su hermana menor, Michal
-^17^ Saúl dijo a David: “He aquí mi hija mayor Merab. Te la daré como esposa. Sólo sé valiente para mí y lucha en las batallas de Yahvé”. Porque Saúl dijo: “No dejes que mi mano esté sobre él, sino que la mano de los filisteos esté sobre él”.
+@17 Y dijo Saúl á David: He aquí yo te daré á Merab mi hija mayor por mujer: solamente que me seas hombre valiente, y hagas las guerras de Jehová. Mas Saúl decía: No será mi mano contra él, mas la mano de los Filisteos será contra él.
 
-^18^ David dijo a Saúl: “¿Quién soy yo, y qué es mi vida, o la familia de mi padre en Israel, para que sea yerno del rey?”
+@18 Y David respondió á Saúl: ¿Quién soy yo, ó qué es mi vida, ó la familia de mi padre en Israel, para ser yerno del rey?
 
-^19^ Pero en el momento en que Merab, la hija de Saúl, debía ser entregada a David, fue dada como esposa a Adriel el meholatí. ^a^
-^a^[**18:19** Jue 15,2]
+@19 Y venido el tiempo en que Merab, hija de Saúl, se había de dar á David, fué dada por mujer á Adriel Meholatita.
 
 ## El servicio militar de David para la novia
-^20^ Mical, hija de Saúl, amaba a David; se lo contaron a Saúl, y el asunto le agradó. ^21^ Saúl dijo: “Se la entregaré para que le sirva de lazo y para que la mano de los filisteos esté contra él”. Por eso Saúl dijo a David por segunda vez: “Hoy serás mi yerno”.
+@20 Mas Michâl la otra hija de Saúl amaba á David; y fué dicho á Saúl, lo cual plugo en sus ojos. 
+@21 Y Saúl dijo: Yo se la daré, para que le sea por lazo, y para que la mano de los Filisteos sea contra él. Dijo pues Saúl á David: Con la otra serás mi yerno hoy.
 
-^22^ Saúl ordenó a sus siervos: “Hablen con David en secreto y díganle: ‘He aquí que el rey se complace en ti, y todos sus siervos te aman. Ahora, pues, sé el yerno del rey’”. ^a^
-^a^[**18:22** 1Sam 22,14]
+@22 Y mandó Saúl á sus criados: Hablad en secreto á David, diciéndole: He aquí, el rey te ama, y todos sus criados te quieren bien; sé pues yerno del rey.
 
-^23^ Los siervos de Saúl dijeron esas palabras a los oídos de David. David dijo: “¿Os parece poca cosa ser yerno del rey, ya que soy un hombre pobre y poco conocido?”.
+@23 Y los criados de Saúl hablaron estas palabras á los oídos de David. Y David dijo: ¿Paréceos á vosotros que es poco ser yerno del rey, siendo yo un hombre pobre y de ninguna estima?
 
-^24^ Los sirvientes de Saúl le dijeron: “David habló así”.
+@24 Y los criados de Saúl le dieron la respuesta diciendo: Tales palabras ha dicho David.
 
-^25^ Saúl dijo: “Dile a David que el rey no desea otra dote que cien prepucios de los filisteos, para vengarse de los enemigos del rey”. Entonces Saúl pensó que haría caer a David por mano de los filisteos. ^26^ Cuando sus siervos le dijeron a David estas palabras, le pareció bien ser el yerno del rey. Antes del plazo, ^27^ David se levantó y fue, él y sus hombres, y mató a doscientos hombres de los filisteos. Entonces David trajo sus prepucios, y se los dieron en número completo al rey, para que fuera yerno del rey. Entonces Saúl le dio a su hija Mical como esposa. ^28^ Saúl vio y supo que el Señor estaba con David, y Mical, la hija de Saúl, lo amaba. ^29^ Saúl tenía aún más miedo de David, y Saúl era continuamente enemigo de David. ^a^
-^a^[**18:29** 1Sam 18,12]
+@25 Y Saúl dijo: Decid así á David: No está el contentamiento del rey en el dote, sino en cien prepucios de Filisteos, para que sea tomada venganza de los enemigos del rey. Mas Saúl pensaba echar á David en manos de los Filisteos. 
+@26 Y como sus criados declararon á David estas palabras, plugo la cosa en los ojos de David, para ser yerno del rey. Y como el plazo no era aún cumplido, 
+@27 Levantóse David, y partióse con su gente, é hirió doscientos hombres de los Filisteos; y trajo David los prepucios de ellos, y entregáronlos todos al rey, para que él fuese hecho yerno del rey. Y Saúl le dió á su hija Michâl por mujer. 
+@28 Pero Saúl, viendo y considerando que Jehová era con David, y que su hija Michâl lo amaba, 
+@29 Temióse más de David; y fué Saúl enemigo de David todos los días.
 
-^30^ Entonces salieron los príncipes de los filisteos; y cada vez que salían, David se comportaba con más sabiduría que todos los siervos de Saúl, de modo que su nombre era muy estimado.
+@30 Y salían los príncipes de los Filisteos; y como ellos salían, portábase David más prudentemente que todos los siervos de Saúl: y era su nombre muy ilustre. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 18
-^1^ When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. ^2^ Saul took him that day, and wouldn’t let him go home to his father’s house any more. ^3^ Then Jonathan and David made a covenant, because he loved him as his own soul. ^4^ Jonathan stripped himself of the robe that was on him and gave it to David with his clothing, even including his sword, his bow, and his sash. 
+## David arrives at Saul's court; his relationship with Saul and Jonathan
+@1 When he had finished speaking to Saul, the soul of Jonathan was knit with the soul of David, and Jonathan loved him as his own soul. 
+@2 Saul took him that day, and wouldn’t let him go home to his father’s house any more. 
+@3 Then Jonathan and David made a covenant, because he loved him as his own soul. 
+@4 Jonathan stripped himself of the robe that was on him and gave it to David with his clothing, even including his sword, his bow, and his sash. 
 
-^5^ David went out wherever Saul sent him, and behaved himself wisely; and Saul set him over the men of war. It was good in the sight of all the people, and also in the sight of Saul’s servants. 
+@5 David went out wherever Saul sent him, and behaved himself wisely; and Saul set him over the men of war. It was good in the sight of all the people, and also in the sight of Saul’s servants.
 
-^6^ As they came, when David returned from the slaughter of the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul with tambourines, with joy, and with instruments of music. ^7^ The women sang to one another as they played, and said, “Saul has slain his thousands, and David his ten thousands.” 
+## Festive return of the warriors; David was celebrated as the victor by the people
+@6 As they came, when David returned from the slaughter of the Philistine, the women came out of all the cities of Israel, singing and dancing, to meet King Saul with tambourines, with joy, and with instruments of music. 
+@7 The women sang to one another as they played, and said, “Saul has slain his thousands, and David his ten thousands.” 
 
-^8^ Saul was very angry, and this saying displeased him. He said, “They have credited David with ten thousands, and they have only credited me with thousands. What can he have more but the kingdom?” ^9^ Saul watched David from that day and forward. ^10^ On the next day, an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house. David played with his hand, as he did day by day. Saul had his spear in his hand; ^11^ and Saul threw the spear, for he said, “I will pin David to the wall!” David escaped from his presence twice. ^12^ Saul was afraid of David, because Yahweh was with him, and had departed from Saul. ^13^ Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. 
+@8 Saul was very angry, and this saying displeased him. He said, “They have credited David with ten thousands, and they have only credited me with thousands. What can he have more but the kingdom?” 
+@9 Saul watched David from that day and forward.
 
-^14^ David behaved himself wisely in all his ways; and Yahweh was with him. ^15^ When Saul saw that he behaved himself very wisely, he stood in awe of him. ^16^ But all Israel and Judah loved David; for he went out and came in before them. ^17^ Saul said to David, “Behold, my elder daughter Merab. I will give her to you as wife. Only be valiant for me, and fight Yahweh’s battles.” For Saul said, “Don’t let my hand be on him, but let the hand of the Philistines be on him.” 
+## David, mortally hated by Saul, proves to be a war hero
+@10 On the next day, an evil spirit from God came mightily on Saul, and he prophesied in the middle of the house. David played with his hand, as he did day by day. Saul had his spear in his hand; 
+@11 and Saul threw the spear, for he said, “I will pin David to the wall!” David escaped from his presence twice. 
+@12 Saul was afraid of David, because Yahweh was with him, and had departed from Saul. 
+@13 Therefore Saul removed him from his presence, and made him his captain over a thousand; and he went out and came in before the people. 
 
-^18^ David said to Saul, “Who am I, and what is my life, or my father’s family in Israel, that I should be son-in-law to the king?” 
+@14 David behaved himself wisely in all his ways; and Yahweh was with him. 
+@15 When Saul saw that he behaved himself very wisely, he stood in awe of him. 
+@16 But all Israel and Judah loved David; for he went out and came in before them.
 
-^19^ But at the time when Merab, Saul’s daughter, should have been given to David, she was given to Adriel the Meholathite as wife. 
+## David, tricked into marrying Saul's elder daughter, married her younger sister, Michal
+@17 Saul said to David, “Behold, my elder daughter Merab. I will give her to you as wife. Only be valiant for me, and fight Yahweh’s battles.” For Saul said, “Don’t let my hand be on him, but let the hand of the Philistines be on him.” 
 
-^20^ Michal, Saul’s daughter, loved David; and they told Saul, and the thing pleased him. ^21^ Saul said, I will give her to him, that she may be a snare to him and that the hand of the Philistines may be against him. Therefore Saul said to David a second time, “You shall today be my son-in-law.” 
+@18 David said to Saul, “Who am I, and what is my life, or my father’s family in Israel, that I should be son-in-law to the king?” 
 
-^22^ Saul commanded his servants, “Talk with David secretly, and say, ‘Behold, the king has delight in you, and all his servants love you. Now therefore be the king’s son-in-law.’” 
+@19 But at the time when Merab, Saul’s daughter, should have been given to David, she was given to Adriel the Meholathite as wife.
 
-^23^ Saul’s servants spoke those words in the ears of David. David said, “Does it seem to you a light thing to be the king’s son-in-law, since I am a poor man and little known?” 
+## David's military service for the bride
+@20 Michal, Saul’s daughter, loved David; and they told Saul, and the thing pleased him. 
+@21 Saul said, I will give her to him, that she may be a snare to him and that the hand of the Philistines may be against him. Therefore Saul said to David a second time, “You shall today be my son-in-law.” 
 
-^24^ The servants of Saul told him, saying, “David spoke like this.” 
+@22 Saul commanded his servants, “Talk with David secretly, and say, ‘Behold, the king has delight in you, and all his servants love you. Now therefore be the king’s son-in-law.’” 
 
-^25^ Saul said, “Tell David, ‘The king desires no dowry except one hundred foreskins of the Philistines, to be avenged of the king’s enemies.’” Now Saul thought he would make David fall by the hand of the Philistines. ^26^ When his servants told David these words, it pleased David well to be the king’s son-in-law. Before the deadline, ^27^ David arose and went, he and his men, and killed two hundred men of the Philistines. Then David brought their foreskins, and they gave them in full number to the king, that he might be the king’s son-in-law. Then Saul gave him Michal his daughter as wife. ^28^ Saul saw and knew that Yahweh was with David; and Michal, Saul’s daughter, loved him. ^29^ Saul was even more afraid of David; and Saul was David’s enemy continually. 
+@23 Saul’s servants spoke those words in the ears of David. David said, “Does it seem to you a light thing to be the king’s son-in-law, since I am a poor man and little known?” 
 
-^30^ Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed. 
+@24 The servants of Saul told him, saying, “David spoke like this.” 
+
+@25 Saul said, “Tell David, ‘The king desires no dowry except one hundred foreskins of the Philistines, to be avenged of the king’s enemies.’” Now Saul thought he would make David fall by the hand of the Philistines. 
+@26 When his servants told David these words, it pleased David well to be the king’s son-in-law. Before the deadline, 
+@27 David arose and went, he and his men, and killed two hundred men of the Philistines. Then David brought their foreskins, and they gave them in full number to the king, that he might be the king’s son-in-law. Then Saul gave him Michal his daughter as wife. 
+@28 Saul saw and knew that Yahweh was with David; and Michal, Saul’s daughter, loved him. 
+@29 Saul was even more afraid of David; and Saul was David’s enemy continually. 
+
+@30 Then the princes of the Philistines went out; and as often as they went out, David behaved himself more wisely than all the servants of Saul, so that his name was highly esteemed. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 19
 ## La reconciliación de Saúl con David como resultado de la intercesión de Jonatán; Después de los repetidos asesinatos de Saúl, David huye a Samuel
-^1^ Saúl habló con su hijo Jonatán y con todos sus servidores para que mataran a David. Pero Jonatán, hijo de Saúl, se alegró mucho de David. ^a^ ^2^ Jonatán le dijo a David: “Mi padre Saúl quiere matarte. Ahora, pues, cuídate por la mañana, vive en un lugar secreto y escóndete. ^3^ Yo saldré y me pondré al lado de mi padre en el campo donde estás, y hablaré con mi padre sobre ti; y si veo algo, te lo diré.”
-^a^[**19:1** 1Sam 18,3]
+@1 Y habló Saúl á Jonathán su hijo, y á todos sus criados, para que matasen á David; mas Jonathán hijo de Saúl amaba á David en gran manera. 
+@2 Y dió aviso á David, diciendo: Saúl mi padre procura matarte; por tanto mira ahora por ti hasta la mañana, y estáte en paraje oculto, y escóndete: 
+@3 Y yo saldré y estaré junto á mi padre en el campo donde estuvieres: y hablaré de ti á mi padre, y te haré saber lo que notare.
 
-^4^ Jonatán habló bien de David a Saúl, su padre, y le dijo: “No permitas que el rey peque contra su siervo, contra David, porque él no ha pecado contra ti, y porque sus obras han sido muy buenas para contigo; ^5^ porque él puso su vida en su mano e hirió al filisteo, y Yahvé obró una gran victoria para todo Israel. Tú lo viste y te alegraste. ¿Por qué, pues, pecarás contra la sangre inocente, matando a David sin causa?” ^a^
-^a^[**19:5** 1Sam 17,50]
+@4 Y Jonathán habló bien de David á Saúl su padre, y díjole: No peque el rey contra su siervo David, pues que ninguna cosa ha cometido contra ti: antes sus obras te han sido muy buenas; 
+@5 Porque él puso su alma en su palma, é hirió al Filisteo, y Jehová hizo una gran salud á todo Israel. Tú lo viste, y te holgaste: ¿por qué pues pecarás contra la sangre inocente, matando á David sin causa?
 
-^6^ Saúl escuchó la voz de Jonatán y juró: “Vive Yahvé que no lo matarán”.
+@6 Y oyendo Saúl la voz de Jonathán, juró: Vive Jehová, que no morirá.
 
-^7^ Jonatán llamó a David, y Jonatán le mostró todas esas cosas. Entonces Jonatán llevó a David ante Saúl, y éste estuvo en su presencia como antes.
+@7 Llamando entonces Jonathán á David, declaróle todas estas palabras; y él mismo presentó á David á Saúl, y estuvo delante de él como antes.
 
 ## La nueva fortuna de David en la guerra; El repetido intento de asesinato de Saúl
-^8^ Volvió a haber guerra. David salió y luchó con los filisteos, y los mató con gran mortandad; y ellos huyeron ante él.
+@8 Y tornó á hacerse guerra: y salió David y peleó contra los Filisteos, é hiriólos con grande estrago, y huyeron delante de él.
 
-^9^ Un espíritu maligno de parte de Yahvé estaba sobre Saúl mientras éste estaba sentado en su casa con su lanza en la mano, y David tocaba música con su mano. ^a^ ^10^ Saúl trató de clavar a David en la pared con la lanza, pero éste se escabulló de la presencia de Saúl, y clavó la lanza en la pared. David huyó y escapó esa noche.
-^a^[**19:9** 1Sam 18,10-11]
+@9 Y el espíritu malo de parte de Jehová fué sobre Saúl: y estando sentado en su casa tenía una lanza á mano, mientras David estaba tañendo con su mano. 
+@10 Y Saúl procuró enclavar á David con la lanza en la pared; mas él se apartó de delante de Saúl, el cual hirió con la lanza en la pared; y David huyó, y escapóse aquella noche.
 
 ## El escape de David a su hogar y su salvación a través de la astucia de Michal
-^11^ Saúl envió mensajeros a la casa de David para vigilarlo y matarlo por la mañana. Mical, la esposa de David, le dijo: “Si no salvas tu vida esta noche, mañana te matarán”. ^a^ ^12^ Entonces Mical hizo bajar a David por la ventana. Él se alejó, huyó y escapó. ^13^ Mical tomó el terafín^b^ y lo puso en la cama, y le puso una almohada de pelo de cabra en la cabeza y lo cubrió con ropa. ^14^ Cuando Saúl envió mensajeros para llevarse a David, ella dijo: “Está enfermo”.
-^a^[**19:11** Sal 59,1] ^b^[**19:13** Los terafines eran ídolos domésticos que podían estar asociados a los derechos de herencia de los bienes del hogar.]
+@11 Saúl envió luego mensajeros á casa de David para que lo guardasen, y lo matasen á la mañana. Mas Michâl su mujer lo descubrió á David, diciendo: Si no salvares tu vida esta noche, mañana serás muerto. 
+@12 Y descolgó Michâl á David por una ventana; y él se fué, y huyó, y escapóse. 
+@13 Tomó luego Michâl una estatua, y púsola sobre la cama, y acomodóle por cabecera una almohada de pelos de cabra, y cubrióla con una ropa. 
+@14 Y cuando Saúl envió mensajeros que tomasen á David, ella respondió: Está enfermo.
 
-^15^ Saúl envió a los mensajeros a ver a David, diciendo: “Tráiganlo a la cama, para que lo mate”. ^16^ Cuando los mensajeros entraron, he aquí que el terafín estaba en la cama, con la almohada de pelo de cabra a la cabeza.
+@15 Y tornó Saúl á enviar mensajeros para que viesen á David, diciendo: Traédmelo en la cama para que lo mate. 
+@16 Y como los mensajeros entraron, he aquí la estatua estaba en la cama, y una almohada de pelos de cabra por cabecera.
 
-^17^ Saúl dijo a Mical: “¿Por qué me has engañado así y has dejado ir a mi enemigo, de modo que ha escapado?” Mical respondió a Saúl: “Me dijo: ‘¡Déjame ir! ¿Por qué he de matarte?”
+@17 Entonces Saúl dijo á Michâl: ¿Por qué me has así engañado, y has dejado escapar á mi enemigo? Y Michâl respondió á Saúl: Porque él me dijo: Déjame ir; si no, yo te mataré.
 
 ## David con Samuel en Rama; El rapto profético de Saúl en la casa profética allí
-^18^ David huyó y escapó, y vino a Samuel en Ramá, y le contó todo lo que Saúl le había hecho. Él y Samuel se fueron a vivir a Naiot. ^19^ Le avisaron a Saúl diciendo: “He aquí que David está en Naiot, en Ramá”.
+@18 Huyó pues David, y escapóse, y vino á Samuel en Rama, y díjole todo lo que Saúl había hecho con él. Y fuéronse él y Samuel, y moraron en Najoth. 
+@19 Y fué dado aviso á Saúl, diciendo: He aquí que David está en Najoth en Rama.
 
-^20^ Saúl envió mensajeros para apresar a David; y cuando vieron a la compañía de los profetas profetizando, y a Samuel de pie como jefe sobre ellos, el Espíritu de Dios vino sobre los mensajeros de Saúl, y ellos también profetizaron. ^a^ ^21^ Cuando se le informó a Saúl, envió otros mensajeros, y ellos también profetizaron. Saúl volvió a enviar mensajeros la tercera vez, y también profetizaron. ^22^ También fue a Ramá y llegó al gran pozo que está en Secu, y preguntó: “¿Dónde están Samuel y David?” Uno dijo: “He aquí que están en Naioth, en Ramá”.
-^a^[**19:20** 1Sam 10,10-12]
+@20 Y envió Saúl mensajeros que trajesen á David, los cuales vieron una compañía de profetas que profetizaban, y á Samuel que estaba allí, y los presidía. Y fué el espíritu de Dios sobre los mensajeros de Saúl, y ellos también profetizaron. 
+@21 Y hecho que fué saber á Saúl, él envió otros mensajeros, los cuales también profetizaron. Y Saúl volvió á enviar por tercera vez mensajeros, y ellos también profetizaron. 
+@22 Entonces él mismo vino á Rama; y llegando al pozo grande que está en Sochô, preguntó diciendo: ¿Dónde están Samuel y David? Y fuéle respondido: He aquí están en Najoth en Rama.
 
-^23^ Allí fue a Naiot en Ramá. Entonces el Espíritu de Dios vino también sobre él, y siguió profetizando hasta llegar a Naiot en Ramá. ^24^ También se despojó de sus ropas. También profetizó ante Samuel y se acostó desnudo todo aquel día y toda aquella noche. Por eso dicen: “¿También Saúl está entre los profetas?”
+@23 Y fué allá á Najoth en Rama; y también vino sobre él el espíritu de Dios, é iba profetizando, hasta que llegó á Najoth en Rama. 
+@24 Y él también se desnudó sus vestidos, y profetizó igualmente delante de Samuel, y cayó desnudo todo aquel día y toda aquella noche. De aquí se dijo: ¿También Saúl entre los profetas? 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 19
-^1^ Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David. ^2^ Jonathan told David, saying, “Saul my father seeks to kill you. Now therefore, please take care of yourself in the morning, live in a secret place, and hide yourself. ^3^ I will go out and stand beside my father in the field where you are, and I will talk with my father about you; and if I see anything, I will tell you.” 
+## Saul's reconciliation with David as a result of Jonathan's intercession; After Saul's repeated murders, David flees to Samuel
+@1 Saul spoke to Jonathan his son and to all his servants, that they should kill David. But Jonathan, Saul’s son, greatly delighted in David. 
+@2 Jonathan told David, saying, “Saul my father seeks to kill you. Now therefore, please take care of yourself in the morning, live in a secret place, and hide yourself. 
+@3 I will go out and stand beside my father in the field where you are, and I will talk with my father about you; and if I see anything, I will tell you.” 
 
-^4^ Jonathan spoke good of David to Saul his father, and said to him, “Don’t let the king sin against his servant, against David; because he has not sinned against you, and because his works have been very good toward you; ^5^ for he put his life in his hand and struck the Philistine, and Yahweh worked a great victory for all Israel. You saw it and rejoiced. Why then will you sin against innocent blood, to kill David without a cause?” 
+@4 Jonathan spoke good of David to Saul his father, and said to him, “Don’t let the king sin against his servant, against David; because he has not sinned against you, and because his works have been very good toward you; 
+@5 for he put his life in his hand and struck the Philistine, and Yahweh worked a great victory for all Israel. You saw it and rejoiced. Why then will you sin against innocent blood, to kill David without a cause?” 
 
-^6^ Saul listened to the voice of Jonathan; and Saul swore, “As Yahweh lives, he shall not be put to death.” 
+@6 Saul listened to the voice of Jonathan; and Saul swore, “As Yahweh lives, he shall not be put to death.” 
 
-^7^ Jonathan called David, and Jonathan showed him all those things. Then Jonathan brought David to Saul, and he was in his presence as before. 
+@7 Jonathan called David, and Jonathan showed him all those things. Then Jonathan brought David to Saul, and he was in his presence as before.
 
-^8^ There was war again. David went out and fought with the Philistines, and killed them with a great slaughter; and they fled before him. 
+## David's new fortune in war; Saul's repeated assassination attempt
+@8 There was war again. David went out and fought with the Philistines, and killed them with a great slaughter; and they fled before him. 
 
-^9^ An evil spirit from Yahweh was on Saul as he sat in his house with his spear in his hand; and David was playing music with his hand. ^10^ Saul sought to pin David to the wall with the spear, but he slipped away out of Saul’s presence; and he stuck the spear into the wall. David fled and escaped that night. ^11^ Saul sent messengers to David’s house to watch him and to kill him in the morning. Michal, David’s wife, told him, saying, “If you don’t save your life tonight, tomorrow you will be killed.” ^12^ So Michal let David down through the window. He went away, fled, and escaped. ^13^ Michal took the teraphim^a^ and laid it in the bed, and put a pillow of goats’ hair at its head and covered it with clothes. ^14^ When Saul sent messengers to take David, she said, “He is sick.” 
+@9 An evil spirit from Yahweh was on Saul as he sat in his house with his spear in his hand; and David was playing music with his hand. 
+@10 Saul sought to pin David to the wall with the spear, but he slipped away out of Saul’s presence; and he stuck the spear into the wall. David fled and escaped that night.
+
+## David's escape home and his salvation through Michal's cunning
+@11 Saul sent messengers to David’s house to watch him and to kill him in the morning. Michal, David’s wife, told him, saying, “If you don’t save your life tonight, tomorrow you will be killed.” 
+@12 So Michal let David down through the window. He went away, fled, and escaped. 
+@13 Michal took the teraphim^a^ and laid it in the bed, and put a pillow of goats’ hair at its head and covered it with clothes. 
+@14 When Saul sent messengers to take David, she said, “He is sick.” 
 ^a^[**19:13** teraphim were household idols that may have been associated with inheritance rights to the household property.]
 
-^15^ Saul sent the messengers to see David, saying, “Bring him up to me in the bed, that I may kill him.” ^16^ When the messengers came in, behold, the teraphim was in the bed, with the pillow of goats’ hair at its head. 
+@15 Saul sent the messengers to see David, saying, “Bring him up to me in the bed, that I may kill him.” 
+@16 When the messengers came in, behold, the teraphim was in the bed, with the pillow of goats’ hair at its head. 
 
-^17^ Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” 
+@17 Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” 
 
-Michal answered Saul, “He said to me, ‘Let me go! Why should I kill you?’” 
+Michal answered Saul, “He said to me, ‘Let me go! Why should I kill you?’”
 
-^18^ Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and lived in Naioth. ^19^ Saul was told, saying, “Behold, David is at Naioth in Ramah.” 
+## David with Samuel in Rama; The prophetic abduction of Saul in the prophetic house there
+@18 Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. He and Samuel went and lived in Naioth. 
+@19 Saul was told, saying, “Behold, David is at Naioth in Ramah.” 
 
-^20^ Saul sent messengers to seize David; and when they saw the company of the prophets prophesying, and Samuel standing as head over them, God’s Spirit came on Saul’s messengers, and they also prophesied. ^21^ When Saul was told, he sent other messengers, and they also prophesied. Saul sent messengers again the third time, and they also prophesied. ^22^ Then he also went to Ramah, and came to the great well that is in Secu: and he asked, “Where are Samuel and David?” 
+@20 Saul sent messengers to seize David; and when they saw the company of the prophets prophesying, and Samuel standing as head over them, God’s Spirit came on Saul’s messengers, and they also prophesied. 
+@21 When Saul was told, he sent other messengers, and they also prophesied. Saul sent messengers again the third time, and they also prophesied. 
+@22 Then he also went to Ramah, and came to the great well that is in Secu: and he asked, “Where are Samuel and David?” 
 
 One said, “Behold, they are at Naioth in Ramah.” 
 
-^23^ He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he went on, and prophesied, until he came to Naioth in Ramah. ^24^ He also stripped off his clothes. He also prophesied before Samuel and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?” 
+@23 He went there to Naioth in Ramah. Then God’s Spirit came on him also, and he went on, and prophesied, until he came to Naioth in Ramah. 
+@24 He also stripped off his clothes. He also prophesied before Samuel and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 20
 ## La reunión de David y la discusión con Jonatán; Renovación de su alianza de amistad
-^1^ David huyó de Naiot, en Ramá, y vino a decir a Jonatán: “¿Qué he hecho? ¿Cuál es mi iniquidad? ¿Cuál es mi pecado ante tu padre, para que busque mi vida?”
+@1 Y David huyó de Najoth que es en Rama, y vínose delante de Jonathán, y dijo: ¿Qué he hecho yo? ¿cuál es mi maldad, ó cuál mi pecado contra tu padre, que él busca mi vida?
 
-^2^ Él le dijo: “Ni mucho menos; no morirás. He aquí que mi padre no hace nada, ni grande ni pequeño, sino que me lo revela. ¿Por qué iba mi padre a ocultarme esto? No es así”.
+@2 Y él le dijo: En ninguna manera; no morirás. He aquí que mi padre ninguna cosa hará, grande ni pequeña, que no me la descubra: ¿por qué pues me encubrirá mi padre este negocio? No será así.
 
-^3^ Además, David juró y dijo: “Tu padre sabe bien que he hallado gracia ante tus ojos, y dice: ‘No dejes que Jonatán lo sepa, para que no se aflija’; pero en verdad, vive Yahvé y vive tu alma, que sólo hay un paso entre yo y la muerte.”
+@3 Y David volvió á jurar, diciendo: Tu padre sabe claramente que yo he hallado gracia delante de tus ojos, y dirá: No sepa esto Jonathán, porque no tenga pesar: y ciertamente, vive Jehová y vive tu alma, que apenas hay un paso entre mí y la muerte.
 
-^4^ Entonces Jonatán dijo a David: “Todo lo que tu alma desee, lo haré por ti”.
+@4 Y Jonathán dijo á David: ¿Qué discurre tu alma, y harélo por ti?
 
 ## La sugerencia de David
-^5^ David dijo a Jonatán: “He aquí que mañana es luna nueva, y no debo dejar de cenar con el rey; pero déjame que me esconda en el campo hasta el tercer día por la tarde. ^6^ Si tu padre me echa de menos, dile: ‘David me ha pedido encarecidamente que le deje ir a Belén, su ciudad, porque allí se celebra el sacrificio anual para toda la familia’. ^7^ Si él dice: “Está bien”, tu siervo tendrá paz; pero si se enoja, debes saber que el mal está determinado por él. ^8^ Trata, pues, con benevolencia a tu siervo, porque lo has llevado a un pacto de Yahvé contigo; pero si hay iniquidad en mí, mátame tú mismo, pues ¿para qué me has de llevar a tu padre?” ^a^
-^a^[**20:8** 1Sam 18,3]
+@5 Y David respondió á Jonathán: He aquí que mañana será nueva luna, y yo acostumbro sentarme con el rey á comer: mas tú dejarás que me esconda en el campo hasta la tarde del tercer día. 
+@6 Si tu padre hiciere mención de mí, dirás: Rogóme mucho que lo dejase ir presto á Beth-lehem su ciudad, porque todos los de su linaje tienen allá sacrificio aniversario. 
+@7 Si él dijere, Bien está, paz tendrá tu siervo; mas si se enojare, sabe que la malicia es en él consumada. 
+@8 Harás pues misericordia con tu siervo, ya que has traído tu siervo á alianza de Jehová contigo: y si maldad hay en mí mátame tú, que no hay necesidad de llevarme hasta tu padre.
 
-^9^ Jonatán dijo: “Lejos de ti, pues si yo supiera que el mal está determinado por mi padre a venir sobre ti, ¿no te lo diría?”
+@9 Y Jonathán le dijo: Nunca tal te suceda; antes bien, si yo entendiera ser consumada la malicia de mi padre, para venir sobre ti, ¿no había yo de descubrírtelo?
 
-^10^ Entonces David dijo a Jonatán: “¿Quién me dirá si tu padre te responde con rudeza?”
+@10 Dijo entonces David á Jonathán: ¿Quién me dará aviso? ó ¿qué si tu padre te respondiere ásperamente?
 
-^11^ Jonatán dijo a David: “¡Ven! Salgamos al campo”. Ambos salieron al campo.
+@11 Y Jonathán dijo á David: Ven, salgamos al campo. Y salieron ambos al campo.
 
 ## El juramento mutuo
-^12^ Jonatán dijo a David: “Por Yahvé, el Dios de Israel, cuando haya sondeado a mi padre mañana a esta hora, o al tercer día, he aquí que si hay bien hacia David, ¿no enviaré entonces a ti y te lo revelaré? ^13^ Que Yahvé haga así con Jonatán y más aún, si a mi padre le agrada haceros mal, si no os lo revelo y os envío, para que vayáis en paz. Que Yahvé esté contigo como ha estado con mi padre. ^14^ No sólo me mostrarás la bondad amorosa de Yavé mientras viva, para que no muera; ^15^ sino que tampoco cortarás tu bondad de mi casa para siempre, no, cuando Yavé haya cortado a cada uno de los enemigos de David de la superficie de la tierra.” ^16^ Entonces Jonatán hizo un pacto con la casa de David, diciendo: “Yahvé lo exigirá de la mano de los enemigos de David.”
+@12 Entonces dijo Jonathán á David: Oh Jehová Dios de Israel, cuando habré yo preguntado á mi padre mañana á esta hora, ó después de mañana, y él apareciere bien para con David, si entonces no enviare á ti, y te lo descubriere, 
+@13 Jehová haga así á Jonathán, y esto añada. Mas si á mi padre pareciere bien hacerte mal, también te lo descubriré, y te enviaré, y te irás en paz: y sea Jehová contigo, como fué con mi padre. 
+@14 Y si yo viviere, harás conmigo misericordia de Jehová; mas si fuere muerto, 
+@15 No quitarás perpetuamente tu misericordia de mi casa. Cuando desarraigare Jehová uno por uno los enemigos de David de la tierra, aun á Jonathán quite de su casa, si te faltare. 
+@16 Así hizo Jonathán alianza con la casa de David, diciendo: Requiéralo Jehová de la mano de los enemigos de David.
 
-^17^ Jonatán hizo que David volviera a jurar, por el amor que le tenía, pues lo amaba como a su propia alma. ^a^
-^a^[**20:17** 1Sam 18,3]
+@17 Y tornó Jonathán á jurar á David, porque le amaba, porque le amaba como á su alma.
 
 ## Acordar el procedimiento a seguir para la comunicación de la información
-^18^ Entonces Jonatán le dijo: “Mañana es luna nueva, y se te echará de menos, porque tu asiento estará vacío. ^19^ Cuando hayas permanecido tres días, baja rápidamente y ven al lugar donde te escondiste cuando esto empezó, y quédate junto a la piedra Ezel. ^20^ Yo lanzaré tres flechas a su lado, como si disparara a una marca. ^21^ He aquí que yo enviaré al muchacho, diciendo: “¡Ve, busca las flechas! Si le digo al muchacho: ‘Mira, las flechas están a este lado tuyo. Tómalas’; entonces ven, porque hay paz para ti y no hay peligro, vive Yahvé. ^22^ Pero si le digo al muchacho: ‘He aquí que las flechas están más allá de ti’, entonces vete, porque Yahvé te ha enviado. ^23^ En cuanto al asunto del que tú y yo hemos hablado, he aquí que Yahvé está entre tú y yo para siempre.”
+@18 Díjole luego Jonathán: Mañana es nueva luna, y tú serás echado de menos, porque tu asiento estará vacío. 
+@19 Estarás pues tres días, y luego descenderás, y vendrás al lugar donde estabas escondido el día de trabajo, y esperarás junto á la piedra de Ezel; 
+@20 Y yo tiraré tres saetas hacia aquel lado, como ejercitándome al blanco. 
+@21 Y luego enviaré el criado diciéndole: Ve, busca las saetas. Y si dijere al mozo: He allí las saetas más acá de ti, tómalas: tú vendrás, porque paz tienes, y nada hay de mal, vive Jehová. 
+@22 Mas si yo dijere al mozo así: He allí las saetas más allá de ti: vete, porque Jehová te ha enviado. 
+@23 Y cuanto á las palabras que yo y tú hemos hablado, sea Jehová entre mí y ti para siempre.
 
 ## Curso de las dos comidas del mediodía en casa de Saúl en la luna nueva y al día siguiente
-^24^ Entonces David se escondió en el campo. Cuando llegó la luna nueva, el rey se sentó a comer. ^25^ El rey se sentó en su silla, como otras veces, incluso en el asiento junto a la pared; y Jonatán se puso de pie, y Abner se sentó al lado de Saúl, pero el lugar de David estaba vacío. ^26^ Sin embargo, Saúl no dijo nada ese día, pues pensó: “Algo le ha sucedido. No está limpio. Seguramente no está limpio”. ^a^
-^a^[**20:26** Lev 15,1; Deut 23,10]
+@24 David pues se escondió en el campo, y venida que fué la nueva luna, sentóse el rey á comer pan. 
+@25 Y el rey se sentó en su silla, como solía, en el asiento junto á la pared, y Jonathán se levantó, y sentóse Abner al lado de Saúl, y el lugar de David estaba vacío. 
+@26 Mas aquel día Saúl no dijo nada, porque se decía: Habrále acontecido algo, y no está limpio; no estará purificado.
 
-^27^ Al día siguiente de la luna nueva, el segundo día, el lugar de David estaba vacío. Saúl le dijo a su hijo Jonatán: “¿Por qué no vino a comer el hijo de Isaí, ni ayer ni hoy?”.
+@27 El día siguiente, el segundo día de la nueva luna, aconteció también que el asiento de David estaba vacío. Y Saúl dijo á Jonathán su hijo: ¿Por qué no ha venido á comer el hijo de Isaí hoy ni ayer?
 
-^28^ Jonatán respondió a Saúl: “David me pidió encarecidamente permiso para ir a Belén. ^29^ Dijo: ‘Por favor, déjame ir, porque nuestra familia tiene un sacrificio en la ciudad. Mi hermano me ha ordenado que esté allí. Ahora, si he encontrado gracia ante tus ojos, por favor déjame ir a ver a mis hermanos’. Por eso no ha venido a la mesa del rey”.
+@28 Y Jonathán respondió á Saúl: David me pidió encarecidamente le dejase ir hasta Beth-lehem. 
+@29 Y dijo: Ruégote que me dejes ir, porque tenemos sacrificio los de nuestro linaje en la ciudad, y mi hermano mismo me lo ha mandado; por tanto, si he hallado gracia en tus ojos, haré una escapada ahora, y visitaré á mis hermanos. Por esto pues no ha venido á la mesa del rey.
 
-^30^ Entonces la ira de Saúl ardió contra Jonatán, y le dijo: “Hijo de una perversa rebelde, ¿no sé que has elegido al hijo de Isaí para vergüenza tuya y de tu madre? ^31^ Porque mientras el hijo de Isaí viva en la tierra, tú no serás establecido, ni tu reino. Por lo tanto, ¡envía ahora y tráemelo, porque seguramente morirá!”
+@30 Entonces Saúl se enardeció contra Jonathán, y díjole: Hijo de la perversa y rebelde, ¿no sé yo que tú has elegido al hijo de Isaí para confusión tuya, y para confusión de la vergüenza de tu madre? 
+@31 Porque todo el tiempo que el hijo de Isaí viviere sobre la tierra, ni tú serás firme, ni tu reino. Envía pues ahora, y tráemelo, porque ha de morir.
 
-^32^ Jonatán respondió a su padre Saúl y le dijo: “¿Por qué ha de morir? ¿Qué ha hecho?”
+@32 Y Jonathán respondió á su padre Saúl, y díjole: ¿Por qué morirá? ¿qué ha hecho?
 
-^33^ Saúl le arrojó su lanza para herirlo. Con esto, Jonatán supo que su padre estaba decidido a dar muerte a David. ^a^ ^34^ Así que Jonatán se levantó de la mesa con una furia terrible y no comió nada el segundo día del mes, pues estaba afligido por David, porque su padre lo había tratado de manera vergonzosa.
-^a^[**20:33** 1Sam 18,11]
+@33 Entonces Saúl le arrojó una lanza por herirlo: de donde entendió Jonathán que su padre estaba determinado á matar á David. 
+@34 Y levantóse Jonathán de la mesa con exaltada ira, y no comió pan el segundo día de la nueva luna: porque tenía dolor á causa de David, porque su padre le había afrentado.
 
 ## Jonatán informa a David de la situación desfavorable y se despide de él
-^35^ Por la mañana, Jonatán salió al campo a la hora señalada con David, y un niño pequeño con él. ^36^ Le dijo a su niño: “Corre, encuentra ahora las flechas que yo tiro”. Mientras el niño corría, disparó una flecha más allá de él. ^37^ Cuando el niño llegó al lugar de la flecha que Jonatán había disparado, Jonatán gritó tras el niño y le dijo: “¿No está la flecha más allá de ti?” ^38^ Jonatán gritó tras el muchacho: “¡Ve rápido! ¡Apresúrate! No te demores”. El muchacho de Jonatán recogió las flechas y se acercó a su amo. ^39^ Pero el muchacho no sabía nada. Sólo Jonatán y David sabían el asunto. ^40^ Jonatán le dio las armas a su muchacho y le dijo: “Ve, llévalas a la ciudad”.
+@35 Al otro día de mañana, salió Jonathán al campo, al tiempo aplazado con David, y un mozo pequeño con él. 
+@36 Y dijo á su mozo: Corre y busca las saetas que yo tirare. Y como el muchacho iba corriendo, él tiraba la saeta que pasara más allá de él. 
+@37 Y llegando el muchacho adonde estaba la saeta que Jonathán había tirado, Jonathán dió voces tras el muchacho, diciendo: ¿No está la saeta más allá de ti? 
+@38 Y tornó á gritar Jonathán tras el muchacho: Date priesa, aligera, no te pares. Y el muchacho de Jonathán cogió las saetas, y vínose á su señor. 
+@39 Empero ninguna cosa entendió el muchacho: solamente Jonathán y David entendían el negocio. 
+@40 Luego dió Jonathán sus armas á su muchacho, y díjole: Vete y llévalas á la ciudad.
 
-^41^ En cuanto el muchacho se fue, David se levantó del sur, se postró en tierra y se inclinó tres veces. Se besaron y lloraron mutuamente, y David fue el que más lloró. ^a^ ^42^ Jonatán dijo a David: “Vete en paz, porque ambos hemos jurado en nombre de Yavé, diciendo: “Yavé está entre tú y yo, y entre mi descendencia y tu descendencia, para siempre””. Él se levantó y partió; y Jonatán entró en la ciudad.
-^a^[**20:41** Gén 33,3-4]
+@41 Y luego que el muchacho se hubo ido, se levantó David de la parte del mediodía, é inclinóse tres veces postrándose hasta la tierra: y besándose el uno al otro, lloraron el uno con el otro, aunque David lloró más. 
+@42 Y Jonathán dijo á David: Vete en paz, que ambos hemos jurado por el nombre de Jehová, diciendo: Jehová sea entre mí y ti, entre mi simiente y la simiente tuya, para siempre. Y él se levantó y fuése: y Jonathán se entró en la ciudad. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 20
-^1^ David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?” 
+## David's meeting and discussion with Jonathan; Renewal of your alliance of friendship
+@1 David fled from Naioth in Ramah, and came and said to Jonathan, “What have I done? What is my iniquity? What is my sin before your father, that he seeks my life?” 
 
-^2^ He said to him, “Far from it; you will not die. Behold, my father does nothing either great or small, but that he discloses it to me. Why would my father hide this thing from me? It is not so.” 
+@2 He said to him, “Far from it; you will not die. Behold, my father does nothing either great or small, but that he discloses it to me. Why would my father hide this thing from me? It is not so.” 
 
-^3^ David swore moreover, and said, “Your father knows well that I have found favor in your eyes; and he says, ‘Don’t let Jonathan know this, lest he be grieved;’ but truly as Yahweh lives, and as your soul lives, there is but a step between me and death.” 
+@3 David swore moreover, and said, “Your father knows well that I have found favor in your eyes; and he says, ‘Don’t let Jonathan know this, lest he be grieved;’ but truly as Yahweh lives, and as your soul lives, there is but a step between me and death.” 
 
-^4^ Then Jonathan said to David, “Whatever your soul desires, I will even do it for you.” 
+@4 Then Jonathan said to David, “Whatever your soul desires, I will even do it for you.”
 
-^5^ David said to Jonathan, “Behold, tomorrow is the new moon, and I should not fail to dine with the king; but let me go, that I may hide myself in the field to the third day at evening. ^6^ If your father misses me at all, then say, ‘David earnestly asked leave of me that he might run to Bethlehem, his city; for it is the yearly sacrifice there for all the family.’ ^7^ If he says, ‘It is well,’ your servant shall have peace; but if he is angry, then know that evil is determined by him. ^8^ Therefore deal kindly with your servant, for you have brought your servant into a covenant of Yahweh with you; but if there is iniquity in me, kill me yourself, for why should you bring me to your father?” 
+## David's suggestion
+@5 David said to Jonathan, “Behold, tomorrow is the new moon, and I should not fail to dine with the king; but let me go, that I may hide myself in the field to the third day at evening. 
+@6 If your father misses me at all, then say, ‘David earnestly asked leave of me that he might run to Bethlehem, his city; for it is the yearly sacrifice there for all the family.’ 
+@7 If he says, ‘It is well,’ your servant shall have peace; but if he is angry, then know that evil is determined by him. 
+@8 Therefore deal kindly with your servant, for you have brought your servant into a covenant of Yahweh with you; but if there is iniquity in me, kill me yourself, for why should you bring me to your father?” 
 
-^9^ Jonathan said, “Far be it from you; for if I should at all know that evil were determined by my father to come on you, then wouldn’t I tell you that?” 
+@9 Jonathan said, “Far be it from you; for if I should at all know that evil were determined by my father to come on you, then wouldn’t I tell you that?” 
 
-^10^ Then David said to Jonathan, “Who will tell me if your father answers you roughly?” 
+@10 Then David said to Jonathan, “Who will tell me if your father answers you roughly?” 
 
-^11^ Jonathan said to David, “Come! Let’s go out into the field.” They both went out into the field. ^12^ Jonathan said to David, “By Yahweh, the God of Israel, when I have sounded out my father about this time tomorrow, or the third day, behold, if there is good toward David, won’t I then send to you and disclose it to you? ^13^ Yahweh do so to Jonathan and more also, should it please my father to do you evil, if I don’t disclose it to you and send you away, that you may go in peace. May Yahweh be with you as he has been with my father. ^14^ You shall not only show me the loving kindness of Yahweh while I still live, that I not die; ^15^ but you shall also not cut off your kindness from my house forever, no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth.” ^16^ So Jonathan made a covenant with David’s house, saying, “Yahweh will require it at the hand of David’s enemies.” 
+@11 Jonathan said to David, “Come! Let’s go out into the field.” They both went out into the field.
 
-^17^ Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul. ^18^ Then Jonathan said to him, “Tomorrow is the new moon, and you will be missed, because your seat will be empty. ^19^ When you have stayed three days, go down quickly and come to the place where you hid yourself when this started, and remain by the stone Ezel. ^20^ I will shoot three arrows on its side, as though I shot at a mark. ^21^ Behold, I will send the boy, saying, ‘Go, find the arrows!’ If I tell the boy, ‘Behold, the arrows are on this side of you. Take them;’ then come, for there is peace to you and no danger, as Yahweh lives. ^22^ But if I say this to the boy, ‘Behold, the arrows are beyond you,’ then go your way, for Yahweh has sent you away. ^23^ Concerning the matter which you and I have spoken of, behold, Yahweh is between you and me forever.” 
+## The Mutual Oath
+@12 Jonathan said to David, “By Yahweh, the God of Israel, when I have sounded out my father about this time tomorrow, or the third day, behold, if there is good toward David, won’t I then send to you and disclose it to you? 
+@13 Yahweh do so to Jonathan and more also, should it please my father to do you evil, if I don’t disclose it to you and send you away, that you may go in peace. May Yahweh be with you as he has been with my father. 
+@14 You shall not only show me the loving kindness of Yahweh while I still live, that I not die; 
+@15 but you shall also not cut off your kindness from my house forever, no, not when Yahweh has cut off every one of the enemies of David from the surface of the earth.” 
+@16 So Jonathan made a covenant with David’s house, saying, “Yahweh will require it at the hand of David’s enemies.” 
 
-^24^ So David hid himself in the field. When the new moon had come, the king sat himself down to eat food. ^25^ The king sat on his seat, as at other times, even on the seat by the wall; and Jonathan stood up, and Abner sat by Saul’s side, but David’s place was empty. ^26^ Nevertheless Saul didn’t say anything that day, for he thought, “Something has happened to him. He is not clean. Surely he is not clean.” 
+@17 Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul.
 
-^27^ On the next day after the new moon, the second day, David’s place was empty. Saul said to Jonathan his son, “Why didn’t the son of Jesse come to eat, either yesterday, or today?” 
+## Agree on the procedure to follow for the communication of information
+@18 Then Jonathan said to him, “Tomorrow is the new moon, and you will be missed, because your seat will be empty. 
+@19 When you have stayed three days, go down quickly and come to the place where you hid yourself when this started, and remain by the stone Ezel. 
+@20 I will shoot three arrows on its side, as though I shot at a mark. 
+@21 Behold, I will send the boy, saying, ‘Go, find the arrows!’ If I tell the boy, ‘Behold, the arrows are on this side of you. Take them;’ then come, for there is peace to you and no danger, as Yahweh lives. 
+@22 But if I say this to the boy, ‘Behold, the arrows are beyond you,’ then go your way, for Yahweh has sent you away. 
+@23 Concerning the matter which you and I have spoken of, behold, Yahweh is between you and me forever.”
 
-^28^ Jonathan answered Saul, “David earnestly asked permission of me to go to Bethlehem. ^29^ He said, ‘Please let me go, for our family has a sacrifice in the city. My brother has commanded me to be there. Now, if I have found favor in your eyes, please let me go away and see my brothers.’ Therefore he has not come to the king’s table.” 
+## Course of the two midday meals at Saul's house on the new moon and the next day
+@24 So David hid himself in the field. When the new moon had come, the king sat himself down to eat food. 
+@25 The king sat on his seat, as at other times, even on the seat by the wall; and Jonathan stood up, and Abner sat by Saul’s side, but David’s place was empty. 
+@26 Nevertheless Saul didn’t say anything that day, for he thought, “Something has happened to him. He is not clean. Surely he is not clean.” 
 
-^30^ Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse rebellious woman, don’t I know that you have chosen the son of Jesse to your own shame, and to the shame of your mother’s nakedness? ^31^ For as long as the son of Jesse lives on the earth, you will not be established, nor will your kingdom. Therefore now send and bring him to me, for he shall surely die!” 
+@27 On the next day after the new moon, the second day, David’s place was empty. Saul said to Jonathan his son, “Why didn’t the son of Jesse come to eat, either yesterday, or today?” 
 
-^32^ Jonathan answered Saul his father, and said to him, “Why should he be put to death? What has he done?” 
+@28 Jonathan answered Saul, “David earnestly asked permission of me to go to Bethlehem. 
+@29 He said, ‘Please let me go, for our family has a sacrifice in the city. My brother has commanded me to be there. Now, if I have found favor in your eyes, please let me go away and see my brothers.’ Therefore he has not come to the king’s table.” 
 
-^33^ Saul cast his spear at him to strike him. By this Jonathan knew that his father was determined to put David to death. ^34^ So Jonathan arose from the table in fierce anger, and ate no food the second day of the month; for he was grieved for David, because his father had treated him shamefully. 
+@30 Then Saul’s anger burned against Jonathan, and he said to him, “You son of a perverse rebellious woman, don’t I know that you have chosen the son of Jesse to your own shame, and to the shame of your mother’s nakedness? 
+@31 For as long as the son of Jesse lives on the earth, you will not be established, nor will your kingdom. Therefore now send and bring him to me, for he shall surely die!” 
 
-^35^ In the morning, Jonathan went out into the field at the time appointed with David, and a little boy with him. ^36^ He said to his boy, “Run, find now the arrows which I shoot.” As the boy ran, he shot an arrow beyond him. ^37^ When the boy had come to the place of the arrow which Jonathan had shot, Jonathan cried after the boy, and said, “Isn’t the arrow beyond you?” ^38^ Jonathan cried after the boy, “Go fast! Hurry! Don’t delay!” Jonathan’s boy gathered up the arrows, and came to his master. ^39^ But the boy didn’t know anything. Only Jonathan and David knew the matter. ^40^ Jonathan gave his weapons to his boy, and said to him, “Go, carry them to the city.” 
+@32 Jonathan answered Saul his father, and said to him, “Why should he be put to death? What has he done?” 
 
-^41^ As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times. They kissed one another and wept with one another, and David wept the most. ^42^ Jonathan said to David, “Go in peace, because we have both sworn in Yahweh’s name, saying, ‘Yahweh is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city. 
+@33 Saul cast his spear at him to strike him. By this Jonathan knew that his father was determined to put David to death. 
+@34 So Jonathan arose from the table in fierce anger, and ate no food the second day of the month; for he was grieved for David, because his father had treated him shamefully.
+
+## Jonathan informs David of the unfavorable situation and says goodbye to him
+@35 In the morning, Jonathan went out into the field at the time appointed with David, and a little boy with him. 
+@36 He said to his boy, “Run, find now the arrows which I shoot.” As the boy ran, he shot an arrow beyond him. 
+@37 When the boy had come to the place of the arrow which Jonathan had shot, Jonathan cried after the boy, and said, “Isn’t the arrow beyond you?” 
+@38 Jonathan cried after the boy, “Go fast! Hurry! Don’t delay!” Jonathan’s boy gathered up the arrows, and came to his master. 
+@39 But the boy didn’t know anything. Only Jonathan and David knew the matter. 
+@40 Jonathan gave his weapons to his boy, and said to him, “Go, carry them to the city.” 
+
+@41 As soon as the boy was gone, David arose out of the south, and fell on his face to the ground, and bowed himself three times. They kissed one another and wept with one another, and David wept the most. 
+@42 Jonathan said to David, “Go in peace, because we have both sworn in Yahweh’s name, saying, ‘Yahweh is between me and you, and between my offspring and your offspring, forever.’” He arose and departed; and Jonathan went into the city. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 21
 ## David como refugiado en Nob y Gat; El asesinato del sacerdote por parte de Saúl
-^1^ Entonces David vino a Nob a ver al sacerdote Ahimelec. Ahimelec salió al encuentro de David temblando y le dijo: “¿Por qué estás solo y no hay nadie contigo?”. ^2^ David respondió al sacerdote Ahimelec: “El rey me ha mandado hacer algo y me ha dicho: ‘Que nadie sepa nada del asunto sobre el que te envío y de lo que te he mandado. He enviado a los jóvenes a un lugar determinado’. ^3^ Ahora, pues, ¿qué hay bajo tu mano? Por favor, dame cinco panes en la mano, o lo que haya”.
+@1 Y vino David á Nob, á Ahimelech sacerdote: y sorprendióse Ahimelech de su encuentro, y díjole: ¿Cómo tú solo, y nadie contigo? 
+@2 Y respondió David al sacerdote Ahimelech: El rey me encomendó un negocio, y me dijo: Nadie sepa cosa alguna de este negocio á que yo te envío, y que yo te he mandado; y yo señalé á los criados un cierto lugar. 
+@3 Ahora pues, ¿qué tienes á mano? dame cinco panes, ó lo que se hallare.
 
-^4^ El sacerdote respondió a David y le dijo: “No tengo pan común, pero hay pan sagrado; si tan sólo los jóvenes se hubieran apartado de las mujeres.” ^a^
-^a^[**21:4** Lev 24,5-9; Lev 22,3-7; Éxod 19,15]
+@4 Y el sacerdote respondió á David, y dijo: No tengo pan común á la mano; solamente tengo pan sagrado: mas lo daré si los criados se han guardado mayormente de mujeres.
 
-^5^ David respondió al sacerdote y le dijo: “En verdad, las mujeres han sido apartadas de nosotros como de costumbre estos tres días. Cuando yo salí, los vasos de los jóvenes eran santos, aunque sólo era un viaje común. ¿Cuánto más entonces hoy serán santos sus vasos?” ^6^ Entonces el sacerdote le dio pan sagrado, pues allí no había más pan que el pan de muestra que se tomaba delante de Yavé, para sustituirlo por pan caliente el día en que se quitaba. ^a^
-^a^[**21:6** Mat 12,3]
+@5 Y David respondió al sacerdote, y díjole: Cierto las mujeres nos han sido reservadas desde anteayer cuando salí, y los vasos de los mozos fueron santos, aunque el camino es profano: cuanto más que hoy habrá otro pan santificado en los vasos. 
+@6 Así el sacerdote le dió el pan sagrado, porque allí no había otro pan que los panes de la proposición, los cuales habían sido quitados de delante de Jehová, para que se pusiesen panes calientes el día que los otros fueron quitados.
 
-^7^ Aquel día, un hombre de los siervos de Saúl estaba detenido ante el Señor, y se llamaba Doeg el edomita, el mejor de los pastores que pertenecían a Saúl. ^a^
-^a^[**21:7** 1Sam 22,9; 1Sam 22,18]
+@7 Aquel día estaba allí uno de los siervos de Saúl detenido delante de Jehová, el nombre del cual era Doeg, Idumeo, principal de los pastores de Saúl.
 
-^8^ David dijo a Ajimelec: “¿No hay aquí bajo tu mano lanza o espada? Porque no he traído mi espada ni mis armas, porque el asunto del rey requería premura”.
+@8 Y David dijo á Ahimelech: ¿No tienes aquí á mano lanza ó espada? porque no tomé en mi mano mi espada ni mis armas, por cuanto el mandamiento del rey era apremiante.
 
-^9^ El sacerdote dijo: “Mira, la espada de Goliat el filisteo, a quien mataste en el valle de Elah, está aquí envuelta en un paño detrás del efod. Si quieres tomarla, tómala, pues aquí no hay otra más que esa”. David dijo: “No hay ninguno así. Dámelo”. ^a^
-^a^[**21:9** 1Sam 17,50-51]
+@9 Y el sacerdote respondió: La espada de Goliath el Filisteo, que tú venciste en el valle del Alcornoque, está aquí envuelta en un velo detrás del ephod: si tú quieres tomarla, tómala: porque aquí no hay otra sino esa. Y dijo David: Ninguna como ella: dámela.
 
 ## David se vuelve loco con el rey Achis en Gat
-^10^ David se levantó y huyó aquel día por miedo a Saúl, y se dirigió a Aquis, rey de Gat. ^a^ ^11^ Los servidores de Aquis le dijeron: “¿No es éste David el rey del país? ¿No se cantaban unos a otros sobre él en las danzas, diciendo,‘Saúl ha matado a sus miles, ¿y David sus diez mil?” ^b^
-^a^[**21:10** Sal 56,1] ^b^[**21:11** 1Sam 18,7; 1Sam 29,5]
+@10 Y levantándose David aquel día, huyó de la presencia de Saúl, y vínose á Achîs rey de Gath. 
+@11 Y los siervos de Achîs le dijeron: ¿No es éste David, el rey de la tierra? ¿no es éste á quien cantaban en corros, diciendo: Hirió Saúl sus miles, y David sus diez miles?
 
-^12^ David guardó estas palabras en su corazón, y tuvo mucho miedo de Aquis, rey de Gat. ^13^ Cambió su conducta ante ellos y se hizo pasar por loco en sus manos, y garabateó en las puertas de la puerta, y dejó que su saliva cayera sobre su barba. ^a^ ^14^ Entonces Aquis dijo a sus siervos: “Mirad, veis que el hombre está loco. ¿Por qué, pues, me lo habéis traído? ^15^ ¿Acaso me faltan locos, para que hayáis traído a este sujeto a hacer de loco en mi presencia? ¿Debe entrar este sujeto en mi casa?”
-^a^[**21:13** Sal 34,1]
+@12 Y David puso en su corazón estas palabras, y tuvo gran temor de Achîs rey de Gath. 
+@13 Y mudó su habla delante de ellos, y fingióse loco entre sus manos, y escribía en las portadas de las puertas, dejando correr su saliva por su barba. 
+@14 Y dijo Achîs á sus siervos: He aquí estáis viendo un hombre demente; ¿por qué lo habéis traído á mí? 
+@15 ¿Fáltanme á mí locos, para que hayáis traído éste que hiciese del loco delante de mí? ¿había de venir éste á mi casa? 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 21
-^1^ Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?” ^2^ David said to Ahimelech the priest, “The king has commanded me to do something, and has said to me, ‘Let no one know anything about the business about which I send you, and what I have commanded you. I have sent the young men to a certain place.’ ^3^ Now therefore what is under your hand? Please give me five loaves of bread in my hand, or whatever is available.” 
+## David as a refugee in Nob and Gath; The murder of the priest by Saul
+@1 Then David came to Nob to Ahimelech the priest. Ahimelech came to meet David trembling, and said to him, “Why are you alone, and no man with you?” 
+@2 David said to Ahimelech the priest, “The king has commanded me to do something, and has said to me, ‘Let no one know anything about the business about which I send you, and what I have commanded you. I have sent the young men to a certain place.’ 
+@3 Now therefore what is under your hand? Please give me five loaves of bread in my hand, or whatever is available.” 
 
-^4^ The priest answered David, and said, “I have no common bread, but there is holy bread; if only the young men have kept themselves from women.” 
+@4 The priest answered David, and said, “I have no common bread, but there is holy bread; if only the young men have kept themselves from women.” 
 
-^5^ David answered the priest, and said to him, “Truly, women have been kept from us as usual these three days. When I came out, the vessels of the young men were holy, though it was only a common journey. How much more then today shall their vessels be holy?” ^6^ So the priest gave him holy bread; for there was no bread there but the show bread that was taken from before Yahweh, to be replaced with hot bread in the day when it was taken away. 
+@5 David answered the priest, and said to him, “Truly, women have been kept from us as usual these three days. When I came out, the vessels of the young men were holy, though it was only a common journey. How much more then today shall their vessels be holy?” 
+@6 So the priest gave him holy bread; for there was no bread there but the show bread that was taken from before Yahweh, to be replaced with hot bread in the day when it was taken away. 
 
-^7^ Now a certain man of the servants of Saul was there that day, detained before Yahweh; and his name was Doeg the Edomite, the best of the herdsmen who belonged to Saul. 
+@7 Now a certain man of the servants of Saul was there that day, detained before Yahweh; and his name was Doeg the Edomite, the best of the herdsmen who belonged to Saul. 
 
-^8^ David said to Ahimelech, “Isn’t there here under your hand spear or sword? For I haven’t brought my sword or my weapons with me, because the king’s business required haste.” 
+@8 David said to Ahimelech, “Isn’t there here under your hand spear or sword? For I haven’t brought my sword or my weapons with me, because the king’s business required haste.” 
 
-^9^ The priest said, “Behold, the sword of Goliath the Philistine, whom you killed in the valley of Elah, is here wrapped in a cloth behind the ephod. If you would like to take that, take it, for there is no other except that here.” 
+@9 The priest said, “Behold, the sword of Goliath the Philistine, whom you killed in the valley of Elah, is here wrapped in a cloth behind the ephod. If you would like to take that, take it, for there is no other except that here.” 
 
-David said, “There is none like that. Give it to me.” 
+David said, “There is none like that. Give it to me.”
 
-^10^ David arose and fled that day for fear of Saul, and went to Achish the king of Gath. ^11^ The servants of Achish said to him, “Isn’t this David the king of the land? Didn’t they sing to one another about him in dances, saying, ‘Saul has slain his thousands, and David his ten thousands?’” 
+## David goes crazy with King Achis in Gath
+@10 David arose and fled that day for fear of Saul, and went to Achish the king of Gath. 
+@11 The servants of Achish said to him, “Isn’t this David the king of the land? Didn’t they sing to one another about him in dances, saying, ‘Saul has slain his thousands, and David his ten thousands?’” 
 
-^12^ David laid up these words in his heart, and was very afraid of Achish the king of Gath. ^13^ He changed his behavior before them and pretended to be insane in their hands, and scribbled on the doors of the gate, and let his spittle fall down on his beard. ^14^ Then Achish said to his servants, “Look, you see the man is insane. Why then have you brought him to me? ^15^ Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?” 
+@12 David laid up these words in his heart, and was very afraid of Achish the king of Gath. 
+@13 He changed his behavior before them and pretended to be insane in their hands, and scribbled on the doors of the gate, and let his spittle fall down on his beard. 
+@14 Then Achish said to his servants, “Look, you see the man is insane. Why then have you brought him to me? 
+@15 Do I lack madmen, that you have brought this fellow to play the madman in my presence? Should this fellow come into my house?” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 22
 ## La posterior huida de David a Adullam, Mizpe en Moab y Jaar-Hereth en Judá; su cuidado por sus padres
-^1^ David, pues, salió de allí y se escapó a la cueva de Adulam. Cuando lo oyeron sus hermanos y toda la casa de su padre, bajaron allí hacia él. ^a^ ^2^ Todos los que estaban en apuros, todos los que estaban endeudados y todos los que estaban descontentos se reunieron con él, y él se convirtió en capitán de ellos. Había con él unos cuatrocientos hombres. ^b^ ^3^ David fue de allí a Mizpa de Moab, y le dijo al rey de Moab: “Te ruego que dejes salir a mi padre y a mi madre, hasta que sepa lo que Dios hará por mí.” ^4^ Los llevó ante el rey de Moab, y vivieron con él todo el tiempo que David estuvo en la fortaleza. ^5^ El profeta Gad le dijo a David: “No te quedes en la fortaleza. Vete y entra en la tierra de Judá”. Entonces David partió y llegó al bosque de Heret. ^c^
-^a^[**22:1** Sal 57,1] ^b^[**22:2** Jue 11,3] ^c^[**22:5** 1Sam 23,14; Sal 63,1]
+@1 Y yéndose David de allí escapóse á la cueva de Adullam; lo cual como oyeron sus hermanos y toda la casa de su padre, vinieron allí á él. 
+@2 Y juntáronse con él todos los afligidos, y todo el que estaba adeudado, y todos los que se hallaban en amargura de espíritu, y fué hecho capitán de ellos: y tuvo consigo como cuatrocientos hombres. 
+@3 Y fuése David de allí á Mizpa de Moab, y dijo al rey de Moab: Yo te ruego que mi padre y mi madre estén con vosotros, hasta que sepa lo que Dios hará de mí. 
+@4 Trájolos pues á la presencia del rey de Moab, y habitaron con él todo el tiempo que David estuvo en la fortaleza. 
+@5 Y Gad profeta dijo á David: No te estés en esta fortaleza, pártete, y vete á tierra de Judá. Y David se partió, y vino al bosque de Hareth.
 
 ## La queja de Saúl a los que lo rodeaban en Guibeá; Traición del edomita Doeg; La sangrienta venganza de Saúl contra los sacerdotes de Nob
-^6^ Saúl oyó que David había sido descubierto, con los hombres que lo acompañaban. Saúl estaba sentado en Guibeá, bajo el tamarisco de Ramá, con su lanza en la mano, y todos sus siervos estaban a su alrededor. ^7^ Saúl dijo a sus siervos que estaban a su alrededor: “¡Oigan ahora, benjamitas! ¿Acaso el hijo de Isaí les dará a todos ustedes campos y viñas? ¿Os hará a todos capitanes de millares y de centenas? ^8^ ¿Es por eso que todos ustedes han conspirado contra mí, y no hay nadie que me revele cuando mi hijo hace un tratado con el hijo de Isaí, y no hay ninguno de ustedes que se apene por mí, o que me revele que mi hijo ha incitado a mi siervo contra mí, para acechar, como sucede hoy?” ^a^
-^a^[**22:8** 1Sam 18,3]
+@6 Y oyó Saúl como había parecido David, y los que estaban con él. Estaba entonces Saúl en Gabaa debajo de un árbol en Rama, y tenía su lanza en su mano, y todos sus criados estaban en derredor de él. 
+@7 Y dijo Saúl á sus criados que estaban en derredor de él: Oid ahora, hijos de Benjamín: ¿Os dará también á todos vosotros el hijo de Isaí tierras y viñas, y os hará á todos tribunos y centuriones; 
+@8 Que todos vosotros habéis conspirado contra mí, y no hay quien me descubra al oído como mi hijo ha hecho alianza con el hijo de Isaí, ni alguno de vosotros que se duela de mí, y me descubra como mi hijo ha levantado á mi siervo contra mí, para que me aceche, según hace hoy día?
 
-^9^ Entonces Doeg el edomita, que estaba junto a los servidores de Saúl, respondió y dijo: “He visto al hijo de Jesé llegar a Nob, a Ajimelec, hijo de Ajitub. ^a^ ^10^ Él consultó a Yavé por él, le dio comida y le entregó la espada de Goliat el filisteo”. ^b^
-^a^[**22:9** 1Sam 22,22; Sal 52,1] ^b^[**22:10** 1Sam 21,6-9]
+@9 Entonces Doeg Idumeo, que era superior entre los siervos de Saúl, respondió y dijo: Yo vi al hijo de Isaí que vino á Nob, á Ahimelech hijo de Ahitob; 
+@10 El cual consultó por él á Jehová, y dióle provisión, y también le dió la espada de Goliath el Filisteo.
 
 ## El plato de sangre en Guibeá
-^11^ Entonces el rey envió a llamar al sacerdote Ajimelec, hijo de Ajitub, y a toda la casa de su padre, los sacerdotes que estaban en Nob; y todos ellos vinieron al rey. ^12^ Saúl dijo: “Escucha ahora, hijo de Ajitub”. Él respondió: “Aquí estoy, mi señor”.
+@11 Y el rey envió por el sacerdote Ahimelech hijo de Ahitob, y por toda la casa de su padre, los sacerdotes que estaban en Nob: y todos vinieron al rey. 
+@12 Y Saúl le dijo: Oye ahora, hijo de Ahitob. Y él dijo: Heme aquí, señor mío.
 
-^13^ Saúl le dijo: “¿Por qué has conspirado contra mí, tú y el hijo de Jesé, en que le has dado pan y espada, y has consultado a Dios por él, para que se levante contra mí, para acechar, como hoy?”
+@13 Y díjole Saúl: ¿Por qué habéis conspirado contra mí, tú y el hijo de Isaí, cuando tú le diste pan y espada, y consultaste por él á Dios, para que se levantase contra mí y me acechase, como lo hace hoy día?
 
-^14^ Entonces Ahimelec respondió al rey y dijo: “¿Quién de todos tus siervos es tan fiel como David, que es yerno del rey, capitán de tu guardia y honrado en tu casa? ^a^ ^15^ ¿Acaso he comenzado hoy a preguntar a Dios por él? ¡Lejos de mí! Que el rey no impute nada a su siervo, ni a toda la casa de mi padre; porque tu siervo no sabía nada de todo esto, ni menos ni más.”
-^a^[**22:14** 1Sam 18,22; 1Sam 18,27]
+@14 Entonces Ahimelech respondió al rey, y dijo: ¿Y quién entre todos tus siervos es tan fiel como David, yerno además del rey, y que va por tu mandado, y es ilustre en tu casa? 
+@15 ¿He comenzado yo desde hoy á consultar por él á Dios? lejos sea de mí: no impute el rey cosa alguna á su siervo, ni á toda la casa de mi padre; porque tu siervo ninguna cosa sabe de este negocio, grande ni chica.
 
-^16^ El rey dijo: “Sin duda morirás, Ajimelec, tú y toda la casa de tu padre”. ^17^ El rey dijo a la guardia que lo rodeaba: “Vuélvanse y maten a los sacerdotes de Yavé, porque también su mano está con David, y porque sabían que había huido y no me lo revelaron.” Pero los servidores del rey no quisieron extender su mano para caer sobre los sacerdotes de Yahvé.
+@16 Y el rey dijo: Sin duda morirás, Ahimelech, tú y toda la casa de tu padre. 
+@17 Entonces dijo el rey á la gente de su guardia que estaba alrededor de él: Cercad y matad á los sacerdotes de Jehová; porque también la mano de ellos es con David, pues sabiendo ellos que huía, no me lo descubrieron. Mas los siervos del rey no quisieron extender sus manos para matar á los sacerdotes de Jehová.
 
-^18^ El rey le dijo a Doeg: “¡Vuelve y ataca a los sacerdotes!” Doeg el edomita se volvió y atacó a los sacerdotes, y ese día mató a ochenta y cinco personas que llevaban un efod de lino. ^19^ Hirió a Nob, la ciudad de los sacerdotes, a filo de espada, tanto a hombres como a mujeres, niños y lactantes, y ganado, asnos y ovejas, a filo de espada. ^a^
-^a^[**22:19** 1Sam 21,1]
+@18 Entonces dijo el rey á Doeg: Vuelve tú, y arremete contra los sacerdotes. Y revolviéndose Doeg Idumeo, arremetió contra los sacerdotes, y mató en aquel día ochenta y cinco varones que vestían ephod de lino.
+
+@19 Y á Nob, ciudad de los sacerdotes, puso á cuchillo: así á hombres como á mujeres, niños y mamantes, bueyes y asnos y ovejas, todo á cuchillo.
 
 ## El sacerdote fugitivo Abjathar encuentra una recepción amistosa con David
-^20^ Uno de los hijos de Ajimelec, hijo de Ajitub, llamado Abiatar, escapó y huyó tras David. ^21^ Abiatar le dijo a David que Saúl había matado a los sacerdotes de Yahvé.
+@20 Mas uno de los hijos de Ahimelech hijo de Ahitob, que se llamaba Abiathar, escapó, y huyóse á David. 
+@21 Y Abiathar notició á David como Saúl había muerto los sacerdotes de Jehová.
 
-^22^ David le dijo a Abiatar: “Yo sabía que ese día, cuando Doeg el edomita estaba allí, seguramente se lo diría a Saúl. Soy responsable de la muerte de todas las personas de la casa de tu padre. ^a^ ^23^ Quédate conmigo. No tengas miedo, porque el que busca mi vida busca la tuya. Estarás a salvo conmigo”.
-^a^[**22:22** 1Sam 22,9]
+@22 Y dijo David á Abiathar: Yo sabía que estando allí aquel día Doeg el Idumeo, él lo había de hacer saber á Saúl. Yo he dado ocasión contra todas las personas de la casa de tu padre. 
+@23 Quédate conmigo, no temas: quien buscare mi vida, buscará también la tuya: bien que tú estarás conmigo guardado. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 22
-^1^ David therefore departed from there and escaped to Adullam’s cave. When his brothers and all his father’s house heard it, they went down there to him. ^2^ Everyone who was in distress, everyone who was in debt, and everyone who was discontented gathered themselves to him; and he became captain over them. There were with him about four hundred men. ^3^ David went from there to Mizpeh of Moab; and he said to the king of Moab, “Please let my father and my mother come out to you, until I know what God will do for me.” ^4^ He brought them before the king of Moab; and they lived with him all the time that David was in the stronghold. ^5^ The prophet Gad said to David, “Don’t stay in the stronghold. Depart, and go into the land of Judah.” 
+## David's subsequent flight to Adullam, Mizpah in Moab and Jaar-Hereth in Judah; his care for his parents
+@1 David therefore departed from there and escaped to Adullam’s cave. When his brothers and all his father’s house heard it, they went down there to him. 
+@2 Everyone who was in distress, everyone who was in debt, and everyone who was discontented gathered themselves to him; and he became captain over them. There were with him about four hundred men. 
+@3 David went from there to Mizpeh of Moab; and he said to the king of Moab, “Please let my father and my mother come out to you, until I know what God will do for me.” 
+@4 He brought them before the king of Moab; and they lived with him all the time that David was in the stronghold. 
+@5 The prophet Gad said to David, “Don’t stay in the stronghold. Depart, and go into the land of Judah.” 
 
-Then David departed, and came into the forest of Hereth. 
+Then David departed, and came into the forest of Hereth.
 
-^6^ Saul heard that David was discovered, with the men who were with him. Now Saul was sitting in Gibeah, under the tamarisk tree in Ramah, with his spear in his hand, and all his servants were standing around him. ^7^ Saul said to his servants who stood around him, “Hear now, you Benjamites! Will the son of Jesse give everyone of you fields and vineyards? Will he make you all captains of thousands and captains of hundreds? ^8^ Is that why all of you have conspired against me, and there is no one who discloses to me when my son makes a treaty with the son of Jesse, and there is none of you who is sorry for me, or discloses to me that my son has stirred up my servant against me, to lie in wait, as it is today?” 
+## Saul's complaint to those around him in Gibeah; Betrayal of the Edomite Doeg; Saul's bloody revenge against the priests of Nob
+@6 Saul heard that David was discovered, with the men who were with him. Now Saul was sitting in Gibeah, under the tamarisk tree in Ramah, with his spear in his hand, and all his servants were standing around him. 
+@7 Saul said to his servants who stood around him, “Hear now, you Benjamites! Will the son of Jesse give everyone of you fields and vineyards? Will he make you all captains of thousands and captains of hundreds? 
+@8 Is that why all of you have conspired against me, and there is no one who discloses to me when my son makes a treaty with the son of Jesse, and there is none of you who is sorry for me, or discloses to me that my son has stirred up my servant against me, to lie in wait, as it is today?” 
 
-^9^ Then Doeg the Edomite, who stood by the servants of Saul, answered and said, “I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub. ^10^ He inquired of Yahweh for him, gave him food, and gave him the sword of Goliath the Philistine.” 
+@9 Then Doeg the Edomite, who stood by the servants of Saul, answered and said, “I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub. 
+@10 He inquired of Yahweh for him, gave him food, and gave him the sword of Goliath the Philistine.”
 
-^11^ Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests who were in Nob; and they all came to the king. ^12^ Saul said, “Hear now, you son of Ahitub.” 
+## The plate of blood in Gibeah
+@11 Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests who were in Nob; and they all came to the king. 
+@12 Saul said, “Hear now, you son of Ahitub.” 
 
 He answered, “Here I am, my lord.” 
 
-^13^ Saul said to him, “Why have you conspired against me, you and the son of Jesse, in that you have given him bread, and a sword, and have inquired of God for him, that he should rise against me, to lie in wait, as it is today?” 
+@13 Saul said to him, “Why have you conspired against me, you and the son of Jesse, in that you have given him bread, and a sword, and have inquired of God for him, that he should rise against me, to lie in wait, as it is today?” 
 
-^14^ Then Ahimelech answered the king, and said, “Who among all your servants is so faithful as David, who is the king’s son-in-law, captain of your body guard, and honored in your house? ^15^ Have I today begun to inquire of God for him? Be it far from me! Don’t let the king impute anything to his servant, nor to all the house of my father; for your servant knew nothing of all this, less or more.” 
+@14 Then Ahimelech answered the king, and said, “Who among all your servants is so faithful as David, who is the king’s son-in-law, captain of your body guard, and honored in your house? 
+@15 Have I today begun to inquire of God for him? Be it far from me! Don’t let the king impute anything to his servant, nor to all the house of my father; for your servant knew nothing of all this, less or more.” 
 
-^16^ The king said, “You shall surely die, Ahimelech, you and all your father’s house.” ^17^ The king said to the guard who stood about him, “Turn and kill the priests of Yahweh, because their hand also is with David, and because they knew that he fled and didn’t disclose it to me.” But the servants of the king wouldn’t put out their hand to fall on the priests of Yahweh. 
+@16 The king said, “You shall surely die, Ahimelech, you and all your father’s house.” 
+@17 The king said to the guard who stood about him, “Turn and kill the priests of Yahweh, because their hand also is with David, and because they knew that he fled and didn’t disclose it to me.” But the servants of the king wouldn’t put out their hand to fall on the priests of Yahweh. 
 
-^18^ The king said to Doeg, “Turn and attack the priests!” 
+@18 The king said to Doeg, “Turn and attack the priests!” 
 
-Doeg the Edomite turned, and he attacked the priests, and he killed on that day eighty-five people who wore a linen ephod. ^19^ He struck Nob, the city of the priests, with the edge of the sword—both men and women, children and nursing babies, and cattle, donkeys, and sheep, with the edge of the sword. ^20^ One of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped and fled after David. ^21^ Abiathar told David that Saul had slain Yahweh’s priests. 
+Doeg the Edomite turned, and he attacked the priests, and he killed on that day eighty-five people who wore a linen ephod. 
+@19 He struck Nob, the city of the priests, with the edge of the sword—both men and women, children and nursing babies, and cattle, donkeys, and sheep, with the edge of the sword.
 
-^22^ David said to Abiathar, “I knew on that day, when Doeg the Edomite was there, that he would surely tell Saul. I am responsible for the death of all the persons of your father’s house. ^23^ Stay with me. Don’t be afraid, for he who seeks my life seeks your life. You will be safe with me.” 
+## Fugitive priest Abjathar finds a friendly reception with David
+@20 One of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped and fled after David. 
+@21 Abiathar told David that Saul had slain Yahweh’s priests. 
+
+@22 David said to Abiathar, “I knew on that day, when Doeg the Edomite was there, that he would surely tell Saul. I am responsible for the death of all the persons of your father’s house. 
+@23 Stay with me. Don’t be afraid, for he who seeks my life seeks your life. You will be safe with me.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 23
 ## David en el desierto de Judá (en Kegila y Maon); su último encuentro con Jonathan; Traición de los sifitas
-^1^ Le dijeron a David: “He aquí que los filisteos combaten contra Keila y roban las eras”. ^a^
-^a^[**23:1** Jos 15,44]
+@1 Y dieron aviso á David, diciendo: He aquí que los Filisteos combaten á Keila, y roban las eras.
 
-^2^ Por lo tanto, David consultó a Yahvé, diciendo: “¿Debo ir a golpear a estos filisteos?” Yahvé dijo a David: “Ve a golpear a los filisteos y salva a Keilah”.
+@2 Y David consultó á Jehová, diciendo: ¿Iré á herir á estos Filisteos? Y Jehová respondió á David: Ve, hiere á los Filisteos, y libra á Keila.
 
-^3^ Los hombres de David le dijeron: “He aquí que tenemos miedo aquí en Judá. ¿Cuánto más si vamos a Keila contra los ejércitos de los filisteos?”
+@3 Mas los que estaban con David le dijeron: He aquí que nosotros aquí en Judá estamos con miedo; ¿cuánto más si fuéremos á Keila contra el ejército de los Filisteos?
 
-^4^ Entonces David volvió a consultar a Yavé. Yahvé le respondió y le dijo: “Levántate, baja a Keila, porque entregaré a los filisteos en tu mano”.
+@4 Entonces David volvió á consultar á Jehová. Y Jehová le respondió, y dijo: Levántate, desciende á Keila, que yo entregaré en tus manos á los Filisteos.
 
-^5^ David y sus hombres fueron a Keila y lucharon contra los filisteos, y se llevaron su ganado, y los mataron con una gran matanza. Así David salvó a los habitantes de Keila. ^a^
-^a^[**23:5** 1Sam 19,8]
+@5 Partióse pues David con sus hombres á Keila, y peleó contra los Filisteos, y trajo antecogidos sus ganados, é hiriólos con grande estrago: y libró David á los de Keila.
 
-^6^ Cuando Abiatar, hijo de Ajimelec, huyó con David a Keilá, bajó con un efod en la mano. ^a^
-^a^[**23:6** 1Sam 22,20]
+@6 Y aconteció que, huyendo Abiathar hijo de Ahimelech á David á Keila, vino también con él el ephod.
 
-^7^ Saúl fue informado de que David había llegado a Keila. Saúl dijo: “Dios lo ha entregado en mi mano, pues está encerrado al entrar en una ciudad que tiene puertas y rejas”. ^8^ Saúl convocó a todo el pueblo a la guerra, para bajar a Keila a sitiar a David y a sus hombres. ^9^ David sabía que Saúl estaba tramando una travesura contra él. Le dijo al sacerdote Abiatar: “Trae el efod aquí”. ^a^ ^10^ Entonces David dijo: “Oh Yahvé, Dios de Israel, tu siervo ha oído ciertamente que Saúl pretende venir a Keila para destruir la ciudad por mi causa. ^11^ ¿Me entregarán los hombres de Keila en sus manos? ¿Bajará Saúl, como ha oído tu siervo? Yahvé, el Dios de Israel, te ruego que se lo digas a tu siervo”. Yahvé dijo: “Bajará”.
-^a^[**23:9** 1Sam 30,7]
+@7 Y fué dicho á Saúl que David había venido á Keila. Entonces dijo Saúl: Dios lo ha traído á mis manos; porque él está encerrado, habiéndose metido en ciudad con puertas y cerraduras. 
+@8 Y convocó Saúl todo el pueblo á la batalla, para descender á Keila, y poner cerco á David y á los suyos. 
+@9 Mas entendiendo David que Saúl ideaba el mal contra él, dijo á Abiathar sacerdote: Trae el ephod. 
+@10 Y dijo David: Jehová Dios de Israel, tu siervo tiene entendido que Saúl trata de venir contra Keila, á destruir la ciudad por causa mía. 
+@11 ¿Me entregarán los vecinos de Keila en sus manos? ¿descenderá Saúl, como tu siervo tiene oído? Jehová Dios de Israel, ruégote que lo declares á tu siervo. Y Jehová dijo: Sí, descenderá.
 
-^12^ Entonces David dijo: “¿Me entregarán los hombres de Keila a mí y a mis hombres en manos de Saúl?” Yahvé dijo: “Te entregarán”.
+@12 Dijo luego David: ¿Me entregarán los vecinos de Keila á mí y á mis hombres en manos de Saúl? Y Jehová respondió: Te entregarán.
 
-^13^ Entonces David y sus hombres, que eran como seiscientos, se levantaron y salieron de Keila y se fueron a donde pudieron. Saúl se enteró de que David había escapado de Keila, y renunció a ir allí.
+@13 David entonces se levantó con sus hombres, que eran como seiscientos, y saliéronse de Keila, y fuéronse de una parte á otra. Y vino la nueva á Saúl de como David se había escapado de Keila; y dejó de salir.
 
 ## David perseguido por Saúl en el desierto de Siph; su entrevista con Jonathan en Horesa
-^14^ David se quedó en el desierto, en las fortalezas, y permaneció en la región montañosa, en el desierto de Zif. Saúl lo buscaba todos los días, pero Dios no lo entregó en su mano. ^a^ ^15^ David vio que Saúl había salido a buscar su vida. David estaba en el desierto de Zif, en el bosque.
-^a^[**23:14** 1Sam 23,19; 1Sam 23,29]
+@14 Y David se estaba en el desierto en peñas, y habitaba en un monte en el desierto de Ziph; y buscábalo Saúl todos los días, mas Dios no lo entregó en sus manos. 
+@15 Viendo pues David que Saúl había salido en busca de su alma, estábase él en el bosque en el desierto de Ziph.
 
-^16^ Jonatán, hijo de Saúl, se levantó y fue a ver a David al bosque, y fortaleció su mano en Dios. ^17^ Le dijo: “No temas, porque la mano de mi padre Saúl no te encontrará; tú serás rey de Israel y yo estaré a tu lado, y eso también lo sabe mi padre Saúl.” ^18^ Ambos hicieron un pacto ante el Señor. Luego David se quedó en el bosque y Jonatán se fue a su casa. ^a^
-^a^[**23:18** 1Sam 18,3]
+@16 Entonces se levantó Jonathán hijo de Saúl, y vino á David en el bosque, y confortó su mano en Dios. 
+@17 Y díjole: No temas, que no te hallará la mano de Saúl mi padre, y tú reinarás sobre Israel, y yo seré segundo después de ti; y aun Saúl mi padre así lo sabe. 
+@18 Y entrambos hicieron alianza delante de Jehová: y David se quedó en el bosque, y Jonathán se volvió á su casa.
 
 ## David traicionado por los sifitas y maravillosamente salvado de Saúl en el desierto de Maón
-^19^ Entonces los zifitas subieron a Saúl a Gabaa, diciendo: “¿No se esconde David con nosotros en las fortalezas del bosque, en la colina de Haquila, que está al sur del desierto? ^a^ ^20^ Ahora, pues, oh rey, baja. Según todo el deseo de tu alma desciende; y nuestra parte será entregarlo en mano del rey”.
-^a^[**23:19** 1Sam 26,1; Sal 54,1]
+@19 Y subieron los de Ziph á decir á Saúl en Gabaa: ¿No está David escondido en nuestra tierra en las peñas del bosque, en el collado de Hachîla que está á la mano derecha del desierto? 
+@20 Por tanto, rey, desciende ahora presto, según todo el deseo de tu alma, y nosotros lo entregaremos en la mano del rey.
 
-^21^ Saúl dijo: “Bendito seas por Yahvé, pues te has compadecido de mí. ^22^ Te ruego que vayas a asegurarte aún más, y que conozcas y veas dónde está su guarida, y quién lo ha visto allí; porque me han dicho que es muy astuto. ^23^ Ve, pues, y conoce todos los lugares donde se esconde; y vuelve a mí con seguridad, y yo iré contigo. Si él está en la tierra, yo lo buscaré entre todos los millares de Judá”.
+@21 Y Saúl dijo: Benditos seáis vosotros de Jehová, que habéis tenido compasión de mí: 
+@22 Id pues ahora, apercibid aún, considerad y ved su lugar donde tiene el pie, y quién lo haya visto allí; porque se me ha dicho que él es en gran manera astuto. 
+@23 Considerad pues, y ved todos los escondrijos donde se oculta, y volved á mí con la certidumbre, y yo iré con vosotros: que si él estuviere en la tierra, yo le buscaré entre todos los millares de Judá.
 
-^24^ Se levantaron y se dirigieron a Zif delante de Saúl, pero David y sus hombres estaban en el desierto de Maón, en el Arabá, al sur del desierto. ^25^ Saúl y sus hombres fueron a buscarlo. Cuando le avisaron a David, bajó a la roca y se quedó en el desierto de Maón. Cuando Saúl se enteró, persiguió a David en el desierto de Maón. ^26^ Saúl iba por este lado de la montaña, y David y sus hombres por aquel lado; y David se apresuraba a huir por miedo a Saúl, pues éste y sus hombres rodeaban a David y a los suyos para apresarlos. ^27^ Pero llegó un mensajero a Saúl, diciendo: “¡Apúrate y ven, porque los filisteos han hecho una incursión en la tierra!” ^28^ Así que Saúl regresó de perseguir a David y fue contra los filisteos. Por eso llamaron a ese lugar Sela Hammahlekoth. ^a^
-^a^[**23:28** “Sela Hammahlekoth” significa “roca de separación”.]
-
-^29^ David subió de allí y vivió en las fortalezas de En Gedi.
+@24 Y ellos se levantaron, y se fueron á Ziph delante de Saúl. Mas David y su gente estaban en el desierto de Maón, en la llanura que está á la diestra del desierto. 
+@25 Y partióse Saúl con su gente á buscarlo; pero fué dado aviso á David, y descendió á la peña, y quedóse en el desierto de Maón. Lo cual como Saúl oyó, siguió á David al desierto de Maón. 
+@26 Y Saúl iba por el un lado del monte, y David con los suyos por el otro lado del monte: y dábase priesa David para ir delante de Saúl; mas Saúl y los suyos habían encerrado á David y á su gente para tomarlos. 
+@27 Entonces vino un mensajero á Saúl, diciendo: Ven luego, porque los Filisteos han hecho una irrupción en el país. 
+@28 Volvióse por tanto Saúl de perseguir á David, y partió contra los Filisteos. Por esta causa pusieron á aquel lugar por nombre Sela-hammah-lecoth. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 23
-^1^ David was told, “Behold, the Philistines are fighting against Keilah, and are robbing the threshing floors.” 
+## David in the desert of Judah (at Kegila and Maon); his last meeting with Jonathan; Treason of the Siphites
+@1 David was told, “Behold, the Philistines are fighting against Keilah, and are robbing the threshing floors.” 
 
-^2^ Therefore David inquired of Yahweh, saying, “Shall I go and strike these Philistines?” 
+@2 Therefore David inquired of Yahweh, saying, “Shall I go and strike these Philistines?” 
 
 Yahweh said to David, “Go strike the Philistines, and save Keilah.” 
 
-^3^ David’s men said to him, “Behold, we are afraid here in Judah. How much more then if we go to Keilah against the armies of the Philistines?” 
+@3 David’s men said to him, “Behold, we are afraid here in Judah. How much more then if we go to Keilah against the armies of the Philistines?” 
 
-^4^ Then David inquired of Yahweh yet again. Yahweh answered him, and said, “Arise, go down to Keilah; for I will deliver the Philistines into your hand.” 
+@4 Then David inquired of Yahweh yet again. Yahweh answered him, and said, “Arise, go down to Keilah; for I will deliver the Philistines into your hand.” 
 
-^5^ David and his men went to Keilah and fought with the Philistines, and brought away their livestock, and killed them with a great slaughter. So David saved the inhabitants of Keilah. 
+@5 David and his men went to Keilah and fought with the Philistines, and brought away their livestock, and killed them with a great slaughter. So David saved the inhabitants of Keilah. 
 
-^6^ When Abiathar the son of Ahimelech fled to David to Keilah, he came down with an ephod in his hand. 
+@6 When Abiathar the son of Ahimelech fled to David to Keilah, he came down with an ephod in his hand. 
 
-^7^ Saul was told that David had come to Keilah. Saul said, “God has delivered him into my hand, for he is shut in by entering into a town that has gates and bars.” ^8^ Saul summoned all the people to war, to go down to Keilah to besiege David and his men. ^9^ David knew that Saul was devising mischief against him. He said to Abiathar the priest, “Bring the ephod here.” ^10^ Then David said, “O Yahweh, the God of Israel, your servant has surely heard that Saul seeks to come to Keilah to destroy the city for my sake. ^11^ Will the men of Keilah deliver me up into his hand? Will Saul come down, as your servant has heard? Yahweh, the God of Israel, I beg you, tell your servant.” 
+@7 Saul was told that David had come to Keilah. Saul said, “God has delivered him into my hand, for he is shut in by entering into a town that has gates and bars.” 
+@8 Saul summoned all the people to war, to go down to Keilah to besiege David and his men. 
+@9 David knew that Saul was devising mischief against him. He said to Abiathar the priest, “Bring the ephod here.” 
+@10 Then David said, “O Yahweh, the God of Israel, your servant has surely heard that Saul seeks to come to Keilah to destroy the city for my sake. 
+@11 Will the men of Keilah deliver me up into his hand? Will Saul come down, as your servant has heard? Yahweh, the God of Israel, I beg you, tell your servant.” 
 
 Yahweh said, “He will come down.” 
 
-^12^ Then David said, “Will the men of Keilah deliver me and my men into the hand of Saul?” 
+@12 Then David said, “Will the men of Keilah deliver me and my men into the hand of Saul?” 
 
 Yahweh said, “They will deliver you up.” 
 
-^13^ Then David and his men, who were about six hundred, arose and departed out of Keilah and went wherever they could go. Saul was told that David had escaped from Keilah; and he gave up going there. ^14^ David stayed in the wilderness in the strongholds, and remained in the hill country in the wilderness of Ziph. Saul sought him every day, but God didn’t deliver him into his hand. ^15^ David saw that Saul had come out to seek his life. David was in the wilderness of Ziph in the woods. 
+@13 Then David and his men, who were about six hundred, arose and departed out of Keilah and went wherever they could go. Saul was told that David had escaped from Keilah; and he gave up going there.
 
-^16^ Jonathan, Saul’s son, arose and went to David into the woods, and strengthened his hand in God. ^17^ He said to him, “Don’t be afraid, for the hand of Saul my father won’t find you; and you will be king over Israel, and I will be next to you; and Saul my father knows that also.” ^18^ They both made a covenant before Yahweh. Then David stayed in the woods and Jonathan went to his house. 
+## David pursued by Saul in the desert of Siph; his interview with Jonathan in Horesa
+@14 David stayed in the wilderness in the strongholds, and remained in the hill country in the wilderness of Ziph. Saul sought him every day, but God didn’t deliver him into his hand. 
+@15 David saw that Saul had come out to seek his life. David was in the wilderness of Ziph in the woods. 
 
-^19^ Then the Ziphites came up to Saul to Gibeah, saying, “Doesn’t David hide himself with us in the strongholds in the woods, in the hill of Hachilah, which is on the south of the desert? ^20^ Now therefore, O king, come down. According to all the desire of your soul to come down; and our part will be to deliver him up into the king’s hand.” 
+@16 Jonathan, Saul’s son, arose and went to David into the woods, and strengthened his hand in God. 
+@17 He said to him, “Don’t be afraid, for the hand of Saul my father won’t find you; and you will be king over Israel, and I will be next to you; and Saul my father knows that also.” 
+@18 They both made a covenant before Yahweh. Then David stayed in the woods and Jonathan went to his house.
 
-^21^ Saul said, “You are blessed by Yahweh, for you have had compassion on me. ^22^ Please go make yet more sure, and know and see his place where his haunt is, and who has seen him there; for I have been told that he is very cunning. ^23^ See therefore, and take knowledge of all the lurking places where he hides himself; and come again to me with certainty, and I will go with you. It shall happen, if he is in the land, that I will search him out among all the thousands of Judah.” 
+## David betrayed by the Siphites and wonderfully saved from Saul in the desert of Maon
+@19 Then the Ziphites came up to Saul to Gibeah, saying, “Doesn’t David hide himself with us in the strongholds in the woods, in the hill of Hachilah, which is on the south of the desert? 
+@20 Now therefore, O king, come down. According to all the desire of your soul to come down; and our part will be to deliver him up into the king’s hand.” 
 
-^24^ They arose, and went to Ziph before Saul; but David and his men were in the wilderness of Maon, in the Arabah on the south of the desert. ^25^ Saul and his men went to seek him. When David was told, he went down to the rock, and stayed in the wilderness of Maon. When Saul heard that, he pursued David in the wilderness of Maon. ^26^ Saul went on this side of the mountain, and David and his men on that side of the mountain; and David hurried to get away for fear of Saul, for Saul and his men surrounded David and his men to take them. ^27^ But a messenger came to Saul, saying, “Hurry and come, for the Philistines have made a raid on the land!” ^28^ So Saul returned from pursuing David, and went against the Philistines. Therefore they called that place Sela Hammahlekoth.^a^ 
+@21 Saul said, “You are blessed by Yahweh, for you have had compassion on me. 
+@22 Please go make yet more sure, and know and see his place where his haunt is, and who has seen him there; for I have been told that he is very cunning. 
+@23 See therefore, and take knowledge of all the lurking places where he hides himself; and come again to me with certainty, and I will go with you. It shall happen, if he is in the land, that I will search him out among all the thousands of Judah.” 
+
+@24 They arose, and went to Ziph before Saul; but David and his men were in the wilderness of Maon, in the Arabah on the south of the desert. 
+@25 Saul and his men went to seek him. When David was told, he went down to the rock, and stayed in the wilderness of Maon. When Saul heard that, he pursued David in the wilderness of Maon. 
+@26 Saul went on this side of the mountain, and David and his men on that side of the mountain; and David hurried to get away for fear of Saul, for Saul and his men surrounded David and his men to take them. 
+@27 But a messenger came to Saul, saying, “Hurry and come, for the Philistines have made a raid on the land!” 
+@28 So Saul returned from pursuing David, and went against the Philistines. Therefore they called that place Sela Hammahlekoth.^a^ 
 ^a^[**23:28** “Sela Hammahlekoth” means “rock of parting”.]
 
-^29^ David went up from there and lived in the strongholds of En Gedi. 
+@29 David went up from there and lived in the strongholds of En Gedi. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 24
 ## La generosidad de David hacia Saúl en la cueva cerca de Engedi
-^1^ Cuando Saúl volvió de seguir a los filisteos, le dijeron: “He aquí que David está en el desierto de En Gedi”. ^2^ Entonces Saúl tomó a tres mil hombres escogidos de todo Israel y fue a buscar a David y a sus hombres a las rocas de las cabras salvajes. ^3^ Llegó a los corrales de las ovejas junto al camino, donde había una cueva, y Saúl entró a hacer sus necesidades. David y sus hombres se encontraban en lo más recóndito de la cueva. ^a^ ^4^ Los hombres de David le dijeron: “He aquí el día del que Yahvé te dijo: ‘He aquí que entregaré a tu enemigo en tu mano, y harás con él lo que te parezca’”. Entonces David se levantó y cortó en secreto la falda del manto de Saúl. ^5^ Después, el corazón de David se conmovió porque había cortado la falda de Saúl. ^6^ Dijo a sus hombres: “No permita Yahvé que le haga esto a mi señor, el ungido de Yahvé, que extienda mi mano contra él, ya que es el ungido de Yahvé.” ^b^ ^7^ Así que David controló a sus hombres con estas palabras, y no permitió que se levantaran contra Saúl. Saúl se levantó de la cueva y siguió su camino. ^8^ David también se levantó después, salió de la cueva y gritó tras Saúl, diciendo: “¡Mi señor el rey!” Cuando Saúl miró hacia atrás, David se inclinó con el rostro hacia la tierra, y mostró respeto.
-^a^[**24:3** Sal 142,1] ^b^[**24:6** 2Sam 1,14; Sal 105,15]
+@1 Entonces David subió de allí, y habitó en los parajes fuertes en Engaddi. 
+@2 Y como Saúl volvió de los Filisteos, diéronle aviso diciendo: He aquí que David está en el desierto de Engaddi. 
+@3 Y tomando Saúl tres mil hombres escogidos de todo Israel, fué en busca de David y de los suyos, por las cumbres de los peñascos de las cabras monteses. 
+@4 Y como llegó á una majada de ovejas en el camino, donde había una cueva, entró Saúl en ella á cubrir sus pies: y David y los suyos estaban á los lados de la cueva. 
+@5 Entonces los de David le dijeron: He aquí el día de que te ha dicho Jehová: He aquí que entrego tu enemigo en tus manos, y harás con él como te pareciere. Y levantóse David, y calladamente cortó la orilla del manto de Saúl. 
+@6 Después de lo cual el corazón de David le golpeaba, porque había cortado la orilla del manto de Saúl. 
+@7 Y dijo á los suyos: Jehová me guarde de hacer tal cosa contra mi señor, el ungido de Jehová, que yo extienda mi mano contra él; porque es el ungido de Jehová. 
+@8 Así quebrantó David á los suyos con palabras, y no les permitió que se levantasen contra Saúl. Y Saúl, saliendo de la cueva, fuése su camino.
 
 ## Los discursos intercambiados entre Saúl y David; su despedida
-^9^ David dijo a Saúl: “¿Por qué escuchas las palabras de los hombres, que dicen: ‘He aquí que David busca hacerte daño’? ^10^ He aquí que tus ojos han visto cómo el Señor te ha entregado hoy en mi mano en la cueva. Algunos me instaron a matarte, pero te perdoné. Dije: ‘No extenderé mi mano contra mi señor, porque es el ungido de Yavé’. ^11^ Además, padre mío, mira, sí, mira la falda de tu manto en mi mano; porque en que corté la falda de tu manto y no te maté, conoce y ve que no hay maldad ni desobediencia en mi mano. No he pecado contra ti, aunque persigas mi vida para quitármela. ^12^ Que Yahvé juzgue entre tú y yo, y que Yahvé me vengue de ti; pero mi mano no estará sobre ti. ^a^ ^13^ Como dice el proverbio de los antiguos: “De los impíos sale la maldad”; pero mi mano no estará sobre ti. ^14^ ¿Contra quién ha salido el rey de Israel? ¿A quién persigue? ¿A un perro muerto? ¿Una pulga? ^15^ Sea, pues, Yahvé el juez, y dicte sentencia entre tú y yo, y vea, y defienda mi causa, y me libre de tu mano.”
-^a^[**24:12** Rom 12,19; 1Pe 2,23]
+@9 También David se levantó después, y saliendo de la cueva dió voces á las espaldas de Saúl, diciendo: ¡Mi señor el rey! Y como Saúl miró atrás, David inclinó su rostro á tierra, é hizo reverencia. 
+@10 Y dijo David á Saúl: ¿Por qué oyes las palabras de los que dicen: Mira que David procura tu mal? 
+@11 He aquí han visto hoy tus ojos como Jehová te ha puesto hoy en mis manos en la cueva: y dijeron que te matase, mas te perdoné, porque dije: No extenderé mi mano contra mi señor, porque ungido es de Jehová. 
+@12 Y mira, padre mío, mira aún la orilla de tu manto en mi mano: porque yo corté la orilla de tu manto, y no te maté. Conoce pues, y ve que no hay mal ni traición en mi mano, ni he pecado contra ti; con todo, tú andas á caza de mi vida para quitármela. 
+@13 Juzgue Jehová entre mí y ti, y véngueme de ti Jehová: empero mi mano no será contra ti. 
+@14 Como dice el proverbio de los antiguos: De los impíos saldrá la impiedad: así que mi mano no será contra ti. 
+@15 ¿Tras quién ha salido el rey de Israel? ¿á quién persigues? ¿á un perro muerto? ¿á una pulga?
 
-^16^ Cuando David terminó de decir estas palabras a Saúl, éste dijo: “¿Es esa tu voz, hijo mío David?” Saúl alzó la voz y lloró. ^17^ Dijo a David: “Tú eres más justo que yo, pues me has hecho bien, mientras que yo te he hecho mal. ^18^ Hoy has declarado cómo me has tratado bien, porque cuando Yahvé me entregó en tu mano, no me mataste. ^19^ Porque si un hombre encuentra a su enemigo, ¿lo dejará ir ileso? Por eso, que el Señor te recompense bien por lo que has hecho hoy conmigo. ^20^ Ahora bien, yo sé que ciertamente serás rey, y que el reino de Israel será establecido en tu mano. ^a^ ^21^ Júrame, pues, por Yahvé que no cortarás mi descendencia después de mí, y que no destruirás mi nombre de la casa de mi padre.”
-^a^[**24:20** 1Sam 23,17]
+@16 Jehová pues será juez, y él juzgará entre mí y ti. El vea, y sustente mi causa, y me defienda de tu mano. 
+@17 Y aconteció que, como David acabó de decir estas palabras á Saúl, Saúl dijo: ¿No es esta la voz tuya, hijo mío David? Y alzando Saúl su voz lloró. 
+@18 Y dijo á David: Más justo eres tú que yo, que me has pagado con bien, habiéndote yo pagado con mal. 
+@19 Tú has mostrado hoy que has hecho conmigo bien; pues no me has muerto, habiéndome Jehová puesto en tus manos. 
+@20 Porque ¿quién hallará á su enemigo, y lo dejará ir sano y salvo? Jehová te pague con bien por lo que en este día has hecho conmigo. 
+@21 Y ahora, como yo entiendo que tú has de reinar, y que el reino de Israel ha de ser en tu mano firme y estable,
 
-^22^ David juró a Saúl. Saúl se fue a su casa, pero David y sus hombres subieron a la fortaleza.
+@22 Júrame pues ahora por Jehová, que no cortarás mi simiente después de mí, ni raerás mi nombre de la casa de mi padre. Entonces David juró á Saúl. Y fuése Saúl á su casa, y David y los suyos se subieron al sitio fuerte. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 24
-^1^ When Saul had returned from following the Philistines, he was told, “Behold, David is in the wilderness of En Gedi.” ^2^ Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men on the rocks of the wild goats. ^3^ He came to the sheep pens by the way, where there was a cave; and Saul went in to relieve himself. Now David and his men were staying in the innermost parts of the cave. ^4^ David’s men said to him, “Behold, the day of which Yahweh said to you, ‘Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you.’” Then David arose and cut off the skirt of Saul’s robe secretly. ^5^ Afterward, David’s heart struck him because he had cut off Saul’s skirt. ^6^ He said to his men, “Yahweh forbid that I should do this thing to my lord, Yahweh’s anointed, to stretch out my hand against him, since he is Yahweh’s anointed.” ^7^ So David checked his men with these words, and didn’t allow them to rise against Saul. Saul rose up out of the cave, and went on his way. ^8^ David also arose afterward, and went out of the cave and cried after Saul, saying, “My lord the king!” 
+## David's generosity towards Saul in the cave near Engedi
+@1 When Saul had returned from following the Philistines, he was told, “Behold, David is in the wilderness of En Gedi.” 
+@2 Then Saul took three thousand chosen men out of all Israel, and went to seek David and his men on the rocks of the wild goats. 
+@3 He came to the sheep pens by the way, where there was a cave; and Saul went in to relieve himself. Now David and his men were staying in the innermost parts of the cave. 
+@4 David’s men said to him, “Behold, the day of which Yahweh said to you, ‘Behold, I will deliver your enemy into your hand, and you shall do to him as it shall seem good to you.’” Then David arose and cut off the skirt of Saul’s robe secretly. 
+@5 Afterward, David’s heart struck him because he had cut off Saul’s skirt. 
+@6 He said to his men, “Yahweh forbid that I should do this thing to my lord, Yahweh’s anointed, to stretch out my hand against him, since he is Yahweh’s anointed.” 
+@7 So David checked his men with these words, and didn’t allow them to rise against Saul. Saul rose up out of the cave, and went on his way. 
+@8 David also arose afterward, and went out of the cave and cried after Saul, saying, “My lord the king!” 
 
-When Saul looked behind him, David bowed with his face to the earth, and showed respect. ^9^ David said to Saul, “Why do you listen to men’s words, saying, ‘Behold, David seeks to harm you?’ ^10^ Behold, today your eyes have seen how Yahweh had delivered you today into my hand in the cave. Some urged me to kill you, but I spared you. I said, ‘I will not stretch out my hand against my lord, for he is Yahweh’s anointed.’ ^11^ Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe and didn’t kill you, know and see that there is neither evil nor disobedience in my hand. I have not sinned against you, though you hunt for my life to take it. ^12^ May Yahweh judge between me and you, and may Yahweh avenge me of you; but my hand will not be on you. ^13^ As the proverb of the ancients says, ‘Out of the wicked comes wickedness;’ but my hand will not be on you. ^14^ Against whom has the king of Israel come out? Whom do you pursue? A dead dog? A flea? ^15^ May Yahweh therefore be judge, and give sentence between me and you, and see, and plead my cause, and deliver me out of your hand.” 
+When Saul looked behind him, David bowed with his face to the earth, and showed respect.
 
-^16^ It came to pass, when David had finished speaking these words to Saul, that Saul said, “Is that your voice, my son David?” Saul lifted up his voice and wept. ^17^ He said to David, “You are more righteous than I; for you have done good to me, whereas I have done evil to you. ^18^ You have declared today how you have dealt well with me, because when Yahweh had delivered me up into your hand, you didn’t kill me. ^19^ For if a man finds his enemy, will he let him go away unharmed? Therefore may Yahweh reward you good for that which you have done to me today. ^20^ Now, behold, I know that you will surely be king, and that the kingdom of Israel will be established in your hand. ^21^ Swear now therefore to me by Yahweh that you will not cut off my offspring after me, and that you will not destroy my name out of my father’s house.” 
+## The speeches exchanged between Saul and David; his farewell
+@9 David said to Saul, “Why do you listen to men’s words, saying, ‘Behold, David seeks to harm you?’ 
+@10 Behold, today your eyes have seen how Yahweh had delivered you today into my hand in the cave. Some urged me to kill you, but I spared you. I said, ‘I will not stretch out my hand against my lord, for he is Yahweh’s anointed.’ 
+@11 Moreover, my father, behold, yes, see the skirt of your robe in my hand; for in that I cut off the skirt of your robe and didn’t kill you, know and see that there is neither evil nor disobedience in my hand. I have not sinned against you, though you hunt for my life to take it. 
+@12 May Yahweh judge between me and you, and may Yahweh avenge me of you; but my hand will not be on you. 
+@13 As the proverb of the ancients says, ‘Out of the wicked comes wickedness;’ but my hand will not be on you. 
+@14 Against whom has the king of Israel come out? Whom do you pursue? A dead dog? A flea? 
+@15 May Yahweh therefore be judge, and give sentence between me and you, and see, and plead my cause, and deliver me out of your hand.” 
 
-^22^ David swore to Saul. Saul went home, but David and his men went up to the stronghold. 
+@16 It came to pass, when David had finished speaking these words to Saul, that Saul said, “Is that your voice, my son David?” Saul lifted up his voice and wept. 
+@17 He said to David, “You are more righteous than I; for you have done good to me, whereas I have done evil to you. 
+@18 You have declared today how you have dealt well with me, because when Yahweh had delivered me up into your hand, you didn’t kill me. 
+@19 For if a man finds his enemy, will he let him go away unharmed? Therefore may Yahweh reward you good for that which you have done to me today. 
+@20 Now, behold, I know that you will surely be king, and that the kingdom of Israel will be established in your hand. 
+@21 Swear now therefore to me by Yahweh that you will not cut off my offspring after me, and that you will not destroy my name out of my father’s house.” 
+
+@22 David swore to Saul. Saul went home, but David and his men went up to the stronghold. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 25
 ## La muerte de Samuel; La locura de Nabal; David y Abigail
-^1^ Samuel murió, y todo Israel se reunió y lo lloró, y lo enterró en su casa de Ramá. Entonces David se levantó y descendió al desierto de Parán. ^a^
-^a^[**25:1** 1Sam 28,3]
+@1 Y murió Samuel, y juntóse todo Israel, y lo lloraron, y lo sepultaron en su casa en Rama. Y levantóse David, y se fué al desierto de Parán.
 
 ## El comportamiento necio de Nabal hacia la petición de David
-^2^ Había un hombre en Maón cuyas posesiones estaban en el Carmelo; el hombre era muy grande. Tenía tres mil ovejas y mil cabras, y estaba esquilando sus ovejas en el Carmelo. ^3^ El nombre de aquel hombre era Nabal, y el de su mujer, Abigail. Esta mujer era inteligente y tenía un rostro hermoso; pero el hombre era huraño y malvado en sus acciones. Era de la casa de Caleb. ^4^ David oyó en el desierto que Nabal estaba esquilando sus ovejas. ^5^ David envió a diez jóvenes, y les dijo: “Suban al Carmelo y vayan a Nabal y salúdenlo en mi nombre. ^6^ Díganle: “¡Que te vaya bien! ¡La paz sea contigo! ¡La paz sea con tu casa! ¡La paz sea con todo lo que tienes! ^7^ He oído que tienes esquiladores. Tus pastores han estado ahora con nosotros, y no les hemos hecho ningún daño. Nada les faltó en todo el tiempo que estuvieron en el Carmelo. ^8^ Pregunta a tus jóvenes, y ellos te lo dirán. Por lo tanto, que los jóvenes encuentren favor ante tus ojos, porque venimos en un buen día. Por favor, da lo que venga a tu mano a tus siervos y a tu hijo David”.
+@2 Y en Maón había un hombre que tenía su hacienda en el Carmelo, el cual era muy rico, que tenía tres mil ovejas y mil cabras. Y aconteció hallarse esquilando sus ovejas en el Carmelo. 
+@3 El nombre de aquel varón era Nabal, y el nombre de su mujer, Abigail. Y era aquella mujer de buen entendimiento y de buena gracia; mas el hombre era duro y de malos hechos; y era del linaje de Caleb. 
+@4 Y oyó David en el desierto que Nabal esquilaba sus ovejas. 
+@5 Entonces envió David diez criados, y díjoles: Subid al Carmelo, é id á Nabal, y saludadle en mi nombre, 
+@6 Y decidle así: Que vivas y sea paz á ti, y paz á tu familia, y paz á todo cuanto tienes. 
+@7 Ha poco supe que tienes esquiladores. Ahora, á los pastores tuyos que han estado con nosotros, nunca les hicimos fuerza, ni les faltó algo en todo el tiempo que han estado en el Carmelo. 
+@8 Pregunta á tus criados, que ellos te lo dirán. Hallen por tanto estos criados gracia en tus ojos, pues que venimos en buen día: ruégote que des lo que tuvieres á mano á tus siervos, y á tu hijo David.
 
-^9^ Cuando llegaron los jóvenes de David, le dijeron a Nabal todas esas palabras en nombre de David, y esperaron.
+@9 Y como llegaron los criados de David, dijeron á Nabal todas estas palabras en nombre de David, y callaron.
 
-^10^ Nabal respondió a los siervos de David y dijo: “¿Quién es David? ¿Quién es el hijo de Isaí? Hay muchos siervos que se separan de sus amos en estos días. ^11^ ¿Debo, pues, tomar mi pan, mi agua y mi carne que he matado para mis esquiladores, y dárselos a hombres que no sé de dónde vienen?”
+@10 Y Nabal respondió á los criados de David, y dijo: ¿Quién es David? ¿y quién es el hijo de Isaí? Muchos siervos hay hoy que se huyen de sus señores. 
+@11 ¿He de tomar yo ahora mi pan, mi agua, y mi víctima que he preparado para mis esquiladores, y la daré á hombres que no sé de dónde son?
 
-^12^ Entonces los jóvenes de David se pusieron en camino y volvieron, y vinieron a contarle todas estas palabras.
+@12 Y tornándose los criados de David, volviéronse por su camino, y vinieron y dijeron á David todas estas palabras.
 
 ## David se lanza a la venganza; Abigail se entera de la erupción de su marido
-^13^ David dijo a sus hombres: “¡Cada uno ponga su espada!” Cada hombre se puso su espada. David también se puso su espada. Unos cuatrocientos hombres siguieron a David, y doscientos se quedaron junto al equipaje.
+@13 Entonces David dijo á sus hombres: Cíñase cada uno su espada. Y ciñóse cada uno su espada: también David ciñó su espada; y subieron tras David como cuatrocientos hombres, y dejaron doscientos con el bagaje.
 
-^14^ Pero uno de los jóvenes se lo contó a Abigail, la mujer de Nabal, diciendo: “He aquí que David envió mensajeros desde el desierto para saludar a nuestro amo, y él los insultó. ^15^ Pero los hombres se portaron muy bien con nosotros, y no nos hicieron ningún daño, y no nos faltó nada mientras íbamos con ellos, cuando estábamos en el campo. ^16^ Fueron un muro para nosotros tanto de noche como de día, todo el tiempo que estuvimos con ellos cuidando las ovejas. ^17^ Ahora, pues, sabed y considerad lo que vais a hacer, porque el mal está decidido contra nuestro amo y contra toda su casa, pues es un tipo tan inútil que no se puede hablar con él.”
+@14 Y uno de los criados dió aviso á Abigail mujer de Nabal, diciendo: He aquí David envió mensajeros del desierto que saludasen á nuestro amo, y él los ha zaherido. 
+@15 Mas aquellos hombres nos han sido muy buenos, y nunca nos han hecho fuerza, ni ninguna cosa nos ha faltado en todo el tiempo que hemos conversado con ellos, mientras hemos estado en el campo. 
+@16 Hannos sido por muro de día y de noche, todos los días que hemos estado con ellos apacentando las ovejas. 
+@17 Ahora pues, entiende y mira lo que has de hacer, porque el mal está del todo resuelto contra nuestro amo y contra toda su casa: pues él es un hombre tan malo, que no hay quien pueda hablarle.
 
 ## Abigail usa métodos inteligentes para evitar que David tome su venganza
-^18^ Entonces Abigail se apresuró a tomar doscientos panes, dos cántaros de vino, cinco ovejas preparadas, cinco seahs^a^ de grano tostado, cien racimos de pasas y doscientos pasteles de higos, y los puso sobre los asnos. ^19^ Dijo a sus jóvenes: “Id delante de mí. Mirad, voy detrás de vosotros”. Pero no se lo dijo a su marido, Nabal. ^20^ Mientras montaba en su asno y bajaba escondida por el monte, he aquí que David y sus hombres bajaban hacia ella, y ella les salió al encuentro.
-^a^[**25:18** 1 marino equivale a unos 7 litros o 1,9 galones o 0,8 picotazos]
+@18 Entonces Abigail tomó luego doscientos panes, y dos cueros de vino, y cinco ovejas guisadas, y cinco medidas de grano tostado, y cien hilos de uvas pasas, y doscientos panes de higos secos, y cargólo en asnos; 
+@19 Y dijo á sus criados: Id delante de mí, que yo os seguiré luego. Y nada declaró á su marido Nabal. 
+@20 Y sentándose sobre un asno descendió por una parte secreta del monte, y he aquí David y los suyos que venían frente á ella, y ella les fué al encuentro.
 
-^21^ Ahora bien, David había dicho: “Ciertamente en vano he guardado todo lo que este hombre tiene en el desierto, para que no le falte nada de todo lo que le pertenece. Me ha devuelto mal por bien. ^22^ Que Dios haga lo mismo con los enemigos de David, y más aún, si dejo de todo lo que le pertenece a la luz de la mañana tanto como a uno que orina en una pared”. ^a^ ^b^
-^a^[**25:22** “Jedidiah” significa “amado por Yahvé”.] ^b^[**25:22** 1Re 14,10]
+@21 Y David había dicho: Ciertamente en vano he guardado todo lo que éste tiene en el desierto, sin que nada le haya faltado de todo cuanto es suyo; y él me ha vuelto mal por bien. 
+@22 Así haga Dios, y así añada á los enemigos de David, que de aquí á mañana no tengo de dejar de todo lo que fuere suyo ni aun meante á la pared.
 
-^23^ Cuando Abigail vio a David, se apresuró a bajar de su asno, y se postró ante David de bruces y se postró en el suelo. ^24^ Se postró a sus pies y le dijo: “¡A mí, señor mío, a mí me corresponde la culpa! Por favor, deja que tu siervo hable en tus oídos. Escucha las palabras de tu siervo. ^25^ Por favor, no permitas que mi señor preste atención a este inútil de Nabal, pues como su nombre es, así es él. Nabal es su nombre, y la insensatez está con él; pero yo, tu siervo, no vi a los jóvenes de mi señor que tú enviaste. ^26^ Ahora, pues, señor mío, vive Yahvé y vive tu alma, ya que Yahvé te ha impedido culparte de la sangre y vengarte con tu propia mano, ahora, pues, que tus enemigos y los que buscan el mal para mi señor sean como Nabal. ^27^ Ahora bien, este presente que tu siervo ha traído a mi señor, dáselo a los jóvenes que siguen a mi señor. ^28^ Por favor, perdona la falta de tu siervo. Porque ciertamente Yahvé hará de mi señor una casa segura, porque mi señor pelea las batallas de Yahvé. El mal no se encontrará en ti en todos tus días. ^29^ Aunque los hombres se levanten para perseguirte y buscar tu alma, el alma de mi señor estará atada en el fardo de la vida con Yavé, tu Dios. Él sacará las almas de tus enemigos como del bolsillo de una honda. ^30^ Sucederá que cuando Yahvé haya hecho a mi señor conforme a todo el bien que ha hablado de ti, y te haya nombrado príncipe de Israel, ^a^ ^31^ esto no te supondrá ninguna pena, ni ofensa de corazón para mi señor, ni que hayas derramado sangre sin causa, ni que mi señor se haya vengado. Cuando Yahvé haya tratado bien a mi señor, entonces acuérdate de tu siervo”.
-^a^[**25:30** 2Sam 5,2]
+@23 Y como Abigail vió á David, apeóse prestamente del asno, y postrándose delante de David sobre su rostro, inclinóse á tierra; 
+@24 Y echóse á sus pies, y dijo: Señor mío, sobre mí sea el pecado; mas ruégote hable tu sierva en tus oídos, y oye las palabras de tu sierva. 
+@25 No ponga ahora mi señor su corazón á aquel hombre brusco, á Nabal; porque conforme á su nombre, así es. El se llama Nabal, y la locura está con él: mas yo tu sierva no vi los criados de mi señor, los cuales tú enviaste. 
+@26 Ahora pues, señor mío, vive Jehová y vive tu alma, que Jehová te ha estorbado que vinieses á derramar sangre, y vengarte por tu propia mano. Sean pues como Nabal tus enemigos, y todos los que procuran mal contra mi señor. 
+@27 Y ahora esta bendición que tu sierva ha traído á mi señor, dése á los criados que siguen á mi señor. 
+@28 Y yo te ruego que perdones á tu sierva esta ofensa; pues Jehová de cierto hará casa firme á mi señor, por cuanto mi señor hace las guerras de Jehová, y mal no se ha hallado en ti en tus días. 
+@29 Bien que alguien se haya levantado á perseguirte y atentar á tu vida, con todo, el alma de mi señor será ligada en el haz de los que viven con Jehová Dios tuyo, y él arrojará el alma de tus enemigos como de en medio de la palma de una honda. 
+@30 Y acontecerá que cuando Jehová hiciere con mi señor conforme á todo el bien que ha hablado de ti, y te mandare que seas caudillo sobre Israel, 
+@31 Entonces, señor mío, no te será esto en tropiezo y turbación de corazón, el que hayas derramado sangre sin causa, ó que mi señor se haya vengado por sí mismo. Guárdese pues mi señor, y cuando Jehová hiciere bien á mi señor, acuérdate de tu sierva.
 
-^32^ David dijo a Abigail: “¡Bendito sea Yahvé, el Dios de Israel, que te ha enviado hoy a mi encuentro! ^33^ Bendita sea tu discreción, y bendita seas tú, que me has librado hoy de la culpa de la sangre y de vengarme con mi propia mano. ^34^ Porque, ciertamente, vive Yahvé, el Dios de Israel, que me ha impedido hacerte daño, si no te hubieras apresurado a venir a mi encuentro, ciertamente no le habría quedado a Nabal, al amanecer, tanto como el que orina en una pared.”
+@32 Y dijo David á Abigail: Bendito sea Jehová Dios de Israel, que te envió para que hoy me encontrases; 
+@33 Y bendito sea tu razonamiento, y bendita tú, que me has estorbado hoy el ir á derramar sangre, y á vengarme por mi propia mano: 
+@34 Porque, vive Jehová Dios de Israel que me ha defendido de hacerte mal, que si no te hubieras dado priesa en venirme al encuentro, de aquí á mañana no le quedara á Nabal meante á la pared.
 
-^35^ Entonces David recibió de su mano lo que ella le había traído. Luego le dijo: “Sube en paz a tu casa. He aquí que he escuchado tu voz y he concedido tu petición”.
+@35 Y recibió David de su mano lo que le había traído, y díjole: Sube en paz á tu casa, y mira que he oído tu voz, y tenídote respeto.
 
 ## La muerte repentina de Nabal; El matrimonio de David con Abigail (y Ahinoam)
-^36^ Abigail fue a ver a Nabal, y he aquí que él celebraba una fiesta en su casa como la fiesta de un rey. El corazón de Nabal estaba alegre en su interior, pues estaba muy borracho. Por eso no le dijo nada hasta la luz de la mañana. ^37^ Por la mañana, cuando el vino se le fue a Nabal, su mujer le contó estas cosas; y su corazón se apagó dentro de él, y quedó como una piedra. ^38^ Unos diez días después, el Señor hirió a Nabal, de modo que murió. ^39^ Cuando David se enteró de que Nabal había muerto, dijo: “Bendito sea Yahvé, que ha defendido la causa de mi afrenta de la mano de Nabal, y que ha apartado a su siervo del mal. Yahvé ha devuelto la maldad de Nabal sobre su propia cabeza”. David envió a hablar sobre Abigail, para tomarla como esposa. ^40^ Cuando los siervos de David fueron a buscar a Abigail al Carmelo, le hablaron diciendo: “David nos ha enviado a ti para tomarte como esposa.”
+@36 Y Abigail se vino á Nabal, y he aquí que él tenía banquete en su casa como banquete de rey: y el corazón de Nabal estaba alegre en él, y estaba muy borracho; por lo que ella no le declaró poco ni mucho, hasta que vino el día siguiente. 
+@37 Pero á la mañana, cuando el vino había salido de Nabal, refirióle su mujer aquestas cosas; y se le amorteció el corazón, y quedóse como una piedra. 
+@38 Y pasados diez días Jehová hirió á Nabal, y murió. 
+@39 Y luego que David oyó que Nabal era muerto, dijo: Bendito sea Jehová que juzgó la causa de mi afrenta recibida de la mano de Nabal, y ha preservado del mal á su siervo; y Jehová ha tornado la malicia de Nabal sobre su propia cabeza. Después envió David á hablar á Abigail, para tomarla por su mujer.
 
-^41^ Ella se levantó y se inclinó con el rostro hacia la tierra, y dijo: “He aquí que tu sierva es una sierva para lavar los pies de los siervos de mi señor.” ^42^ Abigail se levantó apresuradamente y montó en un asno con sus cinco criadas que la seguían; y fue tras los mensajeros de David y se convirtió en su esposa. ^a^ ^43^ David también tomó a Ahinoam de Jezreel, y ambas fueron sus esposas.
-^a^[**25:42** 1Sam 27,3; 1Sam 30,5]
+@40 Y los criados de David vinieron á Abigail en el Carmelo, y hablaron con ella, diciendo: David nos ha enviado á ti, para tomarte por su mujer.
 
-^44^ Saúl había dado a su hija Mical, esposa de David, a Palti, hijo de Lais, que era de Galim. ^a^
-^a^[**25:44** 2Sam 3,15]
+@41 Y ella se levantó, é inclinó su rostro á tierra, diciendo: He aquí tu sierva, para que sea sierva que lave los pies de los siervos de mi señor. 
+@42 Y levantándose luego Abigail con cinco mozas que la seguían, montóse en un asno, y siguió los mensajeros de David, y fué su mujer. 
+@43 También tomó David á Ahinoam de Jezreel, y ambas á dos fueron sus mujeres.
+
+@44 Porque Saúl había dado su hija Michâl mujer de David, á Palti hijo de Lais, que era de Gallim. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 25
-^1^ Samuel died; and all Israel gathered themselves together and mourned for him, and buried him at his house at Ramah. 
+## The death of Samuel; Nabal's madness; David and Abigail
+@1 Samuel died; and all Israel gathered themselves together and mourned for him, and buried him at his house at Ramah. 
 
-Then David arose and went down to the wilderness of Paran. ^2^ There was a man in Maon whose possessions were in Carmel; and the man was very great. He had three thousand sheep and a thousand goats; and he was shearing his sheep in Carmel. ^3^ Now the name of the man was Nabal; and the name of his wife Abigail. This woman was intelligent and had a beautiful face; but the man was surly and evil in his doings. He was of the house of Caleb. ^4^ David heard in the wilderness that Nabal was shearing his sheep. ^5^ David sent ten young men; and David said to the young men, “Go up to Carmel, and go to Nabal, and greet him in my name. ^6^ Tell him, ‘Long life to you! Peace be to you! Peace be to your house! Peace be to all that you have! ^7^ Now I have heard that you have shearers. Your shepherds have now been with us, and we didn’t harm them. Nothing was missing from them all the time they were in Carmel. ^8^ Ask your young men, and they will tell you. Therefore let the young men find favor in your eyes, for we come on a good day. Please give whatever comes to your hand to your servants and to your son David.’” 
+Then David arose and went down to the wilderness of Paran.
 
-^9^ When David’s young men came, they spoke to Nabal all those words in the name of David, and waited. 
+## Nabal's foolish behavior towards David's request
+@2 There was a man in Maon whose possessions were in Carmel; and the man was very great. He had three thousand sheep and a thousand goats; and he was shearing his sheep in Carmel. 
+@3 Now the name of the man was Nabal; and the name of his wife Abigail. This woman was intelligent and had a beautiful face; but the man was surly and evil in his doings. He was of the house of Caleb. 
+@4 David heard in the wilderness that Nabal was shearing his sheep. 
+@5 David sent ten young men; and David said to the young men, “Go up to Carmel, and go to Nabal, and greet him in my name. 
+@6 Tell him, ‘Long life to you! Peace be to you! Peace be to your house! Peace be to all that you have! 
+@7 Now I have heard that you have shearers. Your shepherds have now been with us, and we didn’t harm them. Nothing was missing from them all the time they were in Carmel. 
+@8 Ask your young men, and they will tell you. Therefore let the young men find favor in your eyes, for we come on a good day. Please give whatever comes to your hand to your servants and to your son David.’” 
 
-^10^ Nabal answered David’s servants and said, “Who is David? Who is the son of Jesse? There are many servants who break away from their masters these days. ^11^ Shall I then take my bread, my water, and my meat that I have killed for my shearers, and give it to men who I don’t know where they come from?” 
+@9 When David’s young men came, they spoke to Nabal all those words in the name of David, and waited. 
 
-^12^ So David’s young men turned on their way and went back, and came and told him all these words. 
+@10 Nabal answered David’s servants and said, “Who is David? Who is the son of Jesse? There are many servants who break away from their masters these days. 
+@11 Shall I then take my bread, my water, and my meat that I have killed for my shearers, and give it to men who I don’t know where they come from?” 
 
-^13^ David said to his men, “Every man put on his sword!” 
+@12 So David’s young men turned on their way and went back, and came and told him all these words.
+
+## David goes for revenge; Abigail finds out about her husband's rash
+@13 David said to his men, “Every man put on his sword!” 
 
 Every man put on his sword. David also put on his sword. About four hundred men followed David, and two hundred stayed by the baggage. 
 
-^14^ But one of the young men told Abigail, Nabal’s wife, saying, “Behold, David sent messengers out of the wilderness to greet our master; and he insulted them. ^15^ But the men were very good to us, and we were not harmed, and we didn’t miss anything as long as we went with them, when we were in the fields. ^16^ They were a wall to us both by night and by day, all the while we were with them keeping the sheep. ^17^ Now therefore know and consider what you will do; for evil is determined against our master and against all his house, for he is such a worthless fellow that one can’t speak to him.” 
+@14 But one of the young men told Abigail, Nabal’s wife, saying, “Behold, David sent messengers out of the wilderness to greet our master; and he insulted them. 
+@15 But the men were very good to us, and we were not harmed, and we didn’t miss anything as long as we went with them, when we were in the fields. 
+@16 They were a wall to us both by night and by day, all the while we were with them keeping the sheep. 
+@17 Now therefore know and consider what you will do; for evil is determined against our master and against all his house, for he is such a worthless fellow that one can’t speak to him.”
 
-^18^ Then Abigail hurried and took two hundred loaves of bread, two containers of wine, five sheep ready dressed, five seahs^a^ of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys. ^19^ She said to her young men, “Go on before me. Behold, I am coming after you.” But she didn’t tell her husband, Nabal. ^20^ As she rode on her donkey, and came down hidden by the mountain, behold, David and his men came down toward her, and she met them. 
+## Abigail uses clever methods to prevent David from taking his revenge
+@18 Then Abigail hurried and took two hundred loaves of bread, two containers of wine, five sheep ready dressed, five seahs^a^ of parched grain, one hundred clusters of raisins, and two hundred cakes of figs, and laid them on donkeys. 
+@19 She said to her young men, “Go on before me. Behold, I am coming after you.” But she didn’t tell her husband, Nabal. 
+@20 As she rode on her donkey, and came down hidden by the mountain, behold, David and his men came down toward her, and she met them. 
 ^a^[**25:18** 1 seah is about 7 liters or 1.9 gallons or 0.8 pecks]
 
-^21^ Now David had said, “Surely in vain I have kept all that this fellow has in the wilderness, so that nothing was missed of all that pertained to him. He has returned me evil for good. ^22^ God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.”^a^ 
+@21 Now David had said, “Surely in vain I have kept all that this fellow has in the wilderness, so that nothing was missed of all that pertained to him. He has returned me evil for good. 
+@22 God do so to the enemies of David, and more also, if I leave of all that belongs to him by the morning light so much as one who urinates on a wall.”^a^ 
 ^a^[**25:22** or, male.]
 
-^23^ When Abigail saw David, she hurried and got off her donkey, and fell before David on her face and bowed herself to the ground. ^24^ She fell at his feet and said, “On me, my lord, on me be the blame! Please let your servant speak in your ears. Hear the words of your servant. ^25^ Please don’t let my lord pay attention to this worthless fellow, Nabal, for as his name is, so is he. Nabal^a^ is his name, and folly is with him; but I, your servant, didn’t see my lord’s young men whom you sent. ^26^ Now therefore, my lord, as Yahweh lives and as your soul lives, since Yahweh has withheld you from blood guiltiness and from avenging yourself with your own hand, now therefore let your enemies and those who seek evil to my lord be as Nabal. ^27^ Now this present which your servant has brought to my lord, let it be given to the young men who follow my lord. ^28^ Please forgive the trespass of your servant. For Yahweh will certainly make my lord a sure house, because my lord fights Yahweh’s battles. Evil will not be found in you all your days. ^29^ Though men may rise up to pursue you and to seek your soul, yet the soul of my lord will be bound in the bundle of life with Yahweh your God. He will sling out the souls of your enemies as from a sling’s pocket. ^30^ It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel, ^31^ that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.” 
+@23 When Abigail saw David, she hurried and got off her donkey, and fell before David on her face and bowed herself to the ground. 
+@24 She fell at his feet and said, “On me, my lord, on me be the blame! Please let your servant speak in your ears. Hear the words of your servant. 
+@25 Please don’t let my lord pay attention to this worthless fellow, Nabal, for as his name is, so is he. Nabal^a^ is his name, and folly is with him; but I, your servant, didn’t see my lord’s young men whom you sent. 
+@26 Now therefore, my lord, as Yahweh lives and as your soul lives, since Yahweh has withheld you from blood guiltiness and from avenging yourself with your own hand, now therefore let your enemies and those who seek evil to my lord be as Nabal. 
+@27 Now this present which your servant has brought to my lord, let it be given to the young men who follow my lord. 
+@28 Please forgive the trespass of your servant. For Yahweh will certainly make my lord a sure house, because my lord fights Yahweh’s battles. Evil will not be found in you all your days. 
+@29 Though men may rise up to pursue you and to seek your soul, yet the soul of my lord will be bound in the bundle of life with Yahweh your God. He will sling out the souls of your enemies as from a sling’s pocket. 
+@30 It will come to pass, when Yahweh has done to my lord according to all the good that he has spoken concerning you, and has appointed you prince over Israel, 
+@31 that this shall be no grief to you, nor offense of heart to my lord, either that you have shed blood without cause, or that my lord has avenged himself. When Yahweh has dealt well with my lord, then remember your servant.” 
 ^a^[**25:25** “Nabal” means “foolish”.]
 
-^32^ David said to Abigail, “Blessed is Yahweh, the God of Israel, who sent you today to meet me! ^33^ Blessed is your discretion, and blessed are you, who have kept me today from blood guiltiness, and from avenging myself with my own hand. ^34^ For indeed, as Yahweh the God of Israel lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”^a^ 
+@32 David said to Abigail, “Blessed is Yahweh, the God of Israel, who sent you today to meet me! 
+@33 Blessed is your discretion, and blessed are you, who have kept me today from blood guiltiness, and from avenging myself with my own hand. 
+@34 For indeed, as Yahweh the God of Israel lives, who has withheld me from harming you, unless you had hurried and come to meet me, surely there wouldn’t have been left to Nabal by the morning light so much as one who urinates on a wall.”^a^ 
 ^a^[**25:34** or, one male.]
 
-^35^ So David received from her hand that which she had brought him. Then he said to her, “Go up in peace to your house. Behold, I have listened to your voice and have granted your request.” 
+@35 So David received from her hand that which she had brought him. Then he said to her, “Go up in peace to your house. Behold, I have listened to your voice and have granted your request.”
 
-^36^ Abigail came to Nabal; and behold, he held a feast in his house like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. Therefore she told him nothing until the morning light. ^37^ In the morning, when the wine had gone out of Nabal, his wife told him these things; and his heart died within him, and he became as a stone. ^38^ About ten days later, Yahweh struck Nabal, so that he died. ^39^ When David heard that Nabal was dead, he said, “Blessed is Yahweh, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil. Yahweh has returned the evildoing of Nabal on his own head.” 
+## Nabal's sudden death; David's marriage to Abigail (and Ahinoam)
+@36 Abigail came to Nabal; and behold, he held a feast in his house like the feast of a king. Nabal’s heart was merry within him, for he was very drunk. Therefore she told him nothing until the morning light. 
+@37 In the morning, when the wine had gone out of Nabal, his wife told him these things; and his heart died within him, and he became as a stone. 
+@38 About ten days later, Yahweh struck Nabal, so that he died. 
+@39 When David heard that Nabal was dead, he said, “Blessed is Yahweh, who has pleaded the cause of my reproach from the hand of Nabal, and has kept back his servant from evil. Yahweh has returned the evildoing of Nabal on his own head.” 
 
-David sent and spoke concerning Abigail, to take her to himself as wife. ^40^ When David’s servants had come to Abigail to Carmel, they spoke to her, saying, “David has sent us to you, to take you to him as wife.” 
+David sent and spoke concerning Abigail, to take her to himself as wife. 
+@40 When David’s servants had come to Abigail to Carmel, they spoke to her, saying, “David has sent us to you, to take you to him as wife.” 
 
-^41^ She arose and bowed herself with her face to the earth, and said, “Behold, your servant is a servant to wash the feet of the servants of my lord.” ^42^ Abigail hurriedly arose and rode on a donkey with her five maids who followed her; and she went after the messengers of David, and became his wife. ^43^ David also took Ahinoam of Jezreel; and they both became his wives. 
+@41 She arose and bowed herself with her face to the earth, and said, “Behold, your servant is a servant to wash the feet of the servants of my lord.” 
+@42 Abigail hurriedly arose and rode on a donkey with her five maids who followed her; and she went after the messengers of David, and became his wife. 
+@43 David also took Ahinoam of Jezreel; and they both became his wives. 
 
-^44^ Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim. 
+@44 Now Saul had given Michal his daughter, David’s wife, to Palti the son of Laish, who was of Gallim. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 26
 ## La renovada generosidad de David hacia Saúl en el desierto de Siph
-^1^ Los zifitas fueron a ver a Saúl a Gabaa, diciendo: “¿No se esconde David en la colina de Hachilá, que está delante del desierto?” ^a^ ^2^ Entonces Saúl se levantó y bajó al desierto de Zif, llevando consigo a tres mil hombres escogidos de Israel, para buscar a David en el desierto de Zif. ^3^ Saúl acampó en la colina de Hachilá, que está antes del desierto, junto al camino. Pero David se quedó en el desierto, y vio que Saúl iba tras él por el desierto. ^4^ David, pues, envió espías, y comprendió que Saúl había venido ciertamente. ^5^ Entonces David se levantó y llegó al lugar donde Saúl había acampado, y vio el lugar donde yacía Saúl, con Abner hijo de Ner, jefe de su ejército. Saúl estaba acostado en el lugar de los carros, y el pueblo estaba acampado alrededor de él. ^b^
-^a^[**26:1** 1Sam 23,19; Sal 54,1] ^b^[**26:5** 1Sam 14,50; 1Sam 17,55]
+@1 Y vinieron los Zipheos á Saúl en Gabaa, diciendo: ¿No está David escondido en el collado de Hachîla delante del desierto? 
+@2 Saúl entonces se levantó, y descendió al desierto de Ziph, llevando consigo tres mil hombres escogidos de Israel, para buscar á David en el desierto de Ziph. 
+@3 Y asentó Saúl el campo en el collado de Hachîla, que está delante del desierto junto al camino. Y estaba David en el desierto, y entendió que Saúl le seguía en el desierto. 
+@4 David por tanto envió espías, y entendió por cierto que Saúl había venido. 
+@5 Y levantóse David, y vino al sitio donde Saúl había asentado el campo; y miró David el lugar donde dormía Saúl, y Abner hijo de Ner, general de su ejército. Y estaba Saúl durmiendo en la trinchera, y el pueblo por el campo en derredor de él.
 
-^6^ Entonces David respondió y dijo a Ahimelec el hitita y a Abisai, hijo de Sarvia, hermano de Joab: “¿Quién bajará conmigo a Saúl al campamento?”. Abisai dijo: “Bajaré con vosotros”. ^7^ David y Abisai llegaron al pueblo de noche, y he aquí que Saúl yacía durmiendo en el lugar de los carros, con su lanza clavada en el suelo a la altura de su cabeza, y Abner y el pueblo yacían a su alrededor. ^8^ Entonces Abisai dijo a David: “Dios ha entregado hoy a tu enemigo en tu mano. Ahora, pues, déjame herirlo con la lanza hasta la tierra de un solo golpe, y no lo heriré la segunda vez”. ^a^
-^a^[**26:8** 2Sam 16,9]
+@6 Entonces habló David, y requirió á Ahimelech Hetheo, y á Abisai hijo de Sarvia, hermano de Joab, diciendo: ¿Quién descenderá conmigo á Saúl al campo? Y dijo Abisai: Yo descenderé contigo.
 
-^9^ David dijo a Abisai: “No lo destruyas, porque ¿quién puede extender su mano contra el ungido de Yavé y quedar libre de culpa?” ^10^ David respondió: “Vive Yahvé, que Yahvé lo golpeará; o le llegará el día de morir, o bajará a la batalla y perecerá. ^a^ ^11^ Yahvé no permita que yo extienda mi mano contra el ungido de Yahvé; pero ahora, por favor, toma la lanza que está en su cabeza y la vasija de agua, y vámonos.”
-^a^[**26:10** 1Sam 28,10; 1Sam 24,12]
+@7 David pues y Abisai vinieron al pueblo de noche: y he aquí Saúl que estaba tendido durmiendo en la trinchera, y su lanza hincada en tierra á su cabecera; y Abner y el pueblo estaban alrededor de él tendidos. 
+@8 Entonces dijo Abisai á David: Hoy ha Dios entregado á tu enemigo en tus manos: ahora pues, herirélo luego con la lanza, cosiéndole con la tierra de un golpe, y no segundaré.
 
-^12^ Entonces David tomó la lanza y la jarra de agua de la cabeza de Saúl, y se fueron. Nadie lo vio, ni lo supo, ni se despertó, pues todos estaban dormidos, porque un profundo sueño de Yahvé había caído sobre ellos. ^a^
-^a^[**26:12** Gén 2,21; Gén 15,12]
+@9 Y David respondió á Abisai: No le mates: porque ¿quién extenderá su mano contra el ungido de Jehová, y será inocente? 
+@10 Dijo además David: Vive Jehová, que si Jehová no lo hiriere, ó que su día llegue para que muera, ó que descendiendo en batalla perezca, 
+@11 Guárdeme Jehová de extender mi mano contra el ungido de Jehová; empero toma ahora la lanza que está á su cabecera, y la botija del agua, y vámonos.
+
+@12 Llevóse pues David la lanza y la botija de agua de la cabecera de Saúl, y fuéronse; que no hubo nadie que viese, ni entendiese, ni velase, pues todos dormían: porque un profundo sueño enviado de Jehová había caído sobre ellos.
 
 ## La aclamación burlona de David a Abner
-^13^ Entonces David se pasó al otro lado y se puso en la cima del monte, muy lejos, habiendo un gran espacio entre ellos; ^14^ y David gritó al pueblo y a Abner, hijo de Ner, diciendo: “¿No respondes, Abner?” Entonces Abner respondió: “¿Quién eres tú que llamas al rey?”
+@13 Y pasando David de la otra parte, púsose desviado en la cumbre del monte, habiendo grande distancia entre ellos; 
+@14 Y dió voces David al pueblo, y á Abner hijo de Ner, diciendo: ¿No respondes, Abner? Entonces Abner respondió y dijo: ¿Quién eres tú que das voces al rey?
 
-^15^ David dijo a Abner: “¿No eres un hombre? ¿Quién es como tú en Israel? ¿Por qué, pues, no has velado por tu señor el rey? Porque uno del pueblo entró para destruir a tu señor el rey. ^16^ No es bueno lo que has hecho. Vive Yahvé, que eres digno de morir, porque no has velado por tu señor, el ungido de Yahvé. Mira ahora dónde está la lanza del rey y la jarra de agua que estaba a su cabeza”.
+@15 Y dijo David á Abner: ¿No eres varón tú? ¿y quién hay como tú en Israel? ¿por qué pues no has guardado al rey tu señor? que ha entrado uno del pueblo á matar á tu señor el rey. 
+@16 Esto que has hecho, no está bien. Vive Jehová, que sois dignos de muerte, que no habéis guardado á vuestro señor, al ungido de Jehová. Mira pues ahora dónde está la lanza del rey, y la botija del agua que estaba á su cabecera.
 
 ## Los discursos intercambiados entre Saúl y David; la divergencia de ambos
-^17^ Saúl reconoció la voz de David y dijo: “¿Es ésta tu voz, hijo mío David?” David dijo: “Es mi voz, mi señor, oh rey”. ^18^ Dijo: “¿Por qué persigue mi señor a su siervo? ¿Qué he hecho yo? ¿Qué mal hay en mi mano? ^19^ Ahora, pues, te ruego que mi señor el rey escuche las palabras de su siervo. Si es así que el Señor los ha incitado contra mí, que acepte una ofrenda. Pero si son los hijos de los hombres, malditos sean ante Yavé, pues me han expulsado hoy para que no me aferre a la herencia de Yavé, diciendo: “¡Vete a servir a otros dioses!” ^20^ Ahora, pues, no dejes que mi sangre caiga a la tierra lejos de la presencia de Yavé, porque el rey de Israel ha salido a buscar una pulga, como cuando se caza una perdiz en el monte.”
+@17 Y conociendo Saúl la voz de David, dijo: ¿No es esta tu voz, hijo mío David? Y David respondió: Mi voz es, rey señor mío.
 
-^21^ Entonces Saúl dijo: “He pecado. Vuélvete, hijo mío David, porque ya no te haré más daño, ya que mi vida era preciosa a tus ojos hoy. He aquí que me he hecho el loco, y he errado mucho”.
+@18 Y dijo: ¿Por qué persigue así mi señor á su siervo? ¿qué he hecho? ¿qué mal hay en mi mano? 
+@19 Ruego pues, que el rey mi señor oiga ahora las palabras de su siervo. Si Jehová te incita contra mí, acepte un sacrificio: mas si fueren hijos de hombres, malditos ellos en presencia de Jehová, que me han echado hoy para que no me junte en la heredad de Jehová, diciendo: Ve y sirve á dioses ajenos. 
+@20 No caiga pues ahora mi sangre en tierra delante de Jehová: porque ha salido el rey de Israel á buscar una pulga, así como quien persigue una perdiz por los montes.
 
-^22^ David respondió: “¡Mira la lanza, oh rey! Que uno de los jóvenes venga a buscarla. ^23^ El Señor pagará a cada uno su justicia y su fidelidad, porque el Señor te ha entregado hoy en mi mano, y yo no he querido extender mi mano contra el ungido del Señor. ^24^ Así como tu vida fue respetada hoy a mis ojos, que mi vida sea respetada a los ojos de Yahvé, y que él me libre de toda opresión.”
+@21 Entonces dijo Saúl: He pecado: vuélvete, hijo mío David, que ningún mal te haré más, pues que mi vida ha sido estimada hoy en tus ojos. He aquí, yo he hecho neciamente, y he errado en gran manera.
 
-^25^ Entonces Saúl dijo a David: “Bendito seas, hijo mío David. Harás lo que quieras, y seguro que vencerás”. Entonces David se fue, y Saúl volvió a su lugar.
+@22 Y David respondió, y dijo: He aquí la lanza del rey; pase acá uno de los criados, y tómela. 
+@23 Y Jehová pague á cada uno su justicia y su lealtad: que Jehová te había entregado hoy en mi mano, mas yo no quise extender mi mano sobre el ungido de Jehová. 
+@24 Y he aquí, como tu vida ha sido estimada hoy en mis ojos, así sea mi vida estimada en los ojos de Jehová, y me libre de toda aflicción.
+
+@25 Y Saúl dijo á David: Bendito eres tú, hijo mío David; sin duda ejecutarás tú grandes empresas, y prevalecerás. Entonces David se fué su camino, y Saúl se volvió á su lugar. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 26
-^1^ The Ziphites came to Saul to Gibeah, saying, “Doesn’t David hide himself in the hill of Hachilah, which is before the desert?” ^2^ Then Saul arose and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph. ^3^ Saul encamped in the hill of Hachilah, which is before the desert, by the way. But David stayed in the wilderness, and he saw that Saul came after him into the wilderness. ^4^ David therefore sent out spies, and understood that Saul had certainly come. ^5^ Then David arose and came to the place where Saul had encamped; and David saw the place where Saul lay, with Abner the son of Ner, the captain of his army. Saul lay within the place of the wagons, and the people were encamped around him. 
+## David's renewed generosity towards Saul in the Siph Desert
+@1 The Ziphites came to Saul to Gibeah, saying, “Doesn’t David hide himself in the hill of Hachilah, which is before the desert?” 
+@2 Then Saul arose and went down to the wilderness of Ziph, having three thousand chosen men of Israel with him, to seek David in the wilderness of Ziph. 
+@3 Saul encamped in the hill of Hachilah, which is before the desert, by the way. But David stayed in the wilderness, and he saw that Saul came after him into the wilderness. 
+@4 David therefore sent out spies, and understood that Saul had certainly come. 
+@5 Then David arose and came to the place where Saul had encamped; and David saw the place where Saul lay, with Abner the son of Ner, the captain of his army. Saul lay within the place of the wagons, and the people were encamped around him. 
 
-^6^ Then David answered and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother of Joab, saying, “Who will go down with me to Saul to the camp?” 
+@6 Then David answered and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother of Joab, saying, “Who will go down with me to Saul to the camp?” 
 
-Abishai said, “I will go down with you.” ^7^ So David and Abishai came to the people by night; and, behold, Saul lay sleeping within the place of the wagons, with his spear stuck in the ground at his head; and Abner and the people lay around him. ^8^ Then Abishai said to David, “God has delivered up your enemy into your hand today. Now therefore please let me strike him with the spear to the earth at one stroke, and I will not strike him the second time.” 
+Abishai said, “I will go down with you.” 
+@7 So David and Abishai came to the people by night; and, behold, Saul lay sleeping within the place of the wagons, with his spear stuck in the ground at his head; and Abner and the people lay around him. 
+@8 Then Abishai said to David, “God has delivered up your enemy into your hand today. Now therefore please let me strike him with the spear to the earth at one stroke, and I will not strike him the second time.” 
 
-^9^ David said to Abishai, “Don’t destroy him, for who can stretch out his hand against Yahweh’s anointed, and be guiltless?” ^10^ David said, “As Yahweh lives, Yahweh will strike him; or his day shall come to die, or he shall go down into battle and perish. ^11^ Yahweh forbid that I should stretch out my hand against Yahweh’s anointed; but now please take the spear that is at his head and the jar of water, and let’s go.” 
+@9 David said to Abishai, “Don’t destroy him, for who can stretch out his hand against Yahweh’s anointed, and be guiltless?” 
+@10 David said, “As Yahweh lives, Yahweh will strike him; or his day shall come to die, or he shall go down into battle and perish. 
+@11 Yahweh forbid that I should stretch out my hand against Yahweh’s anointed; but now please take the spear that is at his head and the jar of water, and let’s go.” 
 
-^12^ So David took the spear and the jar of water from Saul’s head, and they went away. No man saw it, or knew it, nor did any awake; for they were all asleep, because a deep sleep from Yahweh had fallen on them. ^13^ Then David went over to the other side, and stood on the top of the mountain far away, a great space being between them; ^14^ and David cried to the people, and to Abner the son of Ner, saying, “Don’t you answer, Abner?” 
+@12 So David took the spear and the jar of water from Saul’s head, and they went away. No man saw it, or knew it, nor did any awake; for they were all asleep, because a deep sleep from Yahweh had fallen on them.
+
+## David's mocking acclamation to Abner
+@13 Then David went over to the other side, and stood on the top of the mountain far away, a great space being between them; 
+@14 and David cried to the people, and to Abner the son of Ner, saying, “Don’t you answer, Abner?” 
 
 Then Abner answered, “Who are you who calls to the king?” 
 
-^15^ David said to Abner, “Aren’t you a man? Who is like you in Israel? Why then have you not kept watch over your lord the king? For one of the people came in to destroy your lord the king. ^16^ This thing isn’t good that you have done. As Yahweh lives, you are worthy to die, because you have not kept watch over your lord, Yahweh’s anointed. Now see where the king’s spear is, and the jar of water that was at his head.” 
+@15 David said to Abner, “Aren’t you a man? Who is like you in Israel? Why then have you not kept watch over your lord the king? For one of the people came in to destroy your lord the king. 
+@16 This thing isn’t good that you have done. As Yahweh lives, you are worthy to die, because you have not kept watch over your lord, Yahweh’s anointed. Now see where the king’s spear is, and the jar of water that was at his head.”
 
-^17^ Saul recognized David’s voice, and said, “Is this your voice, my son David?” 
+## The speeches exchanged between Saul and David; the divergence of both
+@17 Saul recognized David’s voice, and said, “Is this your voice, my son David?” 
 
-David said, “It is my voice, my lord, O king.” ^18^ He said, “Why does my lord pursue his servant? For what have I done? What evil is in my hand? ^19^ Now therefore, please let my lord the king hear the words of his servant. If it is so that Yahweh has stirred you up against me, let him accept an offering. But if it is the children of men, they are cursed before Yahweh; for they have driven me out today that I shouldn’t cling to Yahweh’s inheritance, saying, ‘Go, serve other gods!’ ^20^ Now therefore, don’t let my blood fall to the earth away from the presence of Yahweh; for the king of Israel has come out to seek a flea, as when one hunts a partridge in the mountains.” 
+David said, “It is my voice, my lord, O king.” 
+@18 He said, “Why does my lord pursue his servant? For what have I done? What evil is in my hand? 
+@19 Now therefore, please let my lord the king hear the words of his servant. If it is so that Yahweh has stirred you up against me, let him accept an offering. But if it is the children of men, they are cursed before Yahweh; for they have driven me out today that I shouldn’t cling to Yahweh’s inheritance, saying, ‘Go, serve other gods!’ 
+@20 Now therefore, don’t let my blood fall to the earth away from the presence of Yahweh; for the king of Israel has come out to seek a flea, as when one hunts a partridge in the mountains.” 
 
-^21^ Then Saul said, “I have sinned. Return, my son David; for I will no more do you harm, because my life was precious in your eyes today. Behold, I have played the fool, and have erred exceedingly.” 
+@21 Then Saul said, “I have sinned. Return, my son David; for I will no more do you harm, because my life was precious in your eyes today. Behold, I have played the fool, and have erred exceedingly.” 
 
-^22^ David answered, “Behold the spear, O king! Let one of the young men come over and get it. ^23^ Yahweh will render to every man his righteousness and his faithfulness; because Yahweh delivered you into my hand today, and I wouldn’t stretch out my hand against Yahweh’s anointed. ^24^ Behold, as your life was respected today in my eyes, so let my life be respected in Yahweh’s eyes, and let him deliver me out of all oppression.” 
+@22 David answered, “Behold the spear, O king! Let one of the young men come over and get it. 
+@23 Yahweh will render to every man his righteousness and his faithfulness; because Yahweh delivered you into my hand today, and I wouldn’t stretch out my hand against Yahweh’s anointed. 
+@24 Behold, as your life was respected today in my eyes, so let my life be respected in Yahweh’s eyes, and let him deliver me out of all oppression.” 
 
-^25^ Then Saul said to David, “You are blessed, my son David. You will both do mightily, and will surely prevail.” 
+@25 Then Saul said to David, “You are blessed, my son David. You will both do mightily, and will surely prevail.” 
 
 So David went his way, and Saul returned to his place. 
 
@@ -1682,241 +2566,357 @@ So David went his way, and Saul returned to his place.
 
 # 27
 ## La conversión de David a los filisteos; su estancia con el príncipe filisteo Achis en Gat y en Siclag
-^1^ David dijo en su corazón: “Ahora pereceré un día por la mano de Saúl. No hay nada mejor para mí que escapar a la tierra de los filisteos; y Saúl se desesperará por buscarme más en todos los límites de Israel. Así escaparé de su mano”. ^2^ David se levantó y pasó, él y los seiscientos hombres que estaban con él, a Aquis hijo de Maoc, rey de Gat. ^a^ ^3^ David vivía con Aquis en Gat, él y sus hombres, cada uno con su casa, incluso David con sus dos esposas, Ahinoam la jezreelita y Abigail la carmelita, esposa de Nabal. ^b^ ^4^ Cuando Saúl supo que David había huido a Gat, dejó de buscarlo.
-^a^[**27:2** 1Sam 21,10; 1Re 2,39] ^b^[**27:3** 1Sam 25,40-43]
+@1 Y dijo David en su corazón: Al fin seré muerto algún día por la mano de Saúl: nada por tanto me será mejor que fugarme á la tierra de los Filisteos, para que Saúl se deje de mí, y no me ande buscando más por todos los términos de Israel, y así me escaparé de sus manos. 
+@2 Levantóse pues David, y con los seiscientos hombres que tenía consigo pasóse á Achîs hijo de Maoch, rey de Gath. 
+@3 Y moró David con Achîs en Gath, él y los suyos, cada uno con su familia: David con sus dos mujeres, Ahinoam Jezreelita, y Abigail, la que fué mujer de Nabal el del Carmelo. 
+@4 Y vino la nueva á Saúl que David se había huído á Gath, y no lo buscó más.
 
-^5^ David dijo a Aquis: “Si ahora he hallado gracia ante tus ojos, que me den un lugar en una de las ciudades del país, para que habite allí. Porque, ¿por qué habría de habitar tu siervo en la ciudad real contigo?”. ^6^ Entonces Aquis le dio aquel día Siclag; por eso Siclag pertenece a los reyes de Judá hasta el día de hoy. ^a^ ^7^ El número de días que David vivió en el país de los filisteos fue un año completo y cuatro meses.
-^a^[**27:6** Jos 15,31; Jue 1,19]
+@5 Y David dijo á Achîs: Si he hallado ahora gracia en tus ojos, séame dado lugar en algunas de las ciudades de la tierra, donde habite: porque ¿ha de morar tu siervo contigo en la ciudad real? 
+@6 Y Achîs le dió aquel día á Siclag. De aquí fué Siclag de los reyes de Judá hasta hoy. 
+@7 Y fué el número de los días que David habitó en la tierra de los Filisteos, cuatro meses y algunos días.
 
 ## La vida privada de David; su engaño a los filisteos
-^8^ David y sus hombres subieron y asaltaron a los guesuritas, a los girzitas y a los amalecitas, pues esos eran los habitantes de la tierra de antaño, en el camino hacia Shur, hasta la tierra de Egipto. ^9^ David atacó la tierra y no salvó a ningún hombre ni a ninguna mujer con vida, y se llevó las ovejas, el ganado, los asnos, los camellos y la ropa. Luego regresó y llegó a Aquis.
+@8 Y subía David con los suyos, y hacían entradas en los Gesureos, y en los Gerzeos, y en los Amalecitas: porque estos habitaban de largo tiempo la tierra, desde como se va á Shur hasta la tierra de Egipto. 
+@9 Y hería David el país, y no dejaba á vida hombre ni mujer: y llevábase las ovejas y las vacas y los asnos y los camellos y las ropas; y volvía, y veníase á Achîs.
 
-^10^ Aquis dijo: “¿Contra quién has hecho hoy una incursión?” David dijo: “Contra el sur de Judá, contra el sur de los jeraelitas y contra el sur de los ceneos”. ^11^ David no salvó a ningún hombre ni a ninguna mujer con vida para llevarlos a Gat, diciendo: “No sea que cuenten de nosotros, diciendo: “David hizo esto, y este ha sido su camino todo el tiempo que ha vivido en el país de los filisteos.””
+@10 Y decía Achîs: ¿Dónde habéis corrido hoy? Y David decía: Al mediodía de Judá, y al mediodía de Jerameel, ó contra el mediodía de Ceni.
 
-^12^ Aquis creyó a David, diciendo: “Ha hecho que su pueblo Israel lo aborrezca por completo. Por eso será mi siervo para siempre”. ^a^
-^a^[**27:12** Gén 34,30; Éxod 5,21]
+@11 Ni hombre ni mujer dejaba á vida David, que viniese á Gath; diciendo: Porque no den aviso de nosotros, diciendo, Esto hizo David. Y esta era su costumbre todo el tiempo que moró en tierra de los Filisteos.
+
+@12 Y Achîs creía á David, diciendo así: El se hace abominable en su pueblo de Israel, y será siempre mi siervo. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 27
-^1^ David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.” ^2^ David arose and passed over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath. ^3^ David lived with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess and Abigail the Carmelitess, Nabal’s wife. ^4^ Saul was told that David had fled to Gath, so he stopped looking for him. 
+## David's conversion to the Philistines; his sojourn with the Philistine prince Achis at Gath and at Ziklag
+@1 David said in his heart, “I will now perish one day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel. So I will escape out of his hand.” 
+@2 David arose and passed over, he and the six hundred men who were with him, to Achish the son of Maoch, king of Gath. 
+@3 David lived with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess and Abigail the Carmelitess, Nabal’s wife. 
+@4 Saul was told that David had fled to Gath, so he stopped looking for him. 
 
-^5^ David said to Achish, “If now I have found favor in your eyes, let them give me a place in one of the cities in the country, that I may dwell there. For why should your servant dwell in the royal city with you?” ^6^ Then Achish gave him Ziklag that day: therefore Ziklag belongs to the kings of Judah to this day. ^7^ The number of the days that David lived in the country of the Philistines was a full year and four months. 
+@5 David said to Achish, “If now I have found favor in your eyes, let them give me a place in one of the cities in the country, that I may dwell there. For why should your servant dwell in the royal city with you?” 
+@6 Then Achish gave him Ziklag that day: therefore Ziklag belongs to the kings of Judah to this day. 
+@7 The number of the days that David lived in the country of the Philistines was a full year and four months.
 
-^8^ David and his men went up and raided the Geshurites, the Girzites, and the Amalekites; for those were the inhabitants of the land who were of old, on the way to Shur, even to the land of Egypt. ^9^ David struck the land, and saved no man or woman alive, and took away the sheep, the cattle, the donkeys, the camels, and the clothing. Then he returned, and came to Achish. 
+## David's private life; his deception of the philistines
+@8 David and his men went up and raided the Geshurites, the Girzites, and the Amalekites; for those were the inhabitants of the land who were of old, on the way to Shur, even to the land of Egypt. 
+@9 David struck the land, and saved no man or woman alive, and took away the sheep, the cattle, the donkeys, the camels, and the clothing. Then he returned, and came to Achish. 
 
-^10^ Achish said, “Against whom have you made a raid today?” 
+@10 Achish said, “Against whom have you made a raid today?” 
 
-David said, “Against the South of Judah, against the South of the Jerahmeelites, and against the South of the Kenites.” ^11^ David saved neither man nor woman alive to bring them to Gath, saying, “Lest they should tell about us, saying, ‘David did this, and this has been his way all the time he has lived in the country of the Philistines.’” 
+David said, “Against the South of Judah, against the South of the Jerahmeelites, and against the South of the Kenites.” 
+@11 David saved neither man nor woman alive to bring them to Gath, saying, “Lest they should tell about us, saying, ‘David did this, and this has been his way all the time he has lived in the country of the Philistines.’” 
 
-^12^ Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.” 
+@12 Achish believed David, saying, “He has made his people Israel utterly to abhor him. Therefore he will be my servant forever.” 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 28
 ## La guerra con los filisteos; Saul con el nigromante en Endor
-^1^ En aquellos días, los filisteos reunieron sus ejércitos para la guerra, para luchar contra Israel. Aquis dijo a David: “Ten por seguro que saldrás conmigo en el ejército, tú y tus hombres”.
+@1 Y aconteció que en aquellos días los Filisteos juntaron sus campos para pelear contra Israel. Y dijo Achîs á David: Sabe de cierto que has de salir conmigo á campaña, tú y los tuyos.
 
-^2^ David dijo a Aquis: “Así sabrás lo que puede hacer tu siervo”. Aquis dijo a David: “Por eso te haré mi guardaespaldas para siempre”.
+@2 Y David respondió á Achîs: Sabrás pues lo que hará tu siervo. Y Achîs dijo á David: Por tanto te haré guarda de mi cabeza todos los días.
 
 ## Comienzo de la guerra; En su perplejidad, Saúl decide cuestionar un oráculo de los muertos
-^3^ Samuel había muerto, y todo Israel lo había llorado y enterrado en Ramá, en su propia ciudad. Saúl había expulsado del país a los que tenían espíritus familiares y a los magos. ^a^
-^a^[**28:3** 1Sam 25,1; Éxod 22,18]
+@3 Ya Samuel era muerto, y todo Israel lo había lamentado, y habíanle sepultado en Rama, en su ciudad. Y Saúl había echado de la tierra los encantadores y adivinos.
 
-^4^ Los filisteos se reunieron y vinieron a acampar en Sunem, y Saúl reunió a todo Israel y acamparon en Gilboa. ^5^ Cuando Saúl vio el ejército de los filisteos, tuvo miedo y su corazón se estremeció mucho. ^6^ Cuando Saúl consultó a Yavé, éste no le respondió ni por sueños, ni por Urim, ni por profetas. ^a^ ^7^ Entonces Saúl dijo a sus servidores: “Buscadme una mujer que tenga un espíritu familiar, para que vaya a ella y le pregunte.” Sus sirvientes le dijeron: “Mira, hay una mujer que tiene un espíritu familiar en Endor”. ^b^
-^a^[**28:6** Éxod 28,30; 1Sam 14,37; 1Sam 23,9] ^b^[**28:7** Hech 16,16]
+@4 Pues como los Filisteos se juntaron, vinieron y asentaron campo en Sunam: y Saúl juntó á todo Israel, y asentaron campo en Gilboa. 
+@5 Y cuando vió Saúl el campo de los Filisteos, temió, y turbóse su corazón en gran manera. 
+@6 Y consultó Saúl á Jehová; pero Jehová no le respondió, ni por sueños, ni por Urim, ni por profetas. 
+@7 Entonces Saúl dijo á sus criados: Buscadme una mujer que tenga espíritu de pythón, para que yo vaya á ella, y por medio de ella pregunte. Y sus criados le respondieron: He aquí hay una mujer en Endor que tiene espíritu de pythón.
 
 ## Saul con el nigromante en Endor; la aparición y profecía de la desgracia del espíritu de Samuel
-^8^ Saúl se disfrazó y se puso otra ropa, y fue, él y dos hombres con él, y llegaron a la mujer de noche. Entonces les dijo: “Por favor, consulta por mí por el espíritu familiar, y hazme subir a quien yo te nombre”.
+@8 Y disfrazóse Saúl, y púsose otros vestidos, y fuése con dos hombres, y vinieron á aquella mujer de noche; y él dijo: Yo te ruego que me adivines por el espíritu de pythón, y me hagas subir á quien yo te dijere.
 
-^9^ La mujer le dijo: “Mira, tú sabes lo que ha hecho Saúl, cómo ha eliminado del país a los que tienen espíritus familiares y a los magos. ¿Por qué, pues, pones una trampa a mi vida, para causarme la muerte?”
+@9 Y la mujer le dijo: He aquí tú sabes lo que Saúl ha hecho, cómo ha separado de la tierra los pythones y los adivinos: ¿por qué pues pones tropiezo á mi vida, para hacerme matar?
 
-^10^ Saúl le juró por Yahvé, diciendo: “Vive Yahvé, que no te sucederá ningún castigo por esto”.
+@10 Entoces Saúl le juró por Jehová, diciendo: Vive Jehová, que ningún mal te vendrá por esto.
 
-^11^ Entonces la mujer dijo: “¿A quién te voy a subir?” Dijo: “Trae a Samuel por mí”.
+@11 La mujer entonces dijo: ¿A quién te haré venir? Y él respondió: Hazme venir á Samuel.
 
-^12^ Cuando la mujer vio a Samuel, gritó con fuerza; y la mujer habló a Saúl diciendo: “¿Por qué me has engañado? Porque tú eres Saúl”.
+@12 Y viendo la mujer á Samuel, clamó en alta voz, y habló aquella mujer á Saúl, diciendo:
 
-^13^ El rey le dijo: “¡No tengas miedo! ¿Qué ves?” La mujer le dijo a Saúl: “Veo un dios que sale de la tierra”.
+@13 ¿Por qué me has engañado? que tú eres Saúl. Y el rey le dijo: No temas: ¿qué has visto? Y la mujer respondió á Saúl: He visto dioses que suben de la tierra.
 
-^14^ Le dijo: “¿Qué aspecto tiene?” Ella dijo: “Un anciano se acerca. Está cubierto con un manto”. Saúl percibió que era Samuel, y se inclinó con el rostro hacia el suelo, mostrando respeto.
+@14 Y él le dijo: ¿Cuál es su forma? Y ella respondió: Un hombre anciano viene, cubierto de un manto. Saúl entonces entendió que era Samuel, y humillando el rostro á tierra, hizo gran reverencia.
 
-^15^ Samuel dijo a Saúl: “¿Por qué me has molestado para hacerme subir?” Saúl respondió: “Estoy muy angustiado, porque los filisteos me hacen la guerra, y Dios se ha alejado de mí y no me responde más, ni por profetas ni por sueños. Por eso te he llamado, para que me des a conocer lo que debo hacer”.
+@15 Y Samuel dijo á Saúl: ¿Por qué me has inquietado haciéndome venir? Y Saúl respondió: Estoy muy congojado; pues los Filisteos pelean contra mí, y Dios se ha apartado de mí, y no me responde más, ni por mano de profetas, ni por sueños: por esto te he llamado, para que me declares qué tengo de hacer.
 
-^16^ Samuel dijo: “¿Por qué me preguntas, pues Yahvé se ha alejado de ti y se ha convertido en tu adversario? ^17^ El Señor ha hecho contigo lo que dijo por mí. El Señor ha arrancado el reino de tus manos y se lo ha dado a tu vecino, a David. ^18^ Porque no obedeciste la voz del Señor y no ejecutaste su furia contra Amalec, por eso el Señor te ha hecho esto hoy. ^a^ ^19^ Además, Yahvé entregará a Israel también con ustedes en manos de los filisteos, y mañana tú y tus hijos estarán conmigo. El Señor entregará también el ejército de Israel en manos de los filisteos”. ^b^
-^a^[**28:18** 1Sam 15,18-19] ^b^[**28:19** 1Sam 31,6]
+@16 Entonces Samuel dijo: ¿Y para qué me preguntas á mí, habiéndose apartado de ti Jehová, y es tu enemigo? 
+@17 Jehová pues ha hecho como habló por medio de mí; pues ha cortado Jehová el reino de tu mano, y lo ha dado á tu compañero David. 
+@18 Como tú no obedeciste á la voz de Jehová, ni cumpliste el furor de su ira sobre Amalec, por eso Jehová te ha hecho esto hoy. 
+@19 Y Jehová entregará á Israel también contigo en manos de los Filisteos: y mañana seréis conmigo, tú y tus hijos: y aun el campo de Israel entregará Jehová en manos de los Filisteos.
 
 ## Efecto de la profecía sobre Saulo
-^20^ Entonces Saúl cayó inmediatamente en tierra en toda su extensión, y se aterrorizó a causa de las palabras de Samuel. No había fuerzas en él, pues no había comido pan en todo el día ni en toda la noche.
+@20 En aquel punto cayó Saúl en tierra cuan grande era, y tuvo gran temor por las palabras de Samuel; que no quedó en él esfuerzo ninguno, porque en todo aquel día y aquella noche no había comido pan.
 
-^21^ La mujer se acercó a Saúl y, viendo que estaba muy turbado, le dijo: “Mira, tu siervo ha escuchado tu voz, y yo he puesto mi vida en mi mano, y he escuchado tus palabras que me has dicho. ^22^ Ahora, pues, te ruego que escuches también la voz de tu siervo, y permíteme poner ante ti un bocado de pan. Come, para que tengas fuerzas cuando sigas tu camino”.
+@21 Entonces la mujer vino á Saúl, y viéndole en grande manera turbado, díjole: He aquí que tu criada ha obedecido á tu voz, y he puesto mi vida en mi mano, y he oído las palabras que tú me has dicho. 
+@22 Ruégote pues, que tú también oigas la voz de tu sierva: pondré yo delante de ti un bocado de pan que comas, para que te corrobores, y vayas tu camino.
 
-^23^ Pero él se negó y dijo: “No quiero comer”. Pero sus siervos, junto con la mujer, lo obligaron; y él escuchó su voz. Entonces se levantó de la tierra y se sentó en la cama. ^24^ La mujer tenía en casa un ternero cebado. Se apresuró a matarlo, tomó harina, la amasó y coció con ella panes sin levadura. ^25^ Lo llevó ante Saúl y ante sus sirvientes, y comieron. Luego se levantaron y se fueron aquella noche.
+@23 Y él lo rehusó, diciendo: No comeré. Mas sus criados juntamente con la mujer le constriñeron, y él los obedeció. Levantóse pues del suelo, y sentóse sobre una cama. 
+@24 Y aquella mujer tenía en su casa un ternero grueso, el cual mató luego; y tomó harina y amasóla, y coció de ella panes sin levadura. 
+@25 Y lo trajo delante de Saúl y de sus criados; y luego que hubieron comido, se levantaron, y partieron aquella noche. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 28
-^1^ In those days, the Philistines gathered their armies together for warfare, to fight with Israel. Achish said to David, “Know assuredly that you will go out with me in the army, you and your men.” 
+## The war with the Philistines; Saul with the necromancer at Endor
+@1 In those days, the Philistines gathered their armies together for warfare, to fight with Israel. Achish said to David, “Know assuredly that you will go out with me in the army, you and your men.” 
 
-^2^ David said to Achish, “Therefore you will know what your servant can do.” 
+@2 David said to Achish, “Therefore you will know what your servant can do.” 
 
-Achish said to David, “Therefore I will make you my bodyguard forever.” 
+Achish said to David, “Therefore I will make you my bodyguard forever.”
 
-^3^ Now Samuel was dead, and all Israel had mourned for him and buried him in Ramah, even in his own city. Saul had sent away those who had familiar spirits and the wizards out of the land. 
+## Beginning of the war; In his perplexity, Saul decides to question an oracle of the dead
+@3 Now Samuel was dead, and all Israel had mourned for him and buried him in Ramah, even in his own city. Saul had sent away those who had familiar spirits and the wizards out of the land. 
 
-^4^ The Philistines gathered themselves together, and came and encamped in Shunem; and Saul gathered all Israel together, and they encamped in Gilboa. ^5^ When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly. ^6^ When Saul inquired of Yahweh, Yahweh didn’t answer him by dreams, by Urim, or by prophets. ^7^ Then Saul said to his servants, “Seek for me a woman who has a familiar spirit, that I may go to her and inquire of her.” 
+@4 The Philistines gathered themselves together, and came and encamped in Shunem; and Saul gathered all Israel together, and they encamped in Gilboa. 
+@5 When Saul saw the army of the Philistines, he was afraid, and his heart trembled greatly. 
+@6 When Saul inquired of Yahweh, Yahweh didn’t answer him by dreams, by Urim, or by prophets. 
+@7 Then Saul said to his servants, “Seek for me a woman who has a familiar spirit, that I may go to her and inquire of her.” 
 
-His servants said to him, “Behold, there is a woman who has a familiar spirit at Endor.” 
+His servants said to him, “Behold, there is a woman who has a familiar spirit at Endor.”
 
-^8^ Saul disguised himself and put on other clothing, and went, he and two men with him, and they came to the woman by night. Then he said, “Please consult for me by the familiar spirit, and bring me up whomever I shall name to you.” 
+## Saul with the necromancer on Endor; the appearance and prophecy of the misfortune of the spirit of Samuel
+@8 Saul disguised himself and put on other clothing, and went, he and two men with him, and they came to the woman by night. Then he said, “Please consult for me by the familiar spirit, and bring me up whomever I shall name to you.” 
 
-^9^ The woman said to him, “Behold, you know what Saul has done, how he has cut off those who have familiar spirits and the wizards out of the land. Why then do you lay a snare for my life, to cause me to die?” 
+@9 The woman said to him, “Behold, you know what Saul has done, how he has cut off those who have familiar spirits and the wizards out of the land. Why then do you lay a snare for my life, to cause me to die?” 
 
-^10^ Saul swore to her by Yahweh, saying, “As Yahweh lives, no punishment will happen to you for this thing.” 
+@10 Saul swore to her by Yahweh, saying, “As Yahweh lives, no punishment will happen to you for this thing.” 
 
-^11^ Then the woman said, “Whom shall I bring up to you?” 
+@11 Then the woman said, “Whom shall I bring up to you?” 
 
 He said, “Bring Samuel up for me.” 
 
-^12^ When the woman saw Samuel, she cried with a loud voice; and the woman spoke to Saul, saying, “Why have you deceived me? For you are Saul!” 
+@12 When the woman saw Samuel, she cried with a loud voice; and the woman spoke to Saul, saying, “Why have you deceived me? For you are Saul!” 
 
-^13^ The king said to her, “Don’t be afraid! What do you see?” 
+@13 The king said to her, “Don’t be afraid! What do you see?” 
 
 The woman said to Saul, “I see a god coming up out of the earth.” 
 
-^14^ He said to her, “What does he look like?” 
+@14 He said to her, “What does he look like?” 
 
 She said, “An old man comes up. He is covered with a robe.” Saul perceived that it was Samuel, and he bowed with his face to the ground, and showed respect. 
 
-^15^ Samuel said to Saul, “Why have you disturbed me, to bring me up?” 
+@15 Samuel said to Saul, “Why have you disturbed me, to bring me up?” 
 
 Saul answered, “I am very distressed; for the Philistines make war against me, and God has departed from me, and answers me no more, by prophets, or by dreams. Therefore I have called you, that you may make known to me what I shall do.” 
 
-^16^ Samuel said, “Why then do you ask me, since Yahweh has departed from you and has become your adversary? ^17^ Yahweh has done to you as he spoke by me. Yahweh has torn the kingdom out of your hand and given it to your neighbor, even to David. ^18^ Because you didn’t obey Yahweh’s voice, and didn’t execute his fierce wrath on Amalek, therefore Yahweh has done this thing to you today. ^19^ Moreover Yahweh will deliver Israel also with you into the hand of the Philistines; and tomorrow you and your sons will be with me. Yahweh will deliver the army of Israel also into the hand of the Philistines.” 
+@16 Samuel said, “Why then do you ask me, since Yahweh has departed from you and has become your adversary? 
+@17 Yahweh has done to you as he spoke by me. Yahweh has torn the kingdom out of your hand and given it to your neighbor, even to David. 
+@18 Because you didn’t obey Yahweh’s voice, and didn’t execute his fierce wrath on Amalek, therefore Yahweh has done this thing to you today. 
+@19 Moreover Yahweh will deliver Israel also with you into the hand of the Philistines; and tomorrow you and your sons will be with me. Yahweh will deliver the army of Israel also into the hand of the Philistines.”
 
-^20^ Then Saul fell immediately his full length on the earth, and was terrified, because of Samuel’s words. There was no strength in him, for he had eaten no bread all day long or all night long. 
+## Effect of the prophecy on Saul
+@20 Then Saul fell immediately his full length on the earth, and was terrified, because of Samuel’s words. There was no strength in him, for he had eaten no bread all day long or all night long. 
 
-^21^ The woman came to Saul and saw that he was very troubled, and said to him, “Behold, your servant has listened to your voice, and I have put my life in my hand, and have listened to your words which you spoke to me. ^22^ Now therefore, please listen also to the voice of your servant, and let me set a morsel of bread before you. Eat, that you may have strength when you go on your way.” 
+@21 The woman came to Saul and saw that he was very troubled, and said to him, “Behold, your servant has listened to your voice, and I have put my life in my hand, and have listened to your words which you spoke to me. 
+@22 Now therefore, please listen also to the voice of your servant, and let me set a morsel of bread before you. Eat, that you may have strength when you go on your way.” 
 
-^23^ But he refused, and said, “I will not eat.” But his servants, together with the woman, constrained him; and he listened to their voice. So he arose from the earth and sat on the bed. ^24^ The woman had a fattened calf in the house. She hurried and killed it; and she took flour and kneaded it, and baked unleavened bread of it. ^25^ She brought it before Saul and before his servants, and they ate. Then they rose up and went away that night. 
+@23 But he refused, and said, “I will not eat.” But his servants, together with the woman, constrained him; and he listened to their voice. So he arose from the earth and sat on the bed. 
+@24 The woman had a fattened calf in the house. She hurried and killed it; and she took flour and kneaded it, and baked unleavened bread of it. 
+@25 She brought it before Saul and before his servants, and they ate. Then they rose up and went away that night. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 29
 ## El envío de David a casa a instancias de los sospechosos príncipes filisteos
-^1^ Los filisteos reunieron todos sus ejércitos en Afec, y los israelitas acamparon junto a la fuente que está en Jezreel. ^a^ ^2^ Los jefes de los filisteos pasaban de a cientos y de a miles, y David y sus hombres pasaban en la retaguardia con Aquis.
-^a^[**29:1** 1Sam 4,1]
+@1 Y los Filisteos juntaron todos sus campos en Aphec; é Israel puso su campo junto á la fuente que está en Jezreel. 
+@2 Y reconociendo los príncipes de los Filisteos sus compañías de á ciento y de á mil hombres, David y los suyos iban en los postreros con Achîs.
 
-^3^ Entonces los príncipes de los filisteos dijeron: “¿Y estos hebreos?” Aquis dijo a los príncipes de los filisteos: “¿No es éste David, el siervo de Saúl, rey de Israel, que ha estado conmigo estos días, o más bien estos años? No he encontrado ningún defecto en él desde que cayó hasta hoy”.
+@3 Y dijeron los príncipes de los Filisteos: ¿Qué hacen aquí estos Hebreos? Y Achîs respondió á los príncipes de los Filisteos: ¿No es éste David, el siervo de Saúl rey de Israel, que ha estado conmigo algunos días ó algunos años, y no he hallado cosa en él desde el día que se pasó á mí hasta hoy?
 
-^4^ Pero los príncipes de los filisteos se enojaron con él, y le dijeron: “Haz volver a ese hombre a su lugar donde lo has destinado, y que no baje con nosotros a la batalla, no sea que en la batalla se convierta en un adversario nuestro. Porque, ¿con qué debería reconciliarse este hombre con su señor? ¿No debería ser con las cabezas de estos hombres? ^5^ ¿No es éste David, de quien el pueblo cantaba entre sí en las danzas, diciendo,‘Saúl ha matado a sus miles, y David sus diez mil”. ^a^
-^a^[**29:5** 1Sam 18,7]
+@4 Entonces los príncipes de los Filisteos se enojaron contra él, y dijéronle: Envía á este hombre, que se vuelva al lugar que le señalaste, y no venga con nosotros á la batalla, no sea que en la batalla se nos vuelva enemigo: porque ¿con qué cosa volvería mejor á la gracia de su señor que con las cabezas de estos hombres? 
+@5 ¿No es este David de quien cantaban en los corros, diciendo: Saúl hirió sus miles, y David sus diez miles?
 
-^6^ Entonces Aquis llamó a David y le dijo: “Vive Yahvé que has sido recto, y que tu salida y tu entrada conmigo en el ejército es buena a mis ojos, pues no he encontrado maldad en ti desde el día de tu llegada a mí hasta hoy. Sin embargo, los señores no te favorecen. ^7^ Por tanto, vuelve ahora y vete en paz, para que no disgustes a los señores de los filisteos.”
+@6 Y Achîs llamó á David, y díjole: Vive Jehová, que tú has sido recto, y que me ha parecido bien tu salida y entrada en el campo conmigo, y que ninguna cosa mala he hallado en ti desde el día que viniste á mí hasta hoy: mas en los ojos de los príncipes no agradas. 
+@7 Vuélvete pues, y vete en paz; y no hagas lo malo en los ojos de los príncipes de los Filisteos.
 
-^8^ David dijo a Aquis: “¿Pero qué he hecho yo? ¿Qué has encontrado en tu siervo desde que estoy ante ti hasta hoy, para que no vaya a luchar contra los enemigos de mi señor el rey?”
+@8 Y David respondió á Achîs: ¿Qué he hecho? ¿qué has hallado en tu siervo desde el día que estoy contigo hasta hoy, para que yo no vaya y pelee contra los enemigos de mi señor el rey?
 
-^9^ Aquis respondió a David: “Sé que eres bueno ante mis ojos, como un ángel de Dios. Sin embargo, los príncipes de los filisteos han dicho: ‘No subirá con nosotros a la batalla’. ^a^ ^10^ Por tanto, levántate ahora de madrugada con los siervos de tu señor que han venido contigo; y en cuanto madrugues y tengas luz, parte.”
-^a^[**29:9** 2Sam 19,27]
+@9 Y Achîs respondió á David, y dijo: Yo sé que tú eres bueno en mis ojos, como un ángel de Dios; mas los príncipes de los Filisteos han dicho: No venga con nosotros á la batalla. 
+@10 Levántate pues de mañana, tú y los siervos de tu señor que han venido contigo; y levantándoos de mañana, luego al amanecer partíos.
 
-^11^ Así que David se levantó temprano, él y sus hombres, para partir por la mañana, para volver a la tierra de los filisteos; y los filisteos subieron a Jezreel.
+@11 Y levantóse David de mañana, él y los suyos, para irse y volverse á la tierra de los Filisteos; y los Filisteos fueron á Jezreel. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 29
-^1^ Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel. ^2^ The lords of the Philistines passed on by hundreds and by thousands; and David and his men passed on in the rear with Achish. 
+## David's sending home at the behest of the suspicious Philistine princes
+@1 Now the Philistines gathered together all their armies to Aphek; and the Israelites encamped by the spring which is in Jezreel. 
+@2 The lords of the Philistines passed on by hundreds and by thousands; and David and his men passed on in the rear with Achish. 
 
-^3^ Then the princes of the Philistines said, “What about these Hebrews?” 
+@3 Then the princes of the Philistines said, “What about these Hebrews?” 
 
 Achish said to the princes of the Philistines, “Isn’t this David, the servant of Saul the king of Israel, who has been with me these days, or rather these years? I have found no fault in him since he fell away until today.” 
 
-^4^ But the princes of the Philistines were angry with him; and the princes of the Philistines said to him, “Make the man return, that he may go back to his place where you have appointed him, and let him not go down with us to battle, lest in the battle he become an adversary to us. For with what should this fellow reconcile himself to his lord? Should it not be with the heads of these men? ^5^ Isn’t this David, of whom people sang to one another in dances, saying, ‘Saul has slain his thousands, and David his ten thousands?’” 
+@4 But the princes of the Philistines were angry with him; and the princes of the Philistines said to him, “Make the man return, that he may go back to his place where you have appointed him, and let him not go down with us to battle, lest in the battle he become an adversary to us. For with what should this fellow reconcile himself to his lord? Should it not be with the heads of these men? 
+@5 Isn’t this David, of whom people sang to one another in dances, saying, ‘Saul has slain his thousands, and David his ten thousands?’” 
 
-^6^ Then Achish called David and said to him, “As Yahweh lives, you have been upright, and your going out and your coming in with me in the army is good in my sight; for I have not found evil in you since the day of your coming to me to this day. Nevertheless, the lords don’t favor you. ^7^ Therefore now return, and go in peace, that you not displease the lords of the Philistines.” 
+@6 Then Achish called David and said to him, “As Yahweh lives, you have been upright, and your going out and your coming in with me in the army is good in my sight; for I have not found evil in you since the day of your coming to me to this day. Nevertheless, the lords don’t favor you. 
+@7 Therefore now return, and go in peace, that you not displease the lords of the Philistines.” 
 
-^8^ David said to Achish, “But what have I done? What have you found in your servant so long as I have been before you to this day, that I may not go and fight against the enemies of my lord the king?” 
+@8 David said to Achish, “But what have I done? What have you found in your servant so long as I have been before you to this day, that I may not go and fight against the enemies of my lord the king?” 
 
-^9^ Achish answered David, “I know that you are good in my sight, as an angel of God. Notwithstanding, the princes of the Philistines have said, ‘He shall not go up with us to the battle.’ ^10^ Therefore now rise up early in the morning with the servants of your lord who have come with you; and as soon as you are up early in the morning and have light, depart.” 
+@9 Achish answered David, “I know that you are good in my sight, as an angel of God. Notwithstanding, the princes of the Philistines have said, ‘He shall not go up with us to the battle.’ 
+@10 Therefore now rise up early in the morning with the servants of your lord who have come with you; and as soon as you are up early in the morning and have light, depart.” 
 
-^11^ So David rose up early, he and his men, to depart in the morning, to return into the land of the Philistines; and the Philistines went up to Jezreel. 
+@11 So David rose up early, he and his men, to depart in the morning, to return into the land of the Philistines; and the Philistines went up to Jezreel. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 30
 ## David encuentra Siclag devastada por los amalecitas; su consternación y aliento
-^1^ Cuando David y sus hombres habían llegado a Siclag al tercer día, los amalecitas habían hecho una incursión en el sur y en Siclag, y habían atacado a Siclag y la habían quemado con fuego, ^2^ y habían llevado cautivas a las mujeres y a todos los que estaban en ella, tanto pequeños como grandes. No mataron a ninguno, sino que se los llevaron y siguieron su camino. ^3^ Cuando David y sus hombres llegaron a la ciudad, he aquí que ésta había sido incendiada, y sus mujeres, sus hijos y sus hijas habían sido llevados cautivos. ^4^ Entonces David y el pueblo que estaba con él alzaron la voz y lloraron hasta que ya no tuvieron fuerzas para llorar. ^5^ Las dos esposas de David fueron llevadas cautivas, Ahinoam la jezreelita y Abigail la esposa de Nabal el carmelita. ^a^ ^6^ David estaba muy afligido, pues el pueblo hablaba de apedrearlo, porque las almas de todo el pueblo estaban afligidas, cada una por sus hijos y por sus hijas; pero David se fortaleció en Yahvé, su Dios. ^7^ David dijo al sacerdote Abiatar, hijo de Ajimelec: “Por favor, tráeme el efod”. Abiatar llevó el efod a David. ^b^ ^8^ David consultó a Yahvé, diciendo: “Si persigo a esta tropa, ¿la alcanzaré?”. Él le respondió: “Persigue, porque seguramente los alcanzarás, y sin falta lo recuperarás todo”.
-^a^[**30:5** 1Sam 25,42-43] ^b^[**30:7** 1Sam 23,9]
+@1 Y cuando David y los suyos vinieron á Siclag al tercer día, los de Amalec habían invadido el mediodía y á Siclag, y habían desolado á Siclag, y puéstola á fuego. 
+@2 Y habíanse llevado cautivas á las mujeres que estaban en ella, desde el menor hasta el mayor; mas á nadie habían muerto, sino llevado, é ídose su camino. 
+@3 Vino pues David con los suyos á la ciudad, y he aquí que estaba quemada á fuego, y sus mujeres y sus hijos é hijas llevadas cautivas. 
+@4 Entonces David y la gente que con él estaba, alzaron su voz y lloraron, hasta que les faltaron las fuerzas para llorar. 
+@5 Las dos mujeres de David, Ahinoam Jezreelita y Abigail la que fué mujer de Nabal del Carmelo, también eran cautivas. 
+@6 Y David fué muy angustiado, porque el pueblo hablaba de apedrearlo; porque todo el pueblo estaba con ánimo amargo, cada uno por sus hijos y por sus hijas: mas David se esforzó en Jehová su Dios. 
+@7 Y dijo David al sacerdote Abiathar hijo de Ahimelech: Yo te ruego que me acerques el ephod. Y Abiathar acercó el ephod á David.
 
-^9^ Así que David se fue, él y los seiscientos hombres que estaban con él, y llegaron al arroyo Besor, donde se quedaron los que quedaron atrás. ^10^ Pero David siguió, él y cuatrocientos hombres; porque se quedaron atrás doscientos, que estaban tan débiles que no podían pasar el arroyo de Besor.
+@8 Y David consultó á Jehová, diciendo: ¿Seguiré esta tropa? ¿podréla alcanzar? Y él le dijo: Síguela, que de cierto la alcanzarás, y sin falta librarás la presa.
+
+@9 Partióse pues David, él y los seiscientos hombres que con él estaban, y vinieron hasta el torrente de Besor, donde se quedaron algunos. 
+@10 Y David siguió el alcance con cuatrocientos hombres; porque se quedaron atrás doscientos, que cansados no pudieron pasar el torrente de Besor.
 
 ## La persecución y destrucción de David de la banda de ladrones de Amalecita
-^11^ Encontraron a un egipcio en el campo, lo llevaron a David y le dieron pan, y él comió, y le dieron de beber agua. ^12^ Le dieron un trozo de una torta de higos y dos racimos de pasas. Cuando hubo comido, su espíritu volvió a él, pues no había comido pan ni bebido agua durante tres días y tres noches. ^a^ ^13^ David le preguntó: “¿A quién perteneces? ¿De dónde eres?” Dijo: “Soy un joven egipcio, siervo de un amalecita; y mi amo me dejó, porque hace tres días me enfermé. ^14^ Hicimos una incursión en el sur de los queretanos, en el que pertenece a Judá y en el sur de Caleb, y quemamos Ziklag con fuego.” ^b^
-^a^[**30:12** Jue 15,19] ^b^[**30:14** 2Sam 8,18; Jos 14,13]
+@11 Y hallaron en el campo un hombre Egipcio, el cual trajeron á David, y diéronle pan que comiese, y á beber agua; 
+@12 Diéronle también un pedazo de masa de higos secos, y dos hilos de pasas. Y luego que comió, volvió en él su espíritu; porque no había comido pan ni bebido agua en tres días y tres noches. 
+@13 Y díjole David: ¿De quién eres tú? ¿y de dónde eres? Y respondió el mozo Egipcio: Yo soy siervo de un Amalecita, y dejóme mi amo hoy ha tres días, porque estaba enfermo;
 
-^15^ David le dijo: “¿Me harás bajar a esta tropa?” Dijo: “Júrame por Dios que no me matarás ni me entregarás en manos de mi amo, y te haré bajar a esta tropa”.
+@14 Pues hicimos una incursión á la parte del mediodía de Cerethi, y á Judá, y al mediodía de Caleb; y pusimos fuego á Siclag.
 
-^16^ Cuando lo hizo descender, he aquí que estaban esparcidos por toda la tierra, comiendo, bebiendo y bailando, a causa de todo el gran botín que habían sacado de la tierra de los filisteos y de la tierra de Judá. ^17^ David los golpeó desde el crepúsculo hasta la tarde del día siguiente. Ningún hombre de ellos escapó de allí, excepto cuatrocientos jóvenes que montaron en camellos y huyeron. ^18^ David recuperó todo lo que los amalecitas habían tomado, y David rescató a sus dos esposas. ^19^ No les faltó nada, ni pequeño ni grande, ni hijos ni hijas, ni botín, ni nada de lo que habían tomado. David los devolvió a todos. ^20^ David tomó todos los rebaños y las vacas, que condujeron delante de los otros ganados, y dijo: “Este es el botín de David”.
+@15 Y díjole David: ¿Me llevarás tú á esa tropa? Y él dijo: Hazme juramento por Dios que no me matarás, ni me entregarás en las manos de mi amo, y yo te llevaré á esa gente.
+
+@16 Llevólo pues: y he aquí que estaban derramados sobre la haz de toda aquella tierra, comiendo y bebiendo y haciendo fiesta, por toda aquella gran presa que habían tomado de la tierra de los Filisteos, y de la tierra de Judá. 
+@17 E hiriólos David desde aquella mañana hasta la tarde del día siguiente: y no escapó de ellos ninguno, sino cuatrocientos mancebos, que habían subido en camellos y huyeron. 
+@18 Y libró David todo lo que los Amalecitas habían tomado: y asimismo libertó David á sus dos mujeres. 
+@19 Y no les faltó cosa chica ni grande, así de hijos como de hijas, del robo, y de todas las cosas que les habían tomado: todo lo recobró David. 
+@20 Tomó también David todas las ovejas y ganados mayores; y trayéndolo todo delante, decían: Esta es la presa de David.
 
 ## David hace que su pueblo lleve ante la justicia a sus camaradas
-^21^ David se acercó a los doscientos hombres, que estaban tan desanimados que no podían seguir a David, a quien también habían hecho quedarse en el arroyo de Besor, y salieron a recibir a David y al pueblo que estaba con él. Cuando David se acercó al pueblo, lo saludó. ^22^ Entonces todos los hombres malvados y despreciables de los que iban con David respondieron y dijeron: “Por no haber ido con nosotros, no les daremos nada del botín que hemos recuperado, salvo a cada uno su mujer y sus hijos, para que los lleve y se vaya.”
+@21 Y vino David á los doscientos hombres que habían quedado cansados y no habían podido seguir á David, á los cuales habían hecho quedar en el torrente de Besor; y ellos salieron á recibir á David, y al pueblo que con él estaba. Y como David llegó á la gente, saludóles con paz. 
+@22 Entonces todos los malos y perversos de entre los que habían ido con David, respondieron y dijeron: Pues que no fueron con nosotros, no les daremos de la presa que hemos quitado, sino á cada uno su mujer y sus hijos; los cuales tomen y se vayan.
 
-^23^ Entonces David dijo: “No hagáis eso, hermanos míos, con lo que nos ha dado Yahvé, que nos ha preservado y ha entregado en nuestra mano a la tropa que venía contra nosotros. ^24^ ¿Quién os escuchará en este asunto? Porque así como su parte es el que baja a la batalla, así será su parte el que se quede con el bagaje. Se repartirán por igual”. ^a^ ^25^ Así fue desde aquel día y lo convirtió en estatuto y ordenanza para Israel hasta el día de hoy.
-^a^[**30:24** Núm 31,27]
+@23 Y David dijo: No hagáis eso, hermanos míos, de lo que nos ha dado Jehová; el cual nos ha guardado, y ha entregado en nuestras manos la caterva que vino sobre nosotros. 
+@24 ¿Y quién os escuchará en este caso? porque igual parte ha de ser la de los que vienen á la batalla, y la de los que quedan con el bagaje: que partan juntamente. 
+@25 Y desde aquel día en adelante fué esto puesto por ley y ordenanza en Israel, hasta hoy.
 
 ## David envía regalos a los ancianos en numerosas ciudades de Judá
-^26^ Cuando David llegó a Siclag, envió parte del botín a los ancianos de Judá, a sus amigos, diciendo: “He aquí un regalo para ustedes del botín de los enemigos de Yavé.” ^27^ Lo envió a los que estaban en Betel, a los que estaban en Ramot del Sur, a los que estaban en Jattir, ^28^ a los que estaban en Aroer, a los que estaban en Sifmot, a los que estaban en Estemoa, ^29^ a los que estaban en Racal a los que estaban en las ciudades de los jeraelitas, a los que estaban en las ciudades de los ceneos, ^30^ a los que estaban en Horma, a los que estaban en Borashan, a los que estaban en Athach, ^31^ a los que estaban en Hebrón, y a todos los lugares donde David mismo y sus hombres solían quedarse.
+@26 Y como David llegó á Siclag, envió de la presa á los ancianos de Judá, sus amigos, diciendo: He aquí una bendición para vosotros, de la presa de los enemigos de Jehová. 
+@27 A los que estaban en Beth-el, y en Ramoth al mediodía, y á los que estaban en Jattir; 
+@28 Y á los que estaban en Aroer, y en Siphmoth, y á los que estaban en Esthemoa; 
+@29 Y á los que estaban en Rachâl, y á los que estaban en las ciudades de Jerameel, y á los que estaban en las ciudades del Cineo; 
+@30 Y á los que estaban en Horma, y á los que estaban en Chôrasán, y á los que estaban en Athach; 
+@31 Y á los que estaban en Hebrón, y en todos los lugares donde David había estado con los suyos. 
 
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 30
-^1^ When David and his men had come to Ziklag on the third day, the Amalekites had made a raid on the South and on Ziklag, and had struck Ziklag and burned it with fire, ^2^ and had taken captive the women and all who were in it, both small and great. They didn’t kill any, but carried them off and went their way. ^3^ When David and his men came to the city, behold, it was burned with fire; and their wives, their sons, and their daughters were taken captive. ^4^ Then David and the people who were with him lifted up their voice and wept until they had no more power to weep. ^5^ David’s two wives were taken captive, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite. ^6^ David was greatly distressed, for the people spoke of stoning him, because the souls of all the people were grieved, every man for his sons and for his daughters; but David strengthened himself in Yahweh his God. ^7^ David said to Abiathar the priest, the son of Ahimelech, “Please bring the ephod here to me.” 
+## David finds Ziklag devastated by the Amalekites; your dismay and encouragement
+@1 When David and his men had come to Ziklag on the third day, the Amalekites had made a raid on the South and on Ziklag, and had struck Ziklag and burned it with fire, 
+@2 and had taken captive the women and all who were in it, both small and great. They didn’t kill any, but carried them off and went their way. 
+@3 When David and his men came to the city, behold, it was burned with fire; and their wives, their sons, and their daughters were taken captive. 
+@4 Then David and the people who were with him lifted up their voice and wept until they had no more power to weep. 
+@5 David’s two wives were taken captive, Ahinoam the Jezreelitess, and Abigail the wife of Nabal the Carmelite. 
+@6 David was greatly distressed, for the people spoke of stoning him, because the souls of all the people were grieved, every man for his sons and for his daughters; but David strengthened himself in Yahweh his God. 
+@7 David said to Abiathar the priest, the son of Ahimelech, “Please bring the ephod here to me.” 
 
-Abiathar brought the ephod to David. ^8^ David inquired of Yahweh, saying, “If I pursue after this troop, will I overtake them?” 
+Abiathar brought the ephod to David. 
+@8 David inquired of Yahweh, saying, “If I pursue after this troop, will I overtake them?” 
 
 He answered him, “Pursue, for you will surely overtake them, and will without fail recover all.” 
 
-^9^ So David went, he and the six hundred men who were with him, and came to the brook Besor, where those who were left behind stayed. ^10^ But David pursued, he and four hundred men; for two hundred stayed behind, who were so faint that they couldn’t go over the brook Besor. ^11^ They found an Egyptian in the field, and brought him to David, and gave him bread, and he ate; and they gave him water to drink. ^12^ They gave him a piece of a cake of figs and two clusters of raisins. When he had eaten, his spirit came again to him; for he had eaten no bread, and drank no water for three days and three nights. ^13^ David asked him, “To whom do you belong? Where are you from?” 
+@9 So David went, he and the six hundred men who were with him, and came to the brook Besor, where those who were left behind stayed. 
+@10 But David pursued, he and four hundred men; for two hundred stayed behind, who were so faint that they couldn’t go over the brook Besor.
 
-He said, “I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days ago I got sick. ^14^ We made a raid on the South of the Cherethites, and on that which belongs to Judah, and on the South of Caleb; and we burned Ziklag with fire.” 
+## The pursuit and destruction of David from the Amalekite band of robbers
+@11 They found an Egyptian in the field, and brought him to David, and gave him bread, and he ate; and they gave him water to drink. 
+@12 They gave him a piece of a cake of figs and two clusters of raisins. When he had eaten, his spirit came again to him; for he had eaten no bread, and drank no water for three days and three nights. 
+@13 David asked him, “To whom do you belong? Where are you from?” 
 
-^15^ David said to him, “Will you bring me down to this troop?” 
+He said, “I am a young man of Egypt, servant to an Amalekite; and my master left me, because three days ago I got sick. 
+@14 We made a raid on the South of the Cherethites, and on that which belongs to Judah, and on the South of Caleb; and we burned Ziklag with fire.” 
+
+@15 David said to him, “Will you bring me down to this troop?” 
 
 He said, “Swear to me by God that you will not kill me and not deliver me up into the hands of my master, and I will bring you down to this troop.” 
 
-^16^ When he had brought him down, behold, they were spread around over all the ground, eating, drinking, and dancing, because of all the great plunder that they had taken out of the land of the Philistines, and out of the land of Judah. ^17^ David struck them from the twilight even to the evening of the next day. Not a man of them escaped from there, except four hundred young men who rode on camels and fled. ^18^ David recovered all that the Amalekites had taken, and David rescued his two wives. ^19^ There was nothing lacking to them, neither small nor great, neither sons nor daughters, neither plunder, nor anything that they had taken. David brought them all back. ^20^ David took all the flocks and the herds, which they drove before those other livestock, and said, “This is David’s plunder.” 
+@16 When he had brought him down, behold, they were spread around over all the ground, eating, drinking, and dancing, because of all the great plunder that they had taken out of the land of the Philistines, and out of the land of Judah. 
+@17 David struck them from the twilight even to the evening of the next day. Not a man of them escaped from there, except four hundred young men who rode on camels and fled. 
+@18 David recovered all that the Amalekites had taken, and David rescued his two wives. 
+@19 There was nothing lacking to them, neither small nor great, neither sons nor daughters, neither plunder, nor anything that they had taken. David brought them all back. 
+@20 David took all the flocks and the herds, which they drove before those other livestock, and said, “This is David’s plunder.”
 
-^21^ David came to the two hundred men, who were so faint that they could not follow David, whom also they had made to stay at the brook Besor; and they went out to meet David, and to meet the people who were with him. When David came near to the people, he greeted them. ^22^ Then all the wicked men and worthless fellows of those who went with David answered and said, “Because they didn’t go with us, we will not give them anything of the plunder that we have recovered, except to every man his wife and his children, that he may lead them away and depart.” 
+## David makes his people bring their comrades to justice
+@21 David came to the two hundred men, who were so faint that they could not follow David, whom also they had made to stay at the brook Besor; and they went out to meet David, and to meet the people who were with him. When David came near to the people, he greeted them. 
+@22 Then all the wicked men and worthless fellows of those who went with David answered and said, “Because they didn’t go with us, we will not give them anything of the plunder that we have recovered, except to every man his wife and his children, that he may lead them away and depart.” 
 
-^23^ Then David said, “Do not do so, my brothers, with that which Yahweh has given to us, who has preserved us, and delivered the troop that came against us into our hand. ^24^ Who will listen to you in this matter? For as his share is who goes down to the battle, so shall his share be who stays with the baggage. They shall share alike.” ^25^ It was so from that day forward that he made it a statute and an ordinance for Israel to this day. 
+@23 Then David said, “Do not do so, my brothers, with that which Yahweh has given to us, who has preserved us, and delivered the troop that came against us into our hand. 
+@24 Who will listen to you in this matter? For as his share is who goes down to the battle, so shall his share be who stays with the baggage. They shall share alike.” 
+@25 It was so from that day forward that he made it a statute and an ordinance for Israel to this day.
 
-^26^ When David came to Ziklag, he sent some of the plunder to the elders of Judah, even to his friends, saying, “Behold, a present for you from the plunder of Yahweh’s enemies.” ^27^ He sent it to those who were in Bethel, to those who were in Ramoth of the South, to those who were in Jattir, ^28^ to those who were in Aroer, to those who were in Siphmoth, to those who were in Eshtemoa, ^29^ to those who were in Racal, to those who were in the cities of the Jerahmeelites, to those who were in the cities of the Kenites, ^30^ to those who were in Hormah, to those who were in Borashan, to those who were in Athach, ^31^ to those who were in Hebron, and to all the places where David himself and his men used to stay. 
+## David sends gifts to the elderly in numerous cities of Judah
+@26 When David came to Ziklag, he sent some of the plunder to the elders of Judah, even to his friends, saying, “Behold, a present for you from the plunder of Yahweh’s enemies.” 
+@27 He sent it to those who were in Bethel, to those who were in Ramoth of the South, to those who were in Jattir, 
+@28 to those who were in Aroer, to those who were in Siphmoth, to those who were in Eshtemoa, 
+@29 to those who were in Racal, to those who were in the cities of the Jerahmeelites, to those who were in the cities of the Kenites, 
+@30 to those who were in Hormah, to those who were in Borashan, to those who were in Athach, 
+@31 to those who were in Hebron, and to all the places where David himself and his men used to stay. 
 
 \nopandoc{\end{otherlanguage}}
 \switchcolumn[0]*
 
 # 31
 ## La derrota de Israel y el desastre de Saúl y su casa
-^1^ Los filisteos lucharon contra Israel, y los hombres de Israel huyeron de la presencia de los filisteos y cayeron muertos en el monte Gilboa. ^2^ Los filisteos alcanzaron a Saúl y a sus hijos, y los filisteos mataron a Jonatán, Abinadab y Malquisúa, hijos de Saúl. ^3^ La batalla fue dura contra Saúl, y los arqueros lo alcanzaron; y él se angustió mucho a causa de los arqueros. ^4^ Entonces Saúl dijo a su escudero: “¡Saca tu espada y traspásame con ella, no sea que vengan estos incircuncisos y me traspasen y abusen de mí!” Pero su escudero no quiso, porque estaba aterrorizado. Por lo tanto, Saúl tomó su espada y cayó sobre ella. ^a^ ^5^ Cuando su escudero vio que Saúl estaba muerto, también cayó sobre su espada y murió con él. ^6^ Así murió Saúl con sus tres hijos, su escudero y todos sus hombres aquel mismo día.
-^a^[**31:4** Jue 9,54]
+@1 Los Filisteos pues pelearon con Israel, y los de Israel huyeron delante de los Filisteos, y cayeron muertos en el monte de Gilboa. 
+@2 Y siguiendo los Filisteos á Saúl y á sus hijos, mataron á Jonathán, y á Abinadab, y á Melchîsua, hijos de Saúl. 
+@3 Y agravóse la batalla sobre Saúl, y le alcanzaron los flecheros; y tuvo gran temor de los flecheros. 
+@4 Entonces dijo Saúl á su escudero: Saca tu espada, y pásame con ella, porque no vengan estos incircuncisos, y me pasen, y me escarnezcan. Mas su escudero no quería, porque tenía gran temor. Entonces tomó Saúl la espada, y echóse sobre ella. 
+@5 Y viendo su escudero á Saúl muerto, él también se echó sobre su espada, y murió con él. 
+@6 Así murió Saúl en aquel día, juntamente con sus tres hijos, y su escudero, y todos sus varones.
 
-^7^ Cuando los hombres de Israel que estaban al otro lado del valle, y los que estaban al otro lado del Jordán, vieron que los hombres de Israel huían y que Saúl y sus hijos estaban muertos, abandonaron las ciudades y huyeron, y los filisteos vinieron y vivieron en ellas.
+@7 Y los de Israel que eran de la otra parte del valle, y de la otra parte del Jordán, viendo que Israel había huído, y que Saúl y sus hijos eran muertos, dejaron las ciudades y huyeron; y los Filisteos vinieron y habitaron en ellas.
 
-## El destino de los cadáveres de Saúl y sus hijos
-^8^ Al día siguiente, cuando los filisteos fueron a despojar a los muertos, encontraron a Saúl y a sus tres hijos caídos en el monte Gilboa. ^9^ Le cortaron la cabeza, le despojaron de su armadura y enviaron a la tierra de los filisteos a todos los alrededores, para llevar la noticia a la casa de sus ídolos y al pueblo. ^10^ Pusieron su armadura en la casa de Astarot, y sujetaron su cuerpo al muro de Bet Shan. ^11^ Cuando los habitantes de Jabes de Galaad se enteraron de lo que los filisteos le habían hecho a Saúl, ^[**31:11** 1Sam 11,1-11] ^12^ todos los hombres valientes se levantaron, fueron toda la noche y tomaron el cuerpo de Saúl y los cuerpos de sus hijos de la muralla de Bet Shan; llegaron a Jabes y los quemaron allí. ^13^ Tomaron sus huesos y los enterraron bajo el árbol de tamarisco en Jabes, y ayunaron siete días. ^[**31:13** 2Sam 1,12]
+## El destino de los cadáveres de Saúl y sus hijos
+
+@
+@8 Y aconteció el siguiente día, que viniendo los Filisteos á despojar los muertos, hallaron á Saúl y á sus tres hijos tendidos en el monte de Gilboa; 
+@9 Y cortáronle la cabeza, y desnudáronle las armas; y enviaron á tierra de los Filisteos al contorno, para que lo noticiaran en el templo de sus ídolos, y por el pueblo. 
+@10 Y pusieron sus armas en el templo de Astaroth, y colgaron su cuerpo en el muro de Beth-san. 
+@11 Mas oyendo los de Jabes de Galaad esto que los Filisteos hicieron á Saúl, 
+@12 Todos los hombres valientes se levantaron, y anduvieron toda aquella noche, y quitaron el cuerpo de Saúl y los cuerpos de sus hijos del muro de Beth-san; y viniendo á Jabes, quemáronlos allí. 
+@13 Y tomando sus huesos, sepultáronlos debajo de un árbol en Jabes, y ayunaron siete días.
 \switchcolumn
 \nopandoc{\begin{otherlanguage}{english}}
 
 # 31
-^1^ Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa. ^2^ The Philistines overtook Saul and his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul. ^3^ The battle went hard against Saul, and the archers overtook him; and he was greatly distressed by reason of the archers. ^4^ Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and thrust me through and abuse me!” But his armor bearer would not, for he was terrified. Therefore Saul took his sword and fell on it. ^5^ When his armor bearer saw that Saul was dead, he likewise fell on his sword, and died with him. ^6^ So Saul died with his three sons, his armor bearer, and all his men that same day together. 
+## The defeat of Israel and the disaster of Saul and his house
+@1 Now the Philistines fought against Israel; and the men of Israel fled from before the Philistines, and fell down slain on Mount Gilboa. 
+@2 The Philistines overtook Saul and his sons; and the Philistines killed Jonathan, Abinadab, and Malchishua, the sons of Saul. 
+@3 The battle went hard against Saul, and the archers overtook him; and he was greatly distressed by reason of the archers. 
+@4 Then Saul said to his armor bearer, “Draw your sword, and thrust me through with it, lest these uncircumcised come and thrust me through and abuse me!” But his armor bearer would not, for he was terrified. Therefore Saul took his sword and fell on it. 
+@5 When his armor bearer saw that Saul was dead, he likewise fell on his sword, and died with him. 
+@6 So Saul died with his three sons, his armor bearer, and all his men that same day together. 
 
-^7^ When the men of Israel who were on the other side of the valley, and those who were beyond the Jordan, saw that the men of Israel fled and that Saul and his sons were dead, they abandoned the cities and fled; and the Philistines came and lived in them. ^8^ On the next day, when the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa. ^9^ They cut off his head, stripped off his armor, and sent into the land of the Philistines all around, to carry the news to the house of their idols and to the people. ^10^ They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth Shan. ^11^ When the inhabitants of Jabesh Gilead heard what the Philistines had done to Saul, ^12^ all the valiant men arose, went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh and burned them there. ^13^ They took their bones and buried them under the tamarisk^a^ tree in Jabesh, and fasted seven days. 
+@7 When the men of Israel who were on the other side of the valley, and those who were beyond the Jordan, saw that the men of Israel fled and that Saul and his sons were dead, they abandoned the cities and fled; and the Philistines came and lived in them.
+
+## The fate of the corpses of Saul and his sons
+ 
+@8 On the next day, when the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa. 
+@9 They cut off his head, stripped off his armor, and sent into the land of the Philistines all around, to carry the news to the house of their idols and to the people. 
+@10 They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth Shan. 
+@11 When the inhabitants of Jabesh Gilead heard what the Philistines had done to Saul, 
+@12 all the valiant men arose, went all night, and took the body of Saul and the bodies of his sons from the wall of Beth Shan; and they came to Jabesh and burned them there. 
+@13 They took their bones and buried them under the tamarisk^a^ tree in Jabesh, and fasted seven days. 
 ^a^[**31:13** or, salt cedar]
 \nopandoc{\end{otherlanguage}}
 \nopandoc{\end{paracol}}
