@@ -1,0 +1,179 @@
+ \nopandoc{\begin{paracol}{2}}
+\switchcolumn[0]*
+
+# 1
+## Anuncio del juicio destructivo sobre todo el mundo de las naciones y especialmente sobre Judá
+@1 Palabra de Jehová que fué á Sofonías hijo de Cushi, hijo de Gedalías, hijo de Amarías, hijo de Ezechîas, en días de Josías hijo de Amón, rey de Judá.
+
+@2 Destruiré del todo todas las cosas de sobre la haz de la tierra, dice Jehová. 
+@3 Destruiré los hombres y las bestias; destruiré las aves del cielo, y los peces de la mar, y las piedras de tropiezo con los impíos; y talaré los hombres de sobre la haz de la tierra, dice Jehová. 
+@4 Y extenderé mi mano sobre Judá, y sobre todos los moradores de Jerusalem, y exterminaré de este lugar el remanente de Baal, y el nombre de los Chemarim con los sacerdotes; 
+@5 Y á los que se inclinan sobre los terrados al ejército del cielo; y á los que se inclinan jurando por Jehová y jurando por su rey; 
+@6 Y á los que tornan atrás de en pos de Jehová; y á los que no buscaron á Jehová, ni preguntaron por él.
+
+@7 Calla en la presencia del Señor Jehová, porque el día de Jehová está cercano; porque Jehová ha aparejado sacrificio, prevenido ha sus convidados. 
+@8 Y será que en el día del sacrificio de Jehová, haré visitación sobre los príncipes, y sobre los hijos del rey, y sobre todos los que visten vestido extranjero. 
+@9 Asimismo haré visitación en aquel día sobre todos los que saltan la puerta, los que hinchen de robo y de engaño las casas de sus señores.
+
+@10 Y habrá en aquel día, dice Jehová, voz de clamor desde la puerta del pescado, y aullido desde la segunda, y grande quebrantamiento desde los collados. 
+@11 Aullad, moradores de Mactes, porque todo el pueblo mercader es destruído; talados son todos los que traían dinero. 
+@12 Y será en aquel tiempo, que yo escudriñaré á Jerusalem con candiles, y haré visitación sobre los hombres que están sentados sobre sus heces, los cuales dicen en su corazón: Jehová ni hará bien ni mal. 
+@13 Será por tanto saqueada su hacienda, y sus casas asoladas: y edificarán casas, mas no las habitarán; y plantarán viñas, mas no beberán el vino de ellas.
+
+## El día del Señor está cerca
+@14 Cercano está el día grande de Jehová, cercano y muy presuroso; voz amarga del día de Jehová; gritará allí el valiente. 
+@15 Día de ira aquel día, día de angustia y de aprieto, día de alboroto y de asolamiento, día de tiniebla y de oscuridad, día de nublado y de entenebrecimiento, 
+@16 Día de trompeta y de algazara, sobre las ciudades fuertes, y sobre las altas torres. 
+@17 Y atribularé los hombres, y andarán como ciegos, porque pecaron contra Jehová: y la sangre de ellos será derramada como polvo, y su carne como estiércol. 
+@18 Ni su plata ni su oro podrá librarlos en el día de la ira de Jehová; pues toda la tierra será consumida con el fuego de su celo: porque ciertamente consumación apresurada hará con todos los moradores de la tierra. 
+
+\switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
+
+# 1
+## Announcement of destructive judgment on the entire world of nations and especially on Judah
+@1 Yahweh’s^a^ word which came to Zephaniah, the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah, the son of Amon, king of Judah. 
+^a^[**1:1** “Yahweh” is God’s proper Name, sometimes rendered “LORD” (all caps) in other translations.]
+
+@2 I will utterly sweep away everything from the surface of the earth, says Yahweh. 
+@3 I will sweep away man and animal. I will sweep away the birds of the sky, the fish of the sea, and the heaps of rubble with the wicked. I will cut off man from the surface of the earth, says Yahweh. 
+@4 I will stretch out my hand against Judah and against all the inhabitants of Jerusalem. I will cut off the remnant of Baal from this place—the name of the idolatrous and pagan priests, 
+@5 those who worship the army of the sky on the housetops, those who worship and swear by Yahweh and also swear by Malcam, 
+@6 those who have turned back from following Yahweh, and those who haven’t sought Yahweh nor inquired after him. 
+
+@7 Be silent at the presence of the Lord^a^ Yahweh, for the day of Yahweh is at hand. For Yahweh has prepared a sacrifice. He has consecrated his guests. 
+@8 It will happen in the day of Yahweh’s sacrifice that I will punish the princes, the king’s sons, and all those who are clothed with foreign clothing. 
+@9 In that day, I will punish all those who leap over the threshold, who fill their master’s house with violence and deceit. 
+^a^[**1:7** The word translated “Lord” is “Adonai.”]
+
+@10 In that day, says Yahweh, there will be the noise of a cry from the fish gate, a wailing from the second quarter, and a great crashing from the hills. 
+@11 Wail, you inhabitants of Maktesh, for all the people of Canaan are undone! All those who were loaded with silver are cut off. 
+@12 It will happen at that time, that I will search Jerusalem with lamps, and I will punish the men who are settled on their dregs, who say in their heart, “Yahweh will not do good, neither will he do evil.” 
+@13 Their wealth will become a plunder, and their houses a desolation. Yes, they will build houses, but won’t inhabit them. They will plant vineyards, but won’t drink their wine.
+
+## The day of the Lord is near
+@14 The great day of Yahweh is near. It is near and hurries greatly, the voice of the day of Yahweh. The mighty man cries there bitterly. 
+@15 That day is a day of wrath, a day of distress and anguish, a day of trouble and ruin, a day of darkness and gloom, a day of clouds and blackness, 
+@16 a day of the trumpet and alarm against the fortified cities and against the high battlements. 
+@17 I will bring such distress on men that they will walk like blind men because they have sinned against Yahweh. Their blood will be poured out like dust and their flesh like dung. 
+@18 Neither their silver nor their gold will be able to deliver them in the day of Yahweh’s wrath, but the whole land will be devoured by the fire of his jealousy; for he will make an end, yes, a terrible end, of all those who dwell in the land. 
+
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
+
+# 2
+## ¡Arrepiéntanse, porque el juicio viene sobre todo el mundo!
+@1 Congregaos y meditad, gente no amable, 
+@2 Antes que pára el decreto, y el día se pase como el tamo; antes que venga sobre vosotros el furor de la ira de Jehová, antes que el día de la ira de Jehová venga sobre vosotros. 
+@3 Buscad á Jehová todos los humildes de la tierra, que pusisteis en obra su juicio; buscad justicia, buscad mansedumbre: quizás seréis guardados en el día del enojo de Jehová.
+
+## El juicio sobre la tierra filistea, Moab-Ammón, Etiopía y Asiria
+@4 Porque Gaza será desamparada, y Ascalón asolada: saquearán á Asdod en el medio día, y Ecrón será desarraigada. 
+@5 ¡Ay de los que moran á la parte de la mar, de la gente de Cheretim! La palabra de Jehová es contra vosotros, oh Canaán, tierra de Palestinos, que te haré destruir hasta no quedar morador. 
+@6 Y será la parte de la mar por moradas de cabañas de pastores, y corrales de ovejas. 
+@7 Y será aquella parte para el resto de la casa de Judá; allí apacentarán: en las casas de Ascalón dormirán á la noche; porque Jehová su Dios los visitará, y tornará sus cautivos.
+
+@8 Yo he oído las afrentas de Moab, y los denuestos de los hijos de Ammón con que deshonraron á mi pueblo, y se engrandecieron sobre su término. 
+@9 Por tanto, vivo yo, dice Jehová de los ejércitos, Dios de Israel, que Moab será como Sodoma, y los hijos de Ammón como Gomorra; campo de ortigas, y mina de sal, y asolamiento perpetuo: el resto de mi pueblo los saqueará, y el resto de mi gente los heredará. 
+@10 Esto les vendrá por su soberbia, porque afrentaron, y se engrandecieron contra el pueblo de Jehová de los ejércitos. 
+@11 Terrible será Jehová contra ellos, porque enervará á todos los dioses de la tierra; y cada uno desde su lugar se inclinará á él, todas las islas de las gentes.
+
+@12 Vosotros también los de Etiopía seréis muertos con mi espada.
+
+@13 Y extenderá su mano sobre el aquilón, y destruirá al Assur, y pondrá á Nínive en asolamiento, y en secadal como un desierto. 
+@14 Y rebaños de ganado harán en ella majada, todas las bestias de las gentes; el onocrótalo también y el erizo dormirán en sus umbrales: su voz cantará en las ventanas; asolación será en las puertas, porque su enmaderamiento de cedro será descubierto. 
+@15 Esta es la ciudad alegre que estaba confiada, la que decía en su corazón: Yo, y no más. ¡Cómo fué en asolamiento, en cama de bestias! Cualquiera que pasare junto á ella silbará, meneará su mano. 
+
+\switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
+
+# 2
+## Repent, for judgment is coming on the whole world!
+@1 Gather yourselves together, yes, gather together, you nation that has no shame, 
+@2 before the appointed time when the day passes as the chaff, before the fierce anger of Yahweh comes on you, before the day of Yahweh’s anger comes on you. 
+@3 Seek Yahweh, all you humble of the land, who have kept his ordinances. Seek righteousness. Seek humility. It may be that you will be hidden in the day of Yahweh’s anger.
+
+## Judgment on the land of the Philistines, Moab-Ammon, Ethiopia and Assyria
+@4 For Gaza will be forsaken, and Ashkelon a desolation. They will drive out Ashdod at noonday, and Ekron will be rooted up. 
+@5 Woe to the inhabitants of the sea coast, the nation of the Cherethites! Yahweh’s word is against you, Canaan, the land of the Philistines. I will destroy you until there is no inhabitant. 
+@6 The sea coast will be pastures, with cottages for shepherds and folds for flocks. 
+@7 The coast will be for the remnant of the house of Judah. They will find pasture. In the houses of Ashkelon, they will lie down in the evening, for Yahweh, their God,^a^ will visit them and restore them. 
+@8 I have heard the reproach of Moab and the insults of the children of Ammon, with which they have reproached my people and magnified themselves against their border. 
+@9 Therefore, as I live, says Yahweh of Armies, the God of Israel, surely Moab will be as Sodom, and the children of Ammon as Gomorrah, a possession of nettles and salt pits, and a perpetual desolation. The remnant of my people will plunder them, and the survivors of my nation will inherit them. 
+@10 This they will have for their pride, because they have reproached and magnified themselves against the people of Yahweh of Armies. 
+@11 Yahweh will be awesome to them, for he will famish all the gods of the land. Men will worship him, everyone from his place, even all the shores of the nations. 
+^a^[**2:7** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
+
+@12 You Cushites also, you will be killed by my sword. 
+
+@13 He will stretch out his hand against the north, destroy Assyria, and will make Nineveh a desolation, as dry as the wilderness. 
+@14 Herds will lie down in the middle of her, all kinds of animals. Both the pelican and the porcupine will lodge in its capitals. Their calls will echo through the windows. Desolation will be in the thresholds, for he has laid bare the cedar beams. 
+@15 This is the joyous city that lived carelessly, that said in her heart, “I am, and there is no one besides me.” How she has become a desolation, a place for animals to lie down in! Everyone who passes by her will hiss and shake their fists. 
+
+\nopandoc{\end{otherlanguage}}
+\switchcolumn[0]*
+
+# 3
+## Las tristes condiciones en Jerusalén
+@1 ¡Ay de la ciudad ensuciada y contaminada y opresora! 
+@2 No escuchó la voz, ni recibió la disciplina: no se confió en Jehová, no se acercó á su Dios.
+
+@3 Sus príncipes en medio de ella son leones bramadores: sus jueces, lobos de tarde que no dejan hueso para la mañana: 
+@4 Sus profetas, livianos, hombres prevaricadores: sus sacerdotes contaminaron el santuario, falsearon la ley. 
+@5 Jehová justo en medio de ella, no hará iniquidad: de mañana sacará á luz su juicio, nunca falta: mas el perverso no tiene vergüenza.
+
+@6 Hice talar gentes; sus castillos están asolados; hice desiertas sus calles, hasta no quedar quien pase: sus ciudades están asoladas hasta no quedar hombre, hasta no quedar morador. 
+@7 Dije: Ciertamente me temerás, recibirás corrección; y no será su habitación derruída por todo aquello sobre que los visité. Mas ellos se levantaron de mañana, y corrompieron todas sus obras.
+
+## Anuncio del tribunal de depuración de la ciudad
+@8 Por tanto, esperadme, dice Jehová, al día que me levantaré al despojo: porque mi determinación es reunir las gentes, juntar los reinos, para derramar sobre ellos mi enojo, todo el furor de mi ira; porque del fuego de mi celo será consumida toda la tierra.
+
+@9 Por entonces volveré yo á los pueblos el labio limpio, para que todos invoquen el nombre de Jehová, para que de un consentimiento le sirvan. 
+@10 De esa parte de los ríos de Etiopía, mis suplicantes, la hija de mis esparcidos, me traerán ofrenda. 
+@11 En aquel día no serás avergonzada por ninguna de tus obras con que te rebelaste contra mí; porque entonces quitaré de en medio de ti los que se alegran en tu soberbia, y nunca más te ensoberbecerás del monte de mi santidad. 
+@12 Y dejaré en medio de ti un pueblo humilde y pobre, los cuales esperarán en el nombre de Jehová. 
+@13 El resto de Israel no hará iniquidad, ni dirá mentira, ni en boca de ellos se hallará lengua engañosa: porque ellos serán apacentados y dormirán, y no habrá quien los espante.
+
+## Llamando a Jerusalén a alabar por su salvación
+@14 Canta, oh hija de Sión: da voces de júbilo, oh Israel; gózate y regocíjate de todo corazón, hija de Jerusalem. 
+@15 Jehová ha apartado tus juicios, ha echado fuera tus enemigos: Jehová es Rey de Israel en medio de ti; nunca más verás mal. 
+@16 En aquel tiempo se dirá á Jerusalem: No temas: Sión, no se debiliten tus manos. 
+@17 Jehová en medio de ti, poderoso, él salvará; gozaráse sobre ti con alegría, callará de amor, se regocijará sobre ti con cantar. 
+@18 Reuniré á los fastidiados por causa del largo tiempo; tuyos fueron; para quienes el oprobio de ella era una carga. 
+@19 He aquí, en aquel tiempo yo apremiaré á todos tus opresores; y salvaré la coja, y recogeré la descarriada; y pondrélos por alabanza y por renombre en todo país de confusión. 
+@20 En aquel tiempo yo os traeré, en aquel tiempo os reuniré yo; pues os daré por renombre y por alabanza entre todos los pueblos de la tierra, cuando tornaré vuestros cautivos delante de vuestros ojos, dice Jehová.
+\switchcolumn
+\nopandoc{\begin{otherlanguage}{english}}
+
+# 3
+## The sad conditions in Jerusalem
+@1 Woe to her who is rebellious and polluted, the oppressing city! 
+@2 She didn’t obey the voice. She didn’t receive correction. She didn’t trust in Yahweh. She didn’t draw near to her God. 
+
+@3 Her princes within her are roaring lions. Her judges are evening wolves. They leave nothing until the next day. 
+@4 Her prophets are arrogant and treacherous people. Her priests have profaned the sanctuary. They have done violence to the law. 
+@5 Yahweh, within her, is righteous. He will do no wrong. Every morning he brings his justice to light. He doesn’t fail, but the unjust know no shame. 
+
+@6 I have cut off nations. Their battlements are desolate. I have made their streets waste, so that no one passes by. Their cities are destroyed, so that there is no man, so that there is no inhabitant. 
+@7 I said, “Just fear me. Receive correction,” so that her dwelling won’t be cut off, according to all that I have appointed concerning her. But they rose early and corrupted all their doings.
+
+## City Purge Court Announcement
+@8 “Therefore wait for me”, says Yahweh, “until the day that I rise up to the prey, for my determination is to gather the nations, that I may assemble the kingdoms to pour on them my indignation, even all my fierce anger, for all the earth will be devoured with the fire of my jealousy. 
+
+@9 For then I will purify the lips of the peoples, that they may all call on Yahweh’s name, to serve him shoulder to shoulder. 
+@10 From beyond the rivers of Cush, my worshipers, even the daughter of my dispersed people, will bring my offering. 
+@11 In that day you will not be disappointed for all your doings in which you have transgressed against me; for then I will take away out from among you your proudly exulting ones, and you will no more be arrogant in my holy mountain. 
+@12 But I will leave among you an afflicted and poor people, and they will take refuge in Yahweh’s name. 
+@13 The remnant of Israel will not do iniquity nor speak lies, neither will a deceitful tongue be found in their mouth, for they will feed and lie down, and no one will make them afraid.”
+
+## Calling Jerusalem to praise for their salvation
+@14 Sing, daughter of Zion! Shout, Israel! Be glad and rejoice with all your heart, daughter of Jerusalem. 
+@15 Yahweh has taken away your judgments. He has thrown out your enemy. The King of Israel, Yahweh, is among you. You will not be afraid of evil any more. 
+@16 In that day, it will be said to Jerusalem, “Don’t be afraid, Zion. Don’t let your hands be weak.” 
+@17 Yahweh, your God, is among you, a mighty one who will save. He will rejoice over you with joy. He will calm you in his love. He will rejoice over you with singing. 
+@18 I will remove those who grieve about the appointed feasts from you. They are a burden and a reproach to you. 
+@19 Behold,^a^ at that time I will deal with all those who afflict you; and I will save those who are lame and gather those who were driven away. I will give them praise and honor, whose shame has been in all the earth. 
+@20 At that time I will bring you in, and at that time I will gather you; for I will give you honor and praise among all the peoples of the earth when I restore your fortunes before your eyes, says Yahweh. 
+^a^[**3:19** “Behold”, from “הִנֵּה”, means look at, take notice, observe, see, or gaze at. It is often used as an interjection.]
+\nopandoc{\end{otherlanguage}}
+\nopandoc{\end{paracol}}
