@@ -1,0 +1,145 @@
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+# This workflow will build, test, sign and package a WPF or Windows Forms desktop application
+# built on .NET Core.
+# To learn how to migrate your existing application to .NET Core,
+# refer to https://docs.microsoft.com/en-us/dotnet/desktop-wpf/migration/convert-project-from-net-framework
+#
+# To configure this workflow:
+#
+# 1. Configure environment variables
+# GitHub sets default environment variables for every workflow run.
+# Replace the variables relative to your project in the "env" section below.
+#
+# 2. Signing
+# Generate a signing certificate in the Windows Application
+# Packaging Project or add an existing signing certificate to the project.
+# Next, use PowerShell to encode the .pfx file using Base64 encoding
+# by running the following Powershell script to generate the output string:
+#
+# $pfx_cert = Get-Content '.\SigningCertificate.pfx' -Encoding Byte
+# [System.Convert]::ToBase64String($pfx_cert) | Out-File 'SigningCertificate_Encoded.txt'
+#
+# Open the output file, SigningCertificate_Encoded.txt, and copy the
+# string inside. Then, add the string to the repo as a GitHub secret
+# and name it "Base64_Encoded_Pfx."
+# For more information on how to configure your signing certificate for
+# this workflow, refer to https://github.com/microsoft/github-actions-for-desktop-apps#signing
+#
+# Finally, add the signing certificate password to the repo as a secret and name it "Pfx_Key".
+# See "Build the Windows Application Packaging project" below to see how the secret is used.
+#
+# For more information on GitHub Actions, refer to https://github.com/features/actions
+# For a complete CI/CD sample to get started with GitHub Action workflows for Desktop Applications,
+# refer to https://github.com/microsoft/github-actions-for-desktop-apps
+
+name: Make
+run-name: ${{ github.event.head_commit.message }} by @${{ github.actor }}
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+
+  make:
+
+    strategy:
+      matrix:
+        configuration: [Release]
+
+    runs-on: ubuntu-24.04  # For a list of available runner types, refer to
+                             # https://help.github.com/en/actions/reference/workflow-syntax-for-github-actions#jobsjob_idruns-on
+    timeout-minutes: 240
+
+    #permissions:
+    #  checks: write
+    #  contents: write
+    #  packages: write
+
+    env:
+      Configuration: ${{ matrix.configuration }}
+      GitHubAction: true
+
+    steps:    
+    # Install the .NET Core workload
+    - name: Install .NET 10
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: 10.0.x
+
+    - name: Install MikTeX
+      uses: xu-cheng/texlive-action@v2
+      with:
+        install-miktex: true
+        miktex-packages: "collection-basic,collection-latexrecommended,collection-fontsrecommended,collection-langenglish,collection-langgerman,collection-langspanish"
+
+    - name: Setup Pandoc
+    - uses: r-lib/actions/setup-pandoc@v2
+      with:
+        pandoc-version: '3.8.3'
+
+    - name: Verify Installations
+      run: |
+        dotnet --info
+        xelatex --version
+        pandoc --version
+
+    - name: Checkout
+      uses: actions/checkout@v5
+      with:
+        fetch-depth: 0
+        submodules: recursive
+
+    - name: Sanitize Artifact Name
+      id: sanitize_name_step
+      shell: bash 
+      run: |
+        original_commit_message="${{ github.event.head_commit.message }} by @${{ github.actor }}"
+
+        sanitized_name=$(echo "$original_commit_message" | tr -d '\r\n')
+        
+        sanitized_name=$(echo "$sanitized_name" | sed 's#["'':<>|*?\\\\]##g') # Corrected backslash escape
+        sanitized_name=$(echo "$sanitized_name" | sed 's/^Merge pull request #[0-9]\+ from [^[:space:]]\+\s*//g')
+        sanitized_name=$(echo "$sanitized_name" | tr ' ' '-')
+        sanitized_name=$(echo "$sanitized_name" | sed 's/^-*//;s/-*$//')
+        sanitized_name=$(echo "$sanitized_name" | sed 's/^_//;s/_$//')
+        sanitized_name=$(echo "$sanitized_name" | sed 's/--/-/g;s/__/_/g')
+        if [ -z "$sanitized_name" ]; then
+          sanitized_name="unnamed-artifact-$(date +%s)" # Append timestamp for uniqueness
+        fi
+
+        # Truncate if too long (e.g., max 200 characters to be safe)
+        if [ ${#sanitized_name} -gt 200 ]; then
+          sanitized_name="${sanitized_name:0:200}"
+        fi
+
+        echo "Original Commit Message: $original_commit_message"
+        echo "Sanitized Artifact Name: $sanitized_name"
+        echo "sanitized_artifact_name=$sanitized_name" >> "$GITHUB_OUTPUT"
+
+
+    - name: Run make.sh
+      run: |
+        chmod +x make.sh
+        .\make.sh
+
+    - name: Publish build artifacts
+      uses: actions/upload-artifact@v4
+      with: 
+        name: ${{ steps.sanitize_name_step.outputs.sanitized_artifact_name }}
+        path: |
+          Bibles\English.WorldEnglishBibleGB\out\**\*.pdf
+          Bibles\English.WorldEnglishBibleGB\out\**\*.epub
+          Bibles\English.WorldEnglishBibleUS\out\**\*.pdf
+          Bibles\English.WorldEnglishBibleUS\out\**\*.epub
+          Bibles\German.Schlachter1951\out\**\*.epub
+          Bibles\Spanish.ReinaValera1909\out\**\*.pdf
+          Bibles\Spanish.ReinaValera1909\out\**\*.epub
+        compression-level: 9
+        retention-days: 1
