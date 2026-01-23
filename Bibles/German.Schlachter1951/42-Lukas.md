@@ -315,7 +315,7 @@
 # 7 
 @1 Nachdem er nun vor den Ohren des Volkes alle seine Reden beendet hatte, ging er hinein nach Kapernaum. 
 @2 Eines Hauptmanns Knecht aber, der jenem wert war, lag krank und war am Sterben. 
-@3 Da er aber von Jesus hörte, sandte er Älteste der Juden zu ihm 7mit der Bitte, er möge kommen und seinen Knecht retten. 
+@3 Da er aber von Jesus hörte, sandte er Älteste der Juden zu ihm mit der Bitte, er möge kommen und seinen Knecht retten. 
 @4 Als diese zu Jesus kamen, baten sie ihn angelegentlich und sprachen: Er ist es wert, daß du ihm das erzeigst; 
 @5 denn er hat unser Volk lieb, und die Synagoge hat er uns erbaut. 
 @6 Da ging Jesus mit ihnen hin. Und als er schon nicht mehr fern von dem Hause war, schickte der Hauptmann Freunde zu ihm und ließ ihm sagen: Herr, bemühe dich nicht; denn ich bin nicht wert, daß du unter mein Dach kommst! 
