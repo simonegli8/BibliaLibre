@@ -1,27 +1,16 @@
 # 1
-## La infidelidad de Israel a Dios representada visiblemente por el pacto matrimonial del profeta con una esposa infiel
 @1 Dies ist das Wort des HErrn, das geschehen ist zu Hosea, dem Sohn Beeris, zu der Zeit des Usia, Jotham, Ahas und Hiskia, der Könige Judas, und zur Zeit Jerobeams, des Sohnes des Joas, des Königs in Israel.
-
 @2 Da der HErr anfing zu reden durch Hosea, sprach er zu ihm: Gehe hin und nimm ein Hurenweib und Hurenkinder; denn das Land läuft vom HErrn der Hurerei nach.
-
 @3 Und er ging hin und nahm Gomer, die Tochter Diblaims, die ward schwanger und gebar ihm einen Sohn.
-
 @4 Und der HErr sprach zu ihm: Heiße ihn Jesreel; denn es ist noch um eine kleine Zeit, so will ich die Blutschulden in Jesreel heimsuchen über das Haus Jehu und will mit dem Königreich des Hauses Israel ein Ende machen.
 @5 Zur selben Zeit will ich den Bogen Israels zerbrechen im Tal Jesreel.
-
 @6 Und sie ward abermals schwanger und gebar eine Tochter. Und er sprach zu ihm: Heiße sie Lo-Ruhama; denn ich will mich nicht mehr über das Haus Israel erbarmen, dass ich ihnen vergäbe.
-
 @7 Doch will ich mich erbarmen über das Haus Juda und will ihnen helfen durch den HErrn, ihren Gott; ich will ihnen aber nicht helfen durch Bogen, Schwert, Streit, Rosse oder Reiter.
-
 @8 Und da sie hatte Lo-Ruhama entwöhnt, ward sie wieder schwanger und gebar einen Sohn.
-
 @9 Und er sprach: Heiße ihn Lo-Ammi; denn ihr seid nicht mein Volk, so will ich auch nicht der Eure sein.
 
-## Un día, después de circunstancias más felices, los tres nombres desafortunados experimentarán una reinterpretación favorable.
 # 2
 @1 Es wird aber die Zahl der Kinder in Israel sein wie der Sand am Meer, den man weder messen noch zählen kann. Und es soll geschehen an dem Ort, da man zu ihnen gesagt hat: „Ihr seid nicht mein Volk“, wird man zu ihnen sagen: „O ihr Kinder des lebendigen Gottes!“
-
-## La falta de fe de la madre, es decir, del pueblo de Israel, y su castigo
 @2 Denn es werden die Kinder Juda und die Kinder Israel zuhauf kommen und werden sich miteinander an ein Haupt halten und aus dem Lande heraufziehen; denn der Tag Jesreels wird ein großer Tag sein.
 @3 Sagt euren Brüdern, sie seien mein Volk, und zu eurer Schwester, sie sei in Gnaden.
 @4 Sprecht das Urteil über eure Mutter – sie sei nicht mein Weib, und ich will sie nicht haben! –, heißt sie ihre Hurerei von ihrem Angesichte wegtun und ihre Ehebrecherei von ihren Brüsten,
@@ -34,8 +23,6 @@
 @11 Darum will ich mein Korn und meinen Most wieder nehmen zu seiner Zeit und ihr meine Wolle und meinen Flachs entziehen, damit sie ihre Blöße bedeckt.
 @12 Nun will ich ihre Schande aufdecken vor den Augen ihrer Buhlen, und niemand soll sie von meiner Hand erretten.
 @13 Und ich will ein Ende machen mit allen ihren Freuden, Festen, Neumonden, Sabbaten und allen ihren Feiertagen.
-
-## Vergonzosa fidelidad de Dios y reunión con su esposa, es decir, su pueblo Israel
 @14 Ich will ihre Weinstöcke und Feigenbäume wüst machen, weil sie sagt: „Das ist mein Lohn, den mir meine Buhlen gegeben.“ Ich will einen Wald daraus machen, dass es die wilden Tiere fressen sollen.
 @15 Also will ich heimsuchen über sie die Tage der Baalim, denen sie Räuchopfer tut und schmückt sich mit Stirnspangen und Halsbändern und läuft ihren Buhlen nach und vergisst mein, spricht der HErr.
 @16 Darum siehe, ich will sie locken und will sie in eine Wüste führen und freundlich mit ihr reden.
@@ -50,22 +37,16 @@
 @25 Und ich will sie mir auf Erden zum Samen behalten und mich erbarmen über die, die in Ungnaden war, und sagen zu dem, das nicht mein Volk war: Du bist mein Volk; und es wird sagen: Du bist mein Gott.
 
 # 3
-## El mejoramiento del pueblo infiel a través de la coacción, representado por el comportamiento del profeta hacia su esposa infiel
 @1 Und der HErr sprach zu mir: Gehe noch einmal hin und buhle um ein buhlerisches und ehebrecherisches Weib, wie denn der HErr um die Kinder Israel buhlt, und sie doch sich zu fremden Göttern kehren und buhlen um eine Kanne Wein.
-
 @2 Und ich ward mit ihr eins um fünfzehn Silberlinge und anderthalb Scheffel Gerste
 @3 und sprach zu ihr: Halt dich als die Meine eine lange Zeit und hure nicht und gehöre keinem anderen an; denn ich will mich auch als den Deinen halten.
-
 @4 Denn die Kinder Israel werden lange Zeit ohne König, ohne Fürsten, ohne Opfer, ohne Altar, ohne Leibrock und ohne Heiligtum bleiben.
 @5 Darnach werden sich die Kinder Israel bekehren und den HErrn, ihren Gott, und ihren König David suchen und werden mit Zittern zu dem HErrn und seiner Gnade kommen in der letzten Zeit.
 
 # 4
-## Presentando cargos contra los malvados
 @1 Höret, ihr Kinder Israel, des HErrn Wort! denn der HErr hat Ursache, zu schelten, die im Lande wohnen; denn es ist keine Treue, keine Liebe, keine Erkenntnis Gottes im Lande;
 @2 sondern Gotteslästern, Lügen, Morden, Stehlen und Ehebrechen hat überhandgenommen und eine Blutschuld kommt nach der anderen.
 @3 Darum wird das Land jämmerlich stehen, und allen Einwohnern wird's übel gehen; denn es werden auch die Tiere auf dem Felde und die Vögel unter dem Himmel und die Fische im Meer weggerafft werden.
-
-## Amenaza a los sacerdotes y profetas como líderes designados del pueblo
 @4 Doch man darf nicht schelten noch jemand strafen; denn dein Volk ist wie die, die den Priester schelten.
 @5 Darum sollst du bei Tage fallen und der Prophet des Nachts neben dir fallen; also will ich deine Mutter zu Grunde richten.
 @6 Mein Volk ist dahin, darum dass es nicht lernen will. Denn du verwirfst Gottes Wort; darum will ich dich auch verwerfen, dass du nicht mein Priester sein sollst. Du vergissest das Gesetz deines Gottes; darum will ich auch deine Kinder vergessen.
@@ -73,14 +54,10 @@
 @8 Sie fressen die Sündopfer meines Volks und sind begierig nach ihren Sünden.
 @9 Darum soll es dem Volk gleich wie dem Priester gehen; denn ich will ihr Tun heimsuchen und ihnen vergelten, wie sie verdienen,
 @10 dass sie werden essen, und nicht satt werden, Hurerei treiben, und sich nicht ausbreiten, darum dass sie den HErrn verlassen haben und ihn nicht achten.
-
-## Queja sobre el culto pagano del pueblo
 @11 Hurerei, Wein und Most machen toll.
 @12 Mein Volk fragt sein Holz, und sein Stab soll ihm predigen; denn der Hurerei-Geist verführt sie, dass sie wider ihren Gott Hurerei treiben.
 @13 Oben auf den Bergen opfern sie, und auf den Hügeln räuchern sie, unter den Eichen, Linden und Buchen; denn die haben feinen Schatten. Darum werden eure Töchter auch zu Huren und eure Bräute zu Ehebrecherinnen werden.
 @14 Und ich will's auch nicht wehren, wenn eure Töchter und Bräute geschändet und zu Huren werden, weil ihr einen anderen Gottesdienst anrichtet mit den Huren und opfert mit den Bübinnen. Denn das törichte Volk will geschlagen sein.
-
-## Advertencia a Judá idólatra y perturbadora
 @15 Willst du, Israel, ja huren, dass sich doch nur Juda nicht auch verschulde. Gehet nicht hin gen Gilgal und kommt nicht hinauf gen Beth-Aven und schwöret nicht: So wahr der HErr lebt!
 @16 Denn Israel läuft wie eine tolle Kuh; so wird sie auch der HErr weiden lassen wie ein Lamm in der Irre.
 @17 Denn Ephraim hat sich zu den Götzen gesellt; so lass ihn hinfahren.
@@ -88,7 +65,6 @@
 @19 Der Wind mit seinen Flügeln wird sie zusammen wegtreiben; sie müssen über ihrem Opfer zu Schanden werden.
 
 # 5
-## Palabras de Oseas a los sacerdotes y a la familia real de Israel sobre su práctica de adoración falsa
 @1 So höret nun dies, ihr Priester, und merke auf, du Haus Israel, und nimm zu Ohren, du Haus des Königs! denn es wird eine Strafe über euch gehen, die ihr ein Strick zu Mizpa und ein ausgespanntes Netz zu Thabor geworden seid.
 @2 Mit ihrem Schlachten vertiefen sie sich in ihrem Verlaufen; darum muss ich sie allesamt strafen.
 @3 Ich kenne Ephraim wohl, und Israel ist vor mir nicht verborgen, dass Ephraim nun eine Hure und Israel unrein ist.
@@ -96,8 +72,6 @@
 @5 Und die Hoffart Israels zeugt wider sie ins Angesicht. Darum sollen beide, Israel und Ephraim, fallen um ihrer Missetat willen; auch soll Juda samt ihnen fallen.
 @6 Alsdann werden sie kommen mit ihren Schafen und Rindern, den HErrn zu suchen, aber ihn nicht finden; denn er hat sich von ihnen gewandt.
 @7 Sie verachten den HErrn und zeugen fremde Kinder; darum wird sie auch der Neumond fressen mit ihrem Erbteil.
-
-## La posición de Dios sobre las guerras sirio-efraimitas
 @8 Ja, blaset Posaunen zu Gibea, ja, drommetet zu Rama, ja, ruft zu Beth-Aven: „Hinter dir, Benjamin!“
 @9 Denn Ephraim soll zur Wüste werden zu der Zeit, wann ich sie strafen werde. Davor habe ich die Stämme Israels treulich gewarnt.
 @10 Die Fürsten Judas sind gleich denen, die die Grenze verrücken; darum will ich meinen Zorn über sie ausschütten wie Wasser.
@@ -105,8 +79,6 @@
 @12 Ich bin dem Ephraim wie eine Motte und dem Hause Juda wie eine Made.
 @13 Und da Ephraim seine Krankheit und Juda seine Wunde fühlte, zog Ephraim hin zu Assur und schickte zum König Jareb; aber er kann euch nicht helfen noch eure Wunde heilen.
 @14 Denn ich bin dem Ephraim wie ein Löwe und dem Hause Juda wie ein junger Löwe. Ich, ich zerreiße sie und gehe davon; ich führe sie weg, und niemand kann sie retten.
-
-## Dios deja a Israel en su ruina; Rechaza la confesión de penitencia del pueblo por frívola
 @15 Ich will wiederum an meinen Ort gehen, bis sie ihre Schuld erkennen und mein Angesicht suchen; wenn's ihnen übel geht, so werden sie mich suchen und sagen:
 
 # 6
@@ -116,8 +88,6 @@
 @4 Was soll ich dir tun, Ephraim? Was soll ich dir tun, Juda? Denn eure Liebe ist wie eine Morgenwolke und wie ein Tau, der frühmorgens vergeht.
 @5 Darum schlage ich sie durch die Propheten und töte sie durch meines Mundes Rede, dass mein Recht wie das Licht hervorkomme.
 @6 Denn ich habe Lust an der Liebe, und nicht am Opfer, und an der Erkenntnis Gottes, und nicht am Brandopfer.
-
-## Lamentarse por el incumplimiento del pacto por parte de Israel y la ominosa depravación en toda la tierra
 @7 Aber sie übertreten den Bund wie Adam; darin verachten sie mich.
 @8 Denn Gilead ist eine Stadt voll Abgötterei und Blutschulden.
 @9 Und die Priester samt ihrem Haufen sind wie die Räuber, die da lauern auf die Leute und würgen auf dem Wege, der gen Sichem geht; denn sie tun, was sie wollen.
@@ -125,7 +95,6 @@
 @11 Aber auch Juda wird noch eine Ernte vor sich haben, wenn ich meines Volks Gefängnis wenden werde.
 
 # 7
-## La depravación de Israel se revela en la disrupción política
 @1 Wenn ich Israel heilen will, so findet sich erst die Sünde Ephraims und die Bosheit Samarias, wie sie Lügen treiben und Diebe einsteigen und Räuber draußen plündern;
 @2 dennoch wollen sie nicht merken, dass ich alle ihre Bosheit merke. Ich sehe aber ihr Wesen wohl, das sie allenthalben treiben.
 @3 Sie vertrösten den König durch ihre Bosheit und die Fürsten durch ihre Lügen;
@@ -133,8 +102,6 @@
 @5 Heute ist unseres Königs Fest (sprechen sie), da fangen die Fürsten an, vom Wein toll zu werden; so zieht er die Spötter zu sich.
 @6 Denn ihr Herz ist in heißer Andacht wie ein Backofen, wenn sie opfern und die Leute betrügen; ihr Bäcker schläft die ganze Nacht, und des Morgens brennt er lichterloh.
 @7 Allesamt sind sie so heißer Andacht wie ein Backofen, also dass ihre Richter aufgefressen werden und alle ihre Könige fallen; und ist keiner unter ihnen, der mich anrufe.
-
-## La reprensible relación entre Efraín y las principales potencias extranjeras
 @8 Ephraim mengt sich unter die Völker; Ephraim ist wie ein Kuchen, den niemand umwendet.
 @9 Fremde fressen seine Kraft, doch will er's nicht merken; er hat auch graue Haare gekriegt, doch will er's nicht merken.
 @10 Und die Hoffart Israels zeugt wider sie ins Angesicht; dennoch bekehren sie sich nicht zum HErrn, ihrem Gott, fragen auch nicht nach ihm in diesem allem.
@@ -146,7 +113,6 @@
 @16 Sie bekehren sich, aber nicht recht, sondern sind wie ein falscher Bogen. Darum werden ihre Fürsten durchs Schwert fallen; ihr Drohen soll in Ägyptenland zum Spott werden.
 
 # 8
-## Nueva llamada de atención por los graves pecados de Israel
 @1 Rufe laut wie eine Posaune: Er kommt über das Haus des HErrn wie ein Adler, darum dass sie meinen Bund übertreten und von meinem Gesetze abtrünnig werden.
 @2 Dann werden sie zu mir schreien: Du bist mein Gott; wir, Israel, kennen dich!
 @3 Israel verwirft das Gute; darum muss sie der Feind verfolgen.
@@ -163,7 +129,6 @@
 @14 Israel vergisst seines Schöpfers und baut Paläste; so macht Juda viel feste Städte; aber ich will Feuer in seine Städte schicken, welches soll seine Häuser verzehren.
 
 # 9
-## Anuncio del juicio del exilio en un festival de otoño
 @1 Du darfst dich nicht freuen, Israel, noch rühmen wie die Völker; denn du hurst wider deinen Gott und suchst damit Hurenlohn, dass alle Tennen voll Getreide werden.
 @2 Darum sollen dich Tenne und Kelter nicht nähren, und der Most soll dir fehlen.
 @3 Sie sollen nicht bleiben im Lande des HErrn, sondern Ephraim muss wieder nach Ägypten und muss in Assyrien Unreines essen,
@@ -171,12 +136,8 @@
 @5 Was wollt ihr alsdann an den Jahrfesten und an den Feiertagen des HErrn tun?
 @6 Siehe, sie müssen weg vor dem Verstörer. Ägypten wird sie sammeln, und Moph wird sie begraben. Nesseln werden wachsen, da jetzt ihr liebes Götzensilber steht, und Dornen in ihren Hütten.
 @7 Die Zeit der Heimsuchung ist gekommen, die Zeit der Vergeltung; des wird Israel innewerden. Die Propheten sind Narren, und die Rottengeister sind wahnsinnig um deiner großen Missetat und um der großen feindseligen Abgötterei willen.
-
-## Las recreaciones preparadas para Oseas
 @8 Die Wächter in Ephraim hielten sich vormals an meinen Gott; aber nun sind sie Propheten, die Stricke legen auf allen ihren Wegen durch die feindselige Abgötterei im Hause ihres Gottes.
 @9 Sie verderben's zu tief wie zur Zeit Gibeas; darum wird er ihrer Missetat gedenken und ihre Sünden heimsuchen.
-
-## Israel castigado sin hijos como resultado de su apostasía a Baal y rechazado por Dios
 @10 Ich fand Israel in der Wüste wie Trauben und sah eure Väter wie die ersten Feigen am Feigenbaum; aber hernach gingen sie zu Baal-Peor und gelobten sich dem schändlichen Abgott und wurden ja so gräulich wie ihre Buhlen.
 @11 Darum muss die Herrlichkeit Ephraims wie ein Vogel wegfliegen, dass sie weder gebären noch tragen noch schwanger werden sollen.
 @12 Und ob sie ihre Kinder gleich erzögen, will ich sie doch ohne Kinder machen, dass keine Leute mehr sein sollen. Auch weh ihnen, wenn ich von ihnen gewichen bin!
@@ -187,7 +148,6 @@
 @17 Mein Gott wird sie verwerfen, darum dass sie ihn nicht hören wollen; und sie müssen unter den Heiden in der Irre gehen.
 
 # 10
-## Desolación de los ídolos de Israel
 @1 Israel ist ein ausgebreiteter Weinstock, der seine Frucht trägt. Aber soviel Früchte er hatte, so viel Altäre hatte er gemacht; wo das Land am besten war, da stifteten sie die schönsten Bildsäulen.
 @2 Ihr Herz ist zertrennt; nun wird sie ihre Schuld finden. Ihre Altäre sollen zerbrochen und ihre Bildsäulen sollen zerstört werden.
 @3 Alsdann müssen sie sagen: Wir haben keinen König, denn wir fürchteten den HErrn nicht; was kann uns der König nun helfen?
@@ -196,8 +156,6 @@
 @6 Ja, das Kalb wird nach Assyrien gebracht zum Geschenke dem König Jareb. Also muss Ephraim mit Schanden stehen und Israel schändlich gehen mit seinem Vornehmen.
 @7 Denn der König zu Samaria ist dahin wie ein Schaum auf dem Wasser.
 @8 Die Höhen zu Aven sind vertilgt, durch die sich Israel versündigte; Disteln und Dornen wachsen auf ihren Altären. Und sie werden sagen: Ihr Berge, bedecket uns! und: Ihr Hügel, fallet über uns!
-
-## La continua pecaminosidad de Israel; su castigo y eventual aniquilación por la guerra
 @9 Israel, du hast seit der Zeit Gibeas gesündigt; dabei sind sie auch geblieben. Aber es soll sie ein Streit, nicht gleich dem zu Gibea, ergreifen, der wider die bösen Leute geschah;
 @10 sondern ich will sie züchtigen nach meinem Wunsch, dass Völker sollen über sie versammelt kommen, wenn ich sie werde strafen um ihre zwei Sünden.
 @11 Ephraim ist ein Kalb, gewöhnt, dass es gern drischt. Ich will ihm über seinen schönen Hals fahren; ich will Ephraim reiten, Juda soll pflügen und Jakob eggen.
@@ -207,7 +165,6 @@
 @15 Ebenso soll's euch zu Beth-El auch gehen um eurer großen Bosheit willen, dass der König Israels frühmorgens untergehe.
 
 # 11
-## El amor inicial de Dios por Israel finalmente triunfará sobre toda ingratitud e infidelidad del pueblo
 @1 Da Israel jung war, hatte ich ihn lieb und rief ihn, meinen Sohn, aus Ägypten.
 @2 Aber wenn man sie jetzt ruft, so wenden sie sich davon und opfern den Baalim und räuchern den Bildern.
 @3 Ich nahm Ephraim bei seinen Armen und leitete ihn; aber sie merkten's nicht, wie ich ihnen half.
@@ -234,19 +191,14 @@
 @11 und rede zu den Propheten; und ich bin's, der so viel Weissagung gibt und durch die Propheten sich anzeigt.
 @12 In Gilead ist Abgötterei, darum werden sie zunichte; und zu Gilgal opfern sie Ochsen, darum sollen ihre Altäre werden wie die Steinhaufen an den Furchen im Felde.
 @13 Jakob musste fliehen in das Land Syrien, und Israel musste um ein Weib dienen, und um ein Weib musste er hüten.
-
-## El ejemplo de su antepasado Jacob, característico de los infieles
 @14 Aber hernach führte der HErr Israel aus Ägypten durch einen Propheten und ließ ihn hüten durch einen Propheten.
 @15 Nun aber erzürnt ihn Ephraim durch ihre Götzen; darum wird ihr Blut über sie kommen, und ihr HErr wird ihnen vergelten die Schmach, die sie ihm antun.
 
 # 13
-## Los fracasos de Efraín como causa de la ira divina y la ineludible caída
 @1 Da Ephraim Schreckliches redete, ward er in Israel erhoben; darnach versündigten sie sich durch Baal und wurden darüber getötet.
 @2 Aber nun machen sie der Sünden viel mehr und aus ihrem Silber Bilder, wie sie es erdenken können, nämlich Götzen, welche doch eitel Schmiedewerk sind. Dennoch predigen sie von denselben: Wer die Kälber küssen will, der soll Menschen opfern.
 @3 Darum werden sie sein wie die Morgenwolke und wie der Tau, der frühmorgens vergeht; ja, wie die Spreu, die von der Tenne verweht wird, und wie der Rauch von dem Schornstein.
 @4 Ich bin aber der HErr, dein Gott, aus Ägyptenland her; und du solltest ja keinen anderen Gott kennen denn mich und keinen Heiland als allein mich.
-
-## Amenaza de devastadora ira divina
 @5 Ich nahm mich ja deiner an in der Wüste, im dürren Lande.
 @6 Aber weil sie geweidet sind, dass sie satt geworden sind und genug haben, erhebt sich ihr Herz; darum vergessen sie mein.
 @7 So will ich auch werden gegen sie wie ein Löwe, und wie ein Parder auf dem Wege will ich auf sie lauern.
@@ -254,8 +206,6 @@
 @9 Israel, du bringst dich in Unglück; denn dein Heil steht allein bei mir.
 @10 Wo ist dein König hin, der dir helfen möge in allen deinen Städten? und deine Richter, von denen du sagtest: Gib mir Könige und Fürsten?
 @11 Wohlan, ich gab dir einen König in meinem Zorn, und will ihn dir in meinem Grimm wegnehmen.
-
-## Anuncio de la terrible caída del pueblo pecador
 @12 Die Missetat Ephraims ist zusammengebunden, und seine Sünde ist behalten.
 @13 Denn es soll ihm wehe werden wie einer Gebärerin. Er ist ein unverständig Kind; denn wenn die Zeit gekommen ist, so will er die Mutter nicht brechen.
 @14 Aber ich will sie erlösen aus der Hölle und vom Tod erretten. Tod, ich will dir ein Gift sein; Hölle ich will dir eine Pestilenz sein. Doch ist der Trost vor meinen Augen verborgen.

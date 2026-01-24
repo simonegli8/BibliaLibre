@@ -1,159 +1,113 @@
 # 1
-## El llamamiento y ordenación de Ezequiel como profeta; la aparición de la gloria de Dios
 @1 Im dreißigsten Jahr, am fünften Tage des vierten Monats, da ich war unter den Gefangenen am Wasser Chebar, tat sich der Himmel auf, und Gott zeigte mir Gesichte.
-
 @2 Derselbe fünfte Tag des Monats war eben im fünften Jahr, nachdem Jojachin, der König Judas, war gefangen weggeführt.
 @3 Da geschah des HErrn Wort zu Hesekiel, dem Sohn Busis, dem Priester, im Lande der Chaldäer, am Wasser Chebar; daselbst kam die Hand des HErrn über ihn.
-
-## La nube de luz y el carro de luz y fuego con los cuatro querubines
 @4 Und ich sah, und siehe, es kam ein ungestümer Wind von Mitternacht her mit einer großen Wolke voll Feuer, das allenthalben umher glänzte; und mitten in dem Feuer war es lichthell.
 @5 Und darin war es gestaltet wie vier Tiere, und dieselben waren anzusehen wie Menschen.
 @6 Und ein jegliches hatte vier Angesichter und vier Flügel.
 @7 Und ihre Beine standen gerade, und ihre Füße waren gleich wie Rinderfüße und glänzten wie helles glattes Erz.
 @8 Und sie hatten Menschenhände unter ihren Flügeln an ihren vier Seiten; denn sie hatten alle vier ihre Angesichter und ihre Flügel.
 @9 Und je einer der Flügel rührte an den anderen; und wenn sie gingen, mussten sie nicht herumlenken, sondern wo sie hin gingen, gingen sie stracks vor sich.
-
 @10 Ihre Angesichter waren vorn gleich einem Menschen, und zur rechten Seite gleich einem Löwen bei allen vieren, und zur linken Seite gleich einem Ochsen bei allen vieren, und hinten gleich einem Adler bei allen vieren.
 @11 Und ihre Angesichter und Flügel waren obenher zerteilt, dass je zwei Flügel zusammenschlugen, und mit zwei Flügeln bedeckten sie ihren Leib.
 @12 Wo sie hin gingen, da gingen sie stracks vor sich – sie gingen aber, wo der Geist sie hin trieb – und mussten sich nicht herumlenken, wenn sie gingen.
 @13 Und die Tiere waren anzusehen wie feurige Kohlen, die da brennen, und wie Fackeln; und das Feuer fuhr hin zwischen den Tieren und gab einen Glanz von sich, und aus dem Feuer gingen Blitze.
 @14 Die Tiere aber liefen hin und her wie der Blitz.
-
-## Las cuatro ruedas del coche
 @15 Als ich die Tiere so sah, siehe, da stand ein Rad auf der Erde bei den vier Tieren und war anzusehen wie vier Räder.
 @16 Und die Räder waren wie ein Türkis und waren alle vier eins wie das andere, und sie waren anzusehen, als wäre ein Rad im anderen.
 @17 Wenn sie gehen wollten, konnten sie nach allen ihren vier Seiten gehen und mussten sich nicht herumlenken, wenn sie gingen.
 @18 Ihre Felgen und Höhe waren schrecklich; und ihre Felgen waren voller Augen um und um an allen vier Rädern.
-
 @19 Auch wenn die vier Tiere gingen, so gingen die Räder auch neben ihnen; und wenn die Tiere sich von der Erde emporhoben, so hoben sich die Räder auch empor.
 @20 Wo der Geist sie hin trieb, da gingen sie hin, und die Räder hoben sich neben ihnen empor; denn es war der Geist der Tiere in den Rädern.
 @21 Wenn sie gingen, so gingen diese auch; wenn sie standen, so standen diese auch; und wenn sie sich emporhoben von der Erde, so hoben sich auch die Räder neben ihnen empor; denn es war der Geist der Tiere in den Rädern.
-
-## La bóveda del cielo arriba y el dios entronizado en ella
 @22 Oben aber über den Tieren war es gestaltet wie ein Himmel, wie ein Kristall, schrecklich, gerade oben über ihnen ausgebreitet,
 @23 dass unter dem Himmel ihre Flügel einer stracks gegen den anderen standen, und eines jeglichen Leib bedeckten zwei Flügel.
 @24 Und ich hörte die Flügel rauschen wie große Wasser und wie ein Getön des Allmächtigen, wenn sie gingen, und wie ein Getümmel in einem Heer. Wenn sie aber stillstanden, so ließen sie die Flügel nieder.
-
 @25 Und wenn sie stillstanden und die Flügel niederließen, so donnerte es in dem Himmel oben über ihnen.
 @26 Und über dem Himmel, so oben über ihnen war, war es gestaltet wie ein Saphir, gleichwie ein Stuhl; und auf dem Stuhl saß einer, gleichwie ein Mensch gestaltet.
 @27 Und ich sah, und es war lichthell, und inwendig war es gestaltet wie ein Feuer um und um. Von seinen Lenden überwärts und unterwärts sah ich's wie Feuer glänzen um und um.
 @28 Gleichwie der Regenbogen sieht in den Wolken, wenn es geregnet hat, also glänzte es um und um. Dies war das Ansehen der Herrlichkeit des HErrn. Und da ich's gesehen hatte, fiel ich auf mein Angesicht und hörte einen reden.
 
 # 2
-## La misión de Ezequiel por Israel renegado
 @1 Und er sprach zu mir: Du Menschenkind, tritt auf deine Füße, so will ich mit dir reden.
 @2 Und da er so mit mir redete, ward ich wieder erquickt und trat auf meine Füße und hörte dem zu, der mit mir redete.
-
 @3 Und er sprach zu mir: Du Menschenkind, ich sende dich zu den Kindern Israel, zu dem abtrünnigen Volk, die von mir abtrünnig geworden sind. Sie samt ihren Vätern haben bis auf diesen heutigen Tag wider mich getan.
 @4 Aber die Kinder, zu welchen ich dich sende, haben harte Köpfe und verstockte Herzen. Zu denen sollst du sagen: So spricht der Herr HErr!
 @5 Sie gehorchen oder lassen's. Es ist wohl ein ungehorsames Haus; dennoch sollen sie wissen, dass ein Prophet unter ihnen ist.
 @6 Und du Menschenkind, sollst dich vor ihnen nicht fürchten noch vor ihren Worten fürchten. Es sind wohl widerspenstige und stachlige Dornen bei dir, und du wohnst unter Skorpionen; aber du sollst dich nicht fürchten vor ihren Worten noch vor ihrem Angesicht dich entsetzen, ob sie wohl ein ungehorsames Haus sind,
 @7 sondern du sollst ihnen meine Worte sagen, sie gehorchen oder lassen's; denn es ist ein ungehorsames Volk.
-
-## Inspiración divina al consumir un pergamino
 @8 Aber du, Menschenkind, höre du, was ich dir sage, und sei nicht ungehorsam, wie das ungehorsame Haus ist. Tue deinen Mund auf und iss, was ich dir geben werde.
-
 @9 Und ich sah, und siehe, da war eine Hand gegen mich ausgereckt, die hatte einen zusammengelegten Brief;
 @10 den breitete sie aus vor mir, und er war beschrieben auswendig und inwendig, und stand darin geschrieben Klage, Ach und Wehe.
 
 # 3
 @1 Und er sprach zu mir: Du Menschenkind, iss, was vor dir ist, iss diesen Brief, und gehe hin und predige dem Hause Israel!
-
 @2 Da tat ich meinen Mund auf, und er gab mir den Brief zu essen
-
 @3 und sprach zu mir: Du Menschenkind, du musst diesen Brief, den ich dir gebe, in deinen Leib essen und deinen Bauch damit füllen. Da aß ich ihn, und er war in meinem Munde so süß wie Honig.
-
-## Afilado del orden; Equipo del profeta para su oficio
 @4 Und er sprach zu mir: Du Menschenkind, gehe hin zum Hause Israel und predige ihnen meine Worte.
 @5 Denn ich sende dich ja nicht zu einem Volk, das eine fremde Rede und unbekannte Sprache hat, sondern zum Hause Israel;
 @6 ja, freilich nicht zu großen Völkern, die fremde Rede und unbekannte Sprache haben, welcher Worte du nicht verstehen könntest. Und wenn ich dich gleich zu denselben sendete, würden sie dich doch gern hören.
 @7 Aber das Haus Israel will dich nicht hören, denn sie wollen mich selbst nicht hören; denn das ganze Haus Israel hat harte Stirnen und verstockte Herzen.
 @8 Siehe, ich habe dein Angesicht hart gemacht gegen ihr Angesicht und deine Stirn gegen ihre Stirn.
 @9 Ja, ich habe deine Stirn so hart wie einen Demant, der härter ist denn ein Fels, gemacht. Darum fürchte dich nicht, entsetze dich auch nicht vor ihnen, dass sie so ein ungehorsames Haus sind.
-
 @10 Und er sprach zu mir: Du Menschenkind, alle meine Worte, die ich dir sage, die fasse zu Herzen und nimm sie zu Ohren!
 @11 Und gehe hin zu den Gefangenen deines Volks und predige ihnen und sprich zu ihnen: So spricht der Herr HErr! sie hören's oder lassen's.
-
-## La desaparición de la aparición divina; el rapto del profeta en el campo de trabajo
 @12 Und ein Wind hob mich auf, und ich hörte hinter mir ein Getön wie eines großen Erdbebens: Gelobt sei die Herrlichkeit des HErrn an ihrem Ort!
 @13 Und war ein Rauschen von den Flügeln der Tiere, die aneinander schlugen, und auch das Rasseln der Räder, die hart bei ihnen waren, und das Getön eines großen Erdbebens.
 @14 Da hob mich der Wind auf und führte mich weg. Und ich fuhr dahin in bitterem Grimm, und des HErrn Hand hielt mich fest.
 @15 Und ich kam zu den Gefangenen, die am Wasser Chebar wohnten, gen Thel-Abib, und setzte mich zu ihnen, die da saßen, und blieb daselbst unter ihnen sieben Tage ganz traurig.
-
-## El nombramiento de Ezequiel para la tutela espiritual responsable de los exiliados
 @16 Und da die sieben Tage um waren, geschah des HErrn Wort zu mir und sprach:
 @17 Du Menschenkind, ich habe dich zum Wächter gesetzt über das Haus Israel; du sollst aus meinem Munde das Wort hören und sie von meinetwegen warnen.
 @18 Wenn ich dem Gottlosen sage: Du musst des Todes sterben, und du warnst ihn nicht und sagst es ihm nicht, damit sich der Gottlose vor seinem gottlosen Wesen hüte, auf dass er lebendig bleibe: so wird der Gottlose um seiner Sünde willen sterben; aber sein Blut will ich von deiner Hand fordern.
 @19 Wo du aber den Gottlosen warnst und er sich nicht bekehrt von seinem gottlosen Wesen und Wege, so wird er um seiner Sünde willen sterben; aber du hast deine Seele errettet.
-
 @20 Und wenn sich ein Gerechter von seiner Gerechtigkeit wendet und tut Böses, so werde ich ihn lassen anlaufen, dass er muss sterben. Denn weil du ihn nicht gewarnt hast, wird er um seiner Sünde willen sterben müssen, und seine Gerechtigkeit, die er getan hat, wird nicht angesehen werden; aber sein Blut will ich von deiner Hand fordern.
 @21 Wo du aber den Gerechten warnst, dass er nicht sündigen soll, und er sündigt auch nicht, so soll er leben, denn er hat sich warnen lassen; und du hast deine Seele errettet.
-
-## Segunda aparición de la gloria de Dios; la restricción impuesta por Dios al profeta
 @22 Und daselbst kam des HErrn Hand über mich, und er sprach zu mir: Mache dich auf und gehe hinaus ins Feld; da will ich mit dir reden.
-
 @23 Und ich machte mich auf und ging hinaus ins Feld; und siehe, da stand die Herrlichkeit des HErrn daselbst, gleichwie ich sie am Wasser Chebar gesehen hatte; und ich fiel nieder auf mein Angesicht.
-
 @24 Und ich ward erquickt und trat auf meine Füße. Und er redete mit mir und sprach zu mir: Gehe hin und verschließ dich in deinem Hause!
 @25 Und du, Menschenkind, siehe, man wird dir Stricke anlegen und dich damit binden, dass du nicht ausgehen sollst unter sie.
 @26 Und ich will dir die Zunge an deinem Gaumen kleben lassen, dass du verstummen sollst und nicht mehr sie strafen könnest; denn es ist ein ungehorsames Haus.
 @27 Wenn ich aber mit dir reden werde, will ich dir den Mund auftun, dass du zu ihnen sagen sollst: So spricht der Herr HErr! Wer's hört, der höre es; wer's lässt, der lasse es; denn es ist ein ungehorsames Haus.
 
 # 4
-## Primera señal: la ciudad sitiada de Jerusalén
 @1 Und du, Menschenkind, nimm einen Ziegel; den lege vor dich und entwirf darauf die Stadt Jerusalem
 @2 und mache eine Belagerung darum und baue ein Bollwerk darum und schütte einen Wall darum und mache ein Heerlager darum und stelle Sturmböcke rings um sie her.
 @3 Vor dich aber nimm eine eiserne Pfanne; die lass eine eiserne Mauer sein zwischen dir und der Stadt, und richte dein Angesicht gegen sie und belagere sie. Das sei ein Zeichen dem Hause Israel.
-
-## Segunda señal: los días de ser encadenados por la culpa de los reinos del norte y del sur
 @4 Du sollst dich auch auf deine linke Seite legen und die Missetat des Hauses Israel auf dieselbe legen; soviel Tage du darauf liegst, so lange sollst du auch ihre Missetat tragen.
 @5 Ich will dir aber die Jahre ihrer Missetat zur Anzahl der Tage machen, nämlich 390 Tage; so lange sollst du die Missetat des Hauses Israel tragen.
-
 @6 Und wenn du solches ausgerichtet hast, sollst du darnach dich auf deine rechte Seite legen und sollst tragen die Missetat des Hauses Juda vierzig Tage lang; denn ich gebe dir hier auch je einen Tag für ein Jahr.
 @7 Und richte dein Angesicht und deinen bloßen Arm wider das belagerte Jerusalem und weissage wider dasselbe.
 @8 Und siehe, ich will dir Stricke anlegen, dass du dich nicht wenden könnest von einer Seite zur anderen, bis du die Tage deiner Belagerung vollendet hast.
-
-## Tercera señal: la comida insuficiente e inmunda durante el asedio de la ciudad
 @9 So nimm nun zu dir Weizen, Gerste, Bohnen, Linsen, Hirse und Spelt und tue alles in ein Fass und mache dir Brot daraus, soviel Tage du auf deiner Seite liegst, dass du 390 Tage daran zu essen hast,
 @10 also dass deine Speise, die du täglich essen sollst, sei zwanzig Lot nach dem Gewicht. Solches sollst du von einer Zeit zur anderen essen.
 @11 Das Wasser sollst du auch nach dem Maß trinken, nämlich das sechste Teil vom Hin, und sollst solches auch von einer Zeit zur anderen trinken.
 @12 Gerstenkuchen sollst du essen, die du vor ihren Augen auf Menschenmist backen sollst.
 @13 Und der HErr sprach: Also müssen die Kinder Israel ihr unreines Brot essen unter den Heiden, dahin ich sie verstoßen werde.
-
 @14 Ich aber sprach: Ach Herr HErr! siehe, meine Seele ist noch nie unrein geworden; denn ich habe von meiner Jugend auf bis auf diese Zeit kein Aas noch Zerrissenes gegessen, und ist nie unreines Fleisch in meinen Mund gekommen.
-
 @15 Er aber sprach zu mir: Siehe, ich will dir Kuhmist für Menschenmist zulassen, darauf du dein Brot machen sollst.
-
 @16 Und sprach zu mir: Du Menschenkind, siehe, ich will den Vorrat des Brots zu Jerusalem wegnehmen, dass sie das Brot essen müssen nach dem Gewicht und mit Kummer, und das Wasser nach dem Maß mit Kummer trinken,
 @17 darum dass es an Brot und Wasser mangeln und einer mit dem anderen trauern wird und sie in ihrer Missetat verschmachten sollen.
 
 # 5
-## Cuarto signo: la aniquilación total del pueblo, salvo un pequeño remanente, al final del asedio
 @1 Und du, Menschenkind, nimm ein Schwert, scharf wie ein Schermesser, und fahr damit über dein Haupt und deinen Bart und nimm eine Waage und teile das Haar damit.
 @2 Das eine dritte Teil sollst du mit Feuer verbrennen mitten in der Stadt, wenn die Tage der Belagerung um sind; das andere dritte Teil nimm und schlag's mit dem Schwert ringsumher; das letzte dritte Teil streue in den Wind, dass ich das Schwert hinter ihnen her ausziehe.
 @3 Nimm aber ein klein wenig davon und binde es in deinen Mantelzipfel.
 @4 Und nimm wiederum etliches davon und wirf's in ein Feuer und verbrenne es mit Feuer; von dem soll ein Feuer auskommen über das ganze Haus Israel.
-
-## La interpretación y justificación de los cuatro signos del juicio
 @5 So spricht der Herr HErr: Das ist Jerusalem, das ich mitten unter die Heiden gesetzt habe und ringsumher Länder.
 @6 Aber es hat mein Gesetz verwandelt in gottlose Lehre mehr denn die Heiden, und meine Rechte mehr denn die Länder, die ringsumher liegen. Denn sie verwerfen mein Gesetz und wollen nicht nach meinen Rechten leben.
-
 @7 Darum spricht der Herr HErr also: Weil ihr's mehr macht denn die Heiden, die um euch her sind, und nach meinen Geboten nicht lebt und nach meinen Rechten nicht tut, sondern nach der Heiden Weise tut, die um euch her sind,
 @8 so spricht der Herr HErr also: Siehe, ich will auch an dich und will Recht über dich gehen lassen, dass die Heiden zusehen sollen;
 @9 und will also mit dir umgehen, wie ich nie getan und hinfort nicht tun werde, um aller deiner Gräuel willen:
 @10 dass in dir die Väter ihre Kinder und die Kinder ihre Väter fressen sollen; und will solch Recht über dich gehen lassen, dass alle deine Übrigen sollen in alle Winde zerstreut werden.
 @11 Darum, so wahr als ich lebe, spricht der Herr HErr, weil du mein Heiligtum mit allen deinen Gräueln und Götzen verunreinigt hast, will ich dich auch zerschlagen, und mein Auge soll dein nicht schonen, und ich will nicht gnädig sein.
 @12 Es soll ein drittes Teil an der Pestilenz sterben und durch Hunger alle werden in dir, und das andere dritte Teil durchs Schwert fallen rings um dich her; und das letzte dritte Teil will ich in alle Winde zerstreuen und das Schwert hinter ihnen her ausziehen.
-
 @13 Also soll mein Zorn vollendet und mein Grimm an ihnen ausgerichtet werden, dass ich meinen Mut kühle; und sie sollen erfahren, dass ich, der HErr, in meinem Eifer geredet habe, wenn ich meinen Grimm an ihnen ausgerichtet habe.
-
 @14 Ich will dich zur Wüste und zur Schmach setzen vor den Heiden, die um dich her sind, vor den Augen aller, die vorübergehen.
 @15 Und sollst eine Schmach, Hohn, Beispiel und Wunder sein allen Heiden, die um dich her sind, wenn ich über dich das Recht gehen lasse mit Zorn, Grimm und zornigem Schelten (das sage ich, der HErr)
 @16 und wenn ich böse Pfeile des Hungers unter sie schießen werde, die da schädlich sein sollen, und ich sie ausschießen werde, euch zu verderben, und den Hunger über euch immer größer werden lasse und den Vorrat des Brots wegnehme.
 @17 Ja, Hunger und böse, wilde Tiere will ich unter euch schicken, die sollen euch kinderlos machen; und soll Pestilenz und Blut unter dir umgehen, und ich will das Schwert über dich bringen. Ich, der HErr, habe es gesagt.
 
 # 6
-## Anuncio de la aniquilación completa de todos los lugares de idolatría
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, kehre dein Angesicht wider die Berge Israels und weissage wider sie
 @3 und sprich: Ihr Berge Israels, höret das Wort des Herrn HErrn! So spricht der Herr HErr zu den Bergen und Hügeln, zu den Bächen und Tälern: Siehe, ich will das Schwert über euch bringen und eure Höhen zerstören,
@@ -161,37 +115,29 @@
 @5 ja, ich will die Leichname der Kinder Israel vor ihre Bilder hinwerfen und will eure Gebeine um eure Altäre her zerstreuen.
 @6 Wo ihr wohnet, da sollen die Städte wüst und die Höhen zur Einöde werden; denn man wird eure Altäre wüst und zur Einöde machen und eure Götzen zerbrechen und zunichte machen und eure Sonnensäulen zerschlagen und eure Machwerke vertilgen.
 @7 Und sollen Erschlagene unter euch daliegen, dass ihr erfahret, ich sei der HErr.
-
-## Anunciación para una pequeña parte del pueblo
 @8 Ich will aber etliche von euch übrigbleiben lassen, die dem Schwert entgehen unter den Heiden, wenn ich euch in die Länder zerstreut habe.
 @9 Diese eure Entronnenen werden dann an mich gedenken unter den Heiden, da sie gefangen sein müssen, wenn ich ihr abgöttisches Herz, das von mir gewichen, und ihre abgöttischen Augen, die nach ihren Götzen gesehen, zerschlagen habe; und es wird sie gereuen die Bosheit, die sie durch alle ihre Gräuel begangen haben;
 @10 und sie sollen erfahren, dass ich der HErr sei und nicht umsonst geredet habe, solches Unglück ihnen zu tun.
-
-## Anuncio renovado de visitas severas debido a atrocidades paganas
 @11 So spricht der Herr HErr: Schlage deine Hände zusammen und stampfe mit deinem Fuß und sprich: Weh über alle Gräuel der Bosheit im Hause Israel, darum sie durch Schwert, Hunger und Pestilenz fallen müssen!
 @12 Wer fern ist, wird an der Pestilenz sterben, und wer nahe ist, wird durchs Schwert fallen; wer aber übrigbleibt und davor behütet ist, wird Hungers sterben. Also will ich meinen Grimm unter ihnen vollenden,
 @13 dass ihr erfahren sollt, ich sei der HErr, wenn ihre Erschlagenen unter ihren Götzen liegen werden um ihre Altäre her, oben auf allen Hügeln und oben auf allen Bergen und unter allen grünen Bäumen und unter allen dichten Eichen, an welchen Orten sie allerlei Götzen süßes Räuchopfer taten.
 @14 Ich will meine Hand wider sie ausstrecken und das Land wüst und öde machen von der Wüste an bis gen Dibla, überall, wo sie wohnen; und sie sollen erfahren, dass ich der HErr sei.
 
 # 7
-## Anuncio del juicio final que vendrá sobre la tierra y el pueblo y todos sus horrores
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, so spricht der Herr HErr vom Lande Israel: Das Ende kommt, das Ende über alle vier Örter des Landes.
 @3 Nun kommt das Ende über dich; denn ich will meinen Grimm über dich senden und will dich richten, wie du verdient hast, und will dir geben, was allen deinen Gräueln gebührt.
 @4 Mein Auge soll dein nicht schonen noch übersehen; sondern ich will dir geben, wie du verdient hast, und deine Gräuel sollen unter dich kommen, dass ihr erfahren sollt, ich sei der HErr.
-
 @5 So spricht der Herr HErr: Siehe, es kommt ein Unglück über das andere!
 @6 Das Ende kommt, es kommt das Ende, es ist erwacht über dich; siehe, es kommt!
 @7 Es geht schon auf und bricht daher über dich, du Einwohner des Landes; die Zeit kommt, der Tag des Jammers ist nahe, da kein Singen auf den Bergen sein wird.
 @8 Nun will ich bald meinen Grimm über dich schütten und meinen Zorn an dir vollenden und will dich richten, wie du verdient hast, und dir geben, was deinen Gräueln allen gebührt.
 @9 Mein Auge soll dein nicht schonen, und ich will nicht gnädig sein; sondern will dir geben, wie du verdient hast, und deine Gräuel sollen unter dich kommen, dass ihr erfahren sollt, ich sei der HErr, der euch schlägt.
-
 @10 Siehe, der Tag, siehe, er kommt daher, er bricht an; die Rute blüht, und der Stolze grünt.
 @11 Der Tyrann hat sich aufgemacht zur Rute über die Gottlosen, dass nichts von ihnen noch von ihrem Volk noch von ihrem Haufen Trost haben wird.
 @12 Es kommt die Zeit, der Tag naht herzu! Der Käufer freue sich nicht, und der Verkäufer trauere nicht; denn es kommt der Zorn über all ihren Haufen.
 @13 Darum soll der Verkäufer nach seinem verkauften Gut nicht wieder trachten; denn wer da lebt, der wird's haben. Denn die Weissagung über all ihren Haufen wird nicht zurückkehren; keiner wird sein Leben erhalten, um seiner Missetat willen.
 @14 Lasst sie die Posaune nur blasen und alles zurüsten, es wird doch niemand in den Krieg ziehen; denn mein Grimm geht über all ihren Haufen.
-
 @15 Draußen geht das Schwert; drinnen geht Pestilenz und Hunger. Wer auf dem Felde ist, der wird vom Schwert sterben; wer aber in der Stadt ist, den wird Pestilenz und Hunger fressen.
 @16 Und welche unter ihnen entrinnen, die müssen auf den Gebirgen sein, und wie die Tauben in den Gründen, die alle untereinander girren, ein jeglicher um seiner Missetat willen.
 @17 Aller Hände werden dahinsinken, und aller Knie werden so ungewiss stehen wie Wasser;
@@ -200,7 +146,6 @@
 @20 Sie haben aus ihren edlen Kleinoden, damit sie Hoffart trieben, Bilder ihrer Gräuel und Scheuel gemacht; darum will ich's ihnen zum Unflat machen
 @21 und will's Fremden in die Hände geben, dass sie es rauben, und den Gottlosen auf Erden zur Ausbeute, dass sie es entheiligen sollen.
 @22 Ich will mein Angesicht davon kehren, dass sie meinen Schatz entheiligen; ja, Räuber sollen darüberkommen und es entheiligen.
-
 @23 Mache Ketten; denn das Land ist voll Blutschulden und die Stadt voll Frevels.
 @24 So will ich die Ärgsten unter den Heiden kommen lassen, dass sie sollen ihre Häuser einnehmen, und will der Hoffart der Gewaltigen ein Ende machen und ihre Heiligtümer entheiligen.
 @25 Der Ausrotter kommt; da werden sie Frieden suchen, und wird keiner dasein.
@@ -208,179 +153,120 @@
 @27 Der König wird betrübt sein, und die Fürsten werden in Entsetzen gekleidet sein, und die Hände des Volkes im Lande werden verzagt sein. Ich will mit ihnen umgehen, wie sie gelebt haben, und will sie richten, wie sie verdient haben, dass sie erfahren sollen, ich sei der HErr.
 
 # 8
-## Las abominaciones de la idolatría, la adoración de deidades extranjeras, en el templo de Jerusalén
 @1 Und es begab sich im sechsten Jahr, am fünften Tage des Sechsten Monats, dass ich saß in meinem Hause und die Alten aus Juda saßen vor mir; daselbst fiel die Hand des Herrn HErrn auf mich.
 @2 Und siehe, ich sah, dass es von seinen Lenden herunterwärts war gleichwie Feuer; aber oben über seinen Lenden war es lichthell;
 @3 und er reckte aus gleichwie eine Hand und ergriff mich bei dem Haar meines Hauptes. Da führte mich ein Wind zwischen Himmel und Erde und brachte mich gen Jerusalem in einem göttlichen Gesichte zu dem Tor am inneren Vorhof, das gegen Mitternacht sieht, da stand ein Bild zu Verdruss dem Hausherrn.
 @4 Und siehe, da war die Herrlichkeit des Gottes Israels, wie ich sie zuvor gesehen hatte im Felde.
-
-## La imagen del celo (el Astarté)
 @5 Und er sprach zu mir: Du Menschenkind, hebe deine Augen auf gegen Mitternacht. Und da ich meine Augen aufhob gegen Mitternacht, siehe, da stand gegen Mitternacht das verdrießliche Bild am Tor des Altars, eben da man hineingeht.
-
 @6 Und er sprach zu mir: Du Menschenkind, siehst du auch, was diese tun? Große Gräuel, die das Haus Israel hier tut, dass sie mich ja fern von meinem Heiligtum treiben. Aber du wirst noch mehr große Gräuel sehen.
-
-## La cámara de cuadros con la idolatría de los setenta ancianos
 @7 Und er führte mich zur Tür des Vorhofs; da sah ich, und siehe, da war ein Loch in der Wand.
 @8 Und er sprach zu mir: Du Menschenkind, grabe durch die Wand. Und da ich durch die Wand grub, siehe, da war eine Tür.
-
 @9 Und er sprach zu mir: Gehe hinein und schaue die bösen Gräuel, die sie allhier tun.
-
 @10 Und da ich hineinkam und sah, siehe, da waren allerlei Bildnisse der Würmer und Tiere, eitel Scheuel, und allerlei Götzen des Hauses Israel, allenthalben umher an der Wand gemacht;
 @11 vor welchen standen siebzig Männer aus den Ältesten des Hauses Israel, und Jaasanja, der Sohn Saphans, stand auch unter ihnen; und ein jeglicher hatte sein Räuchfass in der Hand, und ging ein dicker Nebel auf vom Räuchwerk.
-
 @12 Und er sprach zu mir: Menschenkind, siehst du, was die Ältesten des Hauses Israel tun in der Finsternis, ein jeglicher in seiner Bilderkammer? Denn sie sagen: Der HErr sieht uns nicht, sondern der HErr hat das Land verlassen.
 @13 Und er sprach zu mir: Du sollst noch mehr große Gräuel sehen, die sie tun.
-
-## La adoración de Thammus (Adonis) por mujeres
 @14 Und er führte mich hinein zum Tor an des HErrn Hause, das gegen Mitternacht steht; und siehe, daselbst saßen Weiber, die weinten über den Thammus.
 @15 Und er sprach zu: Menschenkind, siehst du das? Aber du sollst noch größere Gräuel sehen, denn diese sind.
-
-## Adoración del dios sol
 @16 Und er führte mich in den inneren Hof am Hause des HErrn; und siehe, vor der Tür am Tempel des HErrn, zwischen der Halle und dem Altar, da waren bei fünfundzwanzig Männer, die ihren Rücken gegen den Tempel des HErrn und ihr Angesicht gegen Morgen gekehrt hatten und beteten gegen der Sonne Aufgang.
-
-## Asociación de idolatría en toda la tierra de Judá; La amenaza de Dios
 @17 Und er sprach zu mir: Menschenkind, siehst du das? Ist's dem Hause Juda zu wenig, alle solche Gräuel hier zu tun, dass sie auch sonst im ganzen Lande eitel Gewalt und Unrecht treiben und reizen mich immer wieder? Und siehe, sie halten die Weinrebe an die Nase.
 @18 Darum will ich auch wider sie mit Grimm handeln, und mein Auge soll ihrer nicht verschonen, und ich will nicht gnädig sein; und wenn sie gleich mit lauter Stimme vor meinen Ohren schreien, will ich sie doch nicht hören.
 
 # 9
-## El nombre de los piadosos y la matanza de los impíos habitantes de Jerusalén
 @1 Und er rief mit lauter Stimme vor meinen Ohren und sprach: Lasst herzukommen die Heimsuchung der Stadt, und ein jeglicher habe eine Mordwaffe in seiner Hand.
 @2 Und siehe, es kamen sechs Männer auf dem Wege vom Obertor her, das gegen Mitternacht steht; und ein jeglicher hatte eine schädliche Waffe in seiner Hand. Aber es war einer unter ihnen, der hatte Leinwand an und ein Schreibzeug an seiner Seite. Und sie gingen hinein und traten neben den ehernen Altar.
-
 @3 Und die Herrlichkeit des Gottes Israels erhob sich von dem Cherub, über dem sie war, zu der Schwelle am Hause und rief dem, der die Leinwand anhatte und das Schreibzeug an seiner Seite.
 @4 Und der HErr sprach zu ihm: Gehe durch die Stadt Jerusalem und zeichne mit einem Zeichen an die Stirn die Leute, die da seufzen und jammern über alle Gräuel, die darin geschehen.
-
 @5 Zu jenen aber sprach er, dass ich's hörte: Gehet diesem nach durch die Stadt und schlaget drein; eure Augen sollen nicht schonen noch übersehen.
 @6 Erwürget Alte, Jünglinge, Jungfrauen, Kinder und Weiber, alles tot; aber die das Zeichen an sich haben, derer sollt ihr keinen anrühren. Fanget aber an an meinem Heiligtum! Und sie fingen an an den alten Leuten, die vor dem Hause waren.
-
 @7 Und er sprach zu ihnen: Verunreinigt das Haus und macht die Vorhöfe voll Erschlagener; gehet heraus! Und sie gingen heraus und schlugen in der Stadt.
-
-## La intercesión fallida de Ezequiel
 @8 Und da sie ausgeschlagen hatten, war ich noch übrig. Und ich fiel auf mein Angesicht, schrie und sprach: Ach Herr HErr, willst du denn alle Übrigen in Israel verderben, dass du deinen Zorn so ausschüttest über Jerusalem?
-
 @9 Und er sprach zu mir: Es ist die Missetat des Hauses Israel und Juda allzusehr groß; es ist eitel Blutschuld im Lande und Unrecht in der Stadt. Denn sie sprechen: Der HErr hat das Land verlassen, und der HErr sieht uns nicht.
 @10 Darum soll mein Auge auch nicht schonen, ich will auch nicht gnädig sein, sondern ihr Tun auf ihren Kopf werfen.
-
 @11 Und siehe, der Mann, der die Leinwand anhatte und das Schreibzeug an seiner Seite, antwortete und sprach: Ich habe getan, wie du mir geboten hast.
 
 # 10
-## El mandato de Dios de incinerar la ciudad, combinado con una descripción repetida del carro del querubín divino; El retiro de Dios del santuario
 @1 Und ich sah, und siehe, an dem Himmel über dem Haupt der Cherubim war es gestaltet wie ein Saphir, und über ihnen war es gleich anzusehen wie ein Thron.
 @2 Und er sprach zu dem Mann in der Leinwand: Gehe hinein zwischen die Räder unter den Cherub und fasse die Hände voll glühender Kohlen, die zwischen den Cherubim sind, und streue sie über die Stadt. Und er ging hinein, dass ich's sah, da er hineinging.
-
 @3 Die Cherubim aber standen zur Rechten am Hause, und die Wolke erfüllte den inneren Vorhof.
 @4 Und die Herrlichkeit des HErrn erhob sich von dem Cherub zur Schwelle am Hause; und das Haus ward erfüllt mit der Wolke und der Vorhof voll Glanzes von der Herrlichkeit des HErrn.
 @5 Und man hörte die Flügel der Cherubim rauschen bis in den äußeren Vorhof wie eine Stimme des allmächtigen Gottes, wenn er redet.
-
 @6 Und da er dem Mann in der Leinwand geboten hatte und gesagt: Nimm Feuer zwischen den Rädern unter den Cherubim! ging er hinein und trat neben das Rad.
 @7 Und der Cherub streckte seine Hand heraus zwischen den Cherubim zum Feuer, das zwischen den Cherubim war, nahm davon und gab's dem Mann in der Leinwand in die Hände; der empfing's und ging hinaus.
 @8 Und es erschien an den Cherubim gleichwie eines Menschen Hand unter ihren Flügeln.
-
 @9 Und ich sah, und siehe, vier Räder standen bei den Cherubim, bei einem jeglichen Cherub ein Rad; und die Räder waren anzusehen gleichwie ein Türkis
 @10 und waren alle vier eines wie das andere, als wäre ein Rad im anderen.
 @11 Wenn sie gehen sollten, so konnten sie nach allen ihren vier Seiten gehen und mussten sich nicht herumlenken, wenn sie gingen; sondern wohin das erste ging, da gingen sie nach und mussten sich nicht herumlenken.
 @12 Und ihr ganzer Leib, Rücken, Hände und Flügel und die Räder waren voll Augen um und um; alle vier hatten ihre Räder.
 @13 Und die Räder wurden genannt „der Wirbel“, dass ich's hörte.
 @14 Ein jeglicher hatte vier Angesichter; das erste Angesicht war eines Cherubs, das andere eines Menschen, das dritte eines Löwen, das vierte eines Adlers.
-
 @15 Und die Cherubim schwebten empor. Es ist eben das Tier, das ich sah am Wasser Chebar.
 @16 Wenn die Cherubim gingen, so gingen die Räder auch neben ihnen; und wenn die Cherubim ihre Flügel schwangen, dass sie sich von der Erde erhoben, so lenkten sich die Räder auch nicht von ihnen.
 @17 Wenn jene standen, so standen diese auch; erhoben sie sich, so erhoben sich diese auch; denn es war der Geist der Tiere in ihnen.
-
-## El éxodo de la gloria de Dios del santuario
 @18 Und die Herrlichkeit des HErrn ging wieder aus von der Schwelle am Hause und stellte sich über die Cherubim.
 @19 Da schwangen die Cherubim ihre Flügel und erhoben sich von der Erde vor meinen Augen; und da sie ausgingen, gingen die Räder neben ihnen. Und sie traten in das Tor am Hause des HErrn gegen Morgen, und die Herrlichkeit des Gottes Israels war oben über ihnen.
-
 @20 Das ist das Tier, das ich unter dem Gott Israels sah am Wasser Chebar; und ich merkte, das es Cherubim wären,
 @21 da ein jegliches vier Angesichter hatte und vier Flügel und unter den Flügeln gleichwie Menschenhände.
 @22 Es waren ihre Angesichter gestaltet, wie ich sie am Wasser Chebar sah, und sie gingen stracks vor sich.
 
 # 11
-## El juicio de Dios sobre los peores seductores del pueblo; Destierro, conversión y renovación del pueblo; Dios se va de la ciudad
 @1 Und mich hob ein Wind auf und brachte mich zum Tor am Hause des HErrn, das gegen Morgen sieht; und siehe, unter dem Tor waren fünfundzwanzig Männer; und ich sah unter ihnen Jaasanja, den Sohn Assurs, und Pelatja, den Sohn Benajas, die Fürsten im Volk.
 @2 Und er sprach zu mir: Menschenkind, diese Leute haben unselige Gedanken und schädliche Ratschläge in dieser Stadt;
 @3 denn sie sprechen: „Es ist nicht so nahe; lasst uns nur Häuser bauen! Sie ist der Topf, so sind wir das Fleisch.“
 @4 Darum sollst du, Menschenkind, wider sie weissagen.
-
 @5 Und der Geist des HErrn fiel auf mich, und er sprach zu mir: Sprich: So sagt der HErr: Ich habe also geredet, ihr vom Hause Israel; und eures Geistes Gedanken kenne ich wohl.
 @6 Ihr habt viele erschlagen in dieser Stadt, und ihre Gassen liegen voll Toter.
-
 @7 Darum spricht der Herr HErr also: Die ihr darin getötet habt, die sind das Fleisch, und sie ist der Topf; aber ihr müsset hinaus.
 @8 Das Schwert, das ihr fürchtet, das will ich über euch kommen lassen, spricht der Herr HErr.
 @9 Ich will euch von dort herausstoßen und den Fremden in die Hand geben und will euch euer Recht tun.
 @10 Ihr sollt durchs Schwert fallen; an der Grenze Israels will ich euch richten, und sollt erfahren, dass ich der HErr bin.
 @11 Die Stadt aber soll nicht euer Topf sein noch ihr das Fleisch darin; sondern an der Grenze Israels will ich euch richten.
 @12 Und ihr sollt erfahren, dass ich der HErr bin; denn ihr habt nach meinen Geboten nicht gewandelt und habt meine Rechte nicht gehalten, sondern getan nach der Heiden Weise, die um euch her sind.
-
 @13 Und da ich so weissagte, starb Pelatja, der Sohn Benajas. Da fiel ich auf mein Angesicht und schrie mit lauter Stimme und sprach: Ach Herr HErr, du wirst's mit den Übrigen Israels gar aus machen!
-
-## El destierro, el regreso a casa y la renovación del pueblo de Dios
 @14 Da geschah des HErrn Wort zu mir und sprach:
 @15 Du Menschenkind, zu deinen Brüdern und nahen Freunden und dem ganzen Haus Israel sprechen wohl die, die noch zu Jerusalem wohnen: Ihr müsset fern vom HErrn sein, aber wir haben das Land inne.
-
 @16 Darum sprich du: So spricht der Herr HErr: Ja, ich habe sie fern weg unter die Heiden lassen treiben und in die Länder zerstreut; doch will ich bald ihr Heiland sein in den Ländern, dahin sie gekommen sind.
-
 @17 Darum sprich: So sagt der Herr HErr: Ich will euch sammeln aus den Völkern und will euch sammeln aus den Ländern, dahin ihr zerstreut seid, und will euch das Land Israel geben.
-
 @18 Da sollen sie kommen und alle Scheuel und Gräuel daraus wegtun.
 @19 Und ich will euch ein einträchtiges Herz geben und einen neuen Geist in euch geben und will das steinerne Herz wegnehmen aus eurem Leibe und ein fleischernes Herz geben,
 @20 auf dass sie in meinen Sitten wandeln und meine Rechte halten und darnach tun. Und sie sollen mein Volk sein, so will ich ihr Gott sein.
 @21 Denen aber, die nach ihres Herzens Scheueln und Gräueln wandeln, will ich ihr Tun auf ihren Kopf werfen, spricht der Herr HErr.
-
-## Dios se va del área de la ciudad; Ezequiel despierta del rapto
 @22 Da schwangen die Cherubim ihre Flügel, und die Räder gingen neben ihnen, und die Herrlichkeit des Gottes Israels war oben über ihnen.
 @23 Und die Herrlichkeit des HErrn erhob sich aus der Stadt und stellte sich auf den Berg, der gegen Morgen vor der Stadt liegt.
 @24 Und ein Wind hob mich auf und brachte mich im Gesicht und im Geist Gottes nach Chaldäa zu den Gefangenen. Und das Gesicht, das ich gesehen hatte, verschwand vor mir.
-
 @25 Und ich sagte den Gefangenen alle Worte des HErrn, die er mir gezeigt hatte.
 
 # 12
-## La emigración del Profeta como ilustración del camino que lleva al príncipe y al pueblo al exilio
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, du wohnst unter einem ungehorsamen Haus, welches hat wohl Augen, dass sie sehen könnten, und wollen nicht sehen, Ohren, dass sie hören könnten, und wollen nicht hören, sondern es ist ein ungehorsames Haus.
-
 @3 Darum, du Menschenkind, nimm dein Wandergerät und zieh am lichten Tage davon vor ihren Augen. Von deinem Ort sollst du ziehen an einen anderen Ort vor ihren Augen, ob sie vielleicht merken wollten, dass sie ein ungehorsames Haus sind.
 @4 Und sollst dein Gerät heraustun wie Wandergerät bei lichtem Tage vor ihren Augen; und du sollst ausziehen des Abends vor ihren Augen, gleichwie man auszieht, wenn man wandern will;
 @5 und du sollst durch die Wand ausbrechen vor ihren Augen und durch dieselbe ziehen;
 @6 und du sollst es auf deine Schulter nehmen vor ihren Augen und, wenn es dunkel geworden ist, hinaustragen; dein Angesicht sollst du verhüllen, dass du das Land nicht sehest. Denn ich habe dich dem Hause Israel zum Wunderzeichen gesetzt.
-
-## Comer y beber con temblores y temblores como signos de la necesidad de un asedio
 @7 Und ich tat wie mir befohlen war, und trug mein Gerät heraus wie Wandergerät bei lichtem Tage; und am Abend brach ich mit der Hand durch die Wand; und da es dunkel geworden war, nahm ich's auf die Schulter und trug's hinaus vor ihren Augen.
-
 @8 Und frühmorgens geschah des HErrn Wort zu mir und sprach:
 @9 Menschenkind, hat das Haus Israel, das ungehorsame Haus, nicht zu dir gesagt: Was machst du?
-
 @10 So sprich zu ihnen: So spricht der Herr HErr: Diese Last betrifft den Fürsten zu Jerusalem und das ganze Haus Israel, das darin ist.
-
 @11 Sprich: Ich bin euer Wunderzeichen; wie ich getan habe, also soll ihnen geschehen, dass sie wandern müssen und gefangen geführt werden.
-
 @12 Ihr Fürst wird seine Habe auf der Schulter tragen im Dunkel und muss ausziehen durch die Wand, die sie zerbrechen werden, dass sie dadurch ausziehen; sein Angesicht wird verhüllt werden, dass er mit keinem Auge das Land sehe.
 @13 Ich will auch mein Netz über ihn werfen, dass er in meinem Garn gefangen werde, und will ihn gen Babel bringen in der Chaldäer Land, das er doch nicht sehen wird, und er soll daselbst sterben.
 @14 Und alle, die um ihn her sind, seine Gehilfen und all sein Anhang, will ich unter alle Winde zerstreuen und das Schwert hinter ihnen her ausziehen.
-
 @15 Also sollen sie erfahren, dass ich der HErr sei, wenn ich sie unter die Heiden verstoße und in die Länder zerstreue.
 @16 Aber ich will ihrer etliche wenige übrigbleiben lassen vor dem Schwert, dem Hunger und der Pestilenz; die sollen jener Gräuel erzählen unter den Heiden, dahin sie kommen werden, und sie sollen erfahren, dass ich der HErr sei.
-
 @17 Und des HErrn Wort geschah zu mir und sprach:
 @18 Du Menschenkind, du sollst dein Brot essen mit Beben und dein Wasser trinken mit Zittern und Sorgen.
 @19 Und sprich zum Volk im Lande: So spricht der Herr HErr von den Einwohnern zu Jerusalem im Lande Israel: Sie müssen ihr Brot essen in Sorgen und ihr Wasser trinken im Elend; denn das Land soll wüst werden von allem, was darin ist, um des Frevels willen aller Einwohner.
 @20 Und die Städte, die wohl bewohnt sind, sollen verwüstet und das Land öde werden; also sollt ihr erfahren, dass ich der HErr sei.
-
-## Para aquellos que negaron la profecía de todo valor
 @21 Und des HErrn Wort geschah zu mir und sprach:
 @22 Du Menschenkind, was habt ihr für ein Sprichwort im Lande Israel und sprecht: Weil sich's so lange verzieht, so wird nun hinfort nichts aus der Weissagung?
 @23 Darum sprich zu ihnen: So spricht der Herr HErr: Ich will das Sprichwort aufheben, dass man es nicht mehr führen soll in Israel. Und rede zu ihnen: Die Zeit ist nahe und alles, was geweissagt ist.
 @24 Denn es soll hinfort kein falsches Gesicht und keine Weissagung mit Schmeichelworten mehr sein im Hause Israel.
 @25 Denn ich bin der HErr; was ich rede, das soll geschehen und nicht länger verzogen werden; sondern bei eurer Zeit, ihr ungehorsames Haus, will ich tun, was ich rede, spricht der Herr HErr.
-
-## Para aquellos que afirmaron que la profecía de Ezequiel se refería al futuro lejano
 @26 Und des HErrn Wort geschah zu mir und sprach:
 @27 Du Menschenkind, siehe, das Haus Israel spricht: Das Gesicht, das dieser sieht, da ist noch lange hin; und er weissagt auf die Zeit, die noch ferne ist.
-
 @28 Darum sprich zu ihnen: So spricht der Herr HErr: Was ich rede, soll nicht länger verzogen werden, sondern soll geschehen, spricht der Herr HErr.
 
 # 13
-## Contra los falsos profetas
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, weissage wider die Propheten Israels und sprich zu denen, die aus ihrem eigenen Herzen weissagen: Höret des HErrn Wort!
 @3 So spricht der Herr HErr: Weh den tollen Propheten, die ihrem eigenen Geist folgen und haben keine Gesichte!
@@ -388,112 +274,81 @@
 @5 Sie treten nicht vor die Lücken und machen sich nicht zur Hürde um das Haus Israel und stehen nicht im Streit am Tage des HErrn.
 @6 Ihr Gesicht ist nichts, und ihr Weissagen ist eitel Lügen. Sie sprechen: „Der HErr hat's gesagt“, wenn sie doch der HErr nicht gesandt hat, und warten, dass ihr Wort bestehe.
 @7 Ist's nicht also, dass euer Gesicht ist nichts und euer Weissagen ist eitel Lügen? und ihr sprecht doch: „Der HErr hat's geredet“, obwohl ich's doch nicht geredet habe.
-
 @8 Darum spricht der Herr HErr also: Weil ihr das predigt, woraus nichts wird, und Lügen weissagt, so will ich an euch, spricht der Herr HErr.
 @9 Und meine Hand soll kommen über die Propheten, die das predigen, woraus nichts wird, und Lügen weissagen. Sie sollen in der Versammlung meines Volks nicht sein und in die Zahl des Hauses Israel nicht geschrieben werden noch ins Land Israels kommen; und ihr sollt erfahren, dass ich der Herr HErr bin.
-
 @10 Darum dass sie mein Volk verführen und sagen: „Friede!“, so doch kein Friede ist. Das Volk baut die Wand, so tünchen sie dieselbe mit losem Kalk.
 @11 Sprich zu den Tünchern, die mit losem Kalk tünchen, dass es abfallen wird; denn es wird ein Platzregen kommen und werden große Hagel fallen und ein Windwirbel wird es zerreißen.
 @12 Siehe, so wird die Wand einfallen. Was gilt's? dann wird man zu euch sagen: Wo ist nun das Getünchte, das ihr getüncht habt?
-
 @13 So spricht der Herr HErr: Ich will einen Windwirbel reißen lassen in meinem Grimm und einen Platzregen in meinem Zorn und große Hagelsteine im Grimm, die sollen alles umstoßen.
 @14 Also will ich die Wand umwerfen; die ihr mit losem Kalk getüncht habt, und will sie zu Boden stoßen, dass man ihren Grund sehen soll; so fällt sie, und ihr sollt darin auch umkommen und erfahren, dass ich der HErr sei.
 @15 Also will ich meinen Grimm vollenden an der Wand und an denen, die sie mit losem Kalk tünchen, und will zu euch sagen: Hier ist weder Wand noch Tüncher.
 @16 Das sind die Propheten Israels, die Jerusalem weissagen und predigen von Frieden, so doch kein Friede ist, spricht der Herr HErr.
-
-## Contra los falsos profetas y adivinos
 @17 Und du, Menschenkind, richte dein Angesicht wider die Töchter in deinem Volk, welche weissagen aus ihrem Herzen, und weissage wider sie
 @18 und sprich: So spricht der Herr HErr: Wehe euch, die ihr Kissen macht den Leuten unter die Arme und Pfühle zu den Häuptern, beiden, Jungen und Alten, die Seelen zu fangen. Wenn ihr nun die Seelen gefangen habt unter meinem Volk, verheißt ihr ihnen das Leben
 @19 und entheiligt mich in meinem Volk um eine Handvoll Gerste und einen Bissen Brot, damit dass ihr die Seelen zum Tode verurteilt, die doch nicht sollten sterben, und urteilt die zum Leben, die doch nicht leben sollten, durch eure Lügen unter meinem Volk, welches gerne Lügen hört.
-
 @20 Darum spricht der Herr HErr: Siehe, ich will an eure Kissen, womit ihr Seelen fanget und vertröstet, und will sie von euren Armen wegreißen und die Seelen, die ihr fanget und vertröstet, losmachen.
 @21 Und ich will eure Pfühle zerreißen und mein Volk aus eurer Hand erretten, dass ihr sie nicht mehr fangen sollt; und ihr sollt erfahren, dass ich der HErr sei.
 @22 Darum dass ihr das Herz der Gerechten fälschlich betrübet, die ich nicht betrübt habe, und habt gestärkt die Hände der Gottlosen, dass sie sich von ihrem bösen Wesen nicht bekehren, damit sie lebendig möchten bleiben:
 @23 darum sollt ihr nicht mehr unnütze Lehre predigen noch weissagen; sondern ich will mein Volk aus euren Händen erretten, und ihr sollt erfahren, dass ich der HErr bin.
 
 # 14
-## Exclusión de los idólatras de los medios de gracia para cuestionar a Dios
 @1 Und es kamen etliche von den Ältesten Israels zu mir und setzten sich vor mir.
 @2 Da geschah des HErrn Wort zu mir und sprach:
 @3 Menschenkind, diese Leute hangen mit ihrem Herzen an ihren Götzen und halten an dem Anstoß zu ihrer Missetat; sollte ich denn ihnen antworten, wenn sie mich fragen?
-
-## El juicio de Dios sobre todo idólatra que consulta a un profeta
 @4 Darum rede mit ihnen und sage zu ihnen: So spricht der Herr HErr: Welcher Mensch vom Hause Israel mit dem Herzen an seinen Götzen hängt und hält an dem Anstoß zu seiner Missetat und kommt zum Propheten, dem will ich, der HErr, antworten, wie er verdient hat mit seiner großen Abgötterei,
 @5 auf dass ich das Haus Israel fasse an ihrem Herzen, darum dass sie alle von mir gewichen sind durch Abgötterei.
-
 @6 Darum sollst du zum Hause Israel sagen: So spricht der Herr HErr: Kehret und wendet euch von eurer Abgötterei und wendet euer Angesicht von allen euren Gräueln.
-
 @7 Denn welcher Mensch vom Hause Israel oder welcher Fremdling, der in Israel wohnt, von mir weicht und mit seinem Herzen an seinen Götzen hängt und an dem Ärgernis seiner Abgötterei hält und zum Propheten kommt, dass er durch ihn mich frage: dem will ich, der HErr, selbst antworten;
 @8 und will mein Angesicht wider ihn setzen, dass er soll wüst und zum Zeichen und Sprichwort werden, und will ihn aus meinem Volk ausrotten, dass ihr erfahren sollt, ich sei der HErr.
-
 @9 Wo aber ein Prophet sich betören lässt, etwas zu reden, den habe ich, der HErr, betört, und will meine Hand über ihn ausstrecken und ihn aus meinem Volk Israel ausrotten.
 @10 Also sollen sie beide ihre Missetat tragen; wie die Missetat des Fragers, also soll auch sein die Missetat des Propheten,
 @11 auf dass das Haus Israel nicht mehr irregehe von mir und sich nicht mehr verunreinige in aller seiner Übertretung; sondern sie sollen mein Volk sein, und ich will ihr Gott sein, spricht der Herr HErr.
-
-## Por qué Dios deja parte de la población impía en el juicio irrevocable de Jerusalén
 @12 Und des HErrn Wort geschah zu mir und sprach:
 @13 Du Menschenkind, wenn ein Land an mir sündigt und dazu mich verschmäht, so will ich meine Hand über dasselbe ausstrecken und den Vorrat des Brots wegnehmen und will Teuerung hineinschicken, dass ich Menschen und Vieh darin ausrotte.
 @14 Und wenn dann gleich die drei Männer Noah, Daniel und Hiob darin wären, so würden sie allein ihre eigene Seele erretten durch ihre Gerechtigkeit, spricht der Herr HErr.
-
 @15 Und wenn ich böse Tiere in das Land bringen würde, die die Leute aufräumten und es verwüsteten, dass niemand darin wandeln könnte vor den Tieren,
 @16 und diese drei Männer wären auch darin: so wahr ich lebe, spricht der Herr HErr, sie würden weder Söhne noch Töchter erretten, sondern allein sich selbst, und das Land müsste öde werden.
-
 @17 Oder wenn ich das Schwert kommen ließe über das Land und spräche: Schwert, fahre durch das Land! und würde also Menschen und Vieh ausrotten,
 @18 und die drei Männer wären darin: so wahr ich lebe, spricht der Herr HErr, sie würden weder Söhne noch Töchter erretten, sondern sie allein würden errettet sein.
-
 @19 Oder wenn ich Pestilenz in das Land schicken und meinen Grimm über dasselbe ausschütten würde mit Blutvergießen, also dass ich Menschen und Vieh ausrottete,
 @20 und Noah, Daniel und Hiob wären darin: so wahr ich lebe, spricht der Herr HErr, würden sie weder Söhne noch Töchter, sondern allein ihre eigene Seele durch ihre Gerechtigkeit erretten.
-
 @21 Denn so spricht der Herr HErr: So ich meine vier bösen Strafen, als Schwert, Hunger, böse Tiere und Pestilenz, über Jerusalem schicken werde, dass ich darin ausrotte Menschen und Vieh,
 @22 siehe, so sollen etliche Übrige darin davonkommen, die herausgebracht werden, Söhne und Töchter, und zu euch herkommen, dass ihr sehen werdet ihr Wesen und Tun und euch trösten über dem Unglück, das ich über Jerusalem habe kommen lassen samt allem anderen, das ich über sie habe kommen lassen.
 @23 Sie werden euer Trost sein, wenn ihr sehen werdet ihr Wesen und Tun; und ihr werdet erfahren, dass ich nicht ohne Ursache getan habe, was ich darin getan habe, spricht der Herr HErr.
 
 # 15
-## Jerusalén, la madera inútil de la vid
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, was ist das Holz vom Weinstock vor anderem Holz oder eine Rebe vor anderem Holz im Walde?
 @3 Nimmt man es auch und macht etwas daraus? Macht man auch nur einen Nagel daraus, daran man etwas hängen kann?
 @4 Siehe, man wirft's ins Feuer, dass es verzehrt wird, dass das Feuer seine beiden Enden verzehrt und sein Mittles versengt; wozu sollte es nun taugen?
 @5 Siehe, da es noch ganz war, konnte man nichts daraus machen; wie viel weniger kann nun hinfort etwas daraus gemacht werden, so es das Feuer verzehrt und versengt hat!
-
-## Interpretación de la parábola
 @6 Darum spricht der Herr HErr: Gleichwie ich das Holz vom Weinstock vor anderem Holz im Walde dem Feuer zu verzehren gebe, also will ich mit den Einwohnern zu Jerusalem auch umgehen
 @7 und will mein Angesicht wider sie setzen, dass das Feuer sie fressen soll, ob sie schon aus dem Feuer herausgekommen sind. Und ihr sollt's erfahren, dass ich der HErr bin, wenn ich mein Angesicht wider sie setze
 @8 und das Land wüst mache, darum dass sie mich verschmähen, spricht der Herr HErr.
 
 # 16
-## Jerusalén, el hijo adoptivo fallido o la esposa infiel
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, offenbare der Stadt Jerusalem ihre Gräuel und sprich:
 @3 So spricht der Herr HErr zu Jerusalem: Dein Geschlecht und deine Geburt ist aus der Kanaaniter Lande, dein Vater aus den Amoritern und deine Mutter aus den Hethitern.
-
-## Las obras de amor de Dios por Israel desde el principio hasta la introducción en Canaán
 @4 Deine Geburt ist also gewesen: Dein Nabel, da du geboren wurdest, ist nicht verschnitten; so hat man dich auch mit Wasser nicht gebadet, dass du sauber würdest, noch mit Salz gerieben noch in Windeln gewickelt.
 @5 Denn niemand jammerte dein, dass er sich über dich hätte erbarmt und der Stücke eins dir erzeigt, sondern du wurdest aufs Feld geworfen. Also verachtet war deine Seele, da du geboren warst.
-
 @6 Ich aber ging vor dir vorüber und sah dich in deinem Blut liegen und sprach zu dir, da du so in deinem Blut lagst: Du sollst leben! ja, zu dir sprach ich, da du so in deinem Blut lagst: Du sollst leben!
 @7 Und habe dich erzogen und lassen groß werden wie ein Gewächs auf dem Felde; und warst nun gewachsen und groß und schön geworden. Deine Brüste waren gewachsen und hattest schon lange Haare; aber du warst noch nackt und bloß.
-
 @8 Und ich ging vor dir vorüber und sah dich an; und siehe, es war die Zeit, um dich zu werben. Da breitete ich meinen Mantel über dich und bedeckte deine Blöße. Und ich gelobte dir's und begab mich mit dir in einen Bund, spricht der Herr HErr, dass du solltest mein sein.
-
 @9 Und ich badete dich mit Wasser und wusch dich von deinem Blut und salbte dich mit Balsam
 @10 und kleidete dich mit gestickten Kleidern und zog dir Schuhe von feinem Leder an; ich gab dir köstliche leinene Kleider und seidene Schleier
 @11 und zierte dich mit Kleinoden und legte dir Geschmeide an deine Arme und Kettlein an deinen Hals
 @12 und gab dir ein Haarband an deine Stirn und Ohrenringe an deine Ohren und eine schöne Krone auf dein Haupt.
 @13 So warst du geziert mit eitel Gold und Silber und gekleidet mit eitel Leinwand, Seide und Gesticktem. Du aßest auch eitel Semmel, Honig und Öl und warst überaus schön und bekamst das Königreich.
 @14 Und dein Ruhm erscholl unter die Heiden deiner Schöne halben, welche ganz vollkommen war durch den Schmuck, den ich an dich gehängt hatte, spricht der Herr HErr.
-
-## La ingratitud de Israel, deudas religiosas y políticas
 @15 Aber du verließest dich auf deine Schöne; und weil du so gerühmt warst, triebst du Hurerei, also dass du dich einem jeglichen, wer vorüberging, gemein machtest und tatest seinen Willen.
 @16 Und nahmst von deinen Kleidern und machtest dir bunte Altäre daraus und triebst deine Hurerei darauf, wie nie geschehen ist noch geschehen wird.
 @17 Du nahmst auch dein schönes Gerät, das ich dir von meinem Gold und Silber gegeben hatte, und machtest dir Mannsbilder daraus und triebst deine Hurerei mit ihnen.
 @18 Und nahmst deine gestickten Kleider und bedecktest sie damit und mein Öl und Räuchwerk legtest du ihnen vor.
 @19 Meine Speise, die ich dir zu essen gab, Semmel, Öl, Honig, legtest du ihnen vor zum süßen Geruch. Ja es kam dahin, spricht der Herr HErr,
-
 @20 dass du nahmst deine Söhne und Töchter, die du mir geboren hattest, und opfertest sie denselben zu fressen. Meinst du denn, dass es ein Geringes sei um deine Hurerei,
 @21 dass du meine Kinder schlachtest und lässest sie denselben verbrennen?
 @22 Und in allen deinen Gräueln und Hurerei hast du nie gedacht an die Zeit deiner Jugend, wie bloß und nackt du warst und in deinem Blut lagst.
-
 @23 Über alle diese deine Bosheit (ach weh, weh dir! spricht der Herr HErr)
 @24 bautest du dir Götzenkapellen und machtest dir Altäre auf allen Gassen;
 @25 und vornan auf allen Straßen bautest du deine Altäre und machtest deine Schöne zu eitel Gräuel; du spreiztest deine Beine gegen alle, die vorübergingen, und triebst große Hurerei.
@@ -501,15 +356,11 @@
 @27 Ich aber streckte meine Hand aus wider dich und brach dir an deiner Nahrung ab und übergab dich in den Willen deiner Feinde, der Töchter der Philister, welche sich schämten vor deinem verruchten Wesen.
 @28 Darnach triebst du Hurerei mit den Kindern Assur und konntest des nicht satt werden; ja, da du mit ihnen Hurerei getrieben hattest und des nicht satt werden konntest,
 @29 machtest du der Hurerei noch mehr bis ins Krämerland Chaldäa; doch konntest du damit auch nicht satt werden.
-
 @30 Wie soll ich dir doch dein Herz beschneiden, spricht der Herr HErr, weil du solche Werke tust einer großen Erzhure,
 @31 damit dass du deine Götzenkapellen bautest vornan auf allen Straßen und deine Altäre machtest auf allen Gassen? Dazu warst du nicht wie eine andere Hure, die man muss mit Geld kaufen.
-
 @32 Du Ehebrecherin, die anstatt ihres Mannes andere zulässt!
 @33 Denn allen anderen Huren gibt man Geld; du aber gibst allen deinen Buhlern Geld zu und schenkst ihnen, dass sie zu dir kommen allenthalben und mit dir Hurerei treiben.
 @34 Und findet sich an dir das Widerspiel vor anderen Weibern mit deiner Hurerei, weil man dir nicht nachläuft, sondern du Geld zugibst, und man dir nicht Geld zugibt; also treibst du das Widerspiel.
-
-## El juicio de Dios sobre la adúltera y el asesino de niños: precisamente los pueblos cuyos dioses sirvió Israel deberían destruirlo
 @35 Darum, du Hure, höre des HErrn Wort!
 @36 So spricht der Herr HErr: Weil du denn so milde Geld zugibst und deine Blöße durch deine Hurerei gegen deine Buhlen aufdeckst und gegen alle Götzen deiner Gräuel und vergießest das Blut deiner Kinder, welche du ihnen opferst:
 @37 darum, siehe, will ich sammeln alle deine Buhlen, welchen du wohl gefielst, samt allen, die du für Freunde hältst, zu deinen Feinden und will sie beide wider dich sammeln allenthalben und will ihnen deine Blöße aufdecken, dass sie deine Blöße ganz sehen sollen.
@@ -518,30 +369,22 @@
 @40 Und sie sollen Haufen Leute über dich bringen, die dich steinigen und mit ihren Schwertern zerhauen
 @41 und deine Häuser mit Feuer verbrennen und dir dein Recht tun vor den Augen vieler Weiber. Also will ich deiner Hurerei ein Ende machen, dass du nicht mehr sollst Geld noch zugeben,
 @42 und will meinen Mut an dir kühlen und meinen Eifer an dir sättigen, dass ich ruhe und nicht mehr zürnen müsse.
-
 @43 Darum dass du nicht gedacht hast an die Zeit deiner Jugend, sondern mich mit diesem allem gereizt, darum will ich auch dir all dein Tun auf den Kopf legen, spricht der Herr HErr, wiewohl ich damit nicht getan habe nach dem Laster in deinen Gräueln.
-
-## La culpa de Jerusalén es mayor que la culpa de Samaria y Sodoma y exige el castigo más severo
 @44 Siehe, alle die, die Sprichwort pflegen zu üben, werden von dir dies Sprichwort sagen: „Die Tochter ist wie die Mutter.“
 @45 Du bist deiner Mutter Tochter, welche Mann und Kinder von sich stößt, und bist eine Schwester deiner Schwestern, die ihre Männer und Kinder von sich stoßen. Eure Mutter ist eine von den Hethitern und euer Vater ein Amoriter.
 @46 Samaria ist dein große Schwester mit ihren Töchtern, die dir zur Linken wohnt; und Sodom ist deine kleine Schwester mit ihren Töchtern, die zu deiner Rechten wohnt;
 @47 wiewohl du dennoch nicht gelebt hast nach ihrem Wesen noch getan nach ihren Gräueln. Es fehlt nicht viel, dass du es ärger gemacht hast denn sie in allem deinem Wesen.
 @48 So wahr ich lebe, spricht der Herr HErr, Sodom, deine Schwester, samt ihren Töchtern hat nicht so getan wie du und deine Töchter.
-
 @49 Siehe, das war deiner Schwester Sodom Missetat: Hoffart und alles vollauf und guter Friede, den sie und ihre Töchter hatten; aber den Armen und Dürftigen halfen sie nicht,
 @50 sondern waren stolz und taten Gräuel vor mir; darum ich sie auch weggetan habe, da ich begann dareinzusehen.
 @51 So hat auch Samaria nicht die Hälfte deiner Sünden getan; sondern du hast deiner Gräuel so viel mehr als sie getan, dass du deine Schwester fromm gemacht hast gegen alle deine Gräuel, die du getan hast.
 @52 So trage auch nun deine Schande, die du deiner Schwester zuerkannt hast. Durch deine Sünden, in welchen du größere Gräuel denn sie getan hast, machst du sie frömmer, denn du bist. So sei nun auch du schamrot und trage deine Schande, dass du deine Schwestern fromm gemacht hast.
-
-## La graciosa aceptación de Jerusalén en comunión con Samaria y Sodoma
 @53 Ich will aber ihr Gefängnis wenden, nämlich das Gefängnis dieser Sodom und ihrer Töchter und das Gefängnis dieser Samaria und ihrer Töchter und das Gefängnis deiner Gefangenen samt ihnen,
 @54 dass du tragen müssest deine Schande und dich schämest alles dessen, was du getan hast ihnen zum Troste.
 @55 Und deine Schwestern, diese Sodom und ihre Töchter, sollen wieder werden, wie sie zuvor gewesen sind, und Samaria und ihre Töchter sollen wieder werden, wie sie zuvor gewesen sind; dazu du auch und deine Töchter sollt wieder werden, wie ihr zuvor gewesen seid.
 @56 Und wirst nicht mehr die Sodom, deine Schwester, rühmen wie zur Zeit deines Hochmuts,
 @57 da deine Bosheit noch nicht aufgedeckt war wie zur Zeit, da dich die Töchter Syriens und die Töchter der Philister allenthalben schändeten und verachteten dich um und um,
 @58 da ihr musstet eure Laster und Gräuel tragen, spricht der HErr.
-
-## Cómoda perspectiva hacia el futuro
 @59 Denn also spricht der Herr HErr: Ich will dir tun, wie du getan hast, dass du den Eid verachtest und brichst den Bund.
 @60 Ich will aber gedenken an meinen Bund, den ich mit dir gemacht habe zur Zeit deiner Jugend, und will mit dir einen ewigen Bund aufrichten.
 @61 Da wirst du an deine Wege gedenken und dich schämen, wenn du deine großen und kleinen Schwestern zu dir nehmen wirst, die ich dir zu Töchtern geben werde, aber nicht aus deinem Bund.
@@ -549,92 +392,66 @@
 @63 auf dass du daran gedenkest und dich schämest und vor Schande nicht mehr deinen Mund auftun dürfest, wenn ich dir alles vergeben werde, was du getan hast, spricht der Herr HErr.
 
 # 17
-## Parábola de la gran águila y la vid infiel y aplicación a Sedequías; Restauración de la realeza davídica
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, lege dem Hause Israel ein Rätsel vor und ein Gleichnis
 @3 und sprich: So spricht der Herr HErr: Ein großer Adler mit großen Flügeln und langen Fittichen und voll Federn, die bunt waren, kam auf den Libanon und nahm den Wipfel von der Zeder
 @4 und brach das oberste Reis ab und führte es ins Krämerland und setzte es in die Kaufmannstadt.
-
 @5 Er nahm auch vom Samen des Landes und pflanzte es in gutes Land, da viel Wasser war, und setzte es lose hin.
 @6 Und es wuchs und ward ein ausgebreiteter Weinstock und niedrigen Stammes; denn seine Reben bogen sich zu ihm, und seine Wurzeln waren unter ihm; und er war also ein Weinstock, der Reben kriegte und Zweige.
-
 @7 Und da war ein anderer großer Adler mit großen Flügeln und vielen Federn; und siehe, der Weinstock hatte verlangen an seinen Wurzeln zu diesem Adler und streckte seine Reben aus gegen ihn, dass er gewässert würde, vom Platz, da er gepflanzt war.
 @8 Und war doch auf einen guten Boden an viel Wasser gepflanzt, da er wohl hätte können Zweige bringen, Früchte tragen und ein herrlicher Weinstock werden.
-
 @9 So sprich nun: Also sagt der Herr HErr: Sollte der geraten? Ja, man wird seine Wurzeln ausrotten und seine Früchte abreißen, und er wird verdorren, dass alle Blätter seines Gewächses verdorren werden; und es wird nicht geschehen durch großen Arm noch viel Volks, dass man ihn von seinen Wurzeln wegführe.
 @10 Siehe, er ist zwar gepflanzt; aber sollte er geraten? Ja, sobald der Ostwind an ihn rühren wird, wird er verdorren auf dem Platz, da er gewachsen ist.
-
-## Aplicación del acertijo (o parábola) al comportamiento infiel del rey Sedequías
 @11 Und des HErrn Wort geschah zu mir und sprach:
 @12 Sprich doch zu dem ungehorsamen Haus: Wisset ihr nicht, was das ist? Und sprich: Siehe, es kam der König zu Babel gen Jerusalem und nahm ihren König und ihre Fürsten und führte sie weg zu sich gen Babel.
 @13 Und nahm einen vom königlichen Geschlecht und machte einen Bund mit ihm und nahm einen Eid von ihm; aber die Gewaltigen im Lande nahm er weg,
 @14 damit das Königreich demütig bliebe und sich nicht erhöbe, auf dass sein Bund gehalten würde und bestünde.
 @15 Aber derselbe fiel von ihm ab und sandte seine Botschaft nach Ägypten, dass man ihm Rosse und viel Volks schicken sollte. Sollte es dem geraten? Sollte er davonkommen, der solches tut? Und sollte der, der den Bund bricht, davonkommen?
-
 @16 So wahr ich lebe, spricht der Herr HErr, an dem Ort des Königs, der ihn zum König gesetzt hat, dessen Eid er verachtet und dessen Bund er gebrochen hat, da soll er sterben, nämlich zu Babel.
 @17 Auch wird ihm Pharao nicht beistehen im Kriege mit großem Heer und vielem Volk, wenn man den Wall aufwerfen wird und die Bollwerke bauen, dass viel Leute umgebracht werden.
 @18 Denn weil er den Eid verachtet und den Bund gebrochen hat, darauf er seine Hand gegeben hat, und solches alles tut, wird er nicht davonkommen.
-
 @19 Darum spricht der Herr HErr also; So wahr als ich lebe, so will ich meinen Eid, den er verachtet hat, und meinen Bund, den er gebrochen hat, auf seinen Kopf bringen.
 @20 Denn ich will mein Netz über ihn werfen, und er muss in meinem Garn gefangen werden; und ich will ihn gen Babel bringen und will daselbst mit ihm rechten über dem, dass er sich also an mir vergriffen hat.
 @21 Und alle seine Flüchtigen, die ihm anhingen, sollen durchs Schwert fallen, und ihre Übrigen sollen in alle Winde zerstreut werden; und ihr sollt's erfahren, dass ich, der HErr, es geredet habe.
-
-## Promesa de un gobernante bendecido de la casa de David
 @22 So spricht der Herr HErr: Ich will auch von dem Wipfel des hohen Zedernbaumes nehmen und oben von seinen Zweigen ein zartes Reis brechen und will's auf einen hohen, erhabenen Berg pflanzen;
 @23 auf den hohen Berg Israels will ich's pflanzen, dass es Zweige gewinne und Früchte bringe und ein herrlicher Zedernbaum werde, also dass allerlei Vögel unter ihm wohnen und allerlei Fliegendes unter dem Schatten seiner Zweige bleiben möge.
 @24 Und sollen alle Feldbäume erfahren, dass ich, der HErr, den hohen Baum erniedrigt und den niedrigen Baum erhöht habe und den grünen Baum ausgedörrt und den dürren Baum grünend gemacht habe. Ich, der HErr, rede es und tue es auch.
 
 # 18
-## Los principios que gobiernan la justicia retributiva de Dios
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Was treibt ihr unter euch im Lande Israel dies Sprichwort und sprecht: „Die Väter haben Herlinge gegessen, aber den Kindern sind die Zähne davon stumpf geworden“?
-
 @3 So wahr als ich lebe, spricht der Herr HErr, solches Sprichwort soll nicht mehr unter euch gehen in Israel.
 @4 Denn siehe, alle Seelen sind mein; des Vaters Seele ist sowohl mein als des Sohnes Seele. Welche Seele sündigt, die soll sterben.
-
-## Dios juzga a todos sobre la base de sus actos personales
 @5 Wenn nun einer fromm ist, der recht und wohl tut,
 @6 der auf den Bergen nicht isset, der seine Augen nicht aufhebt zu den Götzen des Hauses Israel und seines Nächsten Weib nicht befleckt und liegt nicht bei der Frau in ihrer Krankheit,
 @7 der niemand beschädigt, der dem Schuldner sein Pfand wiedergibt, der niemand etwas mit Gewalt nimmt, der dem Hungrigen sein Brot mitteilt und den Nackten kleidet,
 @8 der nicht wuchert, der nicht Zins nimmt, der seine Hand vom Unrechten kehrt, der zwischen den Leuten recht urteilt,
 @9 der nach meinen Rechten wandelt und meine Gebote hält, dass er ernstlich darnach tue: das ist ein frommer Mann, der soll das Leben haben, spricht der Herr HErr.
-
-## El hijo impío de un padre piadoso está a punto de morir
 @10 Wenn er aber einen Sohn zeugt, und derselbe wird ein Mörder, der Blut vergießt oder dieser Stücke eins tut,
 @11 und der anderen Stücke keines tut, sondern auf den Bergen isset und seines Nächsten Weib befleckt,
 @12 die Armen und Elenden beschädigt, mit Gewalt etwas nimmt, das Pfand nicht wiedergibt, seine Augen zu den Götzen aufhebt und einen Gräuel begeht,
 @13 auf Wucher gibt, Zins nimmt: sollte der leben? Er soll nicht leben, sondern weil er solche Gräuel alle getan hat, soll er des Todes sterben; sein Blut soll auf ihm sein.
-
-## El hijo piadoso de un padre impío debe vivir
 @14 Wenn er aber einen Sohn zeugt, der alle solche Sünden sieht, die sein Vater tut, und sich fürchtet und nicht also tut,
 @15 isst nicht auf den Bergen, hebt seine Augen nicht auf zu den Götzen des Hauses Israel, befleckt nicht seines Nächsten Weib,
 @16 beschädigt niemand, behält das Pfand nicht, nimmt nicht mit Gewalt etwas, teilt sein Brot mit dem Hungrigen und kleidet den Nackten,
 @17 der seine Hand vom Unrechten kehrt, keinen Wucher noch Zins nimmt, sondern meine Gebote hält und nach meinen Rechten lebt: der soll nicht sterben um seines Vaters Missetat willen, sondern leben.
 @18 Aber sein Vater, der Gewalt und Unrecht geübt hat und unter seinem Volk getan hat, was nicht taugt, siehe, der soll sterben um seiner Missetat willen.
-
 @19 So sprecht ihr: Warum soll denn ein Sohn nicht tragen seines Vaters Missetat? Darum dass er recht und wohl getan und alle meine Rechte gehalten und getan hat, soll er leben.
 @20 Denn welche Seele sündigt, die soll sterben. Der Sohn soll nicht tragen die Missetat des Vaters, und der Vater soll nicht tragen die Missetat des Sohnes; sondern des Gerechten Gerechtigkeit soll über ihm sein, und des Ungerechten Ungerechtigkeit soll über ihm sein..
-
-## Todos son juzgados por lo que hicieron en última instancia, no por lo que hicieron antes
 @21 Wenn sich aber der Gottlose bekehrt von allen seine Sünden, die er getan hat, und hält alle meine Rechte und tut recht und wohl, so soll er leben und nicht sterben.
 @22 Es soll aller seiner Übertretung, die er begangen hat, nicht gedacht werden; sondern er soll leben um der Gerechtigkeit willen, die er tut.
 @23 Meinest du, dass ich Gefallen habe am Tode des Gottlosen, spricht der HErr, und nicht vielmehr, dass er sich bekehre von seinem Wesen und lebe?
-
 @24 Und wo sich der Gerechte kehrt von seiner Gerechtigkeit und tut Böses und lebt nach allen Gräueln, die ein Gottloser tut, sollte der leben? Ja, aller seiner Gerechtigkeit, die er getan hat, soll nicht gedacht werden; sondern in seiner Übertretung und Sünde, die er getan hat, soll er sterben.
-
 @25 Doch sprecht ihr: Der HErr handelt nicht recht. So höret nun, ihr vom Hause Israel: Ist's nicht also, dass ich recht habe und ihr unrecht habt?
 @26 Denn wenn der Gerechte sich kehrt von seiner Gerechtigkeit und tut Böses, so muss er sterben; er muss aber um seiner Bosheit willen, die er getan hat, sterben.
 @27 Wiederum, wenn sich der Gottlose kehrt von seiner Ungerechtigkeit, die er getan hat, und tut nun recht und wohl, der wird seine Seele lebendig erhalten.
 @28 Denn weil er sieht und bekehrt sich von aller seiner Bosheit, die er getan hat, so soll er leben und nicht sterben.
 @29 Doch sprechen die vom Hause Israel: Der HErr handelt nicht recht. Sollte ich Unrecht haben? Ihr vom Hause Israel habt unrecht.
-
-## Exhortación a los exiliados a convertirse
 @30 Darum will ich euch richten, ihr vom Hause Israel, einen jeglichen nach seinem Wesen, spricht der Herr HErr. Darum so bekehret euch von aller eurer Übertretung, auf dass ihr nicht fallen müsset um der Missetat willen.
 @31 Werfet von euch alle eure Übertretung, damit ihr übertreten habt, und machet euch ein neues Herz und einen neuen Geist. Denn warum willst du sterben, du Haus Israel?
 @32 Denn ich habe keinen Gefallen am Tode des Sterbenden, spricht der Herr HErr. Darum bekehret euch, so werdet ihr leben.
 
 # 19
-## La imagen de la madre león con sus dos cachorros
 @1 Du aber mache eine Wehklage über die Fürsten Israels
 @2 und sprich: Warum liegt deine Mutter, die Löwin, unter den Löwen und erzieht ihre Jungen unter den jungen Löwen?
 @3 Deren eines zog sie auf, und ward ein junger Löwe daraus, der gewöhnte sich, die Leute zu zerreißen und zu fressen.
@@ -644,8 +461,6 @@
 @7 Er verderbte ihre Paläste und verwüstete ihre Städte, dass das Land und was darin ist, vor der Stimme seines Brüllens sich entsetzte.
 @8 Da legten sich die Heiden aus allen Ländern ringsumher und warfen ein Netz über ihn und fingen ihn in ihren Gruben
 @9 und stießen ihn gebunden in einen Käfig und führten ihn zum König zu Babel; und man ließ ihn verwahren, dass seine Stimme nicht mehr gehört würde auf den Bergen Israels.
-
-## La imagen de la vid espléndida y luego destruida
 @10 Deine Mutter war wie ein Weinstock, gleich wie du am Wasser gepflanzt; und seine Frucht und Reben wuchsen von dem großen Wasser,
 @11 dass seine Reben so stark wurden, dass sie zu Herrenzeptern gut waren, und er ward hoch unter den Reben. Und da man sah, dass er so hoch war und viel Reben hatte,
 @12 ward er mit Grimm ausgerissen und zu Boden geworfen; der Ostwind verdorrte seine Frucht, und seine starken Reben wurden zerbrochen, dass sie verdorrten und verbrannt wurden.
@@ -653,55 +468,37 @@
 @14 und ist ein Feuer ausgegangen von seinen starken Reben, das verzehrte seine Frucht, dass in ihm keine starke Rebe mehr ist zu einem Herrenzepter. Das ist ein kläglich und jämmerlich Ding.
 
 # 20
-## Ezequiel presenta ante los ancianos los pecados de sus padres e hijos
 @1 Und es begab sich im siebenten Jahr, am zehnten Tage des fünften Monats, kamen etliche aus den Ältesten Israels, den HErrn zu fragen, und setzten sich vor mir nieder.
-
 @2 Da geschah des HErrn Wort zu mir und sprach:
 @3 Du Menschenkind, sage den Ältesten Israels und sprich zu ihnen: So spricht der Herr HErr: Seid ihr gekommen, mich zu fragen? So wahr ich lebe, ich will von euch ungefragt sein, spricht der Herr HErr.
-
 @4 Aber willst du sie strafen, du Menschenkind, so magst du sie also strafen: zeige ihnen an die Gräuel ihrer Väter
-
-## La idolatría en Egipto
 @5 und sprich zu ihnen: So spricht der Herr HErr: Zu der Zeit, da ich Israel erwählte, erhob ich meine Hand zu dem Samen des Hauses Jakob und gab mich ihnen zu erkennen in Ägyptenland. Ja, ich erhob meine Hand zu ihnen und sprach: Ich bin der HErr, euer Gott.
 @6 Ich erhob aber zur selben Zeit meine Hand, dass ich sie führte aus Ägyptenland in ein Land, das ich ihnen ersehen hatte, das mit Milch und Honig fließt, ein edles Land vor allen Ländern,
 @7 und sprach zu ihnen: Ein jeglicher werfe weg die Gräuel vor seinen Augen, und verunreinigt euch nicht an den Götzen Ägyptens! denn ich bin der HErr, euer Gott.
-
 @8 Sie aber waren mir ungehorsam und wollten nicht gehorchen und warf ihrer keiner weg die Gräuel vor seinen Augen und verließen die Götzen Ägyptens nicht. Da dachte ich meinen Grimm über sie auszuschütten und all meinen Zorn über sie gehen zu lassen noch in Ägyptenland.
 @9 Aber ich ließ es um meines Namens willen, dass er nicht entheiligt würde vor den Heiden, unter denen sie waren und vor denen ich mich ihnen hatte zu erkennen gegeben, dass ich sie aus Ägyptenland führen wollte.
-
-## Desobediencia despues la legislación en la migratorion en el desierto
 @10 Und da ich sie aus Ägyptenland geführt hatte und in die Wüste gebracht,
 @11 gab ich ihnen meine Gebote und lehrte sie meine Rechte, durch welche lebt der Mensch, der sie hält.
 @12 Ich gab ihnen auch meine Sabbate zum Zeichen zwischen mir und ihnen, damit sie lernten, dass ich der HErr sei, der sie heiligt.
-
 @13 Aber das Haus Israel war mir ungehorsam auch in der Wüste und lebten nicht nach meinen Geboten und verachteten meine Rechte, durch welche der Mensch lebt, der sie hält, und entheiligten meine Sabbate sehr. Da gedachte ich meinem Grimm über sie auszuschütten in der Wüste und sie ganz umzubringen.
 @14 Aber ich ließ es um meines Namens willen, auf dass er nicht entheiligt würde vor den Heiden, vor welchen ich sie hatte ausgeführt.
 @15 Und ich hob auch meine Hand auf wider sie in der Wüste, dass ich sie nicht wollte bringen in das Land, das ich ihnen gegeben hatte, das mit Milch und Honig fließt, ein edles Land vor allen Ländern,
 @16 darum dass sie meine Rechte verachtet und nach meinen Geboten nicht gelebt und meine Sabbate entheiligt hatten; denn sie wandelten nach den Götzen ihres Herzens.
 @17 Aber mein Auge verschonte sie, dass ich sie nicht verderbte noch ganz umbrächte in der Wüste.
-
-## Desobediencia de la segunda generacion en el desierto
 @18 Und ich sprach zu ihren Kindern in der Wüste: Ihr sollt nach eurer Väter Geboten nicht leben und ihre Rechte nicht halten und an ihren Götzen euch nicht verunreinigen.
 @19 Denn ich bin der HErr, euer Gott; nach meinen Geboten sollt ihr leben, und meine Rechte sollt ihr halten und darnach tun;
 @20 und meine Sabbate sollt ihr heiligen, dass sie seien ein Zeichen zwischen mir und euch, damit ihr wisset, das ich, der HErr, euer Gott bin.
-
 @21 Aber die Kinder waren mir auch ungehorsam, lebten nach meinen Geboten nicht, hielten auch meine Rechte nicht, dass sie darnach täten, durch welche der Mensch lebt, der sie hält, und entheiligten meine Sabbate. Da gedachte ich, meinen Grimm über sie auszuschütten und allen meinen Zorn über sie gehen zu lassen in der Wüste.
 @22 Ich wandte aber meine Hand und ließ es um meines Namens willen, auf dass er nicht entheiligt würde vor den Heiden, vor welchen ich sie hatte ausgeführt.
 @23 Ich hob auch meine Hand auf wider sie in der Wüste, dass ich sie zerstreute unter die Heiden und zerstäubte in die Länder,
 @24 darum dass sie meine Gebote nicht gehalten und meine Rechte verachtet und meine Sabbate entheiligt hatten und nach den Götzen ihrer Väter sahen.
 @25 Darum übergab ich sie in die Lehre, die nicht gut ist, und in Rechte, darin sie kein Leben konnten haben,
 @26 und ließ sie unrein werden durch ihre Opfer, da sie alle Erstgeburt durchs Feuer gehen ließen, damit ich sie verstörte und sie lernen mussten, dass ich der HErr sei.
-
-## Alto servicio en la tierra de Canaán
 @27 Darum rede, du Menschenkind, mit dem Hause Israel und sprich zu ihnen: So spricht der Herr HErr: Eure Väter haben mich noch weiter gelästert und mir getrotzt.
 @28 Denn da ich sie in das Land gebracht hatte, über welches ich meine Hand aufgehoben hatte, dass ich's ihnen gäbe: wo sie einen hohen Hügel oder dichten Baum ersahen, daselbst opferten sie ihre Opfer und brachten dahin ihre verdrießlichen Gaben und räucherten daselbst ihren süßen Geruch und gossen daselbst ihre Trankopfer.
 @29 Ich aber sprach zu ihnen: Was soll doch die Höhe, dahin ihr geht? Und also heißt sie bis auf diesen Tag „die Höhe“.
-
-## La generacion actual, al igual que los padres, es rechazado por Dios
 @30 Darum sprich zum Hause Israel: So spricht der Herr HErr: Ihr verunreinigt euch in dem Wesen eurer Väter und treibt Abgötterei mit ihren Gräueln
 @31 und verunreinigt euch an euren Götzen, welchen ihr eure Gaben opfert und eure Söhne und Töchter durchs Feuer gehen lasst, bis auf den heutigen Tag; und ich sollte mich von euch, Haus Israel, fragen lassen? So wahr ich lebe, spricht der Herr HErr, ich will von euch ungefragt sein.
-
-## La antigua purificación de los exiliados
 @32 Dazu, was ihr gedenkt: „Wir wollen tun wie die Heiden und wie andere Leute in den Ländern: Holz und Stein anbeten“, das soll euch fehlschlagen.
 @33 So wahr ich lebe, spricht der Herr HErr, ich will über euch herrschen mit starker Hand und ausgestrecktem Arm und mit ausgeschüttetem Grimm
 @34 und will euch aus den Völkern führen und aus den Ländern, dahin ihr verstreut seid, sammeln mit starker Hand, mit ausgestrecktem Arm und mit ausgeschüttetem Grimm,
@@ -709,8 +506,6 @@
 @36 Wie ich mit euren Vätern in der Wüste bei Ägypten gerechtet habe, ebenso will ich auch mit euch rechten, spricht der Herr HErr.
 @37 Ich will euch wohl unter die Rute bringen und euch in die Bande des Bundes zwingen
 @38 und will die Abtrünnigen und die wider mich übertreten, unter euch ausfegen; ja, aus dem Lande, da ihr jetzt wohnt, will ich sie führen und ins Land Israel nicht kommen lassen, dass ihr lernen sollt, ich sei der HErr.
-
-## La agradable adoración de los convertidos en la tierra de Israel
 @39 Darum, ihr vom Hause Israel, so spricht der Herr HErr: Weil ihr denn mir ja nicht wollt gehorchen, so fahret hin und diene ein jeglicher seinen Götzen; aber meinen heiligen Namen lasst hinfort ungeschändet mit euren Opfern und Götzen.
 @40 Denn so spricht der Herr HErr: Auf meinem heiligen Berge, auf dem hohen Berge Israel, daselbst wird mir das ganze Haus Israel, alle die im Lande sind, dienen; daselbst werden sie mir angenehm sein, und daselbst will ich eure Hebopfer und Erstlinge eurer Opfer fordern mit allem, was ihr mir heiligt.
 @41 Ihr werdet mir angenehm sein mit dem süßen Geruch, wenn ich euch aus den Völkern bringen und aus den Ländern sammeln werde, dahin ihr verstreut seid, und werde in euch geheiligt werden vor den Heiden.
@@ -718,7 +513,6 @@
 @43 Daselbst werdet ihr gedenken an euer Wesen und an all euer Tun, darin ihr verunreinigt seid, und werdet Missfallen haben über alle eure Bosheit, die ihr getan habt.
 @44 Und werdet erfahren, dass ich der HErr bin, wenn ich mit euch tue um meines Namens willen und nicht nach eurem bösen Wesen und schädlichen Tun, du Haus Israel, spricht der Herr HErr.
 
-## La parábola del devastador incendio forestal
 # 21
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, richte dein Angesicht gegen den Südwind zu und predige gegen den Mittag und weissage wider den Wald im Felde gegen Mittag.
@@ -840,22 +634,16 @@
 @46 Also spricht der Herr HErr: Führe einen großen Haufen über sie herauf und gib sie zu Raub und Beute,
 @47 dass die Leute sie steinigen und mit ihren Schwertern erstechen und ihre Söhne und Töchter erwürgen und ihre Häuser mit Feuer verbrennen.
 @48 Also will ich der Unzucht im Lande ein Ende machen, dass alle Weiber sich warnen lassen und nicht nach solcher Unzucht tun.
-
 @49 Und man soll eure Unzucht auf euch legen, und ihr sollt eurer Götzen Sünden tragen, auf dass ihr erfahret, dass ich der Herr HErr bin.
 
-## La espada asesina de la venganza de Dios contra Jerusalén y los amonitas
 # 24
 @1 Und es geschah das Wort des HErrn zu mir im neunten Jahr, am zehnten Tage des zehnten Monats, und sprach:
 @2 Du Menschenkind, schreib diesen Tag an, ja, eben diesen Tag; denn der König zu Babel hat sich eben an diesem Tage wider Jerusalem gelagert.
 @3 Und gib dem ungehorsamen Volk ein Gleichnis und sprich zu ihnen: So spricht der Herr HErr: Setze einen Topf zu, setze zu und gieß Wasser hinein;
 @4 tue die Stücke zusammen darein, die hinein sollen, alle besten Stücke, die Lenden und Schultern, und fülle ihn mit den besten Knochenstücken;
 @5 nimm das Beste von der Herde und mache ein Feuer darunter, Knochenstücke zu kochen, und lass es getrost sieden und die Knochenstücke darin wohl kochen.
-
-## Testigo del dolor y ominoso anuncio del profeta
 @6 Darum spricht der Herr HErr: O der mörderischen Stadt, die ein solcher Topf ist, da der Rost daran klebt und nicht abgehen will! Tue ein Stück nach dem anderen heraus; und darfst nicht darum losen, welches zuerst heraus soll.
 @7 Denn ihr Blut ist darin, das sie auf einen bloßen Felsen und nicht auf die Erde verschüttet hat, da man's doch hätte mit Erde können zuscharren.
-
-## La canción de la espada
 @8 Und ich habe auch darum sie lassen das Blut auf einen bloßen Felsen schütten, dass es nicht zugescharrt würde, auf dass der Grimm über sie käme und es gerächt würde.
 @9 Darum spricht der Herr HErr also: O du mörderische Stadt, welche ich will zu einem großen Feuer machen!
 @10 Trage nur viel Holz her, zünde das Feuer an, dass das Fleisch gar werde, und würze es wohl, und die Knochenstücke sollen anbrennen.
@@ -866,23 +654,17 @@
 @15 Und des HErrn Wort geschah zu mir und sprach:
 @16 Du Menschenkind, siehe, ich will dir deiner Augen Lust nehmen durch eine Plage. Aber du sollst nicht klagen noch weinen noch eine Träne lassen.
 @17 Heimlich magst du seufzen, aber keine Totenklage führen; sondern du sollst deinen Schmuck anlegen und deine Schuhe anziehen. Du sollst deinen Mund nicht verhüllen und nicht das Trauerbrot essen.
-
-## El rey Nabucodonosor en la encrucijada
 @18 Und da ich des Morgens früh zum Volke geredet hatte, starb mir am Abend mein Weib. Und ich tat des anderen Morgens, wie mir befohlen war.
 @19 Und das Volk sprach zu mir: Willst du uns denn nicht anzeigen, was uns das bedeutet, was du tust?
 @20 Und ich sprach zu ihnen: Der HErr hat mit mir geredet und gesagt:
 @21 Sage dem Hause Israel, dass der Herr HErr spricht also: Siehe, ich will mein Heiligtum, euren höchsten Trost, die Lust eurer Augen und eures Herzens Wunsch, entheiligen; und eure Söhne und Töchter, die ihr verlassen musstet, werden durchs Schwert fallen.
 @22 Und müsset tun, wie ich getan habe: euren Mund sollt ihr nicht verhüllen und das Trauerbrot nicht essen,
 @23 sondern sollt euren Schmuck auf euer Haupt setzen und eure Schuhe anziehen. Ihr werdet nicht klagen noch weinen, sondern über euren Sünden verschmachten und untereinander seufzen.
-
-## La amenaza de Dios contra el principal culpable, Sedequías, y contra la ciudad; el rey mesiánico
 @24 Und soll also Hesekiel euch ein Wunderzeichen sein, dass ihr tun müsset, wie er getan hat, wenn es nun kommen wird, damit ihr erfahret, dass ich der Herr HErr bin.
-
 @25 Und du, Menschenkind, zu der Zeit, wann ich wegnehmen werde von ihnen ihre Macht und ihren Trost, die Lust ihrer Augen und ihres Herzens Wunsch, ihre Söhne und Töchter,
 @26 ja, zur selben Zeit wird einer, der entronnen ist, zu dir kommen und dir's kundtun.
 @27 Zur selben Zeit wird dein Mund aufgetan werden samt dem, der entronnen ist, dass du reden sollst und nicht mehr schweigen; denn du musst ihr Wunderzeichen sein, dass sie erfahren, ich sei der HErr.
 
-## La espada de la venganza golpea a los amonitas
 # 25
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, richte dein Angesicht gegen die Kinder Ammon und weissage wider sie
@@ -959,16 +741,10 @@
 @31 Sie werden sich kahl scheren über dir und Säcke um sich gürten und von Herzen bitterlich um dich weinen und trauern.
 @32 Es werden auch ihre Kinder über dich wehklagen: Ach! wer ist jemals auf dem Meer so still geworden wie du, Tyrus?
 @33 Da du deinen Handel auf dem Meer triebst, da machtest du viele Länder reich, ja, mit der Menge deiner Ware und deiner Kaufmannschaft machtest du reich die Könige auf Erden.
-
-## La culpa y el castigo de Jerusalén
 @34 Nun aber bist du vom Meer in die rechten, tiefen Wasser gestürzt, dass dein Handel und all dein Volk in dir umgekommen ist.
-
-## Elaboración de los pecados
 @35 Alle die auf den Inseln wohnen, erschrecken über dich, und ihre Könige entsetzen sich und sehen jämmerlich.
-
 @36 Die Kaufleute in den Ländern pfeifen dich an, dass du so plötzlich untergegangen bist und nicht mehr aufkommen kannst.
 
-## El derretimiento de la escoria en el horno de la Jerusalén sitiada
 # 28
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, sage dem Fürsten zu Tyrus: So spricht der Herr HErr: Darum dass sich dein Herz erhebt und spricht: „Ich bin Gott, ich sitze auf dem Thron Gottes mitten im Meer“, so du doch ein Mensch und nicht Gott bist – doch erhebt sich dein Herz, als wäre es eines Gottes Herz:
@@ -992,8 +768,6 @@
 @20 Und des HErrn Wort geschah zu mir und sprach:
 @21 Du Menschenkind, richte dein Angesicht wider Sidon und weissage wider sie
 @22 und sprich: So spricht der Herr HErr: Siehe, ich will an dich, Sidon, und will an dir Ehre einlegen, dass man erfahren soll, dass ich der HErr bin, wenn ich das Recht über sie gehen lasse und an ihr erzeige, dass ich heilig sei.
-
-## La corrupción se extiende a todo el pueblo
 @23 Und ich will Pestilenz und Blutvergießen unter sie schicken auf ihren Gassen, und sie sollen tödlich verwundet drinnen fallen durchs Schwert, welches allenthalben über sie gehen wird; und sollen erfahren, dass ich der HErr bin.
 @24 Und forthin sollen allenthalben um das Haus Israel, da ihre Feinde sind, keine Dornen, die da stechen, noch Stacheln, die da wehe tun, bleiben, dass sie erfahren, dass ich der Herr HErr bin.
 @25 So spricht der Herr HErr: Wenn ich das Haus Israel wieder versammeln werde von den Völkern, dahin sie zerstreut sind, so will ich vor den Heiden an ihnen erzeigen, dass ich heilig bin. Und sie sollen wohnen in ihrem Lande, das ich meinem Knecht Jakob gegeben habe;
@@ -1100,32 +874,24 @@
 @27 und alle anderen Helden, die unter den Unbeschnittenen gefallen und mit ihrer Kriegswehr zur Hölle gefahren sind und ihre Schwerter unter ihre Häupter haben müssen legen und deren Missetat über ihre Gebeine gekommen ist, die doch auch gefürchtete Helden waren in der ganzen Welt; also müssen sie liegen.
 @28 So musst du freilich auch unter den Unbeschnittenen zerschmettert werden und unter denen, die mit dem Schwert erschlagen sind, liegen.
 @29 Da liegt Edom mit seinen Königen und allen seinen Fürsten unter den Unbeschnittenen und mit dem Schwert Erschlagenen samt anderen, die in die Grube gefahren sind, die doch mächtig waren.
-
 @30 Da sind alle Fürsten von Mitternacht und alle Sidonier, die mit den Erschlagenen hinabgefahren sind; und ihre schreckliche Gewalt ist zu Schanden geworden, und müssen liegen unter den Unbeschnittenen und denen, die mit dem Schwert erschlagen sind, und ihre Schande tragen samt denen, die in die Grube gefahren sind.
 @31 Diese wird Pharao sehen und sich trösten über all sein Volk, die unter ihm mit dem Schwert erschlagen sind, und über sein ganzes Heer, spricht der Herr HErr.
 @32 Denn es soll sich auch einmal alle Welt vor mir fürchten, dass Pharao und alle seine Menge liegen unter den Unbeschnittenen und mit dem Schwert Erschlagenen, spricht der Herr HErr.
 
-## Se ilustra la corrupción moral de los reinos hermanos Israel y Judá
 # 33
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 Du Menschenkind, predige den Kindern deines Volkes und sprich zu ihnen: Wenn ich ein Schwert über das Land führen würde, und das Volk im Lande nähme einen Mann unter ihnen und machten ihn zu ihrem Wächter,
 @3 und er sähe das Schwert kommen über das Land und bliese die Drommete und warnte das Volk, –
 @4 wer nun der Drommete Hall hörte und wollte sich nicht warnen lassen, und das Schwert käme und nähme ihn weg: desselben Blut sei auf seinem Kopf;
-
-## Aholah cortejando a los asirios y egipcios
 @5 denn er hat der Drommete Hall gehört und hat sich dennoch nicht warnen lassen; darum sei sein Blut auf ihm. Wer sich aber warnen lässt, der wird sein Leben davonbringen.
 @6 Wo aber der Wächter sähe das Schwert kommen und die Drommete nicht bliese noch sein Volk warnte, und das Schwert käme und nähme etliche weg: dieselben würden wohl um ihrer Sünden willen weggenommen; aber ihr Blut will ich von des Wächters Hand fordern.
 @7 Und nun, du Menschenkind, ich habe dich zu einem Wächter gesetzt über das Haus Israel, wenn du etwas aus meinem Munde hörst, dass du sie von meinetwegen warnen sollst.
 @8 Wenn ich nun zu dem Gottlosen sage: Du Gottloser musst des Todes sterben! und du sagst ihm solches nicht, dass sich der Gottlose warnen lasse vor seinem Wesen, so wird wohl der Gottlose um seines gottlosen Wesens willen sterben; aber sein Blut will ich von deiner Hand fordern.
-
 @9 Warnest du aber den Gottlosen vor seinem Wesen, dass er sich davon bekehre, und er will sich nicht von seinem Wesen bekehren, so wird er um seiner Sünde willen sterben, und du hast deine Seele errettet.
 @10 Darum, du Menschenkind, sage dem Hause Israel: Ihr sprecht also: Unsere Sünden und Missetaten liegen auf uns, dass wir darunter vergehen; wie können wir denn leben?
-
-## El noviazgo de Aholiba con los asirios, caldeos y egipcios
 @11 So sprich zu ihnen: So wahr als ich lebe, spricht der Herr HErr, ich habe keinen Gefallen am Tode des Gottlosen, sondern dass sich der Gottlose bekehre von seinem Wesen und lebe. So bekehret euch doch nun von eurem bösen Wesen. Warum wollt ihr sterben, ihr vom Hause Israel?
 @12 Und du, Menschenkind, sprich zu deinem Volk: Wenn ein Gerechter Böses tut, so wird's ihm nicht helfen, dass er fromm gewesen ist; und wenn ein Gottloser fromm wird, so soll's ihm nicht schaden, dass er gottlos gewesen ist. So kann auch der Gerechte nicht leben, wenn er sündigt.
 @13 Denn wenn ich zu dem Gerechten spreche, er soll leben, und er verlässt sich auf seine Gerechtigkeit und tut Böses, so soll aller seiner Frömmigkeit nicht gedacht werden; sondern er soll sterben in seiner Bosheit, die er tut.
-
 @14 Und wenn ich zum Gottlosen spreche, er soll sterben, und er bekehrt sich von seiner Sünde und tut, was recht und gut ist,
 @15 also dass der Gottlose das Pfand wiedergibt und bezahlt, was er geraubt hat, und nach dem Wort des Lebens wandelt, dass er kein Böses tut: so soll er leben und nicht sterben,
 @16 und aller seiner Sünden, die er getan hat, soll nicht gedacht werden; denn er tut nun, was recht und gut ist; darum soll er leben.
@@ -1134,20 +900,16 @@
 @19 Und wennre sich der Gottlose bekehrt von seinem gottlosen Wesen und tut, was recht und gut ist, so soll er ja billig leben.
 @20 Doch sprecht ihr: Der HErr urteilt nicht recht, obwohl ich doch euch vom Hause Israel einen jeglichen nach seinem Wesen richte.
 @21 Und es begab sich im zwölften Jahr unserer Gefangenschaft, am fünften Tage des zehnten Monats, kam zu mir ein Entronnener von Jerusalem und sprach: Die Stadt ist geschlagen.
-
-## Anuncio del juicio divino que se llevará a cabo sobre Aholibah a través de Babilonia
 @22 Und die Hand des HErrn war über mir des Abends, ehe der Entronnene kam, und tat mir meinen Mund auf, bis er zu mir kam des Morgens; und tat mir meinen Mund auf, also dass ich nicht mehr schweigen musste.
 @23 Und des HErrn Wort geschah zu mir und sprach:
 @24 Du Menschenkind, die Einwohner dieser Wüsten im Lande Israel sprechen also: Abraham war ein einziger Mann und erbte dieses Land; unser aber sind viele, desto billiger gehört das Land uns zu.
 @25 Darum sprich zu ihnen: So spricht der Herr HErr: Ihr habt Blutiges gegessen und eure Augen zu den Götzen aufgehoben und Blut vergossen: und ihr meint, ihr wollt das Land besitzen?
 @26 Ja, ihr fahret immer fort mit Morden und übet Gräuel, und einer schändet dem anderen sein Weib; und ihr meint, ihr wollt das Land besitzen?
 @27 So sprich zu ihnen: So spricht der Herr HErr: So wahr ich lebe, sollen alle, die in den Wüsten wohnen, durchs Schwert fallen; und die auf dem Felde sind, will ich den Tieren zu fressen geben; und die in den Festungen und Höhlen sind, sollen an der Pestilenz sterben.
-
 @28 Denn ich will das Land ganz verwüsten und seiner Hoffart und Macht ein Ende machen, dass das Gebirge Israel so wüst werde, dass niemand da durchgehe.
 @29 Und sie sollen erfahren, dass ich der HErr bin, wenn ich das Land ganz verwüstet habe um aller ihrer Gräuel willen, die sie üben.
 @30 Und du, Menschenkind, dein Volk redet über dich an den Wänden und unter den Haustüren, und einer spricht zum anderen: Kommt doch und lasst uns hören, was der HErr sage!
 @31 Und sie werden zu dir kommen in die Versammlung und vor dir sitzen als mein Volk und werden deine Worte hören, aber nicht darnach tun; sondern sie werden sie gern in ihrem Munde haben, und gleichwohl fortleben nach ihrem Geiz.
-
 @32 Und siehe, du musst ihnen sein wie ein liebliches Liedlein, wie einer, der eine schöne Stimme hat und wohl spielen kann. Also werden sie deine Worte hören und nicht darnach tun.
 @33 Wenn es aber kommt, was kommen soll, siehe, so werden sie erfahren, dass ein Prophet unter ihnen gewesen ist.
 
@@ -1236,10 +998,7 @@
 @32 Solches will ich tun, nicht um euretwillen, spricht der Herr HErr, dass ihr's wisset; sondern ihr werdet euch müssen schämen und schamrot werden, ihr vom Hause Israel, über eurem Wesen.
 @33 So spricht der Herr HErr: Zu der Zeit, wenn ich euch reinigen werde von allen euren Sünden, so will ich die Städte wieder besetzen, und die Wüsten sollen wieder gebaut werden.
 @34 Das verwüstete Land soll wieder gepflügt werden, dafür dass es verheert war; dass es sehen sollen alle, die dadurch gehen,
-
 @35 und sagen: Dieses Land war verheert, und jetzt ist's wie der Garten Eden; und diese Städte waren zerstört, öde und zerrissen, und stehen nun fest gebaut.
-
-## Resumen final de culpa, especialmente atrocidades religiosas, y castigo justo de ambas hermanas
 @36 Und die Heiden, die um euch her übrigbleiben werden, sollen erfahren, dass ich der HErr bin, der da baut, was zerrissen ist, und pflanzt, was verheert war. Ich, der HErr, sage es und tue es auch.
 @37 So spricht der Herr HErr: Auch darin will ich mich vom Hause Israel finden lassen, dass ich es ihnen erzeige: ich will die Menschen bei ihnen mehren wie eine Herde.
 @38 Wie eine heilige Herde, wie eine Herde zu Jerusalem auf ihren Festen, so sollen die verheerten Städte voll Menschenherden werden und sollen erfahren, dass ich der HErr bin.
@@ -1370,21 +1129,15 @@
 @37 Und seine Halle stand auch gegen den äußeren Vorhof und Palmlaubwerk an den Pfeilern zu beiden Seiten und acht Stufen hinauf.
 @38 Und unten an den Pfeilern an jedem Tor war eine Kammer mit einer Tür, darin man das Brandopfer wusch.
 @39 Aber in der Halle des Tors standen auf jeglicher Seite zwei Tische, darauf man die Brandopfer, Sündopfer und Schuldopfer schlachten sollte.
-
 @40 Und herauswärts zur Seite, da man hinaufgeht zum Tor gegen Mitternacht, standen auch zwei Tische und an der anderen Seite unter der Halle des Tors auch zwei Tische.
 @41 Also standen auf jeder Seite des Tors vier Tische; das sind zusammen acht Tische, darauf man schlachtete.
-
 @42 Und noch vier Tische, zum Brandopfer gemacht, die waren aus gehauenen Steinen, je anderthalb Ellen lang und breit und eine Elle hoch, darauf man legte allerlei Geräte, womit man Brandopfer und andere Opfer schlachtete.
 @43 Und es gingen Leisten herum, hineinwärts gebogen, eine quere Hand hoch. Und auf die Tische sollte man das Opferfleisch legen.
 @44 Und außen vor dem inneren Tor waren zwei Kammern im inneren Vorhofe: eine an der Seite neben dem Tor zur Mitternacht, die sah gegen Mittag; die andere zur Seite des Tors gegen Mittag, die sah gegen Mitternacht.
 @45 Und er sprach zu mir: Die Kammer gegen Mittag gehört den Priestern, die im Hause dienen sollen;
-
 @46 aber die Kammer gegen Mitternacht gehört den Priestern, die auf dem Altar dienen. Dies sind die Kinder Zadok, welche allein unter den Kindern Levi vor den HErrn treten sollen, ihm zu dienen.
 @47 Und er maß den Vorhof, nämlich hundert Ellen lang und hundert Ellen breit ins Gevierte; und der Altar stand vorn vor dem Tempel.
-
 @48 Und er führte mich hinein zur Halle des Tempels und maß die Pfeiler der Halle fünf Ellen auf jeder Seite und das Tor vierzehn Ellen, und die Wände zu beiden Seiten an der Tür drei Ellen auf jeder Seite.
-
-## Parábola de la cacerola oxidada e incurable y su destino
 @49 Aber die Halle war zwanzig Ellen lang und elf Ellen weit und hatte Stufen, da man hinaufging; und Säulen standen an den Pfeilern, auf jeder Seite eine.
 
 # 41
@@ -1401,26 +1154,17 @@
 @11 Und es waren zwei Türen an den Gängen nach dem freigelassenen Raum, eine gegen Mitternacht, die andere gegen Mittag; und der freigelassene Raum war fünf Ellen weit ringsumher.
 @12 Und das Gebäude am Hofraum gegen Abend war siebzig Ellen weit, und die Mauer des Gebäudes war fünf Ellen breit allenthalben umher, und es war neunzig Ellen lang.
 @13 Und er maß die Länge des Hauses, die hatte hundert Ellen; und der Hofraum samt dem Gebäude und seinen Mauern war auch hundert Ellen lang.
-
 @14 Und die Weite der vorderen Seite des Hauses samt dem Hofraum gegen Morgen war auch hundert Ellen.
-
-## Anuncio de la muerte repentina de la amada esposa y prohibición de las costumbres de lamento y duelo por ella
 @15 Und er maß die Länge des Gebäudes am Hofraum, welches hinter ihm liegt, mit seinen Umgängen von einer Seite bis zur anderen hundert Ellen, und den inneren Tempel und die Hallen im Vorhofe
 @16 samt den Schwellen, den engen Fenstern und den drei Umgängen ringsumher; und es war Tafelwerk allenthalben herum.
 @17 Er maß auch, wie hoch von der Erde bis zu den Fenstern war und wie breit die Fenster sein sollten; und maß vom Tor bis zum Allerheiligsten auswendig und inwendig herum.
-
-## Ocurrencia de la muerte de la esposa; Mensajes esclarecedores de Ezequiel a la comunidad de exiliados
 @18 Und am ganzen Hause herum waren Cherubim und Palmlaubwerk zwischen die Cherubim gemacht.
-
 @19 Und ein jeder Cherub hatte zwei Angesichter: auf einer Seite wie ein Menschenkopf, auf der anderen Seite wie ein Löwenkopf.
-
 @20 Vom Boden an bis hinauf über die Tür waren die Cherubim und die Palmen geschnitzt, desgleichen an der Wand des Tempels.
 @21 Und die Türpfosten im Tempel waren viereckig, und war alles artig ineinander gefügt.
 @22 Und der hölzerne Altar war drei Ellen hoch und zwei Ellen lang und breit, und seine Ecken und alle seine Seiten waren hölzern. und er sprach zu mir: Das ist der Tisch, der vor dem HErrn stehen soll.
 @23 Und die Türen am Tempel und am Allerheiligsten
 @24 hatten zwei Türflügel, und ein jeder derselben hatte zwei Blätter, die man auf und zu tat.
-
-## Anunciando nuevos eventos maravillosos
 @25 Und waren auch Cherubim und Palmlaubwerk daran wie an den Wänden. Und ein hölzerner Aufgang war außen vor der Halle.
 @26 Und es waren enge Fenster und viel Palmlaubwerk herum an der Halle und an den Wänden.
 
@@ -1476,7 +1220,6 @@
 @27 Und nach denselben Tagen sollen die Priester am achten Tag und hernach für und für auf dem Altar opfern eure Brandopfer und eure Dankopfer, so will ich euch gnädig sein, spricht der Herr HErr.
 
 # 44
-## Discursos de amenaza contra Ammón, Moab, Edom y los filisteos
 @1 Und er führte mich wiederum zu dem äußeren Tor des Heiligtums gegen Morgen; es war aber zugeschlossen.
 @2 Und der HErr sprach zu mir: Dies Tor soll zugeschlossen bleiben und nicht aufgetan werden, und soll niemand dadurchgehen; denn der HErr, der Gott Israels, ist dadurch eingegangen, darum soll es zugeschlossen bleiben.
 @3 Doch den Fürsten ausgenommen; denn der Fürst soll daruntersitzen, das Brot zu essen vor dem HErrn. Durch die Halle des Tors soll er hineingehen und durch dieselbe wieder herausgehen.
@@ -1484,50 +1227,29 @@
 @5 Und der HErr sprach zu mir: Du Menschenkind, merke darauf und siehe und höre fleißig auf alles, was ich dir sagen will von allen Sitten und Gesetzen im Haus des HErrn; und merke, wie man hineingehen soll, und auf alle Ausgänge des Heiligtums.
 @6 Und sage dem ungehorsamen Hause Israel: So spricht der Herr HErr: Ihr macht es zuviel, ihr vom Hause Israel, mit allen euren Gräueln,
 @7 denn ihr führt fremde Leute eines unbeschnittenen Herzens und unbeschnittenen Fleisches in mein Heiligtum, dadurch ihr mein Haus entheiligt, wenn ihr mein Brot, Fettes und Blut opfert, und brecht also meinen Bund mit allen euren Gräueln;
-
 @8 und haltet die Sitten meines Heiligtums nicht, sondern macht euch selbst neue Sitten in meinem Heiligtum.
 @9 Darum spricht der Herr HErr also: Es soll kein Fremder eines unbeschnittenen Herzens und unbeschnittenen Fleisches in mein Heiligtum kommen aus allen Fremdlingen, die unter den Kindern Israel sind;
 @10 sondern die Leviten, die von mir gewichen sind und samt Israel von mir irregegangen nach ihren Götzen, die sollen ihre Sünde tragen,
 @11 und sollen in meinem Heiligtum dienen als Hüter an den Türen des Hauses und als Diener des Hauses; und sollen nur das Brandopfer und andere Opfer, die das Volk herzubringt, schlachten und vor den Leuten stehen, dass sie ihnen dienen.
-
 @12 Darum dass sie ihnen gedient vor ihren Götzen und dem Haus Israel einen Anstoß zur Sünde gegeben haben, darum habe ich meine Hand über sie ausgestreckt, spricht der Herr HErr, dass sie müssen ihre Sünde tragen.
 @13 Und sie sollen nicht zu mir nahen, Priesteramt zu führen, noch kommen zu allen meinen Heiligtümern, zu den hochheiligen Opfern, sondern sollen ihre Schande tragen und ihre Gräuel, die sie geübt haben.
 @14 Darum habe ich sie zu Hütern gemacht an allem Dienst des Hauses und zu allem, was man darin tun soll.
-
 @15 Aber die Priester aus den Leviten, die Kinder Zadok, die die Sitten meines Heiligtums gehalten haben, da die Kinder Israel von mir abfielen, die sollen vor mich treten und mir dienen und vor mir stehen, dass sie mir das Fett und Blut opfern, spricht der Herr HErr.
 @16 Und sie sollen hineingehen in mein Heiligtum und vor meinen Tisch treten, mir zu dienen und meine Sitten zu halten.
 @17 Und wenn sie durch die Tore des inneren Vorhofs gehen wollen, sollen sie leinene Kleider anziehen und nichts Wollenes anhaben, wenn sie in den Toren im inneren Vorhofe und im Hause dienen.
 @18 Und sollen leinenen Schmuck auf ihrem Haupt haben und leinene Beinkleider um ihre Lenden, und sollen sich nicht im Schweiß gürten.
-
-## El hechizo de Dios contra Tiro
 @19 Und wenn sie in den äußeren Vorhof zum Volk herausgehen, sollen sie die Kleider, darin sie gedient haben, ausziehen und dieselben in die Kammern des Heiligtums legen und andere Kleider anziehen und das Volk nicht heiligen in ihren eigenen Kleidern.
-
-## La ciudad será sitiada y destruida por Nabucodonosor
 @20 Ihr Haupt sollen sie nicht kahl scheren, und sollen auch nicht die Haare frei wachsen lassen, sondern sollen die Haare umher verschneiden.
-
-## Descripción del impacto de esta destrucción en el mundo de las naciones
 @21 Und soll auch kein Priester Wein trinken, wenn sie in den inneren Vorhof gehen sollen.
-
-## Dios ha decidido destruir completamente la ciudad
 @22 Und sie sollen keine Witwe noch Verstoßene zur Ehe nehmen, sondern Jungfrauen vom Samen des Hauses Israel oder eines Priesters nachgelassene Witwe.
-
-## Tiro como barco de soberbia esplendor; la gloria de la ciudad, especialmente como el mercado mundial
 @23 Und sie sollen mein Volk lehren, dass sie wissen Unterschied zu halten zwischen Heiligem und Unheiligem und zwischen Reinem und Unreinem.
-
 @24 Und wo eine Sache vor sie kommt, sollen sie stehen und richten und nach meinen Rechten sprechen und sollen meine Gebote und Sitten halten und alle meine Feste halten und meine Sabbate heiligen.
-
 @25 Und sollen zu keinem Toten gehen und sich verunreinigen, nur allein zu Vater und Mutter, Sohn oder Tochter, Bruder oder Schwester, die noch keinen Mann gehabt hat; über denen mögen sie sich verunreinigen.
-
 @26 Und nach seiner Reinigung soll man ihm zählen sieben Tage.
-
 @27 Und wenn er wieder hinein zum Heiligtum geht in den inneren Vorhof, dass er im Heiligtum diene, so soll er sein Sündopfer opfern, spricht der Herr HErr.
-
 @28 Aber das Erbteil, das sie haben sollen, das will ich selbst sein. Darum sollt ihr ihnen kein eigen Land geben in Israel; denn ich bin ihr Erbteil.
-
 @29 Sie sollen ihre Nahrung haben vom Speisopfer, Sündopfer und Schuldopfer, und alles Verbannte in Israel soll ihnen gehören.
-
 @30 Und alle ersten Früchte und alle Hebopfer von allem, davon ihr Hebopfer bringt, sollen den Priestern gehören. Ihr sollt auch den Priestern die Erstlinge eures Teiges geben, damit der Segen in deinem Hause bleibe.
-
 @31 Was aber ein Aas oder zerrissen ist, es sei von Vögeln oder Tieren, das sollen die Priester nicht essen.
 
 # 45
@@ -1551,31 +1273,23 @@
 @18 So spricht der Herr HErr: Am ersten Tage des ersten Monats sollst du nehmen einen jungen Farren, der ohne Fehl sei, und das Heiligtum entsündigen.
 @19 Und der Priester soll von dem Blut des Sündopfers nehmen und die Pfosten am Hause damit besprengen und die vier Ecken des Absatzes am Altar samt den Pfosten am Tor des inneren Vorhofs.
 @20 Also sollst du auch tun am siebenten Tage des Monats wegen derer, die geirrt haben oder verführt worden sind, dass ihr das Haus entsündiget.
-
 @21 Am vierzehnten Tage des ersten Monats sollt ihr das Passah halten und sieben Tage feiern und ungesäuertes Brot essen.
-
 @22 Und am selben Tage soll der Fürst für sich und für alles Volk im Lande einen Farren zum Sündopfer opfern.
-
 @23 Aber die sieben Tage des Festes soll er dem HErrn täglich ein Brandopfer tun: je sieben Farren und sieben Widder, die ohne Fehl seien; und je einen Ziegenbock zum Sündopfer.
 @24 Zum Speisopfer aber soll er je ein Epha zu einem Farren und ein Epha zu einem Widder opfern und je ein Hin Öl zu einem Epha.
 @25 Am fünfzehnten Tage des siebenten Monats soll er sieben Tage nacheinander feiern, gleichwie jene sieben Tage, und es ebenso halten mit Sündopfer, Brandopfer, Speisopfer samt dem Öl.
 
-## El repentino hundimiento del barco; Impresión de este evento en el mundo de las naciones
 # 46
-## El juicio de Dios sobre la arrogancia del príncipe
 @1 So spricht der Herr HErr: Das Tor am inneren Vorhof morgenwärts soll die sechs Werktage zugeschlossen sein; aber am Sabbattage und am Neumonde soll man's auftun.
 @2 Und der Fürst soll von draußen unter die Halle des Tors treten und bei den Pfosten am Tor stehen bleiben. Und die Priester sollen sein Brandopfer und Dankopfer opfern; er aber soll auf der Schwelle des Tors anbeten und darnach wieder hinausgehen; das Tor aber soll offen bleiben bis an den Abend.
 @3 Desgleichen das Volk im Lande soll an der Tür desselben Tors anbeten vor dem HErrn an den Sabbaten und Neumonden.
 @4 Das Brandopfer aber, das der Fürst vor dem HErrn opfern soll am Sabbattage, soll sein sechs Lämmer, die ohne Fehl seien, und ein Widder ohne Fehl;
 @5 und je ein Epha zu einem Widder zum Speisopfer, zu den Lämmern aber, soviel seine Hand gibt, zum Speisopfer, und je ein Hin Öl zu einem Epha.
-
 @6 Am Neumonde aber soll er einen jungen Farren opfern, der ohne Fehl sei, und sechs Lämmer und einen Widder auch ohne Fehl;
 @7 und je ein Epha zum Farren und je ein Epha zum Widder zum Speisopfer, aber zu den Lämmern soviel, als er geben mag, und je ein Hin Öl zu einem Epha.
 @8 Und wenn der Fürst hineingeht, soll er durch die Halle des Tors hineingehen und desselben Weges wieder herausgehen.
 @9 Aber das Volk im Lande, das vor den HErrn kommt auf die hohen Feste und zum Tor gegen Mitternacht hineingeht, anzubeten, das soll durch das Tor gegen Mittag wieder herausgehen; und welche zum Tor gegen Mittag hineingehen, die sollen zum Tor gegen Mitternacht wieder herausgehen; und sollen nicht wieder zu dem Tor hinausgehen, dadurch sie hinein sind gegangen, sondern stracks vor sich hinausgehen.
 @10 Der Fürst aber soll mit ihnen hinein und heraus gehen.
-
-## Lamento por la muerte de este príncipe
 @11 Aber an den Feiertagen und hohen Festen soll man zum Speisopfer je zu einem Farren ein Epha und je zu einem Widder ein Epha opfern und zu den Lämmern, soviel seine Hand gibt, und je ein Hin Öl zu einem Epha.
 @12 Wenn aber der Fürst ein freiwilliges Brandopfer oder Dankopfer dem HErrn tun wollte, so soll man ihm das Tor gegen Morgen auftun, dass er sein Brandopfer und Dankopfer opfere, wie er's sonst am Sabbat pflegt zu opfern; und wenn er wieder herausgeht, soll man das Tor nach ihm zuschließen.
 @13 Und er soll dem HErrn täglich ein Brandopfer tun, nämlich ein jähriges Lamm ohne Fehl; dasselbe soll er alle Morgen opfern.
@@ -1585,54 +1299,35 @@
 @17 Wo er aber seiner Knechte einem von seinem Erbteil etwas schenkt, das sollen sie besitzen bis aufs Freijahr und soll alsdann dem Fürsten wieder heimfallen; denn sein Teil soll allein auf seine Söhne erben.
 @18 Es soll auch der Fürst dem Volk nichts nehmen von seinem Erbteil noch sie aus ihren eigenen Gütern stoßen, sondern soll sein eigenes Gut auf seine Kinder vererben, auf dass meines Volks nicht jemand von seinem Eigentum zerstreut werde.
 @19 Und er führte mich durch den Eingang an der Seite des Tors gegen Mitternacht zu den Kammern des Heiligtums, die den Priestern gehörten; und siehe, daselbst war ein Raum in der Ecke gegen Abend.
-
-## Palabra de Dios contra Sidón
 @20 Und er sprach zu mir: Dies ist der Ort, da die Priester kochen sollen das Schuldopfer und Sündopfer und das Speisopfer backen, dass sie es nicht hinaus in den äußeren Vorhof tragen müssen, das Volk zu heiligen.
 @21 Darnach führte er mich hinaus in den äußeren Vorhof und hieß mich gehen in die vier Ecken des Vorhofs.
 @22 Und siehe, da war in jeglicher der vier Ecken ein anderes Vorhöflein, vierzig Ellen lang und dreißig Ellen breit, alle vier einerlei Maßes.
 @23 Und es ging ein Mäuerlein um ein jegliches der vier; da waren Herde herum gemacht unten an den Mauern.
-
-## Conclusión: propósito de todos estos juicios divinos; Perspectiva de la posterior dispensación de Israel
 @24 Und er sprach zu mir: Dies sind die Küchen, darin die Diener des Hauses kochen sollen, was das Volk opfert.
 
 # 47
-## Caída de Egipto y posterior restauración; Compensación de Nabucodonosor
 @1 Und er führte mich wieder zu der Tür des Tempels. Und siehe, da floss ein Wasser heraus unter der Schwelle des Tempels gegen Morgen; denn die vordere Seite des Tempels war gegen Morgen. Und das Wasser lief an der rechten Seite des Tempels neben dem Altar hin gegen Mittag.
 @2 Und er führte mich hinaus zum Tor gegen Mitternacht und brachte mich auswendig herum zum äußeren Tor gegen Morgen; und siehe, das Wasser sprang heraus von der rechten Seite.
-
-## Anuncio de la destrucción del faraón, el gran cocodrilo
 @3 Und der Mann ging heraus gegen Morgen und hatte die Messschnur in der Hand; und er maß tausend Ellen und führte mich durchs Wasser, dass mir's an die Knöchel ging.
 @4 Und maß abermals tausend Ellen und führte mich durchs Wasser, dass mir's an die Knie ging. Und maß noch tausend Ellen und ließ mich dadurch gehen, dass es mir an die Lenden ging.
 @5 Da maß er noch tausend Ellen, und es ward so tief, dass ich nicht mehr gründen konnte; denn das Wasser war zu hoch, dass man darüber schwimmen musste und es nicht gründen konnte.
-
 @6 Und er sprach zu mir: Du Menschenkind, das hast du ja gesehen. Und er führte mich wieder zurück am Ufer des Bachs.
 @7 Und siehe, da standen sehr viel Bäume am Ufer auf beiden Seiten.
-
-## La devastación de Egipto
 @8 Und er sprach zu mir: Dies Wasser, das da gegen Morgen herausfließt, wird durchs Blachfeld fließen ins Meer; und wenn's dahin ins Meer kommt, da sollen desselben Wasser gesund werden.
 @9 Ja, alles, was darin lebt und webt, dahin diese Ströme kommen, das soll leben; und es soll sehr viel Fische haben; und soll alles gesund werden und leben, wo dieser Strom hin kommt.
-
 @10 Und es werden die Fischer an demselben stehen; von Engedi bis zu En-Eglaim wird man die Fischgarne aufspannen; denn es werden daselbst sehr viel Fische von allerlei Art sein, gleichwie im großen Meer.
 @11 Aber die Teiche und Lachen daneben werden nicht gesund werden, sondern gesalzen bleiben.
 @12 Und an demselben Strom, am Ufer auf beiden Seiten, werden allerlei fruchtbare Bäume wachsen, und ihre Blätter werden nicht verwelken noch ihre Früchte ausgehen; und sie werden alle Monate neue Früchte bringen, denn ihr Wasser fließt aus dem Heiligtum. Ihre Frucht wird zur Speise dienen und ihre Blätter zur Arznei.
-
-## Restauración única de Egipto
 @13 So spricht der Herr HErr: Dies sind die Grenzen, nach denen ihr das Land sollt austeilen den zwölf Stämmen Israels; denn zwei Teile gehören dem Stamm Joseph.
 @14 Und ihr sollt's gleich austeilen, einem wie dem anderen; denn ich habe meine Hand aufgehoben, das Land euren Vätern und euch zum Erbteil zu geben.
 @15 Dies ist nun die Grenze des Landes gegen Mitternacht: von dem großen Meer an des Weges nach Hethlon gen Zedad,
 @16 Hamath, Berotha, Sibraim, das an Damaskus und Hamath grenzt, und Hazar-Thichon, das an Hauran grenzt.
-
-## Egipto designado como salario de reemplazo por el inútil asedio de Tiro por Nabucodonosor
 @17 Das soll die Grenze sein vom Meer an bis gen Hazar-Enon, und Damaskus und Hamath sollen das Ende sein. Das sei die Grenze gegen Mitternacht.
 @18 Aber die Grenze gegen Morgen sollt ihr messen zwischen Hauran und Damaskus und zwischen Gilead und dem Lande Israel, am Jordan hinab bis an das Meer gegen Morgen. Das soll die Grenze gegen Morgen sein.
 @19 Aber die Grenze gegen Mittag ist von Thamar bis ans Haderwasser zu Kades und den Bach hinab bis an das große Meer. Das soll die Grenze gegen Mittag sein.
 @20 Und an der Seite gegen Abend ist das große Meer von der Grenze an bis gegenüber Hamath. Das sei die Grenze gegen Abend.
-
 @21 Also sollt ihr das Land austeilen unter die Stämme Israels.
-
-## Nuevas palabras amenazadoras sobre el juicio divino que es inminente para los egipcios
 @22 Und wenn ihr das Los werft, das Land unter euch zu teilen, so sollt ihr die Fremdlinge, die bei euch wohnen und Kinder unter euch zeugen, halten gleich wie die Einheimischen unter den Kindern Israel;
-
 @23 und sie sollen auch ihren Teil im Lande haben, ein jeglicher unter dem Stamm, dabei er wohnt, spricht der Herr HErr.
 
 # 48
@@ -1644,15 +1339,10 @@
 @6 Neben Ephraim soll Ruben seinen Teil haben, von Morgen bis gen Abend.
 @7 Neben Ruben soll Juda seinen Teil haben, von Morgen bis gen Abend.
 @8 Neben Juda aber sollt ihr einen Teil absondern, von Morgen bis gen Abend, der 25.000 Ruten breit und so lang sei, wie sonst ein Teil ist von Morgen bis gen Abend; darin soll das Heiligtum stehen.
-
 @9 Und davon sollt ihr dem HErrn einen Teil absondern, 25.000 Ruten lang und 10.000 Ruten breit.
-
-## El desastre llega para Egipto a través de Nabucodonosor
 @10 Und dieser heilige Teil soll den Priestern gehören, nämlich 25.000 Ruten lang gegen Mitternacht und gegen Mittag und 10.000 breit gegen Morgen und gegen Abend. Und das Heiligtum des HErrn soll mittendarin stehen.
 @11 Das soll geheiligt sein den Priestern, den Kindern Zadok, welche meine Sitten gehalten haben und sind nicht abgefallen mit den Kindern Israel, wie die Leviten abgefallen sind.
 @12 Und soll also dieser abgesonderte Teil des geheiligten Landes ihr eigen sein als Hochheiliges neben der Leviten Grenze.
-
-## El juicio de las ciudades más importantes de Egipto
 @13 Die Leviten aber sollen neben der Priester Grenze auch 25.000 Ruten in die Länge und 10.000 Ruten in die Breite haben; denn alle Länge soll 25.000 und die Breite 10.000 Ruten haben.
 @14 Und sollen nichts davon verkaufen noch verändern, damit des Landes Erstling nicht wegkomme; denn es ist dem HErrn geheiligt.
 @15 Aber die übrigen 5000 Ruten in die Breite gegen 25.000 Ruten in die Länge, das soll gemeines Land sein zur Stadt, darin zu wohnen, und zu Vorstädten; und die Stadt soll mittendarin stehen.
@@ -1660,37 +1350,19 @@
 @17 Die Vorstadt aber soll haben 250 Ruten gegen Mitternacht und gegen Mittag, desgleichen auch gegen Morgen und gegen Abend 250 Ruten.
 @18 Aber das Übrige an der Länge neben dem Abgesonderten und Geheiligten, nämlich 10.000 Ruten gegen Morgen und 10.000 Ruten gegen Abend, das gehört zum Unterhalt derer, die in der Stadt arbeiten.
 @19 Und die Arbeiter aus allen Stämmen Israels sollen in der Stadt arbeiten.
-
-## El aplastamiento del brazo del faraón
 @20 Also soll die ganze Absonderung 25.000 Ruten ins Gevierte sein; ein Vierteil der geheiligten Absonderung sei zu eigen der Stadt.
 @21 Was aber noch übrig ist auf beiden Seiten neben dem abgesonderten heiligen Teil und neben der Stadt Teil, nämlich 25.000 Ruten gegen Morgen und gegen Abend neben den Teilen der Stämme, das soll alles dem Fürsten gehören. Aber der abgesonderte heilige Teil und das Haus des Heiligtums soll mitteninnen sein.
-
-## Amenaza contra el faraón y contra Egipto
 @22 Was aber neben der Leviten Teil und neben der Stadt Teil zwischen der Grenze Judas und der Grenze Benjamins liegt, das soll dem Fürsten gehören.
 @23 Darnach sollen die anderen Stämme sein: Benjamin soll seinen Teil haben, von Morgen bis gen Abend.
 @24 Aber neben der Grenze Benjamins soll Simeon seinen Teil haben, von Morgen bis gen Abend.
 @25 Neben der Grenze Simeons soll Isaschar seinen Teil haben, von Morgen bis gen Abend.
 @26 Neben der Grenze Isaschars soll Sebulon seinen Teil haben, von Morgen bis gen Abend.
 @27 Neben der Grenze Sebulons soll Gad seinen Teil haben, von Morgen bis gen Abend.
-
-## Altura orgullosa y caída repentina del faraón en comparación con un magnífico cedro
 @28 Aber neben Gad ist die Grenze gegen Mittag von Thamar bis ans Haderwasser zu Kades und den Bach hinab bis an das große Meer.
-
-## La caída repentina del cedro y el propósito de Dios en él
 @29 Das ist das Land, das ihr austeilen sollt zum Erbteil unter die Stämme Israels; und das sollen ihre Erbteile sein, spricht der Herr HErr.
-
-## El efecto y significado de esta caída
 @30 Und so weit soll die Stadt sein: 4500 Ruten gegen Mitternacht.
-
 @31 Und die Tore der Stadt sollen nach den Namen der Stämme Israels genannt werden, drei Toren gegen Mitternacht: das erste Tor Ruben, das zweite Juda, das dritte Levi.
-
-## Lamento por el faraón
 @32 Also auch gegen Morgen 4500 Ruten und auch drei Tore: nämlich das erste Tor Joseph, das zweite Benjamin, das dritte Dan.
-
-## La destrucción de Egipto por el rey de Babilonia
 @33 Gegen Mittag auch also 4500 Ruten und auch drei Tore: das erste Tor Simeon, das zweite Isaschar, das dritte Sebulon.
-
 @34 Also auch gegen Abend 4500 Ruten und drei Tore: ein Tor Gad, das andere Asser, das dritte Naphthali.
-
-## Himnos funerarios para el faraón
 @35 Also sollen es um und um 18.000 Ruten sein. Und alsdann soll die Stadt genannt werden: „Hier ist der HErr“.

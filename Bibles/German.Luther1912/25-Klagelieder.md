@@ -1,5 +1,4 @@
 # 1
-## Lamento la miseria de la ciudad
 @1 Wie liegt die Stadt so wüst, die voll Volks war! Sie ist wie eine Witwe, die Fürstin unter den Heiden; und die eine Königin in den Ländern war, muss nun dienen.
 @2 Sie weint des Nachts, dass ihr die Tränen über die Wangen laufen; es ist niemand unter allen ihren Freunden, der sie tröste; alle ihre Nächsten sind ihr untreu und ihre Feinde geworden.
 @3 Juda ist gefangen in Elend und schwerem Dienst; sie wohnt unter den Heiden und findet keine Ruhe; alle ihre Verfolger halten sie übel.
@@ -11,16 +10,12 @@
 @9 Ihr Unflat klebt an ihrem Saum; sie hätte nicht gemeint, dass es ihr zuletzt so gehen würde. Sie ist ja zu gräulich heruntergestoßen und hat dazu niemand, der sie tröstet. Ach HErr, siehe an mein Elend; denn der Feind prangt sehr!
 @10 Der Feind hat seine Hand an alle ihre Kleinode gelegt; denn sie musste zusehen, dass die Heiden in ihr Heiligtum gingen, von denen du geboten hast, sie sollten nicht in deine Gemeinde kommen.
 @11 All ihr Volk seufzt und geht nach Brot; sie geben ihre Kleinode um Speise, dass sie die Seele laben. Ach HErr, siehe doch und schaue, wie schnöde ich geworden bin!
-
-## Desafortunadamente, la ciudad se llenó de lamentos y confesiones arrepentidas
 @12 Euch sage ich allen, die ihr vorübergehet: Schauet doch und sehet, ob irgendein Schmerz sei wie mein Schmerz, der mich getroffen hat; denn der HErr hat mich voll Jammers gemacht am Tage seines grimmigen Zorns.
 @13 Er hat ein Feuer aus der Höhe in meine Gebeine gesandt und es lassen walten. Er hat meinen Füßen ein Netz gestellt und mich zurückgeprellt; er hat mich zur Wüste gemacht, dass ich täglich trauern muss.
 @14 Meine schweren Sünden sind durch seine Strafe erwacht und in Haufen mir auf den Hals gekommen, dass mir alle meine Kraft vergeht. Der Herr hat mich also zugerichtet, dass ich nicht aufkommen kann.
 @15 Der Herr hat zertreten alle meine Starken, die ich hatte; er hat über mich ein Fest ausrufen lassen, meine junge Mannschaft zu verderben. Der Herr hat der Jungfrau Tochter Juda die Kelter getreten.
 @16 Darum weine ich so, und meine beiden Augen fließen mit Wasser, dass der Tröster, der meine Seele sollte erquicken, fern von mir ist. Meine Kinder sind dahin; denn der Feind hat die Oberhand gekriegt.
 @17 Zion streckt ihre Hände aus, und ist doch niemand, der sie tröste; denn der HErr hat rings um Jakob her seinen Feinden geboten, dass Jerusalem muss zwischen ihnen sein wie ein unrein Weib.
-
-## La oración de Sion a Dios pidiendo ayuda y venganza contra los enemigos
 @18 Der HErr ist gerecht; denn ich bin seinem Munde ungehorsam gewesen. Höret, alle Völker, und schauet meinen Schmerz! meine Jungfrauen und Jünglinge sind ins Gefängnis gegangen.
 @19 Ich rief meine Freunde an, aber sie haben mich betrogen. Meine Priester und Ältesten in der Stadt sind verschmachtet; denn sie gehen nach Brot, damit sie ihre Seele laben.
 @20 Ach HErr, siehe doch, wie bange ist mir, dass mir's im Leibe davon weh tut! Mein Herz wallt mir in meinem Leibe, weil ich so gar ungehorsam gewesen bin. Draußen hat mich das Schwert und im Hause hat mich der Tod zur Witwe gemacht.
@@ -28,7 +23,6 @@
 @22 Lass alle ihre Bosheit vor dich kommen und richte sie zu, wie du mich um aller meiner Missetat willen zugerichtet hast; denn meines Seufzens ist viel, und mein Herz ist betrübt.
 
 # 2
-## Descripción de la calamidad de la cual la tierra y la gente y especialmente Jerusalén se ven afectados por la ira de Dios
 @1 Wie hat der Herr die Tochter Zion mit seinem Zorn überschüttet! Er hat die Herrlichkeit Israels vom Himmel auf die Erde geworfen; er hat nicht gedacht an seinen Fußschemel am Tage seines Zorns.
 @2 Der Herr hat alle Wohnungen Jakobs ohne Barmherzigkeit vertilgt; er hat die Festen der Tochter Juda abgebrochen in seinem Grimm und geschleift; er hat entweiht beide, ihr Königreich und ihre Fürsten.
 @3 Er hat alle Hörner Israels in seinem grimmigen Zorn zerbrochen; er hat seine rechte Hand hinter sich gezogen, da der Feind kam, und hat in Jakob ein Feuer angesteckt, das umher verzehrt.
@@ -39,8 +33,6 @@
 @8 Der HErr hat gedacht zu verderben die Mauer der Tochter Zion; er hat die Richtschnur darübergezogen und seine Hand nicht abgewendet, bis er sie vertilgte; die Zwinger stehen kläglich, und die Mauer liegt jämmerlich.
 @9 Ihre Tore liegen tief in der Erde; er hat die Riegel zerbrochen und zunichte gemacht. Ihr König und ihre Fürsten sind unter den Heiden, wo sie das Gesetz nicht üben können und ihre Propheten kein Gesicht vom HErrn haben.
 @10 Die Ältesten der Tochter Zion liegen auf der Erde und sind still; sie werfen Staub auf ihre Häupter und haben Säcke angezogen; die Jungfrauen von Jerusalem hängen ihr Häupter zur Erde.
-
-## Pensamientos y sentimientos del escritor y el mundo exterior; Dios cumplió su consejo
 @11 Ich habe schier meine Augen ausgeweint, dass mir mein Leib davon wehe tut; meine Leber ist auf die Erde ausgeschüttet über den Jammer der Tochter meines Volks, da die Säuglinge und Unmündigen auf den Gassen in der Stadt verschmachteten,
 @12 da sie so zu ihren Müttern sprachen: Wo ist Brot und Wein? da sie auf den Gassen in der Stadt verschmachteten wie die tödlich Verwundeten und in den Armen ihrer Mütter den Geist aufgaben.
 @13 Ach du Tochter Jerusalem, wem soll ich dich vergleichen, und wofür soll ich dich rechnen? Du Jungfrau Tochter Zion, wem soll ich dich vergleichen, damit ich dich trösten möchte? Denn dein Schaden ist groß wie ein Meer; wer kann dich heilen?
@@ -48,8 +40,6 @@
 @15 Alle, die vorübergehen, klatschen mit den Händen, pfeifen dich an und schütteln den Kopf über die Tochter Jerusalem; Ist das die Stadt, von der man sagt, sie sei die allerschönste, der sich das ganze Land freut?
 @16 Alle deine Feinde sperren ihr Maul auf wider dich, pfeifen dich an, blecken die Zähne und sprechen: He! wir haben sie vertilgt; das ist der Tag, den wir begehrt haben; wir haben's erlangt, wir haben's erlebt.
 @17 Der HErr hat getan, was er vorhatte; er hat sein Wort erfüllt, das er längst zuvor geboten hat; er hat ohne Barmherzigkeit zerstört; er hat den Feind über dich erfreut und deiner Widersacher Horn erhöht.
-
-## Invitación a Sion para clamar a Dios por misericordia; El clamor de Sion pidiendo ayuda y una pregunta terrible a Dios
 @18 Ihr Herz schrie zum Herrn. O du Mauer der Tochter Zion, lass Tag und Nacht Tränen herabfließen wie einen Bach; höre auch nicht auf, und dein Augapfel lasse nicht ab.
 @19 Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser; hebe deine Hände gegen ihn auf um der Seelen willen deiner jungen Kinder, die vor Hunger verschmachten vorn an allen Gassen!
 @20 HErr, schaue und siehe doch, wen du so verderbt hast! Sollen denn die Weiber ihres Leibes Frucht essen, die Kindlein, so man auf Händen trägt? Sollen denn Propheten und Priester in dem Heiligtum des Herrn so erwürgt werden?
@@ -57,7 +47,6 @@
 @22 Du hast meine Feinde umher gerufen wie auf einen Feiertag, dass niemand am Tage des Zorns des HErrn entronnen und übriggeblieben ist. Die ich auf den Händen getragen und erzogen habe, die hat der Feind umgebracht.
 
 # 3
-## Queja desesperada de un solo compañero nacional por los difíciles juicios sufridos; Pide gracia y esperanza por una nueva salvación
 @1 Ich bin ein elender Mann, der die Rute seines Grimmes sehen muss.
 @2 Er hat mich geführt und lassen gehen in die Finsternis und nicht ins Licht.
 @3 Er hat seine Hand gewendet wider mich und handelt gar anders mit mir für und für.
@@ -82,8 +71,6 @@
 @22 Die Güte des HErrn ist's, dass wir nicht gar aus sind; seine Barmherzigkeit hat noch kein Ende,
 @23 sondern sie ist alle Morgen neu, und deine Treue ist groß.
 @24 Der HErr ist mein Teil, spricht meine Seele; darum will ich auf ihn hoffen.
-
-## Referencia a la bondad y misericordia de Dios, al pecado y la destrucción del pueblo y a la participación del escritor en el destino de su pueblo
 @25 Denn der HErr ist freundlich dem, der auf ihn harrt, und der Seele, die nach ihm fragt.
 @26 Es ist ein köstlich Ding, geduldig sein und auf die Hilfe des HErrn hoffen.
 @27 Es ist ein köstlich Ding einem Mann, dass er das Joch in seiner Jugend trage;
@@ -111,8 +98,6 @@
 @49 Meine Augen fließen und können nicht ablassen; denn es ist kein Aufhören da,
 @50 bis der HErr vom Himmel herabschaue und sehe darein.
 @51 Mein Auge frisst mir das Leben weg um die Töchter meiner Stadt.
-
-## Nueva denuncia del infeliz camarada nacional; Pide rescate y venganza del enemigo
 @52 Meine Feinde haben mich gehetzt wie einen Vogel ohne Ursache;
 @53 sie haben mein Leben in einer Grube fast umgebracht und Steine auf mich geworfen;
 @54 sie haben auch mein Haupt mit Wasser überschüttet; da sprach ich: Nun bin ich gar dahin.
@@ -130,7 +115,6 @@
 @66 Verfolge sie mit deinem Grimm und vertilge sie unter dem Himmel des HErrn.
 
 # 4
-## Descripción del terrible destino de toda la población de Jerusalén, especialmente los niños
 @1 Wie ist das Gold so gar verdunkelt und das feine Gold so hässlich geworden und liegen die Steine des Heiligtums vorn auf allen Gassen zerstreut!
 @2 Die edlen Kinder Zions, dem Golde gleich geachtet, wie sind sie nun den irdenen Töpfen gleich, die ein Töpfer macht!
 @3 Auch Schakale reichen die Brüste ihren Jungen und säugen sie; aber die Tochter meines Volks muss unbarmherzig sein wie ein Strauß in der Wüste.
@@ -143,8 +127,6 @@
 @10 Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten in dem Jammer der Tochter meines Volks.
 @11 Der HErr hat seinen Grimm vollbracht; er hat seinen grimmigen Zorn ausgeschüttet; er hat zu Zion ein Feuer angesteckt, das auch ihre Grundfesten verzehrt hat.
 @12 Es hätten's die Könige auf Erden nicht geglaubt noch alle Leute in der Welt, dass der Widersacher und Feind sollte zum Tor Jerusalems einziehen.
-
-## La culpa y el destino de los sacerdotes y profetas; la suerte del rey y sus seguidores; Deseo de venganza contra Edom
 @13 Es ist aber geschehen um der Sünden willen ihrer Propheten und um der Missetaten willen ihrer Priester, die darin der Gerechten Blut vergossen.
 @14 Sie gingen hin und her auf den Gassen wie die Blinden und waren mit Blut besudelt, dass man auch ihre Kleider nicht anrühren konnte;
 @15 man rief sie an: Weicht, ihr Unreinen, weicht, weicht, rührt nichts an! Wenn sie flohen und umherirrten, so sagte man auch unter den Heiden: Sie sollten nicht länger dableiben.
@@ -157,7 +139,6 @@
 @22 Aber deine Missetat hat ein Ende, du Tochter Zion; er wird dich nicht mehr lassen wegführen. Aber deine Missetat, du Tochter Edom, wird er heimsuchen und deine Sünden aufdecken.
 
 # 5
-## Oración de la comunidad oprimida por misericordia y restauración
 @1 Gedenke, HErr, wie es uns geht; schaue und siehe an unsere Schmach!
 @2 Unser Erbe ist den Fremden zuteil geworden und unsere Häuser den Ausländern.
 @3 Wir sind Waisen und haben keinen Vater; unsere Mütter sind wie Witwen.
@@ -176,10 +157,6 @@
 @16 Die Krone unseres Hauptes ist abgefallen. O weh, dass wir so gesündigt haben!
 @17 Darum ist auch unser Herz betrübt, und unsere Augen sind finster geworden
 @18 um des Berges Zion willen, dass er so wüst liegt, dass die Füchse darüberlaufen.
-
-## Pide nueva gracia
-
-@
 @19 Aber du, HErr, der du ewiglich bleibest und dein Thron für und für,
 @20 warum willst du unser so gar vergessen und uns lebenslang so gar verlassen?
 @21 Bringe uns, HErr, wieder zu dir, dass wir wieder heimkommen; erneuere unsere Tage wie vor alters!

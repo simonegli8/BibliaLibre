@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<BibleFramework>
+<BibleFramework Append="true">
   <Book Name="1. Mose" File="01-1. Mose.md">
     <Chapter Number="1">
       <Footnote Verse="1">^[**1:1** Apg 17,24; Offb 4,11; Hebr 11,3; Joh 1,1-3]</Footnote>

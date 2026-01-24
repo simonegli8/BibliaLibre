@@ -1,31 +1,22 @@
 # 1
-## La penitencia introductoria
 @1 Im achten Monat des zweiten Jahres des Königs Darius geschah das Wort des HErrn zu Sacharja, dem Sohn Berechjas, des Sohnes Iddos, dem Propheten, und sprach:
 @2 Der HErr ist zornig gewesen über eure Väter.
 @3 Und sprich zu ihnen: So spricht der HErr Zebaoth: Kehret euch zu mir, spricht der HErr Zebaoth, so will ich mich zu euch kehren, spricht der HErr Zebaoth.
 @4 Seid nicht wie eure Väter, welchen die vorigen Propheten predigten und sprachen: So spricht der HErr Zebaoth: Kehret euch von euren bösen Wegen und von eurem bösen Tun! aber sie gehorchten nicht und achteten nicht auf mich, spricht der HErr.
 @5 Wo sind nun eure Väter? und die Propheten, leben sie auch noch?
 @6 Ist's aber nicht also, dass meine Worte und meine Rechte, die ich durch meine Knechte, die Propheten, gebot, haben eure Väter getroffen, dass sie haben müssen umkehren und sagen: Gleichwie der HErr Zebaoth vorhatte uns zu tun, wie wir gingen und taten, also hat er uns auch getan?
-
-## Los cuatro jinetes en cuatro caballos de diferentes colores ante el Señor; El celo de Dios por Sion
 @7 Am vierundzwanzigsten Tage des elften Monats, welcher ist der Monat Sebat, im zweiten Jahr des Königs Darius, geschah das Wort des HErrn zu Sacharja, dem Sohn Berechjas, des Sohnes Iddos dem Propheten, und sprach:
 @8 Ich sah bei der Nacht, und siehe, ein Mann saß auf einem roten Pferde, und er hielt unter den Myrten in der Aue, und hinter ihm waren rote, braune und weiße Pferde.
 @9 Und ich sprach: Mein Herr, wer sind diese? Und der Engel, der mit mir redete, sprach zu mir: Ich will dir zeigen, wer diese sind.
-
 @10 Und der Mann, der unter den Myrten hielt, antwortete und sprach: Diese sind es, die der HErr ausgesandt hat, die Erde zu durchziehen.
-
 @11 Sie aber antworteten dem Engel des HErrn, der unter den Myrten hielt, und sprachen: Wir haben die Erde durchzogen, und siehe, alle Länder sitzen still.
-
 @12 Da antwortete der Engel des HErrn und sprach: HErr Zebaoth, wie lange willst du denn dich nicht erbarmen über Jerusalem und über die Städte Judas, über welche du zornig bist gewesen diese siebzig Jahre?
-
 @13 Und der HErr antwortete dem Engel, der mit mir redete, freundliche Worte und tröstliche Worte.
 @14 Und der Engel, der mit mir redete, sprach zu mir: Predige und sprich: So spricht der HErr Zebaoth: Ich eifere um Jerusalem und Zion mit großem Eifer
 @15 und bin sehr zornig über die stolzen Heiden; denn ich war nur ein wenig zornig, sie aber halfen zum Verderben.
 @16 Darum so spricht der HErr: Ich will mich wieder zu Jerusalem kehren mit Barmherzigkeit, und mein Haus soll darin gebaut werden, spricht der HErr Zebaoth; dazu soll die Zimmerschnur in Jerusalem gezogen werden.
-
 @17 Und predige weiter und sprich: So spricht der HErr Zebaoth: Es soll meinen Städten wieder wohl gehen, und der HErr wird Zion wieder trösten und wird Jerusalem wieder erwählen.
 
-## Los cuatro cuernos y los cuatro herreros; El juicio de Dios de aniquilación sobre las potencias mundiales hostiles
 # 2
 @1 Und ich hob meine Augen auf und sah, und siehe, da waren vier Hörner.
 @2 Und ich sprach zu dem Engel, der mit mir redete: Wer sind diese? Er sprach zu mir: Es sind die Hörner, die Juda samt Israel und Jerusalem zerstreut haben.
@@ -139,18 +130,11 @@
 @17 und denke keiner Arges in seinem Herzen wider seinen Nächsten, und liebt nicht falsche Eide! denn solches alles hasse ich, spricht der HErr.
 @18 Und es geschah des HErrn Zebaoth Wort zu mir und sprach:
 @19 So spricht der HErr Zebaoth: Die Fasten des vierten, fünften, siebenten und zehnten Monats sollen dem Hause Juda zur Freude und Wonne und zu fröhlichen Jahrfesten werden; allein liebet Wahrheit und Frieden.
-
 @20 So spricht der HErr Zebaoth: Weiter werden noch kommen viele Völker und vieler Städte Bürger;
-
-## El hombre de la línea de medición, Restaurando Jerusalén a una ciudad rica y abierta
 @21 und werden die Bürger einer Stadt gehen zur anderen und sagen: Lasst uns gehen, zu bitten vor dem HErrn und zu suchen den HErrn Zebaoth; wir wollen auch mit euch gehen.
-
 @22 Also werden viele Völker und die Heiden in Haufen kommen, zu suchen den HErrn Zebaoth zu Jerusalem, zu bitten vor dem HErrn.
-
-## Invitación a regresar a casa a todos los camaradas que todavía están en Babilonia
 @23 So spricht der HErr Zebaoth: Zu der Zeit werden zehn Männer aus allerlei Sprachen der Heiden einen jüdischen Mann bei dem Zipfel ergreifen und sagen: Wir wollen mit euch gehen; denn wir hören, dass Gott mit euch ist.
 
-## Tres proclamas de salvación para Judá
 # 9
 @1 Dies ist die Last, davon der HErr redet über das Land Hadrach und die sich niederlässt auf Damaskus (denn der HErr schaut auf die Menschen und auf alle Stämme Israels);
 @2 dazu auch über Hamath, die daran grenzt; über Tyrus und Sidon auch, die sehr weise sind.
@@ -161,18 +145,13 @@
 @7 Und ich will ihr Blut von ihrem Munde tun und ihre Gräuel von ihren Zähnen, dass sie auch sollen unserem Gott übrigbleiben, dass sie werden wie Fürsten in Juda und Ekron wie die Jebusiter.
 @8 Und ich will selbst um mein Haus das Lager sein wider Kriegsvolk, dass es nicht dürfe hin und her ziehen, dass nicht mehr über sie fahre der Treiber; denn ich habe es nun angesehen mit meinen Augen.
 @9 Aber du, Tochter Zion, freue dich sehr, und du, Tochter Jerusalem, jauchze! Siehe, dein König kommt zu dir, ein Gerechter und ein Helfer, arm, und reitet auf einem Esel und auf einem jungen Füllen der Eselin.
-
 @10 Denn ich will die Wagen abtun von Ephraim und die Rosse von Jerusalem, und der Streitbogen soll zerbrochen werden; denn er wird Frieden lehren unter den Heiden; und seine Herrschaft wird sein von einem Meer bis ans andere und vom Strom bis an der Welt Ende.
 @11 Auch lasse ich durchs Blut deines Bundes los deine Gefangenen aus der Grube, darin kein Wasser ist.
 @12 So kehret euch nun zur Festung, ihr, die ihr auf Hoffnung gefangen liegt; denn auch heute verkündige ich, dass ich dir Zwiefältiges vergelten will.
 @13 Denn ich habe mir Juda gespannt zum Bogen und Ephraim gerüstet und will deine Kinder, Zion, erwecken über deine Kinder, Griechenland, und will dich machen zu einem Schwert der Riesen.
 @14 Und der HErr wird über ihnen erscheinen, und seine Pfeile werden ausfahren wie der Blitz; und der Herr HErr wird die Posaune blasen und wird einhertreten wie die Wetter vom Mittag.
-
-## El sacerdocio que recibió el sumo sacerdote Josué y que promete para el futuro
 @15 Der HErr Zebaoth wird sie schützen, dass sie um sich fressen und unter sich treten die Schleudersteine, dass sie trinken und lärmen wie vom Wein und voll werden wie das Becken und wie die Ecken des Altars.
-
 @16 Und der HErr, ihr Gott, wird ihnen zu der Zeit helfen als der Herde seines Volks; denn wie edle Steine werden sie in seinem Lande glänzen.
-
 @17 Denn was haben sie doch Gutes, und was haben sie doch Schönes! Korn macht Jünglinge und Most macht Jungfrauen blühen.
 
 # 10
@@ -187,41 +166,25 @@
 @9 Und ich will sie unter die Völker säen, dass sie mein gedenken in fernen Landen; und sie sollen mit ihren Kindern leben und wiederkommen.
 @10 Denn ich will sie wiederbringen aus Ägyptenland und will sie sammeln aus Assyrien und will sie ins Land Gilead und Libanon bringen, dass man nicht Raum für sie finden wird.
 @11 Und er wird durchs Meer der Angst gehen und die Wellen im Meer schlagen, dass alle Tiefen des Wassers vertrocknen werden. Da soll denn erniedrigt werden die Pracht von Assyrien, und das Zepter in Ägypten soll aufhören.
-
-## El candelero de oro entre los dos olivos
 @12 Ich will sie stärken in dem HErrn, dass sie sollen wandeln in seinem Namen, spricht der HErr.
 
 # 11
 @1 Tue deine Türen auf, Libanon, dass das Feuer deine Zedern verzehre!
 @2 Heulet ihr Tannen! denn die Zedern sind gefallen, und die Herrlichen sind verstört. Heulet, ihr Eichen Basans! denn der feste Wald ist umgehauen.
 @3 Man hört die Hirten heulen, denn ihre Herrlichkeit ist verstört; man hört die jungen Löwen brüllen, denn die Pracht des Jordans ist verstört.
-
 @4 So spricht der HErr, mein Gott: Hüte die Schlachtschafe!
-
-## La interpretación de la visiona
 @5 Denn ihre Herren schlachten sie und halten's für keine Sünde, verkaufen sie und sprechen: Gelobt sei der HErr, ich bin nun reich! und ihre Hirten schonen ihrer nicht.
-
 @6 Darum will ich auch nicht mehr schonen der Einwohner im Lande, spricht der HErr. Und siehe, ich will die Leute lassen einen jeglichen in der Hand des anderen und in der Hand seines Königs, dass sie das Land zerschlagen, und will sie nicht erretten von ihrer Hand.
 @7 Und ich hütete die Schlachtschafe, ja, die elenden unter den Schafen, und nahm zu mir zwei Stäbe: einen hieß ich Huld, den anderen hieß ich Eintracht; und hütete die Schafe.
-
 @8 Und ich vertilgte drei Hirten in einem Monat. Und ich mochte sie nicht mehr; so wollten sie mich auch nicht.
 @9 Und ich sprach: Ich will euch nicht hüten: was da stirbt, das sterbe; was verschmachtet, das verschmachte; und die Übrigen fresse ein jegliches des anderen Fleisch!
 @10 Und ich nahm meinen Stab Huld und zerbrach ihn, dass ich aufhöbe meinen Bund, den ich mit allen Völkern gemacht hatte.
-
 @11 Und er ward aufgehoben des Tages. Und die elenden Schafe, die auf mich achteten, merkten dabei, dass es des HErrn Wort wäre.
-
 @12 Und ich sprach zu ihnen: Gefällt's euch, so bringet her, wieviel ich gelte; wo nicht, so lasst's anstehen. Und sie wogen dar, wieviel ich galt: dreißig Silberlinge.
-
 @13 Und der HErr sprach zu mir: Wirf's hin, dass es dem Töpfer gegeben werde! Ei, eine treffliche Summe, der ich wert geachtet bin von ihnen! Und ich nahm die dreißig Silberlinge und warf sie ins Haus des HErrn, dass es dem Töpfer gegeben würde.
-
 @14 Und ich zerbrach meinen anderen Stab, Eintracht, dass ich aufhöbe die Bruderschaft zwischen Juda und Israel.
-
-## El pergamino volador
 @15 Und der HErr sprach zu mir: Nimm abermals zu dir das Gerät eines törichten Hirten.
-
 @16 Denn siehe, ich werde Hirten im Lande aufwecken, die das Verschmachtete nicht besuchen, das Zerschlagene nicht suchen und das Zerbrochene nicht heilen und das Gesunde nicht versorgen werden; aber das Fleisch der Fetten werden sie fressen und ihre Klauen zerreißen.
-
-## La mujer del gran barril
 @17 O unnütze Hirten, die die Herde verlassen! Das Schwert komme auf ihren Arm und auf ihr rechtes Auge! Ihr Arm müsse verdorren und ihr rechtes Auge dunkel werden!
 
 # 12
@@ -231,23 +194,15 @@
 @4 Zu der Zeit, spricht der HErr, will ich alle Rosse scheu und ihren Reitern bange machen; aber über das Haus Juda will ich meine Augen offen haben und alle Rosse der Völker mit Blindheit plagen.
 @5 Und die Fürsten in Juda werden sagen in ihrem Herzen: Es seien mir nur die Bürger zu Jerusalem getrost in dem HErrn Zebaoth, ihrem Gott.
 @6 Zu der Zeit will ich die Fürsten Judas machen zur Feuerpfanne im Holz und zur Fackel im Stroh, dass sie verzehren zur Rechten und zur Linken alle Völker um und um. Und Jerusalem soll auch fürder bleiben an ihrem Ort zu Jerusalem.
-
 @7 Und der HErr wird zuerst die Hütten Judas erretten, auf dass sich nicht hoch rühme das Haus David noch die Bürger zu Jerusalem wider Juda.
 @8 Zu der Zeit wird der HErr beschirmen die Bürger zu Jerusalem, und es wird geschehen, dass, welcher schwach sein wird unter ihnen zu der Zeit, wird sein wie David; und das Haus David wird sein wie Gott, wie des HErrn Engel vor ihnen.
-
 @9 Und zu der Zeit werde ich gedenken, zu vertilgen alle Heiden, die wider Jerusalem gezogen sind.
 @10 Aber über das Haus David und über die Bürger zu Jerusalem will ich ausgießen den Geist der Gnade und des Gebets; und sie werden mich ansehen, welchen sie zerstochen haben, und werden um ihn klagen, wie man klagt um ein einziges Kind, und werden sich um ihn betrüben, wie man sich betrübt um ein erstes Kind.
-
 @11 Zu der Zeit wird große Klage sein zu Jerusalem, wie die war bei Hadad-Rimmon im Felde Megiddos.
-
-## La salida de los cuatro carros de guerra celestiales
 @12 Und das Land wird klagen, ein jegliches Geschlecht besonders: das Geschlecht des Hauses David besonders und ihre Weiber besonders; das Geschlecht des Hauses Nathan besonders und ihre Weiber besonders;
-
 @13 das Geschlecht des Hauses Levi besonders und ihre Weiber besonders; das Geschlecht Simeis besonders und ihre Weiber besonders;
-
 @14 also alle übrigen Geschlechter, ein jegliches besonders und ihre Weiber auch besonders.
 
-## La fabricación de una corona para Zorobabel
 # 13
 @1 Zu der Zeit wird das Haus David und die Bürger zu Jerusalem einen freien, offenen Born haben wider die Sünde und Unreinigkeit.
 @2 Zu der Zeit, spricht der HErr Zebaoth, will ich der Götzen Namen ausrotten aus dem Lande, dass man ihrer nicht mehr gedenken soll; dazu will ich auch die Propheten und unreinen Geister aus dem Lande treiben;
@@ -274,20 +229,10 @@
 @12 Und das wird die Plage sein, womit der HErr plagen wird alle Völker, die wider Jerusalem gestritten haben; ihr Fleisch wird verwesen, dieweil sie noch auf ihren Füßen stehen, und ihre Augen werden in den Löchern verwesen und ihre Zunge im Munde verwesen.
 @13 Zu der Zeit wird der HErr ein großes Getümmel unter ihnen anrichten, dass einer wird den anderen bei der Hand fassen und seine Hand wider des anderen Hand erheben.
 @14 Denn auch Juda wird wider Jerusalem streiten, und es werden versammelt werden die Güter aller Heiden, die umher sind, Gold, Silber, Kleider über die Maßen viel.
-
 @15 Und da wird dann diese Plage gehen über Rosse, Maultiere, Kamele, Esel und allerlei Tiere, die in demselben Heer sind, gleichwie jene geplagt sind.
-
-## Solicitud de los hombres de Betel sobre los días de ayuno
 @16 Und alle Übrigen unter allen Heiden, die wider Jerusalem zogen, werden jährlich heraufkommen, anzubeten den König, den HErrn Zebaoth, und zu halten das Laubhüttenfest.
-
-## Los días de ayuno son algo externo, sin sentido para Dios
 @17 Welches Geschlecht aber auf Erden nicht heraufkommen wird gen Jerusalem, anzubeten den König, den HErrn Zebaoth, über die wird's nicht regnen.
-
-## A través de los profetas, Dios siempre solo ha exigido justicia y amor a su pueblo
 @18 Und wo das Geschlecht der Ägypter nicht heraufzöge und käme, so wird's über sie auch nicht regnen. Das wird die Plage sein, womit der HErr plagen wird alle Heiden, die nicht heraufkommen, zu halten das Laubhüttenfest.
-
 @19 Denn das wird eine Sünde sein der Ägypter und aller Heiden, die nicht heraufkommen, zu halten das Laubhüttenfest.
 @20 Zu der Zeit wird auf den Schellen der Rosse stehen: Heilig dem HErrn! und werden die Kessel im Hause des HErrn gleich sein wie die Becken vor dem Altar.
-
-## Dios ama a su pueblo y le permitirá alcanzar una gran felicidad, pero siempre defiende sus exigencias morales
 @21 Und es werden alle Kessel in Jerusalem und Juda dem HErrn Zebaoth heilig sein, also dass alle, die da opfern wollen, werden kommen und sie nehmen und darin kochen. Und wird kein Kanaaniter mehr sein im Hause des HErrn Zebaoth zu der Zeit.

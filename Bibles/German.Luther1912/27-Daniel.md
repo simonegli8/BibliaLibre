@@ -1,66 +1,43 @@
 # 1
-## La crianza de Daniel en la corte pagana de Babilonia
 @1 Im dritten Jahr des Reiches Jojakims, des Königs in Juda, kam Nebukadnezar, der König zu Babel, vor Jerusalem und belagerte es.
 @2 Und der HErr übergab ihm Jojakim, den König Judas, und etliche Gefäße aus dem Hause Gottes; die ließ er führen ins Land Sinear in seines Gottes Haus und tat die Gefäße in seines Gottes Schatzkammer.
-
-## Daniel y sus amigos vienen a Babilonia para ser entrenados para el servicio real
 @3 Und der König sprach zu Aspenas, seinem obersten Kämmerer, er sollte aus den Kindern Israel vom königlichen Stamm und Herrenkindern wählen
 @4 Knaben, die nicht gebrechlich wären, sondern schöne, vernünftige, weise, kluge und verständige, die da geschickt wären, zu dienen an des Königs Hofe und zu lernen chaldäische Schrift und Sprache.
 @5 Solchen bestimmte der König, was man ihnen täglich geben sollte von seiner Speise und von dem Wein, den er selbst trank, dass sie also drei Jahre auferzogen würden und darnach vor dem König dienen sollten.
-
 @6 Unter diesen waren Daniel, Hananja, Misael und Asarja von den Kindern Juda.
 @7 Und der oberste Kämmerer gab ihnen Namen und nannte Daniel Beltsazar und Hananja Sadrach und Misael Mesach und Asarja Abed-Nego.
-
-## Daniel obtuvo permiso para comer alimentos que se ajustan a la ley judía
 @8 Aber Daniel setzte sich vor in seinem Herzen, dass er sich mit des Königs Speise und mit dem Wein, den er selbst trank, nicht verunreinigen wollte, und bat den obersten Kämmerer, dass er sich nicht müsste verunreinigen.
 @9 Und Gott gab Daniel, dass ihm der oberste Kämmerer günstig und gnädig ward.
 @10 Derselbe sprach zu ihm: Ich fürchte mich vor meinem Herrn, dem König, der euch eure Speise und Trank bestimmt hat; wenn er würde sehen, dass eure Angesichter jämmerlicher wären denn der anderen Knaben eures Alters, so brächtet ihr mich bei dem König um mein Leben.
-
 @11 Da sprach Daniel zu dem Aufseher, welchem der oberste Kämmerer Daniel, Hananja, Misael und Asarja befohlen hatte:
 @12 Versuche es doch mit deinen Knechten zehn Tage und lass uns geben Gemüse zu essen und Wasser zu trinken.
 @13 Und lass dann vor dir unsere Gestalt und der Knaben, die von des Königs Speise essen, besehen; und darnach du sehen wirst, darnach schaffe mit deinen Knechten.
 @14 Und er gehorchte ihnen darin und versuchte es mit ihnen zehn Tage.
-
 @15 Und nach den zehn Tagen waren sie schöner und besser bei Leibe denn alle Knaben, die von des Königs Speise aßen.
 @16 Da tat der Aufseher ihre verordnete Speise und Trank weg und gab ihnen Gemüse.
-
-## El entrenamiento bendecido por Dios de los cuatro amigos y su aceptación en el servicio real
 @17 Aber diesen vier Knaben gab Gott Kunst und Verstand in allerlei Schrift und Weisheit; Daniel aber gab er Verstand in allen Gesichten und Träumen.
-
 @18 Und da die Zeit um war, die der König bestimmt hatte, dass sie sollten hineingebracht werden, brachte sie der oberste Kämmerer hinein vor Nebukadnezar.
 @19 Und der König redete mit ihnen, und ward unter allen niemand gefunden, der Daniel, Hananja, Misael und Asarja gleich wäre; und sie wurden des Königs Diener.
 @20 Und der König fand sie in allen Sachen, die er sie fragte, zehnmal klüger und verständiger denn alle Sternseher und Weisen in seinem ganzen Reich.
-
 @21 Und Daniel erlebte das erste Jahr des König Kores.
 
 # 2
-## El sueño de Nabucodonosor interpretado por Daniel
 @1 Im zweiten Jahr des Reiches Nebukadnezars hatte Nebukadnezar einen Traum, davon er erschrak, dass er aufwachte.
 @2 Und er hieß alle Sternseher und Weisen und Zauberer und Chaldäer zusammenfordern, dass sie dem König seinen Traum sagen sollten. Und sie kamen und traten vor den König.
 @3 Und der König sprach zu ihnen: Ich habe einen Traum gehabt, der hat mich erschreckt; und ich wollte gern wissen, was es für ein Traum gewesen sei.
-
 @4 Da sprachen die Chaldäer zum König auf chaldäisch: Der König lebe ewiglich! Sage deinen Knechten den Traum, so wollen wir ihn deuten.
-
 @5 Der König antwortete und sprach zu den Chaldäern: Es ist mir entfallen. Werdet ihr mir den Traum nicht anzeigen und ihn deuten, so sollt ihr in Stücke zerhauen und eure Häuser schändlich verstört werden.
 @6 Werdet ihr mir aber den Traum anzeigen und deuten, so sollt ihr Geschenke, Gaben und große Ehre von mir haben. Darum so sagt mir den Traum und seine Deutung.
-
 @7 Sie antworteten wiederum und sprachen: Der König sage seinen Knechten den Traum, so wollen wir ihn deuten.
-
 @8 Der König antwortete und sprach: Wahrlich, ich merke es, dass ihr Frist sucht, weil ihr seht, dass mir's entfallen ist.
 @9 Aber werdet ihr mir nicht den Traum sagen, so geht das Recht über euch, als die ihr Lügen und Gedichte vor mir zu reden euch vorgenommen habt, bis die Zeit vorübergehe. Darum so sagt mir den Traum, so kann ich merken, dass ihr auch die Deutung trefft.
-
 @10 Da antworteten die Chaldäer vor dem König und sprachen zu ihm: Es ist kein Mensch auf Erden, der sagen könne, was der König fordert. So ist auch kein König, wie groß oder mächtig er sei, der solches von irgendeinem Sternseher, Weisen oder Chaldäer fordere.
 @11 Denn was der König fordert, ist zu hoch, und ist auch sonst niemand, der es vor dem König sagen könne, ausgenommen die Götter, die bei den Menschen nicht wohnen.
-
-## El rey ordena la ejecución de todos los adivinos; Daniel procura el aplazamiento de la ejecución mediante su promesa
 @12 Da ward der König sehr zornig und befahl, alle Weisen zu Babel umzubringen.
 @13 Und das Urteil ging aus, dass man die Weisen töten sollte; und Daniel samt seinen Gesellen ward auch gesucht, dass man sie tötete.
-
 @14 Da erwiderte Daniel klug und verständig dem Arioch, dem obersten Richter des Königs, welcher auszog, zu töten die Weisen zu Babel.
 @15 Und er fing an und sprach zu des Königs Vogt, Arioch: Warum ist ein so strenges Urteil vom König ausgegangan? Und Arioch zeigte es dem Daniel an.
 @16 Da ging Daniel hinein und bat den König, dass er ihm Frist gäbe, damit er die Deutung dem König sagen möchte.
-
-## Daniel recibe la revelación del misterio de Dios a través de un sueño; su acción de gracias y oración
 @17 Und Daniel ging heim und zeigte solches an seinen Gesellen, Hananja, Misael und Asarja,
 @18 dass sie den Gott des Himmels um Gnade bäten solches verborgenen Dinges halben, damit Daniel und seine Gesellen nicht samt den anderen Weisen zu Babel umkämen.
 @19 Da ward Daniel solch verborgenes Ding durch ein Gesicht des Nachts offenbart.
@@ -68,152 +45,102 @@
 @21 Er ändert Zeit und Stunde; er setzt Könige ab und setzt Könige ein; er gibt den Weisen ihre Weisheit und den Verständigen ihren Verstand;
 @22 er offenbart, was tief und verborgen ist; er weiß, was in der Finsternis liegt, denn bei ihm ist eitel Licht.
 @23 Ich danke dir und lobe dich, Gott meiner Väter, dass du mir Weisheit und Stärke verleihest und jetzt offenbart hast, darum wir dich gebeten haben; denn du hast uns des Königs Sache offenbart.
-
-## Daniel le dice al rey el contenido del sueño
 @24 Da ging Daniel hinein zu Arioch, der vom König Befehl hatte, die Weisen zu Babel umzubringen, und sprach zu ihm also: Du sollst die Weisen zu Babel nicht umbringen, sondern führe mich hinein zum König, ich will dem König die Deutung sagen.
-
 @25 Arioch brachte Daniel eilends hinein vor den König und sprach zu ihm also: Es ist einer gefunden unter den Gefangenen aus Juda, der dem König die Deutung sagen kann.
-
 @26 Der König antwortete und sprach zu Daniel, den sie Beltsazar hießen: Bist du, der mir den Traum, den ich gesehen habe, und seine Deutung anzeigen kann?
-
 @27 Daniel fing an vor dem König und sprach: Das verborgene Ding, das der König fordert von den Weisen, Gelehrten, Sternsehern und Wahrsagern, steht in ihrem Vermögen nicht, dem König zu sagen.
 @28 Aber es ist ein Gott im Himmel, der kann verborgene Dinge offenbaren; der hat dem König Nebukadnezar angezeigt, was in künftigen Zeiten geschehen soll.
-
 @29 Mit deinem Traum und deinem Gesichten, da du schliefest, verhielt sich's also: Du, König, dachtest auf deinem Bette, wie es doch hernach gehen würde; und der, der verborgene Dinge offenbart, hat dir angezeigt, wie es gehen werde.
 @30 So ist mir solch verborgenes Ding offenbart, nicht durch meine Weisheit, als wäre sie größer denn aller, die da leben; sondern darum, dass dem König die Deutung angezeigt würde und du deines Herzens Gedanken erführest.
-
 @31 Du, König, sahest, und siehe, ein großes und hohes und sehr glänzendes Bild stand vor dir, das war schrecklich anzusehen.
 @32 Des Bildes Haupt war von feinem Golde, seine Brust und Arme waren von Silber, sein Bauch und seine Lenden waren von Erz,
 @33 seine Schenkel waren Eisen, seine Füße waren eines Teils Eisen und eines Teils Ton.
 @34 Solches sahest du, bis dass ein Stein herabgerissen ward ohne Hände; der schlug das Bild an seine Füße, die Eisen und Ton waren, und zermalmte sie.
 @35 Da wurden miteinander zermalmt das Eisen, Ton, Erz, Silber und Gold und wurden wie Spreu auf der Sommertenne, und der Wind verwehte sie, dass man sie nirgends mehr finden konnte. Der Stein aber, der das Bild schlug, ward ein großer Berg, dass er die ganze Welt füllte.
-
-## La interpretación de Daniel del sueño
 @36 Das ist der Traum. Nun wollen wir die Deutung vor dem König sagen.
 @37 Du, König, bist ein König aller Könige, dem der Gott des Himmels Königreich, Macht, Stärke und Ehre gegeben hat
 @38 und alles, da Leute wohnen, dazu die Tiere auf dem Felde und die Vögel unter dem Himmel in deine Hände gegeben und dir über alles Gewalt verliehen hat. Du bist das goldene Haupt.
-
 @39 Nach dir wird ein anderes Königreich aufkommen, geringer denn deines. Darnach das dritte Königreich, das ehern ist, welches wird über alle Lande herrschen.
 @40 Und das vierte wird hart sein wie Eisen; denn gleichwie Eisen alles zermalmt und zerschlägt, ja, wie Eisen alles zerbricht, also wird es auch diese alle zermalmen und zerbrechen.
 @41 Dass du aber gesehen hast die Füße und Zehen eines Teils Ton und eines Teils Eisen: das wird ein zerteiltes Königreich sein; doch wird von des Eisens Art darin bleiben, wie du es denn gesehen hast Eisen mit Ton vermengt.
 @42 Und dass die Zehen an seinen Füßen eines Teils Eisen und eines Teils Ton sind: wird's zum Teil ein starkes und zum Teil ein schwaches Reich sein.
 @43 Und dass du gesehen hast Eisen mit Ton vermengt: werden sie sich wohl nach Menschengeblüt untereinander mengen, aber sie werden doch nicht aneinander halten, gleichwie sich Eisen mit Ton nicht mengen lässt.
-
 @44 Aber zur Zeit solcher Königreiche wird der Gott des Himmels ein Königreich aufrichten, das nimmermehr zerstört wird; und sein Königreich wird auf kein anderes Volk kommen. Es wird alle diese Königreiche zermalmen und verstören; aber es selbst wird ewiglich bleiben;
 @45 wie du denn gesehen hast einen Stein, ohne Hände vom Berge herabgerissen, der das Eisen, Erz, Ton, Silber und Gold zermalmte. Also hat der große Gott dem König gezeigt, wie es hernach gehen werde; und der Traum ist gewiss, und die Deutung ist recht.
-
-## El reconocimiento de Nabucodonosor de la grandeza del Dios de los judíos; Donación y homenaje a Daniel
 @46 Da fiel der König Nebukadnezar auf sein Angesicht und betete an vor dem Daniel und befahl, man sollte ihm Speisopfer und Räuchopfer tun.
 @47 Und der König antwortete Daniel und sprach: Es ist kein Zweifel, euer Gott ist ein Gott über alle Götter und ein HErr über alle Könige, der da kann verborgene Dinge offenbaren, weil du dies verborgene Ding hast können offenbaren.
-
 @48 Und der König erhöhte Daniel und gab ihm große und viele Geschenke und machte ihn zum Fürsten über die ganze Landschaft Babel und setzte ihn zum Obersten über alle Weisen zu Babel.
 @49 Und Daniel bat vom König, dass er über die Ämter der Landschaft Babel setzen möchte Sadrach, Mesach und Abed-Nego; und er, Daniel, blieb bei dem König am Hofe.
 
 # 3
-## Nabucodonosor hace levantar un ídolo y ordena su adoración sobre el castigo de muerte por fuego
 @1 Der König Nebukadnezar ließ ein goldenes Bild machen, sechzig Ellen hoch und sechs Ellen breit, und ließ es setzen ins Tal Dura in der Landschaft Babel.
 @2 Und der König Nebukadnezar sandte nach den Fürsten, Herren, Landpflegern, Richtern, Vögten, Räten, Amtleuten und allen Gewaltigen im Lande, dass sie zusammenkommen sollten, das Bild zu weihen, das der König Nebukadnezar hatte setzen lassen.
 @3 Da kamen zusammen die Fürsten, Herren, Landpfleger, Richter, Vögte, Räte, Amtleute und alle Gewaltigen im Lande, das Bild zu weihen, das der König Nebukadnezar hatte setzen lassen. Und sie mussten dem Bilde gegenübertreten, das Nebukadnezar hatte setzen lassen.
-
 @4 Und der Herold rief überlaut: Das lasst euch gesagt sein, ihr Völker, Leute und Zungen!
 @5 Wenn ihr hören werdet den Schall der Posaunen, Drommeten, Harfen, Geigen, Psalter, Lauten und allerlei Saitenspiel, so sollt ihr niederfallen und das goldene Bild anbeten, das der König Nebukadnezar hat setzen lassen.
 @6 Wer aber alsdann nicht niederfällt und anbetet, der soll von Stund an in den glühenden Ofen geworfen werden.
-
 @7 Da sie nun hörten den Schall der Posaunen, Drommeten, Harfen, Geigen, Psalter und allerlei Saitenspiel, fielen nieder alle Völker, Leute und Zungen und beteten an das goldene Bild, das der König Nebukadnezar hatte setzen lassen.
-
-## Los tres amigos de Daniel se niegan a adorar la imagen
 @8 Von Stund an traten hinzu etliche chaldäische Männer und verklagten die Juden,
 @9 fingen an und sprachen zum König Nebukadnezar: Der König lebe ewiglich!
 @10 Du hast ein Gebot lassen ausgehen, dass alle Menschen, wenn sie hören würden den Schall der Posaunen, Drommeten, Harfen, Geigen, Psalter, Lauten und allerlei Saitenspiel, sollten niederfallen und das goldene Bild anbeten;
 @11 wer aber nicht niederfiele und anbetete, sollte in einen glühenden Ofen geworfen werden.
 @12 Nun sind da jüdische Männer, welche du über die Ämter der Landschaft Babel gesetzt hast: Sadrach, Mesach und Abed-Nego; die verachten dein Gebot und ehren deine Götter nicht und beten nicht an das goldene Bild, das du hast setzen lassen.
-
 @13 Da befahl Nebukadnezar mit Grimm und Zorn, dass man vor ihn stellte Sadrach, Mesach und Abed-Nego. Und die Männer wurden vor den König gestellt.
 @14 Da fing Nebukadnezar an und sprach zu ihnen: Wie? wollt ihr Sadrach, Mesach, Abed-Nego, meinen Gott nicht ehren und das goldene Bild nicht anbeten, das ich habe setzen lassen?
 @15 Wohlan, schickt euch! Sobald ihr hören werdet den Schall der Posaunen, Drommeten, Harfen, Geigen, Psalter, Lauten und allerlei Saitenspiel, so fallet nieder und betet das Bild an, das ich habe machen lassen! Werdet ihr's nicht anbeten, so sollt ihr von Stund an in den glühenden Ofen geworfen werden. Lasst sehen, wer der Gott sei, der euch aus meiner Hand erretten werde!
-
 @16 Da fingen an Sadrach, Mesach, Abed-Nego und sprachen zum König Nebukadnezar: Es ist nicht not, dass wir dir darauf antworten.
 @17 Siehe, unser Gott, den wir ehren, kann uns wohl erretten aus dem glühenden Ofen, dazu auch von deiner Hand erretten.
 @18 Und wo er's nicht tun will, so sollst du dennoch wissen, dass wir deine Götter nicht ehren noch das goldene Bild, das du hast setzen lassen, anbeten wollen.
-
-## Arrojados al horno, los tres hombres quedan ilesos
 @19 Da ward Nebukadnezar voll Grimms, und sein Angesicht verstellte sich wider Sadrach, Mesach und Abed-Nego, und er befahl, man sollte den Ofen siebenmal heißer machen, denn man sonst zu tun pflegte.
 @20 Und befahl den besten Kriegsleuten, die in seinem Heer waren, dass sie Sadrach, Mesach und Abed-Nego bänden und in den glühenden Ofen würfen.
 @21 Also wurden diese Männer in ihren Mänteln, Schuhen, Hüten und anderen Kleidern gebunden und in den glühenden Ofen geworfen;
 @22 denn des Königs Gebot musste man eilends tun. Und man schürte das Feuer im Ofen so sehr, dass die Männer, die den Sadrach, Mesach und Abed-Nego hinaufbrachten, verdarben von des Feuers Flammen.
 @23 Aber die drei Männer, Sadrach, Mesach und Abed-Nego fielen hinab in den glühenden Ofen, wie sie gebunden waren.
-
 @24 Da entsetzte sich der König Nebukadnezar und fuhr auf und sprach zu seinen Räten: Haben wir nicht drei Männer gebunden in das Feuer lassen werfen? Sie antworteten und sprachen zum König: Ja, Herr König.
-
 @25 Er antwortete und sprach: Sehe ich doch vier Männer frei im Feuer gehen, und sie sind unversehrt; und der vierte ist gleich, als wäre er ein Sohn der Götter.
-
-## El rey reconoce la grandeza del Dios de los judíos, ordena su honor y confirma a los tres amigos de Daniel en su alto cargo
 @26 Und Nebukadnezar trat hinzu vor das Loch des glühenden Ofens und sprach: Sadrach, Mesach, Abed-Nego, ihr Knechte Gottes des Höchsten, gehet heraus und kommet her! Da gingen Sadrach, Mesach und Abed-Nego heraus aus dem Feuer.
-
 @27 Und die Fürsten, Herren, Vögte und Räte des Königs kamen zusammen und sahen, dass das Feuer keine Macht am Leibe dieser Männer bewiesen hatte und ihr Haupthaar nicht versengt und ihre Mäntel nicht versehrt waren; ja man konnte keinen Brand an ihnen riechen.
-
 @28 Da fing Nebukadnezar an und sprach: Gelobt sei der Gott Sadrachs, Mesachs und Abed-Negos, der seinen Engel gesandt und seine Knechte errettet hat, die ihm vertraut und des Königs Gebot nicht gehalten, sondern ihren Leib dargegeben haben, dass sie keinen Gott ehren noch anbeten wollten als allein ihren Gott!
 @29 So sei nun dies mein Gebot: Welcher unter allen Völkern, Leuten und Zungen den Gott Sadrachs, Mesachs und Abed-Negos lästert, der soll in Stücke zerhauen und sein Haus schändlich verstört werden. Denn es ist kein anderer Gott, der also erretten kann, als dieser.
-
 @30 Und der König gab Sadrach, Mesach und Abed-Nego große Gewalt in der Landschaft Babel.
 @31 König Nebukadnezar allen Völkern, Leuten und Zungen auf der ganzen Erde: Viel Friede zuvor!
 @32 Ich sehe es für gut an, dass ich verkündige die Zeichen und Wunder, die Gott der Höchste an mir getan hat.
 @33 Denn seine Zeichen sind groß, und seine Wunder mächtig, und sein Reich ist ein ewiges Reich, und seine Herrschaft währet für und für.
 
 # 4
-## El segundo sueño de Nabucodonosor, su humillación y exaltación
 @1 Ich, Nebukadnezar, da ich gute Ruhe hatte in meinem Hause und es wohl stand auf meiner Burg,
-
 @2 sah einen Traum und erschrak, und die Gedanken, die ich auf meinem Bett hatte, und das Gesicht, das ich gesehen hatte, betrübten mich.
 @3 Und ich befahl, dass alle Weisen zu Babel vor mich hereingebracht würden, dass sie mir sagten, was der Traum bedeutete.
-
 @4 Da brachte man herein die Sternseher, Weisen, Chaldäer und Wahrsager, und ich erzählte den Traum vor ihnen; aber sie konnten mir nicht sagen, was er bedeutete,
 @5 bis zuletzt Daniel vor mich kam, welcher Beltsazar heißt nach dem Namen meines Gottes, der den Geist der heiligen Götter hat. Und ich erzählte vor ihm den Traum:
 @6 Beltsazar, du Oberster unter den Sternsehern, von dem ich weiß, dass du den Geist der heiligen Götter hast und dir nichts verborgen ist, sage, was das Gesicht meines Traumes, das ich gesehen habe, bedeutet.
 @7 Dies ist aber das Gesicht, das ich gesehen habe auf meinem Bette: Siehe, es stand ein Baum mitten im Lande, der war sehr hoch.
 @8 Und er wurde groß und mächtig, und seine Höhe reichte bis an den Himmel, und er breitete sich aus bis ans Ende der ganzen Erde.
-
 @9 Seine Äste waren schön und trugen viel Früchte, davon alles zu essen hatte; alle Tiere auf dem Felde fanden Schatten unter ihm, und die Vögel unter dem Himmel saßen auf seinen Ästen, und alles Fleisch nährte sich von ihm.
-
-## Nabucodonosor comparte el sueño con Daniel
 @10 Und ich sah ein Gesicht auf meinem Bette, und siehe, ein heiliger Wächter fuhr vom Himmel herab;
 @11 der rief überlaut und sprach also: Hauet den Baum um und behaut ihm die Äste und streift ihm das Laub ab und zerstreuet seine Früchte, dass die Tiere, die unter ihm liegen, weglaufen und die Vögel von seinen Zweigen fliehen.
 @12 Doch lasst den Stock mit seinen Wurzeln in der Erde bleiben; er aber soll in eisernen und ehernen Ketten auf dem Felde im Grase und unter dem Tau des Himmels liegen und nass werden und soll sich weiden mit den Tieren von den Kräutern der Erde.
-
 @13 Und das menschliche Herz soll von ihm genommen und ein viehisches Herz ihm gegeben werden, bis dass sieben Zeiten über ihm um sind.
 @14 Solches ist im Rat der Wächter beschlossen und im Gespräch der Heiligen beratschlagt, auf dass die Lebendigen erkennen, dass der Höchste Gewalt hat über der Menschen Königreiche und gibt sie, wem er will, und erhöht die Niedrigen zu denselben.
 @15 Solchen Traum habe ich, König Nebukadnezar, gesehen; du aber Beltsazar, sage, was er bedeutet. Denn alle Weisen in meinem Königreiche können mir nicht anzeigen, was er bedeute; du aber kannst es wohl, denn der Geist der heiligen Götter ist bei dir.
 @16 Da entsetzte sich Daniel, der sonst Beltsazar heißt, bei einer Stunde lang, und seine Gedanken betrübten ihn. Aber der König sprach: Beltsazar, lass dich den Traum und seine Deutung nicht betrüben. Beltsazar fing an und sprach: Ach mein Herr, dass der Traum deinen Feinden und seine Deutung deinen Widersachern gölte!
-
 @17 Der Baum, den du gesehen hast, dass er groß und mächtig ward und seine Höhe an den Himmel reichte und dass er sich über die ganze Erde breitete
-
 @18 und seine Äste schön waren und seiner Früchte viel, davon alles zu essen hatte, und dass die Tiere auf dem Felde unter ihm wohnten und die Vögel des Himmels auf seinen Ästen saßen:
-
-## La consternación de Daniel y la interpretación del sueño
 @19 das bist du, König, der du so groß und mächtig geworden; denn deine Macht ist groß und reicht an den Himmel, und deine Gewalt langt bis an der Welt Ende.
-
 @20 Dass aber der König einen heiligen Wächter gesehen hat vom Himmel herabfahren und sagen: Haut den Baum um und verderbet ihn; doch den Stock mit seinen Wurzeln lasst in der Erde bleiben; er aber soll in eisernen und ehernen Ketten auf dem Felde im Grase gehen und unter dem Tau des Himmels liegen und nass werden und sich mit den Tieren auf dem Felde weiden, bis über ihm sieben Zeiten um sind, –
 @21 das ist die Deutung, Herr König, und solcher Rat des Höchsten geht über meinen Herrn König:
 @22 Man wird dich von den Leuten stoßen, und du musst bei den Tieren auf dem Felde bleiben, und man wird dich Gras essen lassen wie die Ochsen, und wirst unter dem Tau des Himmels liegen und nass werden, bis über dir sieben Zeiten um sind, auf dass du erkennest, dass der Höchste Gewalt hat über der Menschen Königreiche und gibt sie, wem er will.
-
 @23 Dass aber gesagt ist, man solle dennoch den Stock des Baumes mit seinen Wurzeln bleiben lassen: dein Königreich soll dir bleiben, wenn du erkannt hast die Gewalt im Himmel.
-
 @24 Darum, Herr König, lass dir meinen Rat gefallen und mache dich los von deinen Sünden durch Gerechtigkeit und ledig von deiner Missetat durch Wohltat an den Armen, so wird dein Glück lange währen.
-
-## El cumplimiento de todas las profecías de Daniel: la arrogancia de Nabucodonosor, desprecio por el espíritu, conversión, restauración
 @25 Dies alles widerfuhr dem König Nebukadnezar.
 @26 Denn nach zwölf Monaten, da der König auf der königlichen Burg zu Babel ging,
 @27 hob er an und sprach: Das ist die große Babel, die ich erbaut habe zum königlichen Hause durch meine große Macht, zu Ehren meiner Herrlichkeit.
-
 @28 Ehe der König diese Worte ausgeredet hatte, fiel eine Stimme vom Himmel: Dir, König Nebukadnezar, wird gesagt: Dein Königreich soll dir genommen werden;
 @29 und man wird dich von den Leuten verstoßen, und sollst bei den Tieren, die auf dem Feld gehen, bleiben; Gras wird man dich essen lassen wie Ochsen, bis dass über dir sieben Zeiten um sind, – auf dass du erkennest, dass der Höchste Gewalt hat über der Menschen Königreiche und gibt sie, wem er will.
 @30 Von Stund an ward das Wort vollbracht über Nebukadnezar, und er ward verstoßen von den Leuten hinweg, und er aß Gras wie Ochsen, und sein Leib lag unter dem Tau des Himmels, und er ward nass, bis sein Haar wuchs so groß wie Adlersfedern und seine Nägel wie Vogelsklauen wurden.
-
 @31 Nach dieser Zeit hob ich, Nebukadnezar, meine Augen auf gen Himmel und kam wieder zur Vernunft und lobte den Höchsten. Ich pries und ehrte den, der ewiglich lebt, des Gewalt ewig ist und des Reich für und für währt,
 @32 gegen welchen alle, die auf Erden wohnen, als nichts zu rechnen sind. Er macht's, wie er will, mit den Kräften im Himmel und mit denen, die auf Erden wohnen; und niemand kann seiner Hand wehren noch zu ihm sagen: Was machst du?
-
 @33 Zur selben Zeit kam ich wieder zur Vernunft, auch zu meinen königlichen Ehren, zu meiner Herrlichkeit und zu meiner Gestalt. Und meine Räte und Gewaltigen suchten mich, und ich ward wieder in mein Königreich gesetzt; und ich überkam noch größere Herrlichkeit.
-
 @34 Darum lobe ich, Nebukadnezar, und ehre und preise den König des Himmels; denn all sein Tun ist Wahrheit, und seine Wege sind recht, und wer stolz ist, den kann er demütigen.
 
 # 5
@@ -426,29 +353,15 @@
 @33 Und die Verständigen im Volk werden viele andere lehren; darüber werden sie fallen durch Schwert, Feuer, Gefängnis und Raub eine Zeitlang.
 @34 Und wenn sie so fallen, wird ihnen eine kleine Hilfe geschehen; aber viele werden sich zu ihnen tun betrüglich.
 @35 Und der Verständigen werden etliche fallen, auf dass sie bewährt, rein und lauter werden, bis dass es ein Ende habe; denn es ist noch eine andere Zeit vorhanden.
-
 @36 Und der König wird tun, was er will, und wird sich erheben und aufwerfen wider alles, was Gott ist; und wider den Gott aller Götter wird er gräulich reden; und es wird ihm gelingen, bis der Zorn aus sei; denn es muss geschehen, was beschlossen ist.
-
-## El decreto termina con alabanza por la grandeza de Dios
 @37 Und die Götter seiner Väter wird er nicht achten; er wird weder Frauenliebe noch irgendeines Gottes achten; denn er wird sich wider alles aufwerfen.
-
-## Belsasar consagra los vasos del templo de los judíos
 @38 Aber anstatt dessen wird er den Gott der Festungen ehren; denn er wird einen Gott, davon seine Väter nichts gewusst haben, ehren mit Gold, Silber, Edelsteinen und Kleinoden
-
-## Aparece la enigmática inscripción, que ningún sabio puede interpretar; por consejo de la reina madre, traen a Daniel
 @39 und wird denen, die ihm helfen die Festungen stärken mit dem fremden Gott, den er erwählt hat, große Ehre tun und sie zu Herren machen über große Güter und ihnen das Land zum Lohn austeilen.
-
 @40 Und am Ende wird sich der König gegen Mittag mit ihm messen; und der König gegen Mitternacht wird gegen ihn stürmen mit Wagen, Reitern und vielen Schiffen und wird in die Länder fallen und verderben und durchziehen
-
 @41 und wird in das werte Land fallen, und viele werden umkommen. Diese aber werden seiner Hand entrinnen: Edom, Moab und die Vornehmsten der Kinder Ammon.
-
 @42 Und er wird seine Hand ausstrecken nach den Ländern, und Ägypten wird ihm nicht entrinnen;
-
-## Las brillantes promesas del rey a Daniel; su interpretación del guión fantasma, su discurso de castigo y el anuncio de la desgracia
 @43 sondern er wird herrschen über die goldenen und silbernen Schätze und über alle Kleinode Ägyptens; Libyer und Mohren werden in seinem Zuge sein.
-
 @44 Es wird ihn aber ein Geschrei erschrecken von Morgen und Mitternacht; und er wird mit großem Grimm ausziehen, willens, viele zu vertilgen und zu verderben.
-
 @45 Und er wird den Palast seines Gezeltes aufschlagen zwischen zwei Meeren um den werten heiligen Berg, bis es mit ihm ein Ende werde; und niemand wird ihm helfen.
 
 # 12

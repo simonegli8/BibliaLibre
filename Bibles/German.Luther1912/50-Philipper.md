@@ -1,29 +1,21 @@
 # 1
-## Bendiciones
 @1 Paulus und Timotheus, Knechte Jesu Christi, allen Heiligen in Christo Jesu zu Philippi samt den Bischöfen und Dienern:
 @2 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
-
-## La acción de gracias, la confianza y la intercesión del apóstol por la iglesia
 @3 Ich danke meinem Gott, so oft ich euer gedenke
 @4 (welches ich allezeit tue in allem meinem Gebet für euch alle, und tue das Gebet mit Freuden),
 @5 über eure Gemeinschaft am Evangelium vom ersten Tage an bis her,
 @6 und bin desselben in guter Zuversicht, dass, der in euch angefangen hat das gute Werk, der wird's auch vollführen bis an den Tag Jesu Christi.
 @7 Wie es denn mir billig ist, dass ich dermaßen von euch halte, darum dass ich euch in meinem Herzen habe in diesem meinem Gefängnis, darin ich das Evangelium verantworte und bekräftige, als die ihr alle mit mir der Gnade teilhaftig seid.
 @8 Denn Gott ist mein Zeuge, wie mich nach euch allen verlangt von Herzensgrund in Jesu Christo.
-
 @9 Und darum bete ich, dass eure Liebe je mehr und mehr reich werde in allerlei Erkenntnis und Erfahrung,
 @10 dass ihr prüfen möget, was das Beste sei, auf dass ihr seid lauter und unanstößig auf den Tag Christi,
 @11 erfüllt mit Früchten der Gerechtigkeit, die durch Jesum Christum geschehen in euch zu Ehre und Lobe Gottes.
-
-## Los dolores del apóstol y las alegrías abrumadoras en Roma
 @12 Ich lasse euch aber wissen, liebe Brüder, dass, wie es um mich steht, das ist nur mehr zur Förderung des Evangeliums geraten,
 @13 also dass meine Bande offenbar geworden sind in Christo in dem ganzen Richthause und bei den anderen allen,
 @14 und viele Brüder in dem Herrn aus meinen Banden Zuversicht gewonnen haben und desto kühner geworden sind, das Wort zu reden ohne Scheu.
 @15 Etliche zwar predigen Christum auch um Neides und Haders willen, etliche aber aus guter Meinung.
 @16 Jene verkündigen Christum aus Zank und nicht lauter; denn sie meinen, sie wollen eine Trübsal zuwenden meinen Banden;
 @17 diese aber aus Liebe; denn sie wissen, dass ich zur Verantwortung des Evangeliums hier liege.
-
-## Tanto el testimonio de la muerte de Pablo como su vida continua servirán para glorificar a Cristo
 @18 Was tut's aber? dass nur Christus verkündigt werde allerleiweise, es geschehe zum Vorwand oder in Wahrheit, so freue ich mich doch darin und will mich auch freuen.
 @19 Denn ich weiß, dass mir dies gelingt zur Seligkeit durch euer Gebet und durch Handreichung des Geistes Jesu Christi,
 @20 wie ich sehnlich warte und hoffe, dass ich in keinerlei Stück zu Schanden werde, sondern dass mit aller Freudigkeit, gleichwie sonst allezeit also auch jetzt, Christus hoch gepriesen werde an meinem Leibe, es sei durch Leben oder durch Tod.
@@ -33,20 +25,16 @@
 @24 aber es ist nötiger, im Fleisch bleiben um euretwillen.
 @25 Und in guter Zuversicht weiß ich, dass ich bleiben und bei euch allen sein werde, euch zur Förderung und Freude des Glaubens,
 @26 auf dass ihr euch sehr rühmen möget in Christo Jesu an mir, wenn ich wieder zu euch komme.
-
-## Recordatorio para caminar con dignidad y luchar unánimemente por el mensaje de salvación bajo toda hostilidad externa
 @27 Wandelt nur würdig dem Evangelium Christi, auf dass, ob ich komme und sehe euch oder abwesend von euch höre, ihr steht in einem Geist und einer Seele und samt uns kämpfet für den Glauben des Evangeliums
 @28 und euch in keinem Weg erschrecken lasset von den Widersachern, welches ist ein Anzeichen, ihnen der Verdammnis, euch aber der Seligkeit, und das von Gott.
 @29 Denn euch ist gegeben, um Christi willen zu tun, dass ihr nicht allein an ihn glaubet sondern auch um seinetwillen leidet;
 @30 und habet denselben Kampf, welchen ihr an mir gesehen habt und nun von mir höret.
 
 # 2
-## Recordatorio de unidad dentro de la comunidad, de abnegación y voluntad de sufrir según el ejemplo de Cristo
 @1 Ist nun bei euch Ermahnung in Christo, ist Trost der Liebe, ist Gemeinschaft des Geistes, ist herzliche Liebe und Barmherzigkeit,
 @2 so erfüllet meine Freude, dass ihr eines Sinnes seid, gleiche Liebe habt, einmütig und einhellig seid.
 @3 Nichts tut durch Zank oder eitle Ehre; sondern durch Demut achte einer den anderen höher denn sich selbst,
 @4 und ein jeglicher sehe nicht auf das Seine, sondern auch auf das, was des anderen ist.
-
 @5 Ein jeglicher sei gesinnt, wie Jesus Christus auch war:
 @6 welcher, ob er wohl in göttlicher Gestalt war, hielt er's nicht für einen Raub, Gott gleich sein,
 @7 sondern entäußerte sich selbst und nahm Knechtsgestalt an, ward gleich wie ein andrer Mensch und an Gebärden als ein Mensch erfunden;
@@ -54,25 +42,19 @@
 @9 Darum hat ihn auch Gott erhöht und hat ihm einen Namen gegeben, der über alle Namen ist,
 @10 dass in dem Namen Jesu sich beugen aller derer Knie, die im Himmel und auf Erden und unter der Erde sind,
 @11 und alle Zungen bekennen sollen, dass Jesus Christus der Herr sei, zur Ehre Gottes, des Vaters.
-
-## Amonestación a la obediencia voluntaria y a ser completamente serio en el cristianismo
 @12 Also, meine Liebsten, wie ihr allezeit seid gehorsam gewesen, nicht allein in meiner Gegenwart sondern auch nun viel mehr in meiner Abwesenheit, schaffet, dass ihr selig werdet, mit Furcht und Zittern.
 @13 Denn Gott ist's, der in euch wirkt beides, das Wollen und das Vollbringen, nach seinem Wohlgefallen.
-
 @14 Tut alles ohne Murren und ohne Zweifel,
 @15 auf dass ihr seid ohne Tadel und lauter und Gottes Kinder, unsträflich mitten unter dem unschlachtigen und verkehrten Geschlecht, unter welchem ihr scheinet als Lichter in der Welt,
 @16 damit dass ihr haltet an dem Wort des Lebens, mir zu einem Ruhm an dem Tage Christi, als der ich nicht vergeblich gelaufen noch vergeblich gearbeitet habe.
 @17 Und ob ich geopfert werde über dem Opfer und Gottesdienst eures Glaubens, so freue ich mich und freue mich mit euch allen.
 @18 Dessen sollt ihr euch auch freuen und sollt euch mit mir freuen.
-
-## Información sobre la misión prevista de Timoteo y el regreso de Epafrodito
 @19 Ich hoffe aber in dem Herrn Jesus, dass ich Timotheus bald werde zu euch senden, dass ich auch erquickt werde, wenn ich erfahre, wie es um euch steht.
 @20 Denn ich habe keinen, der so gar meines Sinnes sei, der so herzlich für euch sorgt.
 @21 Denn sie suchen alle das ihre, nicht, das Christi Jesu ist.
 @22 Ihr aber wisset, dass er rechtschaffen ist; denn wie ein Kind dem Vater hat er mit mir gedient am Evangelium.
 @23 Ihn, hoffe ich, werde ich senden von Stund an, wenn ich erfahren habe, wie es um mich steht.
 @24 Ich vertraue aber in dem Herrn, dass auch ich selbst bald kommen werde.
-
 @25 Ich habe es aber für nötig angesehen, den Bruder Epaphroditus zu euch zu senden, der mein Gehilfe und Mitstreiter und euer Gesandter und meiner Notdurft Diener ist;
 @26 sintemal er nach euch allen Verlangen hatte und war hoch bekümmert, darum dass ihr gehört hattet, dass er krank war gewesen.
 @27 Und er war todkrank, aber Gott hat sich über ihn erbarmt; nicht allein aber über ihn, sondern auch über mich, auf dass ich nicht eine Traurigkeit über die andere hätte.
@@ -81,30 +63,22 @@
 @30 Denn um des Werkes Christi willen ist er dem Tode so nahe gekommen, da er sein Leben gering bedachte, auf dass er mir diente an eurer Statt.
 
 # 3
-## Clama al gozo en el Señor; Invalidez de las virtudes externas y justicia de la ley en comparación con el conocimiento de la salvación en Cristo; Advertencia contra los falsos maestros judaístas
 @1 Weiter, liebe Brüder, freuet euch in dem Herrn! dass ich euch immer einerlei schreibe, verdrießt mich nicht und macht euch desto gewisser.
-
 @2 Sehet auf die Hunde, sehet auf die bösen Arbeiter, sehet auf die Zerschneidung!
 @3 Denn wir sind die Beschneidung, die wir Gott im Geiste dienen und rühmen uns von Christo Jesu und verlassen uns nicht auf Fleisch,
 @4 wiewohl ich auch habe, dass ich mich Fleisches rühmen könnte. So ein anderer sich dünken lässt, er könnte sich Fleisches rühmen, ich könnte es viel mehr:
 @5 der ich am achten Tag beschnitten bin, einer aus dem Volk von Israel, des Geschlechts Benjamin, ein Hebräer von Hebräern und nach dem Gesetz ein Pharisäer,
 @6 nach dem Eifer ein Verfolger der Gemeinde, nach der Gerechtigkeit im Gesetz gewesen unsträflich.
-
 @7 Aber was mir Gewinn war, das habe ich um Christi willen für Schaden geachtet.
 @8 Ja, ich achte es noch alles für Schaden gegen die überschwengliche Erkenntnis Christi Jesu, meines Herrn, um welches willen ich alles habe für Schaden gerechnet, und achte es für Kot, auf dass ich Christum gewinne
 @9 und in ihm erfunden werde, dass ich nicht habe meine Gerechtigkeit, die aus dem Gesetz, sondern die durch den Glauben an Christum kommt, nämlich die Gerechtigkeit, die von Gott dem Glauben zugerechnet wird,
 @10 zu erkennen ihn und die Kraft seiner Auferstehung und die Gemeinschaft seiner Leiden, dass ich seinem Tode ähnlich werde,
 @11 damit ich gelange zur Auferstehung der Toten.
-
-## El apóstol lucha por esta perfección; Aliento para seguir caminando con éxito en firme fidelidad
 @12 Nicht, dass ich's schon ergriffen habe oder schon vollkommen sei; ich jage ihm aber nach, ob ich's auch ergreifen möchte, nachdem ich von Christo Jesu ergriffen bin.
-
 @13 Meine Brüder, ich schätze mich selbst noch nicht, dass ich's ergriffen habe. Eines aber sage ich: Ich vergesse, was dahinten ist, und strecke mich zu dem, was da vorne ist,
 @14 und jage nach dem vorgesteckten Ziel, nach dem Kleinod, welches vorhält die himmlische Berufung Gottes in Christo Jesu.
 @15 Wie viele nun unser vollkommen sind, die lasset uns also gesinnt sein. Und solltet ihr sonst etwas halten, das lasset euch Gott offenbaren;
 @16 doch soferne, dass wir nach derselben Regel, darein wir gekommen sind, wandeln und gleich gesinnt seien.
-
-## Admoniciones para cambiar hacia el cielo
 @17 Folget mir, liebe Brüder, und sehet auf die, die also wandeln, wie ihr uns habt zum Vorbilde.
 @18 Denn viele wandeln, von welchen ich euch oft gesagt habe, nun aber sage ich auch mit Weinen, dass sie sind die Feinde des Kreuzes Christi,
 @19 welcher Ende ist die Verdammnis, welchen der Bauch ihr Gott ist, und deren Ehre zu Schanden wird, die irdisch gesinnt sind.
@@ -113,20 +87,14 @@
 
 # 4
 @1 Also, meine lieben und ersehnten Brüder, meine Freude und meine Krone, besteht also in dem Herrn, ihr Lieben.
-
-## Advertencia a feligreses individuales; Invitación al gozo en el Señor; Promesa de la paz de Dios como recompensa de la oración continua y el caminar virtuoso
 @2 Die Evodia ermahne ich, und die Syntyche ermahne ich, dass sie eines Sinnes seien in dem Herrn.
 @3 Ja ich bitte auch dich, mein treuer Geselle, stehe ihnen bei, die samt mir für das Evangelium gekämpft haben, mit Klemens und meinen anderen Gehilfen, welcher Namen sind in dem Buch des Lebens.
-
 @4 Freuet euch in dem Herrn allewege! Und abermals sage ich: Freuet euch!
 @5 Eure Lindigkeit lasset kund sein allen Menschen! der Herr ist nahe!
 @6 Sorget nichts! sondern in allen Dingen lasset eure Bitten im Gebet und Flehen mit Danksagung vor Gott kund werden.
 @7 Und der Friede Gottes, welcher höher ist denn alle Vernunft, bewahre eure Herzen und Sinne in Christo Jesu!
-
 @8 Weiter, liebe Brüder, was wahrhaftig ist, was ehrbar, was gerecht, was keusch, was lieblich, was wohllautet, ist etwa eine Tugend, ist etwa ein Lob, dem denket nach!
 @9 Welches ihr auch gelernt und empfangen und gehört und gesehen habt an mir, das tut; so wird der Gott des Friedens mit euch sein.
-
-## Expresión de alegría y agradecimiento por el regalo de amor enviado por la congregación
 @10 Ich bin aber höchlich erfreut in dem Herrn, dass ihr wieder wacker geworden seid, für mich zu sorgen; wiewohl ihr allewege gesorgt habt, aber die Zeit hat's nicht wollen leiden.
 @11 Nicht sage ich das des Mangels halben; denn ich habe gelernt, worin ich bin, mir genügen zu lassen.
 @12 Ich kann niedrig sein und kann hoch sein; ich bin in allen Dingen und bei allen geschickt, beides, satt sein und hungern, beides, übrighaben und Mangel leiden.
@@ -138,9 +106,6 @@
 @18 Denn ich habe alles und habe überflüssig. Ich habe die Fülle, da ich empfing durch Epaphroditus, was von euch kam: ein süßer Geruch, ein angenehmes Opfer, Gott gefällig.
 @19 Mein Gott aber fülle aus alle eure Notdurft nach seinem Reichtum in der Herrlichkeit in Christo Jesu.
 @20 Gott aber, unserem Vater, sei Ehre von Ewigkeit zu Ewigkeit! Amen.
-
-## Conclusión: saludos y bendición
 @21 Grüßet alle Heiligen in Christo Jesu. Es grüßen euch die Brüder, die bei mir sind.
 @22 Es grüßen euch alle Heiligen, sonderlich aber die von des Kaisers Hause.
-
 @23 Die Gnade unseres Herrn Jesu Christi sei mit euch allen! Amen.

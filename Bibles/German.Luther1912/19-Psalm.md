@@ -1,6 +1,4 @@
-//!verse-paragraphs
 # 1
-## Las dos formas de vida
 @1 Wohl dem, der nicht wandelt im Rat der Gottlosen noch tritt auf den Weg der Sünder noch sitzt, da die Spötter sitzen,
 @2 sondern hat Lust zum Gesetz des HErrn und redet von seinem Gesetz Tag und Nacht!
 @3 Der ist wie ein Baum, gepflanzt an den Wasserbächen, der seine Frucht bringt zu seiner Zeit, und seine Blätter verwelken nicht; und was er macht, das gerät wohl.
@@ -9,7 +7,6 @@
 @6 Denn der HErr kennt den Weg der Gerechten; aber der Gottlosen Weg vergeht.
 
 # 2
-## La victoria de Dios y del rey ungido por él sobre las naciones furiosas
 @1 Warum toben die Heiden, und die Völker reden so vergeblich?
 @2 Die Könige der Erde lehnen sich auf, und die Herren ratschlagen miteinander wider den HErrn und seinen Gesalbten:
 @3 „Lasset uns zerreißen ihre Bande und von uns werfen ihre Seile!“
@@ -24,7 +21,6 @@
 @12 Küsset den Sohn, dass er nicht zürne und ihr umkommet auf dem Wege; denn sein Zorn wird bald entbrennen. Aber wohl allen, die auf ihn trauen!
 
 # 3
-## Canción de la mañana de un hombre piadoso en los malos tiempos
 @1 Ein Psalm Davids, da er floh vor seinem Sohn Absalom.
 @2 Ach HErr, wie sind meiner Feinde so viel und setzen sich so viele wider mich!
 @3 Viele sagen von meiner Seele: Sie hat keine Hilfe bei Gott. (Sela.)
@@ -36,7 +32,6 @@
 @9 Bei dem HErrn findet man Hilfe. Dein Segen komme über dein Volk! (Sela.)
 
 # 4
-## Canción vespertina de un hombre piadoso en tiempos de angustia
 @1 Ein Psalm Davids, vorzusingen, auf Saitenspiel.
 @2 Erhöre mich, wenn ich rufe, Gott meiner Gerechtigkeit, der du mich tröstest in Angst; sei mir gnädig und erhöre mein Gebet!
 @3 Liebe Herren, wie lange soll meine Ehre geschändet werden? Wie habt ihr das Eitle so lieb und die Lüge so gern! (Sela.)
@@ -48,7 +43,6 @@
 @9 Ich liege und schlafe ganz mit Frieden; denn allein du, HErr, hilfst mir, dass ich sicher wohne.
 
 # 5
-## Oración matutina en el templo contra enemigos impíos
 @1 Ein Psalm Davids, vorzusingen, für das Erbe.
 @2 HErr, höre meine Worte, merke auf meine Rede!
 @3 Vernimm mein Schreien, mein König und mein Gott; denn ich will vor dir beten.
@@ -64,7 +58,6 @@
 @13 Denn du, HErr, segnest die Gerechten; du krönest sie mit Gnade wie mit einem Schilde.
 
 # 6
-## Pedir ayuda a alguien gravemente enfermo en cuerpo y alma (Primer Salmo Penitencial)
 @1 Ein Psalm Davids, vorzusingen, auf acht Saiten.
 @2 Ach HErr, strafe mich nicht in deinem Zorn und züchtige mich nicht in deinem Grimm!
 @3 HErr, sei mir gnädig, denn ich bin schwach; heile mich, HErr, denn meine Gebeine sind erschrocken,
@@ -78,7 +71,6 @@
 @11 Es müssen alle meine Feinde zu Schanden werden und sehr erschrecken, sich zurückkehren und zu Schanden werden plötzlich.
 
 # 7
-## El Señor como juez justo y salvador de los afligidos
 @1 Die Unschuld Davids, davon er sang dem HErrn von wegen der Worte des Chus, des Benjaminiten.
 @2 Auf dich, HErr, traue ich, mein Gott. Hilf mir von allen meinen Verfolgern und errette mich,
 @3 dass sie nicht wie Löwen meine Seele erhaschen und zerreißen, weil kein Erretter da ist.
@@ -99,7 +91,6 @@
 @18 Ich danke dem HErrn um seiner Gerechtigkeit willen und will loben den Namen des HErrn, des Allerhöchsten.
 
 # 8
-## La humildad y la alteza del hombre en la creación
 @1 Ein Psalm Davids, vorzusingen, auf der Gittith.
 @2 HErr, unser Herrscher, wie herrlich ist dein Name in allen Landen, du, den man lobet im Himmel!
 @3 Aus dem Munde der jungen Kinder und Säuglinge hast du eine Macht zugerichtet um deiner Feinde willen, dass du vertilgest den Feind und den Rachgierigen.
@@ -112,7 +103,6 @@
 @10 HErr, unser Herrscher, wie herrlich ist dein Name in allen Landen!
 
 # 9
-## Canto de acción de gracias por el juicio de Dios sobre los enemigos paganos y solicitud de nueva ayuda
 @1 Ein Psalm Davids, von der schönen Jugend, vorzusingen.
 @2 Ich danke dem HErrn von ganzem Herzen und erzähle alle deine Wunder.
 @3 Ich freue mich und bin fröhlich in dir und lobe deinen Namen, du Allerhöchster,
@@ -136,7 +126,6 @@
 @21 Gib ihnen, HErr, einen Meister, dass die Heiden erkennen, dass sie Menschen sind. (Sela.)
 
 # 10
-## Pide ayuda contra los malvados de la violencia
 @1 HErr, warum trittst du so ferne, verbirgst dich zur Zeit der Not?
 @2 Weil der Gottlose Übermut treibt, muss der Elende leiden; sie hängen sich aneinander und erdenken böse Tücke.
 @3 Denn der Gottlose rühmt sich seines Mutwillens, und der Geizige sagt dem HErrn ab und lästert ihn.
@@ -157,7 +146,6 @@
 @18 dass du Recht schaffest dem Waisen und Armen, dass der Mensch nicht mehr trotze auf Erden.
 
 # 11
-## El Señor es fiel y justo
 @1 Ein Psalm Davids, vorzusingen. Ich traue auf den HErrn. Wie sagt ihr denn zu meiner Seele: Fliehet wie ein Vogel auf eure Berge?
 @2 Denn siehe, die Gottlosen spannen den Bogen und legen ihre Pfeile auf die Sehnen, damit heimlich zu schießen die Frommen.
 @3 Denn sie reißen den Grund um; was sollte der Gerechte ausrichten?
@@ -167,7 +155,6 @@
 @7 Der HErr ist gerecht und hat Gerechtigkeit lieb; die Frommen werden schauen sein Angesicht.
 
 # 12
-## Consuelo de los rectos contra la violencia de la mentira
 @1 Ein Psalm Davids, vorzusingen, auf acht Saiten.
 @2 Hilf, HErr! die Heiligen haben abgenommen, und der Gläubigen ist wenig unter den Menschenkindern.
 @3 Einer redet mit dem anderen unnütze Dinge; sie heucheln und lehren aus uneinigem Herzen.
@@ -179,7 +166,6 @@
 @9 Denn es wird allenthalben voll Gottloser, wo solche nichtswürdigen Leute unter den Menschen herrschen.
 
 # 13
-## ¿Por cuánto tiempo más?
 @1 Ein Psalm Davids, vorzusingen.
 @2 HErr, wie lange willst du mein so gar vergessen? Wie lange verbirgst du dein Antlitz vor mir?
 @3 Wie lange soll ich sorgen in meiner Seele und mich ängsten in meinem Herzen täglich? Wie lange soll sich mein Feind über mich erheben?
@@ -189,7 +175,6 @@
 @7 Ich will dem HErrn singen, dass er so wohl an mir tut.
 
 # 14
-## Pensamientos sobre la depravación general del mundo y pedir redención
 @1 Ein Psalm Davids, vorzusingen. Die Toren sprechen in ihrem Herzen: Es ist kein Gott. Sie taugen nichts und sind ein Gräuel mit ihrem Wesen; da ist keiner, der Gutes tue.
 @2 Der HErr schaut vom Himmel auf der Menschen Kinder, dass er sehe, ob jemand klug sei und nach Gott frage.
 @3 Aber sie sind alle abgewichen und allesamt untüchtig; da ist keiner, der Gutes tue, auch nicht einer.
@@ -199,7 +184,6 @@
 @7 Ach dass die Hilfe aus Zion über Israel käme und der HErr sein gefangen Volk erlösete! So würde Jakob fröhlich sein und Israel sich freuen.
 
 # 15
-## ¿Quién puede ser el invitado del Señor?
 @1 Ein Psalm Davids. HErr, wer wird wohnen in deiner Hütte? Wer wird bleiben auf deinem heiligen Berge?
 @2 Wer ohne Tadel einhergeht und recht tut und redet die Wahrheit von Herzen;
 @3 wer mit seiner Zunge nicht verleumdet und seinem Nächsten kein Arges tut und seinen Nächsten nicht schmäht;
@@ -207,7 +191,6 @@
 @5 wer sein Geld nicht auf Wucher gibt und nimmt nicht Geschenke wider den Unschuldigen: wer das tut, der wird wohl bleiben.
 
 # 16
-## Dios el más alto, sí, solo bien por sí mismo
 @1 Ein gülden Kleinod Davids. Bewahre mich Gott; denn ich traue auf dich.
 @2 Ich habe gesagt zu dem HErrn: Du bist ja der HErr; ich weiß von keinem Gute außer dir.
 @3 An den Heiligen, die auf Erden sind, und den Herrlichen, an denen hab ich all mein Gefallen.
@@ -221,7 +204,6 @@
 @11 Du tust mir kund den Weg zum Leben; vor dir ist Freude die Fülle und liebliches Wesen zu deiner Rechten ewiglich.
 
 # 17
-## El grito de un hombre angustiado por ayuda contra enemigos nefastos
 @1 Ein Gebet Davids. HErr, erhöre die Gerechtigkeit, merke auf mein Schreien; vernimm mein Gebet, das nicht aus falschem Munde geht.
 @2 Sprich du in meiner Sache und schaue du aufs Recht.
 @3 Du prüfst mein Herz und siehst nach ihm des Nachts und läuterst mich, und findest nichts. Ich habe mir vorgesetzt, dass mein Mund nicht soll übertreten.
@@ -239,7 +221,6 @@
 @15 Ich aber will schauen dein Antlitz in Gerechtigkeit; ich will satt werden, wenn ich erwache, an deinem Bilde.
 
 # 18
-## El cántico de agradecimiento y victoria de David tras la derrota de sus enemigos
 @1 Ein Psalm, vorzusingen, Davids, des Knechtes des HErrn, welcher hat dem Herrn die Worte dieses Liedes geredet zur Zeit, da ihn der HErr errettet hatte von der Hand aller seiner Feinde und von der Hand Sauls,
 @2 und sprach: Herzlich lieb habe ich dich, HErr, meine Stärke!
 @3 HErr, mein Fels, meine Burg, mein Erretter, mein Gott, mein Hort, auf den ich traue, mein Schild und Horn meines Heils und mein Schutz!
@@ -293,7 +274,6 @@
 @51 der seinem König großes Heil beweist und wohltut seinem Gesalbten, David und seinem Samen ewiglich.
 
 # 19
-## Alabado sea Dios Creador y su ley; Pide perdón de pecados y santificación
 @1 Ein Psalm Davids, vorzusingen.
 @2 Die Himmel erzählen die Ehre Gottes, und die Feste verkündigt seiner Hände Werk.
 @3 Ein Tag sagt's dem anderen, und eine Nacht tut's kund der anderen.
@@ -311,7 +291,6 @@
 @15 Lass dir wohl gefallen die Rede meines Mundes und das Gespräch meines Herzens vor dir, HErr, mein Hort und mein Erlöser.
 
 # 20
-## Intercesión del pueblo por el rey a la salida del ejército
 @1 Ein Psalm Davids, vorzusingen.
 @2 Der HErr erhöre dich in der Not; der Name des Gottes Jakobs schütze dich!
 @3 Er sende dir Hilfe vom Heiligtum und stärke dich aus Zion.
@@ -324,7 +303,6 @@
 @10 Hilf, HErr, dem König und erhöre uns, wenn wir rufen!
 
 # 21
-## Oración de acción de gracias por los beneficios que Dios le ha mostrado al rey (especialmente por la victoria que le ha otorgado) y esperanza de nuevas bendiciones
 @1 Ein Psalm Davids, vorzusingen.
 @2 HErr, der König freut sich in deiner Kraft, und wie sehr fröhlich ist er über deine Hilfe!
 @3 Du gibst ihm seines Herzens Wunsch und weigerst nicht, was sein Mund bittet. (Sela.)
@@ -341,7 +319,6 @@
 @14 HErr, erhebe dich in deiner Kraft, so wollen wir singen und loben deine Macht.
 
 # 22
-## Lamento y esperanza de alguien abandonado por Dios (Salmo de la pasión del Salvador)
 @1 Ein Psalm Davids, vorzusingen; von der Hinde, die früh gejagt wird.
 @2 Mein Gott, mein Gott, warum hast du mich verlassen? Ich heule; aber meine Hilfe ist ferne.
 @3 Mein Gott, des Tages rufe ich, so antwortest du nicht; und des Nachts schweige ich auch nicht.
@@ -376,7 +353,6 @@
 @32 Sie werden kommen und seine Gerechtigkeit predigen dem Volk, das geboren wird, dass er's getan hat.
 
 # 23
-## El Señor como buen pastor y bondadoso dador de consuelo y seguridad
 @1 Ein Psalm Davids. Der HErr ist mein Hirte; mir wird nichts mangeln.
 @2 Er weidet mich auf einer grünen Aue und führet mich zum frischen Wasser.
 @3 Er erquicket meine Seele; er führet mich auf rechter Straße um seines Namens willen.
@@ -385,7 +361,6 @@
 @6 Gutes und Barmherzigkeit werden mir folgen mein Leben lang, und ich werde bleiben im Hause des HErrn immerdar.
 
 # 24
-## Canto ceremonial a la entrada (del pueblo y del rey de honor) al santuario
 @1 Ein Psalm Davids. Die Erde ist des HErrn und was darinnen ist, der Erdboden und was darauf wohnt.
 @2 Denn er hat ihn an die Meere gegründet und an den Wassern bereitet.
 @3 Wer wird auf des HErrn Berg gehen, und wer wird stehen an seiner heiligen Stätte?
@@ -398,7 +373,6 @@
 @10 Wer ist derselbe König der Ehren? Es ist der HErr Zebaoth; er ist der König der Ehren. (Sela.)
 
 # 25
-## Oración por la protección de Dios, por la guía llena de gracia y el perdón de los pecados
 @1 Ein Psalm Davids. Nach dir, HErr, verlangt mich.
 @2 Mein Gott, ich hoffe auf dich; lass mich nicht zu Schanden werden, dass sich meine Feinde nicht freuen über mich.
 @3 Denn keiner wird zu Schanden, der dein harret; aber zu Schanden müssen sie werden, die leichtfertigen Verächter.
@@ -423,7 +397,6 @@
 @22 Gott, erlöse Israel aus aller seiner Not!
 
 # 26
-## Un piadoso grito de auxilio, consciente de su inocencia
 @1 Ein Psalm Davids. HErr, schaffe mir Recht; denn ich bin unschuldig! Ich hoffe auf den HErrn; darum werde ich nicht fallen.
 @2 Prüfe mich, HErr, und versuche mich; läutere meine Nieren und mein Herz.
 @3 Denn deine Güte ist vor meinen Augen, und ich wandle in deiner Wahrheit.
@@ -438,7 +411,6 @@
 @12 Mein Fuß geht richtig. Ich will dich loben, HErr, in den Versammlungen.
 
 # 27
-## Confianza gozosa en el Señor y solicitud de mayor protección
 @1 Ein Psalm Davids. Der HErr ist mein Licht und mein Heil; vor wem sollte ich mich fürchten! Der HErr ist meines Lebens Kraft; vor wem sollte mir grauen!
 @2 So die Bösen, meine Widersacher und Feinde, an mich wollen, mein Fleisch zu fressen, müssen sie anlaufen und fallen.
 @3 Wenn sich schon ein Heer wider mich legt, so fürchtet sich dennoch mein Herz nicht; wenn sich Krieg wider mich erhebt, so verlasse ich mich auf ihn.
@@ -455,7 +427,6 @@
 @14 Harre des HErrn! Sei getrost und unverzagt und harre des HErrn!
 
 # 28
-## Oración y ayuda contra enemigos impíos y gracias por la respuesta
 @1 Ein Psalm Davids. Wenn ich rufe zu dir, HErr, mein Hort, so schweige mir nicht, auf dass nicht, wo du schweigst, ich gleich werde denen, die in die Grube fahren.
 @2 Höre die Stimme meines Flehens, wenn ich zu dir schreie, wenn ich meine Hände aufhebe zu deinem heiligen Chor.
 @3 Raffe mich nicht hin mit den Gottlosen und mit den Übeltätern, die freundlich reden mit ihrem Nächsten und haben Böses im Herzen.
@@ -467,7 +438,6 @@
 @9 Hilf deinem Volk und segne dein Erbe und weide sie und erhöhe sie ewiglich!
 
 # 29
-## La gloria de Dios en una tormenta
 @1 Ein Psalm Davids. Bringet her dem HErrn, ihr Gewaltigen, bringet her dem HErrn Ehre und Stärke!
 @2 Bringet dem HErrn die Ehre seines Namens; betet an den HErrn in heiligem Schmuck!
 @3 Die Stimme des HErrn geht über den Wassern; der Gott der Ehren donnert, der HErr über großen Wassern.
@@ -481,7 +451,6 @@
 @11 Der HErr wird seinem Volk Kraft geben; der HErr wird sein Volk segnen mit Frieden.
 
 # 30
-## Canción de agradecimiento para alguien rescatado de la angustia
 @1 Ein Psalm, zu singen von der Einweihung des Hauses, von David.
 @2 Ich preise dich, HErr; denn du hast mich erhöht und lässest meine Feinde sich nicht über mich freuen.
 @3 HErr, mein Gott, da ich schrie zu dir, machtest du mich gesund.
@@ -497,7 +466,6 @@
 @13 auf dass dir lobsinge meine Ehre und nicht stille werde. HErr, mein Gott, ich will dir danken in Ewigkeit.
 
 # 31
-## Oración confiada en extrema necesidad
 @1 Ein Psalm Davids, vorzusingen.
 @2 HErr, auf dich traue ich, lass mich nimmermehr zu Schanden werden; errette mich durch deine Gerechtigkeit!
 @3 Neige deine Ohren zu mir, eilend hilf mir! Sei mir ein starker Fels und eine Burg, dass du mir helfest!
@@ -525,7 +493,6 @@
 @25 Seid getrost und unverzagt, alle, die ihr des HErrn harret!
 
 # 32
-## Bendiciones del arrepentimiento y bienaventuranza del perdón de los pecados (Salmo Segundo Penitencial)
 @1 Eine Unterweisung Davids. Wohl dem, dem die Übertretungen vergeben sind, dem die Sünde bedeckt ist!
 @2 Wohl dem Menschen, dem der HErr die Missetat nicht zurechnet, in des Geist kein Falsch ist!
 @3 Denn da ich's wollte verschweigen, verschmachteten meine Gebeine durch mein täglich Heulen.
@@ -539,7 +506,6 @@
 @11 Freuet euch des HErrn und seid fröhlich, ihr Gerechten, und rühmet, alle ihr Frommen.
 
 # 33
-## Invitación a alabar la omnipotencia y la gracia de Dios
 @1 Freuet euch des HErrn, ihr Gerechten; die Frommen sollen ihn preisen.
 @2 Danket dem HErrn mit Harfen und lobsinget ihm auf dem Psalter von zehn Saiten.
 @3 Singet ihm ein neues Lied; machet's gut auf Saitenspiel mit Schall.
@@ -564,7 +530,6 @@
 @22 Deine Güte, HErr, sei über uns, wie wir auf dich hoffen.
 
 # 34
-## Dios ayuda a los suyos en cada necesidad
 @1 Ein Psalm Davids, da er seine Gebärde verstellte vor Abimelech, als der ihn von sich trieb und er wegging.
 @2 Ich will den HErrn loben allezeit; sein Lob soll immerdar in meinem Munde sein.
 @3 Meine Seele soll sich rühmen des HErrn, dass es die Elenden hören und sich freuen.
@@ -590,7 +555,6 @@
 @23 Der HErr erlöst die Seele seiner Knechte; und alle, die auf ihn trauen, werden keine Schuld haben.
 
 # 35
-## Pide ayuda a un tolerante contra enemigos infieles e ingratos
 @1 Ein Psalm Davids. HErr, hadere mit meinen Haderern; streite wider meine Bestreiter.
 @2 Ergreife Schild und Waffen und mache dich auf, mir zu helfen!
 @3 Zücke den Spieß und schütze mich wider meine Verfolger! Sprich zu meiner Seele: Ich bin deine Hilfe!
@@ -621,7 +585,6 @@
 @28 Und meine Zunge soll reden von deiner Gerechtigkeit und dich täglich preisen.
 
 # 36
-## Los acontecimientos desesperados de los malvados y las bendiciones de la comunión con Dios
 @1 Ein Psalm Davids, des Knechtes des HErrn, vorzusingen.
 @2 Es ist aus Grund meines Herzens von der Gottlosen Wesen gesprochen, dass keine Gottesfurcht bei ihnen ist.
 @3 Sie schmücken sich untereinander selbst, dass sie ihre böse Sache fördern und andere verunglimpfen.
@@ -637,7 +600,6 @@
 @13 sondern lass sie, die Übeltäter, daselbst fallen, dass sie verstoßen werden und nicht bleiben mögen.
 
 # 37
-## La falsa suerte de los malvados (= impíos) permite que los justos sean piadosos
 @1 Ein Psalm Davids. Erzürne dich nicht über die Bösen; sei nicht neidisch auf die Übeltäter.
 @2 Denn wie das Gras werden sie bald abgehauen, und wie das grüne Kraut werden sie verwelken.
 @3 Hoffe auf den HErrn und tue Gutes; bleibe im Lande und nähre dich redlich.
@@ -680,7 +642,6 @@
 @40 Und der HErr wird ihnen beistehen und wird sie erretten; er wird sie von den Gottlosen erretten und ihnen helfen; denn sie trauen auf ihn.
 
 # 38
-## Oración penitencial y clamor por ayuda en enfermedades graves y angustias (tercer salmo penitencial)
 @1 Ein Psalm Davids, zum Gedächtnis.
 @2 HErr, strafe mich nicht in deinem Zorn und züchtige mich nicht in deinem Grimm.
 @3 Denn deine Pfeile stecken in mir, und deine Hand drückt mich.
@@ -706,7 +667,6 @@
 @23 Eile, mir beizustehen, HErr, meine Hilfe.
 
 # 39
-## Demanda y solicitud de una persona fuertemente impugnada
 @1 Ein Psalm Davids, vorzusingen, für Jeduthun.
 @2 Ich habe mir vorgesetzt: Ich will mich hüten, dass ich nicht sündige mit meiner Zunge. Ich will meinen Mund zäumen, weil ich muss den Gottlosen vor mir sehen.
 @3 Ich bin verstummt und still und schweige der Freuden und muss mein Leid in mich fressen.
@@ -723,7 +683,6 @@
 @14 Lass ab von mir, dass ich mich erquicke, ehe denn ich hinfahre und nicht mehr hier sei.
 
 # 40
-## Acción de gracias y súplica
 @1 Ein Psalm Davids, vorzusingen.
 @2 Ich harrte des HErrn; und er neigte sich zu mir und hörte mein Schreien
 @3 und zog mich aus der grausamen Grube und aus dem Schlamm und stellte meine Füße auf einen Fels, dass ich gewiss treten kann;
@@ -744,7 +703,6 @@
 @18 Denn ich bin arm und elend; der HErr aber sorgt für mich. Du bist mein Helfer und Erretter; mein Gott, verziehe nicht!
 
 # 41
-## Un enfermo se queja de enemigos maliciosos y amigos infieles
 @1 Ein Psalm Davids, vorzusingen.
 @2 Wohl dem, der sich des Dürftigen annimmt! Den wird der HErr erretten zur bösen Zeit.
 @3 Der HErr wird ihn bewahren und beim Leben erhalten und es ihm lassen wohl gehen auf Erden und wird ihn nicht geben in seiner Feinde Willen.
@@ -761,7 +719,6 @@
 @14 Gelobet sei der HErr, der Gott Israels, von nun an bis in Ewigkeit! Amen, amen.
 
 # 42
-## Anhelo de Dios y su santuario en Sion
 @1 Eine Unterweisung der Kinder Korah, vorzusingen.
 @2 Wie der Hirsch schreit nach frischem Wasser, so schreit meine Seele, Gott, zu dir.
 @3 Meine Seele dürstet nach Gott, nach dem lebendigen Gott. Wann werde ich dahin kommen, dass ich Gottes Angesicht schaue?
@@ -783,7 +740,6 @@
 @5 Was betrübst du dich, meine Seele, und bist so unruhig in mir? Harre auf Gott! denn ich werde ihm noch danken, dass er meines Angesichts Hilfe und mein Gott ist.
 
 # 44
-## Lamentar y clamar por ayuda del pueblo respetuoso de la ley, pero derrotado y maltratado por sus enemigos
 @1 Eine Unterweisung der Kinder Korah, vorzusingen.
 @2 Gott, wir haben's mit unseren Ohren gehört, unsere Väter haben's uns erzählt, was du getan hast zu ihren Zeiten vor alters.
 @3 Du hast mit deiner Hand die Heiden vertrieben, aber sie hast du eingesetzt; du hast die Völker verderbt, aber sie hast du ausgebreitet.
@@ -813,7 +769,6 @@
 @27 Mache dich auf, hilf uns und erlöse uns um deiner Güte willen!
 
 # 45
-## Canción de celebración de la boda del rey
 @1 Ein Brautlied und Unterweisung der Kinder Korah, von den Rosen, vorzusingen.
 @2 Mein Herz dichtet ein feines Lied; ich will singen von meinem König; meine Zunge ist wie der Griffel eines guten Schreibers.
 @3 Du bist der Schönste unter den Menschenkindern, holdselig sind deine Lippen; darum segnet dich Gott ewiglich.
@@ -834,7 +789,6 @@
 @18 Ich will deines Namens gedenken von Kind zu Kindeskind; darum werden dir danken die Völker immer und ewiglich.
 
 # 46
-## Una poderosa fortaleza es nuestro Dios
 @1 Ein Lied der Kinder Korah, von der Jugend, vorzusingen.
 @2 Gott ist unsere Zuversicht und Stärke. Eine Hilfe in den großen Nöten, die uns getroffen haben.
 @3 Darum fürchten wir uns nicht, wenngleich die Welt unterginge und die Berge mitten ins Meer sänken,
@@ -849,7 +803,6 @@
 @12 Der HErr Zebaoth ist mit uns; der Gott Jakobs ist unser Schutz. (Sela.)
 
 # 47
-## El Dios de Israel como Rey de todos los pueblos
 @1 Ein Psalm der Kinder Korah, vorzusingen.
 @2 Frohlocket mit Händen, alle Völker, und jauchzet Gott mit fröhlichem Schall!
 @3 Denn der HErr, der Allerhöchste, ist erschrecklich, ein großer König auf dem ganzen Erdboden.
@@ -862,7 +815,6 @@
 @10 Die Fürsten unter den Völkern sind versammelt zu einem Volk des Gottes Abrahams; denn Gottes sind die Schilde auf Erden, er hat sich sehr erhöht.
 
 # 48
-## La fiesta de los peregrinos alaba a Sión, la ciudad invicta de Dios
 @1 Ein Psalmlied der Kinder Korah.
 @2 Groß ist der HErr und hochberühmt in der Stadt unseres Gottes, auf seinem heiligen Berge.
 @3 Schön ragt empor der Berg Zion, des sich das ganze Land tröstet; an der Seite gegen Mitternacht liegt die Stadt des großen Königs.
@@ -880,7 +832,6 @@
 @15 dass dieser Gott sei unser Gott immer und ewiglich. Er führt uns wie die Jugend.
 
 # 49
-## Impermanencia de la felicidad exterior de los malvados
 @1 Ein Psalm der Kinder Korah, vorzusingen.
 @2 Höret zu, alle Völker; merket auf, alle, die in dieser Zeit leben,
 @3 beide, gemeiner Mann und Herren, beide, reich und arm, miteinander!
@@ -904,7 +855,6 @@
 @21 Kurz, wenn ein Mensch in Ansehen ist und hat keinen Verstand, so fährt er davon wie ein Vieh.
 
 # 50
-## La adoración correcta
 @1 Ein Psalm Asaphs. Gott, der HErr, der Mächtige, redet und ruft der Welt vom Aufgang der Sonne bis zu ihrem Niedergang.
 @2 Aus Zion bricht an der schöne Glanz Gottes.
 @3 Unser Gott kommt und schweigt nicht. Fressend Feuer geht vor ihm her und um ihn her ein großes Wetter.
@@ -930,7 +880,6 @@
 @23 Wer Dank opfert, der preiset mich; und da ist der Weg, dass ich ihm zeige das Heil Gottes.“
 
 # 51
-## Oración penitencial de David (cuarto salmo penitencial)
 @1 Ein Psalm Davids, vorzusingen;
 @2 da der Prophet Nathan zu ihm kam, als er war zu Bath-Seba eingegangen.
 @3 Gott, sei mir gnädig nach deiner Güte und tilge meine Sünden nach deiner großen Barmherzigkeit.
@@ -954,7 +903,6 @@
 @21 Dann werden dir gefallen die Opfer der Gerechtigkeit, die Brandopfer und ganzen Opfer; dann wird man Farren auf deinem Altar opfern.
 
 # 52
-## Quejarse de un enemigo violento y regocijarse con la ayuda divina
 @1 Eine Unterweisung Davids, vorzusingen;
 @2 da Doeg, der Edomiter, kam und sagte Saul an und sprach: David ist in Ahimelechs Haus gekommen.
 @3 Was trotzest du denn, du Tyrann, dass du kannst Schaden tun; so doch Gottes Güte noch täglich währet?
@@ -968,7 +916,6 @@
 @11 Ich danke dir ewiglich, denn du kannst's wohl machen; ich will harren auf deinen Namen, denn deine Heiligen haben Freude daran.
 
 # 53
-## Pensamientos sobre la depravación general del mundo y pedir redención
 @1 Eine Unterweisung Davids, im Chor umeinander vorzusingen.
 @2 Die Toren sprechen in ihrem Herzen: Es ist kein Gott. Sie taugen nichts und sind ein Gräuel geworden in ihrem bösen Wesen; da ist keiner, der Gutes tut.
 @3 Gott schaut vom Himmel auf der Menschen Kinder, dass er sehe, ob jemand klug sei, der nach Gott frage.
@@ -978,7 +925,6 @@
 @7 Ach dass die Hilfe aus Zion über Israel käme und Gott sein gefangen Volk erlösete! So würde sich Jakob freuen und Israel fröhlich sein.
 
 # 54
-## Pide ayuda contra enemigos impíos
 @1 Eine Unterweisung Davids, vorzusingen, auf Saitenspiel;
 @2 da die von Siph kamen und sprachen zu Saul: David hat sich bei uns verborgen.
 @3 Hilf mir, Gott, durch deinen Namen und schaffe mir Recht durch deine Gewalt.
@@ -990,7 +936,6 @@
 @9 Denn du errettest mich aus aller meiner Not, dass mein Auge an meinen Feinden Lust sieht.
 
 # 55
-## Oración contra un enemigo impío y queja contra un amigo infiel
 @1 Eine Unterweisung Davids, vorzusingen, auf Saitenspiel.
 @2 Gott, höre mein Gebet und verbirg dich nicht vor meinem Flehen.
 @3 Merke auf mich und erhöre mich, wie ich so kläglich zage und heule,
@@ -1017,7 +962,6 @@
 @24 Aber, Gott, du wirst sie hinunterstoßen in die tiefe Grube: die Blutgierigen und Falschen werden ihr Leben nicht zur Hälfte bringen. Ich aber hoffe auf dich.
 
 # 56
-## Coraje seguro en una situación desesperada
 @1 Ein gülden Kleinod Davids, von der stummen Taube unter den Fremden, da ihn die Philister griffen zu Gath.
 @2 Gott, sei mir gnädig, denn Menschen schnauben wider mich; täglich streiten sie und ängsten mich.
 @3 Meine Feinde schnauben täglich; denn viele streiten stolz wider mich.
@@ -1034,7 +978,6 @@
 @14 denn du hast meine Seele vom Tode errettet, meine Füße vom Gleiten, dass ich wandle vor Gott im Licht der Lebendigen.
 
 # 57
-## Confianza en Dios en medio de enemigos
 @1 Ein gülden Kleinod Davids, vorzusingen, dass er nicht umkäme, da er vor Saul floh in die Höhle.
 @2 Sei mir gnädig, Gott, sei mir gnädig! denn auf dich traut meine Seele, und unter dem Schatten deiner Flügel habe ich Zuflucht, bis dass das Unglück vorübergehe.
 @3 Ich rufe zu Gott, dem Allerhöchsten, zu Gott, der meines Jammers ein Ende macht.
@@ -1049,7 +992,6 @@
 @12 Erhebe dich, Gott, über den Himmel, und deine Ehre über alle Welt.
 
 # 58
-## Contra jueces (o gobernantes) injustos
 @1 Ein gülden Kleinod Davids, vorzusingen, dass er nicht umkäme.
 @2 Seid ihr denn stumm, dass ihr nicht reden wollt, was recht ist, und richten, was gleich ist, ihr Menschenkinder?
 @3 Ja, mutwillig tut ihr Unrecht im Lande und gehet stracks durch, mit euren Händen zu freveln.
@@ -1064,7 +1006,6 @@
 @12 dass die Leute werden sagen: Der Gerechte wird ja seiner Frucht genießen; es ist ja noch Gott Richter auf Erden.
 
 # 59
-## Un grito de ayuda de un enemigo violento
 @1 Ein gülden Kleinod Davids, dass er nicht umkäme, da Saul hinsandte und ließ sein Haus verwahren, dass er ihn tötete.
 @2 Errette mich, mein Gott, von meinen Feinden und schütze mich vor denen, die sich wider mich setzen.
 @3 Errette mich von den Übeltätern und hilf mir von den Blutgierigen.
@@ -1085,7 +1026,6 @@
 @18 Ich will dir, mein Hort, lobsingen; denn du, Gott, bist mein Schutz und mein gnädiger Gott.
 
 # 60
-## Oración después de una severa derrota en la guerra
 @1 Ein gülden Kleinod Davids, vorzusingen; von der Rose des Zeugnisses, zu lehren;
 @2 da er gestritten hatte mit den Syrern zu Mesopotamien und mit den Syrern von Zoba; da Joab umkehrte und schlug der Edomiter im Salztal zwölftausend.
 @3 Gott, der du uns verstoßen und zerstreut hast und zornig warst, tröste uns wieder.
@@ -1102,7 +1042,6 @@
 @14 Mit Gott wollen wir Taten tun. Er wird unsere Feinde untertreten.
 
 # 61
-## Intercesión por el Rey desde lejos
 @1 Ein Psalm Davids, vorzusingen, auf Saitenspiel.
 @2 Höre, Gott, mein Schreien und merke auf mein Gebet!
 @3 Hienieden auf Erden rufe ich zu dir, wenn mein Herz in Angst ist, du wollest mich führen auf einen hohen Felsen.
@@ -1114,7 +1053,6 @@
 @9 So will ich deinem Namen lobsingen ewiglich, dass ich meine Gelübde bezahle täglich.
 
 # 62
-## ¡Silencio en Dios! La nada de la gente
 @1 Ein Psalm Davids für Jeduthun, vorzusingen.
 @2 Meine Seele ist stille zu Gott, der mir hilft.
 @3 Denn er ist mein Hort, meine Hilfe, meine Schutz, dass mich kein Fall stürzen wird, wie groß er ist.
@@ -1130,7 +1068,6 @@
 @13 Und du, HErr, bist gnädig und bezahlst einem jeglichen, wie er's verdient.
 
 # 63
-## Anhelo de Dios, el refrigerio del alma y el bien supremo
 @1 Ein Psalm Davids, da er war in der Wüste Juda.
 @2 Gott, du bist mein Gott; frühe wache ich zu dir. Es dürstet meine Seele nach dir; mein Fleisch verlangt nach dir in einem trockenen und dürren Land, da kein Wasser ist.
 @3 Daselbst sehe ich nach dir in deinem Heiligtum, wollte gerne schauen deine Macht und Ehre.
@@ -1145,7 +1082,6 @@
 @12 Aber der König freut sich in Gott. Wer bei ihm schwört, wird gerühmt werden; denn die Lügenmäuler sollen verstopft werden.
 
 # 64
-## Pide protección contra enemigos maliciosos
 @1 Ein Psalm Davids, vorzusingen.
 @2 Höre, Gott, meine Stimme in meiner Klage; behüte mein Leben vor dem grausamen Feinde.
 @3 Verbirg mich vor der Versammlung der Bösen, vor dem Haufen der Übeltäter,
@@ -1159,7 +1095,6 @@
 @11 Die Gerechten werden sich des HErrn freuen und auf ihn trauen, und alle frommen Herzen werden sich des rühmen.
 
 # 65
-## Canción de acción de gracias por los beneficios espirituales divinos y las bendiciones de la cosecha
 @1 Ein Psalm Davids, ein Lied, vorzusingen.
 @2 Gott, man lobt dich in der Stille zu Zion, und dir bezahlt man Gelübde.
 @3 Du erhörst Gebet; darum kommt alles Fleisch zu dir.
@@ -1176,7 +1111,6 @@
 @14 Die Anger sind voll Schafe, und die Auen stehen dick mit Korn, dass man jauchzet und singet.
 
 # 66
-## Canto de agradecimiento del pueblo por su maravillosa guía y salvación
 @1 Ein Psalmlied, vorzusingen. Jauchzet Gott, alle Lande!
 @2 Lobsinget zu Ehren seinem Namen; rühmet ihn herrlich!
 @3 Sprechet zu Gott: „Wie wunderbar sind deine Werke! Es wird deinen Feinden fehlen vor deiner großen Macht.
@@ -1199,7 +1133,6 @@
 @20 Gelobt sei Gott, der mein Gebet nicht verwirft noch seine Güte von mir wendet.
 
 # 67
-## ¡Dios bendiga a Israel! (Canción de Acción de Gracias)
 @1 Ein Psalmlied, vorzusingen, auf Saitenspiel.
 @2 Gott sei uns gnädig und segne uns; er lasse uns sein Antlitz leuchten (Sela),
 @3 dass man auf Erden erkenne seinen Weg, unter allen Heiden sein Heil.
@@ -1210,7 +1143,6 @@
 @8 Es segne uns Gott, und alle Welt fürchte ihn!
 
 # 68
-## La victoria del Dios de Israel sobre sus enemigos
 @1 Ein Psalmlied Davids, vorzusingen.
 @2 Es stehe Gott auf, dass seine Feinde zerstreut werden, und die ihn hassen, vor ihm fliehen.
 @3 Vertreibe sie, wie der Rauch vertrieben wird; wie das Wachs zerschmilzt vom Feuer, so müssen umkommen die Gottlosen vor Gott.
@@ -1249,7 +1181,6 @@
 @36 Gott ist wundersam in seinem Heiligtum. Er ist Gott Israels; er wird dem Volk Macht und Kraft geben. Gelobt sei Gott!
 
 # 69
-## La oración de un hombre piadoso por la salvación de la vergüenza y la angustia
 @1 Ein Psalm Davids, von den Rosen, vorzusingen.
 @2 Gott, hilf mir; denn das Wasser geht mir bis an die Seele.
 @3 Ich versinke im tiefen Schlamm, da kein Grund ist; ich bin in tiefem Wasser, und die Flut will mich ersäufen.
@@ -1289,7 +1220,6 @@
 @37 Und der Same seiner Knechte wird sie ererben, und die seinen Namen lieben, werden darin bleiben.
 
 # 70
-## Pide ayuda en la búsqueda
 @1 Ein Psalm Davids, vorzusingen, zum Gedächtnis.
 @2 Eile, Gott, mich zu erretten, HErr, mir zu helfen!
 @3 Es müssen sich schämen und zu Schanden werden, die nach meiner Seele stehen; sie müssen zurückkehren und gehöhnt werden, die mir Übles wünschen,
@@ -1298,7 +1228,6 @@
 @6 Ich aber bin elend und arm. Gott, eile zu mir, denn du bist mein Helfer und Erretter; mein Gott, verziehe nicht!
 
 # 71
-## ¡No me dejes en la vejez!
 @1 HErr, ich traue auf dich; lass mich nimmermehr zu Schanden werden.
 @2 Errette mich durch deine Gerechtigkeit und hilf mir aus; neige deine Ohren zu mir und hilf mir!
 @3 Sei mir ein starker Hort, dahin ich immer fliehen möge, der du zugesagt hast mir zu helfen; denn du bist mein Fels und meine Burg.
@@ -1325,7 +1254,6 @@
 @24 Auch dichtet meine Zunge täglich von deiner Gerechtigkeit; denn schämen müssen sich und zu Schanden werden, die mein Unglück suchen.
 
 # 72
-## Bendiciones al rey
 @1 Des Salomo. Gott, gib dein Gericht dem König und deine Gerechtigkeit des Königs Sohne,
 @2 dass er dein Volk richte mit Gerechtigkeit und deine Elenden rette.
 @3 Lass die Berge den Frieden bringen unter das Volk und die Hügel die Gerechtigkeit.
@@ -1348,7 +1276,6 @@
 @20 Ein Ende haben die Gebete Davids, des Sohnes Isais.
 
 # 73
-## El hecho por Dios »sin embargo«
 @1 Ein Psalm Asaphs. Israel hat dennoch Gott zum Trost, wer nur reines Herzens ist.
 @2 Ich aber hätte schier gestrauchelt mit meinen Füßen; mein Tritt wäre beinahe geglitten.
 @3 Denn es verdross mich der Ruhmredigen, da ich sah, dass es den Gottlosen so wohl ging.
@@ -1379,7 +1306,6 @@
 @28 Aber das ist meine Freude, dass ich mich zu Gott halte und meine Zuversicht setze auf den Herrn HErrn, dass ich verkündige all dein Tun.
 
 # 74
-## Quejarse ante la congregación de la devastación del templo y pedir ayuda
 @1 Eine Unterweisung Asaphs. Gott, warum verstößest du uns so gar und bist so grimmig zornig über die Schafe deiner Weide?
 @2 Gedenke an deine Gemeinde, die du vor alters erworben und dir zum Erbteil erlöst hast, an den Berg Zion, darauf du wohnest.
 @3 Hebe auf deine Schritte zum dem, was so lange wüst liegt. Der Feind hat alles verderbt im Heiligtum.
@@ -1405,7 +1331,6 @@
 @23 Vergiss nicht des Geschreis deiner Feinde; das Toben deiner Widersacher wird je länger, je größer.
 
 # 75
-## Dios, el juez del mundo justo
 @1 Ein Psalm und Lied Asaphs, dass er nicht umkäme, vorzusingen.
 @2 Wir danken dir, Gott, wir danken dir und verkündigen deine Wunder, dass dein Name so nahe ist.
 @3 „Denn zu seiner Zeit, so werde ich recht richten.
@@ -1419,7 +1344,6 @@
 @11 „Und will alle Gewalt der Gottlosen zerbrechen, dass die Gewalt des Gerechten erhöht werde.“
 
 # 76
-## El canto de la victoria de Israel en alabanza a Dios
 @1 Ein Psalmlied Asaphs, auf Saitenspiel, vorzusingen.
 @2 Gott ist in Juda bekannt; in Israel ist sein Name herrlich.
 @3 Zu Salem ist sein Gezelt, und seine Wohnung zu Zion.
@@ -1435,7 +1359,6 @@
 @13 der den Fürsten den Mut nimmt und schrecklich ist unter den Königen auf Erden.
 
 # 77
-## Recuerdos en tiempos dolorosos del liderazgo anterior de Dios y quejas sobre el cambio en el comportamiento divino hacia su pueblo
 @1 Ein Psalm Asaphs für Jeduthun, vorzusingen.
 @2 Ich schreie mit meiner Stimme zu Gott; zu Gott schreie ich, und er erhört mich.
 @3 In der Zeit der Not suche ich den HErrn; meine Hand ist des Nachts ausgereckt und lässt nicht ab; denn meine Seele will sich nicht trösten lassen.
@@ -1459,7 +1382,6 @@
 @21 Du führtest dein Volk wie eine Herde Schafe durch Mose und Aaron.
 
 # 78
-## Revisión de advertencia de la desobediencia repetida de Israel
 @1 Eine Unterweisung Asaphs. Höre, mein Volk, mein Gesetz; neiget eure Ohren zu der Rede meines Mundes!
 @2 Ich will meinen Mund auftun zu Sprüchen und alte Geschichten aussprechen,
 @3 die wir gehört haben und wissen und unsere Väter uns erzählt haben,
@@ -1534,7 +1456,6 @@
 @72 Und er weidete sie auch mit aller Treue und regierte sie mit allem Fleiß.
 
 # 79
-## Lamentación del pueblo de Dios por la desolación de Jerusalén
 @1 Ein Psalm Asaphs. Gott, es sind Heiden in dein Erbe gefallen; die haben deinen heiligen Tempel verunreinigt und aus Jerusalem Steinhaufen gemacht.
 @2 Sie haben die Leichname deiner Knechte den Vögeln zu fressen gegeben und das Fleisch deiner Heiligen den Tieren im Lande.
 @3 Sie haben Blut vergossen um Jerusalem her wie Wasser; und war niemand, der begrub.
@@ -1550,7 +1471,6 @@
 @13 Wir aber, dein Volk und Schafe deiner Weide, werden dir danken ewiglich und verkündigen deinen Ruhm für und für.
 
 # 80
-## Oración por la restauración de Israel, la vid que Dios plantó
 @1 Ein Psalm und Zeugnis Asaphs, von den Rosen, vorzusingen.
 @2 Du Hirte Israels, höre, der du Joseph hütest wie Schafe; erscheine, der du sitzest über dem Cherubim!
 @3 Erwecke deine Gewalt, der du vor Ephraim, Benjamin und Manasse bist, und komm uns zu Hilfe!
@@ -1573,7 +1493,6 @@
 @20 HErr, Gott Zebaoth, tröste uns, lass dein Antlitz leuchten; so genesen wir.
 
 # 81
-## Canción del festival. Con penitencia
 @1 Auf der Gittith, vorzusingen, Asaphs.
 @2 Singet fröhlich Gott, der unsere Stärke ist; jauchzet dem Gott Jakobs!
 @3 Hebet an mit Psalmen und gebet her die Pauken, liebliche Harfen mit Psaltern!
@@ -1593,7 +1512,6 @@
 @17 und ich würde sie mit dem besten Weizen speisen und mit Honig aus dem Felsen sättigen.“
 
 # 82
-## El juicio de Dios sobre jueces injustos (es decir, gobernantes obedientes)
 @1 Ein Psalm Asaphs. Gott steht in der Gemeinde Gottes und ist Richter unter den Göttern.
 @2 Wie lange wollt ihr unrecht richten und die Person der Gottlosen vorziehen? (Sela.)
 @3 Schaffet Recht dem Armen und dem Waisen und helfet dem Elenden und Dürftigen zum Recht.
@@ -1604,7 +1522,6 @@
 @8 Gott, mache dich auf und richte den Erdboden; denn du bist Erbherr über alle Heiden!
 
 # 83
-## ¡Enemigos por todas partes! (Oración del pueblo angustiado)
 @1 Ein Psalmlied Asaphs.
 @2 Gott, schweige doch nicht also und sei doch nicht so still; Gott, halt doch nicht so inne!
 @3 Denn siehe, deine Feinde toben, und die dich hassen, richten den Kopf auf.
@@ -1626,7 +1543,6 @@
 @19 so werden sie erkennen, dass du mit deinem Namen heißest HErr allein und der Höchste in aller Welt.
 
 # 84
-## Anhelo de la casa de Dios (¿una canción de peregrinaje?)
 @1 Ein Psalm der Kinder Korah, auf der Gittith, vorzusingen.
 @2 Wie lieblich sind deine Wohnungen, HErr Zebaoth!
 @3 Meine Seele verlangt und sehnt sich nach den Vorhöfen des HErrn; mein Leib und Seele freuen sich in dem lebendigen Gott.
@@ -1642,7 +1558,6 @@
 @13 HErr Zebaoth, wohl dem Menschen, der sich auf dich verlässt!
 
 # 85
-## La oración de Israel por nueva gracia y la promesa de bendición de Dios
 @1 Ein Psalm der Kinder Korah, vorzusingen.
 @2 HErr, der du bist vormals gnädig gewesen deinem Lande und hast die Gefangenen Jakobs erlöst;
 @3 der du die Missetat vormals vergeben hast deinem Volk und alle ihre Sünde bedeckt (Sela);
@@ -1659,7 +1574,6 @@
 @14 dass Gerechtigkeit fürder vor ihm bleibe und im Schwange gehe.
 
 # 86
-## Oración de los piadosos en angustia hostil
 @1 Ein Gebet Davids. HErr, neige deine Ohren und erhöre mich; denn ich bin elend und arm.
 @2 Bewahre meine Seele; denn ich bin heilig. Hilf du, mein Gott, deinem Knechte, der sich verlässt auf dich.
 @3 HErr, sei mir gnädig; denn ich rufe täglich zu dir!
@@ -1679,7 +1593,6 @@
 @17 Tu ein Zeichen an mir, dass mir's wohl gehe, dass es sehen, die mich hassen, und sich schämen müssen, dass du mir beistehst, HErr, und tröstest mich.
 
 # 87
-## Sion, la piadosa ciudad madre de las naciones
 @1 Ein Psalmlied der Kinder Korah. Sie ist fest gegründet auf den heiligen Bergen.
 @2 Der HErr liebt die Tore Zions über alle Wohnungen Jakobs.
 @3 Herrliche Dinge werden in dir gepredigt, du Stadt Gottes. (Sela.)
@@ -1689,7 +1602,6 @@
 @7 Und die Sänger wie die im Reigen werden alle in dir singen, eins ums andere.
 
 # 88
-## Queja desesperada de un enfermo grave
 @1 Ein Psalmlied der Kinder Korah, vorzusingen, von der Schwachheit der Elenden. Eine Unterweisung Hemans, des Esrahiten.
 @2 HErr, Gott, mein Heiland, ich schreie Tag und Nacht vor dir.
 @3 Lass mein Gebet vor dich kommen; neige deine Ohren zu meinem Geschrei.
@@ -1711,7 +1623,6 @@
 @19 Du machst, dass meine Freunde und Nächsten und meine Verwandten sich ferne von mir halten um solches Elends willen.
 
 # 89
-## ¿Dónde se dan las promesas de gracia de Dios a la Casa de David?
 @1 Eine Unterweisung Ethans, des Esrahiten.
 @2 Ich will singen von der Gnade des HErrn ewiglich und seine Wahrheit verkündigen mit meinem Munde für und für
 @3 und sage also: Dass eine ewige Gnade wird aufgehen, und du wirst deine Wahrheit treulich halten im Himmel.
@@ -1767,7 +1678,6 @@
 @53 Gelobet sei der HErr ewiglich! Amen, amen.
 
 # 90
-## Dios eterno el refugio de los perecederos
 @1 Ein Gebet Moses, des Mannes Gottes. HErr, Gott, du bist unsere Zuflucht für und für.
 @2 Ehe denn die Berge wurden und die Erde und die Welt geschaffen wurden, bist du, Gott, von Ewigkeit zu Ewigkeit,
 @3 der du die Menschen lässest sterben und sprichst: Kommt wieder, Menschenkinder!
@@ -1787,7 +1697,6 @@
 @17 Und der HErr, unser Gott, sei uns freundlich und fördere das Werk unserer Hände bei uns; ja, das Werk unserer Hände wolle er fördern!
 
 # 91
-## Bajo el cuidado del Altísimo
 @1 Wer unter dem Schirm des Höchsten sitzt und unter dem Schatten des Allmächtigen bleibt,
 @2 der spricht zu dem HErrn: Meine Zuversicht und meine Burg, mein Gott, auf den ich hoffe.
 @3 Denn er errettet dich vom Strick des Jägers und von der schädlichen Pestilenz.
@@ -1806,7 +1715,6 @@
 @16 Ich will ihn sättigen mit langem Leben und will ihm zeigen mein Heil.“
 
 # 92
-## Alabado sea el justo gobierno de Dios
 @1 Ein Psalmlied auf den Sabbattag.
 @2 Das ist ein köstlich Ding, dem HErrn danken, und lobsingen deinem Namen, du Höchster,
 @3 des Morgens deine Gnade und des Nachts deine Wahrheit verkündigen
@@ -1825,7 +1733,6 @@
 @16 dass sie verkündigen, dass der HErr so fromm ist, mein Hort, und ist kein Unrecht an ihm.
 
 # 93
-## La gloria de Dios, el Rey eterno del mundo
 @1 Der HErr ist König und herrlich geschmückt; der HErr ist geschmückt und hat ein Reich angefangen, soweit die Welt ist, und zugerichtet, dass es bleiben soll.
 @2 Von Anbeginn steht dein Stuhl fest; du bist ewig.
 @3 HErr, die Wasserströme erheben sich, die Wasserströme erheben ihr Brausen, die Wasserströme heben empor die Wellen.
@@ -1833,7 +1740,6 @@
 @5 Dein Wort ist eine rechte Lehre. Heiligkeit ist die Zierde deines Hauses, o HErr, ewiglich.
 
 # 94
-## Pide venganza contra los impíos opresores del pueblo de Dios
 @1 HErr, Gott, des die Rache ist, Gott, des die Rache ist, erscheine!
 @2 Erhebe dich, du Richter der Welt; vergilt den Hoffärtigen, was sie verdienen!
 @3 HErr, wie lange sollen die Gottlosen, wie lange sollen die Gottlosen prahlen
@@ -1859,7 +1765,6 @@
 @23 Und er wird ihnen ihr Unrecht vergelten und wird sie um ihre Bosheit vertilgen; der HErr, unser Gott, wird sie vertilgen.
 
 # 95
-## Alabanza a Dios al entrar al templo y penitencia
 @1 Kommt herzu, lasst uns dem HErrn frohlocken und jauchzen dem Hort unseres Heils!
 @2 Lasset uns mit Danken vor sein Angesicht kommen und mit Psalmen ihm jauchzen!
 @3 Denn der HErr ist ein großer Gott und ein großer König über alle Götter.
@@ -1873,7 +1778,6 @@
 @11 dass ich schwur in meinem Zorn: Sie sollen nicht zu meiner Ruhe kommen.
 
 # 96
-## Alabado sea Dios como el gobernante del mundo en los últimos tiempos
 @1 Singet dem HErrn ein neues Lied; singet dem HErrn, alle Welt!
 @2 Singet dem HErrn und lobet seinen Namen; verkündiget von Tag zu Tage sein Heil!
 @3 Erzählet unter den Heiden seine Ehre, unter allen Völkern seine Wunder.
@@ -1889,7 +1793,6 @@
 @13 vor dem HErrn; denn er kommt, denn er kommt, zu richten das Erdreich. Er wird den Erdboden richten mit Gerechtigkeit und die Völker mit seiner Wahrheit.
 
 # 97
-## El ascenso y el reinado de Dios en los últimos tiempos
 @1 Der HErr ist König; des freue sich das Erdreich und seien fröhlich die Inseln, soviel ihrer sind.
 @2 Wolken und Dunkel ist um ihn her; Gerechtigkeit und Gericht ist seines Stuhles Festung.
 @3 Feuer geht vor ihm her und zündet an umher seine Feinde.
@@ -1904,7 +1807,6 @@
 @12 Ihr Gerechten freuet euch des HErrn und danket ihm und preiset seine Heiligkeit!
 
 # 98
-## Alabado sea Dios como rey y juez justo del mundo
 @1 Ein Psalm. Singet dem HErrn ein neues Lied; denn er tut Wunder. Er siegt mit seiner Rechten und mit seinem heiligen Arm.
 @2 Der HErr lässt sein Heil verkündigen; vor den Völkern lässt er seine Gerechtigkeit offenbaren.
 @3 Er gedenkt an seine Gnade und Wahrheit dem Hause Israel; aller Welt Enden sehen das Heil unseres Gottes.
@@ -1916,7 +1818,6 @@
 @9 vor dem HErrn; denn er kommt das Erdreich zu richten. Er wird den Erdboden richten mit Gerechtigkeit und die Völker mit Recht.
 
 # 99
-## Alabado sea el Dios santo, el Rey que todo lo gobierna
 @1 Der HErr ist König, darum zittern die Völker; er sitzt auf den Cherubim, darum bebt die Welt.
 @2 Der HErr ist groß zu Zion und hoch über alle Völker.
 @3 Man danke deinem großen und wunderbaren Namen, der da heilig ist.
@@ -1928,7 +1829,6 @@
 @9 Erhöhet den HErrn, unseren Gott, und betet an zu seinem heiligen Berge; denn der HErr, unser Gott, ist heilig.
 
 # 100
-## Alabado sea Dios al entrar al templo
 @1 Ein Dankpsalm. Jauchzet dem HErrn, alle Welt!
 @2 Dienet dem HErrn mit Freuden; kommt vor sein Angesicht mit Frohlocken!
 @3 Erkennet, dass der HErr Gott ist! Er hat uns gemacht – und nicht wir selbst – zu seinem Volk und zu Schafen seiner Weide.
@@ -1936,7 +1836,6 @@
 @5 Denn der HErr ist freundlich, und seine Gnade währet ewig und seine Wahrheit für und für.
 
 # 101
-## Votos de un gobernante (o: príncipe espejo)
 @1 Ein Psalm Davids. Von Gnade und Recht will ich singen und dir, HErr, lobsagen.
 @2 Ich handle vorsichtig und redlich bei denen, die mir zugehören, und wandle treulich in meinem Hause.
 @3 Ich nehme mir keine böse Sache vor; ich hasse den Übertreter und lasse ihn nicht bei mir bleiben.
@@ -1947,7 +1846,6 @@
 @8 Jeden Morgen will ich vertilgen alle Gottlosen im Lande, dass ich alle Übeltäter ausrotte aus der Stadt des HErrn.
 
 # 102
-## Oración penitente de una víctima y solicitud de la restauración de Sion (quinto salmo penitencial)
 @1 Ein Gebet des Elenden, so er betrübt ist und seine Klage vor dem HErrn ausschüttet.
 @2 HErr, höre mein Gebet und lass mein Schreien zu dir kommen!
 @3 Verbirg dein Antlitz nicht vor mir in der Not, neige deine Ohren zu mir; wenn ich dich anrufe, so erhöre mich bald!
@@ -1979,7 +1877,6 @@
 @29 Die Kinder deiner Knechte werden bleiben, und ihr Same wird vor dir gedeihen.
 
 # 103
-## ¡Alabado sea el Señor, alma mía!
 @1 Ein Psalm Davids. Lobe den HErrn, meine Seele, und was in mir ist, seinen heiligen Namen!
 @2 Lobe den HErrn, meine Seele, und vergiss nicht, was er dir Gutes getan hat:
 @3 der dir alle deine Sünden vergibt und heilet alle deine Gebrechen,
@@ -2004,7 +1901,6 @@
 @22 Lobet den HErrn, alle seine Werke, an allen Orten seiner Herrschaft! Lobe den HErrn, meine Seele!
 
 # 104
-## La gloria de Dios en la naturaleza
 @1 Lobe den HErrn, meine Seele! HErr, mein Gott, du bist sehr herrlich; du bist schön und prächtig geschmückt.
 @2 Licht ist dein Kleid, das du anhast; du breitest aus den Himmel wie einen Teppich;
 @3 du wölbest es oben mit Wasser; du fährst auf den Wolken wie auf einem Wagen und gehst auf den Fittichen des Windes;
@@ -2042,7 +1938,6 @@
 @35 Der Sünder müsse ein Ende werden auf Erden, und die Gottlosen nicht mehr sein. Lobe den HErrn, meine Seele! Halleluja!
 
 # 105
-## Los actos salvadores de Dios en el antiguo Israel
 @1 Danket dem HErrn und prediget seinen Namen; verkündiget sein Tun unter den Völkern!
 @2 Singet von ihm und lobet ihn; redet von allen seinen Wundern!
 @3 Rühmet seinen heiligen Namen; es freue sich das Herz derer, die den HErrn suchen!
@@ -2090,7 +1985,6 @@
 @45 auf dass sie halten sollen seine Rechte und seine Gesetze bewahren. Halleluja!
 
 # 106
-## La gracia de Dios y la ingratitud de Israel
 @1 Halleluja! Danket dem HErrn; denn er ist freundlich, und seine Güte währet ewiglich.
 @2 Wer kann die großen Taten des HErrn ausreden und alle seine löblichen Werke preisen?
 @3 Wohl denen, die das Gebot halten und tun immerdar recht!
@@ -2141,7 +2035,6 @@
 @48 Gelobet sei der HErr, der Gott Israels, von Ewigkeit zu Ewigkeit, und alles Volk spreche: Amen, halleluja!
 
 # 107
-## Alabado sea Dios, el Salvador de toda adversidad
 @1 Danket dem HErrn; denn er ist freundlich, und seine Güte währet ewiglich.
 @2 So sollen sagen, die erlöst sind durch den HErrn, die er aus der Not erlöst hat
 @3 und die er aus den Ländern zusammengebracht hat vom Aufgang, vom Niedergang, von Mitternacht und vom Meer.
@@ -2187,7 +2080,6 @@
 @43 Wer ist weise und behält dies? So werden sie merken, wie viel Wohltaten der HErr erzeigt.
 
 # 108
-## Alaba la gracia de Dios y pide ayuda
 @1 Ein Psalmlied Davids.
 @2 Gott, es ist mein rechter Ernst; ich will singen und dichten, meine Ehre auch.
 @3 Wohlauf, Psalter und Harfe! Ich will mit der Frühe auf sein.
@@ -2204,7 +2096,6 @@
 @14 Mit Gott wollen wir Taten tun; er wird unsere Feinde untertreten.
 
 # 109
-## Maldición de enemigos impíos
 @1 Ein Psalm Davids, vorzusingen. Gott, mein Ruhm, schweige nicht!
 @2 Denn sie haben ihr gottloses und falsches Maul gegen mich aufgetan und reden wider mich mit falscher Zunge;
 @3 und sie reden giftig wider mich allenthalben und streiten wider mich ohne Ursache.
@@ -2238,7 +2129,6 @@
 @31 Denn er steht dem Armen zur Rechten, dass er ihm helfe von denen, die sein Leben verurteilen.
 
 # 110
-## El mensaje de Dios al Sacerdote-Rey
 @1 Ein Psalm Davids. Der HErr sprach zu meinem Herrn: „Setze dich zu meiner Rechten, bis ich deine Feinde zum Schemel deiner Füße lege.“
 @2 Der HErr wird das Zepter deines Reiches senden aus Zion: „Herrsche unter deinen Feinden!“
 @3 Nach deinem Sieg wird dir dein Volk willig opfern in heiligem Schmuck. Deine Kinder werden dir geboren wie der Tau aus der Morgenröte.
@@ -2248,7 +2138,6 @@
 @7 Er wird trinken vom Bach auf dem Wege; darum wird er das Haupt emporheben.
 
 # 111
-## Alabe las bendiciones físicas y espirituales de Dios
 @1 Halleluja! Ich danke dem HErrn von ganzem Herzen im Rat der Frommen und in der Gemeinde.
 @2 Groß sind die Werke des HErrn; wer ihrer achtet, der hat eitel Lust daran.
 @3 Was er ordnet, das ist löblich und herrlich; und seine Gerechtigkeit bleibt ewiglich.
@@ -2261,7 +2150,6 @@
 @10 Die Furcht des HErrn ist der Weisheit Anfang. Das ist eine feine Klugheit, wer darnach tut, des Lob bleibt ewiglich.
 
 # 112
-## La bendición del temor de Dios y la misericordia
 @1 Halleluja! Wohl dem, der den HErrn fürchtet, der große Lust hat zu seinen Geboten!
 @2 Des Same wird gewaltig sein auf Erden; das Geschlecht der Frommen wird gesegnet sein.
 @3 Reichtum und die Fülle wird in ihrem Hause sein, und ihre Gerechtigkeit bleibt ewiglich.
@@ -2274,7 +2162,6 @@
 @10 Der Gottlose wird's sehen, und es wird ihn verdrießen; seine Zähne wird er zusammenbeißen und vergehen. Denn was die Gottlosen gerne wollten, das ist verloren.
 
 # 113
-## Alabado sea el Dios exaltado y misericordioso
 @1 Halleluja! Lobet, ihr Knechte des HErrn, lobet den Namen des HErrn!
 @2 Gelobet sei des HErrn Name von nun an bis in Ewigkeit!
 @3 Vom Aufgang der Sonne bis zu ihrem Niedergang sei gelobet der Name des HErrn!
@@ -2286,7 +2173,6 @@
 @9 der die Unfruchtbare im Hause wohnen macht, dass sie eine fröhliche Kindermutter wird. Halleluja!
 
 # 114
-## El poder milagroso de Dios durante el paso de los israelitas por el Mar Rojo y el Jordán
 @1 Da Israel aus Ägypten zog, das Haus Jakob aus dem fremden Volk,
 @2 da ward Juda sein Heiligtum, Israel seine Herrschaft.
 @3 Das Meer sah es und floh; der Jordan wandte sich zurück;
@@ -2297,7 +2183,6 @@
 @8 der den Fels wandelte in einen Wassersee und die Steine in Wasserbrunnen.
 
 # 115
-## Solo el Dios vivo merece gloria
 @1 Nicht uns, HErr, nicht uns, sondern deinem Namen gib Ehre um deine Gnade und Wahrheit!
 @2 Warum sollen die Heiden sagen: Wo ist nun ihr Gott?
 @3 Aber unser Gott ist im Himmel; er kann schaffen, was er will.
@@ -2318,7 +2203,6 @@
 @18 sondern wir loben den HErrn von nun an bis in Ewigkeit. Halleluja!
 
 # 116
-## Canción de acción de gracias y votos de alguien rescatado del peligro de muerte (al ofrecer el sacrificio de acción de gracias)
 @1 Das ist mir lieb, dass der HErr meine Stimme und mein Flehen hört.
 @2 Denn er neigte sein Ohr zu mir; darum will ich mein Leben lang ihn anrufen.
 @3 Stricke des Todes hatten mich umfangen, und Ängste der Hölle hatten mich getroffen; ich kam in Jammer und Not.
@@ -2340,12 +2224,10 @@
 @19 in den Höfen am Hause des HErrn, in dir, Jerusalem. Halleluja!
 
 # 117
-## Llamando a los gentiles a alabar a Dios
 @1 Lobet den HErrn, alle Heiden; preiset ihn, alle Völker!
 @2 Denn seine Gnade und Wahrheit waltet über uns in Ewigkeit. Halleluja!
 
 # 118
-## Oración de acción de gracias y canción de victoria de la comunidad del festival
 @1 Danket dem HErrn; denn er ist freundlich, und seine Güte währet ewiglich.
 @2 Es sage nun Israel: Seine Güte währet ewiglich.
 @3 Es sage nun das Haus Aaron: Seine Güte währet ewiglich.
@@ -2377,7 +2259,6 @@
 @29 Danket dem HErrn; denn er ist freundlich, und sein Güte währet ewiglich.
 
 # 119
-## Gloria de la palabra y ley divinas (o: el alfabeto dorado)
 @1 Wohl denen, die ohne Tadel leben, die im Gesetz des HErrn wandeln!
 @2 Wohl denen, die seine Zeugnisse halten, die ihn von ganzem Herzen suchen!
 @3 Denn welche auf seinen Wegen wandeln, die tun kein Übel.
@@ -2386,8 +2267,6 @@
 @6 Wenn ich schaue allein auf deine Gebote, so werde ich nicht zu Schanden.
 @7 Ich danke dir von rechtem Herzen, dass du mich lehrest die Rechte deiner Gerechtigkeit.
 @8 Deine Rechte will ich halten; verlass mich nimmermehr.
-
-## Beth
 @9 Wie wird ein Jüngling seinen Weg unsträflich gehen? Wenn er sich hält nach deinen Worten.
 @10 Ich suche dich von ganzem Herzen; lass mich nicht abirren von deinen Geboten.
 @11 Ich behalte dein Wort in meinem Herzen, auf dass ich nicht wider dich sündige.
@@ -2396,8 +2275,6 @@
 @14 Ich freue mich des Weges deiner Zeugnisse wie über allerlei Reichtum.
 @15 Ich rede von dem, was du befohlen hast, und schaue auf deine Wege.
 @16 Ich habe Lust zu deinen Rechten und vergesse deiner Worte nicht.
-
-## Gimel
 @17 Tue wohl deinem Knecht, dass ich lebe und dein Wort halte.
 @18 Öffne mir die Augen, dass ich sehe die Wunder an deinem Gesetz.
 @19 Ich bin ein Gast auf Erden; verbirg deine Gebote nicht vor mir.
@@ -2406,8 +2283,6 @@
 @22 Wende von mir Schmach und Verachtung; denn ich halte deine Zeugnisse.
 @23 Es sitzen auch die Fürsten und reden wider mich; aber dein Knecht redet von deinen Rechten.
 @24 Ich habe Lust zu deinen Zeugnissen; die sind meine Ratsleute.
-
-## Daleth
 @25 Meine Seele liegt im Staube; erquicke mich nach deinem Wort.
 @26 Ich erzähle meine Wege, und du erhörst mich; lehre mich deine Rechte.
 @27 Unterweise mich den Weg deiner Befehle, so will ich reden von deinen Wundern.
@@ -2416,8 +2291,6 @@
 @30 Ich habe den Weg der Wahrheit erwählt; deine Rechte habe ich vor mich gestellt.
 @31 Ich hange an deinen Zeugnissen; HErr, lass mich nicht zu Schanden werden!
 @32 Wenn du mein Herz tröstest, so laufe ich den Weg deiner Gebote.
-
-## He
 @33 Zeige mir, HErr, den Weg deiner Rechte, dass ich sie bewahre bis ans Ende.
 @34 Unterweise mich, dass ich bewahre dein Gesetz und halte es von ganzem Herzen.
 @35 Führe mich auf dem Steige deiner Gebote; denn ich habe Lust dazu.
@@ -2426,8 +2299,6 @@
 @38 Lass deinen Knecht dein Gebot fest für dein Wort halten, dass ich dich fürchte.
 @39 Wende von mir die Schmach, die ich scheue; denn deine Rechte sind lieblich.
 @40 Siehe, ich begehre deiner Befehle; erquicke mich mit deiner Gerechtigkeit.
-
-## Vau
 @41 HErr, lass mir deine Gnade widerfahren, deine Hilfe nach deinem Wort,
 @42 dass ich antworten möge meinem Lästerer; denn ich verlasse mich auf dein Wort.
 @43 Und nimm ja nicht von meinem Munde das Wort der Wahrheit; denn ich hoffe auf deine Rechte.
@@ -2436,8 +2307,6 @@
 @46 Ich rede von deinen Zeugnissen vor Königen und schäme mich nicht
 @47 und habe Lust an deinen Geboten, und sie sind mir lieb,
 @48 und hebe meine Hände auf zu deinen Geboten, die mir lieb sind, und rede von deinen Rechten.
-
-## Zain
 @49 Gedenke deinem Knechte an dein Wort, auf welches du mich lässest hoffen.
 @50 Das ist mein Trost in meinem Elend; denn dein Wort erquickt mich.
 @51 Die Stolzen haben ihren Spott an mir; dennoch weiche ich nicht von deinem Gesetz.
@@ -2446,8 +2315,6 @@
 @54 Deine Rechte sind mein Lied in dem Hause meiner Wallfahrt.
 @55 HErr, ich gedenke des Nachts an deinen Namen und halte dein Gesetz.
 @56 Das ist mein Schatz, dass ich deine Befehle halte.
-
-## Cheth
 @57 Ich habe gesagt: „HErr, das soll mein Erbe sein, dass ich deine Worte halte.“
 @58 Ich flehe vor deinem Angesicht von ganzem Herzen; sei mir gnädig nach deinem Wort.
 @59 Ich betrachte meine Wege und kehre meine Füße zu deinen Zeugnissen.
@@ -2456,8 +2323,6 @@
 @62 Zur Mitternacht stehe ich auf, dir zu danken für die Rechte deiner Gerechtigkeit.
 @63 Ich halte mich zu denen, die dich fürchten und deine Befehle halten.
 @64 HErr, die Erde ist voll deiner Güte; lehre mich deine Rechte.
-
-## Teth
 @65 Du tust Gutes deinem Knechte, HErr, nach deinem Wort.
 @66 Lehre mich heilsame Sitten und Erkenntnis; denn ich glaube deinen Geboten.
 @67 Ehe ich gedemütigt ward, irrte ich; nun aber halte ich dein Wort.
@@ -2466,8 +2331,6 @@
 @70 Ihr Herz ist dick wie Schmer; ich aber habe Lust an deinem Gesetz.
 @71 Es ist mir lieb, dass du mich gedemütigt hast, dass ich deine Rechte lerne.
 @72 Das Gesetz deines Mundes ist mir lieber denn viel tausend Stück Gold und Silber.
-
-## Jod
 @73 Deine Hand hat mich gemacht und bereitet; unterweise mich, dass ich deine Gebote lerne.
 @74 Die dich fürchten, sehen mich und freuen sich; denn ich hoffe auf dein Wort.
 @75 HErr, ich weiß, dass deine Gerichte recht sind; du hast mich treulich gedemütigt.
@@ -2476,8 +2339,6 @@
 @78 Ach dass die Stolzen müssten zu Schanden werden, die mich mit Lügen niederdrücken! ich aber rede von deinen Befehlen.
 @79 Ach dass sich müssten zu mir halten, die dich fürchten und deine Zeugnisse kennen!
 @80 Mein Herz bleibe rechtschaffen in deinen Rechten, dass ich nicht zu Schanden werde.
-
-## Caph
 @81 Meine Seele verlangt nach deinem Heil; ich hoffe auf dein Wort.
 @82 Meine Augen sehnen sich nach deinem Wort und sagen: Wann tröstest du mich?
 @83 Denn ich bin wie ein Schlauch im Rauch; deiner Rechte vergesse ich nicht.
@@ -2486,8 +2347,6 @@
 @86 Deine Gebote sind eitel Wahrheit. Sie verfolgen mich mit Lügen; hilf mir.
 @87 Sie haben mich schier umgebracht auf Erden; ich aber verlasse deine Befehle nicht.
 @88 Erquicke mich durch deine Gnade, dass ich halte die Zeugnisse deines Mundes.
-
-## Lamed
 @89 HErr, dein Wort bleibt ewiglich, soweit der Himmel ist;
 @90 deine Wahrheit währet für und für. Du hast die Erde zugerichtet, und sie bleibt stehen.
 @91 Es bleibt täglich nach deinem Wort; denn es muss dir alles dienen.
@@ -2496,8 +2355,6 @@
 @94 Ich bin dein, hilf mir! denn ich suche deine Befehle.
 @95 Die Gottlosen lauern auf mich, dass sie mich umbringen; ich aber merke auf deine Zeugnisse.
 @96 Ich habe alles Dinges ein Ende gesehen; aber dein Gebot währet.
-
-## Mem
 @97 Wie habe ich dein Gesetz so lieb! Täglich rede ich davon.
 @98 Du machst mich mit deinem Gebot weiser, als meine Feinde sind; denn es ist ewiglich mein Schatz.
 @99 Ich bin gelehrter denn alle meine Lehrer; denn deine Zeugnisse sind meine Rede.
@@ -2506,8 +2363,6 @@
 @102 Ich weiche nicht von deinen Rechten; denn du lehrest mich.
 @103 Dein Wort ist meinem Munde süßer denn Honig.
 @104 Dein Wort macht mich klug; darum hasse ich alle falschen Wege.
-
-## Nun
 @105 Dein Wort ist meine Fußes Leuchte und ein Licht auf meinem Wege.
 @106 Ich schwöre und will's halten, dass ich die Rechte deiner Gerechtigkeit halten will.
 @107 Ich bin sehr gedemütigt; HErr, erquicke mich nach deinem Wort!
@@ -2516,8 +2371,6 @@
 @110 Die Gottlosen legen mir Stricke; ich aber irre nicht von deinen Befehlen.
 @111 Deine Zeugnisse sind mein ewiges Erbe; denn sie sind meines Herzens Wonne.
 @112 Ich neige mein Herz, zu tun nach deinen Rechten immer und ewiglich.
-
-## Samech
 @113 Ich hasse die Flattergeister und liebe dein Gesetz.
 @114 Du bist mein Schirm und Schild; ich hoffe auf dein Wort.
 @115 Weichet von mir, ihr Boshaften! Ich will halten die Gebote meines Gottes.
@@ -2526,8 +2379,6 @@
 @118 Du zertrittst alle, die von deinen Rechten abirren; denn ihre Trügerei ist eitel Lüge.
 @119 Du wirfst alle Gottlosen auf Erden weg wie Schlacken; darum liebe ich deine Zeugnisse.
 @120 Ich fürchte mich vor dir, dass mir die Haut schaudert, und entsetze mich vor deinen Gerichten.
-
-## Ain
 @121 Ich halte über Recht und Gerechtigkeit; übergib mich nicht denen, die mir wollen Gewalt tun.
 @122 Vertritt du deinen Knecht und tröste ihn; mögen mir die Stolzen nicht Gewalt tun.
 @123 Meine Augen sehnen sich nach deinem Heil und nach dem Wort deiner Gerechtigkeit.
@@ -2536,8 +2387,6 @@
 @126 Es ist Zeit, dass der HErr dazutue; sie haben dein Gesetz zerrissen.
 @127 Darum liebe ich dein Gebot über Gold und über feines Gold.
 @128 Darum halte ich stracks alle deine Befehle; ich hasse allen falschen Weg.
-
-## Pe
 @129 Deine Zeugnisse sind wunderbar; darum hält sie meine Seele.
 @130 Wenn dein Wort offenbar wird, so erfreut es und macht klug die Einfältigen.
 @131 Ich sperre meinen Mund auf und lechze nach deinen Geboten; denn mich verlangt darnach.
@@ -2546,8 +2395,6 @@
 @134 Erlöse mich von der Menschen Frevel, so will ich halten deine Befehle.
 @135 Lass dein Antlitz leuchten über deinen Knecht und lehre mich deine Rechte.
 @136 Meine Augen fließen mit Wasser, dass man dein Gesetz nicht hält.
-
-## Tzaddi
 @137 HErr, du bist gerecht, und dein Wort ist recht.
 @138 Du hast die Zeugnisse deiner Gerechtigkeit und die Wahrheit hart geboten.
 @139 Ich habe mich schier zu Tode geeifert, dass meine Widersacher deiner Worte vergessen.
@@ -2556,8 +2403,6 @@
 @142 Deine Gerechtigkeit ist eine ewige Gerechtigkeit, und dein Gesetz ist Wahrheit.
 @143 Angst und Not haben mich getroffen; ich habe aber Lust an deinen Geboten.
 @144 Die Gerechtigkeit deiner Zeugnisse ist ewig; unterweise mich, so lebe ich.
-
-## Coph
 @145 Ich rufe von ganzem Herzen; erhöre mich, HErr, dass ich dein Rechte halte.
 @146 Ich rufe zu dir; hilf mir, dass ich deine Zeugnisse halte.
 @147 Ich komme in der Frühe und schreie; auf dein Wort hoffe ich.
@@ -2566,8 +2411,6 @@
 @150 Meine boshaften Verfolger nahen herzu und sind ferne von deinem Gesetz.
 @151 HErr, du bist nahe, und deine Gebote sind eitel Wahrheit.
 @152 Längst weiß ich, dass du deine Zeugnisse für ewig gegründet hast.
-
-## Resh
 @153 Siehe mein Elend und errette mich; hilf mir aus, denn ich vergesse deines Gesetzes nicht.
 @154 Führe meine Sache und erlöse mich; erquicke mich durch dein Wort.
 @155 Das Heil ist ferne von den Gottlosen; denn sie achten deine Rechte nicht.
@@ -2576,8 +2419,6 @@
 @158 Ich sehe die Verächter, und es tut mir wehe, dass sie dein Wort nicht halten.
 @159 Siehe, ich liebe deine Befehle; HErr, erquicke mich nach deiner Gnade.
 @160 Dein Wort ist nichts denn Wahrheit; alle Rechte deiner Gerechtigkeit währen ewiglich.
-
-## Sin
 @161 Die Fürsten verfolgen mich ohne Ursache, und mein Herz fürchtet sich vor deinen Worten.
 @162 Ich freue mich über dein Wort wie einer, der eine große Beute kriegt.
 @163 Lügen bin ich gram und habe Gräuel daran; aber dein Gesetz habe ich lieb.
@@ -2586,8 +2427,6 @@
 @166 HErr, ich warte auf dein Heil und tue nach deinen Geboten.
 @167 Meine Seele hält deine Zeugnisse und liebt sie sehr.
 @168 Ich halte deine Befehle und deine Zeugnisse; denn alle meine Wege sind vor dir.
-
-## Tau
 @169 HErr, lass meine Klage vor dich kommen; unterweise mich nach deinem Wort.
 @170 Lass mein Flehen vor dich kommen; errette mich nach deinem Wort.
 @171 Meine Lippen sollen loben, wenn du mich deine Rechte lehrest.
@@ -2598,7 +2437,6 @@
 @176 Ich bin wie ein verirrtes und verlorenes Schaf. Suche deinen Knecht; denn ich vergesse deiner Gebote nicht.
 
 # 120
-## Pida ayuda contra adversarios engañosos y contenciosos
 @1 Ein Lied im höhern Chor. Ich rufe zu dem HErrn in meiner Not, und er erhört mich.
 @2 HErr, errette meine Seele von den Lügenmäulern, von den falschen Zungen.
 @3 Was kann dir die falsche Zunge tun, was kann sie ausrichten?
@@ -2608,7 +2446,6 @@
 @7 Ich halte Frieden; aber wenn ich rede, so fangen sie Krieg an.
 
 # 121
-## El fiel guardián del pueblo
 @1 Ein Lied im höhern Chor. Ich hebe meine Augen auf zu den Bergen, von welchen mir Hilfe kommt.
 @2 Meine Hilfe kommt von dem HErrn, der Himmel und Erde gemacht hat.
 @3 Er wird deinen Fuß nicht gleiten lassen; und der dich behütet, schläft nicht.
@@ -2619,7 +2456,6 @@
 @8 der HErr behüte deinen Ausgang und Eingang von nun an bis in Ewigkeit.
 
 # 122
-## Las bendiciones de un peregrino para Jerusalén
 @1 Ein Lied Davids im höhern Chor. Ich freute mich über die, die mir sagten: Lasset uns ins Haus des HErrn gehen!
 @2 Unsere Füße stehen in deinen Toren, Jerusalem.
 @3 Jerusalem ist gebaut, dass es eine Stadt sei, da man zusammenkommen soll,
@@ -2631,14 +2467,12 @@
 @9 Um des Hauses willen des HErrn, unseres Gottes, will ich dein Bestes suchen.
 
 # 123
-## Los creyentes miran a Dios con vergüenza y burla
 @1 Ein Lied im höhern Chor. Ich hebe meine Augen auf zu dir, der du im Himmel sitzest.
 @2 Siehe! wie die Augen der Knechte auf die Hände ihrer Herren sehen, wie die Augen der Magd auf die Hände ihrer Frau, also sehen unsere Augen auf den HErrn, unseren Gott, bis er uns gnädig werde.
 @3 Sei uns gnädig, HErr, sei uns gnädig! denn wir sind sehr voll Verachtung.
 @4 Sehr voll ist unsere Seele von der Stolzen Spott und der Hoffärtigen Verachtung.
 
 # 124
-## El salvador de Israel necesitado
 @1 Ein Lied Davids im höhern Chor. Wo der HErr nicht bei uns wäre – so sage Israel –,
 @2 wenn der HErr nicht bei uns wäre, wenn die Menschen sich wider uns setzen:
 @3 so verschlängen sie uns lebendig, wenn ihr Zorn über uns ergrimmte;
@@ -2649,7 +2483,6 @@
 @8 Unsere Hilfe steht im Namen des HErrn, der Himmel und Erde gemacht hat.
 
 # 125
-## Dios protege a su pueblo Israel y a todos los rectos
 @1 Ein Lied im höhern Chor. Die auf den HErrn hoffen, die werden nicht fallen, sondern ewig bleiben wie der Berg Zion.
 @2 Um Jerusalem her sind Berge, und der HErr ist um sein Volk her von nun an bis in Ewigkeit.
 @3 Denn der Gottlosen Zepter wird nicht bleiben über dem Häuflein der Gerechten, auf dass die Gerechten ihre Hand nicht ausstrecken zur Ungerechtigkeit.
@@ -2657,7 +2490,6 @@
 @5 Die aber abweichen auf ihre krummen Wege, wird der HErr wegtreiben mit den Übeltätern. Friede sei über Israel!
 
 # 126
-## Consuelo en las lágrimas
 @1 Ein Lied im höhern Chor. Wenn der HErr die Gefangenen Zions erlösen wird, so werden wir sein wie die Träumenden.
 @2 Dann wird unser Mund voll Lachens und unsere Zunge voll Rühmens sein. Da wird man sagen unter den Heiden: Der HErr hat Großes an ihnen getan!
 @3 Der HErr hat Großes an uns getan; des sind wir fröhlich.
@@ -2666,7 +2498,6 @@
 @6 Sie gehen hin und weinen und tragen edlen Samen und kommen mit Freuden und bringen ihre Garben.
 
 # 127
-## Todo depende de la bendición de Dios
 @1 Ein Lied Salomos im höhern Chor. Wo der HErr nicht das Haus baut, so arbeiten umsonst, die daran bauen. Wo der HErr nicht die Stadt behütet, so wacht der Wächter umsonst.
 @2 Es ist umsonst, dass ihr früh aufstehet und hernach lange sitzet und esset euer Brot mit Sorgen; denn seinen Freunden gibt er's schlafend.
 @3 Siehe, Kinder sind eine Gabe des HErrn, und Leibesfrucht ist ein Geschenk.
@@ -2674,7 +2505,6 @@
 @5 Wohl dem, der seinen Köcher derselben voll hat! Die werden nicht zu Schanden, wenn sie mit ihren Feinden handeln im Tor.
 
 # 128
-## La felicidad doméstica como bendición del temor de Dios
 @1 Ein Lied im höhern Chor. Wohl dem, der den HErrn fürchtet und auf seinen Wegen geht!
 @2 Du wirst dich nähren (von) deiner Hände Arbeit; wohl dir, du hast es gut.
 @3 Dein Weib wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her.
@@ -2683,7 +2513,6 @@
 @6 und sehest deiner Kinder Kinder. Friede über Israel!
 
 # 129
-## Tribulaciones y salvación de Israel
 @1 Ein Lied im höhern Chor. Sie haben mich oft gedrängt von meiner Jugend auf – so sage Israel –,
 @2 sie haben mich oft gedrängt von meiner Jugend auf; aber sie haben mich nicht übermocht.
 @3 Die Pflüger haben auf meinem Rücken geackert und ihre Furchen lang gezogen.
@@ -2694,7 +2523,6 @@
 @8 und die vorübergehen nicht sprechen: „Der Segen des HErrn sei über euch! wir segnen euch im Namen des HErrn“!
 
 # 130
-## Por profunda necesidad (Sexto Salmo Penitencial)
 @1 Ein Lied im höhern Chor. Aus der Tiefe rufe ich, HErr, zu dir.
 @2 HErr, höre meine Stimme, lass deine Ohren merken auf die Stimme meines Flehens!
 @3 Wenn du willst, HErr, Sünden zurechnen, HErr, wer wird bestehen?
@@ -2705,13 +2533,11 @@
 @8 und er wird Israel erlösen aus allen seinen Sünden.
 
 # 131
-## Satisfacción tranquila (o descanso en Dios)
 @1 Ein Lied Davids im höhern Chor. HErr, mein Herz ist nicht hoffärtig, und meine Augen sind nicht stolz; ich wandle nicht in großen Dingen, die mir zu hoch sind.
 @2 Ja, ich habe meine Seele gesetzt und gestillt; so ist meine Seele in mir wie ein entwöhntes Kind bei seiner Mutter.
 @3 Israel, hoffe auf den HErrn von nun an bis in Ewigkeit!
 
 # 132
-## Oración por Sion en vista de la promesa de Dios a David
 @1 Ein Lied im höhern Chor. Gedenke, HErr, an David und all sein Leiden,
 @2 der dem HErrn schwur und gelobte dem Mächtigen Jakobs:
 @3 „Ich will nicht in die Hütte meines Hauses gehen noch mich aufs Lager meines Bettes legen,
@@ -2732,19 +2558,16 @@
 @18 Seine Feinde will ich mit Schanden kleiden; aber über ihm soll blühen seine Krone.“
 
 # 133
-## Bendiciones de la unidad fraterna
 @1 Ein Lied Davids im höhern Chor. Siehe, wie fein und lieblich ist's, dass Brüder einträchtig beieinander wohnen!
 @2 wie der köstliche Balsam ist, der vom Haupt Aarons herabfließt in seinen ganzen Bart, der herabfließt in sein Kleid,
 @3 wie der Tau, der vom Hermon herabfällt auf die Berge Zions. Denn daselbst verheißt der HErr Segen und Leben immer und ewiglich.
 
 # 134
-## Canción de los guardias del templo en el servicio nocturno
 @1 Ein Lied im höhern Chor. Siehe, lobet den HErrn, alle Knechte des HErrn, die ihr stehet des Nachts im Hause des HErrn!
 @2 Hebet eure Hände auf im Heiligtum und lobet den HErrn!
 @3 Der HErr segne dich aus Zion, der Himmel und Erde gemacht hat!
 
 # 135
-## Alabado sea el único Dios verdadero
 @1 Halleluja! Lobet den Namen des HErrn, lobet, ihr Knechte des HErrn,
 @2 die ihr stehet im Hause des HErrn, in den Höfen des Hauses unseres Gottes!
 @3 Lobet den HErrn, denn der HErr ist freundlich; lobsinget seinem Namen, denn er ist lieblich!
@@ -2768,7 +2591,6 @@
 @21 Gelobet sei der HErr aus Zion, der zu Jerusalem wohnt! Halleluja!
 
 # 136
-## Canto de acción de gracias por los beneficios de Dios para Israel
 @1 Danket dem HErrn; denn er ist freundlich – denn seine Güte währet ewiglich.
 @2 Danket dem Gott aller Götter – denn seine Güte währet ewiglich.
 @3 Danket dem HErrn aller Herren – denn seine Güte währet ewiglich,
@@ -2797,7 +2619,6 @@
 @26 Danket dem Gott des Himmels – denn seine Güte währet ewiglich.
 
 # 137
-## Lamento de los judíos capturados a los ríos de Babilonia
 @1 An den Wassern zu Babel saßen wir und weinten, wenn wir an Zion gedachten.
 @2 Unsere Harfen hingen wir an die Weiden, die daselbst sind.
 @3 Denn dort hießen uns singen, die uns gefangen hielten, und in unserem Heulen fröhlich sein: „Singet uns ein Lied von Zion!“
@@ -2809,7 +2630,6 @@
 @9 Wohl dem, der deine jungen Kinder nimmt und zerschmettert sie an dem Stein!
 
 # 138
-## Lamento de los judíos capturados a los ríos de Babilonia
 @1 Davids. Ich danke dir von ganzem Herzen; vor den Göttern will ich dir lobsingen.
 @2 Ich will anbeten zu deinem heiligen Tempel und deinem Namen danken für deine Güte und Treue; denn du hast deinen Namen über alles herrlich gemacht durch dein Wort.
 @3 Wenn ich dich anrufe, so erhörst du mich und gibst meiner Seele große Kraft.
@@ -2820,7 +2640,6 @@
 @8 Der HErr wird's für mich vollführen. HErr, deine Güte ist ewig. Das Werk deiner Hände wollest du nicht lassen.
 
 # 139
-## Dios el omnisciente y omnipresente
 @1 Ein Psalm Davids, vorzusingen. HErr, Du erforschest mich und kennest mich.
 @2 Ich sitze oder stehe auf, so weißt du es; du verstehst meine Gedanken von ferne.
 @3 Ich gehe oder liege, so bist du um mich und siehest alle meine Wege.
@@ -2847,7 +2666,6 @@
 @24 Und siehe, ob ich auf bösem Wege bin, und leite mich auf ewigem Wege.
 
 # 140
-## Oración por la salvación de enemigos engañosos
 @1 Ein Psalm Davids, vorzusingen.
 @2 Errette mich, HErr, von den bösen Menschen; behüte mich vor den freveln Leuten,
 @3 die Böses gedenken in ihrem Herzen und täglich Krieg erregen.
@@ -2864,7 +2682,6 @@
 @14 Auch werden die Gerechten deinem Namen danken, und die Frommen werden vor deinem Angesicht bleiben.
 
 # 141
-## Oración por protección contra el mal y los perseguidores
 @1 Ein Psalm Davids. HErr, ich rufe zu dir; eile zu mir; vernimm meine Stimme, wenn ich dich anrufe.
 @2 Mein Gebet müsse vor dir taugen wie ein Räuchopfer, mein Händeaufheben wie ein Abendopfer.
 @3 HErr, behüte meinen Mund und bewahre meine Lippen.
@@ -2877,7 +2694,6 @@
 @10 Die Gottlosen müssen in ihr eigen Netz fallen miteinander, ich aber immer vorübergehen.
 
 # 142
-## Pide ayuda en una situación desesperada
 @1 Eine Unterweisung Davids, ein Gebet, da er in der Höhle war.
 @2 Ich schreie zum HErrn mit meiner Stimme; ich flehe zum HErrn mit meiner Stimme;
 @3 ich schütte meine Rede vor ihm aus und zeige an vor ihm meine Not.
@@ -2888,7 +2704,6 @@
 @8 Führe meine Seele aus dem Kerker, dass ich danke deinem Namen. Die Gerechten werden sich zu mir sammeln, wenn du mir wohltust.
 
 # 143
-## Pedir ayuda en aflicciones externas e internas (Séptimo Salmo Penitencial)
 @1 Ein Psalm Davids. HErr, erhöre mein Gebet, vernimm mein Flehen um deiner Wahrheit willen, erhöre mich um deiner Gerechtigkeit willen
 @2 und gehe nicht ins Gericht mit deinem Knechte; denn vor dir ist kein Lebendiger gerecht.
 @3 Denn der Feind verfolgt meine Seele und schlägt mein Leben zu Boden; er legt mich ins Finstere wie die, die längst tot sind.
@@ -2903,7 +2718,6 @@
 @12 und verstöre meine Feinde um deiner Güte willen und bringe um alle, die meine Seele ängsten; denn ich bin dein Knecht.
 
 # 144
-## Oración de alabanza y súplica; La abundancia de bendiciones de Israel
 @1 Ein Psalm Davids. Gelobet sei der HErr, mein Hort, der meine Hände lehrt streiten und meine Fäuste kriegen,
 @2 meine Güte und meine Burg, mein Schutz und mein Erretter, mein Schild, auf den ich traue, der mein Volk unter mich zwingt.
 @3 HErr, was ist der Mensch, dass du dich sein annimmst, und des Menschen Kind, dass du ihn so achtest?
@@ -2921,7 +2735,6 @@
 @15 Wohl dem Volk, dem es also geht! Wohl dem Volk, des Gott der HErr ist!
 
 # 145
-## Canto de alabanza a la grandeza y bondad de Dios, sustentador y gobernante del mundo
 @1 Ein Lob Davids. Ich will dich erheben, mein Gott, du König, und deinen Namen loben immer und ewiglich.
 @2 Ich will dich täglich loben und deinen Namen rühmen immer und ewiglich.
 @3 Der HErr ist groß und sehr löblich, und seine Größe ist unausforschlich.
@@ -2945,7 +2758,6 @@
 @21 Mein Mund soll des HErrn Lob sagen, und alles Fleisch lobe seinen heiligen Namen immer und ewiglich.
 
 # 146
-## ¡Bienaventurados los que confían en el Señor!
 @1 Halleluja! Lobe den HErrn, meine Seele!
 @2 Ich will den HErrn loben, solange ich lebe, und meinem Gott lobsingen, solange ich hier bin.
 @3 Verlasset euch nicht auf Fürsten; sie sind Menschen, die können ja nicht helfen.
@@ -2958,7 +2770,6 @@
 @10 Der HErr ist König ewiglich, dein Gott, Zion, für und für. Halleluja.
 
 # 147
-## Alabado sea la omnipotencia, la bondad y la sabiduría de Dios
 @1 Lobet den HErrn! denn unseren Gott loben, das ist ein köstlich Ding; solch Lob ist lieblich und schön.
 @2 Der HErr baut Jerusalem und bringt zusammen die Verjagten Israels.
 @3 Er heilt, die zerbrochnes Herzens sind, und verbindet ihre Schmerzen.
@@ -2981,7 +2792,6 @@
 @20 So tut er keinen Heiden, noch lässt er sie wissen seine Rechte. Halleluja!
 
 # 148
-## ¡Todo el mundo, toda la creación, alabado sea el Señor!
 @1 Halleluja! Lobet im Himmel den HErrn; lobet ihn in der Höhe!
 @2 Lobet ihn, alle seine Engel; lobet ihn, all sein Heer!
 @3 Lobet ihn, Sonne und Mond; lobet ihn, alle leuchtenden Sterne!
@@ -2998,7 +2808,6 @@
 @14 Und er erhöht das Horn seines Volkes. Alle Heiligen sollen loben, die Kinder Israel, das Volk, das ihm dient. Halleluja!
 
 # 149
-## El cántico de victoria y venganza de Israel
 @1 Halleluja! Singet dem HErrn ein neues Lied; die Gemeinde der Heiligen soll ihn loben.
 @2 Israel freue sich des, der es gemacht hat; die Kinder Zions seien fröhlich über ihren König.
 @3 Sie sollen loben seinen Namen im Reigen; mit Pauken und Harfen sollen sie ihm spielen.
@@ -3010,7 +2819,6 @@
 @9 dass sie ihnen tun das Recht, davon geschrieben ist. Solche Ehre werden alle seine Heiligen haben. Halleluja!
 
 # 150
-## ¡Todo lo que respira, alabado sea el Señor!
 @1 Halleluja! Lobet den HErrn in seinem Heiligtum; lobet ihn in der Feste seiner Macht!
 @2 Lobet ihn in seinen Taten; lobet ihn in seiner großen Herrlichkeit!
 @3 Lobet ihn mit Posaunen; lobet ihn mit Psalter und Harfe!

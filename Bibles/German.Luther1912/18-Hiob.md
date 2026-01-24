@@ -1,32 +1,21 @@
 # 1
-## La piedad y la fortuna exterior de Job; su preocupación por el temor de Dios de sus hijos
 @1 Es war ein Mann im Lande Uz, der hieß Hiob. Derselbe war schlecht und recht, gottesfürchtig und mied das Böse.
 @2 Und zeugte sieben Söhne und drei Töchter;
 @3 und seines Viehs waren 7000 Schafe, 3000 Kamele, 500 Joch Rinder und 500 Eselinnen, und er hatte sehr viel Gesinde; und er war herrlicher denn alle, die gegen Morgen wohnten.
 @4 Und seine Söhne gingen hin und machten ein Mahl, ein jeglicher in seinem Hause auf seinen Tag, und sandten hin und luden ihre drei Schwestern, mit ihnen zu essen und zu trinken.
 @5 Und wenn die Tage des Mahles um waren, sandte Hiob hin und heiligte sie und machte sich des Morgens früh auf und opferte Brandopfer nach ihrer aller Zahl; denn Hiob gedachte: Meine Söhne möchten gesündigt und Gott abgesagt haben in ihrem Herzen. Also tat Hiob allezeit.
-
-## Conversación y acuerdo entre Dios y Satanás en el primer encuentro de los hijos de Dios
 @6 Es begab sich aber auf einen Tag, da die Kinder Gottes kamen und vor den HErrn traten, kam der Satan auch unter ihnen.
 @7 Der HErr aber sprach zu dem Satan: Wo kommst du her? Der Satan antwortete dem HErrn und sprach: Ich habe das Land umher durchzogen.
-
 @8 Der HErr sprach zum Satan: Hast du nicht achtgehabt auf meinen Knecht Hiob? Denn es ist seinesgleichen nicht im Lande, schlecht und recht, gottesfürchtig und meidet das Böse.
-
 @9 Der Satan antwortete dem HErrn und sprach: Meinst du, dass Hiob umsonst Gott fürchtet?
 @10 Hast du doch ihn, sein Haus und alles, was er hat, ringsumher verwahrt. Du hast das Werk seiner Hände gesegnet, und sein Gut hat sich ausgebreitet im Lande.
 @11 Aber recke deine Hand aus und taste an alles, was er hat: was gilt's, er wird dir ins Angesicht absagen?
-
 @12 Der HErr sprach zum Satan: Siehe, alles, was er hat, sei in deiner Hand; nur an ihn selbst lege deine Hand nicht. Da ging der Satan aus von dem HErrn.
-
-## Destrucción de la fortuna externa de Job
 @13 Des Tages aber, da seine Söhne und Töchter aßen und tranken Wein in ihres Bruders Hause, des Erstgeborenen,
 @14 kam ein Bote zu Hiob und sprach: Die Rinder pflügten, und die Eselinnen gingen neben ihnen auf der Weide,
 @15 da fielen die aus Saba herein und nahmen sie und schlugen die Knechte mit der Schärfe des Schwerts; und ich bin allein entronnen, dass ich dir's ansagte.
-
 @16 Da der noch redete, kam ein anderer und sprach: Das Feuer Gottes fiel vom Himmel und verbrannte Schafe und Knechte und verzehrte sie; und ich bin allein entronnen, dass ich dir's ansagte.
-
 @17 Da der noch redete, kam einer und sprach: Die Chaldäer machten drei Rotten und überfielen die Kamele und nahmen sie und schlugen die Knechte mit der Schärfe des Schwerts; und ich bin allein entronnen, dass ich dir's ansagte.
-
 @18 Da der noch redete, kam einer und sprach: Deine Söhne und Töchter aßen und tranken im Hause ihres Bruders, des Erstgeborenen,
 @19 und siehe, da kam ein großer Wind von der Wüste her und stieß auf die vier Ecken des Hauses und warf's auf die jungen Leute, dass sie starben; und ich bin allein entronnen, dass ich dir's ansagte.
 @20 Da stand Hiob auf und zerriss sein Kleid und raufte sein Haupt und fiel auf die Erde und betete an
@@ -34,31 +23,21 @@
 @22 In diesem allem sündigte Hiob nicht und tat nichts Törichtes wider Gott.
 
 # 2
-## La piedad de Job también se prueba en la segunda prueba; Nuevos acuerdos entre Dios y Satanás
 @1 Es begab sich aber des Tages, da die Kinder Gottes kamen und traten vor den HErrn, dass der Satan auch unter ihnen kam und vor den HErrn trat.
 @2 Da sprach der HErr zu dem Satan: Wo kommst du her? Der Satan antwortete dem HErrn und sprach: Ich habe das Land umher durchzogen.
-
 @3 Der HErr sprach zu dem Satan: Hast du nicht Acht auf meinen Knecht Hiob gehabt? Denn es ist seinesgleichen im Lande nicht, schlecht und recht, gottesfürchtig und meidet das Böse und hält noch fest an seiner Frömmigkeit; du aber hast mich bewogen, dass ich ihn ohne Ursache verderbt habe.
-
 @4 Der Satan antwortete dem HErrn und sprach: Haut für Haut; und alles, was ein Mann hat, lässt er für sein Leben.
 @5 Aber recke deine Hand aus und taste sein Gebein und Fleisch an: was gilt's, er wird dir ins Angesicht absagen?
-
 @6 Der HErr sprach zu dem Satan: Siehe da, er sei in deiner Hand; doch schone seines Lebens!
-
-## Job, incluso enfermo de lepra, sigue siendo inquebrantablemente piadoso a pesar de la tentación de su esposa
 @7 Da fuhr der Satan aus vom Angesicht des HErrn und schlug Hiob mit bösen Schwären von der Fußsohle an bis auf seinen Scheitel.
 @8 Und er nahm eine Scherbe und schabte sich und saß in der Asche.
 @9 Und sein Weib sprach zu ihm: Hältst du noch fest an deiner Frömmigkeit? Ja, sage Gott ab und stirb!
-
 @10 Er aber sprach zu ihr: Du redest, wie die närrischen Weiber reden. Haben wir Gutes empfangen von Gott und sollten das Böse nicht auch annehmen? In diesem allem versündigte sich Hiob nicht mit seinen Lippen.
-
-## Los tres amigos de Job guardan silencio con horror cuando visitan; El estallido de dolor de Job
 @11 Da aber die drei Freunde Hiobs hörten all das Unglück, das über ihn gekommen war, kamen sie, ein jeglicher aus seinem Ort: Eliphas von Theman, Bildad von Suah und Zophar von Naema. Denn sie wurden eins, dass sie kämen, ihn zu beklagen und zu trösten.
 @12 Und da sie ihre Augen aufhoben von ferne, kannten sie ihn nicht und hoben auf ihre Stimme und weinten, und ein jeglicher zerriss sein Kleid, und sie sprengten Erde auf ihr Haupt gen Himmel
 @13 und saßen mit ihm auf der Erde sieben Tage und sieben Nächte und redeten nichts mit ihm; denn sie sahen, dass der Schmerz sehr groß war.
 
 # 3
-## El lamento desesperado de Job
 @1 Darnach tat Hiob seinen Mund auf und verfluchte seinen Tag.
 @2 Und Hiob sprach:
 @3 Der Tag müsse verloren sein, darin ich geboren bin, und die Nacht, welche sprach: Es ist ein Männlein empfangen!
@@ -87,22 +66,17 @@
 @26 War ich nicht glückselig? War ich nicht fein stille? Hatte ich nicht gute Ruhe? Und es kommt solche Unruhe!
 
 # 4
-## Eliphaz excusa su intento de corregir a Job señalando el comportamiento pasado de Job hacia muchos que sufren
 @1 Da antwortete Eliphas von Theman und sprach:
 @2 Du hast's vielleicht nicht gern, so man versucht, mit dir zu reden; aber wer kann sich's enthalten?
 @3 Siehe, du hast viele unterwiesen und lässige Hände gestärkt;
 @4 deine Rede hat die Gefallenen aufgerichtet, und die bebenden Knie hast du gekräftigt.
 @5 Nun es aber an dich kommt, wirst du weich; und nun es dich trifft, erschrickst du.
-
-## Job debe recordar que nadie sufre inocentemente y que solo los malhechores perecen
 @6 Ist nicht deine Gottesfurcht dein Trost, deine Hoffnung die Unsträflichkeit deiner Wege?
 @7 Gedenke doch, wo ist ein Unschuldiger umgekommen? oder wo sind die Gerechten je vertilgt?
 @8 Wie ich wohl gesehen habe: die da Mühe pflügten und Unglück säten, ernteten es auch ein;
 @9 durch den Odem Gottes sind sie umgekommen und vom Geist seines Zorns vertilgt.
 @10 Das Brüllen der Löwen und die Stimme der großen Löwen und die Zähne der jungen Löwen sind zerbrochen.
 @11 Der Löwe ist umgekommen, dass er nicht mehr raubt, und die Jungen der Löwin sind zerstreut.
-
-## Eliphaz sabe a través de una aparición nocturna que ante Dios nadie está libre de culpa
 @12 Und zu mir ist gekommen ein heimlich Wort, und mein Ohr hat ein Wörtlein davon empfangen.
 @13 Da ich Gesichte betrachtete in der Nacht, wenn der Schlaf auf die Leute fällt,
 @14 da kam mich Furcht und Zittern an, und alle meine Gebeine erschraken.
@@ -115,7 +89,6 @@
 @21 und ihre Nachgelassenen vergehen und sterben auch unversehens.
 
 # 5
-## El sufrimiento autoinfligido no tiene defensor y solo aumenta con el resentimiento
 @1 Rufe doch! was gilts, ob einer dir antworte? Und an welchen von den Heiligen willst du dich wenden?
 @2 Einen Toren aber erwürgt wohl der Unmut, und den Unverständigen tötet der Eifer.
 @3 Ich sah einen Toren eingewurzelt, und ich fluchte plötzlich seinem Hause.
@@ -123,8 +96,6 @@
 @5 Seine Ernte wird essen der Hungrige und auch aus den Hecken sie holen, und sein Gut werden die Durstigen aussaufen.
 @6 Denn Mühsal aus der Erde nicht geht und Unglück aus dem Acker nicht wächset;
 @7 sondern der Mensch wird zu Unglück geboren, wie die Vögel schweben, emporzufliegen.
-
-## Job solo puede obtener la salvación mediante la humildad y la invocación de la bondad de Dios
 @8 Ich aber würde zu Gott mich wenden und meine Sache vor ihn bringen,
 @9 der große Dinge tut, die nicht zu erforschen sind, und Wunder, die nicht zu zählen sind:
 @10 der den Regen aufs Land gibt und lässt Wasser kommen auf die Gefilde;
@@ -134,8 +105,6 @@
 @14 dass sie des Tages in der Finsternis laufen und tappen am Mittag wie in der Nacht.
 @15 Er hilft dem Armen von dem Schwert, von ihrem Munde und von der Hand des Mächtigen,
 @16 und ist des Armen Hoffnung, dass die Bosheit wird ihren Mund müssen zuhalten.
-
-## Si Job cede al castigo de Dios, la visitación será beneficiosa para toda su vida futura
 @17 Siehe, selig ist der Mensch, den Gott straft; darum weigere dich der Züchtigung des Allmächtigen nicht.
 @18 Denn er verletzt und verbindet; er zerschlägt, und seine Hand heilt.
 @19 Aus sechs Trübsalen wird er dich erretten, und in der siebenten wird dich kein Übel rühren:
@@ -149,7 +118,6 @@
 @27 Siehe, das haben wir erforscht und ist also; dem gehorche und merke du dir's.
 
 # 6
-## Job excusa la amargura de la queja que expresa con la terrible severidad de su sufrimiento
 @1 Hiob antwortete und sprach:
 @2 Wenn man doch meinen Unmut wöge und mein Leiden zugleich in die Waage legte!
 @3 Denn nun ist es schwerer als Sand am Meer; darum gehen meine Worte irre.
@@ -157,16 +125,12 @@
 @5 Das Wild schreit nicht, wenn es Gras hat; der Ochse blökt nicht, wenn er sein Futter hat.
 @6 Kann man auch essen, was ungesalzen ist? Oder wer mag kosten das Weiße um den Dotter?
 @7 Was meine Seele widerte anzurühren, das ist meine Speise, mir zum Ekel.
-
-## Job desea ser redimido de sus sufrimientos y absoluta impotencia mediante una muerte rápida
 @8 O, dass meine Bitte geschähe und Gott gäbe mir, was ich hoffe!
 @9 Dass Gott anfinge und zerschlüge mich und ließe seine Hand gehen und zerscheiterte mich!
 @10 So hätte ich noch Trost – und wollte bitten in meiner Krankheit, dass er nur nicht schonte –, habe ich doch nicht verleugnet die Reden des Heiligen.
 @11 Was ist meine Kraft, dass ich möge beharren? und welches ist mein Ende, dass meine Seele geduldig sein sollte?
 @12 Ist doch meine Kraft nicht steinern und mein Fleisch nicht ehern.
 @13 Habe ich doch nirgend Hilfe, und mein Vermögen ist dahin.
-
-## La queja de Job por los insultos y la decepción causada por sus amigos
 @14 Wer Barmherzigkeit seinem Nächsten weigert, der verlässt des Allmächtigen Furcht.
 @15 Meine Brüder trügen wie ein Bach, wie Wasserströme, die vergehen,
 @16 die trübe sind vom Eis, in die der Schnee sich birgt:
@@ -177,8 +141,6 @@
 @21 So seid ihr jetzt ein Nichts geworden, und weil ihr Jammer sehet, fürchtet ihr euch.
 @22 Habe ich auch gesagt: Bringet her und von eurem Vermögen schenket mir
 @23 und errettet mich aus der Hand des Feindes und erlöset mich von der Hand der Gewalttätigen?
-
-## Job exige que se le llame pecador solo si hay una indicación específica de deuda maliciosa
 @24 Lehret mich, so will ich schweigen; und was ich nicht weiß, darin unterweiset mich.
 @25 Warum tadelt ihr rechte Rede? Wer ist unter euch, der sie strafen könnte?
 @26 Gedenket ihr, Worte zu strafen? Aber eines Verzweifelnden Rede ist für den Wind.
@@ -188,7 +150,6 @@
 @30 Ist denn auf meiner Zunge Unrecht, oder sollte mein Gaumen Böses nicht merken?
 
 # 7
-## Job deplora las dificultades y la brevedad de la vida humana en general y su propia situación desesperada en particular
 @1 Muss nicht der Mensch immer im Streit sein auf Erden, und sind seine Tage nicht wie eines Tagelöhners?
 @2 Wie ein Knecht sich sehnet nach dem Schatten und ein Tagelöhner, dass seine Arbeit aus sei,
 @3 also habe ich wohl ganze Monden vergeblich gearbeitet, und elender Nächte sind mir viel geworden.
@@ -199,8 +160,6 @@
 @8 Und kein lebendiges Auge wird mich mehr schauen; sehen deine Augen nach mir, so bin ich nicht mehr.
 @9 Eine Wolke vergeht und fährt dahin: also, wer in die Hölle hinunterfährt, kommt nicht wieder herauf
 @10 und kommt nicht wieder in sein Haus, und sein Ort kennt ihn nicht mehr.
-
-## Job declara justificada su queja y la conducta de Dios contra él, que está cerca de la muerte, despiadada; su petición a Dios de protección
 @11 Darum will auch ich meinem Munde nicht wehren; ich will reden in der Angst meines Herzens und will klagen in der Betrübnis meiner Seele.
 @12 Bin ich denn ein Meer oder ein Meerungeheuer, dass du mich so verwahrest?
 @13 Wenn ich gedachte: Mein Bett soll mich trösten, mein Lager soll mir meinen Jammer erleichtern, –
@@ -214,7 +173,6 @@
 @21 Und warum vergibst du mir meine Missetat nicht und nimmst nicht weg meine Sünde? Denn nun werde ich mich in die Erde legen, und wenn du mich morgen suchst, werde ich nicht da sein.
 
 # 8
-## Fuerte énfasis en la justicia de Dios, que se ha demostrado que es un juicio contra los hijos de Job y resultará ser bueno para Job si busca a Dios con sinceridad
 @1 Da antwortete Bildad von Suah und sprach:
 @2 Wie lange willst du solches reden und sollen die Reden deines Mundes so einen stolzen Mut haben?
 @3 Meinst du, dass Gott unrecht richte oder der Allmächtige das Recht verkehre?
@@ -222,8 +180,6 @@
 @5 Wenn du aber dich beizeiten zu Gott tust und zu dem Allmächtigen flehst,
 @6 und wenn du rein und fromm bist, so wird er aufwachen zu dir und wird wieder aufrichten deine Wohnung um deiner Gerechtigkeit willen;
 @7 und was du zuerst wenig gehabt hast, wird hernach gar sehr zunehmen.
-
-## La experiencia y la tradición de los Padres testifican la caída segura de los impíos
 @8 Denn frage die vorigen Geschlechter und merke auf das, was ihre Väter erforscht haben;
 @9 denn wir sind von gestern her und wissen nichts; unser Leben ist ein Schatten auf Erden.
 @10 Sie werden dich's lehren und dir sagen und ihre Rede aus ihrem Herzen hervorbringen:
@@ -236,14 +192,11 @@
 @17 Seine Saat steht dick bei den Quellen und sein Haus auf Steinen.
 @18 Wenn er ihn aber verschlingt von seiner Stätte, wird sie sich gegen ihn stellen, als kennte sie ihn nicht.
 @19 Siehe, das ist die Freude seines Wesens; und aus dem Staube werden andere wachsen.“
-
-## Una perspectiva reconfortante: si Job se aparta de un ser impío, será bendecido nuevamente por Dios
 @20 Darum siehe, dass Gott nicht verwirft die Frommen und erhält nicht die Hand der Boshaften,
 @21 bis dass dein Mund voll Lachens werde und deine Lippen voll Jauchzens.
 @22 Die dich aber hassen, werden zu Schanden werden, und der Gottlosen Hütte wird nicht bestehen.
 
 # 9
-## Sí, Dios siempre tiene razón porque nadie puede resistirlo, el Todopoderoso
 @1 Hiob antwortete und sprach:
 @2 Ja, ich weiß gar wohl, dass es also ist und dass ein Mensch nicht recht behalten mag gegen Gott.
 @3 Hat er Lust, mit ihm zu hadern, so kann er ihm auf tausend nicht eins antworten.
@@ -256,8 +209,6 @@
 @10 Er tut große Dinge, die nicht zu erforschen sind, und Wunder, deren keine Zahl ist.
 @11 Siehe, er geht an mir vorüber, ehe ich's gewahr werde, und wandelt vorbei, ehe ich's merke.
 @12 Siehe, wenn er hinreißt, wer will ihm wehren? Wer will zu ihm sagen: Was machst du?
-
-## Hiob würde, selbst wenn er im Recht wäre, bei einem Rechtsstreit mit Gott als schuldig dastehen
 @13 Er ist Gott; seinen Zorn kann niemand stillen; unter ihn mussten sich beugen die Helfer Rahabs.
 @14 Wie sollte ich denn ihm antworten und Worte finden gegen ihn?
 @15 Wenn ich auch recht habe, kann ich ihm dennoch nicht antworten, sondern ich müsste um mein Recht flehen.
@@ -266,8 +217,6 @@
 @18 Er lässt meinen Geist sich nicht erquicken, sondern macht mich voll Betrübnis.
 @19 Will man Macht, so ist er zu mächtig; will man Recht, wer will mein Zeuge sein?
 @20 Sage ich, dass ich gerecht bin, so verdammt er mich doch; bin ich unschuldig, so macht er mich doch zu Unrecht.
-
-## Para cambiar la vida agonizante por la muerte, Job pronuncia conscientemente la blasfemia de que Dios actúa arbitrariamente contra los piadosos y contra los pecadores
 @21 Ich bin unschuldig! ich frage nicht nach meiner Seele, begehre keines Lebens mehr.
 @22 Es ist eins, darum sage ich: Er bringt um beide, den Frommen und den Gottlosen.
 @23 Wenn er anhebt zu geißeln, so dringt er alsbald zum Tod und spottet der Anfechtung der Unschuldigen.
@@ -276,8 +225,6 @@
 @26 Sie sind dahingefahren wie die Rohrschiffe, wie ein Adler fliegt zur Speise.
 @27 Wenn ich gedenke: Ich will meiner Klage vergessen und meine Gebärde lassen fahren und mich erquicken, –
 @28 so fürchte ich alle meine Schmerzen, weil ich weiß, dass du mich nicht unschuldig sein lässest.
-
-## Dios no quiere aceptar la ley de Job, de lo contrario Job le gustaría hablar con él
 @29 Ich muss ja doch ein Gottloser sein; warum mühe ich mich denn so vergeblich?
 @30 Wenn ich mich gleich mit Schneewasser wüsche und reinigte meine Hände mit Lauge,
 @31 so wirst du mich doch tauchen in Kot, und werden mir meine Kleider gräulich anstehen.
@@ -287,7 +234,6 @@
 @35 dass ich möge reden und mich nicht vor ihm fürchten dürfe; denn ich weiß, dass ich kein solcher bin.
 
 # 10
-## ¿Cómo puede sólo Dios, con su omnisciencia y perfección, ser un perseguidor de Job?
 @1 Meine Seele verdrießt mein Leben; ich will meiner Klage bei mir ihren Lauf lassen und reden in der Betrübnis meiner Seele
 @2 und zu Gott sagen: Verdamme mich nicht! lass mich wissen, warum du mit mir haderst.
 @3 Gefällt dir's, dass du Gewalt tust und mich verwirfst, den deine Hände gemacht haben, und bringst der Gottlosen Vornehmen zu Ehren?
@@ -295,8 +241,6 @@
 @5 Oder ist deine Zeit wie eines Menschen Zeit, oder deine Jahre wie eines Mannes Jahre?
 @6 dass du nach meiner Missetat fragest und suchest meine Sünde,
 @7 so du doch weißt, wie ich nicht gottlos sei, so doch niemand ist, der aus deiner Hand erretten könne.
-
-## Dios preparó hábilmente a Job y antes le mostró amor y bondad, pero desde el principio lo quiso decir con hostilidad
 @8 Deine Hände haben mich bereitet und gemacht alles, was ich um und um bin; und du wolltest mich verderben?
 @9 Gedenke doch, dass du mich aus Lehm gemacht hast; und wirst mich wieder zu Erde machen?
 @10 Hast du mich nicht wie Milch hingegossen und wie Käse lassen gerinnen?
@@ -307,8 +251,6 @@
 @15 Bin ich gottlos, dann wehe mir! bin ich gerecht, so darf ich doch mein Haupt nicht aufheben, als der ich voll Schmach bin und sehe mein Elend.
 @16 Und wenn ich es aufrichte, so jagst du mich wie ein Löwe und handelst wiederum wunderbar an mir.
 @17 Du erneuest deine Zeugen wider mich und machst deines Zorns viel auf mich; es zerplagt mich eins über das andere in Haufen.
-
-## ¡Que Dios nunca lo haya creado ni le haya dado un pequeño descanso ahora antes de la muerte!
 @18 Warum hast du mich aus Mutterleib kommen lassen? Ach, dass ich wäre umgekommen und mich nie ein Auge gesehen hätte!
 @19 So wäre ich, als die nie gewesen sind, von Mutterleibe zum Grabe gebracht.
 @20 Ist denn mein Leben nicht kurz? So höre er auf und lasse ab von mir, dass ich ein wenig erquickt werde,
@@ -316,7 +258,6 @@
 @22 ins Land, da es stockfinster ist und da keine Ordnung ist, und wenn's hell wird, so ist es wie Finsternis.
 
 # 11
-## El discurso de Job exige rechazo; Con su perspicacia, Dios vio claramente a través de la culpa de Job y lo castigó con paciencia
 @1 Da antwortete Zophar von Naema und sprach:
 @2 Wenn einer lang geredet, muss er nicht auch hören? Muss denn ein Schwätzer immer recht haben?
 @3 Müssen die Leute zu deinem eitlen Gerede schweigen, dass du spottest und niemand dich beschäme?
@@ -328,8 +269,6 @@
 @9 länger denn die Erde und breiter denn das Meer.
 @10 So er daherfährt und gefangen legt und Gericht hält, wer will's ihm wehren?
 @11 Denn er kennt die losen Leute, er sieht die Untugend, und sollte es nicht merken?
-
-## Job debe desechar su engaño; a través del arrepentimiento serio todavía puede obtener la salvación mientras el malhechor está perdido
 @12 Ein unnützer Mann bläht sich, und ein geborener Mensch will sein wie ein junges Wild.
 @13 Wenn du dein Herz richtetest und deine Hände zu ihm ausbreitetest;
 @14 wenn du die Untugend, die in deiner Hand ist, fern von dir tätest, dass in deiner Hütte kein Unrecht bliebe:
@@ -341,15 +280,12 @@
 @20 Aber die Augen der Gottlosen werden verschmachten, und sie werden nicht entrinnen können; denn Hoffnung wird ihrer Seele fehlen.
 
 # 12
-## La queja de Job sobre la sabiduría imaginada y la despiadada falta de amor de los amigos
 @1 Da antwortete Hiob und sprach:
 @2 Ja, ihr seid die Leute, mit euch wird die Weisheit sterben!
 @3 Ich habe so wohl ein Herz als ihr und bin nicht geringer denn ihr; und wer ist, der solches nicht wisse?
 @4 Ich muss von meinem Nächsten verlachet sein, der ich Gott anrief, und er erhörte mich. Der Gerechte und Fromme muss verlachet sein
 @5 und ist ein verachtet Lichtlein vor den Gedanken der Stolzen, stehet aber, dass sie sich daran ärgern.
 @6 Der Verstörer Hütten haben die Fülle, und Ruhe haben, die wider Gott toben, die ihren Gott in der Faust führen.
-
-## La omnipotencia y la sabiduría de Dios son testificadas por todas sus criaturas; su conocimiento no es un privilegio de los viejos
 @7 Frage doch das Vieh, das wird dich's lehren, und die Vögel unter dem Himmel, die werden dir's sagen;
 @8 oder rede mit der Erde, die wird dich's lehren, und die Fische im Meer werden dir's erzählen.
 @9 Wer erkennte nicht an dem allem, dass des HErrn Hand solches gemacht hat?
@@ -357,8 +293,6 @@
 @11 Prüft nicht das Ohr die Rede? und der Mund schmeckt die Speise?
 @12 Ja, „bei den Großvätern ist die Weisheit, und der Verstand bei den Alten“.
 @13 Bei ihm ist Weisheit und Gewalt, Rat und Verstand.
-
-## El comportamiento de Dios se presenta al hombre como una regla insensata, terrible y arbitraria de su omnipotencia
 @14 Siehe, wenn er zerbricht, so hilft kein Bauen; wenn er jemand einschließt, kann niemand aufmachen.
 @15 Siehe, wenn er das Wasser verschließt, so wird alles dürr; und wenn er's auslässt, so kehrt es das Land um.
 @16 Er ist stark und führt es aus. Sein ist, der da irrt und der da verführt.
@@ -373,7 +307,6 @@
 @25 dass sie in der Finsternis tappen ohne Licht; und macht sie irre wie die Trunkenen.
 
 # 13
-## Job equipara su conocimiento con el de sus amigos y apela al conocimiento de Dios, quien solo puede ver en sus amigos defensores mentirosos de su justicia dignos de castigo
 @1 Siehe, das alles hat mein Auge gesehen und mein Ohr gehört, und ich habe es verstanden.
 @2 Was ihr wisst, das weiß ich auch; und bin nicht geringer denn ihr.
 @3 Doch wollte ich gern zu dem Allmächtigen reden und wollte gern mit Gott rechten.
@@ -386,8 +319,6 @@
 @10 Er wird euch strafen, wo ihr heimlich Person ansehet.
 @11 Wird er euch nicht erschrecken, wenn er sich wird hervortun, und wird seine Furcht nicht über euch fallen?
 @12 Eure Denksprüche sind Aschensprüche eure Bollwerke werden wie Lehmhaufen sein.
-
-## Job entra con confianza en esta batalla legal, siempre que Dios le dé la consideración necesaria manteniendo alejado su horror
 @13 Schweiget mir, dass ich rede, es komme über mich, was da will.
 @14 Was soll ich mein Fleisch mit meinen Zähnen davontragen und meine Seele in meine Hände legen?
 @15 Siehe, er wird mich doch erwürgen, und ich habe nichts zu hoffen; doch will ich meine Wege vor ihm verantworten.
@@ -406,23 +337,18 @@
 @28 der ich doch wie Moder vergehe und wie ein Kleid, das die Motten fressen.
 
 # 14
-## La vida humana es corta y al mismo tiempo llena de privaciones; ¿Por qué Dios no lo deja ir en paz?
 @1 Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe,
 @2 geht auf wie eine Blume und fällt ab, flieht wie ein Schatten und bleibt nicht.
 @3 Und du tust deine Augen über einen solchen auf, dass du mich vor dir ins Gericht ziehest.
 @4 Kann wohl ein Reiner kommen von den Unreinen? Auch nicht einer.
 @5 Er hat seine bestimmte Zeit, die Zahl seiner Monden steht bei dir; du hast ein Ziel gesetzt, das wird er nicht überschreiten.
 @6 So tu dich von ihm, dass er Ruhe habe, bis dass seine Zeit komme, deren er wie ein Tagelöhner wartet.
-
-## Después de la muerte ya no hay esperanza ni futuro para las personas
 @7 Ein Baum hat Hoffnung, wenn er schon abgehauen ist, dass er sich wieder erneue, und seine Schößlinge hören nicht auf.
 @8 Ob seine Wurzel in der Erde veraltet und sein Stamm in dem Staub erstirbt,
 @9 so grünt er doch wieder vom Geruch des Wassers und wächst daher, als wäre er erst gepflanzt.
 @10 Aber der Mensch stirbt und ist dahin; er verscheidet, und wo ist er?
 @11 Wie ein Wasser ausläuft aus dem See, und wie ein Strom versiegt und vertrocknet,
 @12 so ist ein Mensch, wenn er sich legt, und wird nicht aufstehen und wird nicht aufwachen, solange der Himmel bleibt, noch von seinem Schlaf erweckt werden.
-
-## Debido a la condición del difunto en el reino de los muertos, Job no puede tener ninguna esperanza de resurrección, de justificación y felicidad, porque todo lo bueno se acaba con la muerte
 @13 Ach, dass du mich in der Hölle verdecktest und verbärgest, bis dein Zorn sich lege, und setztest mir ein Ziel, dass du an mich dächtest.
 @14 Wird ein toter Mensch wieder leben? Alle Tage meines Streites wollte ich harren, bis dass meine Veränderung komme!
 @15 Du würdest rufen und ich dir antworten; es würde dich verlangen nach dem Werk deiner Hände.
@@ -435,7 +361,6 @@
 @22 Nur sein eigen Fleisch macht ihm Schmerzen, und seine Seele ist ihm voll Leides.
 
 # 15
-## Eliphas reprende las declaraciones de Job como vanas, impías y arrogantes palabras contra Dios
 @1 Da antwortete Eliphas von Theman und sprach:
 @2 Soll ein weiser Mann so aufgeblasene Worte reden und seinen Bauch so blähen mit leeren Reden?
 @3 Du verantwortest dich mit Worten, die nicht taugen, und dein Reden ist nichts nütze.
@@ -452,8 +377,6 @@
 @14 Was ist ein Mensch, dass er sollte rein sein, und dass der sollte gerecht sein, der vom Weibe geboren ist?
 @15 Siehe, unter seinen Heiligen ist keiner ohne Tadel, und die Himmel sind nicht rein vor ihm.
 @16 Wie viel weniger ein Mensch, der ein Gräuel und schnöde ist, der Unrecht säuft wie Wasser.
-
-## Presentación y justificación de la doctrina transmitida por los padres de la desgracia y destrucción de los impíos
 @17 Ich will dir's zeigen, höre mir zu; und ich will dir erzählen, was ich gesehen habe,
 @18 was die Weisen gesagt haben und ihren Vätern nicht verhohlen gewesen ist,
 @19 welchen allein das Land gegeben war, dass kein Fremder durch sie gehen durfte:
@@ -475,14 +398,11 @@
 @35 Sie gehen schwanger mit Unglück und gebären Mühsal, und ihr Schoß bringt Trug.“
 
 # 16
-## Job rechaza los consuelos de los amigos como discursos ventosos y burlas
 @1 Hiob antwortete und sprach:
 @2 Ich habe solches oft gehört. Ihr seid allzumal leidige Tröster!
 @3 Wollen die leeren Worte kein Ende haben? Oder was macht dich so frech, also zu reden?
 @4 Ich könnte auch wohl reden wie ihr. Wäre eure Seele an meiner Seele Statt, so wollte ich auch Worte wider euch zusammenbringen und mein Haupt also über euch schütteln.
 @5 Ich wollte euch stärken mit dem Munde und mit meinen Lippen trösten.
-
-## Dios mismo obviamente marca a Job como un pecador a través de su sufrimiento, aunque sabe que es inocente y lo expone sin piedad a los ataques de amigos y a la incomprensión de la gente
 @6 Aber wenn ich schon rede, so schont mein der Schmerz nicht; lasse ich's anstehen, so geht er nicht von mir.
 @7 Nun aber macht er mich müde und verstört alles, was ich bin.
 @8 Er hat mich runzlig gemacht, das zeugt wider mich; und mein Elend steht wider mich auf und verklagt mich ins Angesicht.
@@ -495,8 +415,6 @@
 @15 Ich habe einen Sack um meine Haut genäht und habe mein Horn in den Staub gelegt.
 @16 Mein Antlitz ist geschwollen von Weinen, und meine Augenlider sind verdunkelt,
 @17 wiewohl kein Frevel in meiner Hand ist und mein Gebet ist rein.
-
-## Sin embargo, Dios sigue siendo testigo y garante de Job de su inocencia y lo defenderá, aunque solo sea después de la muerte de Job
 @18 Ach Erde, bedecke mein Blut nicht! und mein Geschrei finde keine Ruhestätte!
 @19 Auch siehe da, mein Zeuge ist mein Himmel; und der mich kennt, ist in der Höhe.
 @20 Meine Freunde sind meine Spötter; aber mein Auge tränt zu Gott,
@@ -504,7 +422,6 @@
 @22 Denn die bestimmten Jahre sind gekommen, und ich gehe hin des Weges, den ich nicht wiederkommen werde.
 
 # 17
-## Job expone las razones que deben hacer que Dios lo defienda ante la locura y la insensibilidad de los amigos y respecto a la participación de los piadosos
 @1 Mein Odem ist schwach, und meine Tage sind abgekürzt; das Grab ist da.
 @2 Fürwahr, Gespött umgibt mich, und auf ihrem Hadern muss mein Auge weilen.
 @3 Sei du selbst mein Bürge bei dir; wer will mich sonst vertreten?
@@ -514,8 +431,6 @@
 @7 Mein Auge ist dunkel geworden vor Trauern, und alle meine Glieder sind wie ein Schatten.
 @8 Darüber werden die Gerechten sich entsetzen, und die Unschuldigen werden sich entrüsten wider die Heuchler.
 @9 Aber der Gerechte wird seinen Weg behalten; und wer reine Hände hat, wird an Stärke zunehmen.
-
-## Job rechaza los discursos de conversión y consolación de los amigos como tontos, ya que ha terminado con su vida
 @10 Wohlan, so kehret euch alle her und kommt; ich werde doch keinen Weisen unter euch finden.
 @11 Meine Tage sind vergangen; meine Anschläge sind zerrissen, die mein Herz besessen haben.
 @12 Sie wollen aus der Nacht Tag machen und aus dem Tage Nacht.
@@ -525,13 +440,10 @@
 @16 Hinunter zu den Toten wird es fahren und wird mit mir in dem Staub liegen.
 
 # 18
-## Expresando disgusto por el discurso arrogante y moralista de Job
 @1 Da antwortete Bildad von Suah und sprach:
 @2 Wann wollt ihr der Reden ein Ende machen? Merket doch; darnach wollen wir reden.
 @3 Warum werden wir geachtet wie Vieh und sind so unrein vor euren Augen?
 @4 Willst du vor Zorn bersten? Meinst du, dass um deinetwillen die Erde verlassen werde und der Fels von seinem Ort versetzt werde?
-
-## Descripción repetida de la infalible y terrible caída que Dios tiene reservada para los malvados y sus parientes
 @5 Und doch wird das Licht der Gottlosen verlöschen, und der Funke seines Feuers wird nicht leuchten.
 @6 Das Licht wird finster werden in seiner Hütte, und seine Leuchte über ihm verlöschen.
 @7 Seine kräftigen Schritte werden in die Enge kommen, und sein Anschlag wird ihn fällen.
@@ -551,15 +463,12 @@
 @21 Das ist die Wohnung des Ungerechten; und dies ist die Stätte des, der Gott nicht achtet.
 
 # 19
-## La queja de Job sobre sus amigos que lo reprenden sin evidencia en lugar de culpar a Dios por una enemistad sin fundamento
 @1 Hiob antwortete und sprach:
 @2 Wie lange plagt ihr doch meine Seele und peinigt mich mit Worten?
 @3 Ihr habt mich nun zehnmal gehöhnt und schämt euch nicht, dass ihr mich also umtreibt.
 @4 Irre ich, so irre ich mir.
 @5 Wollt ihr wahrlich euch über mich erheben und wollt meine Schmach mir beweisen,
 @6 so merkt doch nun einmal, dass mir Gott Unrecht tut und hat mich mit seinem Jagdstrick umgeben.
-
-## La queja de Job sobre el grave sufrimiento que Dios le infligió injustamente y sobre el comportamiento despectivo de la gente contra él
 @7 Siehe, ob ich schon schreie über Frevel, so werde ich doch nicht erhört; ich rufe, und ist kein Recht da.
 @8 Er hat meinen Weg verzäunt, dass ich nicht kann hinübergehen, und hat Finsternis auf meinen Steig gestellt.
 @9 Er hat meine Ehre mir ausgezogen und die Krone von meinem Haupt genommen.
@@ -574,8 +483,6 @@
 @18 Auch die jungen Kinder geben nichts auf mich; wenn ich ihnen widerstehe, so geben sie mir böse Worte.
 @19 Alle meine Getreuen haben einen Gräuel an mir; und die ich liebhatte, haben sich wider mich gekehrt.
 @20 Mein Gebein hanget mir an Haut und Fleisch, und ich kann meine Zähne mit der Haut nicht bedecken.
-
-## Job pide compasión a sus amigos y expresa la firme esperanza de que algún día Dios lo justifique, pero también castigue la insensibilidad de sus amigos
 @21 Erbarmet euch mein, erbarmet euch mein, ihr meine Freunde! denn die Hand Gottes hat mich getroffen.
 @22 Warum verfolgt ihr mich gleich wie Gott und könnt meines Fleisches nicht satt werden?
 @23 Ach dass meine Reden geschrieben würden! ach dass sie in ein Buch gestellt würden!
@@ -587,12 +494,9 @@
 @29 so fürchtet euch vor dem Schwert; denn das Schwert ist der Zorn über die Missetaten, auf dass ihr wisset, dass ein Gericht sei.
 
 # 20
-## Breve rechazo del discurso ofensivo de Job
 @1 Da antwortete Zophar von Naema und sprach:
 @2 Darauf muss ich antworten und kann nicht harren.
 @3 Denn ich muss hören, wie man mich straft und tadelt; aber der Geist meines Verstandes soll für mich antworten.
-
-## Representación apasionada de la infalible caída de los malvados con una alusión sin amor a la presunta indignación de Job
 @4 Weißt du nicht, dass es allezeit so gegangen ist, seitdem Menschen auf Erden gewesen sind:
 @5 dass der Ruhm der Gottlosen stehet nicht lange und die Freude des Heuchlers währet einen Augenblick?
 @6 Wenngleich seine Höhe in den Himmel reicht und sein Haupt an die Wolken rührt,
@@ -621,15 +525,12 @@
 @29 Das ist der Lohn eines gottlosen Menschen bei Gott und das Erbe, das ihm zugesprochen wird von Gott.
 
 # 21
-## La solicitud de Job a sus amigos de escuchar su declaración significativa, aunque dolorosa, que sigue
 @1 Hiob antwortete und sprach:
 @2 Höret doch meiner Rede zu und lasst mir das anstatt eurer Tröstungen sein!
 @3 Vertragt mich, dass ich auch rede, und spottet darnach mein!
 @4 Handle ich denn mit einem Menschen? oder warum sollte ich nicht ungeduldig sein?
 @5 Kehret euch her zu mir; ihr werdet erstarren und die Hand auf den Mund legen müssen.
 @6 Wenn ich daran denke, so erschrecke ich, und Zittern kommt mein Fleisch an.
-
-## Establecer el hecho de que los malvados (a menudo) son felices en la vida y en la muerte
 @7 Warum leben denn die Gottlosen, werden alt und nehmen zu mit Gütern?
 @8 Ihr Same ist sicher um sie her, und ihre Nachkömmlinge sind bei ihnen.
 @9 Ihr Haus hat Frieden vor der Furcht, und Gottes Rute ist nicht über ihnen.
@@ -639,8 +540,6 @@
 @13 Sie werden alt bei guten Tagen und erschrecken kaum einen Augenblick vor dem Tode,
 @14 die doch sagen zu Gott: „Hebe dich von uns, wir wollen von deinen Wegen nicht wissen!
 @15 Wer ist der Allmächtige, dass wir ihm dienen sollten? oder was sind wir gebessert, so wir ihn anrufen?“
-
-## La felicidad y la infelicidad son dadas arbitrariamente por Dios
 @16 „Aber siehe, ihr Glück steht nicht in ihren Händen; darum soll der Gottlosen Sinn ferne von mir sein.“
 @17 Wie oft geschieht's denn, dass die Leuchte der Gottlosen verlischt und ihr Unglück über sie kommt? dass er Herzeleid über sie austeilt in seinem Zorn?
 @18 dass sie werden wie Stoppeln vor dem Winde und wie Spreu, die der Sturmwind wegführt?
@@ -652,8 +551,6 @@
 @24 sein Melkfass ist voll Milch, und seine Gebeine werden gemästet mit Mark;
 @25 jener aber stirbt mit betrübter Seele und hat nie mit Freuden gegessen;
 @26 und liegen gleich miteinander in der Erde, und Würmer decken sie zu.
-
-## La aplicación de la doctrina de la retribución de Dios a Job y el consuelo de Job para la felicidad posterior es incorrecta o incluso maliciosa
 @27 Siehe, ich kenne eure Gedanken wohl und euer frevles Vornehmen wider mich.
 @28 Denn ihr sprecht: „Wo ist das Haus des Fürsten? und wo ist die Hütte, da die Gottlosen wohnten?“
 @29 Habt ihr denn die Wanderer nicht befragt und nicht gemerkt ihre Zeugnisse?
@@ -664,22 +561,17 @@
 @34 Wie tröstet ihr mich so vergeblich, und eure Antworten finden sich unrecht!
 
 # 22
-## Eliphaz ahora expresa sin reservas que Job merecía su desgracia
 @1 Da antwortete Eliphas von Theman und sprach:
 @2 Kann denn ein Mann Gottes etwas nützen? Nur sich selber nützt ein Kluger.
 @3 Meinst du, dem Allmächtigen liege daran, dass du gerecht seist? Was hilft's ihm, wenn deine Wege ohne Tadel sind?
 @4 Meinst du, wegen deiner Gottesfurcht strafe er dich und gehe mit dir ins Gericht?
 @5 Nein, deine Bosheit ist zu groß, und deiner Missetaten ist kein Ende.
-
-## Job ganó su castigo por una grave iniquidad
 @6 Du hast etwa deinem Bruder ein Pfand genommen ohne Ursache; du hast den Nackten die Kleider ausgezogen;
 @7 du hast die Müden nicht getränkt mit Wasser und hast dem Hungrigen dein Brot versagt;
 @8 du hast Gewalt im Lande geübt und prächtig darin gesessen;
 @9 die Witwen hast du leer lassen gehen und die Arme der Waisen zerbrochen.
 @10 Darum bist du mit Stricken umgeben, und Furcht hat dich plötzlich erschreckt.
 @11 Solltest du denn nicht die Finsternis sehen und die Wasserflut, die dich bedeckt?
-
-## Job ha pecado gravemente contra Dios por convicciones impías y por discursos inicuos
 @12 Ist nicht Gott hoch droben im Himmel? Siehe die Sterne an droben in der Höhe!
 @13 Und du sprichst: „Was weiß Gott? Sollte er, was im Dunkel ist, richten können?
 @14 Die Wolken sind seine Vordecke, und er sieht nicht; er wandelt im Umkreis des Himmels.“
@@ -689,8 +581,6 @@
 @18 da er doch ihr Haus mit Gütern füllte. Aber der Gottlosen Rat sei ferne von mir.
 @19 Die Gerechten werden es sehen und sich freuen, und der Unschuldige wird ihrer spotten:
 @20 „Fürwahr, unser Widersacher ist verschwunden; und sein Übriggelassenes hat das Feuer verzehrt.“
-
-## En caso de conversión, Job ciertamente recibirá una nueva salvación de Dios
 @21 So vertrage dich nun mit ihm und habe Frieden; daraus wird dir viel Gutes kommen.
 @22 Höre das Gesetz von seinem Munde und fasse seine Reden in dein Herz.
 @23 Wirst du dich bekehren zu dem Allmächtigen, so wirst du aufgebaut werden. Tue nur Unrecht ferne hinweg von deiner Hütte
@@ -703,7 +593,6 @@
 @30 Auch der nicht unschuldig war, wird errettet werden; er wird aber errettet um deiner Hände Reinigkeit willen.
 
 # 23
-## Job se siente menos perturbado por su sufrimiento inocente que por la conducta incomprensible e injustificable de Dios
 @1 Hiob antwortete und sprach:
 @2 Meine Rede bleibt noch betrübt; meine Macht ist schwach über meinem Seufzen.
 @3 Ach dass ich wüsste, wie ich ihn finden und zu seinem Stuhl kommen möchte
@@ -723,7 +612,6 @@
 @17 Denn die Finsternis macht kein Ende mit mir, und das Dunkel will vor mir nicht verdeckt werden.
 
 # 24
-## Job da ejemplos del incomprensible gobierno de Dios en el sufrimiento de los inocentes y en la felicidad de los malvados
 @1 Warum sind von dem Allmächtigen nicht Zeiten vorbehalten, und warum sehen, die ihn kennen, seine Tage nicht?
 @2 Man verrückt die Grenzen, raubt die Herde und weidet sie.
 @3 Sie treiben der Waisen Esel weg und nehmen der Witwe Ochsen zum Pfande.
@@ -751,7 +639,6 @@
 @25 Ist's nicht also? Wohlan, wer will mich Lügen strafen und bewähren, dass meine Rede nichts sei?
 
 # 25
-## Referencia al irresistible gobierno de Dios en las alturas y a la naturaleza pecaminosa e imperfección del hombre
 @1 Da antwortete Bildad von Suah und sprach:
 @2 Ist nicht Herrschaft und Schrecken bei ihm, der Frieden macht unter seinen Höchsten?
 @3 Wer will seine Kriegsscharen zählen? und über wen geht nicht auf sein Licht?
@@ -760,13 +647,10 @@
 @6 wie viel weniger ein Mensch, die Made, und ein Menschenkind, der Wurm!
 
 # 26
-## Manejo amargo del discurso de Bildad, que no contenía ni consuelo ni sabios consejos
 @1 Hiob antwortete und sprach:
 @2 Wie stehest du dem bei, der keine Kraft hat, hilfst dem, der keine Stärke in den Armen hat!
 @3 Wie gibst du Rat dem, der keine Weisheit hat, und tust kund Verstandes die Fülle!
 @4 Zu wem redest du? und wes Odem geht von dir aus?
-
-## Job reconoce la inconmensurable majestad de Dios en una brillante descripción
 @5 Die Toten ängsten sich tief unter den Wassern und denen, die darin wohnen.
 @6 Das Grab ist aufgedeckt vor ihm, und der Abgrund hat keine Decke.
 @7 Er breitet aus die Mitternacht über das Leere und hängt die Erde an nichts.
@@ -779,21 +663,16 @@
 @14 Siehe, also geht sein Tun, und nur ein geringes Wörtlein davon haben wir vernommen. Wer will aber den Donner seiner Macht verstehen?
 
 # 27
-## Job declara que debe aferrarse a la convicción de su inocencia jurada para no convertirse en un mentiroso
 @1 Und Hiob fuhr fort und hob an seine Sprüche und sprach:
 @2 So wahr Gott lebt, der mir mein Recht weigert, und der Allmächtige, der meine Seele betrübt;
 @3 solange mein Odem in mir ist und der Hauch von Gott in meiner Nase ist:
 @4 meine Lippen sollen nichts Unrechtes reden, und meine Zunge soll keinen Betrug sagen.
 @5 Das sei ferne von mir, dass ich euch recht gebe; bis dass mein Ende kommt, will ich nicht weichen von meiner Unschuld.
 @6 Von meiner Gerechtigkeit, die ich habe, will ich nicht lassen; mein Gewissen beißt mich nicht meines ganzen Lebens halben.
-
-## Job bien conoce el destino del malhechor (es decir, el mentiroso)
 @7 Aber mein Feind müsse erfunden werden als ein Gottloser, und der sich wider mich auflehnt, als ein Ungerechter.
 @8 Denn was ist die Hoffnung des Heuchlers, wenn Gott mit ihm ein Ende macht und seine Seele hinreißt?
 @9 Meinst du, dass Gott sein Schreien hören wird, wenn die Angst über ihn kommt?
 @10 Oder kann er an dem Allmächtigen seine Lust haben und Gott allezeit anrufen?
-
-## Descripción de la infalible caída de los malvados (a pesar de toda la voluntad de Dios)
 @11 Ich will euch lehren von der Hand Gottes; und was bei dem Allmächtigen gilt, will ich nicht verhehlen.
 @12 Siehe, ihr haltet euch alle für klug; warum bringt ihr denn solch unnütze Dinge vor?
 @13 Das ist der Lohn eines gottlosen Menschen bei Gott und das Erbe der Tyrannen, das sie von dem Allmächtigen nehmen werden:
@@ -809,7 +688,6 @@
 @23 Man wird über ihn mit den Händen klatschen und über ihn zischen, wo er gewesen ist.
 
 # 28
-## Todos los tesoros, incluidos los escondidos en las profundidades de la tierra, se pueden encontrar y hacer suyos
 @1 Es hat das Silber seine Gänge, und das Gold, das man läutert, seinen Ort.
 @2 Eisen bringt man aus der Erde, und aus den Steinen schmelzt man Erz.
 @3 Man macht der Finsternis ein Ende und findet zuletzt das Gestein tief verborgen.
@@ -821,8 +699,6 @@
 @9 Auch legt man die Hand an die Felsen und gräbt die Berge um.
 @10 Man reißt Bäche aus den Felsen; und alles, was köstlich ist, sieht das Auge.
 @11 Man wehrt dem Strome des Wassers und bringt, das darinnen verborgen ist, ans Licht.
-
-## Pero la sabiduría, el bien más preciado, no se encuentra en ninguna parte de la creación
 @12 Wo will man aber die Weisheit finden? und wo ist die Stätte des Verstandes?
 @13 Niemand weiß, wo sie liegt, und sie wird nicht gefunden im Lande der Lebendigen.
 @14 Die Tiefe spricht: „Sie ist in mir nicht“; und das Meer spricht: „Sie ist nicht bei mir“.
@@ -834,8 +710,6 @@
 @20 Woher kommt denn die Weisheit? und wo ist die Stätte des Verstandes?
 @21 Sie ist verhohlen vor den Augen aller Lebendigen, auch verborgen den Vögeln unter dem Himmel.
 @22 Der Abgrund und der Tod sprechen: „Wir haben mit unseren Ohren ihr Gerücht gehört.“
-
-## Solo Dios posee sabiduría y la ha ejercido en la creación del mundo; el hombre solo puede poseerlo como temor de Dios
 @23 Gott weiß den Weg dazu und kennt ihre Stätte.
 @24 Denn er sieht die Enden der Erde und schaut alles, was unter dem Himmel ist.
 @25 Da er dem Winde sein Gewicht machte und setzte dem Wasser sein gewisses Maß;
@@ -844,15 +718,12 @@
 @28 und sprach zum Menschen: Siehe, die Furcht des HErrn, das ist Weisheit; und meiden das Böse, das ist Verstand.
 
 # 29
-## Descripción de la bendición divina anterior
 @1 Und Hiob hob abermals an seine Sprüche und sprach:
 @2 O dass ich wäre wie in den vorigen Monden, in den Tagen, da mich Gott behütete;
 @3 da seine Leuchte über meinem Haupt schien und ich bei seinem Licht in der Finsternis ging;
 @4 wie ich war in der Reife meines Lebens, da Gottes Geheimnis über meiner Hütte war;
 @5 da der Allmächtige noch mit mir war und meine Kinder um mich her;
 @6 da ich meine Tritte wusch in Butter und die Felsen mir Ölbäche gossen;
-
-## Descripción de su alta reputación anterior, su justicia y su trabajo exitoso
 @7 da ich ausging zum Tor in der Stadt und mir ließ meinen Stuhl auf der Gasse bereiten;
 @8 da mich die Jungen sahen und sich versteckten, und die Alten vor mir aufstanden;
 @9 da die Obersten aufhörten zu reden und legten ihre Hand auf ihren Mund;
@@ -874,7 +745,6 @@
 @25 Wenn ich zu ihrem Geschäft wollte kommen, so musste ich obenan sitzen und wohnte wie ein König unter Kriegsknechten, da ich tröstete, die Leid trugen.
 
 # 30
-## Job recibe desprecio, insultos y ataques incluso de las personas más deshonrosas
 @1 Nun aber lachen mein, die jünger sind denn ich, deren Väter ich verachtet hätte, sie zu stellen unter meine Schafhunde;
 @2 deren Vermögen ich für nichts hielt; die nicht zum Alter kommen konnten;
 @3 die vor Hunger und Kummer einsam flohen in die Einöde, neulich verdarben und elend wurden;
@@ -890,8 +760,6 @@
 @13 Sie haben meine Steige zerbrochen; es war ihnen so leicht, mich zu beschädigen, dass sie keiner Hilfe dazu bedurften.
 @14 Sie sind gekommen wie zu einer weiten Lücke der Mauer herein und sind ohne Ordnung dahergefallen.
 @15 Schrecken hat sich gegen mich gekehrt und hat verfolgt wie der Wind meine Herrlichkeit; und wie eine Wolke zog vorüber mein glückseliger Stand.
-
-## Descripción de los sufrimientos que han irrumpido en Job a través de la omnipotencia de Dios y sentimientos obviamente hostiles
 @16 Nun aber gießt sich aus meine Seele über mich, und mich hat ergriffen die elende Zeit.
 @17 Des Nachts wird mein Gebein durchbohrt allenthalben; und die mich nagen, legen sich nicht schlafen.
 @18 Mit großer Gewalt werde ich anders und anders gekleidet, und ich werde damit umgürtet wie mit einem Rock.
@@ -900,8 +768,6 @@
 @21 Du hast mich verwandelt in einen Grausamen und zeigst an mit der Stärke deiner Hand, dass du mir gram bist.
 @22 Du hebst mich auf und lässest mich auf dem Winde fahren und zerschmelzest mich kräftig.
 @23 Denn ich weiß du wirst mich dem Tod überantworten; da ist das bestimmte Haus aller Lebendigen.
-
-## La seguridad de Job de que tiene un motivo justo para quejarse
 @24 Aber wird einer nicht die Hand ausstrecken unter Trümmern und nicht schreien vor seinem Verderben?
 @25 Ich weinte ja über den, der harte Zeit hatte; und meine Seele jammerte der Armen.
 @26 Ich wartete des Guten, und es kommt das Böse; ich hoffte aufs Licht, und es kommt Finsternis.
@@ -912,7 +778,6 @@
 @31 Meine Harfe ist eine Klage geworden und meine Flöte ein Weinen.
 
 # 31
-## El gran juramento de limpieza de Job para establecer su justicia (= temor de Dios sin daño)
 @1 Ich habe einen Bund gemacht mit meinen Augen, dass ich nicht achtete auf eine Jungfrau.
 @2 Was gäbe mir Gott sonst als Teil von oben und was für ein Erbe der Allmächtige in der Höhe?
 @3 Wird nicht der Ungerechte Unglück haben und ein Übeltäter verstoßen werden?
@@ -947,8 +812,6 @@
 @32 Draußen musste der Gast nicht bleiben, sondern meine Tür tat ich dem Wanderer auf.
 @33 Hab ich meine Übertretungen nach Menschenweise zugedeckt, dass ich heimlich meine Missetat verbarg?
 @34 Hab ich mir grauen lassen vor der großen Menge, und hat die Verachtung der Freundschaften mich abgeschreckt, dass ich stille blieb und nicht zur Tür ausging?
-
-## El deseo y la voluntad de Job de entablar un litigio con Dios
 @35 O hätte ich einen, der mich anhört! Siehe, meine Unterschrift – der Allmächtige antworte mir! – und siehe, die Schrift, die mein Verkläger geschrieben!
 @36 Wahrlich, dann wollte ich sie auf meine Achsel nehmen und mir wie eine Krone umbinden;
 @37 ich wollte alle meine Schritte ihm ansagen und wie ein Fürst zu ihm nahen.
@@ -957,15 +820,12 @@
 @40 so mögen mir Disteln wachsen für Weizen und Dornen für Gerste. Die Worte Hiobs haben ein Ende.
 
 # 32
-## Información sobre Eliú y su comportamiento anterior
 @1 Da hörten die drei Männer auf, Hiob zu antworten, weil er sich für gerecht hielt.
 @2 Aber Elihu, der Sohn Baracheels von Bus, des Geschlechts Rams, ward zornig über Hiob, dass er seine Seele gerechter hielt denn Gott.
 @3 Auch ward er zornig über seine drei Freunde, dass sie keine Antwort fanden und doch Hiob verdammten.
 @4 Denn Elihu hatte geharrt, bis dass sie mit Hiob geredet hatten, weil sie älter waren als er.
 @5 Darum, da er sah, dass keine Antwort war im Munde der drei Männer, ward er zornig.
 @6 Und so antwortete Elihu, der Sohn Baracheels von Bus, und sprach: Ich bin jung, ihr aber seid alt; darum habe ich mich gescheut und gefürchtet, mein Wissen euch kundzutun.
-
-## Eliú justifica su silencio anterior
 @7 Ich dachte: Lass das Alter reden, und die Menge der Jahre lass Weisheit beweisen.
 @8 Aber der Geist ist in den Leuten und der Odem des Allmächtigen, der sie verständig macht.
 @9 Die Großen sind nicht die Weisesten, und die Alten verstehen nicht das Recht.
@@ -974,8 +834,6 @@
 @12 und habe achtgehabt auf euch. Aber siehe, da ist keiner unter euch, der Hiob zurechtweise oder seiner Rede antworte.
 @13 Saget nur nicht: „Wir haben Weisheit getroffen; Gott muss ihn schlagen, kein Mensch.“
 @14 Gegen mich hat er seine Worte nicht gerichtet, und mit euren Reden will ich ihm nicht antworten.
-
-## Eliú explica que su mente está impulsada a mostrar imparcialmente su comprensión
 @15 Ach! sie sind verzagt, können nicht mehr antworten; sie können nicht mehr reden.
 @16 Weil ich denn geharrt habe, und sie konnten nicht reden (denn sie stehen still und antworten nicht mehr),
 @17 will ich auch mein Teil antworten und will mein Wissen kundtun.
@@ -986,7 +844,6 @@
 @22 Denn ich weiß nicht zu schmeicheln; leicht würde mich sonst mein Schöpfer dahinraffen.
 
 # 33
-## Discurso amistoso de Eliú e invitación a Job para que comentara
 @1 Höre doch, Hiob, meine Rede und merke auf alle meine Worte!
 @2 Siehe, ich tue meinen Mund auf, und meine Zunge redet in meinem Munde.
 @3 Mein Herz soll recht reden, und meine Lippen sollen den reinen Verstand sagen.
@@ -994,15 +851,11 @@
 @5 Kannst du, so antworte mir; rüste dich gegen mich und stelle dich.
 @6 Siehe, ich bin Gottes ebensowohl als du, und aus Lehm bin ich auch gemacht.
 @7 Siehe, du darfst vor mir nicht erschrecken, und meine Hand soll dir nicht zu schwer sein.
-
-## Breve explicación y rechazo de las quejas de Job contra Dios
 @8 Du hast geredet vor meinen Ohren; die Stimme deiner Reden musste ich hören:
 @9 „Ich bin rein, ohne Missetat, unschuldig und habe keine Sünde;
 @10 siehe, er hat eine Sache wider mich gefunden, er achtet mich für seinen Feind;
 @11 er hat meinen Fuß in den Stock gelegt und hat Acht auf alle meine Wege.“
 @12 Siehe, darin hast du nicht recht, muss ich dir antworten; denn Gott ist mehr als ein Mensch.
-
-## Dios enseña a la gente sobre sus intenciones y sobre su pecado, a veces a través de sueños, a veces a través del sufrimiento, especialmente la enfermedad
 @13 Warum willst du mit ihm zanken, dass er dir nicht Rechenschaft gibt alles seines Tuns?
 @14 Denn in einer Weise redet Gott und wieder in einer anderen, nur achtet man's nicht.
 @15 Im Traum, im Nachtgesicht, wenn der Schlaf auf die Leute fällt, wenn sie schlafen auf dem Bette,
@@ -1019,8 +872,6 @@
 @26 Er wird Gott bitten; der wird ihm Gnade erzeigen und wird ihn sein Antlitz sehen lassen mit Freuden und wird dem Menschen nach seiner Gerechtigkeit vergelten.
 @27 Er wird vor den Leuten bekennen und sagen: „Ich hatte gesündigt und das Recht verkehrt; aber es ist mir nicht vergolten worden.
 @28 Er hat meine Seele erlöst, dass sie nicht führe ins Verderben, sondern mein Leben das Licht sähe.“
-
-## Solicitar a Job que le instruya o que refute la explicación de Eliú
 @29 Siehe, das alles tut Gott zwei- oder dreimal mit einem jeglichen,
 @30 dass er seine Seele zurückhole aus dem Verderben und erleuchte ihn mit dem Licht der Lebendigen.
 @31 Merke auf, Hiob, und höre mir zu und schweige, dass ich rede!
@@ -1028,15 +879,12 @@
 @33 Hast du aber nichts, so höre mir zu und schweige; ich will dich die Weisheit lehren.
 
 # 34
-## Estableciendo la afirmación de Job de que Dios es injusto
 @1 Und es hob an Elihu und sprach:
 @2 Höret, ihr Weisen, meine Rede, und ihr Verständigen, merkt auf mich!
 @3 Denn das Ohr prüft die Rede, und der Mund schmeckt die Speise.
 @4 Lasst uns ein Urteil finden, dass wir erkennen unter uns, was gut sei.
 @5 Denn Hiob hat gesagt: „Ich bin gerecht, und Gott weigert mir mein Recht;
 @6 ich muss lügen, ob ich wohl recht habe, und bin gequält von meinen Pfeilen, ob ich wohl nichts verschuldet habe.“
-
-## Al blasfemar contra Dios, Job se vuelve inicuo; porque Dios no puede ser injusto según todo su ser (especialmente como gobernante del mundo)
 @7 Wer ist ein solcher wie Hiob, der da Spötterei trinkt wie Wasser
 @8 und auf dem Wege geht mit den Übeltätern und wandelt mit den gottlosen Leuten?
 @9 Denn er hat gesagt: „Wenn jemand schon fromm ist, so gilt er doch nichts bei Gott.“
@@ -1061,8 +909,6 @@
 @28 dass das Schreien der Armen musste vor ihn kommen und er das Schreien der Elenden hörte.
 @29 Wenn er Frieden gibt, wer will verdammen? und wenn er das Antlitz verbirgt, wer will ihn schauen unter den Völkern und Leuten allzumal?
 @30 Denn er lässt nicht über sie regieren einen Heuchler, das Volk zu drängen.
-
-## El juicio de Job sobre Dios es presuntuoso, necio e indignante, y merece el castigo más severo
 @31 Denn zu Gott muss man sagen: „Ich habe gebüßt, ich will nicht übel tun.
 @32 Habe ich's nicht getroffen, so lehre du mich's besser; habe ich Unrecht gehandelt, ich will's nicht mehr tun.“
 @33 Soll er nach deinem Sinn vergelten? Denn du verwirfst alles; du hast zu wählen, und nicht ich. Weißt du nun was, so sage an.
@@ -1072,7 +918,6 @@
 @37 Denn er hat über seine Sünde dazu noch gelästert; er treibt Spott unter uns und macht seiner Reden viel wider Gott.
 
 # 35
-## Eliú combate la afirmación de Job de que el temor de Dios no sirve de nada, y señala que lo que la gente hace no es importante para Dios, sino solo para la gente
 @1 Und es hob an Elihu und sprach:
 @2 Achtest du das für recht, dass du sprichst: „Ich bin gerechter denn Gott“?
 @3 Denn du sprichst: „Wer gilt bei dir etwas? Was hilft es, ob ich nicht sündige?“
@@ -1081,8 +926,6 @@
 @6 Sündigst du, was kannst du ihm Schaden? Und ob deiner Missetaten viel ist, was kannst du ihm tun?
 @7 Und ob du gerecht seist, was kannst du ihm geben, oder was wird er von deinen Händen nehmen?
 @8 Einem Menschen, wie du bist, mag wohl etwas tun deine Bosheit, und einem Menschenkind deine Gerechtigkeit.
-
-## Los frecuentes casos de personas inocentes que no responden y se quejan de un trato violento pueden explicarse por la falta de confianza o el temor de Dios por parte de los afectados
 @9 Man schreit, dass viel Gewalt geschieht, und ruft über den Arm der Großen;
 @10 aber man fragt nicht: „Wo ist Gott, mein Schöpfer, der Lobgesänge gibt in der Nacht,
 @11 der uns klüger macht denn das Vieh auf Erden und weiser denn die Vögel unter dem Himmel?“
@@ -1093,13 +936,10 @@
 @16 Darum hat Hiob seinen Mund umsonst aufgesperrt und gibt stolzes Gerede vor mit Unverstand.
 
 # 36
-## Eliú justifica su siguiente enseñanza con referencia a su perfecto conocimiento
 @1 Elihu redete weiter und sprach:
 @2 Harre mir noch ein wenig, ich will dir's zeigen; denn ich habe noch von Gottes wegen etwas zu sagen.
 @3 Ich will mein Wissen weither holen und beweisen, dass mein Schöpfer recht habe.
 @4 Meine Reden sollen ohne Zweifel nicht falsch sein; mein Verstand soll ohne Tadel vor dir sein.
-
-## Dios quiere educar a las personas para su salvación a través del sufrimiento, especialmente para llevarlas al autoconocimiento y la obediencia, que solo logra con los que temen a Dios
 @5 Siehe, Gott ist mächtig, und verachtet doch niemand; er ist mächtig von Kraft des Herzens.
 @6 Den Gottlosen erhält er nicht, sondern hilft dem Elenden zum Recht.
 @7 Er wendet seine Augen nicht von dem Gerechten; sondern mit Königen auf dem Thron lässt er sie sitzen immerdar, dass sie hoch bleiben.
@@ -1111,8 +951,6 @@
 @13 Die Heuchler werden voll Zorns; sie schreien nicht, wenn er sie gebunden hat.
 @14 So wird ihre Seele in der Jugend sterben und ihr Leben unter den Hurern.
 @15 Aber den Elenden wird er in seinem Elend erretten und dem Armen das Ohr öffnen in der Trübsal.
-
-## Por tanto, que ahora Job también se deje purificar a través de su sufrimiento para participar de la bendición divina
 @16 Und auch dich lockt er aus dem Rachen der Angst in weiten Raum, da keine Bedrängnis mehr ist; und an deinem Tische, voll alles Guten, wirst du Ruhe haben.
 @17 Du aber machst die Sache der Gottlosen gut, dass ihre Sache und ihr Recht erhalten wird.
 @18 Siehe zu, dass nicht vielleicht Zorn dich verlocke zum Hohn oder die Größe des Lösegelds dich verleite.
@@ -1123,8 +961,6 @@
 @23 Wer will ihm weisen seinen Weg, und wer will zu ihm sagen: „Du tust Unrecht?“
 @24 Gedenke dass du sein Werk erhebest, davon die Leute singen.
 @25 Denn alle Menschen sehen es; die Leute schauen's von ferne.
-
-## Representación de la grandeza, la gloria y la sabiduría de Dios, que se revelan en la naturaleza
 @26 Siehe Gott ist groß und unbekannt; seiner Jahre Zahl kann niemand erforschen.
 @27 Er macht das Wasser zu kleinen Tropfen und treibt seine Wolken zusammen zum Regen,
 @28 dass die Wolken fließen und triefen sehr auf die Menschen.
@@ -1148,8 +984,6 @@
 @11 Die Wolken beschwert er mit Wasser, und durch das Gewölk bricht sein Licht.
 @12 Er kehrt die Wolken, wo er hin will, dass sie schaffen alles, was er ihnen gebeut, auf dem Erdboden:
 @13 es sei zur Züchtigung über ein Land oder zur Gnade, lässt er sie kommen.
-
-## Amonestación a Job de no observar un desafío altivo hacia este Dios, sino más bien una reverencia humilde
 @14 Da merke auf, Hiob, stehe und vernimm die Wunder Gottes!
 @15 Weißt du, wie Gott solches über sie bringt und wie er das Licht aus seinen Wolken lässt hervorbrechen?
 @16 Weißt du, wie sich die Wolken ausstreuen, die Wunder des, der vollkommen ist an Wissen?
@@ -1163,12 +997,9 @@
 @24 Darum müssen ihn fürchten die Leute; und er sieht keinen an, wie weise sie sind.
 
 # 38
-## La invitación de Dios a Job para que le hable
 @1 Und der HErr antwortete Hiob aus dem Wetter und sprach:
 @2 Wer ist der, der den Ratschluss verdunkelt mit Worten ohne Verstand?
 @3 Gürte deine Lenden wie ein Mann; ich will dich fragen, lehre mich!
-
-## Preguntas del campo de la creación del mundo y la naturaleza sin vida, así como la vida animal, a las que Job no responde
 @4 Wo warst du, da ich die Erde gründete? Sage an, bist du so klug!
 @5 Weißt du, wer ihr das Maß gesetzt hat oder wer über sie eine Richtschnur gezogen hat?
 @6 Worauf stehen ihre Füße versenkt, oder wer hat ihren Eckstein gelegt,
@@ -1241,7 +1072,6 @@
 @30 Seine Jungen saufen Blut, und wo Erschlagene liegen, da ist er.
 
 # 40
-## La invitación de Dios a Job para entablar un litigio con él; Job renuncia a sus cargos contra Dios
 @1 Und der HErr antwortete Hiob und sprach:
 @2 Will mit dem Allmächtigen rechten der Haderer? Wer Gott tadelt, soll's der nicht verantworten?
 @3 Hiob aber antwortete dem HErrn und sprach:
@@ -1304,24 +1134,17 @@
 @26 Er verachtet alles, was hoch ist; er ist ein König über alles stolze Wild.
 
 # 42
-## La respuesta final de Job: su reconocimiento de la grandeza de Dios y su arrepentida retractación
 @1 Und Hiob antwortete dem HErrn und sprach:
 @2 Ich erkenne, dass du alles vermagst, und nichts, das du dir vorgenommen, ist dir zu schwer.
 @3 „Wer ist der, der den Ratschluss verhüllt mit Unverstand?“ Darum bekenne ich, dass ich habe unweise geredet, was mir zu hoch ist und ich nicht verstehe.
 @4 „So höre nun, lass mich reden; ich will dich fragen, lehre mich!“
 @5 Ich hatte von dir mit den Ohren gehört; aber nun hat mein Auge dich gesehen.
 @6 Darum spreche ich mich schuldig und tue Buße in Staub und Asche.
-
-## La condenación de Dios a los tres amigos y su perdón después del sacrificio hecho por intercesión de Job
 @7 Da nun der HErr diese Worte mit Hiob diese geredet hatte, sprach er zu Eliphas von Theman: Mein Zorn ist ergrimmt über dich und über deine zwei Freunde; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.
 @8 So nehmet nun sieben Farren und sieben Widder und gehet hin zu meinem Knecht Hiob und opfert Brandopfer für euch und lasset meinen Knecht Hiob für euch bitten. Denn ihn will ich ansehen, dass ich an euch nicht tue nach eurer Torheit; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.
-
 @9 Da gingen hin Eliphas von Theman, Bildad von Suah und Zophar von Naema und taten, wie der HErr ihnen gesagt hatte; und der HErr sah an Hiob.
-
-## Restauración y aumento del estado externo de felicidad de Job
 @10 Und der HErr wandte das Gefängnis Hiobs, da er bat für seine Freunde. Und der Herr gab Hiob zwiefältig so viel, als er gehabt hatte.
 @11 Und es kamen zu ihm alle seine Brüder und alle seine Schwestern und alle, die ihn vormals kannten, und aßen mit ihm in seinem Hause und kehrten sich zu ihm und trösteten ihn über alles Übel, das der HErr über ihn hatte kommen lassen. Und ein jeglicher gab ihm einen schönen Groschen und ein goldenes Stirnband.
-
 @12 Und der HErr segnete hernach Hiob mehr denn zuvor, dass er kriegte 14.000 Schafe und 6000 Kamele und 1000 Joch Rinder und 1000 Eselinnen.
 @13 Und er kriegte sieben Söhne und drei Töchter;
 @14 und hieß die erste Jemima, die andere Kezia und die dritte Keren-Happuch.

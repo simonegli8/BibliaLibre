@@ -1,15 +1,11 @@
 # 1
-## Indicación del propósito de las escrituras
 @1 Dies sind die Sprüche Salomos, des Königs in Israel, des Sohnes Davids,
 @2 zu lernen Weisheit und Zucht, Verstand,
 @3 Klugheit, Gerechtigkeit, Recht und Schlecht;
 @4 dass die Unverständigen klug und die Jünglinge vernünftig und vorsichtig werden.
 @5 Wer weise ist, der hört zu und bessert sich; und wer verständig ist, der lässt sich raten,
 @6 dass er verstehe die Sprüche und ihre Deutung, die Lehre der Weisen und ihre Beispiele.
-
 @7 Des HErrn Furcht ist Anfang der Erkenntnis. Die Ruchlosen verachten Weisheit und Zucht.
-
-## Invitación a la obediencia voluntaria; Advertencia contra la seducción, especialmente antes de participar en actos de violencia
 @8 Mein Kind, gehorche der Zucht deines Vaters und verlass nicht das Gebot deiner Mutter.
 @9 Denn solches ist ein schöner Schmuck deinem Haupt und eine Kette an deinem Hals.
 @10 Mein Kind, wenn dich die bösen Buben locken, so folge nicht.
@@ -22,8 +18,6 @@
 @17 Denn es ist vergeblich, das Netz auswerfen vor den Augen der Vögel.
 @18 Sie aber lauern auf ihr eigen Blut und stellen sich selbst nach dem Leben.
 @19 Also geht es allen, die nach Gewinn geizen, dass ihr Geiz ihnen das Leben nimmt.
-
-## El llamado de la sabiduría para obedecer voluntariamente sus mandamientos; Amenazas para los reacios
 @20 Die Weisheit klagt draußen und lässt sich hören auf den Gassen;
 @21 sie ruft in dem Eingang des Tores, vorn unter dem Volk; sie redet ihre Worte in der Stadt:
 @22 Wie lange wollt ihr Unverständigen unverständig sein und die Spötter Lust zu Spötterei haben und die Ruchlosen die Lehre hassen?
@@ -40,7 +34,6 @@
 @33 Wer aber mir gehorcht, wird sicher bleiben und genug haben und kein Unglück fürchten.
 
 # 2
-## Las bendiciones de buscar diligentemente la sabiduría
 @1 Mein Kind, wenn du willst meine Rede annehmen und meine Gebote bei dir behalten,
 @2 dass dein Ohr auf Weisheit achthat und du dein Herz mit Fleiß dazu neigest;
 @3 ja, wenn du mit Fleiß darnach rufest und darum betest;
@@ -65,22 +58,18 @@
 @22 aber die Gottlosen werden aus dem Lande ausgerottet, und die Verächter werden daraus vertilgt.
 
 # 3
-## Advertencias sobre el temor de Dios y el comportamiento moral con referencia a la recompensa esperada
 @1 Mein Kind, vergiss meines Gesetzes nicht, und dein Herz behalte meine Gebote.
 @2 Denn sie werden dir langes Leben und gute Jahre und Frieden bringen;
 @3 Gnade und Treue werden dich nicht lassen. Hänge sie an deinen Hals und schreibe sie auf die Tafel deines Herzens,
 @4 so wirst du Gunst und Klugheit finden, die Gott und Menschen gefällt.
 @5 Verlass dich auf den HErrn von ganzem Herzen und verlass dich nicht auf deinen Verstand;
 @6 sondern gedenke an ihn in allen deinen Wegen, so wird er dich recht führen.
-
 @7 Dünke dich nicht, weise zu sein, sondern fürchte den HErrn und weiche vom Bösen.
 @8 Das wird deinem Leibe gesund sein und deine Gebeine erquicken.
 @9 Ehre den HErrn von deinem Gut und von den Erstlingen all deines Einkommens,
 @10 so werden deine Scheunen voll werden und deine Kelter mit Most übergehen.
 @11 Mein Kind, verwirf die Zucht des HErrn nicht und sei nicht ungeduldig über seine Strafe.
 @12 Denn welchen der HErr liebt, den straft er, und hat doch Wohlgefallen an ihm wie ein Vater am Sohn.
-
-## Valor y bendición de la sabiduría
 @13 Wohl dem Menschen, der Weisheit findet, und dem Menschen, der Verstand bekommt!
 @14 Denn es ist besser, sie zu erwerben, als Silber; und ihr Ertrag ist besser als Gold.
 @15 Sie ist edler denn Perlen; und alles, was du wünschen magst, ist ihr nicht zu vergleichen.
@@ -95,8 +84,6 @@
 @24 Legst du dich, so wirst du dich nicht fürchten, sondern süß schlafen,
 @25 dass du dich nicht fürchten darfst vor plötzlichem Schrecken noch vor dem Sturm der Gottlosen, wenn er kommt.
 @26 Denn der HErr ist dein Trotz; der behütet deinen Fuß, dass er nicht gefangen werde.
-
-## Advertencias contra el desamor hacia el prójimo y contra la violencia
 @27 Weigere dich nicht, dem Dürftigen Gutes zu tun, so deine Hand von Gott hat, solches zu tun.
 @28 Sprich nicht zu deinem Nächsten: „Geh hin und komm wieder; morgen will ich dir geben“, wenn du es doch wohl hast.
 @29 Trachte nicht Böses wider deinen Nächsten, der auf Treue bei dir wohnt.
@@ -108,7 +95,6 @@
 @35 Die Weisen werden Ehre erben; aber wenn die Narren hochkommen, werden sie doch zu Schanden.
 
 # 4
-## Exhortación paternal a buscar sabiduría y obedecer sus enseñanzas
 @1 Höret, meine Kinder, die Zucht eures Vaters; merkt auf, dass ihr lernet und klug werdet!
 @2 Denn ich gebe euch eine gute Lehre; verlasset mein Gesetz nicht.
 @3 Denn ich war meines Vaters Sohn, ein zarter und ein einziger vor meiner Mutter.
@@ -118,7 +104,6 @@
 @7 Denn der Weisheit Anfang ist, wenn man sie gerne hört und die Klugheit lieber hat als alle Güter.
 @8 Achte sie hoch, so wird sie dich erhöhen, und wird dich zu Ehren bringen, wo du sie herzest.
 @9 Sie wird dein Haupt schön schmücken und wird dich zieren mit einer prächtigen Krone.
-
 @10 So höre, mein Kind, und nimm an meine Rede, so werden deiner Jahre viel werden.
 @11 Ich will dich den Weg der Weisheit führen; ich will dich auf rechter Bahn leiten,
 @12 dass, wenn du gehst, dein Gang dir nicht sauer werde, und wenn du läufst, dass du nicht anstoßest.
@@ -129,7 +114,6 @@
 @17 Denn sie nähren sich von gottlosem Brot und trinken vom Wein des Frevels.
 @18 Aber der Gerechten Pfad glänzt wie das Licht, das immer heller leuchtet bis auf den vollen Tag.
 @19 Der Gottlosen Weg aber ist wie Dunkel; sie wissen nicht, wo sie fallen werden.
-
 @20 Mein Sohn, merke auf meine Worte und neige dein Ohr zu meiner Rede.
 @21 Lass sie nicht von deinen Augen fahren, behalte sie in deinem Herzen.
 @22 Denn sie sind das Leben denen, die sie finden, und gesund ihrem ganzen Leibe.
@@ -140,14 +124,12 @@
 @27 Wanke weder zur Rechten noch zur Linken; wende deinen Fuß vom Bösen.
 
 # 5
-## Advertencia contra el coito con adúlteras; Alabanza de la vida conyugal
 @1 Mein Kind, merke auf meine Weisheit; neige dein Ohr zu meiner Lehre,
 @2 dass du bewahrest guten Rat und dein Mund wisse Unterschied zu halten.
 @3 Denn die Lippen der Hure sind süß wie Honigseim, und ihre Kehle ist glätter als Öl,
 @4 aber hernach bitter wie Wermut und scharf wie ein zweischneidiges Schwert.
 @5 Ihre Füße laufen zum Tod hinunter; ihre Gänge führen ins Grab.
 @6 Sie geht nicht stracks auf dem Wege des Lebens; unstet sind ihre Tritte, dass sie nicht weiß, wo sie geht.
-
 @7 So gehorchet mir nun, meine Kinder, und weichet nicht von der Rede meines Mundes.
 @8 Lass deine Wege ferne von ihr sein, und nahe nicht zur Tür ihres Hauses,
 @9 dass du nicht den Fremden gebest deine Ehre und deine Jahre dem Grausamen;
@@ -156,7 +138,6 @@
 @12 und sprechen: „Ach, wie habe ich die Zucht gehasst und wie hat mein Herz die Strafe verschmäht!
 @13 wie habe ich nicht gehorcht der Stimme meiner Lehrer und mein Ohr nicht geneigt zu denen, die mich lehrten!
 @14 Ich bin schier in alles Unglück gekommen vor allen Leuten und allem Volk.“
-
 @15 Trink Wasser aus deiner Grube und Flüsse aus deinem Brunnen.
 @16 Lass deine Brunnen herausfließen und die Wasserbäche auf die Gassen.
 @17 Habe du aber sie allein, und kein Fremder mit dir.
@@ -168,31 +149,25 @@
 @23 Er wird sterben, darum dass er sich nicht will ziehen lassen; und um seiner großen Torheit willen wird's ihm nicht wohl gehen.
 
 # 6
-## Advertencias sobre seguridad, indolencia, falsedad y todos los seres impiedosos
 @1 Mein Kind, wirst du Bürge für deinen Nächsten und hast deine Hand bei einem Fremden verhaftet,
 @2 so bist du verknüpft durch die Rede deines Mundes und gefangen mit den Reden deines Mundes.
 @3 So tue doch, mein Kind, also und errette dich – denn du bist deinem Nächsten in die Hände gekommen –: eile, dränge und treibe deinen Nächsten.
 @4 Lass deine Augen nicht schlafen, noch deine Augenlider schlummern.
 @5 Errette dich wie ein Reh von der Hand und wie eine Vogel aus der Hand des Voglers.
-
 @6 Gehe hin zur Ameise, du Fauler; siehe ihre Weise an und lerne!
 @7 Ob sie wohl keinen Fürsten noch Hauptmann noch Herrn hat,
 @8 bereitet sie doch ihr Brot im Sommer und sammelt ihre Speise in der Ernte.
 @9 Wie lange liegst du, Fauler? Wann willst du aufstehen von deinem Schlaf?
 @10 Ja, schlafe noch ein wenig, schlummere ein wenig, schlage die Hände ineinander ein wenig, dass du schlafest,
 @11 so wird dich die Armut übereilen wie ein Fußgänger und der Mangel wie ein gewappneter Mann.
-
 @12 Ein heilloser Mensch, ein schädlicher Mann geht mit verstelltem Munde,
 @13 winkt mit Augen, deutet mit Füßen, zeigt mit Fingern,
 @14 trachtet allezeit Böses und Verkehrtes in seinem Herzen und richtet Hader an.
 @15 Darum wird ihm plötzlich sein Verderben kommen, und er wird schnell zerbrochen werden, da keine Hilfe dasein wird.
-
 @16 Diese sechs Stücke hasst der HErr, und am siebenten hat er einen Gräuel:
 @17 hohe Augen, falsche Zunge, Hände, die unschuldig Blut vergießen,
 @18 Herz, das mit böser Tücke umgeht, Füße, die behende sind, Schaden zu tun,
 @19 falscher Zeuge, der frech Lügen redet, und wer Hader zwischen Brüdern anrichtet.
-
-## Otra advertencia contra el coito con adúlteras
 @20 Mein Kind, bewahre die Gebote deines Vaters und lass nicht fahren das Gesetz deiner Mutter.
 @21 Binde sie zusammen auf dein Herz allewege und hänge sie an deinen Hals,
 @22 wenn du gehst, dass sie dich geleiten; wenn du dich legst, dass sie dich bewahren; wenn du aufwachst, dass sie zu dir sprechen.
@@ -211,13 +186,11 @@
 @35 und sieht keine Person an, die da versöhne, und nimmt's nicht an, ob du viel schenken wolltest.
 
 # 7
-## Descripción de la seducción a la fornicación adúltera; Advertencia de sus nefastas consecuencias
 @1 Mein Kind, behalte meine Rede und verbirg meine Gebote bei dir.
 @2 Behalte meine Gebote, so wirst du leben, und mein Gesetz wie deinen Augapfel.
 @3 Binde sie an deine Finger; schreibe sie auf die Tafel deines Herzens.
 @4 Sprich zur Weisheit: „Du bist meine Schwester“, und nenne die Klugheit deine Freundin,
 @5 dass du behütet werdest vor dem fremden Weibe, vor einer anderen, die glatte Worte gibt.
-
 @6 Denn am Fenster meines Hauses guckte ich durchs Gitter
 @7 und sah unter den Unverständigen und ward gewahr unter den Kindern eines törichten Jünglings,
 @8 der ging auf der Gasse an einer Ecke und trat daher auf dem Wege bei ihrem Hause,
@@ -236,14 +209,12 @@
 @21 Sie überredete ihn mit vielen Worten und gewann ihn mit ihrem glatten Munde.
 @22 Er folgt ihr alsbald nach, wie ein Ochse zur Fleischbank geführt wird, und wie zur Fessel, womit man die Narren züchtigt,
 @23 bis sie ihm mit dem Pfeil die Leber spaltet; wie ein Vogel zum Strick eilt und weiß nicht, dass es ihm das Leben gilt.
-
 @24 So gehorchet mir nun, meine Kinder, und merket auf die Rede meines Mundes.
 @25 Lass dein Herz nicht weichen auf ihren Weg und lass dich nicht verführen auf ihrer Bahn.
 @26 Denn sie hat viele verwundet und gefällt, und sind allerlei Mächtige von ihr erwürgt.
 @27 Ihr Haus sind Wege zum Grab, da man hinunterfährt in des Todes Kammern.
 
 # 8
-## Invitación y auto recomendación de la sabiduría como docente
 @1 Ruft nicht die Weisheit, und die Klugheit lässt sich hören?
 @2 Öffentlich am Wege und an der Straße steht sie.
 @3 An den Toren bei der Stadt, da man zur Tür eingeht, schreit sie:
@@ -255,7 +226,6 @@
 @9 Sie sind alle gerade denen, die sie verstehen, und richtig denen, die es annehmen wollen.
 @10 Nehmet an meine Zucht lieber denn Silber, und die Lehre achtet höher denn köstliches Gold.
 @11 Denn Weisheit ist besser als Perlen; und alles, was man wünschen mag, kann ihr nicht gleichen.
-
 @12 Ich, Weisheit, wohne bei der Klugheit, und ich weiß guten Rat zu geben.
 @13 Die Furcht des HErrn hasst das Arge, die Hoffart, den Hochmut und bösen Weg; und ich bin feind dem verkehrten Mund.
 @14 Mein ist beides, Rat und Tat; ich habe Verstand und Macht.
@@ -266,8 +236,6 @@
 @19 Meine Frucht ist besser denn Gold und feines Gold und mein Ertrag besser denn auserlesenes Silber.
 @20 Ich wandle auf dem rechten Wege, auf der Straße des Rechts,
 @21 dass ich wohl versorge, die mich lieben, und ihre Schätze vollmache.
-
-## La sabiduría como primera y más excelente criatura de Dios
 @22 Der HErr hat mich gehabt im Anfang seiner Wege; ehe er etwas schuf, war ich da.
 @23 Ich bin eingesetzt von Ewigkeit, von Anfang, vor der Erde.
 @24 Da die Tiefen noch nicht waren, da war ich schon geboren, da die Brunnen noch nicht mit Wasser quollen.
@@ -278,8 +246,6 @@
 @29 da er dem Meer das Ziel setzte und den Wassern, dass sie nicht überschreiten seinen Befehl, da er den Grund der Erde legte:
 @30 da war ich der Werkmeister bei ihm und hatte meine Lust täglich und spielte vor ihm allezeit
 @31 und spielte auf seinem Erdboden, und meine Lust ist bei den Menschenkindern.
-
-## Recordatorio y advertencia
 @32 So gehorchet mir nun, meine Kinder. Wohl denen, die meine Wege halten!
 @33 Höret die Zucht und werdet weise und lasset sie nicht fahren.
 @34 Wohl dem Menschen, der mir gehorcht, dass er wache an meiner Tür täglich, dass er warte an den Pfosten meiner Tür.
@@ -287,7 +253,6 @@
 @36 Wer aber an mir sündigt, der verletzt seine Seele. Alle, die mich hassen, lieben den Tod.
 
 # 9
-## La Sra. Sabiduria y la Sra. Locura invitan a los invitados
 @1 Die Weisheit baute ihr Haus und hieb sieben Säulen,
 @2 schlachtete ihr Vieh und trug ihren Wein auf und bereitete ihren Tisch
 @3 und sandte ihre Dirnen aus, zu rufen oben auf den Höhen der Stadt:
@@ -300,8 +265,6 @@
 @10 Der Weisheit Anfang ist des HErrn Furcht, und den Heiligen erkennen ist Verstand.
 @11 Denn durch mich werden deiner Tage viel werden und werden dir der Jahre des Lebens mehr werden.
 @12 Bist du weise, so bist du dir weise; bist du ein Spötter, so wirst du es allein tragen.
-
-## La invitación a la locura
 @13 Es ist aber ein törichtes, wildes Weib, voll Schwätzens, und weiß nichts;
 @14 die sitzt in der Tür ihres Hauses auf dem Stuhl, oben in der Stadt,
 @15 zu laden alle, die vorübergehen und richtig auf ihrem Wege wandeln:
@@ -709,24 +672,17 @@
 @14 Der Huren Mund ist eine tiefe Grube; wem der HErr ungnädig ist, der fällt hinein.
 @15 Torheit steckt dem Knaben im Herzen; aber die Rute der Zucht wird sie fern von ihm treiben.
 @16 Wer dem Armen Unrecht tut, dass seines Guts viel werde, der wird auch einem Reichen geben, und Mangel haben.
-
-## Primera colección de dichos de los sabios; Introducción
 @17 Neige deine Ohren und höre die Worte der Weisen und nimm zu Herzen meine Lehre.
 @18 Denn es wird dir sanft tun, wo du sie wirst im Sinne behalten, und sie werden miteinander durch deinen Mund wohl geraten.
 @19 Dass deine Hoffnung sei auf den HErrn, erinnere ich dich an solches heute dir zugut.
 @20 Habe ich dir's nicht mannigfaltig vorgeschrieben mit Raten und Lehren,
 @21 dass ich dir zeigte einen gewissen Grund der Wahrheit, dass du recht antworten könntest denen, die dich senden?
-
-## Recordatorios individuales
 @22 Beraube den Armen nicht, ob er wohl arm ist, und unterdrücke den Elenden nicht im Tor.
 @23 Denn der HErr wird ihre Sache führen und wird ihre Untertreter untertreten.
-
 @24 Geselle dich nicht zum Zornigen und halte dich nicht zu einem grimmigen Mann;
 @25 du möchtest seinen Weg lernen und an deiner Seele Schaden nehmen.
-
 @26 Sei nicht bei denen, die ihre Hand verhaften und für Schuld Bürge werden;
 @27 denn wo du es nicht hast, zu bezahlen, so wird man dir dein Bett unter dir wegnehmen.
-
 @28 Verrücke nicht die vorigen Grenzen, die deine Väter gemacht haben.
 @29 Siehst du einen Mann behend in seinem Geschäft, der wird vor den Königen stehen und wird nicht stehen vor den Unedlen.
 
@@ -734,42 +690,31 @@
 @1 Wenn du sitzest und issest mit einem Herrn, so merke, wen du vor dir hast,
 @2 und setze ein Messer an deine Kehle, wenn du gierig bist.
 @3 Wünsche dir nichts von seinen feinen Speisen; denn es ist falsches Brot.
-
 @4 Bemühe dich nicht, reich zu werden, und lass ab von deinen Fündlein.
 @5 Lass deine Augen nicht fliegen nach dem, was du nicht haben kannst; denn dasselbe macht sich Flügel wie ein Adler und fliegt gen Himmel.
-
 @6 Iss nicht Brot bei einem Neidischen und wünsche dir von seinen feinen Speisen nichts.
 @7 Denn wie ein Gespenst ist er inwendig; er spricht: Iss und trink! und sein Herz ist doch nicht mit dir.
 @8 Deine Bissen die du gegessen hattest, musst du ausspeien, und musst deine freundlichen Worte verloren haben.
-
 @9 Rede nicht vor des Narren Ohren; denn er verachtet die Klugheit deiner Rede.
 @10 Verrücke nicht die vorigen Grenzen und gehe nicht auf der Waisen Acker.
 @11 Denn ihr Erlöser ist mächtig; der wird ihre Sache wider dich ausführen.
-
 @12 Gib dein Herz zur Zucht und deine Ohren zu vernünftiger Rede.
-
 @13 Lass nicht ab, den Knaben zu züchtigen; denn wenn du ihn mit der Rute haust, so wird man ihn nicht töten.
 @14 Du haust ihn mit der Rute; aber du errettest seine Seele vom Tod.
-
 @15 Mein Sohn, wenn dein Herz weise ist, so freut sich auch mein Herz;
 @16 und meine Nieren sind froh, wenn deine Lippen reden, was recht ist.
-
 @17 Dein Herz folge nicht den Sündern, sondern sei täglich in der Furcht des HErrn.
 @18 Denn es wird dir hernach gut sein, und dein Warten wird nicht trügen.
-
 @19 Höre, mein Sohn, und sei weise und richte dein Herz in den Weg.
 @20 Sei nicht unter den Säufern und Schlemmern;
 @21 denn die Säufer und Schlemmer verarmen, und ein Schläfer muss zerrissene Kleider tragen.
-
 @22 Gehorche deinem Vater, der dich gezeugt hat, und verachte deine Mutter nicht, wenn sie alt wird.
 @23 Kaufe Wahrheit, und verkaufe sie nicht, Weisheit, Zucht und Verstand.
 @24 Der Vater eines Gerechten freut sich; und wer einen Weisen gezeugt hat, ist fröhlich darüber.
 @25 Lass sich deinen Vater und deine Mutter freuen, und fröhlich sein, die dich geboren hat.
-
 @26 Gib mir, mein Sohn, dein Herz, und lass deinen Augen meine Wege wohl gefallen.
 @27 Denn eine Hure ist eine tiefe Grube, und eine Ehebrecherin ist ein enger Brunnen.
 @28 Auch lauert sie wie ein Räuber, und die Frechen unter den Menschen sammelt sie zu sich.
-
 @29 Wo ist Weh? wo ist Leid? wo ist Zank? wo ist Klagen? wo sind Wunden ohne Ursache? wo sind trübe Augen?
 @30 Wo man beim Wein liegt und kommt, auszusaufen, was eingeschenkt ist.
 @31 Sieh den Wein nicht an, dass er so rot ist und im Glase so schön steht. Er geht glatt ein;
@@ -781,51 +726,33 @@
 # 24
 @1 Folge nicht bösen Leuten und wünsche nicht, bei ihnen zu sein;
 @2 denn ihr Herz trachtet nach Schaden, und ihre Lippen raten zu Unglück.
-
 @3 Durch Weisheit wird ein Haus gebaut und durch Verstand erhalten.
 @4 Durch ordentliches Haushalten werden die Kammern voll aller köstlichen, lieblichen Reichtümer.
-
 @5 Ein weiser Mann ist stark, und ein vernünftiger Mann ist mächtig von Kräften.
 @6 Denn mit Rat muss man Krieg führen; und wo viele Ratgeber sind, da ist der Sieg.
-
 @7 Weisheit ist dem Narren zu hoch; er darf seinen Mund im Tor nicht auftun.
-
 @8 Wer sich vornimmt, Böses zu tun, den heißt man billig einen Erzbösewicht.
-
 @9 Des Narren Tücke ist Sünde, und der Spötter ist ein Gräuel vor den Leuten.
-
 @10 Der ist nicht stark, der in der Not nicht fest ist.
-
 @11 Errette die, die man töten will; und entzieh dich nicht von denen, die man würgen will.
 @12 Sprichst du: „Siehe, wir verstehen's nicht!“, meinst du nicht, der die Herzen wägt, merkt es, und der auf deine Seele achthat, kennt es und vergilt dem Menschen nach seinem Werk?
-
 @13 Iss, mein Sohn, Honig, denn er ist gut, und Honigseim ist süß in deinem Halse.
 @14 Also lerne die Weisheit für deine Seele. Wo du sie findest, so wird's hernach wohl gehen, und deine Hoffnung wird nicht umsonst sein.
-
 @15 Laure nicht als ein Gottloser auf das Haus des Gerechten; verstöre seine Ruhe nicht.
 @16 Denn ein Gerechter fällt siebenmal und steht wieder auf; aber die Gottlosen versinken im Unglück.
-
 @17 Freue dich des Falles deines Feindes nicht, und dein Herz sei nicht froh über seinem Unglück;
 @18 der HErr möchte es sehen, und es möchte ihm übel gefallen und er seinen Zorn von ihm wenden.
-
 @19 Erzürne dich nicht über die Bösen und eifere nicht über die Gottlosen.
 @20 Denn der Böse hat nichts zu hoffen, und die Leuchte der Gottlosen wird verlöschen.
-
 @21 Mein Kind, fürchte den HErrn und den König und menge dich nicht unter die Aufrührer.
 @22 Denn ihr Verderben wird plötzlich entstehen; und wer weiß, wann beider Unglück kommt?
-
-## Segunda colección de dichos de los sabios
 @23 Dies sind auch Worte von Weisen. Die Person ansehen im Gericht ist nicht gut.
 @24 Wer zum Gottlosen spricht: „Du bist fromm“, dem fluchen die Leute, und das Volk hasst ihn.
 @25 Welche aber strafen, die gefallen wohl, und kommt ein reicher Segen auf sie.
-
 @26 Eine richtige Antwort ist wie ein lieblicher Kuss.
-
 @27 Richte draußen dein Geschäft aus und bearbeite deinen Acker; darnach baue dein Haus.
-
 @28 Sei nicht Zeuge ohne Ursache wider deinen Nächsten und betrüge nicht mit deinem Munde.
 @29 Sprich nicht: „Wie man mir tut, so will ich wieder tun und einem jeglichen sein Werk vergelten.“
-
 @30 Ich ging am Acker des Faulen vorüber und am Weinberg des Narren;
 @31 und siehe, da waren eitel Nesseln darauf, und er stand voll Disteln, und die Mauer war eingefallen.
 @32 Da ich das sah, nahm ich's zu Herzen und schaute und lernte daran.
@@ -833,9 +760,7 @@
 @34 aber es wird dir deine Armut kommen wie ein Wanderer und dein Mangel wie ein gewappneter Mann.
 
 # 25
-## Tercera colección de Proverbios de Salomón
 @1 Dies sind auch Sprüche Salomos, die hinzugesetzt haben die Männer Hiskias, des Königs in Juda.
-
 @2 Es ist Gottes Ehre, eine Sache verbergen; aber der Könige Ehre ist's, eine Sache erforschen.
 @3 Der Himmel ist hoch und die Erde tief; aber der Könige Herz ist unerforschlich.
 @4 Man tue den Schaum vom Silber, so wird ein reines Gefäß daraus.
@@ -917,7 +842,6 @@
 @20 Hölle und Abgrund werden nimmer voll, und der Menschen Augen sind auch unersättlich.
 @21 Ein Mann wird durch den Mund des, der ihn lobt, bewährt wie Silber im Tiegel und das Gold im Ofen.
 @22 Wenn du den Narren im Mörser zerstießest mit dem Stämpfel wie Grütze, so ließe doch seine Narrheit nicht von ihm.
-
 @23 Auf deine Schafe habe Acht und nimm dich deiner Herden an.
 @24 Denn Gut währt nicht ewiglich, und die Krone währt nicht für und für.
 @25 Das Heu ist weggeführt, und wiederum ist Gras da und wird Kraut auf den Bergen gesammelt.
@@ -984,45 +908,34 @@
 @27 Ein ungerechter Mann ist dem Gerechten ein Gräuel; und wer rechtes Weges ist, der ist des Gottlosen Gräuel.
 
 # 30
-## Dichos de Agur
 @1 Dies sind die Worte Agurs, des Sohnes Jakes. Lehre und Rede des Mannes: „Ich habe mich gemüht, o Gott; ich habe mich gemüht, o Gott, und ablassen müssen.
 @2 Denn ich bin der allernärrischste, und Menschenverstand ist nicht bei mir;
 @3 ich habe Weisheit nicht gelernt, dass ich den Heiligen erkennete.
 @4 Wer fährt hinauf gen Himmel und herab? Wer fasst den Wind in seine Hände? Wer bindet die Wasser in ein Kleid? Wer hat alle Enden der Welt gestellt? Wie heißt er? Und wie heißt sein Sohn? Weißt du das?“
-
 @5 Alle Worte Gottes sind durchläutert; er ist ein Schild denen, die auf ihn trauen.
 @6 Tue nichts zu seinen Worten, dass er dich nicht strafe und werdest lügenhaft erfunden.
-
 @7 Zweierlei bitte ich von dir; das wollest du mir nicht weigern, ehe denn ich sterbe:
 @8 Abgötterei und Lüge lass ferne von mir sein; Armut und Reichtum gib mir nicht, lass mich aber mein beschieden Teil Speise dahinnehmen.
 @9 Ich möchte sonst, wo ich zu satt würde, verleugnen und sagen: Wer ist der HErr? Oder wo ich zu arm würde, möchte ich stehlen und mich an dem Namen meines Gottes vergreifen.
-
 @10 Verleumde den Knecht nicht bei seinem Herrn, dass er dir nicht fluche und du die Schuld tragen müssest.
-
 @11 Es ist eine Art, die ihrem Vater flucht und ihre Mutter nicht segnet;
 @12 eine Art, die sich rein dünkt, und ist doch von ihrem Kot nicht gewaschen;
 @13 eine Art, die ihre Augen hoch trägt und ihre Augenlider emporhält;
 @14 eine Art, die Schwerter für Zähne hat und Messer für Backenzähne und verzehrt die Elenden im Lande und die Armen unter den Leuten.
-
 @15 Blutegel hat zwei Töchter: Bring her, bring her! Drei Dinge sind nicht zu sättigen, und das vierte spricht nicht: Es ist genug:
 @16 die Hölle, der Frauen verschlossene Mutter, die Erde wird nicht Wassers satt, und das Feuer spricht nicht: Es ist genug.
-
 @17 Ein Auge, das den Vater verspottet, und verachtet der Mutter zu gehorchen, das müssen die Raben am Bach aushacken und die jungen Adler fressen.
-
 @18 Drei sind mir zu wunderbar, und das vierte verstehe ich nicht:
 @19 des Adlers Weg am Himmel, der Schlange Weg auf einem Felsen, des Schiffes Weg mitten im Meer und eines Mannes Weg an einer Jungfrau.
 @20 Also ist auch der Weg der Ehebrecherin; die verschlingt und wischt ihr Maul und spricht: Ich habe kein Böses getan.
-
 @21 Ein Land wird durch dreierlei unruhig, und das vierte kann es nicht ertragen:
 @22 ein Knecht, wenn er König wird; ein Narr, wenn er zu satt ist;
 @23 eine Verschmähte, wenn sie geehelicht wird; und eine Magd, wenn sie ihrer Frau Erbin wird.
-
 @24 Vier sind klein auf Erden und klüger denn die Weisen:
 @25 die Ameisen – ein schwaches Volk; dennoch schaffen sie im Sommer ihre Speise –,
 @26 Kaninchen – ein schwaches Volk; dennoch legt es sein Haus in den Felsen –,
 @27 Heuschrecken – haben keinen König; dennoch ziehen sie aus ganz in Haufen –,
 @28 die Spinne – wirkt mit ihren Händen und ist in der Könige Schlössern.
-
 @29 Dreierlei haben einen feinen Gang, und das vierte geht wohl:
 @30 der Löwe, mächtig unter den Tieren und kehrt nicht um vor jemand;
 @31 ein Windhund von guten Lenden, und ein Widder, und ein König, wider den sich niemand darf legen.
@@ -1030,9 +943,7 @@
 @33 Wenn man Milch stößt, so macht man Butter daraus; und wer die Nase hart schneuzt, zwingt Blut heraus; und wer den Zorn reizt, zwingt Hader heraus.
 
 # 31
-## Dichos para Lemuel
 @1 Dies sind die Worte des Königs Lamuel, die Lehre, die ihn seine Mutter lehrte.
-
 @2 Ach mein Auserwählter, ach du Sohn meines Leibes, ach mein gewünschter Sohn,
 @3 lass nicht den Weibern deine Kraft und gehe die Wege nicht, darin sich die Könige verderben!
 @4 O, nicht den Königen, Lamuel, nicht den Königen ziemt es, Wein zu trinken, noch den Fürsten starkes Getränk!
@@ -1041,8 +952,6 @@
 @7 dass sie trinken und ihres Elends vergessen und ihres Unglücks nicht mehr gedenken.
 @8 Tue deinen Mund auf für die Stummen und für die Sache aller, die verlassen sind.
 @9 Tue deinen Mund auf und richte recht und räche den Elenden und Armen.
-
-## Alabado sea el ama de casa capaz
 @10 Wem ein tugendsam Weib beschert ist, die ist viel edler denn die köstlichsten Perlen.
 @11 Ihres Mannes Herz darf sich auf sie verlassen, und Nahrung wird ihm nicht mangeln.
 @12 Sie tut ihm Liebes und kein Leides ihr Leben lang.

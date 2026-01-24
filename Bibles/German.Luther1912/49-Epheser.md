@@ -1,9 +1,6 @@
 # 1
-## Bendiciones
 @1 Paulus, ein Apostel Jesu Christi durch den Willen Gottes, den Heiligen zu Ephesus und Gläubigen an Christum Jesum:
 @2 Gnade sei mit euch und Friede von Gott, unserem Vater, und dem Herrn Jesus Christus!
-
-## Alabado sea la gracia de Dios por la salvación dada en Cristo
 @3 Gelobet sei Gott und der Vater unseres Herrn Jesu Christi, der uns gesegnet hat mit allerlei geistlichem Segen in himmlischen Gütern durch Christum;
 @4 wie er uns denn erwählt hat durch denselben, ehe der Welt Grund gelegt war, dass wir sollten sein heilig und unsträflich vor ihm in der Liebe;
 @5 und hat uns verordnet zur Kindschaft gegen sich selbst durch Jesum Christum nach dem Wohlgefallen seines Willens,
@@ -16,8 +13,6 @@
 @12 auf dass wir etwas seien zu Lob seiner Herrlichkeit, die wir zuvor auf Christum hofften;
 @13 durch welchen auch ihr gehört habt das Wort der Wahrheit, das Evangelium von eurer Seligkeit; durch welchen ihr auch, da ihr gläubig wurdet, versiegelt worden seid mit dem Heiligen Geist der Verheißung,
 @14 welcher ist das Pfand unseres Erbes zu unserer Erlösung, dass wir sein Eigentum würden zu Lob seiner Herrlichkeit.
-
-## Intercesión por la congregación para el pleno conocimiento de la grandeza de la salvación dada por la gracia de Dios en Cristo
 @15 Darum auch ich, nachdem ich gehört habe von dem Glauben bei euch an den Herrn Jesus und von eurer Liebe zu allen Heiligen,
 @16 höre ich nicht auf, zu danken für euch, und gedenke euer in meinem Gebet,
 @17 dass der Gott unseres Herrn Jesus Christi, der Vater der Herrlichkeit, gebe euch den Geist der Weisheit und der Offenbarung zu seiner selbst Erkenntnis
@@ -29,7 +24,6 @@
 @23 welche da ist sein Leib, nämlich die Fülle des, der alles in allen erfüllt.
 
 # 2
-## Anteriormente muerto en pecado, el creyente ahora se reconoce a sí mismo como obra de gracia de Dios y una nueva formación en Cristo Jesús resucitado
 @1 Und auch euch, da ihr tot waret durch Übertretungen und Sünden,
 @2 in welchen ihr vordem gewandelt habt nach dem Lauf dieser Welt und nach dem Fürsten, der in der Luft herrscht, nämlich nach dem Geist, der zu dieser Zeit sein Werk hat in den Kindern des Unglaubens,
 @3 unter welchen auch wir alle vordem unseren Wandel gehabt haben in den Lüsten unseres Fleisches und taten den Willen des Fleisches und der Vernunft und waren auch Kinder des Zorns von Natur, gleichwie auch die anderen;
@@ -40,8 +34,6 @@
 @8 Denn aus Gnade seid ihr selig geworden durch den Glauben, und das nicht aus euch: Gottes Gabe ist es,
 @9 nicht aus den Werken, auf dass sich nicht jemand rühme.
 @10 Denn wir sind sein Werk, geschaffen in Christo Jesu zu guten Werken, zu welchen Gott uns zuvor bereitet hat, dass wir darin wandeln sollen.
-
-## Como nueva formación de Dios en Cristo Jesús, los judíos creyentes son herederos de la promesa y de la casa de Dios, pero con ellos también los gentiles creyentes
 @11 Darum gedenket daran, dass ihr, die ihr vordem nach dem Fleisch Heiden gewesen seid und die Unbeschnittenen genannt wurdet von denen, die genannt sind die Beschneidung nach dem Fleisch, die mit der Hand geschieht,
 @12 dass ihr zu derselben Zeit waret ohne Christum, fremd und außer der Bürgerschaft Israels und fremd den Testamenten der Verheißung; daher ihr keine Hoffnung hattet und waret ohne Gott in der Welt.
 @13 Nun aber seid ihr, die ihr in Christo Jesu seid und vordem ferne gewesen, nahe geworden durch das Blut Christi.
@@ -56,7 +48,6 @@
 @22 auf welchem auch ihr mit erbaut werdet zu einer Behausung Gottes im Geist.
 
 # 3
-## El glorioso oficio del apóstol de proclamar el mensaje de salvación a los gentiles como el secreto revelado a él de su derecho a participar de las promesas de Israel
 @1 Derhalben ich, Paulus, der Gefangene Christi Jesu für euch Heiden,
 @2 wie ihr ja gehört habt von dem Amt der Gnade Gottes, die mir an euch gegeben ist,
 @3 dass mir ist kund geworden dieses Geheimnis durch Offenbarung, wie ich droben aufs kürzeste geschrieben habe,
@@ -70,21 +61,16 @@
 @11 nach dem Vorsatz von der Welt her, welche er bewiesen hat in Christo Jesu, unserem Herrn,
 @12 durch welchen wir haben Freudigkeit und Zugang in aller Zuversicht durch den Glauben an ihn.
 @13 Darum bitte ich, dass ihr nicht müde werdet um meiner Trübsal willen, die ich für euch leide, welche euch eine Ehre sind.
-
-## La intercesión del Apóstol para que los lectores los fortalezcan en la fe, el amor y el conocimiento
 @14 Derhalben beuge ich meine Knie vor dem Vater unseres Herrn Jesu Christi,
 @15 der der rechte Vater ist über alles, was da Kinder heißt im Himmel und auf Erden,
 @16 dass er euch Kraft gebe nach dem Reichtum seiner Herrlichkeit, stark zu werden durch seinen Geist an dem inwendigen Menschen,
 @17 dass Christus wohne durch den Glauben in euren Herzen und ihr durch die Liebe eingewurzelt und gegründet werdet,
 @18 auf dass ihr begreifen möget mit allen Heiligen, welches da sei die Breite und die Länge und die Tiefe und die Höhe;
 @19 auch erkennen die Liebe Christi, die doch alle Erkenntnis übertrifft, auf dass ihr erfüllt werdet mit allerlei Gottesfülle.
-
-## Dios sea la gloria
 @20 Dem aber, der überschwenglich tun kann über alles, das wir bitten oder verstehen, nach der Kraft, die da in uns wirkt,
 @21 dem sei Ehre in der Gemeinde, die in Christo Jesu ist, zu aller Zeit, von Ewigkeit zu Ewigkeit! Amen.
 
 # 4
-## Exhortación a la unidad y al crecimiento de la fe en la comunidad con toda la diversidad de dones
 @1 So ermahne nun euch ich Gefangener in dem Herrn, dass ihr wandelt, wie sich's gebührt eurer Berufung, mit der ihr berufen seid,
 @2 mit aller Demut und Sanftmut, mit Geduld, und vertraget einer den anderen in der Liebe
 @3 und seid fleißig, zu halten die Einigkeit im Geist durch das Band des Friedens:
@@ -95,15 +81,12 @@
 @8 Darum heißt es: „Er ist aufgefahren in die Höhe und hat das Gefängnis gefangengeführt und hat den Menschen Gaben gegeben.“
 @9 dass er aber aufgefahren ist, was ist's, denn dass er zuvor ist hinuntergefahren in die untersten Örter der Erde?
 @10 Der hinuntergefahren ist, das ist derselbe, der aufgefahren ist über alle Himmel, auf dass er alles erfüllte.
-
 @11 Und er hat etliche zu Aposteln gesetzt, etliche aber zu Propheten, etliche zu Evangelisten, etliche zu Hirten und Lehrern,
 @12 dass die Heiligen zugerichtet werden zum Werk des Dienstes, dadurch der Leib Christi erbaut werde,
 @13 bis dass wir alle hinankommen zu einerlei Glauben und Erkenntnis des Sohnes Gottes und ein vollkommener Mann werden, der da sei im Maße des vollkommenen Alters Christi,
 @14 auf dass wir nicht mehr Kinder seien und uns bewegen und wiegen lassen von allerlei Wind der Lehre durch Schalkheit der Menschen und Täuscherei, womit sie uns erschleichen, uns zu verführen.
 @15 Lasset uns aber rechtschaffen sein in der Liebe und wachsen in allen Stücken an dem, der das Haupt ist, Christus,
 @16 von welchem aus der ganze Leib zusammengefügt ist und ein Glied am anderen hanget durch alle Gelenke, dadurch eins dem anderen Handreichung tut nach dem Werk eines jeglichen Gliedes in seinem Maße und macht, dass der Leib wächst zu seiner selbst Besserung, und das alles in Liebe.
-
-## De gente nueva y vieja en general; Diferencia entre el estilo de vida pagano y cristiano
 @17 So sage ich nun und bezeuge in dem Herrn, dass ihr nicht mehr wandelt, wie die anderen Heiden wandeln in der Eitelkeit ihres Sinnes,
 @18 deren Verstand verfinstert ist, und die entfremdet sind von dem Leben, das aus Gott ist, durch die Unwissenheit, die in ihnen ist, durch die Blindheit ihres Herzens;
 @19 welche ruchlos sind und ergeben sich der Unzucht und treiben allerlei Unreinigkeit samt dem Geiz.
@@ -112,8 +95,6 @@
 @22 So legt nun von euch ab nach dem vorigen Wandel den alten Menschen, der durch Lüste im Irrtum sich verderbt.
 @23 Erneuert euch aber im Geist eures Gemüts
 @24 und ziehet den neuen Menschen an, der nach Gott geschaffen ist in rechtschaffener Gerechtigkeit und Heiligkeit.
-
-## Advertencias sobre el comportamiento en el tráfico entre ellos
 @25 Darum leget die Lüge ab und redet die Wahrheit, ein jeglicher mit seinem Nächsten, sintemal wir untereinander Glieder sind.
 @26 Zürnet, und sündiget nicht; lasset die Sonne nicht über eurem Zorn untergehen.
 @27 Gebet auch nicht Raum dem Lästerer.
@@ -126,14 +107,9 @@
 # 5
 @1 So seid nun Gottes Nachfolger als die lieben Kinder
 @2 und wandelt in der Liebe, gleichwie Christus uns hat geliebt und sich selbst dargegeben für uns als Gabe und Opfer, Gott zu einem süßen Geruch.
-
-## Advertencia de fornicación, codicia y lenguaje inapropiado
 @3 Hurerei aber und alle Unreinigkeit oder Geiz lasset nicht von euch gesagt werden, wie den Heiligen zusteht,
 @4 auch nicht schandbare Worte und Narrenteidinge oder Scherze, welche euch nicht ziemen, sondern vielmehr Danksagung.
-
 @5 Denn das sollt ihr wissen, dass kein Hurer oder Unreiner oder Geiziger, welcher ist ein Götzendiener, Erbe hat in dem Reich Christi und Gottes.
-
-## Camina con cuidado como hijos de luz
 @6 Lasset euch niemand verführen mit vergeblichen Worten; denn um dieser Dinge willen kommt der Zorn Gottes über die Kinder des Unglaubens.
 @7 Darum seid nicht ihr Mitgenossen.
 @8 Denn ihr waret vordem Finsternis; nun aber seid ihr ein Licht in dem Herrn.
@@ -143,21 +119,16 @@
 @12 Denn was heimlich von ihnen geschieht, das ist auch zu sagen schändlich.
 @13 Das alles aber wird offenbar, wenn's vom Licht gestraft wird; denn alles, was offenbar ist, das ist Licht.
 @14 Darum heißt es: „Wache auf, der du schläfst, und stehe auf von den Toten, so wird dich Christus erleuchten.“
-
 @15 So sehet nun zu, wie ihr vorsichtig wandelt, nicht als die Unweisen, sondern als die Weisen,
 @16 und kaufet die Zeit aus; denn es ist böse Zeit.
 @17 Darum werdet nicht unverständig, sondern verständig, was da sei des Herrn Wille.
 @18 Und saufet euch nicht voll Wein, daraus ein unordentlich Wesen folgt, sondern werdet voll Geistes:
 @19 redet untereinander in Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem Herrn in euren Herzen
 @20 und saget Dank allezeit für alles Gott und dem Vater in dem Namen unseres Herrn Jesu Christi,
-
-## Obligaciones de los cónyuges
 @21 und seid untereinander untertan in der Furcht Gottes.
-
 @22 Die Weiber seien untertan ihren Männern als dem Herrn.
 @23 Denn der Mann ist des Weibes Haupt, gleichwie auch Christus das Haupt ist der Gemeinde, und er ist seines Leibes Heiland.
 @24 Aber wie nun die Gemeinde ist Christo untertan, also auch die Weiber ihren Männern in allen Dingen.
-
 @25 Ihr Männer, liebet eure Weiber, gleichwie Christus auch geliebt hat die Gemeinde und hat sich selbst für sie gegeben,
 @26 auf dass er sie heiligte, und hat sie gereinigt durch das Wasserbad im Wort,
 @27 auf dass er sie sich selbst darstellte als eine Gemeinde, die herrlich sei, die nicht habe einen Flecken oder Runzel oder des etwas, sondern dass sie heilig sei und unsträflich.
@@ -169,22 +140,15 @@
 @33 Doch auch ihr, ja ein jeglicher habe lieb sein Weib als sich selbst; das Weib aber fürchte den Mann.
 
 # 6
-## Deberes de los niños y los padres
 @1 Ihr Kinder, seid gehorsam euren Eltern in dem Herrn, denn das ist billig.
 @2 „Ehre Vater und Mutter,“ das ist das erste Gebot, das Verheißung hat:
 @3 „auf dass dir's wohl gehe und du lange lebest auf Erden.“
-
 @4 Und ihr Väter, reizet eure Kinder nicht zum Zorn, sondern zieht sie auf in der Zucht und Vermahnung zum Herrn.
-
-## Deberes de los sirvientes, esclavos y los amos
 @5 Ihr Knechte, seid gehorsam euren leiblichen Herren mit Furcht und Zittern, in Einfalt eures Herzens, als Christo;
 @6 nicht mit Dienst allein vor Augen, als den Menschen zu gefallen, sondern als die Knechte Christi, dass ihr solchen Willen Gottes tut von Herzen, mit gutem Willen.
 @7 Lasset euch dünken, dass ihr dem Herrn dienet und nicht den Menschen,
 @8 und wisset: Was ein jeglicher Gutes tun wird, das wird er von dem Herrn empfangen, er sei ein Knecht oder ein Freier.
-
 @9 Und ihr Herren, tut auch dasselbe gegen sie und lasset das Drohen; wisset, dass auch euer Herr im Himmel ist und ist bei ihm kein Ansehen der Person.
-
-## Advertencia final a la lucha cristiana de derecha; la armadura espiritual del cristiano; petición personal del apóstol
 @10 Zuletzt, meine Brüder, seid stark in dem Herrn und in der Macht seiner Stärke.
 @11 Ziehet an den Harnisch Gottes, dass ihr bestehen könnet gegen die listigen Anläufe des Teufels.
 @12 Denn wir haben nicht mit Fleisch und Blut zu kämpfen, sondern mit Fürsten und Gewaltigen, nämlich mit den Herren der Welt, die in der Finsternis dieser Welt herrschen, mit den bösen Geistern unter dem Himmel.
@@ -196,10 +160,7 @@
 @18 Und betet stets in allem Anliegen mit Bitten und Flehen im Geist, und wachet dazu mit allem Anhalten und Flehen für alle Heiligen
 @19 und für mich, auf dass mir gegeben werde das Wort mit freudigem Auftun meines Mundes, dass ich möge kundmachen das Geheimnis des Evangeliums,
 @20 dessen Bote ich bin in der Kette, auf dass ich darin freudig handeln möge und reden, wie sich's gebührt.
-
-## Anuncio de la misión de Tíquico; Bendición
 @21 Auf dass aber ihr auch wisset, wie es um mich steht und was ich schaffe, wird's euch alles kundtun Tychikus, mein lieber Bruder und getreuer Diener in dem Herrn,
 @22 welchen ich gesandt habe zu euch um deswillen, dass ihr erfahret, wie es um mich steht, und dass er eure Herzen tröste.
-
 @23 Friede sei den Brüdern und Liebe mit Glauben von Gott, dem Vater, und dem Herrn Jesus Christus!
 @24 Gnade sei mit euch allen, die da liebhaben unseren Herrn Jesus Christus unverrückt! Amen.
