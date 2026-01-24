@@ -40,7 +40,7 @@
 @17 Wer Ohren hat, der höre, was der Geist den Gemeinden sagt: Wer überwindet, dem will ich zu essen geben von dem verborgenen Manna und will ihm geben einen weißen Stein und auf den Stein einen neuen Namen geschrieben, welchen niemand kennt, denn der ihn empfängt.
 @18 Und dem Engel der Gemeinde zu Thyatira schreibe: Das sagt der Sohn Gottes, der Augen hat wie Feuerflammen, und seine Füße sind gleichwie Messing:
 @19 Ich weiß deine Werke und deine Liebe und deinen Dienst und deinen Glauben und deine Geduld und dass du je länger, je mehr tust.
-@20 Aber ich habe wider dich, dass du lässest das Weib Isebel, die da spricht, sie sei eine Prophetin, lehren und verführen meine Knechte, Hurerei zu treiben und Götzenopfer zu essen.
+@20 Aber ich habe wider dich, dass du lässest die Frau Isebel, die da spricht, sie sei eine Prophetin, lehren und verführen meine Knechte, Hurerei zu treiben und Götzenopfer zu essen.
 @21 Und ich habe ihr Zeit gegeben, dass sie sollte Buße tun für ihre Hurerei; und sie tut nicht Buße.
 @22 Siehe, ich werfe sie in ein Bett, und die mit ihr die Ehe gebrochen haben, in große Trübsal, wenn sie nicht Buße tun für ihre Werke,
 @23 und ihre Kinder will ich zu Tode schlagen. Und alle Gemeinden sollen erkennen, dass ich es bin, der die Nieren und Herzen erforscht; und ich werde geben einem jeglichen unter euch nach euren Werken.
@@ -165,7 +165,7 @@
 @5 Und es ward ihnen gegeben, dass sie sie nicht töteten, sondern sie quälten fünf Monate lang; und ihre Qual war wie eine Qual vom Skorpion, wenn er einen Menschen schlägt.
 @6 Und in den Tagen werden die Menschen den Tod suchen, und nicht finden; werden begehren zu sterben, und der Tod wird vor ihnen fliehen.
 @7 Und die Heuschrecken sind gleich den Rossen, die zum Kriege bereitet sind; und auf ihrem Haupt wie Kronen, dem Golde gleich, und ihr Antlitz gleich der Menschen Antlitz;
-@8 und hatten Haare wie Weiberhaare, und ihre Zähne waren wie die der Löwen;
+@8 und hatten Haare wie Frauenhaare, und ihre Zähne waren wie die der Löwen;
 @9 und hatten Panzer wie eiserne Panzer, und das Rasseln ihrer Flügel wie das Rasseln an den Wagen vieler Rosse, die in den Krieg laufen;
 @10 und hatten Schwänze gleich den Skorpionen, und es waren Stacheln an ihren Schwänzen; und ihre Macht war, zu beschädigen die Menschen fünf Monate lang.
 @11 Und hatten über sich einen König, den Engel des Abgrunds, des Name heißt auf hebräisch Abaddon, und auf griechisch hat er den Namen Apollyon.
@@ -215,23 +215,23 @@
 @19 Und der Tempel Gottes ward aufgetan im Himmel, und die Lade seines Bundes ward in seinem Tempel gesehen; und es geschahen Blitze und Stimmen und Donner und Erdbeben und ein großer Hagel.
 
 # 12
-@1 Und es erschien ein großes Zeichen im Himmel: ein Weib, mit der Sonne bekleidet, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen.
+@1 Und es erschien ein großes Zeichen im Himmel: Eine Frau, mit der Sonne bekleidet, und der Mond unter ihren Füßen und auf ihrem Haupt eine Krone von zwölf Sternen.
 @2 Und sie war schwanger und schrie in Kindesnöten und hatte große Qual zur Geburt.
 @3 Und es erschien ein anderes Zeichen im Himmel, und siehe, ein großer, roter Drache, der hatte sieben Häupter und zehn Hörner und auf seinen Häuptern sieben Kronen;
-@4 und sein Schwanz zog den dritten Teil der Sterne des Himmels hinweg und warf sie auf die Erde. Und der Drache trat vor das Weib, die gebären sollte, auf dass, wenn sie geboren hätte, er ihr Kind fräße.
+@4 und sein Schwanz zog den dritten Teil der Sterne des Himmels hinweg und warf sie auf die Erde. Und der Drache trat vor die Frau, die gebären sollte, auf dass, wenn sie geboren hätte, er ihr Kind fräße.
 @5 Und sie gebar einen Sohn, ein Knäblein, der alle Heiden sollte weiden mit eisernem Stabe. Und ihr Kind ward entrückt zu Gott und seinem Stuhl.
-@6 Und das Weib entfloh in die Wüste, wo sie einen Ort hat, bereitet von Gott, dass sie daselbst ernährt würde tausendzweihundertsechzig Tage.
+@6 Und die Frau entfloh in die Wüste, wo sie einen Ort hat, bereitet von Gott, dass sie daselbst ernährt würde tausendzweihundertsechzig Tage.
 @7 Und es erhob sich ein Streit im Himmel: Michael und seine Engel stritten mit dem Drachen; und der Drache stritt und seine Engel,
 @8 und siegten nicht, auch ward ihre Stätte nicht mehr gefunden im Himmel.
 @9 Und es ward ausgeworfen der große Drache, die alte Schlange, die da heißt der Teufel und Satanas, der die ganze Welt verführt, und ward geworfen auf die Erde, und seine Engel wurden auch dahin geworfen.
 @10 Und ich hörte eine große Stimme, die sprach im Himmel: Nun ist das Heil und die Kraft und das Reich unseres Gottes geworden und die Macht seines Christus, weil der Verkläger unserer Brüder verworfen ist, der sie verklagte Tag und Nacht vor Gott.
 @11 Und sie haben ihn überwunden durch des Lammes Blut und durch das Wort ihres Zeugnisses und haben ihr Leben nicht geliebt bis an den Tod.
 @12 Darum freuet euch, ihr Himmel und die darin wohnen! Weh denen, die auf Erden wohnen und auf dem Meer! denn der Teufel kommt zu euch hinab und hat einen großen Zorn und weiß, dass er wenig Zeit hat.
-@13 Und da der Drache sah, dass er verworfen war auf die Erde, verfolgte er das Weib, die das Knäblein geboren hatte.
-@14 Und es wurden dem Weibe zwei Flügel gegeben wie eines großen Adlers, dass sie in die Wüste flöge an ihren Ort, da sie ernährt würde eine Zeit und zwei Zeiten und eine halbe Zeit vor dem Angesicht der Schlange.
-@15 Und die Schlange schoss nach dem Weibe aus ihrem Munde ein Wasser wie einen Strom, dass er sie ersäufte.
-@16 Aber die Erde half dem Weibe und tat ihren Mund auf und verschlang den Strom, den der Drache aus seinem Munde schoss.
-@17 Und der Drache ward zornig über das Weib und ging hin zu streiten mit den Übrigen von ihrem Samen, die da Gottes Gebote halten und haben das Zeugnis Jesu Christi.
+@13 Und da der Drache sah, dass er verworfen war auf die Erde, verfolgte er die Frau, die das Knäblein geboren hatte.
+@14 Und es wurden der Frau zwei Flügel gegeben wie eines großen Adlers, dass sie in die Wüste flöge an ihren Ort, da sie ernährt würde eine Zeit und zwei Zeiten und eine halbe Zeit vor dem Angesicht der Schlange.
+@15 Und die Schlange schoss nach der Frau aus ihrem Munde ein Wasser wie einen Strom, dass er sie ersäufte.
+@16 Aber die Erde half der Frau und tat ihren Mund auf und verschlang den Strom, den der Drache aus seinem Munde schoss.
+@17 Und der Drache ward zornig über die Frau und ging hin zu streiten mit den Übrigen von ihrem Samen, die da Gottes Gebote halten und haben das Zeugnis Jesu Christi.
 @18 Und ich trat an den Sand des Meeres
 
 # 13
@@ -258,7 +258,7 @@
 @1 Und ich sah das Lamm stehen auf dem Berg Zion und mit ihm hundertvierundvierzigtausend, die hatten seinen Namen und den Namen seines Vaters geschrieben an ihrer Stirn.
 @2 Und ich hörte eine Stimme vom Himmel wie eines großen Wassers und wie eine Stimme eines großen Donners; und die Stimme, die ich hörte, war wie von Harfenspielern, die auf ihren Harfen spielen.
 @3 Und sie sangen wie ein neues Lied vor dem Stuhl und vor den vier Tieren und den Ältesten; und niemand konnte das Lied lernen denn die hundertvierundvierzigtausend, die erkauft sind von der Erde.
-@4 Diese sind's, die mit Weibern nicht befleckt sind – denn sie sind Jungfrauen – und folgen dem Lamme nach, wo es hingeht. Diese sind erkauft aus den Menschen zu Erstlingen Gott und dem Lamm;
+@4 Diese sind's, die mit Frauen nicht befleckt sind – denn sie sind Jungfrauen – und folgen dem Lamme nach, wo es hingeht. Diese sind erkauft aus den Menschen zu Erstlingen Gott und dem Lamm;
 @5 und in ihrem Munde ist kein Falsch gefunden; denn sie sind unsträflich vor dem Stuhl Gottes.
 @6 Und ich sah einen Engel fliegen mitten durch den Himmel, der hatte ein ewiges Evangelium zu verkündigen denen, die auf Erden wohnen, und allen Heiden und Geschlechtern und Sprachen und Völkern,
 @7 und sprach mit großer Stimme: Fürchtet Gott und gebet ihm die Ehre; denn die Zeit seines Gerichts ist gekommen! Und betet an den, der gemacht hat Himmel und Erde und Meer und die Wasserbrunnen.
@@ -312,13 +312,13 @@
 # 17
 @1 Und es kam einer von den sieben Engeln, die die sieben Schalen hatten, redete mit mir und sprach zu mir: Komm, ich will dir zeigen das Urteil der großen Hure, die da an vielen Wassern sitzt;
 @2 mit welcher gehurt haben die Könige auf Erden; und die da wohnen auf Erden, sind trunken geworden von dem Wein ihrer Hurerei.
-@3 Und er brachte mich im Geist in die Wüste. Und ich sah ein Weib sitzen auf einem scharlachfarbenen Tier, das war voll Namen der Lästerung und hatte sieben Häupter und zehn Hörner.
-@4 Und das Weib war bekleidet mit Purpur und Scharlach und übergoldet mit Gold und edlen Steinen und Perlen und hatte einen goldenen Becher in der Hand, voll Gräuel und Unsauberkeit ihrer Hurerei,
+@3 Und er brachte mich im Geist in die Wüste. Und ich sah eine Frau sitzen auf einem scharlachfarbenen Tier, das war voll Namen der Lästerung und hatte sieben Häupter und zehn Hörner.
+@4 Und die Frau war bekleidet mit Purpur und Scharlach und übergoldet mit Gold und edlen Steinen und Perlen und hatte einen goldenen Becher in der Hand, voll Gräuel und Unsauberkeit ihrer Hurerei,
 @5 und an ihrer Stirn geschrieben einen Namen, ein Geheimnis: Die große Babylon, die Mutter der Hurerei und aller Gräuel auf Erden.
-@6 Und ich sah das Weib trunken von dem Blut der Heiligen und von dem Blute der Zeugen Jesu. Und ich verwunderte mich sehr, da ich sie sah.
-@7 Und der Engel spricht zu mir: Warum verwunderst du dich? Ich will dir sagen das Geheimnis von dem Weibe und von dem Tier, das sie trägt und hat sieben Häupter und zehn Hörner.
+@6 Und ich sah die Frau trunken von dem Blut der Heiligen und von dem Blute der Zeugen Jesu. Und ich verwunderte mich sehr, da ich sie sah.
+@7 Und der Engel spricht zu mir: Warum verwunderst du dich? Ich will dir sagen das Geheimnis von der Frau und von dem Tier, das sie trägt und hat sieben Häupter und zehn Hörner.
 @8 Das Tier, das du gesehen hast, ist gewesen und ist nicht und wird wiederkommen aus dem Abgrund und wird fahren in die Verdammnis, und es werden sich verwundern, die auf Erden wohnen, deren Namen nicht geschrieben stehen in dem Buch des Lebens von Anfang der Welt, wenn sie sehen das Tier, dass es gewesen ist und nicht ist und dasein wird.
-@9 Hier ist der Sinn, zu dem Weisheit gehört! Die sieben Häupter sind sieben Berge, auf welchen das Weib sitzt, und sind sieben Könige.
+@9 Hier ist der Sinn, zu dem Weisheit gehört! Die sieben Häupter sind sieben Berge, auf welchen die Frau sitzt, und sind sieben Könige.
 @10 Fünf sind gefallen, und einer ist, und der andere ist noch nicht gekommen; und wenn er kommt, muss er eine kleine Zeit bleiben.
 @11 Und das Tier, das gewesen ist und nicht ist, das ist der achte und ist von den sieben und fährt in die Verdammnis.
 @12 Und die zehn Hörner, die du gesehen hast, das sind zehn Könige, die das Reich noch nicht empfangen haben; aber wie Könige werden sie eine Zeit Macht empfangen mit dem Tier.
@@ -327,7 +327,7 @@
 @15 Und er sprach zu mir: Die Wasser, die du gesehen hast, da die Hure sitzt, sind Völker und Scharen und Heiden und Sprachen.
 @16 Und die zehn Hörner, die du gesehen hast, und das Tier, die werden die Hure hassen und werden sie einsam machen und bloß und werden ihr Fleisch essen und werden sie mit Feuer verbrennen.
 @17 Denn Gott hat's ihnen gegeben in ihr Herz, zu tun seine Meinung und zu tun einerlei Meinung und zu geben ihr Reich dem Tier, bis dass vollendet werden die Worte Gottes.
-@18 Und das Weib, das du gesehen hast, ist die große Stadt, die das Reich hat über die Könige auf Erden.
+@18 Und die Frau, das du gesehen hast, ist die große Stadt, die das Reich hat über die Könige auf Erden.
 
 # 18
 @1 Und darnach sah ich einen anderen Engel niederfahren vom Himmel, der hatte eine große Macht, und die Erde ward erleuchtet von seiner Klarheit.
@@ -362,7 +362,7 @@
 @4 Und die vierundzwanzig Ältesten und die vier Tiere fielen nieder und beteten an Gott, der auf dem Stuhl saß, und sprachen: Amen, halleluja!
 @5 Und eine Stimme ging aus von dem Stuhl: Lobet unseren Gott, alle seine Knechte und die ihn fürchten, beide, klein und groß!
 @6 Und ich hörte wie eine Stimme einer großen Schar und wie eine Stimme großer Wasser und wie eine Stimme starker Donner, die sprachen: Halleluja! denn der allmächtige Gott hat das Reich eingenommen.
-@7 Lasset uns freuen und fröhlich sein und ihm die Ehre geben! denn die Hochzeit des Lammes ist gekommen, und sein Weib hat sich bereitet.
+@7 Lasset uns freuen und fröhlich sein und ihm die Ehre geben! denn die Hochzeit des Lammes ist gekommen, und seine Frau hat sich bereitet.
 @8 Und es ward ihr gegeben, sich anzutun mit reiner und schöner Leinwand. (Die köstliche Leinwand aber ist die Gerechtigkeit der Heiligen.)
 @9 Und er sprach zu mir: Schreibe: Selig sind, die zum Abendmahl des Lammes berufen sind. Und er sprach zu mir: Dies sind wahrhaftige Worte Gottes.
 @10 Und ich fiel vor ihn zu seinen Füßen, ihn anzubeten. Und er sprach zu mir: Siehe zu, tu es nicht! Ich bin dein Mitknecht und deiner Brüder, die das Zeugnis Jesu haben. Bete Gott an! (Das Zeugnis aber Jesu ist der Geist der Weissagung.)
@@ -404,7 +404,7 @@
 @6 Und er sprach zu mir: Es ist geschehen. Ich bin das A und das O, der Anfang und das Ende. Ich will dem Durstigen geben von dem Brunnen des lebendigen Wassers umsonst.
 @7 Wer überwindet, der wird es alles ererben, und ich werde sein Gott sein, und er wird mein Sohn sein.
 @8 Der Verzagten aber und Ungläubigen und Gräulichen und Totschläger und Hurer und Zauberer und Abgöttischen und aller Lügner, deren Teil wird sein in dem Pfuhl, der mit Feuer und Schwefel brennt; das ist der andere Tod.
-@9 Und es kam zu mir einer von den sieben Engeln, welche die sieben Schalen voll der letzten sieben Plagen hatten, und redete mit mir und sprach: Komm, ich will dir das Weib zeigen, die Braut des Lammes.
+@9 Und es kam zu mir einer von den sieben Engeln, welche die sieben Schalen voll der letzten sieben Plagen hatten, und redete mit mir und sprach: Komm, ich will dir die Frau zeigen, die Braut des Lammes.
 @10 Und er führte mich hin im Geist auf einen großen und hohen Berg und zeigte mir die große Stadt, das heilige Jerusalem, herniederfahren aus dem Himmel von Gott,
 @11 die hatte die Herrlichkeit Gottes. Und ihr Licht war gleich dem alleredelsten Stein, einem hellen Jaspis.
 @12 Und sie hatte eine große und hohe Mauer und hatte zwölf Tore und auf den Toren zwölf Engel, und Namen darauf geschrieben, nämlich der zwölf Geschlechter der Kinder Israel.

@@ -180,15 +180,15 @@
 @22 Und siehe, da kam der Obersten einer von der Schule, mit Namen Jairus; und da er ihn sah, fiel er ihm zu Füßen
 @23 und bat ihn sehr und sprach: Meine Tochter ist in den letzten Zügen; du wollest kommen und deine Hand auf sie legen, dass sie gesund werde und lebe.
 @24 Und er ging hin mit ihm; und es folgte ihm viel Volks nach, und sie drängten ihn.
-@25 Und da war ein Weib, das hatte den Blutgang zwölf Jahre gehabt
+@25 Und da war eine Frau, die hatte den Blutfluss zwölf Jahre gehabt
 @26 und viel erlitten von vielen Ärzten und hatte all ihr Gut darob verzehrt, und half ihr nichts, sondern vielmehr ward es ärger mit ihr.
-@27 Da die von Jesu hörte, kam sie im Volk von hintenzu und rührte sein Kleid an.
-@28 Denn sie sprach: Wenn ich nur sein Kleid möchte anrühren, so würde ich gesund.
-@29 Und alsbald vertrocknete der Brunnen ihres Bluts; und sie fühlte es am Leibe, dass sie von ihrer Plage war gesund geworden.
+@27 Da sie von Jesu hörte, kam sie im Volk von hinten heran und rührte sein Kleid an.
+@28 Denn sie sprach: Wenn ich nur sein Kleid anrühren könnte, so würde ich gesund.
+@29 Und alsbald vertrocknete die Quelle ihres Blutes; und sie fühlte es am Leibe, dass sie von ihrer Plage gesund geworden war.
 @30 Und Jesus fühlte alsbald an sich selbst die Kraft, die von ihm ausgegangen war, und wandte sich um zum Volk und sprach: Wer hat meine Kleider angerührt?
 @31 Und die Jünger sprachen zu ihm: Du siehst, dass dich das Volk drängt, und sprichst: Wer hat mich angerührt?
 @32 Und er sah sich um nach der, die das getan hatte.
-@33 Das Weib aber fürchtete sich und zitterte (denn sie wusste, was an ihr geschehen war), kam und fiel vor ihm nieder und sagte ihm die ganze Wahrheit.
+@33 Die Frau aber fürchtete sich und zitterte (denn sie wusste, was an ihr geschehen war), kam und fiel vor ihm nieder und sagte ihm die ganze Wahrheit.
 @34 Er sprach aber zu ihr: Meine Tochter, dein Glaube hat dich gesund gemacht; gehe hin mit Frieden und sei gesund von deiner Plage!
 @35 Da er noch also redete, kamen etliche vom Gesinde des Obersten der Schule und sprachen: Deine Tochter ist gestorben; was bemühest du weiter den Meister?
 @36 Jesus aber hörte alsbald die Rede, die da gesagt ward, und sprach zu dem Obersten der Schule: Fürchte dich nicht, glaube nur!
@@ -217,8 +217,8 @@
 @14 Und es kam vor den König Herodes (denn sein Name war nun bekannt) und er sprach: Johannes der Täufer ist von den Toten auferstanden; darum tut er solche Taten.
 @15 Etliche aber sprachen: Er ist Elia; etliche aber: Er ist ein Prophet oder einer von den Propheten.
 @16 Da es aber Herodes hörte, sprach er: Es ist Johannes, den ich enthauptet habe; der ist von den Toten auferstanden.
-@17 Er aber, Herodes, hatte ausgesandt und Johannes gegriffen und ins Gefängnis gelegt um der Herodias willen, seines Bruders Philippus Weib; denn er hatte sie gefreit.
-@18 Johannes aber sprach zu Herodes: Es ist nicht recht, dass du deines Bruders Weib habest.
+@17 Er aber, Herodes, hatte ausgesandt und Johannes gegriffen und ins Gefängnis gelegt um der Herodias willen, seines Bruders Philippus Frau; denn er hatte sie gefreit.
+@18 Johannes aber sprach zu Herodes: Es ist nicht recht, dass du deines Bruders Frau hast.
 @19 Herodias aber stellte ihm nach und wollte ihn töten, und konnte nicht.
 @20 Herodes aber fürchtete Johannes; denn er wusste, dass er ein frommer und heiliger Mann war; und verwahrte ihn und gehorchte ihm in vielen Sachen und hörte ihn gern.
 @21 Und es kam ein gelegener Tag, dass Herodes auf seinen Jahrestag ein Abendmahl gab den Obersten und Hauptleuten und Vornehmsten in Galiläa.
@@ -283,8 +283,8 @@
 @22 Dieberei, Geiz, Schalkheit, List, Unzucht, Schalksauge, Gotteslästerung, Hoffart, Unvernunft.
 @23 Alle diese bösen Stücke gehen von innen heraus und machen den Menschen gemein.
 @24 Und er stand auf und ging von dannen in die Gegend von Tyrus und Sidon; und ging in ein Haus und wollte es niemand wissen lassen, und konnte doch nicht verborgen sein.
-@25 Denn ein Weib hatte von ihm gehört, deren Töchterlein einen unsauberen Geist hatte, und sie kam und fiel nieder zu seinen Füßen
-@26 (und es war ein griechisches Weib aus Syrophönizien), und sie bat ihn, dass er den Teufel von ihrer Tochter austriebe.
+@25 Denn eine Frau hatte von ihm gehört, deren Töchterlein einen unreinen Geist hatte, und sie kam und fiel nieder zu seinen Füßen
+@26 (und es war eine griechische Frau aus Syrophönizien), und sie bat ihn, dass er den bösen Geist von ihrer Tochter austriebe.
 @27 Jesus aber sprach zu ihr: Lass zuvor die Kinder satt werden; es ist nicht fein, dass man der Kinder Brot nehme und werfe es vor die Hunde.
 @28 Sie antwortete aber und sprach zu ihm: Ja, Herr; aber doch essen die Hündlein unter dem Tisch von den Brosamen der Kinder.
 @29 Und er sprach zu ihr: Um des Wortes willen so gehe hin; der Teufel ist von deiner Tochter ausgefahren.
@@ -391,20 +391,20 @@
 
 # 10
 @1 Und er machte sich auf und kam von dannen an die Örter des jüdischen Landes jenseits des Jordans. Und das Volk ging abermals in Haufen zu ihm, und wie seine Gewohnheit war, lehrte er sie abermals.
-@2 Und die Pharisäer traten zu ihm und fragten ihn, ob ein Mann sich scheiden möge von seinem Weibe; und versuchten ihn damit.
+@2 Und die Pharisäer traten zu ihm und fragten ihn, ob ein Mann sich scheiden möge von seiner Frau; und versuchten ihn damit.
 @3 Er antwortete aber und sprach: Was hat euch Mose geboten?
 @4 Sie sprachen: Mose hat zugelassen, einen Scheidebrief zu schreiben und sich zu scheiden.
 @5 Jesus antwortete und sprach zu ihnen: Um eures Herzens Härtigkeit willen hat er euch solches Gebot geschrieben;
-@6 aber von Anfang der Kreatur hat sie Gott geschaffen einen Mann und ein Weib.
-@7 Darum wird der Mensch Vater und Mutter verlassen und wird seinem Weibe anhangen,
+@6 aber von Anfang der Schöpfung hat sie Gott geschaffen als ein Mann und ein Frau.
+@7 Darum wird der Mensch Vater und Mutter verlassen und wird seiner Frau anhangen,
 @8 und werden die zwei ein Fleisch sein. So sind sie nun nicht zwei, sondern ein Fleisch.
 @9 Was denn Gott zusammengefügt hat, soll der Mensch nicht scheiden.
 @10 Und daheim fragten ihn abermals seine Jünger darum.
-@11 Und er sprach zu ihnen: Wer sich scheidet von seinem Weibe und freit eine andere, der bricht die Ehe an ihr;
-@12 und so sich ein Weib scheidet von ihrem Manne und freit einen anderen, die bricht ihre Ehe.
-@13 Und sie brachten Kindlein zu ihm, dass er sie anrührte. Die Jünger aber fuhren die an, die sie trugen.
-@14 Da es aber Jesus sah, ward er unwillig und sprach zu ihnen: Lasset die Kindlein zu mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes.
-@15 Wahrlich ich sage euch: Wer das Reich Gottes nicht empfängt wie ein Kindlein, der wird nicht hineinkommen.
+@11 Und er sprach zu ihnen: Wer sich scheidet von seiner Frau und freit eine andere, der bricht die Ehe an ihr;
+@12 und so sich eine Frau scheidet von ihrem Manne und einem anderen anhängt, die bricht ihre Ehe.
+@13 Und sie brachten Kinder zu ihm, dass er sie anrührte. Die Jünger aber fuhren die an, die sie trugen.
+@14 Da es aber Jesus sah, ward er unwillig und sprach zu ihnen: Lasset die Kinder zu mir kommen und wehret ihnen nicht; denn solcher ist das Reich Gottes.
+@15 Wahrlich ich sage euch: Wer das Reich Gottes nicht empfängt wie ein Kind, der wird nicht hineinkommen.
 @16 Und er herzte sie und legte die Hände auf sie und segnete sie.
 @17 Und da er hinausgegangen war auf den Weg, lief einer herzu, kniete vor ihn und fragte ihn: Guter Meister, was soll ich tun, dass ich das ewige Leben ererbe?
 @18 Aber Jesus sprach zu ihm: Was heißest du mich gut? Niemand ist gut denn der einige Gott.
@@ -418,7 +418,7 @@
 @26 Sie entsetzten sich aber noch viel mehr und sprachen untereinander: Wer kann denn selig werden?
 @27 Jesus aber sah sie an und sprach: Bei den Menschen ist's unmöglich, aber nicht bei Gott; denn alle Dinge sind möglich bei Gott.
 @28 Da sagte Petrus zu ihm: Siehe, wir haben alles verlassen und sind dir nachgefolgt.
-@29 Jesus antwortete und sprach: Wahrlich, ich sage euch: Es ist niemand, wenn er verlässt Haus oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kinder oder Äcker um meinetwillen und um des Evangeliums willen,
+@29 Jesus antwortete und sprach: Wahrlich, ich sage euch: Es ist niemand, wenn er verlässt Haus oder Brüder oder Schwestern oder Vater oder Mutter oder Frau oder Kinder oder Äcker um meinetwillen und um des Evangeliums willen,
 @30 der nicht hundertfältig empfange: jetzt in dieser Zeit Häuser und Brüder und Schwestern und Mütter und Kinder und Äcker mitten unter Verfolgungen, und in der zukünftigen Welt das ewige Leben.
 @31 Viele aber werden die Letzten sein, die die Ersten sind, und die Ersten sein, die die Letzten sind.
 @32 Sie waren aber auf dem Wege und gingen hinauf gen Jerusalem; und Jesus ging vor ihnen, und sie entsetzten sich, folgten ihm nach und fürchteten sich. Und Jesus nahm abermals zu sich die Zwölf und sagte ihnen, was ihm widerfahren würde:
@@ -497,11 +497,11 @@
 @16 Und sie brachten ihm. Da sprach er: Wes ist das Bild und die Überschrift? Sie sprachen zu ihm: Des Kaisers!
 @17 Da antwortete Jesus und sprach zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist! Und sie verwunderten sich über ihn.
 @18 Da traten die Sadduzäer zu ihm, die da halten, es sei keine Auferstehung; die fragten ihn und sprachen:
-@19 Meister, Mose hat uns geschrieben: Wenn jemands Bruder stirbt und hinterlässt ein Weib, und hinterlässt keine Kinder, so soll sein Bruder sein Weib nehmen und seinem Bruder Samen erwecken.
-@20 Nun sind sieben Brüder gewesen. Der erste nahm ein Weib; der starb und hinterließ keinen Samen.
+@19 Meister, Mose hat uns geschrieben: Wenn jemands Bruder stirbt und hinterlässt eine Frau, und hinterlässt keine Kinder, so soll sein Bruder seine Frau nehmen und seinem Bruder Samen erwecken.
+@20 Nun sind sieben Brüder gewesen. Der erste nahm eine Frau; der starb und hinterließ keinen Samen.
 @21 Und der andere nahm sie und starb und hinterließ auch nicht Samen. Der Dritte desgleichen.
-@22 Und es nahmen sie alle sieben und hinterließen nicht Samen. Zuletzt nach allen starb das Weib auch.
-@23 Nun in der Auferstehung, wenn sie auferstehen, wes Weib wird sie sein unter ihnen? Denn sieben haben sie zum Weibe gehabt.
+@22 Und es nahmen sie alle sieben und hinterließen nicht Samen. Zuletzt nach allen starb die Frau auch.
+@23 Nun in der Auferstehung, wenn sie auferstehen, wessen Frau wird sie sein unter ihnen? Denn sieben haben sie zur Frau gehabt.
 @24 Da antwortete Jesus und sprach zu ihnen: Ist's nicht also? Ihr irret darum, dass ihr nichts wisset von der Schrift noch von der Kraft Gottes.
 @25 Wenn sie von den Toten auferstehen werden, so werden sie nicht freien noch sich freien lassen, sondern sie sind wie die Engel im Himmel.
 @26 Aber von den Toten, dass sie auferstehen werden, habt ihr nicht gelesen im Buch Moses bei dem Busch, wie Gott zu ihm sagte und sprach: „Ich bin der Gott Abrahams und der Gott Isaaks und der Gott Jakobs“?
@@ -566,7 +566,7 @@
 # 14
 @1 Und nach zwei Tagen war Ostern und die Tage der süßen Brote. Und die Hohenpriester und Schriftgelehrten suchten, wie sie ihn mit List griffen und töteten.
 @2 Sie sprachen aber: Ja nicht auf das Fest, dass nicht ein Aufruhr im Volk werde!
-@3 Und da er zu Bethanien war in Simons, des Aussätzigen, Hause und saß zu Tische, da kam ein Weib, die hatte ein Glas mit ungefälschtem und köstlichem Nardenwasser, und sie zerbrach das Glas und goss es auf sein Haupt.
+@3 Und da er zu Bethanien war in Simons, des Aussätzigen, Hause und saß zu Tische, da kam eine Frau, die hatte ein Glas mit ungefälschtem und köstlichem Nardenwasser, und sie zerbrach das Glas und goss es auf sein Haupt.
 @4 Da waren etliche, die wurden unwillig und sprachen: Was soll doch diese Vergeudung?
 @5 Man könnte das Wasser um mehr denn dreihundert Groschen verkauft haben und es den Armen geben. Und murrten über sie.
 @6 Jesus aber sprach: Lasst sie in Frieden! Was bekümmert ihr sie? Sie hat ein gutes Werk an mir getan.
@@ -677,7 +677,7 @@
 @37 Aber Jesus schrie laut und verschied.
 @38 Und der Vorhang im Tempel zerriss in zwei Stücke von obenan bis untenaus.
 @39 Der Hauptmann aber, der dabeistand ihm gegenüber und sah, dass er mit solchem Geschrei verschied, sprach: Wahrlich, dieser Mensch ist Gottes Sohn gewesen!
-@40 Und es waren auch Weiber da, die von ferne solches schauten; unter welchen war Maria Magdalena und Maria, Jakobus des Kleinen und des Joses Mutter, und Salome,
+@40 Und es waren auch Frauen da, die von ferne solches schauten; unter welchen war Maria Magdalena und Maria, Jakobus des Kleinen und des Joses Mutter, und Salome,
 @41 die ihm auch nachgefolgt waren, da er in Galiläa war, und gedient hatten, und viele andere, die mit ihm hinauf gen Jerusalem gegangen waren.
 @42 Und am Abend, dieweil es der Rüsttag war, welcher ist der Vorsabbat,
 @43 kam Joseph von Arimathia, ein ehrbarer Ratsherr, welcher auch auf das Reich Gottes wartete. Der wagte es und ging hinein zu Pilatus und bat um den Leichnam Jesu.

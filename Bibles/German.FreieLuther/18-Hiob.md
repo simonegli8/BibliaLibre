@@ -31,8 +31,8 @@
 @6 Der HErr sprach zu dem Satan: Siehe da, er sei in deiner Hand; doch schone seines Lebens!
 @7 Da fuhr der Satan aus vom Angesicht des HErrn und schlug Hiob mit bösen Schwären von der Fußsohle an bis auf seinen Scheitel.
 @8 Und er nahm eine Scherbe und schabte sich und saß in der Asche.
-@9 Und sein Weib sprach zu ihm: Hältst du noch fest an deiner Frömmigkeit? Ja, sage Gott ab und stirb!
-@10 Er aber sprach zu ihr: Du redest, wie die närrischen Weiber reden. Haben wir Gutes empfangen von Gott und sollten das Böse nicht auch annehmen? In diesem allem versündigte sich Hiob nicht mit seinen Lippen.
+@9 Und seine Frau sprach zu ihm: Hältst du noch fest an deiner Frömmigkeit? Ja, sage Gott ab und stirb!
+@10 Er aber sprach zu ihr: Du redest, wie die närrischen Frauen reden. Haben wir Gutes empfangen von Gott und sollten das Böse nicht auch annehmen? In diesem allem versündigte sich Hiob nicht mit seinen Lippen.
 @11 Da aber die drei Freunde Hiobs hörten all das Unglück, das über ihn gekommen war, kamen sie, ein jeglicher aus seinem Ort: Eliphas von Theman, Bildad von Suah und Zophar von Naema. Denn sie wurden eins, dass sie kämen, ihn zu beklagen und zu trösten.
 @12 Und da sie ihre Augen aufhoben von ferne, kannten sie ihn nicht und hoben auf ihre Stimme und weinten, und ein jeglicher zerriss sein Kleid, und sie sprengten Erde auf ihr Haupt gen Himmel
 @13 und saßen mit ihm auf der Erde sieben Tage und sieben Nächte und redeten nichts mit ihm; denn sie sahen, dass der Schmerz sehr groß war.
@@ -337,7 +337,7 @@
 @28 der ich doch wie Moder vergehe und wie ein Kleid, das die Motten fressen.
 
 # 14
-@1 Der Mensch, vom Weibe geboren, lebt kurze Zeit und ist voll Unruhe,
+@1 Der Mensch, von der Frau geboren, lebt kurze Zeit und ist voll Unruhe,
 @2 geht auf wie eine Blume und fällt ab, flieht wie ein Schatten und bleibt nicht.
 @3 Und du tust deine Augen über einen solchen auf, dass du mich vor dir ins Gericht ziehest.
 @4 Kann wohl ein Reiner kommen von den Unreinen? Auch nicht einer.
@@ -374,7 +374,7 @@
 @11 Sollten Gottes Tröstungen so gering vor dir gelten und ein Wort, in Lindigkeit zu dir gesprochen?
 @12 Was nimmt dein Herz vor? was siehst du so stolz?
 @13 Was setzt sich dein Mut wider Gott, dass du solche Reden aus deinem Munde lässest?
-@14 Was ist ein Mensch, dass er sollte rein sein, und dass der sollte gerecht sein, der vom Weibe geboren ist?
+@14 Was ist ein Mensch, dass er sollte rein sein, und dass der sollte gerecht sein, der von der Frau geboren ist?
 @15 Siehe, unter seinen Heiligen ist keiner ohne Tadel, und die Himmel sind nicht rein vor ihm.
 @16 Wie viel weniger ein Mensch, der ein Gräuel und schnöde ist, der Unrecht säuft wie Wasser.
 @17 Ich will dir's zeigen, höre mir zu; und ich will dir erzählen, was ich gesehen habe,
@@ -479,7 +479,7 @@
 @14 Meine Nächsten haben sich entzogen, und meine Freunde haben mein vergessen.
 @15 Meine Hausgenossen und meine Mägde achten mich für fremd; ich bin unbekannt geworden vor ihren Augen.
 @16 Ich rief meinen Knecht, und er antwortete mir nicht; ich musste ihn anflehen mit eigenem Munde.
-@17 Mein Odem ist zuwider meinem Weibe, und ich bin ein Ekel den Kindern meines Leibes.
+@17 Mein Odem ist zuwider meiner Frau, und ich bin ein Ekel den Kindern meines Leibes.
 @18 Auch die jungen Kinder geben nichts auf mich; wenn ich ihnen widerstehe, so geben sie mir böse Worte.
 @19 Alle meine Getreuen haben einen Gräuel an mir; und die ich liebhatte, haben sich wider mich gekehrt.
 @20 Mein Gebein hanget mir an Haut und Fleisch, und ich kann meine Zähne mit der Haut nicht bedecken.
@@ -642,7 +642,7 @@
 @1 Da antwortete Bildad von Suah und sprach:
 @2 Ist nicht Herrschaft und Schrecken bei ihm, der Frieden macht unter seinen Höchsten?
 @3 Wer will seine Kriegsscharen zählen? und über wen geht nicht auf sein Licht?
-@4 Und wie kann ein Mensch gerecht vor Gott sein? und wie kann rein sein eines Weibes Kind?
+@4 Und wie kann ein Mensch gerecht vor Gott sein? und wie kann rein sein einer Frau Kind?
 @5 Siehe, auch der Mond scheint nicht helle, und die Sterne sind nicht rein vor seinen Augen:
 @6 wie viel weniger ein Mensch, die Made, und ein Menschenkind, der Wurm!
 
@@ -786,8 +786,8 @@
 @6 So wäge man mich auf rechter Waage, so wird Gott erfahren meine Unschuld.
 @7 Ist mein Gang gewichen aus dem Wege und mein Herz meinen Augen nachgefolgt und klebt ein Flecken an meinen Händen,
 @8 so müsse ich säen, und ein anderer esse es; und mein Geschlecht müsse ausgewurzelt werden.
-@9 Hat sich mein Herz lassen reizen zum Weibe und habe ich an meines Nächsten Tür gelauert,
-@10 so müsse mein Weib von einem anderen geschändet werden, und andere müssen bei ihr liegen;
+@9 Hat sich mein Herz hinreißen lassen zu einer Frau und habe ich an meines Nächsten Tür gelauert,
+@10 so müsse mein Frau von einem anderen geschändet werden, und andere müssen bei ihr liegen;
 @11 denn das ist ein Frevel und eine Missetat für die Richter.
 @12 Denn das wäre ein Feuer, das bis in den Abgrund verzehrte und all mein Einkommen auswurzelte.
 @13 Hab ich verachtet das Recht meines Knechts oder meiner Magd, wenn sie eine Sache wider mich hatten?
@@ -1141,13 +1141,13 @@
 @5 Ich hatte von dir mit den Ohren gehört; aber nun hat mein Auge dich gesehen.
 @6 Darum spreche ich mich schuldig und tue Buße in Staub und Asche.
 @7 Da nun der HErr diese Worte mit Hiob diese geredet hatte, sprach er zu Eliphas von Theman: Mein Zorn ist ergrimmt über dich und über deine zwei Freunde; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.
-@8 So nehmet nun sieben Farren und sieben Widder und gehet hin zu meinem Knecht Hiob und opfert Brandopfer für euch und lasset meinen Knecht Hiob für euch bitten. Denn ihn will ich ansehen, dass ich an euch nicht tue nach eurer Torheit; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.
+@8 So nehmet nun sieben Stiere und sieben Widder und gehet hin zu meinem Knecht Hiob und opfert Brandopfer für euch und lasset meinen Knecht Hiob für euch bitten. Denn ihn will ich ansehen, dass ich an euch nicht tue nach eurer Torheit; denn ihr habt nicht recht von mir geredet wie mein Knecht Hiob.
 @9 Da gingen hin Eliphas von Theman, Bildad von Suah und Zophar von Naema und taten, wie der HErr ihnen gesagt hatte; und der HErr sah an Hiob.
 @10 Und der HErr wandte das Gefängnis Hiobs, da er bat für seine Freunde. Und der Herr gab Hiob zwiefältig so viel, als er gehabt hatte.
 @11 Und es kamen zu ihm alle seine Brüder und alle seine Schwestern und alle, die ihn vormals kannten, und aßen mit ihm in seinem Hause und kehrten sich zu ihm und trösteten ihn über alles Übel, das der HErr über ihn hatte kommen lassen. Und ein jeglicher gab ihm einen schönen Groschen und ein goldenes Stirnband.
 @12 Und der HErr segnete hernach Hiob mehr denn zuvor, dass er kriegte 14.000 Schafe und 6000 Kamele und 1000 Joch Rinder und 1000 Eselinnen.
 @13 Und er kriegte sieben Söhne und drei Töchter;
 @14 und hieß die erste Jemima, die andere Kezia und die dritte Keren-Happuch.
-@15 Und wurden nicht so schöne Weiber gefunden in allen Landen wie die Töchter Hiobs. Und ihr Vater gab ihnen Erbteil unter ihren Brüdern.
+@15 Und wurden nicht so schöne Frauen gefunden in allen Landen wie die Töchter Hiobs. Und ihr Vater gab ihnen Erbteil unter ihren Brüdern.
 @16 Und Hiob lebte nach diesem 140 Jahre, dass er sah Kinder und Kindeskinder bis in das vierte Glied.
 @17 Und Hiob starb alt und lebenssatt.

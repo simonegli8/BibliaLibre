@@ -25,7 +25,7 @@
 @6 Predigt nicht! predigen sie, denn solche Predigt trifft uns nicht; wir werden nicht so zu Schanden werden.
 @7 Das Haus Jakob tröstet sich also: Meinst du, der HErr sei schnell zum Zorn? Sollte er solches tun wollen? Es ist wahr, meine Reden sind freundlich den Frommen.
 @8 Aber mein Volk hat sich aufgemacht wie ein Feind, denn sie rauben beides, Rock und Mantel, denen, die sicher dahergehen, gleich wie die, die aus dem Kriege kommen.
-@9 Ihr treibt die Weiber meines Volkes aus ihren lieben Häusern und nehmt von ihren jungen Kindern meinen Schmuck auf immer.
+@9 Ihr treibt die Frauen meines Volkes aus ihren lieben Häusern und nehmt von ihren jungen Kindern meinen Schmuck auf immer.
 @10 Darum macht euch auf! Ihr müsst davon, ihr sollt hier nicht bleiben; um ihrer Unreinigkeit willen müssen sie unsanft zerstört werden.
 @11 Wenn ich ein Irrgeist wäre und ein Lügenprediger und predigte, wie sie saufen und schwelgen sollten, das wäre ein Prediger für dies Volk.
 @12 Ich will aber dich, Jakob, versammeln ganz und die Übrigen in Israel zuhauf bringen; ich will sie wie Schafe miteinander in einen festen Stall tun und wie eine Herde in ihre Hürden, dass es von Menschen tönen soll.

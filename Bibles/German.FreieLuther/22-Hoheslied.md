@@ -6,7 +6,7 @@
 @5 Ich bin schwarz, aber gar lieblich, ihr Töchter Jerusalems, wie die Hütten Kedars, wie die Teppiche Salomos.
 @6 Sehet mich nicht an, dass ich so schwarz bin; denn die Sonne hat mich so verbrannt. Meiner Mutter Kinder zürnten mit mir. Sie haben mich zur Hüterin der Weinberge gesetzt; aber meinen eigenen Weinberg habe ich nicht behütet.
 @7 Sage mir an, du, den meine Seele liebt, wo du weidest, wo du ruhest im Mittage, dass ich nicht hin und her gehen müsse bei den Herden deiner Gesellen.
-@8 Weißt du es nicht, du schönste unter den Weibern, so gehe hinaus auf die Fußtapfen der Schafe und weide deine Zicklein bei den Hirtenhäusern.
+@8 Weißt du es nicht, du schönste unter den Frauen, so gehe hinaus auf die Fußtapfen der Schafe und weide deine Zicklein bei den Hirtenhäusern.
 @9 Ich vergleiche dich, meine Freundin, meinem Gespann an den Wagen Pharaos.
 @10 Deine Backen stehen lieblich in den Kettchen und dein Hals in den Schnüren.
 @11 Wir wollen dir goldene Kettchen machen mit silbernen Pünktlein.
@@ -76,7 +76,7 @@
 @6 Und da ich meinem Freund aufgetan hatte, war er weg und hingegangen. Meine Seele war außer sich, als er redete. Ich suchte ihn, aber ich fand ihn nicht; ich rief, aber er antwortete mir nicht.
 @7 Es fanden mich die Hüter, die in der Stadt umgehen; die schlugen mich wund; die Hüter auf der Mauer nahmen mir meinen Schleier.
 @8 Ich beschwöre euch, ihr Töchter Jerusalems, findet ihr meinen Freund, so sagt ihm, dass ich vor Liebe krank liege.
-@9 Was ist dein Freund vor anderen Freunden, o du schönste unter den Weibern? Was ist dein Freund vor anderen Freunden, dass du uns so beschworen hast?
+@9 Was ist dein Freund vor anderen Freunden, o du schönste unter den Frauen? Was ist dein Freund vor anderen Freunden, dass du uns so beschworen hast?
 @10 Mein Freund ist weiß und rot, auserkoren unter vielen Tausenden.
 @11 Sein Haupt ist das feinste Gold. Seine Locken sind kraus, schwarz wie ein Rabe.
 @12 Seine Augen sind wie Augen der Tauben an den Wasserbächen, mit Milch gewaschen und stehen in Fülle.
@@ -86,7 +86,7 @@
 @16 Seine Kehle ist süß, und er ist ganz lieblich. Ein solcher ist mein Freund; mein Freund ist ein solcher, ihr Töchter Jerusalems!
 
 # 6
-@1 Wo ist denn dein Freund hin gegangen, o du schönste unter den Weibern? Wo hat sich dein Freund hin gewandt? So wollen wir mit dir ihn suchen.
+@1 Wo ist denn dein Freund hin gegangen, o du schönste unter den Frauen? Wo hat sich dein Freund hin gewandt? So wollen wir mit dir ihn suchen.
 @2 Mein Freund ist hinabgegangen in seinen Garten, zu den Würzgärtlein, dass er weide in den Gärten und Rosen breche.
 @3 Mein Freund ist mein, und ich bin sein, der unter den Rosen weidet.
 @4 Du bist schön, meine Freundin, wie Thirza, lieblich wie Jerusalem, schrecklich wie Heerscharen.

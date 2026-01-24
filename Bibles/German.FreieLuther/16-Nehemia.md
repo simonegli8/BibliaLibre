@@ -81,7 +81,7 @@
 @5 Unsere Widersacher aber gedachten: Sie sollen's nicht wissen noch sehen, bis wir mitten unter sie kommen und sie erwürgen und das Werk hindern.
 @6 Da aber die Juden, die neben ihnen wohnten, kamen – und sagten's uns wohl zehnmal – aus allen Orten, da sie um uns wohnten,
 @7 da stellte ich unten an die Örter hinter der Mauer in die Gräben das Volk nach ihren Geschlechtern mit ihren Schwertern, Spießen und Bogen.
-@8 Und ich besah es und machte mich auf und sprach zu den Ratsherren und Obersten und dem anderen Volk: Fürchtet euch nicht vor ihnen; gedenket an den großen, schrecklichen HErrn und streitet für eure Brüder, Söhne, Töchter, Weiber und Häuser!
+@8 Und ich besah es und machte mich auf und sprach zu den Ratsherren und Obersten und dem anderen Volk: Fürchtet euch nicht vor ihnen; gedenket an den großen, schrecklichen HErrn und streitet für eure Brüder, Söhne, Töchter, Frauen und Häuser!
 @9 Da aber unsere Feinde hörten, dass es uns kund war geworden und Gott ihren Rat zunichte gemacht hatte, kehrten wir alle wieder zur Mauer, ein jeglicher zu seiner Arbeit.
 @10 Und es geschah von hier an, dass der Jünglinge die Hälfte taten die Arbeit, die andere Hälfte hielten Spieße, Schilde, Bogen und Panzer. Und die Obersten standen hinter dem ganzen Hause Juda,
 @11 die da bauten an der Mauer. Und die da Last trugen von denen, die ihnen aufluden, – mit einer Hand taten sie die Arbeit, und mit der anderen hielten sie die Waffe.
@@ -93,7 +93,7 @@
 @17 Aber ich und meine Brüder und meine Leute und die Männer an der Hut hinter mir, wir zogen unsere Kleider nicht aus; ein jeglicher ließ das Baden anstehen.
 
 # 5
-@1 Und es erhob sich ein großes Geschrei des Volks und ihrer Weiber wider ihre Brüder, die Juden.
+@1 Und es erhob sich ein großes Geschrei des Volks und ihrer Frauen wider ihre Brüder, die Juden.
 @2 Und waren etliche, die da sprachen: Unserer Söhne und Töchter sind viele; lasst uns Getreide nehmen und essen, dass wir leben.
 @3 Aber etliche sprachen: Lasst uns unsere Äcker, Weinberge und Häuser versetzen und Getreide nehmen in der Teuerung.
 @4 Etliche aber sprachen: Wir haben Geld entlehnt zum Schoß für den König auf unsere Äcker und Weinberge;
@@ -197,7 +197,7 @@
 @60 Aller Tempelknechte und Kinder der Knechte Salomos waren 392;
 @61 Und diese zogen auch mit herauf von Thel-Melah, Thel-Harsa, Cherub, Addon und Immer, aber sie konnten nicht anzeigen ihr Vaterhaus noch ihr Geschlecht, ob sie aus Israel wären:
 @62 die Kinder Delaja, die Kinder Tobia und die Kinder Nekoda, 642;
-@63 Und von den Priestern waren die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, ein Weib nahm und ward nach ihrem Namen genannt.
+@63 Und von den Priestern waren die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, eine Frau nahm und ward nach ihrem Namen genannt.
 @64 Diese suchten ihr Geburtsregister; und da sie es nicht fanden, wurden sie untüchtig geachtet zum Priestertum.
 @65 Und der Landpfleger sprach zu ihnen, sie sollten nicht essen vom Hochheiligen, bis dass ein Priester aufkäme mit dem Licht und Recht.
 @66 Der ganzen Gemeinde wie ein Mann waren 42.360,
@@ -211,8 +211,8 @@
 
 # 8
 @1 Da nun herzukam der siebente Monat und die Kinder Israel in ihren Städten waren, versammelte sich das ganze Volk wie ein Mann auf die breite Gasse vor dem Wassertor und sprachen zu Esra, dem Schriftgelehrten, dass er das Buch des Gesetzes Moses holte, das der HErr Israel geboten hat.
-@2 Und Esra, der Priester, brachte das Gesetz vor die Gemeinde, Männer und Weiber und alle, die es vernehmen konnten, am ersten Tage des siebenten Monats
-@3 und las daraus auf der breiten Gasse, die vor dem Wassertor ist, vom lichten Morgen an bis auf den Mittag, vor Mann und Weib und wer's vernehmen konnte. Und des ganzen Volks Ohren waren zu dem Gesetzbuch gekehrt.
+@2 Und Esra, der Priester, brachte das Gesetz vor die Gemeinde, Männer und Frauen und alle, die es vernehmen konnten, am ersten Tage des siebenten Monats
+@3 und las daraus auf der breiten Gasse, die vor dem Wassertor ist, vom lichten Morgen an bis auf den Mittag, vor Mann und Frau und wer's vernehmen konnte. Und des ganzen Volks Ohren waren zu dem Gesetzbuch gekehrt.
 @4 Und Esra, der Schriftgelehrte, stand auf einem hölzernen, hohen Stuhl, den sie gemacht hatten, zu predigen, und standen neben ihm Matthithja, Sema, Anaja, Uria, Hilkia und Maaseja zu seiner Rechten, aber zu seiner Linken Pedaja, Misael, Malchia, Hasum, Hasbaddana, Sacharja und Mesullam.
 @5 Und Esra tat das Buch auf vor dem ganzen Volk – denn er ragte über alles Volk –; und da er's auftat, stand alles Volk.
 @6 Und Esra lobte den HErrn, den großen Gott. Und alles Volk antwortete: Amen, amen! mit ihren Händen empor und neigten sich und beteten den HErrn an mit dem Antlitz zur Erde.
@@ -297,7 +297,7 @@
 @26 Rehum, Hasabna, Maaseja,
 @27 Ahia, Hanan, Anan,
 @28 Malluch, Harim und Baana.
-@29 Und das andere Volk – Priester, Leviten, Torhüter, Sänger, Tempelknechte und alle, die sich von den Völkern in den Landen abgesondert hatten zum Gesetz Gottes – samt ihren Weibern, Söhnen und Töchtern, alle, die es verstehen konnten,
+@29 Und das andere Volk – Priester, Leviten, Torhüter, Sänger, Tempelknechte und alle, die sich von den Völkern in den Landen abgesondert hatten zum Gesetz Gottes – samt ihren Frauen, Söhnen und Töchtern, alle, die es verstehen konnten,
 @30 hielten sich zu ihren Brüdern, den Mächtigen, und kamen, dass sie schwuren und sich mit einem Eide verpflichteten, zu wandeln im Gesetz Gottes, das durch Mose, den Knecht Gottes, gegeben ist, dass sie es hielten und tun wollten nach allen Geboten, Rechten und Sitten des HErrn, unseres Herrschers;
 @31 und dass wir den Völkern im Lande unsere Töchter nicht geben noch ihre Töchter unseren Söhnen nehmen wollten;
 @32 auch wenn die Völker im Lande am Sabbattage bringen Ware und allerlei Getreide zu verkaufen, dass wir nichts von ihnen nehmen wollten am Sabbat und den Heiligen Tagen; und dass wir das siebente Jahr von aller Hand Beschwerung freilassen wollten.
@@ -391,7 +391,7 @@
 @40 Und standen also die zwei Dankchöre am Hause Gottes, und ich und die Hälfte der Obersten mit mir,
 @41 und die Priester, nämlich Eljakim, Maaseja, Minjamin, Michaja, Eljoenai, Sacharja, Hananja mit Drommeten,
 @42 und Maaseja, Semaja, Eleasar, Usi, Johanan, Malchia, Elam und Eser. Und die Sänger sangen laut, und Jisrahja war der Vorsteher.
-@43 Und es wurden desselben Tages große Opfer geopfert, und sie waren fröhlich; denn Gott hatte ihnen eine große Freude gemacht, dass sich auch Weiber und Kinder freuten, und man hörte die Freude Jerusalems ferne.
+@43 Und es wurden desselben Tages große Opfer geopfert, und sie waren fröhlich; denn Gott hatte ihnen eine große Freude gemacht, dass sich auch Frauen und Kinder freuten, und man hörte die Freude Jerusalems ferne.
 @44 Zu der Zeit wurden verordnet Männer über die Vorratskammern, darin die Heben, Erstlinge und Zehnten waren, dass sie sammeln sollten von den Äckern um die Städte her, auszuteilen nach dem Gesetz für die Priester und Leviten; denn Juda hatte eine Freude an den Priestern und Leviten, dass sie standen
 @45 und warteten des Dienstes ihres Gottes und des Dienstes der Reinigung. Und die Sänger und Torhüter standen nach dem Gebot Davids und seines Sohnes Salomo;
 @46 denn vormals, zu den Zeiten Davids und Asaphs, wurden gestiftet die obersten Sänger und Loblieder und Dank zu Gott.
@@ -420,11 +420,11 @@
 @20 Da blieben die Krämer und Verkäufer mit allerlei Ware über Nacht draußen vor Jerusalem, ein Mal oder zwei.
 @21 Da zeugte ich wider sie und sprach zu ihnen: Warum bleibt ihr über Nacht um die Mauer? Werdet ihr's noch einmal tun, so will ich die Hand an euch legen. Von der Zeit an kamen sie des Sabbats nicht.
 @22 Und ich sprach zu den Leviten, dass sie sich reinigten und kämen und hüteten die Tore, zu heiligen den Sabbattag. Mein Gott, gedenke mir des auch und schone mein nach deiner großen Barmherzigkeit.
-@23 Ich sah auch zu der Zeit Juden, die Weiber genommen hatten von Asdod, Ammon und Moab.
+@23 Ich sah auch zu der Zeit Juden, die Frauen genommen hatten von Asdod, Ammon und Moab.
 @24 Und ihre Kinder redeten die Hälfte asdodisch und konnten nicht jüdisch reden, sondern nach der Sprache eines jeglichen Volks.
 @25 Und ich schalt sie und fluchte ihnen und schlug etliche Männer und raufte sie und nahm einen Eid von ihnen bei Gott: Ihr sollt eure Töchter nicht geben ihren Söhnen noch ihre Töchter nehmen euren Söhnen oder euch selbst.
-@26 Hat nicht Salomo, der König Israels, daran gesündigt? Und war doch in vielen Heiden kein König ihm gleich, und er war seinem Gott lieb, und Gott setzte ihn zum König über ganz Israel; dennoch machten ihn die ausländischen Weiber sündigen.
-@27 Und von euch muss man das hören, dass ihr solch groß Übel tut, euch an unserem Gott zu vergreifen und ausländische Weiber zu nehmen?
+@26 Hat nicht Salomo, der König Israels, daran gesündigt? Und war doch in vielen Heiden kein König ihm gleich, und er war seinem Gott lieb, und Gott setzte ihn zum König über ganz Israel; dennoch machten ihn die ausländischen Frauen sündigen.
+@27 Und von euch muss man das hören, dass ihr solch groß Übel tut, euch an unserem Gott zu vergreifen und ausländische Frauen zu nehmen?
 @28 Und einer aus den Kindern Jojadas, des Sohnes Eljasibs, des Hohenpriesters, war Saneballats, des Horoniters, Eidam; aber ich jagte ihn von mir.
 @29 Gedenke an sie, mein Gott, dass sie das Priestertum befleckt haben und den Bund des Priestertums und der Leviten!
 @30 Also reinigte ich sie von allem Ausländischen und bestellte den Dienst der Priester und Leviten, einen jeglichen zu seinem Geschäft,

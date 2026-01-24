@@ -127,7 +127,7 @@
 @14 Amos antwortete und sprach zu Amazja: Ich bin kein Prophet, auch keines Propheten Sohn, sondern ich bin ein Hirt, der Maulbeeren abliest;
 @15 aber der HErr nahm mich von der Herde und sprach zu mir: Gehe hin und weissage meinem Volk Israel!
 @16 So höre nun des HErrn Wort. Du sprichst: Weissage nicht wider Israel und predige nicht wider das Haus Isaak!
-@17 Darum spricht der HErr also: Dein Weib wird in der Stadt zur Hure werden, und deine Söhne und Töchter sollen durchs Schwert fallen, und dein Acker soll durch die Schnur ausgeteilt werden; du aber sollst in einem unreinen Lande sterben, und Israel soll aus seinem Lande vertrieben werden.
+@17 Darum spricht der HErr also: Deine Frau wird in der Stadt zur Hure werden, und deine Söhne und Töchter sollen durchs Schwert fallen, und dein Acker soll durch die Schnur ausgeteilt werden; du aber sollst in einem unreinen Lande sterben, und Israel soll aus seinem Lande vertrieben werden.
 
 # 8
 @1 Der Herr HErr zeigte mir ein Gesicht, und siehe, da stand ein Korb mit reifem Obst.

@@ -6,7 +6,7 @@
 @5 Ihre Widersacher schweben empor, ihren Feinden geht's wohl; denn der HErr hat sie voll Jammers gemacht um ihrer großen Sünden willen, und ihre Kinder sind gefangen vor dem Feinde hin gezogen.
 @6 Es ist von der Tochter Zion aller Schmuck dahin. Ihre Fürsten sind wie die Widder, die keine Weide finden und matt vor dem Treiber her gehen.
 @7 Jerusalem denkt in dieser Zeit, wie elend und verlassen sie ist und wie viel Gutes sie von alters her gehabt hat, weil all ihr Volk darniederliegt unter dem Feinde und ihr niemand hilft; ihre Feinde sehen ihre Lust an ihr und spotten ihrer Sabbate.
-@8 Jerusalem hat sich versündigt; darum muss sie sein wie ein unrein Weib. Alle, die sie ehrten, verschmähen sie jetzt, weil sie ihre Blöße sehen; sie aber seufzet und hat sich abgewendet.
+@8 Jerusalem hat sich versündigt; darum muss sie sein wie eine unreine Frau. Alle, die sie ehrten, verschmähen sie jetzt, weil sie ihre Blöße sehen; sie aber seufzet und hat sich abgewendet.
 @9 Ihr Unflat klebt an ihrem Saum; sie hätte nicht gemeint, dass es ihr zuletzt so gehen würde. Sie ist ja zu gräulich heruntergestoßen und hat dazu niemand, der sie tröstet. Ach HErr, siehe an mein Elend; denn der Feind prangt sehr!
 @10 Der Feind hat seine Hand an alle ihre Kleinode gelegt; denn sie musste zusehen, dass die Heiden in ihr Heiligtum gingen, von denen du geboten hast, sie sollten nicht in deine Gemeinde kommen.
 @11 All ihr Volk seufzt und geht nach Brot; sie geben ihre Kleinode um Speise, dass sie die Seele laben. Ach HErr, siehe doch und schaue, wie schnöde ich geworden bin!
@@ -15,7 +15,7 @@
 @14 Meine schweren Sünden sind durch seine Strafe erwacht und in Haufen mir auf den Hals gekommen, dass mir alle meine Kraft vergeht. Der Herr hat mich also zugerichtet, dass ich nicht aufkommen kann.
 @15 Der Herr hat zertreten alle meine Starken, die ich hatte; er hat über mich ein Fest ausrufen lassen, meine junge Mannschaft zu verderben. Der Herr hat der Jungfrau Tochter Juda die Kelter getreten.
 @16 Darum weine ich so, und meine beiden Augen fließen mit Wasser, dass der Tröster, der meine Seele sollte erquicken, fern von mir ist. Meine Kinder sind dahin; denn der Feind hat die Oberhand gekriegt.
-@17 Zion streckt ihre Hände aus, und ist doch niemand, der sie tröste; denn der HErr hat rings um Jakob her seinen Feinden geboten, dass Jerusalem muss zwischen ihnen sein wie ein unrein Weib.
+@17 Zion streckt ihre Hände aus, und ist doch niemand, der sie tröste; denn der HErr hat rings um Jakob her seinen Feinden geboten, dass Jerusalem muss zwischen ihnen sein wie eine unreine Frau.
 @18 Der HErr ist gerecht; denn ich bin seinem Munde ungehorsam gewesen. Höret, alle Völker, und schauet meinen Schmerz! meine Jungfrauen und Jünglinge sind ins Gefängnis gegangen.
 @19 Ich rief meine Freunde an, aber sie haben mich betrogen. Meine Priester und Ältesten in der Stadt sind verschmachtet; denn sie gehen nach Brot, damit sie ihre Seele laben.
 @20 Ach HErr, siehe doch, wie bange ist mir, dass mir's im Leibe davon weh tut! Mein Herz wallt mir in meinem Leibe, weil ich so gar ungehorsam gewesen bin. Draußen hat mich das Schwert und im Hause hat mich der Tod zur Witwe gemacht.
@@ -42,7 +42,7 @@
 @17 Der HErr hat getan, was er vorhatte; er hat sein Wort erfüllt, das er längst zuvor geboten hat; er hat ohne Barmherzigkeit zerstört; er hat den Feind über dich erfreut und deiner Widersacher Horn erhöht.
 @18 Ihr Herz schrie zum Herrn. O du Mauer der Tochter Zion, lass Tag und Nacht Tränen herabfließen wie einen Bach; höre auch nicht auf, und dein Augapfel lasse nicht ab.
 @19 Stehe des Nachts auf und schreie; schütte dein Herz aus in der ersten Wache gegen den Herrn wie Wasser; hebe deine Hände gegen ihn auf um der Seelen willen deiner jungen Kinder, die vor Hunger verschmachten vorn an allen Gassen!
-@20 HErr, schaue und siehe doch, wen du so verderbt hast! Sollen denn die Weiber ihres Leibes Frucht essen, die Kindlein, so man auf Händen trägt? Sollen denn Propheten und Priester in dem Heiligtum des Herrn so erwürgt werden?
+@20 HErr, schaue und siehe doch, wen du so verderbt hast! Sollen denn die Frauen ihres Leibes Frucht essen, die Kindlein, so man auf Händen trägt? Sollen denn Propheten und Priester in dem Heiligtum des Herrn so erwürgt werden?
 @21 Es lagen in den Gassen auf der Erde Knaben und Alte; meine Jungfrauen und Jünglinge sind durchs Schwert gefallen. Du hast gewürgt am Tage deines Zorns; du hast ohne Barmherzigkeit geschlachtet.
 @22 Du hast meine Feinde umher gerufen wie auf einen Feiertag, dass niemand am Tage des Zorns des HErrn entronnen und übriggeblieben ist. Die ich auf den Händen getragen und erzogen habe, die hat der Feind umgebracht.
 
@@ -124,7 +124,7 @@
 @7 Ihre Fürsten waren reiner denn der Schnee und klarer denn Milch; ihre Gestalt war rötlicher denn Korallen; ihr Ansehen war wie Saphir.
 @8 Nun aber ist ihre Gestalt so dunkel vor Schwärze, dass man sie auf den Gassen nicht kennt; ihre Haut hängt an den Gebeinen, und sind so dürr wie ein Scheit.
 @9 Den Erwürgten durchs Schwert geschah besser als denen, die da Hungers starben, die verschmachteten und umgebracht wurden vom Mangel der Früchte des Ackers.
-@10 Es haben die barmherzigsten Weiber ihre Kinder selbst müssen kochen, dass sie zu essen hätten in dem Jammer der Tochter meines Volks.
+@10 Es haben die barmherzigsten Frauen ihre Kinder selbst müssen kochen, dass sie zu essen hätten in dem Jammer der Tochter meines Volks.
 @11 Der HErr hat seinen Grimm vollbracht; er hat seinen grimmigen Zorn ausgeschüttet; er hat zu Zion ein Feuer angesteckt, das auch ihre Grundfesten verzehrt hat.
 @12 Es hätten's die Könige auf Erden nicht geglaubt noch alle Leute in der Welt, dass der Widersacher und Feind sollte zum Tor Jerusalems einziehen.
 @13 Es ist aber geschehen um der Sünden willen ihrer Propheten und um der Missetaten willen ihrer Priester, die darin der Gerechten Blut vergossen.
@@ -149,7 +149,7 @@
 @8 Knechte herrschen über uns, und ist niemand, der uns von ihrer Hand errette.
 @9 Wir müssen unser Brot mit Gefahr unseres Lebens holen vor dem Schwert in der Wüste.
 @10 Unsere Haut ist verbrannt wie in einem Ofen vor dem gräulichen Hunger.
-@11 Sie haben die Weiber zu Zion geschwächt und die Jungfrauen in den Städten Judas.
+@11 Sie haben die Frauen zu Zion geschwächt und die Jungfrauen in den Städten Judas.
 @12 Die Fürsten sind von ihnen gehenkt, und die Person der Alten hat man nicht geehrt.
 @13 Die Jünglinge haben Mühlsteine müssen tragen und die Knaben über dem Holztragen straucheln.
 @14 Es sitzen die Alten nicht mehr unter dem Tor, und die Jünglinge treiben kein Saitenspiel mehr.

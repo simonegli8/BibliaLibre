@@ -166,7 +166,7 @@
 @11 vor welchen standen siebzig Männer aus den Ältesten des Hauses Israel, und Jaasanja, der Sohn Saphans, stand auch unter ihnen; und ein jeglicher hatte sein Räuchfass in der Hand, und ging ein dicker Nebel auf vom Räuchwerk.
 @12 Und er sprach zu mir: Menschenkind, siehst du, was die Ältesten des Hauses Israel tun in der Finsternis, ein jeglicher in seiner Bilderkammer? Denn sie sagen: Der HErr sieht uns nicht, sondern der HErr hat das Land verlassen.
 @13 Und er sprach zu mir: Du sollst noch mehr große Gräuel sehen, die sie tun.
-@14 Und er führte mich hinein zum Tor an des HErrn Hause, das gegen Mitternacht steht; und siehe, daselbst saßen Weiber, die weinten über den Thammus.
+@14 Und er führte mich hinein zum Tor an des HErrn Hause, das gegen Mitternacht steht; und siehe, daselbst saßen Frauen, die weinten über den Thammus.
 @15 Und er sprach zu: Menschenkind, siehst du das? Aber du sollst noch größere Gräuel sehen, denn diese sind.
 @16 Und er führte mich in den inneren Hof am Hause des HErrn; und siehe, vor der Tür am Tempel des HErrn, zwischen der Halle und dem Altar, da waren bei fünfundzwanzig Männer, die ihren Rücken gegen den Tempel des HErrn und ihr Angesicht gegen Morgen gekehrt hatten und beteten gegen der Sonne Aufgang.
 @17 Und er sprach zu mir: Menschenkind, siehst du das? Ist's dem Hause Juda zu wenig, alle solche Gräuel hier zu tun, dass sie auch sonst im ganzen Lande eitel Gewalt und Unrecht treiben und reizen mich immer wieder? Und siehe, sie halten die Weinrebe an die Nase.
@@ -178,7 +178,7 @@
 @3 Und die Herrlichkeit des Gottes Israels erhob sich von dem Cherub, über dem sie war, zu der Schwelle am Hause und rief dem, der die Leinwand anhatte und das Schreibzeug an seiner Seite.
 @4 Und der HErr sprach zu ihm: Gehe durch die Stadt Jerusalem und zeichne mit einem Zeichen an die Stirn die Leute, die da seufzen und jammern über alle Gräuel, die darin geschehen.
 @5 Zu jenen aber sprach er, dass ich's hörte: Gehet diesem nach durch die Stadt und schlaget drein; eure Augen sollen nicht schonen noch übersehen.
-@6 Erwürget Alte, Jünglinge, Jungfrauen, Kinder und Weiber, alles tot; aber die das Zeichen an sich haben, derer sollt ihr keinen anrühren. Fanget aber an an meinem Heiligtum! Und sie fingen an an den alten Leuten, die vor dem Hause waren.
+@6 Erwürget Alte, Jünglinge, Jungfrauen, Kinder und Frauen, alles tot; aber die das Zeichen an sich haben, derer sollt ihr keinen anrühren. Fanget aber an an meinem Heiligtum! Und sie fingen an an den alten Leuten, die vor dem Hause waren.
 @7 Und er sprach zu ihnen: Verunreinigt das Haus und macht die Vorhöfe voll Erschlagener; gehet heraus! Und sie gingen heraus und schlugen in der Stadt.
 @8 Und da sie ausgeschlagen hatten, war ich noch übrig. Und ich fiel auf mein Angesicht, schrie und sprach: Ach Herr HErr, willst du denn alle Übrigen in Israel verderben, dass du deinen Zorn so ausschüttest über Jerusalem?
 @9 Und er sprach zu mir: Es ist die Missetat des Hauses Israel und Juda allzusehr groß; es ist eitel Blutschuld im Lande und Unrecht in der Stadt. Denn sie sprechen: Der HErr hat das Land verlassen, und der HErr sieht uns nicht.
@@ -360,14 +360,14 @@
 @31 damit dass du deine Götzenkapellen bautest vornan auf allen Straßen und deine Altäre machtest auf allen Gassen? Dazu warst du nicht wie eine andere Hure, die man muss mit Geld kaufen.
 @32 Du Ehebrecherin, die anstatt ihres Mannes andere zulässt!
 @33 Denn allen anderen Huren gibt man Geld; du aber gibst allen deinen Buhlern Geld zu und schenkst ihnen, dass sie zu dir kommen allenthalben und mit dir Hurerei treiben.
-@34 Und findet sich an dir das Widerspiel vor anderen Weibern mit deiner Hurerei, weil man dir nicht nachläuft, sondern du Geld zugibst, und man dir nicht Geld zugibt; also treibst du das Widerspiel.
+@34 Und findet sich an dir das Widerspiel vor anderen Frauen mit deiner Hurerei, weil man dir nicht nachläuft, sondern du Geld zugibst, und man dir nicht Geld zugibt; also treibst du das Widerspiel.
 @35 Darum, du Hure, höre des HErrn Wort!
 @36 So spricht der Herr HErr: Weil du denn so milde Geld zugibst und deine Blöße durch deine Hurerei gegen deine Buhlen aufdeckst und gegen alle Götzen deiner Gräuel und vergießest das Blut deiner Kinder, welche du ihnen opferst:
 @37 darum, siehe, will ich sammeln alle deine Buhlen, welchen du wohl gefielst, samt allen, die du für Freunde hältst, zu deinen Feinden und will sie beide wider dich sammeln allenthalben und will ihnen deine Blöße aufdecken, dass sie deine Blöße ganz sehen sollen.
 @38 Und will das Recht der Ehebrecherinnen und Blutvergießerinnen über dich gehen und dein Blut vergießen lassen mit Grimm und Eifer.
 @39 Und will dich in ihre Hände geben, dass sie deine Götzenkapellen abbrechen und deine Altäre umreißen und dir deine Kleider ausziehen und dein schönes Gerät dir nehmen und dich nackt und bloß sitzen lassen.
 @40 Und sie sollen Haufen Leute über dich bringen, die dich steinigen und mit ihren Schwertern zerhauen
-@41 und deine Häuser mit Feuer verbrennen und dir dein Recht tun vor den Augen vieler Weiber. Also will ich deiner Hurerei ein Ende machen, dass du nicht mehr sollst Geld noch zugeben,
+@41 und deine Häuser mit Feuer verbrennen und dir dein Recht tun vor den Augen vieler Frauen. Also will ich deiner Hurerei ein Ende machen, dass du nicht mehr sollst Geld noch zugeben,
 @42 und will meinen Mut an dir kühlen und meinen Eifer an dir sättigen, dass ich ruhe und nicht mehr zürnen müsse.
 @43 Darum dass du nicht gedacht hast an die Zeit deiner Jugend, sondern mich mit diesem allem gereizt, darum will ich auch dir all dein Tun auf den Kopf legen, spricht der Herr HErr, wiewohl ich damit nicht getan habe nach dem Laster in deinen Gräueln.
 @44 Siehe, alle die, die Sprichwort pflegen zu üben, werden von dir dies Sprichwort sagen: „Die Tochter ist wie die Mutter.“
@@ -423,16 +423,16 @@
 @3 So wahr als ich lebe, spricht der Herr HErr, solches Sprichwort soll nicht mehr unter euch gehen in Israel.
 @4 Denn siehe, alle Seelen sind mein; des Vaters Seele ist sowohl mein als des Sohnes Seele. Welche Seele sündigt, die soll sterben.
 @5 Wenn nun einer fromm ist, der recht und wohl tut,
-@6 der auf den Bergen nicht isset, der seine Augen nicht aufhebt zu den Götzen des Hauses Israel und seines Nächsten Weib nicht befleckt und liegt nicht bei der Frau in ihrer Krankheit,
+@6 der auf den Bergen nicht isset, der seine Augen nicht aufhebt zu den Götzen des Hauses Israel und seines Nächsten Frau nicht befleckt und liegt nicht bei der Frau in ihrer Krankheit,
 @7 der niemand beschädigt, der dem Schuldner sein Pfand wiedergibt, der niemand etwas mit Gewalt nimmt, der dem Hungrigen sein Brot mitteilt und den Nackten kleidet,
 @8 der nicht wuchert, der nicht Zins nimmt, der seine Hand vom Unrechten kehrt, der zwischen den Leuten recht urteilt,
 @9 der nach meinen Rechten wandelt und meine Gebote hält, dass er ernstlich darnach tue: das ist ein frommer Mann, der soll das Leben haben, spricht der Herr HErr.
 @10 Wenn er aber einen Sohn zeugt, und derselbe wird ein Mörder, der Blut vergießt oder dieser Stücke eins tut,
-@11 und der anderen Stücke keines tut, sondern auf den Bergen isset und seines Nächsten Weib befleckt,
+@11 und der anderen Stücke keines tut, sondern auf den Bergen isset und seines Nächsten Frau befleckt,
 @12 die Armen und Elenden beschädigt, mit Gewalt etwas nimmt, das Pfand nicht wiedergibt, seine Augen zu den Götzen aufhebt und einen Gräuel begeht,
 @13 auf Wucher gibt, Zins nimmt: sollte der leben? Er soll nicht leben, sondern weil er solche Gräuel alle getan hat, soll er des Todes sterben; sein Blut soll auf ihm sein.
 @14 Wenn er aber einen Sohn zeugt, der alle solche Sünden sieht, die sein Vater tut, und sich fürchtet und nicht also tut,
-@15 isst nicht auf den Bergen, hebt seine Augen nicht auf zu den Götzen des Hauses Israel, befleckt nicht seines Nächsten Weib,
+@15 isst nicht auf den Bergen, hebt seine Augen nicht auf zu den Götzen des Hauses Israel, befleckt nicht seines Nächsten Frau,
 @16 beschädigt niemand, behält das Pfand nicht, nimmt nicht mit Gewalt etwas, teilt sein Brot mit dem Hungrigen und kleidet den Nackten,
 @17 der seine Hand vom Unrechten kehrt, keinen Wucher noch Zins nimmt, sondern meine Gebote hält und nach meinen Rechten lebt: der soll nicht sterben um seines Vaters Missetat willen, sondern leben.
 @18 Aber sein Vater, der Gewalt und Unrecht geübt hat und unter seinem Volk getan hat, was nicht taugt, siehe, der soll sterben um seiner Missetat willen.
@@ -562,8 +562,8 @@
 @7 Vater und Mutter verachten sie, den Fremdlingen tun sie Gewalt und Unrecht, die Witwen und die Waisen schinden sie.
 @8 Du verachtest meine Heiligtümer und entheiligst meine Sabbate.
 @9 Verräter sind in dir, auf dass sie Blut vergießen. Sie essen auf den Bergen und handeln mutwillig in dir;
-@10 sie decken auf die Blöße der Väter und nötigen die Weiber in ihrer Krankheit
-@11 und treiben untereinander, Freund mit Freundes Weibe, Gräuel; sie schänden ihre eigene Schwiegertochter mit allem Mutwillen; sie notzüchtigen ihre eigenen Schwestern, ihres Vaters Töchter;
+@10 sie decken auf die Blöße der Väter und nötigen die Frauen in ihrer Krankheit
+@11 und treiben untereinander, Freund mit des Freundes Frau, Gräuel; sie schänden ihre eigene Schwiegertochter mit allem Mutwillen; sie notzüchtigen ihre eigenen Schwestern, ihres Vaters Töchter;
 @12 sie nehmen Geschenke, auf dass sie Blut vergießen; sie wuchern und nehmen Zins voneinander und treiben ihren Geiz wider ihren Nächsten und tun einander Gewalt und vergessen mein also, spricht der Herr HErr.
 @13 Siehe, ich schlage meine Hände zusammen über den Geiz, den du treibst, und über das Blut, das in dir vergossen ist.
 @14 Meinst du aber, dein Herz möge es erleiden, oder werden es deine Hände ertragen zu der Zeit, wann ich mit dir handeln werde? Ich, der HErr, habe es geredet und will's auch tun
@@ -587,7 +587,7 @@
 
 # 23
 @1 Und des HErrn Wort geschah zu mir und sprach:
-@2 Du Menschenkind, es waren zwei Weiber, einer Mutter Töchter.
+@2 Du Menschenkind, es waren zwei Frauen, einer Mutter Töchter.
 @3 Die trieben Hurerei in Ägypten in ihrer Jugend; daselbst ließen sie ihre Brüste begreifen und den Busen ihrer Jungfrauschaft betasten.
 @4 Die große heißt Ohola und ihre Schwester Oholiba. Und ich nahm sie zur Ehe, und sie gebaren mir Söhne und Töchter. Und Ohola heißt Samaria und Oholiba Jerusalem.
 @5 Ohola trieb Hurerei, da ich sie genommen hatte, und brannte gegen ihre Buhlen, nämlich gegen die Assyrer, die zu ihr kamen,
@@ -595,7 +595,7 @@
 @7 Und sie buhlte mit allen schönen Gesellen in Assyrien und verunreinigte sich mit allen ihren Götzen, wo sie auf einen entbrannte.
 @8 Dazu verließ sie auch nicht ihre Hurerei mit Ägypten, die bei ihr gelegen hatten von ihrer Jugend auf und die Brüste ihrer Jungfrauschaft betastet und große Hurerei mit ihr getrieben hatten.
 @9 Da übergab ich sie in die Hand ihrer Buhlen, den Kindern Assur, gegen welche sie brannte vor Lust.
-@10 Die deckten ihre Blöße auf und nahmen ihre Söhne und Töchter weg; sie aber töteten sie mit dem Schwert. Und es kam aus unter den Weibern, wie sie gestraft wäre.
+@10 Die deckten ihre Blöße auf und nahmen ihre Söhne und Töchter weg; sie aber töteten sie mit dem Schwert. Und es kam aus unter den Frauen, wie sie gestraft wäre.
 @11 Da es aber ihre Schwester Oholiba sah, entbrannte sie noch viel ärger denn jene und trieb die Hurerei mehr denn ihre Schwester;
 @12 und entbrannte gegen die Kinder Assur, nämlich die Fürsten und Herren, die zu ihr kamen wohl gekleidet, Reisige, die auf Rossen ritten, und alle junge, liebliche Gesellen.
 @13 Da sah ich, dass sie alle beide gleicherweise verunreinigt waren.
@@ -629,11 +629,11 @@
 @41 und saßest auf einem herrlichen Polster, vor welchem stand ein Tisch zugerichtet; darauf legtest du mein Räuchwerk und mein Öl.
 @42 Daselbst erhob sich ein großes Freudengeschrei; und es gaben ihnen die Leute, so allenthalben aus großem Volk und aus der Wüste gekommen waren, Geschmeide an ihre Arme und schöne Kronen auf ihre Häupter.
 @43 Ich aber gedachte: Sie ist der Ehebrecherei gewohnt von alters her; sie kann von der Hurerei nicht lassen.
-@44 Denn man geht zu ihr ein, wie man zu einer Hure eingeht; ebenso geht man zu Ohola und Oholiba, den unzüchtigen Weibern.
+@44 Denn man geht zu ihr ein, wie man zu einer Hure eingeht; ebenso geht man zu Ohola und Oholiba, den unzüchtigen Frauen.
 @45 Darum werden sie die Männer strafen, die das Recht vollbringen, wie man die Ehebrecherinnen und Blutvergießerinnen strafen soll. Denn sie sind Ehebrecherinnen, und ihre Hände sind voll Blut.
 @46 Also spricht der Herr HErr: Führe einen großen Haufen über sie herauf und gib sie zu Raub und Beute,
 @47 dass die Leute sie steinigen und mit ihren Schwertern erstechen und ihre Söhne und Töchter erwürgen und ihre Häuser mit Feuer verbrennen.
-@48 Also will ich der Unzucht im Lande ein Ende machen, dass alle Weiber sich warnen lassen und nicht nach solcher Unzucht tun.
+@48 Also will ich der Unzucht im Lande ein Ende machen, dass alle Frauen sich warnen lassen und nicht nach solcher Unzucht tun.
 @49 Und man soll eure Unzucht auf euch legen, und ihr sollt eurer Götzen Sünden tragen, auf dass ihr erfahret, dass ich der Herr HErr bin.
 
 # 24
@@ -654,7 +654,7 @@
 @15 Und des HErrn Wort geschah zu mir und sprach:
 @16 Du Menschenkind, siehe, ich will dir deiner Augen Lust nehmen durch eine Plage. Aber du sollst nicht klagen noch weinen noch eine Träne lassen.
 @17 Heimlich magst du seufzen, aber keine Totenklage führen; sondern du sollst deinen Schmuck anlegen und deine Schuhe anziehen. Du sollst deinen Mund nicht verhüllen und nicht das Trauerbrot essen.
-@18 Und da ich des Morgens früh zum Volke geredet hatte, starb mir am Abend mein Weib. Und ich tat des anderen Morgens, wie mir befohlen war.
+@18 Und da ich des Morgens früh zum Volke geredet hatte, starb mir am Abend meine Frau. Und ich tat des anderen Morgens, wie mir befohlen war.
 @19 Und das Volk sprach zu mir: Willst du uns denn nicht anzeigen, was uns das bedeutet, was du tust?
 @20 Und ich sprach zu ihnen: Der HErr hat mit mir geredet und gesagt:
 @21 Sage dem Hause Israel, dass der Herr HErr spricht also: Siehe, ich will mein Heiligtum, euren höchsten Trost, die Lust eurer Augen und eures Herzens Wunsch, entheiligen; und eure Söhne und Töchter, die ihr verlassen musstet, werden durchs Schwert fallen.
@@ -813,7 +813,7 @@
 @14 Ich will Pathros wüst machen und ein Feuer zu Zoan anzünden und das Recht über No gehen lassen
 @15 und will meinen Grimm ausschütten über Sin, die Festung Ägyptens, und will die Menge zu No ausrotten.
 @16 Ich will ein Feuer in Ägypten anzünden, und Sin soll angst und bange werden, und No soll zerrissen und Noph täglich geängstet werden.
-@17 Die junge Mannschaft zu On und Bubastus sollen durchs Schwert fallen und die Weiber gefangen weggeführt werden.
+@17 Die junge Mannschaft zu On und Bubastus sollen durchs Schwert fallen und die Frauen gefangen weggeführt werden.
 @18 Thachpanhes wird einen finsteren Tag haben, wenn ich das Joch Ägyptens daselbst zerbrechen werde, dass die Hoffart seiner Macht darin ein Ende habe; sie wird mit Wolken bedeckt werden, und ihre Töchter werden gefangen weggeführt werden.
 @19 Und ich will das Recht über Ägypten gehen lassen, dass sie erfahren, dass ich der HErr sei.
 @20 Und es begab sich im elften Jahr, am siebenten Tage des ersten Monats, geschah des HErrn Wort zu mir und sprach:
@@ -904,7 +904,7 @@
 @23 Und des HErrn Wort geschah zu mir und sprach:
 @24 Du Menschenkind, die Einwohner dieser Wüsten im Lande Israel sprechen also: Abraham war ein einziger Mann und erbte dieses Land; unser aber sind viele, desto billiger gehört das Land uns zu.
 @25 Darum sprich zu ihnen: So spricht der Herr HErr: Ihr habt Blutiges gegessen und eure Augen zu den Götzen aufgehoben und Blut vergossen: und ihr meint, ihr wollt das Land besitzen?
-@26 Ja, ihr fahret immer fort mit Morden und übet Gräuel, und einer schändet dem anderen sein Weib; und ihr meint, ihr wollt das Land besitzen?
+@26 Ja, ihr fahret immer fort mit Morden und übet Gräuel, und einer schändet dem anderen seine Frau; und ihr meint, ihr wollt das Land besitzen?
 @27 So sprich zu ihnen: So spricht der Herr HErr: So wahr ich lebe, sollen alle, die in den Wüsten wohnen, durchs Schwert fallen; und die auf dem Felde sind, will ich den Tieren zu fressen geben; und die in den Festungen und Höhlen sind, sollen an der Pestilenz sterben.
 @28 Denn ich will das Land ganz verwüsten und seiner Hoffart und Macht ein Ende machen, dass das Gebirge Israel so wüst werde, dass niemand da durchgehe.
 @29 Und sie sollen erfahren, dass ich der HErr bin, wenn ich das Land ganz verwüstet habe um aller ihrer Gräuel willen, die sie üben.
@@ -980,7 +980,7 @@
 @14 darum sollst du nun nicht mehr Leute fressen noch dein Volk ohne Erben machen, spricht der Herr HErr.
 @15 Und ich will dich nicht mehr lassen hören die Schmähung der Heiden, und sollst den Spott der Heiden nicht mehr tragen und sollst dein Volk nicht mehr ohne Erben machen, spricht der Herr HErr.
 @16 Und des HErrn Wort geschah weiter zu mir:
-@17 Du Menschenkind, da das Haus Israel in seinem Lande wohnte und es verunreinigte mit seinem Wesen und Tun, dass ihr Wesen vor mir war wie die Unreinigkeit eines Weibes in ihrer Krankheit,
+@17 Du Menschenkind, da das Haus Israel in seinem Lande wohnte und es verunreinigte mit seinem Wesen und Tun, dass ihr Wesen vor mir war wie die Unreinigkeit einer Frau in ihrer Krankheit,
 @18 da schüttete ich meinen Grimm über sie aus um des Blutes willen, das sie im Lande vergossen, und weil sie es verunreinigt hatten durch ihre Götzen.
 @19 Und ich zerstreute sie unter die Heiden und zerstäubte sie in die Länder und richtete sie nach ihrem Wesen und Tun.
 @20 Und sie hielten sich wie die Heiden, zu denen sie kamen, und entheiligten meinen heiligen Namen, dass man von ihnen sagte: Ist das des HErrn Volk, das aus seinem Lande hat müssen ziehen?
@@ -1209,13 +1209,13 @@
 @16 Der Ariel aber war zwölf Ellen lang und zwölf Ellen breit ins Geviert.
 @17 Und der oberste Absatz war vierzehn Ellen lang und vierzehn Ellen breit ins Geviert; und eine Leiste ging allenthalben umher, eine halbe Elle breit; und sein Fuß war eine Elle hoch, und seine Stufen waren gegen Morgen.
 @18 Und er sprach zu mir: Du Menschenkind, so spricht der Herr HErr: Dies sollen die Sitten des Altars sein des Tages, da er gemacht ist, dass man Brandopfer darauf lege und Blut darauf sprenge.
-@19 Und den Priestern von Levi aus dem Samen Zadoks, die da vor mich treten, dass sie mir dienen, spricht der Herr HErr, sollst du geben einen jungen Farren zum Sündopfer.
+@19 Und den Priestern von Levi aus dem Samen Zadoks, die da vor mich treten, dass sie mir dienen, spricht der Herr HErr, sollst du geben einen jungen Stier zum Sündopfer.
 @20 Und von desselben Blut sollst du nehmen und seine vier Hörner damit besprengen und die vier Ecken an dem obersten Absatz und um die Leiste herum; damit sollst du ihn entsündigen und versöhnen.
-@21 Und sollst den Farren des Sündopfers nehmen und ihn verbrennen an einem Ort am Hause, der dazu verordnet ist außerhalb des Heiligtums.
-@22 Aber am anderen Tage sollst du einen Ziegenbock opfern, der ohne Fehl sei, zu einem Sündopfer und den Altar damit entsündigen, wie er mit dem Farren entsündigt ist.
-@23 Und wenn das Entsündigen vollendet ist, sollst du einen jungen Farren opfern, der ohne Fehl sei, und einen Widder von der Herde ohne Fehl.
+@21 Und sollst den Stier des Sündopfers nehmen und ihn verbrennen an einem Ort am Hause, der dazu verordnet ist außerhalb des Heiligtums.
+@22 Aber am anderen Tage sollst du einen Ziegenbock opfern, der ohne Fehl sei, zu einem Sündopfer und den Altar damit entsündigen, wie er mit dem Stier entsündigt ist.
+@23 Und wenn das Entsündigen vollendet ist, sollst du einen jungen Stier opfern, der ohne Fehl sei, und einen Widder von der Herde ohne Fehl.
 @24 Und sollst sie beide vor dem HErrn opfern; und die Priester sollen Salz darauf streuen und sollen sie also opfern dem HErrn zum Brandopfer.
-@25 Also sollst du sieben Tage nacheinander täglich einen Bock zum Sündopfer opfern; und sie sollen einen jungen Farren und einen Widder von der Herde, die beide ohne Fehl sind, opfern.
+@25 Also sollst du sieben Tage nacheinander täglich einen Bock zum Sündopfer opfern; und sie sollen einen jungen Stier und einen Widder von der Herde, die beide ohne Fehl sind, opfern.
 @26 Und sollen also sieben Tage lang den Altar versöhnen und ihn reinigen und ihre Hände füllen.
 @27 Und nach denselben Tagen sollen die Priester am achten Tag und hernach für und für auf dem Altar opfern eure Brandopfer und eure Dankopfer, so will ich euch gnädig sein, spricht der Herr HErr.
 
@@ -1270,13 +1270,13 @@
 @15 Und je ein Lamm von zweihundert Schafen aus der Herde auf der Weide Israels zum Speisopfer und Brandopfer und Dankopfer, zur Versöhnung für sie, spricht der Herr HErr.
 @16 Alles Volk im Lande soll solches Hebopfer zum Fürsten in Israel bringen.
 @17 Und der Fürst soll die Brandopfer, Speisopfer und Trankopfer ausrichten auf die Feste, Neumonde und Sabbate, auf alle Feiertage des Hauses Israel; er soll die Sündopfer und Speisopfer, Brandopfer und Dankopfer tun zur Versöhnung für das Haus Israel.
-@18 So spricht der Herr HErr: Am ersten Tage des ersten Monats sollst du nehmen einen jungen Farren, der ohne Fehl sei, und das Heiligtum entsündigen.
+@18 So spricht der Herr HErr: Am ersten Tage des ersten Monats sollst du nehmen einen jungen Stier, der ohne Fehl sei, und das Heiligtum entsündigen.
 @19 Und der Priester soll von dem Blut des Sündopfers nehmen und die Pfosten am Hause damit besprengen und die vier Ecken des Absatzes am Altar samt den Pfosten am Tor des inneren Vorhofs.
 @20 Also sollst du auch tun am siebenten Tage des Monats wegen derer, die geirrt haben oder verführt worden sind, dass ihr das Haus entsündiget.
 @21 Am vierzehnten Tage des ersten Monats sollt ihr das Passah halten und sieben Tage feiern und ungesäuertes Brot essen.
-@22 Und am selben Tage soll der Fürst für sich und für alles Volk im Lande einen Farren zum Sündopfer opfern.
-@23 Aber die sieben Tage des Festes soll er dem HErrn täglich ein Brandopfer tun: je sieben Farren und sieben Widder, die ohne Fehl seien; und je einen Ziegenbock zum Sündopfer.
-@24 Zum Speisopfer aber soll er je ein Epha zu einem Farren und ein Epha zu einem Widder opfern und je ein Hin Öl zu einem Epha.
+@22 Und am selben Tage soll der Fürst für sich und für alles Volk im Lande einen Stier zum Sündopfer opfern.
+@23 Aber die sieben Tage des Festes soll er dem HErrn täglich ein Brandopfer tun: je sieben Stiere und sieben Widder, die ohne Fehl seien; und je einen Ziegenbock zum Sündopfer.
+@24 Zum Speisopfer aber soll er je ein Epha zu einem Stier und ein Epha zu einem Widder opfern und je ein Hin Öl zu einem Epha.
 @25 Am fünfzehnten Tage des siebenten Monats soll er sieben Tage nacheinander feiern, gleichwie jene sieben Tage, und es ebenso halten mit Sündopfer, Brandopfer, Speisopfer samt dem Öl.
 
 # 46
@@ -1285,12 +1285,12 @@
 @3 Desgleichen das Volk im Lande soll an der Tür desselben Tors anbeten vor dem HErrn an den Sabbaten und Neumonden.
 @4 Das Brandopfer aber, das der Fürst vor dem HErrn opfern soll am Sabbattage, soll sein sechs Lämmer, die ohne Fehl seien, und ein Widder ohne Fehl;
 @5 und je ein Epha zu einem Widder zum Speisopfer, zu den Lämmern aber, soviel seine Hand gibt, zum Speisopfer, und je ein Hin Öl zu einem Epha.
-@6 Am Neumonde aber soll er einen jungen Farren opfern, der ohne Fehl sei, und sechs Lämmer und einen Widder auch ohne Fehl;
-@7 und je ein Epha zum Farren und je ein Epha zum Widder zum Speisopfer, aber zu den Lämmern soviel, als er geben mag, und je ein Hin Öl zu einem Epha.
+@6 Am Neumonde aber soll er einen jungen Stier opfern, der ohne Fehl sei, und sechs Lämmer und einen Widder auch ohne Fehl;
+@7 und je ein Epha zum Stier und je ein Epha zum Widder zum Speisopfer, aber zu den Lämmern soviel, als er geben mag, und je ein Hin Öl zu einem Epha.
 @8 Und wenn der Fürst hineingeht, soll er durch die Halle des Tors hineingehen und desselben Weges wieder herausgehen.
 @9 Aber das Volk im Lande, das vor den HErrn kommt auf die hohen Feste und zum Tor gegen Mitternacht hineingeht, anzubeten, das soll durch das Tor gegen Mittag wieder herausgehen; und welche zum Tor gegen Mittag hineingehen, die sollen zum Tor gegen Mitternacht wieder herausgehen; und sollen nicht wieder zu dem Tor hinausgehen, dadurch sie hinein sind gegangen, sondern stracks vor sich hinausgehen.
 @10 Der Fürst aber soll mit ihnen hinein und heraus gehen.
-@11 Aber an den Feiertagen und hohen Festen soll man zum Speisopfer je zu einem Farren ein Epha und je zu einem Widder ein Epha opfern und zu den Lämmern, soviel seine Hand gibt, und je ein Hin Öl zu einem Epha.
+@11 Aber an den Feiertagen und hohen Festen soll man zum Speisopfer je zu einem Stier ein Epha und je zu einem Widder ein Epha opfern und zu den Lämmern, soviel seine Hand gibt, und je ein Hin Öl zu einem Epha.
 @12 Wenn aber der Fürst ein freiwilliges Brandopfer oder Dankopfer dem HErrn tun wollte, so soll man ihm das Tor gegen Morgen auftun, dass er sein Brandopfer und Dankopfer opfere, wie er's sonst am Sabbat pflegt zu opfern; und wenn er wieder herausgeht, soll man das Tor nach ihm zuschließen.
 @13 Und er soll dem HErrn täglich ein Brandopfer tun, nämlich ein jähriges Lamm ohne Fehl; dasselbe soll er alle Morgen opfern.
 @14 Und soll alle Morgen den sechsten Teil von einem Epha zum Speisopfer darauftun und den dritten Teil von einem Hin Öl, auf das Semmelmehl zu träufen, dem HErrn zum Speisopfer; das soll ein ewiges Recht sein vom täglichem Opfer.

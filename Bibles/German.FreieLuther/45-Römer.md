@@ -24,8 +24,8 @@
 @23 und haben verwandelt die Herrlichkeit des unvergänglichen Gottes in ein Bild gleich dem vergänglichen Menschen und der Vögel und der vierfüßigen und der kriechenden Tiere.
 @24 Darum hat sie auch Gott dahingegeben in ihrer Herzen Gelüste, in Unreinigkeit, zu schänden ihre eigenen Leiber an sich selbst,
 @25 sie, die Gottes Wahrheit haben verwandelt in die Lüge und haben geehrt und gedient dem Geschöpfe mehr denn dem Schöpfer, der da gelobt ist in Ewigkeit. Amen.
-@26 Darum hat sie Gott auch dahingegeben in schändliche Lüste: denn ihre Weiber haben verwandelt den natürlichen Brauch in den unnatürlichen;
-@27 desgleichen auch die Männer haben verlassen den natürlichen Brauch des Weibes und sind aneinander erhitzt in ihren Lüsten und haben Mann mit Mann Schande getrieben und den Lohn ihres Irrtums (wie es denn sein sollte) an sich selbst empfangen.
+@26 Darum hat sie Gott auch dahingegeben in schändliche Lüste: denn ihre Frauen haben verwandelt den natürlichen Brauch in den unnatürlichen;
+@27 desgleichen auch die Männer haben verlassen den natürlichen Brauch der Frau und sind aneinander erhitzt in ihren Lüsten und haben Mann mit Mann Schande getrieben und den Lohn ihres Irrtums (wie es denn sein sollte) an sich selbst empfangen.
 @28 Und gleichwie sie nicht geachtet haben, dass sie Gott erkenneten, hat sie Gott auch dahingegeben in verkehrten Sinn, zu tun, was nicht taugt,
 @29 voll alles Ungerechten, Hurerei, Schalkheit, Geizes, Bosheit, voll Neides, Mordes, Haders, List, giftig, Ohrenbläser,
 @30 Verleumder, Gottesverächter, Frevler, hoffärtig, ruhmredig, Schädliche, den Eltern ungehorsam,
@@ -173,7 +173,7 @@
 
 # 7
 @1 Wisset ihr nicht, liebe Brüder (denn ich rede mit solchen, die das Gesetz wissen), dass das Gesetz herrscht über den Menschen solange er lebt?
-@2 Denn ein Weib, das unter dem Manne ist, ist an ihn gebunden durch das Gesetz, solange der Mann lebt; wenn aber der Mann stirbt, so ist sie los vom Gesetz, das den Mann betrifft.
+@2 Denn eine Frau, die unter dem Manne ist, ist an ihn gebunden durch das Gesetz, solange der Mann lebt; wenn aber der Mann stirbt, so ist sie los vom Gesetz, das den Mann betrifft.
 @3 Wenn sie nun eines anderen Mannes wird, solange der Mann lebt, wird sie eine Ehebrecherin geheißen; wenn aber der Mann stirbt, ist sie frei vom Gesetz, dass sie nicht eine Ehebrecherin ist, wenn sie eines anderen Mannes wird.
 @4 Also seid auch ihr, meine Brüder, getötet dem Gesetz durch den Leib Christi, dass ihr eines anderen seid, nämlich des, der von den Toten auferweckt ist, auf dass wir Gott Frucht bringen.
 @5 Denn da wir im Fleisch waren, da waren die sündlichen Lüste, welche durchs Gesetz sich erregten, kräftig in unseren Gliedern, dem Tode Frucht zu bringen.

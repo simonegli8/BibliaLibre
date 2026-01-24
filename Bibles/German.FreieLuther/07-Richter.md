@@ -10,8 +10,8 @@
 @9 Darnach zogen die Kinder Juda herab, zu streiten wider die Kanaaniter, die auf dem Gebirge und gegen Mittag und in den Gründen wohnten.
 @10 Und Juda zog hin wider die Kanaaniter, die zu Hebron wohnten (Hebron aber hieß vorzeiten Kirjath-Arba), und sie schlugen den Sesai und Ahiman und Thalmai.
 @11 Und zogen von da wider die Einwohner zu Debir (Debir aber hieß vorzeiten Kirjath-Sepher).
-@12 Und Kaleb sprach: Wer Kirjath-Sepher schlägt und gewinnt, dem will ich meine Tochter Achsa zum Weibe geben.
-@13 Da gewann es Othniel, der Sohn des Kenas, Kalebs jüngerer Bruder. Und er gab ihm sein Tochter Achsa zum Weibe.
+@12 Und Kaleb sprach: Wer Kirjath-Sepher schlägt und gewinnt, dem will ich meine Tochter Achsa zur Frau geben.
+@13 Da gewann es Othniel, der Sohn des Kenas, Kalebs jüngerer Bruder. Und er gab ihm sein Tochter Achsa zur Frau.
 @14 Und es begab sich, da sie einzog, beredete sie ihn, einen Acker zu fordern von ihrem Vater. Und sie stieg vom Esel; da sprach Kaleb zu ihr: Was ist dir?
 @15 Sie sprach: Gib mir einen Segen! Denn du hast mir ein Mittagsland gegeben; gib mir auch Wasserquellen! Da gab er ihr die Quellen oben und unten.
 @16 Und die Kinder des Keniters, Moses Schwagers, zogen herauf aus der Palmenstadt mit den Kindern Juda in die Wüste Juda, die da liegt gegen Mittag der Stadt Arad, und gingen hin und wohnten unter dem Volk.
@@ -67,7 +67,7 @@
 @3 nämlich die fünf Fürsten der Philister und alle Kanaaniter und Sidonier und Heviter, die am Berg Libanon wohnten, von dem Berg Baal-Hermon an, bis wo man kommt gen Hamath.
 @4 Dieselben blieben, Israel durch sie zu versuchen, dass es kund würde, ob sie den Geboten des HErrn gehorchten, die er ihren Vätern geboten hatte durch Mose.
 @5 Da nun die Kinder Israel also wohnten unter den Kanaanitern, Hethitern, Amoritern, Pheresitern, Hevitern und Jebusitern,
-@6 nahmen sie jener Töchter zu Weibern und gaben ihre Töchter jener Söhnen und dienten jener Göttern.
+@6 nahmen sie jener Töchter zu Frauen und gaben ihre Töchter jener Söhnen und dienten jener Göttern.
 @7 Und die Kinder Israel taten übel vor dem HErrn und vergaßen des HErrn, ihres Gottes, und dienten den Baalim und den Ascheroth.
 @8 Da ergrimmte der Zorn des HErrn über Israel, und er verkaufte sie unter die Hand Kusan-Risathaims, des Königs von Mesopotamien; und dienten also die Kinder Israel dem Kusan-Risathaim acht Jahre.
 @9 Da schrien die Kinder Israel zu dem HErrn; und der HErr erweckte ihnen einen Heiland, der sie erlöste; Othniel, den Sohn des Kenas, Kalebs jüngsten Bruder.
@@ -98,12 +98,12 @@
 @1 Aber die Kinder Israel taten fürder übel vor dem HErrn, da Ehud gestorben war.
 @2 Und der HErr verkaufte sie in die Hand Jabins, des Königs der Kanaaniter, der zu Hazor saß; und sein Feldhauptmann war Sisera, und er wohnte zu Haroseth der Heiden.
 @3 Und die Kinder Israel schrien zum HErrn; denn er hatte 900 eiserne Wagen und zwang die Kinder Israel mit Gewalt 20 Jahre.
-@4 Zu der Zeit war Richterin in Israel die Prophetin Debora, das Weib Lapidoths.
+@4 Zu der Zeit war Richterin in Israel die Prophetin Debora, die Frau Lapidoths.
 @5 Und sie wohnte unter der Palme Deboras zwischen Rama und Beth-El auf dem Gebirge Ephraim. Und die Kinder Israel kamen zu ihr hinauf vor Gericht.
 @6 Diese sandte hin und ließ rufen Barak, den Sohn Abinoams von Kedes-Naphthali, und ließ ihm sagen: Hat dir nicht der HErr, der Gott Israels, geboten: Gehe hin und zieh auf den Berg Thabor und nimm 10.000 Mann mit dir von den Kindern Naphthali und Sebulon?
 @7 Denn ich will Sisera, den Feldhauptmann Jabins, zu dir ziehen an das Wasser Kison mit seinen Wagen und mit seiner Menge und will ihn in deine Hände geben.
 @8 Barak sprach zu ihr: Wenn du mit mir ziehst, so will ich ziehen; ziehst du aber nicht mit mir, so will ich nicht ziehen.
-@9 Sie sprach: Ich will mit dir ziehen, aber der Preis wird nicht dein sein auf dieser Reise, die du tust, sondern der HErr wird Sisera in eines Weibes Hand übergeben. Also machte sich Debora auf und zog mit Barak gen Kedes.
+@9 Sie sprach: Ich will mit dir ziehen, aber der Preis wird nicht dein sein auf dieser Reise, die du tust, sondern der HErr wird Sisera in die Hand einer Frau übergeben. Also machte sich Debora auf und zog mit Barak gen Kedes.
 @10 Da rief Barak Sebulon und Naphthali gen Kedes, und es zogen hinauf ihm nach 10.000 Mann. Debora zog auch mit ihm.
 @11 (Heber aber, der Keniter, war von den Kenitern, von den Kindern Hobabs, Moses Schwagers, weggezogen und hatte seine Hütte aufgeschlagen bei den Eichen zu Zaanannim neben Kedes.)
 @12 Da ward Sisera angesagt, dass Barak, der Sohn Abinoams, auf den Berg Thabor gezogen wäre.
@@ -111,11 +111,11 @@
 @14 Debora aber sprach zu Barak: Auf! das ist der Tag, da dir der HErr den Sisera hat in deine Hand gegeben; denn der HErr wird vor dir her ausziehen. Also zog Barak von dem Berge Thabor herab und die 10.000 Mann ihm nach.
 @15 Aber der HErr erschreckte den Sisera samt allen seinen Wagen und ganzem Heer vor der Schärfe des Schwertes Baraks, dass Sisera von seinem Wagen sprang und floh zu Fuß.
 @16 Barak aber jagte nach den Wagen und dem Heer bis gen Haroseth der Heiden. Und alles Heer Siseras fiel vor der Schärfe des Schwerts, dass nicht einer übrigblieb.
-@17 Sisera aber floh zu Fuß in die Hütte Jaels, des Weibes Hebers, des Keniters. Denn der König Jabin zu Hazor und das Haus Hebers, des Keniters, standen miteinander im Frieden.
+@17 Sisera aber floh zu Fuß in die Hütte Jaels, der Frau Hebers, des Keniters. Denn der König Jabin zu Hazor und das Haus Hebers, des Keniters, standen miteinander im Frieden.
 @18 Jael aber ging heraus, Sisera entgegen, und sprach zu ihm: Weiche, mein Herr, weiche zu mir und fürchte dich nicht! Und er wich zu ihr ein in die Hütte, und sie deckte ihn zu mit einer Decke.
 @19 Er aber sprach zu ihr: Gib mir doch ein wenig Wasser zu trinken, denn mich dürstet. Da tat sie auf einen Milchtopf und gab ihm zu trinken und deckte ihn zu.
 @20 Und er sprach zu ihr: Tritt in der Hütte Tür, und wenn jemand kommt und fragt, ob jemand hier sei, so sprich: Niemand.
-@21 Da nahm Jael, das Weib Hebers, einen Nagel von der Hütte und einen Hammer in ihre Hand und ging leise zu ihm hinein und schlug ihm den Nagel durch seine Schläfe, dass er in die Erde drang. Er aber war entschlummert, ward ohnmächtig und starb.
+@21 Da nahm Jael, die Frau Hebers, einen Nagel von der Hütte und einen Hammer in ihre Hand und ging leise zu ihm hinein und schlug ihm den Nagel durch seine Schläfe, dass er in die Erde drang. Er aber war entschlummert, ward ohnmächtig und starb.
 @22 Da aber Barak Sisera nachjagte, ging Jael heraus, ihm entgegen, und sprach zu ihm: Gehe her! ich will dir den Mann zeigen, den du suchst. Und da er zu ihr hineinkam, lag Sisera tot, und der Nagel steckte in seiner Schläfe.
 @23 Also dämpfte Gott zu der Zeit Jabin, der Kanaaniter König, vor den Kindern Israel.
 @24 Und die Hand der Kinder Israel ward immer stärker wider Jabin, der Kanaaniter König, bis sie ihn ausrotteten.
@@ -144,7 +144,7 @@
 @21 Der Bach Kison wälzte sie, der Bach Kedumim, der Bach Kison. Tritt, meine Seele, auf die Starken!
 @22 Da rasselten der Pferde Füße von dem Jagen ihrer mächtigen Reiter.
 @23 Fluchet der Stadt Meros, sprach der Engel des HErrn; fluchet ihren Bürgern, dass sie nicht kamen dem HErrn zu Hilfe, zu Hilfe dem HErrn unter den Helden!
-@24 Gesegnet sei unter den Weibern Jael, das Weib Hebers, des Keniters; gesegnet sei sie in der Hütte unter den Weibern!
+@24 Gesegnet sei unter den Frauen Jael, die Frau Hebers, des Keniters; gesegnet sei sie in der Hütte unter den Frauen!
 @25 Milch gab sie, da er Wasser forderte, und Butter brachte sie dar in einer herrlichen Schale.
 @26 Sie griff mit ihrer Hand den Nagel und mit ihrer Rechten den Schmiedhammer und schlug Sisera durch sein Haupt und zerquetschte und durchbohrte seine Schläfe.
 @27 Zu ihren Füßen krümmte er sich, fiel nieder und legte sich; er krümmte sich, fiel nieder zu ihren Füßen; wie er sich krümmte, so lag er verderbt.
@@ -178,10 +178,10 @@
 @22 Da nun Gideon sah, dass es der Engel des HErrn war, sprach er: Ach Herr HErr! habe ich also den Engel des HErrn von Angesicht gesehen?
 @23 Aber der HErr sprach zu ihm: Friede sei mit dir! Fürchte dich nicht; du wirst nicht sterben.
 @24 Da baute Gideon daselbst dem HErrn einen Altar und hieß ihn: Der HErr ist der Friede. Der steht noch bis auf den heutigen Tag zu Ophra, der Stadt der Abiesriter.
-@25 Und in derselben Nacht sprach der HErr zu ihm: Nimm einen Farren unter den Ochsen, die deines Vaters sind, und einen anderen Farren, der siebenjährig ist, und zerbrich den Altar Baals, der deines Vaters ist, und haue um das Ascherabild, das dabeisteht,
-@26 und baue dem HErrn, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und nimm den anderen Farren und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast.
+@25 Und in derselben Nacht sprach der HErr zu ihm: Nimm einen Stier unter den Ochsen, die deines Vaters sind, und einen anderen Stier, der siebenjährig ist, und zerbrich den Altar Baals, der deines Vaters ist, und haue um das Ascherabild, das dabeisteht,
+@26 und baue dem HErrn, deinem Gott, oben auf der Höhe dieses Felsens einen Altar und rüste ihn zu und nimm den anderen Stier und opfere ein Brandopfer mit dem Holz des Ascherabildes, das du abgehauen hast.
 @27 Da nahm Gideon zehn Männer aus seinen Knechten und tat, wie ihm der HErr gesagt hatte. Aber er fürchtete sich, solches zu tun des Tages, vor seines Vaters Haus und den Leuten in der Stadt, und tat's bei der Nacht.
-@28 Da nun die Leute in der Stadt des Morgens früh aufstanden, siehe, da war der Altar Baals zerbrochen und das Ascherabild dabei abgehauen und der andere Farre ein Brandopfer auf dem Altar, der gebaut war.
+@28 Da nun die Leute in der Stadt des Morgens früh aufstanden, siehe, da war der Altar Baals zerbrochen und das Ascherabild dabei abgehauen und der andere Stier ein Brandopfer auf dem Altar, der gebaut war.
 @29 Und einer sprach zu dem anderen: Wer hat das getan? Und da sie suchten und nachfragten, ward gesagt: Gideon, der Sohn des Joas, hat das getan.
 @30 Da sprachen die Leute der Stadt zu Joas: Gib deinen Sohn heraus; er muss sterben, dass er den Altar Baals zerbrochen und das Ascherabild dabei abgehauen hat.
 @31 Joas aber sprach zu allen, die bei ihm standen: Wollt ihr um Baal hadern? Wollt ihr ihm helfen? Wer um ihn hadert, der soll dieses Morgens sterben. Ist er Gott, so rechte er um sich selbst, dass sein Altar zerbrochen ist.
@@ -252,7 +252,7 @@
 @27 Und Gideon machte einen Leibrock daraus und setzte ihn in seine Stadt zu Ophra. Und ganz Israel trieb damit Abgötterei daselbst, und er geriet Gideon und seinem Hause zum Fall.
 @28 Also wurden die Midianiter gedemütigt vor den Kindern Israel und hoben ihren Kopf nicht mehr empor. Und das Land war still 40 Jahre, solange Gideon lebte.
 @29 Und Jerubbaal, der Sohn des Joas, ging hin und wohnte in seinem Hause.
-@30 Und Gideon hatte 70 Söhne, die aus seiner Hüfte gekommen waren; denn er hatte viele Weiber.
+@30 Und Gideon hatte 70 Söhne, die aus seiner Hüfte gekommen waren; denn er hatte viele Frauen.
 @31 Und sein Kebsweib, das er zu Sichem hatte, gebar ihm auch einen Sohn; den nannte er Abimelech.
 @32 Und Gideon, der Sohn des Joas, starb in gutem Alter und ward begraben in seines Vaters Joas Grab zu Ophra, der Stadt der Abiesriter.
 @33 Da aber Gideon gestorben war, kehrten sich die Kinder Israel um und liefen den Baalim nach und machten sich Baal-Berith zum Gott.
@@ -308,12 +308,12 @@
 @46 Da das hörten alle Männer des Turms zu Sichem, gingen sie in die Festung des Hauses des Gottes Berith.
 @47 Da das Abimelech hörte, dass sich alle Männer des Turms zu Sichem versammelt hatten,
 @48 ging er auf den Berg Zalmon mit allem seinem Volk, das bei ihm war und nahm eine Axt in seine Hand und hieb einen Ast von den Bäumen und hob ihn auf und legte ihn auf seine Achsel und sprach zu allem Volk, das mit ihm war: Was ihr gesehen habt, dass ich tue, das tut auch ihr eilend wie ich.
-@49 Da hieb alles Volk ein jeglicher einen Ast ab und folgten Abimelech nach und legten sie an die Festung und steckten's an mit Feuer, dass auch alle Männer des Turms zu Sichem starben, bei 1000 Mann und Weib.
+@49 Da hieb alles Volk ein jeglicher einen Ast ab und folgten Abimelech nach und legten sie an die Festung und steckten's an mit Feuer, dass auch alle Männer des Turms zu Sichem starben, etwa 1000 Männer und Frauen.
 @50 Abimelech aber zog gen Thebez und belagerte es und gewann es.
-@51 Es war aber ein starker Turm mitten in der Stadt. Auf den flohen alle Männer und Weiber und alle Bürger der Stadt und schlossen hinter sich zu und stiegen auf das Dach des Turms.
+@51 Es war aber ein starker Turm mitten in der Stadt. Auf den flohen alle Männer und Frauen und alle Bürger der Stadt und schlossen hinter sich zu und stiegen auf das Dach des Turms.
 @52 Da kam Abimelech zum Turm und stritt dawider und nahte sich zur Tür des Turms, dass er ihn mit Feuer verbrennte.
-@53 Aber ein Weib warf einen Mühlstein Abimelech auf den Kopf und zerbrach ihm den Schädel.
-@54 Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Ein Weib hat ihn erwürgt. Da durchstach ihn sein Diener, und er starb.
+@53 Aber eine Frau warf einen Mühlstein Abimelech auf den Kopf und zerbrach ihm den Schädel.
+@54 Da rief Abimelech eilend dem Diener, der seine Waffen trug, und sprach zu ihm: Zieh dein Schwert aus und töte mich, dass man nicht von mir sage: Eine Frau hat ihn erwürgt. Da durchstach ihn sein Diener, und er starb.
 @55 Da aber die Israeliten, die mit ihm waren, sahen, dass Abimelech tot war, ging ein jeglicher an seinen Ort.
 @56 Also bezahlte Gott Abimelech das Übel, das er an seinem Vater getan hatte, da er seine 70 Brüder erwürgte;
 @57 desgleichen alles Übel der Männer Sichems vergalt ihnen Gott auf ihren Kopf, und es kam über sie der Fluch Jothams, des Sohnes Serubbaals.
@@ -340,7 +340,7 @@
 
 # 11
 @1 Jephthah, ein Gileaditer, war ein streitbarer Held, aber ein Hurenkind. Gilead aber hatte Jephthah gezeugt.
-@2 Da aber das Weib Gileads ihm Kinder gebar und des Weibes Kinder groß wurden, stießen sie Jephthah aus und sprachen zu ihm: Du sollst nicht erben in unseres Vaters Haus; denn du bist eines anderen Weibes Sohn.
+@2 Da aber die Frau Gileads ihm Kinder gebar und die Kinder der Frau groß wurden, stießen sie Jephthah aus und sprachen zu ihm: Du sollst nicht erben in unseres Vaters Haus; denn du bist einer anderen Frau Sohn.
 @3 Da floh er vor seinen Brüdern und wohnte im Lande Tob. Und es sammelten sich zu ihm lose Leute und zogen aus mit ihm.
 @4 Und über etliche Zeit hernach stritten die Kinder Ammon mit Israel.
 @5 Da nun die Kinder Ammon also stritten mit Israel, gingen die Ältesten von Gilead hin, dass sie Jephthah holten aus dem Lande Tob,
@@ -348,7 +348,7 @@
 @7 Aber Jephthah sprach zu den Ältesten von Gilead: Seid ihr es nicht, die mich hassen und aus meines Vaters Haus gestoßen haben? Und nun kommt ihr zu mir, weil ihr in Trübsal seid?
 @8 Die Ältesten von Gilead sprachen zu Jephthah: Darum kommen wir nun wieder zu dir, dass du mit uns ziehest und helfest uns streiten wider die Kinder Ammon und seist unser Haupt über alle, die in Gilead wohnen.
 @9 Jephthah sprach zu den Ältesten von Gilead: So ihr mich wieder holet, zu streiten wider die Kinder Ammon, und der HErr sie vor mir dahingeben wird, soll ich dann euer Haupt sein?
-@10 Die Ältesten von Gilead sprachen zu Jephthah: Der HErr sei Zuhörer zwischen uns, wo wir nicht tun, wie du gesagt hast.
+@10 Die Ältesten von Gilead sprachen zu Jephthah: Der HErr sei Zeuge zwischen uns, wo wir nicht tun, wie du gesagt hast.
 @11 Also ging Jephthah mit den Ältesten von Gilead; und das Volk setzte ihn zum Haupt und Obersten über sich. Und Jephthah redete solches alles vor dem HErrn zu Mizpa.
 @12 Da sandte Jephthah Botschaft zum König der Kinder Ammon und ließ ihm sagen: Was hast du mit mir zu schaffen, dass du kommst zu mir, wider mein Land zu streiten?
 @13 Der König der Kinder Ammon antwortete den Boten Jephthahs: Darum dass Israel mein Land genommen hat, da sie aus Ägypten zogen, vom Arnon an bis an den Jabbok und bis an den Jordan; so gib mir's nun wieder mit Frieden.
@@ -399,60 +399,60 @@
 
 # 13
 @1 Und die Kinder Israel taten fürder übel vor dem HErrn; und der HErr gab sie in die Hände der Philister 40 Jahre.
-@2 Es war aber ein Mann zu Zora von einem Geschlecht der Daniter, mit Namen Manoah; und sein Weib war unfruchtbar und gebar nicht.
-@3 Und der Engel des HErrn erschien dem Weibe und sprach zu ihr: Siehe, du bist unfruchtbar und gebierst nicht; aber du wirst schwanger werden und einen Sohn gebären.
+@2 Es war aber ein Mann zu Zora von einem Geschlecht der Daniter, mit Namen Manoah; und seine Frau war unfruchtbar und gebar nicht.
+@3 Und der Engel des HErrn erschien der Frau und sprach zu ihr: Siehe, du bist unfruchtbar und gebierst nicht; aber du wirst schwanger werden und einen Sohn gebären.
 @4 So hüte dich nun, dass du nicht Wein noch starkes Getränk trinkest und nichts Unreines essest;
 @5 denn du wirst schwanger werden und einen Sohn gebären, dem kein Schermesser soll aufs Haupt kommen. Denn der Knabe wird ein Geweihter Gottes sein von Mutterleibe an; und er wird anfangen, Israel zu erlösen aus der Philister Hand.
-@6 Da kam das Weib und sagte es ihrem Mann an und sprach: Es kam ein Mann Gottes zu mir, und seine Gestalt war anzusehen wie ein Engel Gottes, gar erschrecklich, dass ich ihn nicht fragte, woher oder wohin; und er sagte mir nicht, wie er hieße.
+@6 Da kam die Frau und sagte es ihrem Mann an und sprach: Es kam ein Mann Gottes zu mir, und seine Gestalt war anzusehen wie ein Engel Gottes, gar erschrecklich, dass ich ihn nicht fragte, woher oder wohin; und er sagte mir nicht, wie er hieße.
 @7 Er sprach aber zu mir: Siehe, du wirst schwanger werden und einen Sohn gebären. So trinke nun keinen Wein noch starkes Getränk und iss nichts Unreines; denn der Knabe soll ein Geweihter Gottes sein von Mutterleibe an bis an seinen Tod.
 @8 Da bat Manoah den HErrn und sprach: Ach HErr, lass den Mann Gottes wieder zu uns kommen, den du gesandt hast, dass er uns lehre, was wir mit dem Knaben tun sollen, der geboren soll werden.
-@9 Und Gott erhörte die Stimme Manoahs; und der Engel Gottes kam wieder zum Weibe. Sie saß aber auf dem Felde, und ihr Mann Manoah war nicht bei ihr.
+@9 Und Gott erhörte die Stimme Manoahs; und der Engel Gottes kam wieder zu der Frau. Sie saß aber auf dem Felde, und ihr Mann Manoah war nicht bei ihr.
 @10 Da lief sie eilend und sagte es ihrem Mann an und sprach zu ihm: Siehe, der Mann ist mir erschienen, der jenes Tages zu mir kam.
-@11 Manoah machte sich auf und ging seinem Weibe nach und kam zu dem Mann und sprach zu ihm: Bist du der Mann, der mit dem Weibe geredet hat? Er sprach: Ja.
+@11 Manoah machte sich auf und ging seiner Frau nach und kam zu dem Mann und sprach zu ihm: Bist du der Mann, der mit der Frau geredet hat? Er sprach: Ja.
 @12 Und Manoah sprach: Wenn nun kommen wird, was du geredet hast, welches soll des Knaben Weise und Werk sein?
-@13 Der Engel des HErrn sprach zu Manoah: Vor allem, was ich dem Weibe gesagt habe, soll sie sich hüten.
+@13 Der Engel des HErrn sprach zu Manoah: Vor allem, was ich der Frau gesagt habe, soll sie sich hüten.
 @14 Sie soll nicht essen was aus dem Weinstock kommt, und soll keinen Wein noch starkes Getränk trinken und nichts Unreines essen; alles, was ich ihr geboten habe, soll sie halten.
 @15 Manoah sprach zu dem Engel des HErrn: Lass dich doch halten; wir wollen dir ein Ziegenböcklein zurichten.
 @16 Aber der Engel des HErrn antwortete Manoah: Wenn du gleich mich hier hältst, so esse ich doch von deiner Speise nicht. Willst du aber dem HErrn ein Brandopfer tun, so magst du es opfern. Denn Manoah wusste nicht, dass es der Engel des HErrn war.
 @17 Und Manoah sprach zum Engel des HErrn: Wie heißest du? dass wir dich preisen, wenn nun kommt, was du geredet hast.
 @18 Aber der Engel des HErrn sprach zu ihm: Warum fragst du nach meinem Namen, der doch wundersam ist?
-@19 Da nahm Manoah ein Ziegenböcklein und Speisopfer und opferte es auf einem Fels dem HErrn. Und Er tat Wunderbares – Manoah aber und sein Weib sahen zu –;
-@20 denn da die Lohe auffuhr vom Altar gen Himmel, fuhr der Engel des HErrn in der Lohe des Altars hinauf. Da das Manoah und sein Weib sahen, fielen sie zur Erde auf ihr Angesicht.
-@21 Und der Engel des HErrn erschien nicht mehr Manoah und seinem Weibe. Da erkannte Manoah, dass es der Engel des HErrn war,
-@22 und sprach zu seinem Weibe: Wir müssen des Todes sterben, dass wir Gott gesehen haben.
-@23 Aber sein Weib antwortete ihm: Wenn der HErr Lust hätte, uns zu töten, so hätte er das Brandopfer und Speisopfer nicht genommen von unseren Händen; er hätte uns auch nicht solches alles erzeigt noch uns solches hören lassen, wie jetzt geschehen ist.
-@24 Und das Weib gebar einen Sohn und hieß ihn Simson. Und der Knabe wuchs, und der HErr segnete ihn.
+@19 Da nahm Manoah ein Ziegenböcklein und Speisopfer und opferte es auf einem Fels dem HErrn. Und Er tat Wunderbares – Manoah aber und seine Frau sahen zu –;
+@20 denn da die Lohe auffuhr vom Altar gen Himmel, fuhr der Engel des HErrn in der Lohe des Altars hinauf. Da das Manoah und seine Frau sahen, fielen sie zur Erde auf ihr Angesicht.
+@21 Und der Engel des HErrn erschien nicht mehr Manoah und seiner Frau. Da erkannte Manoah, dass es der Engel des HErrn war,
+@22 und sprach zu seiner Frau: Wir müssen des Todes sterben, dass wir Gott gesehen haben.
+@23 Aber seine Frau antwortete ihm: Wenn der HErr Lust hätte, uns zu töten, so hätte er das Brandopfer und Speisopfer nicht genommen von unseren Händen; er hätte uns auch nicht solches alles erzeigt noch uns solches hören lassen, wie jetzt geschehen ist.
+@24 Und die Frau gebar einen Sohn und hieß ihn Simson. Und der Knabe wuchs, und der HErr segnete ihn.
 @25 Und der Geist des HErrn fing an, ihn zu treiben im Lager Dan zwischen Zora und Esthaol.
 
 # 14
-@1 Simson ging hinab gen Thimnath und sah ein Weib zu Thimnath unter den Töchtern der Philister.
-@2 Und da er heraufkam, sagte er's an seinem Vater und seiner Mutter und sprach: Ich habe ein Weib gesehen zu Thimnath unter den Töchtern der Philister; gebt mir nun diese zum Weibe.
-@3 Sein Vater und sein Mutter sprachen zu ihm: Ist denn nun kein Weib unter den Töchtern deiner Brüder und in allem deinem Volk, dass du hingehst und nimmst ein Weib bei den Philistern, die unbeschnitten sind? Simson sprach zu seinem Vater: Gib mir diese; denn sie gefällt meinen Augen.
+@1 Simson ging hinab gen Thimnath und sah eine Frau zu Thimnath unter den Töchtern der Philister.
+@2 Und da er heraufkam, sagte er's an seinem Vater und seiner Mutter und sprach: Ich habe eine Frau gesehen zu Thimnath unter den Töchtern der Philister; gebt mir nun diese zur Frau.
+@3 Sein Vater und sein Mutter sprachen zu ihm: Ist denn nun keine Frau unter den Töchtern deiner Brüder und in allem deinem Volk, dass du hingehst und nimmst eine Frau bei den Philistern, die unbeschnitten sind? Simson sprach zu seinem Vater: Gib mir diese; denn sie gefällt meinen Augen.
 @4 Aber sein Vater und seine Mutter wussten nicht, dass es von dem HErrn wäre; denn er suchte Ursache wider die Philister. Die Philister aber herrschten zu der Zeit über Israel.
 @5 Also ging Simson hinab mit seinem Vater und seiner Mutter gen Thimnath. Und als sie kamen an die Weinberge zu Thimnath, siehe, da kam ein junger Löwe brüllend ihm entgegen.
 @6 Und der Geist des HErrn geriet über ihn, und er zerriss ihn, wie man ein Böcklein zerreißt, und hatte doch gar nichts in seiner Hand. Und sagte es nicht an seinem Vater noch seiner Mutter, was er getan hatte.
-@7 Da er nun hinabkam, redete er mit dem Weibe, und sie gefiel Simson in seinen Augen.
+@7 Da er nun hinabkam, redete er mit der Frau, und sie gefiel Simson in seinen Augen.
 @8 Und nach etlichen Tagen kam er wieder, dass er sie nähme; und trat aus dem Wege, dass er das Aas des Löwen besähe. Siehe, da war ein Bienenschwarm in dem Leibe des Löwen und Honig.
 @9 Und er nahm ihn in seine Hand und aß davon unterwegs und ging zu seinem Vater und zu seiner Mutter und gab ihnen, dass sie auch aßen. Er sagte ihnen aber nicht an, dass er den Honig aus des Löwen Leibe genommen hatte.
-@10 Und da sein Vater hinabkam zu dem Weibe, machte Simson daselbst eine Hochzeit, wie die Jünglinge zu tun pflegen.
+@10 Und da sein Vater hinabkam zu der Frau, machte Simson daselbst eine Hochzeit, wie die Jünglinge zu tun pflegen.
 @11 Und da sie ihn sahen, gaben sie ihm 30 Gesellen zu, die bei ihm sein sollten.
 @12 Simson aber sprach zu ihnen: Ich will euch ein Rätsel aufgeben. Wenn ihr mir das erratet und trefft diese sieben Tage der Hochzeit, so will ich euch 30 Hemden geben und 30 Feierkleider.
 @13 Könnt ihr's aber nicht erraten, so sollt ihr mir 30 Hemden und 30 Feierkleider geben. Und sie sprachen zu ihm: Gib dein Rätsel auf; lass uns hören!
 @14 Er sprach zu ihnen: Speise ging von dem Fresser und Süßigkeit von dem Starken. Und sie konnten in drei Tagen das Rätsel nicht erraten.
-@15 Am siebenten Tage sprachen sie zu Simsons Weibe: Überrede deinen Mann, dass er uns sage das Rätsel, oder wir werden dich und deines Vaters Haus mit Feuer verbrennen. Habt ihr uns hierher geladen, dass ihr uns arm machet? Oder nicht?
-@16 Da weinte Simsons Weib vor ihm und sprach: Du bist mir gram und hast mich nicht lieb. Du hast den Kindern meines Volks ein Rätsel aufgegeben und hast mir's nicht gesagt. Er aber sprach zu ihr: Siehe, ich habe es meinem Vater und meiner Mutter nicht gesagt und sollte dir's sagen?
+@15 Am siebenten Tage sprachen sie zu Simsons Frau: Überrede deinen Mann, dass er uns sage das Rätsel, oder wir werden dich und deines Vaters Haus mit Feuer verbrennen. Habt ihr uns hierher geladen, dass ihr uns arm machet? Oder nicht?
+@16 Da weinte Simsons Frau vor ihm und sprach: Du bist mir gram und hast mich nicht lieb. Du hast den Kindern meines Volks ein Rätsel aufgegeben und hast mir's nicht gesagt. Er aber sprach zu ihr: Siehe, ich habe es meinem Vater und meiner Mutter nicht gesagt und sollte dir's sagen?
 @17 Und sie weinte die sieben Tage vor ihm, da sie Hochzeit hatten; aber am siebenten Tage sagte er's ihr, denn sie drängte ihn. Und sie sagte das Rätsel ihres Volkes Kindern.
 @18 Da sprachen die Männer der Stadt zu ihm am siebenten Tage, ehe die Sonne unterging: Was ist süßer denn Honig? Was ist stärker denn der Löwe? Aber er sprach zu ihnen: Wenn ihr nicht hättet mit meinem Kalb gepflügt, ihr hättet mein Rätsel nicht getroffen.
 @19 Und der Geist des HErrn geriet über ihn, und er ging hinab gen Askalon und schlug 30 Mann unter ihnen und nahm ihr Gewand und gab Feierkleider denen, die das Rätsel erraten hatten. Und ergrimmte in seinem Zorn und ging herauf in seines Vaters Haus.
-@20 Aber Simsons Weib ward einem seiner Gesellen gegeben, der ihm zugehörte.
+@20 Aber Simsons Frau ward einem seiner Gesellen gegeben, der ihm zugehörte.
 
 # 15
-@1 Es begab sich aber nach etlichen Tagen, um die Weizenernte, dass Simson sein Weib besuchte mit einem Ziegenböcklein. Und als er gedachte: Ich will zu meinem Weibe gehen in die Kammer, wollte ihn ihr Vater nicht hineinlassen
+@1 Es begab sich aber nach etlichen Tagen, um die Weizenernte, dass Simson seine Frau besuchte mit einem Ziegenböcklein. Und als er gedachte: Ich will zu meiner Frau gehen in die Kammer, wollte ihn ihr Vater nicht hineinlassen
 @2 und sprach: Ich meinte, du wärest ihr gram geworden, und habe sie deinem Freunde gegeben. Sie hat aber eine jüngere Schwester, die ist schöner denn sie; die lass dein sein für diese.
 @3 Da sprach Simson zu ihnen: Ich habe einmal eine gerechte Sache wider die Philister; ich will euch Schaden tun.
 @4 Und Simson ging hin und fing 300 Füchse und nahm Brände und kehrte je einen Schwanz zum anderen und tat einen Brand je zwischen zwei Schwänze
 @5 und zündete die Brände an mit Feuer und ließ sie unter das Korn der Philister und zündete also an die Garben samt dem stehenden Korn und Weinberge und Ölbäume.
-@6 Da sprachen die Philister: Wer hat das getan? Da sagte man: Simson, der Eidam des Thimniters; darum dass er ihm sein Weib genommen und seinem Freunde gegeben hat. Da zogen die Philister hinauf und verbrannten sie samt ihrem Vater mit Feuer.
+@6 Da sprachen die Philister: Wer hat das getan? Da sagte man: Simson, der Eidam des Thimniters; darum dass er ihm seine Frau genommen und seinem Freunde gegeben hat. Da zogen die Philister hinauf und verbrannten sie samt ihrem Vater mit Feuer.
 @7 Simson aber sprach zu ihnen: Wenn ihr solches tut, so will ich mich an euch rächen und darnach aufhören, –
 @8 und schlug sie hart, an Schultern und an Lenden. Und zog hinab und wohnte in der Steinkluft zu Etam.
 @9 Da zogen die Philister hinauf und lagerten sich in Juda und ließen sich nieder zu Lehi.
@@ -472,7 +472,7 @@
 @1 Simson ging hin gen Gaza und sah daselbst eine Hure und kam zu ihr.
 @2 Da ward den Gazitern gesagt: Simson ist hereingekommen. Und sie umgaben ihn und ließen auf ihn lauern die ganze Nacht in der Stadt Tor und waren die ganze Nacht still und sprachen: Harre; morgen, wenn's licht wird, wollen wir ihn erwürgen.
 @3 Simson aber lag bis zu Mitternacht. Da stand er auf zu Mitternacht und ergriff beide Türen an der Stadt Tor samt den Pfosten und hob sie aus mit den Riegeln und legte sie auf seine Schultern und trug sie hinauf auf die Höhe des Berges vor Hebron.
-@4 Darnach gewann er ein Weib lieb am Bach Sorek, die hieß Delila.
+@4 Darnach gewann er eine Frau lieb am Bach Sorek, die hieß Delila.
 @5 Zu der kamen der Philister Fürsten hinauf und sprachen zu ihr: Überrede ihn und siehe, worin er solche große Kraft hat und womit wir ihn übermögen, dass wir ihn binden und zwingen, so wollen wir dir geben ein jeglicher 1100 Silberlinge.
 @6 Und Delila sprach zu Simson: Sage mir doch, worin deine große Kraft sei und womit man dich binden möge, dass man dich zwinge?
 @7 Simson sprach zu ihr: Wenn man mich bände mit sieben Seilen von frischem Bast, die noch nicht verdorrt sind, so würde ich schwach und wäre wie ein anderer Mensch.
@@ -495,7 +495,7 @@
 @24 Desgleichen, als ihn das Volk sah, lobten sie ihren Gott; denn sie sprachen: Unser Gott hat uns unseren Feind in unsere Hände gegeben, der unser Land verderbte und unser viele erschlug.
 @25 Da nun ihr Herz guter Dinge war, sprachen sie: Lasst Simson holen, dass er vor uns spiele. Da holten sie Simson aus dem Gefängnis, und er spielte vor ihnen, und sie stellten ihn zwischen die Säulen.
 @26 Simson aber sprach zu dem Knabe, der ihn bei der Hand leitete: Lass mich, das ich die Säulen taste, auf welchen das Haus steht, dass ich mich dranlehne.
-@27 Da Haus aber war voll Männer und Weiber. Es waren auch der Philister Fürsten alle da und auf dem Dach bei 3000, Mann und Weib, die zusahen, wie Simson spielte.
+@27 Da Haus aber war voll Männer und Frauen. Es waren auch der Philister Fürsten alle da und auf dem Dach etwa 3000, Männer und Frauen, die zusahen, wie Simson spielte.
 @28 Simson aber rief den HErrn an und sprach: Herr HErr, gedenke mein und stärke mich doch, Gott, diesmal, dass ich für meine beiden Augen mich einmal räche an den Philistern!
 @29 Und er fasste die zwei Mittelsäulen, auf welche das Haus gesetzt war und darauf es sich hielt, eine in seine rechte und die andere in seine linke Hand,
 @30 und sprach: Meine Seele sterbe mit den Philistern! und neigte sich kräftig. Da fiel das Haus auf die Fürsten und auf alles Volk, das darin war, dass der Toten mehr waren, die in seinem Tod starben, denn die bei seinem Leben starben.
@@ -575,7 +575,7 @@
 @23 Aber der Mann, der Hauswirt, ging zu ihnen heraus und sprach zu ihnen: Nicht, meine Brüder, tut nicht so übel; nachdem dieser Mann in mein Haus gekommen ist, tut nicht eine solche Torheit!
 @24 Siehe, ich habe eine Tochter, noch eine Jungfrau, und dieser ein Kebsweib; die will ich euch herausbringen. Die mögt ihr zu Schanden machen, und tut mit ihr, was euch gefällt; aber an diesem Mann tut nicht eine solche Torheit.
 @25 Aber die Leute wollten ihm nicht gehorchen. Da fasste der Mann sein Kebsweib und brachte sie zu ihnen hinaus. Die erkannten sie und trieben ihren Mutwillen an ihr die ganze Nacht bis an den Morgen; und da die Morgenröte anbrach, ließen sie sie gehen.
-@26 Da kam das Weib hart vor morgens und fiel nieder vor der Tür am Hause des Mannes, darin ihr Herr war, und lag da, bis es licht ward.
+@26 Da kam die Frau hart vor morgens und fiel nieder vor der Tür am Hause des Mannes, darin ihr Herr war, und lag da, bis es licht ward.
 @27 Da nun ihr Herr des Morgens aufstand und die Tür auftat am Hause und herausging, dass er seines Weges zöge, siehe, da lag sein Kebsweib vor der Tür des Hauses und ihre Hände auf der Schwelle.
 @28 Er aber sprach zu ihr: Stehe auf, lass uns ziehen! Aber sie antwortete nicht. Da nahm er sie auf den Esel, machte sich auf und zog an seinen Ort.
 @29 Als er nun heimkam, nahm er ein Messer und fasste sein Kebsweib und zerstückte sie mit Gebein und mit allem in zwölf Stücke und sandte sie in alle Grenzen Israels.
@@ -585,7 +585,7 @@
 @1 Da zogen die Kinder Israel aus und versammelten sich zuhauf wie ein Mann, von Dan bis gen Beer-Seba und vom Lande Gilead zu dem HErrn gen Mizpa;
 @2 und traten zuhauf die Obersten des ganzen Volks aller Stämme Israels in der Gemeinde Gottes, 400.000 Mann zu Fuß, die das Schwert auszogen.
 @3 Aber die Kinder Benjamin hörten, dass die Kinder Israel hinauf gen Mizpa gezogen waren. Und die Kinder Israel sprachen: Saget, wie ist das Übel zugegangen?
-@4 Da antwortete der Levit, des Weibes Mann, die erwürgt war, und sprach: Ich kam gen Gibea in Benjamin mit meinem Kebsweibe, über Nacht dazubleiben.
+@4 Da antwortete der Levit, der Mann der Frau, die erwürgt war, und sprach: Ich kam gen Gibea in Benjamin mit meinem Kebsweibe, über Nacht dazubleiben.
 @5 Da machten sich wider mich auf die Bürger zu Gibea und umgaben mich im Hause des Nachts und gedachten, mich zu erwürgen; und haben mein Kebsweib geschändet, dass sie gestorben ist.
 @6 Da fasste ich mein Kebsweib und zerstückte es und sandte es in alle Felder des Erbes Israels; denn sie haben einen Mutwillen und eine Torheit getan in Israel.
 @7 Siehe, da seid ihr Kinder Israel alle; schafft euch Rat und tut hiezu!
@@ -632,28 +632,28 @@
 @48 Und die Männer Israels kamen wieder zu den Kindern Benjamin und schlugen mit der Schärfe des Schwerts die in der Stadt, Leute und Vieh und alles, was man fand; und alle Städte, die man fand, verbrannte man mit Feuer.
 
 # 21
-@1 Aber die Männer Israels hatten zu Mizpa geschworen und gesagt: Niemand soll seine Tochter den Benjaminitern zum Weibe geben.
+@1 Aber die Männer Israels hatten zu Mizpa geschworen und gesagt: Niemand soll seine Tochter den Benjaminitern zur Frau geben.
 @2 Und das Volk kam gen Beth-El und blieb da bis zum Abend vor Gott, und sie hoben auf ihre Stimme und weinten sehr
 @3 und sprachen: O HErr, Gott von Israel, warum ist das geschehen in Israel, dass heute Israel um einen Stamm kleiner geworden ist?
 @4 Des anderen Morgens machte sich das Volk früh auf und baute da einen Altar und opferte Brandopfer und Dankopfer.
 @5 Und die Kinder Israel sprachen: Wer ist irgend von den Stämmen Israels, der nicht mit der Gemeinde ist heraufgekommen zum HErrn? Denn es war ein großer Eid geschehen, dass wer nicht hinaufkäme zum HErrn gen Mizpa, der sollte des Todes sterben.
 @6 Und es reute die Kinder Israel über Benjamin, ihre Brüder, und sie sprachen: Heute ist ein Stamm von Israel abgebrochen.
-@7 Wie wollen wir ihnen tun, dass die Übriggebliebenen Weiber kriegen? Denn wir haben geschworen bei dem HErrn, dass wir ihnen von unseren Töchtern nicht Weiber geben.
+@7 Wie wollen wir ihnen tun, dass die Übriggebliebenen Frauen kriegen? Denn wir haben geschworen bei dem HErrn, dass wir ihnen von unseren Töchtern nicht Frauen geben.
 @8 Und sprachen: Wer ist irgend von den Stämmen Israels, die nicht hinaufgekommen sind zum HErrn gen Mizpa? Und siehe, da war im Lager der Gemeinde niemand gewesen von Jabes in Gilead.
 @9 Denn sie zählten das Volk, und siehe, da war kein Bürger da von Jabes in Gilead.
-@10 Da sandte die Gemeinde 12.000 Mann dahin von streitbaren Männern und geboten ihnen und sprachen: Gehet hin und schlaget mit der Schärfe des Schwerts die Bürger zu Jabes in Gilead mit Weib und Kind.
-@11 Doch also sollt ihr tun: alles, was männlich ist, und alle Weiber, die beim Mann gelegen haben, verbannt.
+@10 Da sandte die Gemeinde 12.000 Mann dahin von streitbaren Männern und geboten ihnen und sprachen: Gehet hin und schlaget mit der Schärfe des Schwerts die Bürger zu Jabes in Gilead mit Frau und Kind.
+@11 Doch also sollt ihr tun: alles, was männlich ist, und alle Frauen, die beim Mann gelegen haben, verbannt.
 @12 Und sie fanden bei den Bürgern zu Jabes in Gilead 400 Dirnen, die Jungfrauen waren und bei keinem Mann gelegen hatten; die brachten sie ins Lager gen Silo, das da liegt im Lande Kanaan.
 @13 Da sandte die ganze Gemeinde hin und ließ reden mit den Kindern Benjamin, die im Fels Rimmon waren, und sagten ihnen Frieden zu.
-@14 Also kamen die Kinder Benjamin wieder zu der Zeit. Und sie gaben ihnen die Weiber, die sie hatten erhalten von den Weibern zu Jabes in Gilead; aber es waren ihrer also nicht genug für sie.
+@14 Also kamen die Kinder Benjamin wieder zu der Zeit. Und sie gaben ihnen die Frauen, die sie hatten erhalten von den Frauen zu Jabes in Gilead; aber es waren ihrer also nicht genug für sie.
 @15 Da reute es das Volk über Benjamin, dass der HErr einen Riss gemacht hatte in den Stämmen Israels.
-@16 Und die Ältesten der Gemeinde sprachen: Was wollen wir tun, dass die Übriggebliebenen Weiber kriegen? Denn die Weiber in Benjamin sind vertilgt.
+@16 Und die Ältesten der Gemeinde sprachen: Was wollen wir tun, dass die Übriggebliebenen Frauen kriegen? Denn die Frauen in Benjamin sind vertilgt.
 @17 Und sie sprachen: Die Übrigen von Benjamin müssen ja ihr Erbe behalten, dass nicht ein Stamm ausgetilgt werde von Israel.
-@18 Und wir können ihnen unsere Töchter nicht zu Weibern geben; denn die Kinder Israel haben geschworen und gesagt: Verflucht sei, wer den Benjaminitern ein Weib gibt!
+@18 Und wir können ihnen unsere Töchter nicht zu Frauen geben; denn die Kinder Israel haben geschworen und gesagt: Verflucht sei, wer den Benjaminitern eine Frau gibt!
 @19 Und sie sprachen: Siehe, es ist ein Jahrfest des HErrn zu Silo, das mitternachtwärts liegt von Beth-El, gegen der Sonne Aufgang von der Straße, da man hinaufgeht von Beth-El gen Sichem, und mittagwärts liegt von Lebona.
 @20 Und sie geboten den Kindern Benjamin und sprachen: Gehet hin und lauert in den Weinbergen.
-@21 Wenn ihr dann seht, dass die Töchter Silos heraus mit Reigen zum Tanz gehen, so fahret hervor aus den Weinbergen und nehme ein jeglicher sich ein Weib von den Töchtern Silos und gehet hin ins Land Benjamin.
-@22 Wenn aber ihre Väter oder Brüder kommen, mit uns zu rechten, wollen wir zu ihnen sagen: Gönnt sie uns; denn wir hatten nicht für jeden ein Weib genommen im Streit. Auch habt nicht ihr sie ihnen gegeben; sonst wäret ihr jetzt schuldig.
-@23 Die Kinder Benjamin taten also und nahmen Weiber nach ihrer Zahl von den Reigen, die sie raubten, und zogen hin und wohnten in ihrem Erbteil und bauten die Städte und wohnten darin.
+@21 Wenn ihr dann seht, dass die Töchter Silos heraus mit Reigen zum Tanz gehen, so fahret hervor aus den Weinbergen und nehme ein jeglicher sich eine Frau von den Töchtern Silos und gehet hin ins Land Benjamin.
+@22 Wenn aber ihre Väter oder Brüder kommen, mit uns zu rechten, wollen wir zu ihnen sagen: Gönnt sie uns; denn wir hatten nicht für jeden eine Frau genommen im Streit. Auch habt nicht ihr sie ihnen gegeben; sonst wäret ihr jetzt schuldig.
+@23 Die Kinder Benjamin taten also und nahmen Frauen nach ihrer Zahl von den Reigen, die sie raubten, und zogen hin und wohnten in ihrem Erbteil und bauten die Städte und wohnten darin.
 @24 Auch die Kinder Israel machten sich von dannen zu der Zeit, ein jeglicher zu seinem Stamm und zu seinem Geschlecht, und zogen von da aus, ein jeglicher zu seinem Erbteil.
 @25 Zu der Zeit war kein König in Israel; ein jeglicher tat, was ihn recht deuchte.

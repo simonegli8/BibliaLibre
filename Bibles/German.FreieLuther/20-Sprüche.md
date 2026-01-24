@@ -49,7 +49,7 @@
 @13 die da verlassen die rechte Bahn und gehen finstere Wege,
 @14 die sich freuen, Böses zu tun, und sind fröhlich in ihrem bösen, verkehrten Wesen,
 @15 welche ihren Weg verkehren und folgen ihrem Abwege;
-@16 dass du nicht geratest an eines anderen Weib, an eine Fremde, die glatte Worte gibt
+@16 dass du nicht geratest an eines anderen Frau, an eine Fremde, die glatte Worte gibt
 @17 und verlässt den Freund ihrer Jugend und vergisst den Bund ihres Gottes
 @18 (denn ihr Haus neigt sich zum Tod und ihre Gänge zu den Verlorenen;
 @19 alle, die zu ihr eingehen, kommen nicht wieder und ergreifen den Weg des Lebens nicht);
@@ -141,7 +141,7 @@
 @15 Trink Wasser aus deiner Grube und Flüsse aus deinem Brunnen.
 @16 Lass deine Brunnen herausfließen und die Wasserbäche auf die Gassen.
 @17 Habe du aber sie allein, und kein Fremder mit dir.
-@18 Dein Born sei gesegnet, und freue dich des Weibes deiner Jugend.
+@18 Dein Born sei gesegnet, und freue dich der Frau deiner Jugend.
 @19 Sie ist lieblich wie eine Hinde und holdselig wie ein Reh. Lass dich ihre Liebe allezeit sättigen und ergötze dich allewege in ihrer Liebe.
 @20 Mein Kind, warum willst du dich an der Fremden ergötzen und herzest eine andere?
 @21 Denn jedermanns Wege sind offen vor dem HErrn, und er misst alle ihre Gänge.
@@ -172,15 +172,15 @@
 @21 Binde sie zusammen auf dein Herz allewege und hänge sie an deinen Hals,
 @22 wenn du gehst, dass sie dich geleiten; wenn du dich legst, dass sie dich bewahren; wenn du aufwachst, dass sie zu dir sprechen.
 @23 Denn das Gebot ist eine Leuchte und das Gesetz ein Licht, und die Strafe der Zucht ist ein Weg des Lebens,
-@24 auf dass du bewahrt werdest vor dem bösen Weibe, vor der glatten Zunge der Fremden.
+@24 auf dass du bewahrt werdest vor der bösen Frau, vor der glatten Zunge der Fremden.
 @25 Lass dich ihre Schöne nicht gelüsten in deinem Herzen und verfange dich nicht an ihren Augenlidern.
-@26 Denn eine Hure bringt einen ums Brot; aber eines anderen Weib fängt das edle Leben.
+@26 Denn eine Hure bringt einen ums Brot; aber eines anderen Frau fängt das edle Leben.
 @27 Kann auch jemand ein Feuer im Busen behalten, dass seine Kleider nicht brennen?
 @28 Wie sollte jemand auf Kohlen gehen, dass seine Füße nicht verbrannt würden?
-@29 Also gehet's dem, der zu seines Nächsten Weib geht; es bleibt keiner ungestraft, der sie berührt.
+@29 Also gehet's dem, der zu seines Nächsten Frau geht; es bleibt keiner ungestraft, der sie berührt.
 @30 Es ist einem Diebe nicht so große Schmach, ob er stiehlt, seine Seele zu sättigen, weil ihn hungert;
 @31 und ob er ergriffen wird, gibt er's siebenfältig wieder und legt dar alles Gut in seinem Hause.
-@32 Aber wer mit einem Weibe die Ehe bricht, der ist ein Narr; der bringt sein Leben in das Verderben.
+@32 Aber wer mit einer Frau die Ehe bricht, der ist ein Narr; der bringt sein Leben in das Verderben.
 @33 Dazu trifft ihn Plage und Schande, und seine Schande wird nicht ausgetilgt.
 @34 Denn der Grimm des Mannes eifert, und schont nicht zur Zeit der Rache
 @35 und sieht keine Person an, die da versöhne, und nimmt's nicht an, ob du viel schenken wolltest.
@@ -190,12 +190,12 @@
 @2 Behalte meine Gebote, so wirst du leben, und mein Gesetz wie deinen Augapfel.
 @3 Binde sie an deine Finger; schreibe sie auf die Tafel deines Herzens.
 @4 Sprich zur Weisheit: „Du bist meine Schwester“, und nenne die Klugheit deine Freundin,
-@5 dass du behütet werdest vor dem fremden Weibe, vor einer anderen, die glatte Worte gibt.
+@5 dass du behütet werdest vor der fremden Frau, vor einer anderen, die glatte Worte gibt.
 @6 Denn am Fenster meines Hauses guckte ich durchs Gitter
 @7 und sah unter den Unverständigen und ward gewahr unter den Kindern eines törichten Jünglings,
 @8 der ging auf der Gasse an einer Ecke und trat daher auf dem Wege bei ihrem Hause,
 @9 in der Dämmerung, am Abend des Tages, da es Nacht ward und dunkel war.
-@10 Und siehe, da begegnete ihm ein Weib im Hurenschmuck, listig,
+@10 Und siehe, da begegnete ihm eine Frau im Hurenschmuck, listig,
 @11 wild und unbändig, dass ihre Füße in ihrem Hause nicht bleiben können.
 @12 Jetzt ist sie draußen, jetzt auf der Gasse, und lauert an allen Ecken.
 @13 Und erwischte ihn und küsste ihn unverschämt und sprach zu ihm:
@@ -264,8 +264,8 @@
 @9 Gib dem Weisen, so wird er noch weiser werden; lehre den Gerechten, so wird er in der Lehre zunehmen.
 @10 Der Weisheit Anfang ist des HErrn Furcht, und den Heiligen erkennen ist Verstand.
 @11 Denn durch mich werden deiner Tage viel werden und werden dir der Jahre des Lebens mehr werden.
-@12 Bist du weise, so bist du dir weise; bist du ein Spötter, so wirst du es allein tragen.
-@13 Es ist aber ein törichtes, wildes Weib, voll Schwätzens, und weiß nichts;
+@12 Bist du weise, so bist du weise dir zugut; bist du ein Spötter, so wirst du es allein tragen.
+@13 Frau Torheit ist aber ein wildes Weib, voll Schwätzens, und weiß nichts;
 @14 die sitzt in der Tür ihres Hauses auf dem Stuhl, oben in der Stadt,
 @15 zu laden alle, die vorübergehen und richtig auf ihrem Wege wandeln:
 @16 „Wer unverständig ist, der mache sich hierher!“, und zum Narren spricht sie:
@@ -322,13 +322,13 @@
 @13 Ein Verleumder verrät, was er heimlich weiß; aber wer eines getreuen Herzens ist, verbirgt es.
 @14 Wo nicht Rat ist, da geht das Volk unter; wo aber viel Ratgeber sind, da geht es wohl zu.
 @15 Wer für einen anderen Bürge wird, der wird Schaden haben; wer aber sich vor Geloben hütet, ist sicher.
-@16 Ein holdselig Weib erlangt Ehre; aber die Tyrannen erlangen Reichtum.
+@16 Eine holdselige Frau erlangt Ehre; aber die Tyrannen erlangen Reichtum.
 @17 Ein barmherziger Mann tut sich selber Gutes; aber ein unbarmherziger betrübt auch sein eigen Fleisch.
 @18 Der Gottlosen Arbeit wird fehlschlagen; aber wer Gerechtigkeit sät, das ist gewisses Gut.
 @19 Gerechtigkeit fördert zum Leben; aber dem Übel nachjagen fördert zum Tod.
 @20 Der HErr hat Gräuel an den verkehrten Herzen, und Wohlgefallen an den Frommen.
 @21 Den Bösen hilft nichts, wenn sie auch alle Hände zusammentäten; aber der Gerechten Same wird errettet werden.
-@22 Ein schönes Weib ohne Zucht ist wie eine Sau mit einem goldenen Haarband.
+@22 Eine schöne Frau ohne Zucht ist wie eine Sau mit einem goldenen Haarband.
 @23 Der Gerechten Wunsch muss doch wohl geraten, und der Gottlosen Hoffen wird Unglück.
 @24 Einer teilt aus und hat immer mehr; ein anderer kargt, da er nicht soll, und wird doch ärmer.
 @25 Die Seele, die da reichlich segnet, wird gelabt; und wer reichlich tränkt, der wird auch getränkt werden.
@@ -343,7 +343,7 @@
 @1 Wer sich gern lässt strafen, der wird klug werden; wer aber ungestraft sein will, der bleibt ein Narr.
 @2 Wer fromm ist, der bekommt Trost vom HErrn; aber ein Ruchloser verdammt sich selbst.
 @3 Ein gottlos Wesen fördert den Menschen nicht; aber die Wurzel der Gerechten wird bleiben.
-@4 Ein tugendsam Weib ist eine Krone ihres Mannes; aber eine böse ist wie Eiter in seinem Gebein.
+@4 Eine tugendsame Frau ist eine Krone ihres Mannes; aber eine böse ist wie Eiter in seinem Gebein.
 @5 Die Gedanken der Gerechten sind redlich; aber die Anschläge der Gottlosen sind Trügerei.
 @6 Der Gottlosen Reden richten Blutvergießen an; aber der Frommen Mund errettet.
 @7 Die Gottlosen werden umgestürzt und nicht mehr sein; aber das Haus der Gerechten bleibt stehen.
@@ -397,7 +397,7 @@
 @25 Der Gerechte isst, dass sein Seele satt wird; der Gottlosen Bauch aber hat nimmer genug.
 
 # 14
-@1 Durch weise Weiber wird das Haus erbaut; eine Närrin aber zerbricht's mit ihrem Tun.
+@1 Durch weise Frauen wird das Haus erbaut; eine Närrin aber zerbricht's mit ihrem Tun.
 @2 Wer den HErrn fürchtet, der wandelt auf rechter Bahn; wer ihn aber verachtet, der geht auf Abwegen.
 @3 Narren reden tyrannisch; aber die Weisen bewahren ihren Mund.
 @4 Wo nicht Ochsen sind, da ist die Krippe rein; aber wo der Ochse geschäftig ist, da ist viel Einkommen.
@@ -572,8 +572,8 @@
 @10 Dem Narren steht nicht wohl an, gute Tage haben, viel weniger einem Knecht, zu herrschen über Fürsten.
 @11 Wer geduldig ist, der ist ein kluger Mensch, und ist ihm eine Ehre, dass er Untugend überhören kann.
 @12 Die Ungnade des Königs ist wie das Brüllen eines jungen Löwen; aber seine Gnade ist wie Tau auf dem Grase.
-@13 Ein törichter Sohn ist seines Vaters Herzeleid, und ein zänkisches Weib ein stetiges Triefen.
-@14 Haus und Güter vererben die Eltern; aber ein vernünftiges Weib kommt vom HErrn.
+@13 Ein törichter Sohn ist seines Vaters Herzeleid, und eine zänkische Frau ein stetiges Triefen.
+@14 Haus und Güter vererben die Eltern; aber eine vernünftige Frau kommt vom HErrn.
 @15 Faulheit bringt Schlafen, und eine lässige Seele wird Hunger leiden.
 @16 Wer das Gebot bewahrt, der bewahrt sein Leben; wer aber seines Weges nicht achtet, wird sterben.
 @17 Wer sich des Armen erbarmt, der leihet dem HErrn; der wird ihm wieder Gutes vergelten.
@@ -631,7 +631,7 @@
 @6 Wer Schätze sammelt mit Lügen, der wird fehlgehen und ist unter denen, die den Tod suchen.
 @7 Der Gottlosen Rauben wird sie erschrecken; denn sie wollten nicht tun, was recht war.
 @8 Wer mit Schuld beladen ist, geht krumme Wege; wer aber rein ist, des Werk ist recht.
-@9 Es ist besser, wohnen im Winkel auf dem Dach, denn bei einem zänkischen Weibe in einem Hause beisammen.
+@9 Es ist besser, wohnen im Winkel auf dem Dach, denn bei einer zänkischen Frau in einem Hause beisammen.
 @10 Die Seele des Gottlosen wünscht Arges und gönnt seinem Nächsten nichts.
 @11 Wenn der Spötter gestraft wird, so werden die Unverständigen weise; und wenn man einen Weisen unterrichtet, so wird er vernünftig.
 @12 Der Gerechte hält sich weislich gegen des Gottlosen Haus; aber die Gottlosen denken nur, Schaden zu tun.
@@ -641,7 +641,7 @@
 @16 Ein Mensch, der vom Wege der Klugheit irrt, der wird bleiben in der Toten Gemeinde.
 @17 Wer gern in Freuden lebt, dem wird's mangeln; und wer Wein und Öl liebt, wird nicht reich.
 @18 Der Gottlose muss für den Gerechten gegeben werden und der Verächter für die Frommen.
-@19 Es ist besser, wohnen im wüsten Lande denn bei einem zänkischen und zornigen Weibe.
+@19 Es ist besser, wohnen im wüsten Lande denn bei einer zänkischen und zornigen Frau.
 @20 Im Hause des Weisen ist ein lieblicher Schatz und Öl; aber ein Narr verschlemmt es.
 @21 Wer der Gerechtigkeit und Güte nachjagt, der findet Leben, Gerechtigkeit und Ehre.
 @22 Ein Weiser gewinnt die Stadt der Starken und stürzt ihre Macht, darauf sie sich verlässt.
@@ -719,7 +719,7 @@
 @30 Wo man beim Wein liegt und kommt, auszusaufen, was eingeschenkt ist.
 @31 Sieh den Wein nicht an, dass er so rot ist und im Glase so schön steht. Er geht glatt ein;
 @32 aber darnach beißt er wie eine Schlange und sticht wie eine Otter.
-@33 So werden deine Augen nach anderen Weibern sehen, und dein Herz wird verkehrte Dinge reden,
+@33 So werden deine Augen nach anderen Frauen sehen, und dein Herz wird verkehrte Dinge reden,
 @34 und wirst sein wie einer, der mitten im Meer schläft, und wie einer schläft oben auf dem Mastbaum.
 @35 „Sie schlagen mich, aber es tut mir nicht weh; sie klopfen mich, aber ich fühle es nicht. Wann will ich aufwachen, dass ich's mehr treibe?“
 
@@ -783,7 +783,7 @@
 @21 Hungert deinen Feind, so speise ihn mit Brot; dürstet ihn, so tränke ihn mit Wasser.
 @22 Denn du wirst feurige Kohlen auf sein Haupt häufen, und der HErr wird dir's vergelten.
 @23 Der Nordwind bringt Ungewitter, und die heimliche Zunge macht saures Angesicht.
-@24 Es ist besser, im Winkel auf dem Dache sitzen, denn bei einem zänkischen Weibe in einem Hause beisammen.
+@24 Es ist besser, im Winkel auf dem Dache sitzen, denn bei einer zänkischen Frau in einem Hause beisammen.
 @25 Eine gute Botschaft aus fernen Landen ist wie kalt Wasser einer durstigen Seele.
 @26 Ein Gerechter, der vor einem Gottlosen fällt, ist wie ein getrübter Brunnen und eine verderbte Quelle.
 @27 Wer zuviel Honig isst, das ist nicht gut; und wer schwere Dinge erforscht, dem wird's zu schwer.
@@ -834,7 +834,7 @@
 @12 Ein Kluger sieht das Unglück und verbirgt sich; aber die Unverständigen gehen hindurch und leiden Schaden.
 @13 Nimm dem sein Kleid, der für einen anderen Bürge wird, und pfände ihn um der Fremden willen.
 @14 Wenn einer seinen Nächsten des Morgens früh mit lauter Stimme segnet, das wird ihm für einen Fluch gerechnet.
-@15 Ein zänkisches Weib und stetiges Triefen, wenn's sehr regnet, werden wohl miteinander verglichen.
+@15 Eine zänkische Frau und stetiges Triefen, wenn's sehr regnet, werden wohl miteinander verglichen.
 @16 Wer sie aufhält, der hält den Wind und will das Öl mit der Hand fassen.
 @17 Ein Messer wetzt das andere und ein Mann den anderen.
 @18 Wer seinen Feigenbaum bewahrt, der isst Früchte davon; und wer seinen Herrn bewahrt, wird geehrt.
@@ -945,14 +945,14 @@
 # 31
 @1 Dies sind die Worte des Königs Lamuel, die Lehre, die ihn seine Mutter lehrte.
 @2 Ach mein Auserwählter, ach du Sohn meines Leibes, ach mein gewünschter Sohn,
-@3 lass nicht den Weibern deine Kraft und gehe die Wege nicht, darin sich die Könige verderben!
+@3 lass nicht den Frauen deine Kraft und gehe die Wege nicht, darin sich die Könige verderben!
 @4 O, nicht den Königen, Lamuel, nicht den Königen ziemt es, Wein zu trinken, noch den Fürsten starkes Getränk!
 @5 Sie möchten trinken und der Rechte vergessen und verändern die Sache aller elenden Leute.
 @6 Gebt starkes Getränk denen, die am Umkommen sind, und den Wein den betrübten Seelen,
 @7 dass sie trinken und ihres Elends vergessen und ihres Unglücks nicht mehr gedenken.
 @8 Tue deinen Mund auf für die Stummen und für die Sache aller, die verlassen sind.
 @9 Tue deinen Mund auf und richte recht und räche den Elenden und Armen.
-@10 Wem ein tugendsam Weib beschert ist, die ist viel edler denn die köstlichsten Perlen.
+@10 Wem eine tugendsame Frau beschert ist, die ist viel edler denn die köstlichsten Perlen.
 @11 Ihres Mannes Herz darf sich auf sie verlassen, und Nahrung wird ihm nicht mangeln.
 @12 Sie tut ihm Liebes und kein Leides ihr Leben lang.
 @13 Sie geht mit Wolle und Flachs um und arbeitet gern mit ihren Händen.
@@ -972,5 +972,5 @@
 @27 Sie schaut, wie es in ihrem Hause zugeht, und isst ihr Brot nicht mit Faulheit.
 @28 Ihre Söhne stehen auf und preisen sie selig; ihr Mann lobt sie:
 @29 „Viele Töchter halten sich tugendsam; du aber übertriffst sie alle.“
-@30 Lieblich und schön sein ist nichts; ein Weib, das den HErrn fürchtet, soll man loben.
+@30 Lieblich und schön sein ist nichts; eine Frau, die den HErrn fürchtet, soll man loben.
 @31 Sie wird gerühmt werden von den Früchten ihrer Hände, und ihre Werke werden sie loben in den Toren.

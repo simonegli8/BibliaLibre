@@ -4,7 +4,7 @@
 @3 aber zu seiner Zeit hat er offenbart sein Wort durch die Predigt, die mir vertrauet ist nach dem Befehl Gottes, unseres Heilandes,
 @4 dem Titus, meinem rechtschaffenen Sohn nach unser beider Glauben: Gnade, Barmherzigkeit, Friede von Gott, dem Vater, und dem Herrn Jesus Christus, unserem Heiland!
 @5 Derhalben ließ ich dich in Kreta, dass du solltest vollends ausrichten, was ich gelassen habe, und besetzen die Städte hin und her mit Ältesten, wie ich dir befohlen haben;
-@6 wo einer ist untadelig, eines Weibes Mann, der gläubige Kinder habe, nicht berüchtigt, dass sie Schwelger und ungehorsam sind.
+@6 wo einer ist untadelig, einer Frau Mann, der gläubige Kinder habe, nicht berüchtigt, dass sie Schwelger und ungehorsam sind.
 @7 Denn ein Bischof soll untadelig sein als ein Haushalter Gottes, nicht eigensinnig, nicht zornig, nicht ein Weinsäufer, nicht raufen, nicht unehrliche Hantierung treiben;
 @8 sondern gastfrei, gütig, züchtig, gerecht, heilig, keusch,
 @9 und haltend ob dem Wort, das gewiss ist, und lehrhaft, auf dass er mächtig sei, zu ermahnen durch die heilsame Lehre und zu strafen die Widersprecher.
@@ -19,8 +19,8 @@
 # 2
 @1 Du aber rede, wie sich's ziemt nach der heilsamen Lehre:
 @2 den Alten sage, dass sie nüchtern seien, ehrbar, züchtig, gesund im Glauben, in der Liebe, in der Geduld;
-@3 den alten Weibern desgleichen, dass sie sich halten, wie den Heiligen ziemt, nicht Lästerinnen seien, nicht Weinsäuferinnen, gute Lehrerinnen;
-@4 dass sie die jungen Weiber lehren züchtig sein, ihre Männer lieben, Kinder lieben,
+@3 den alten Frauen desgleichen, dass sie sich halten, wie den Heiligen ziemt, nicht Lästerinnen seien, nicht Weinsäuferinnen, gute Lehrerinnen;
+@4 dass sie die jungen Frauen lehren züchtig sein, ihre Männer lieben, Kinder lieben,
 @5 sittig sein, keusch, häuslich, gütig, ihren Männern untertan, auf dass nicht das Wort Gottes verlästert werde.
 @6 Desgleichen die jungen Männer ermahne, dass sie züchtig seien.
 @7 Allenthalben aber stelle dich selbst zum Vorbilde guter Werke, mit unverfälschter Lehre, mit Ehrbarkeit,

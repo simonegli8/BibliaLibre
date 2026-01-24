@@ -13,7 +13,7 @@
 @1 Es wird aber die Zahl der Kinder in Israel sein wie der Sand am Meer, den man weder messen noch zählen kann. Und es soll geschehen an dem Ort, da man zu ihnen gesagt hat: „Ihr seid nicht mein Volk“, wird man zu ihnen sagen: „O ihr Kinder des lebendigen Gottes!“
 @2 Denn es werden die Kinder Juda und die Kinder Israel zuhauf kommen und werden sich miteinander an ein Haupt halten und aus dem Lande heraufziehen; denn der Tag Jesreels wird ein großer Tag sein.
 @3 Sagt euren Brüdern, sie seien mein Volk, und zu eurer Schwester, sie sei in Gnaden.
-@4 Sprecht das Urteil über eure Mutter – sie sei nicht mein Weib, und ich will sie nicht haben! –, heißt sie ihre Hurerei von ihrem Angesichte wegtun und ihre Ehebrecherei von ihren Brüsten,
+@4 Sprecht das Urteil über eure Mutter – sie sei nicht meine Frau, und ich will sie nicht haben! –, heißt sie ihre Hurerei von ihrem Angesichte wegtun und ihre Ehebrecherei von ihren Brüsten,
 @5 auf dass ich sie nicht nackt ausziehe und darstelle, wie sie war, da sie geboren ward, und ich sie nicht mache wie eine Wüste und wie ein dürres Land, dass ich sie nicht Durstes sterben lasse
 @6 und mich ihrer Kinder nicht erbarme, denn sie sind Hurenkinder;
 @7 denn ihre Mutter ist eine Hure, und die sie getragen hat, hält sich schändlich und spricht: Ich will meinen Buhlen nachlaufen, die mir geben Brot, Wasser, Wolle, Flachs, Öl und Trinken.
@@ -37,7 +37,7 @@
 @25 Und ich will sie mir auf Erden zum Samen behalten und mich erbarmen über die, die in Ungnaden war, und sagen zu dem, das nicht mein Volk war: Du bist mein Volk; und es wird sagen: Du bist mein Gott.
 
 # 3
-@1 Und der HErr sprach zu mir: Gehe noch einmal hin und buhle um ein buhlerisches und ehebrecherisches Weib, wie denn der HErr um die Kinder Israel buhlt, und sie doch sich zu fremden Göttern kehren und buhlen um eine Kanne Wein.
+@1 Und der HErr sprach zu mir: Gehe noch einmal hin und buhle um eine buhlerische und ehebrecherische Frau, wie denn der HErr um die Kinder Israel buhlt, und sie doch sich zu fremden Göttern kehren und buhlen um eine Kanne Wein.
 @2 Und ich ward mit ihr eins um fünfzehn Silberlinge und anderthalb Scheffel Gerste
 @3 und sprach zu ihr: Halt dich als die Meine eine lange Zeit und hure nicht und gehöre keinem anderen an; denn ich will mich auch als den Deinen halten.
 @4 Denn die Kinder Israel werden lange Zeit ohne König, ohne Fürsten, ohne Opfer, ohne Altar, ohne Leibrock und ohne Heiligtum bleiben.
@@ -190,7 +190,7 @@
 @10 Ich aber, der HErr, bin dein Gott aus Ägyptenland her, und der dich noch in den Hütten wohnen lässt, wie man zur Festzeit pflegt,
 @11 und rede zu den Propheten; und ich bin's, der so viel Weissagung gibt und durch die Propheten sich anzeigt.
 @12 In Gilead ist Abgötterei, darum werden sie zunichte; und zu Gilgal opfern sie Ochsen, darum sollen ihre Altäre werden wie die Steinhaufen an den Furchen im Felde.
-@13 Jakob musste fliehen in das Land Syrien, und Israel musste um ein Weib dienen, und um ein Weib musste er hüten.
+@13 Jakob musste fliehen in das Land Syrien, und Israel musste um eine Frau dienen, und um eine Frau musste er hüten.
 @14 Aber hernach führte der HErr Israel aus Ägypten durch einen Propheten und ließ ihn hüten durch einen Propheten.
 @15 Nun aber erzürnt ihn Ephraim durch ihre Götzen; darum wird ihr Blut über sie kommen, und ihr HErr wird ihnen vergelten die Schmach, die sie ihm antun.
 
@@ -212,9 +212,9 @@
 @15 Denn wenn er auch zwischen Brüdern Frucht bringt, so wird doch ein Ostwind des HErrn aus der Wüste herauffahren, dass sein Brunnen vertrocknet und seine Quelle versiegt; und er wird rauben den Schatz alles köstlichen Gerätes.
 
 # 14
-@1 Samaria wird wüst werden, denn sie sind ihrem Gott ungehorsam; sie sollen durchs Schwert fallen, und ihre jungen Kinder zerschmettert und ihre schwangeren Weiber zerrissen werden.
+@1 Samaria wird wüst werden, denn sie sind ihrem Gott ungehorsam; sie sollen durchs Schwert fallen, und ihre jungen Kinder zerschmettert und ihre schwangeren Frauen zerrissen werden.
 @2 Bekehre dich, Israel, zu dem HErrn, deinem Gott; denn du bist gefallen um deiner Missetat willen.
-@3 Nehmet diese Worte mit euch und bekehret euch zum HErrn und sprecht zu ihm: Vergib uns alle Sünde und tue uns wohl; so wollen wir opfern die Farren unserer Lippen.
+@3 Nehmet diese Worte mit euch und bekehret euch zum HErrn und sprecht zu ihm: Vergib uns alle Sünde und tue uns wohl; so wollen wir opfern die Stiere unserer Lippen.
 @4 Assur soll uns nicht helfen; wir wollen nicht mehr auf Rossen reiten, auch nicht mehr sagen zu den Werken unserer Hände: „Ihr seid unser Gott“; sondern lass die Waisen bei dir Gnade finden.
 @5 So will ich ihr Abtreten wieder heilen; gerne will ich sie lieben; denn mein Zorn soll sich von ihnen wenden.
 @6 Ich will Israel wie ein Tau sein, dass er soll blühen wie eine Rose, und seine Wurzeln sollen ausschlagen wie der Libanon

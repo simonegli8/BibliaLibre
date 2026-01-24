@@ -4,7 +4,7 @@
 @3 Juda zeugte Perez und Serah von der Thamar. Perez zeugte Hezron. Hezron zeugte Ram.
 @4 Ram zeugte Amminadab. Amminadab zeugte Nahesson. Nahesson zeugte Salma.
 @5 Salma zeugte Boas von der Rahab. Boas zeugte Obed von der Ruth. Obed zeugte Jesse.
-@6 Jesse zeugte den König David. Der König David zeugte Salomo von dem Weib des Uria.
+@6 Jesse zeugte den König David. Der König David zeugte Salomo von der Frau des Uria.
 @7 Salomo zeugte Rehabeam. Rehabeam zeugte Abia. Abia zeugte Asa.
 @8 Asa zeugte Josaphat. Josaphat zeugte Joram. Joram zeugte Usia.
 @9 Usia zeugte Jotham. Jotham zeugte Ahas. Ahas zeugte Hiskia.
@@ -124,11 +124,11 @@
 @25 Sei willfährig deinem Widersacher bald, dieweil du noch bei ihm auf dem Wege bist, auf dass dich der Widersacher nicht dermaleinst überantworte dem Richter, und der Richter überantworte dich dem Diener, und werdest in den Kerker geworfen.
 @26 Ich sage dir wahrlich: Du wirst nicht von dannen herauskommen, bis du auch den letzten Heller bezahlest.
 @27 Ihr habt gehört, dass zu den Alten gesagt ist: „Du sollst nicht ehebrechen.“
-@28 Ich aber sage euch: Wer ein Weib ansieht, ihrer zu begehren, der hat schon mit ihr die Ehe gebrochen in seinem Herzen.
+@28 Ich aber sage euch: Wer eine Frau ansieht, ihrer zu begehren, der hat schon mit ihr die Ehe gebrochen in seinem Herzen.
 @29 Ärgert dich aber dein rechtes Auge, so reiß es aus und wirf's von dir. Es ist dir besser, dass eins deiner Glieder verderbe, und nicht der ganze Leib in die Hölle geworfen werde.
 @30 Ärgert dich deine rechte Hand, so haue sie ab und wirf sie von dir. Es ist dir besser, dass eins deiner Glieder verderbe, und nicht der ganze Leib in die Hölle geworfen werde.
-@31 Es ist auch gesagt: „Wer sich von seinem Weibe scheidet, der soll ihr geben einen Scheidebrief.“
-@32 Ich aber sage euch: Wer sich von seinem Weibe scheidet (es sei denn um Ehebruch), der macht, dass sie die Ehe bricht; und wer eine Abgeschiedene freit, der bricht die Ehe.
+@31 Es ist auch gesagt: „Wer sich von seiner Frau scheidet, der soll ihr geben einen Scheidebrief.“
+@32 Ich aber sage euch: Wer sich von seiner Frau scheidet (es sei denn um Ehebruch), der macht, dass sie die Ehe bricht; und wer eine Abgeschiedene freit, der bricht die Ehe.
 @33 Ihr habt weiter gehört, dass zu den Alten gesagt ist: „Du sollst keinen falschen Eid tun und sollst Gott deinen Eid halten.“
 @34 Ich aber sage euch, dass ihr überhaupt nicht schwören sollt, weder bei dem Himmel, denn er ist Gottes Stuhl,
 @35 noch bei der Erde, denn sie ist seiner Füße Schemel, noch bei Jerusalem, denn sie ist des großen Königs Stadt.
@@ -269,9 +269,9 @@
 @17 Man fasst auch nicht Most in alte Schläuche; sonst zerreißen die Schläuche und der Most wird verschüttet, und die Schläuche kommen um. Sondern man fasst Most in neue Schläuche, so werden sie beide miteinander erhalten.
 @18 Da er solches mit ihnen redete, siehe, da kam der Obersten einer und fiel vor ihm nieder und sprach: Herr, meine Tochter ist jetzt gestorben; aber komm und lege deine Hand auf sie, so wird sie lebendig.
 @19 Und Jesus stand auf und folgte ihm nach und seine Jünger.
-@20 Und siehe, ein Weib, das zwölf Jahre den Blutgang gehabt, trat von hinten zu ihm und rührte seines Kleides Saum an.
+@20 Und siehe, eine Frau, die zwölf Jahre den Blutgang gehabt, trat von hinten zu ihm und rührte seines Kleides Saum an.
 @21 Denn sie sprach bei sich selbst: Möchte ich nur sein Kleid anrühren, so würde ich gesund.
-@22 Da wandte sich Jesus um und sah sie und sprach: Sei getrost, meine Tochter; dein Glaube hat dir geholfen. Und das Weib ward gesund zu derselben Stunde.
+@22 Da wandte sich Jesus um und sah sie und sprach: Sei getrost, meine Tochter; dein Glaube hat dir geholfen. Und die Frau ward gesund zu derselben Stunde.
 @23 Und als er in des Obersten Haus kam und sah die Pfeifer und das Getümmel des Volks,
 @24 sprach er zu ihnen: Weichet! denn das Mägdlein ist nicht tot, sondern es schläft. Und sie verlachten ihn.
 @25 Als aber das Volk hinausgetrieben war, ging er hinein und ergriff es bei der Hand; da stand das Mädglein auf.
@@ -344,7 +344,7 @@
 @8 Oder was seid ihr hinausgegangen zu sehen? Wolltet ihr einen Menschen in weichen Kleidern sehen? Siehe, die da weiche Kleider tragen, sind in der Könige Häusern.
 @9 Oder was seid ihr hinausgegangen zu sehen? Wolltet ihr einen Propheten sehen? Ja, ich sage euch, der auch mehr ist denn ein Prophet.
 @10 Denn dieser ist's, von dem geschrieben steht: „Siehe, ich sende meinen Engel vor dir her, der deinen Weg vor dir bereiten soll.“
-@11 Wahrlich ich sage euch: Unter allen, die von Weibern geboren sind, ist nicht aufgekommen, der größer sei denn Johannes der Täufer; der aber der Kleinste ist im Himmelreich, ist größer denn er.
+@11 Wahrlich ich sage euch: Unter allen, die von Frauen geboren sind, ist nicht aufgekommen, der größer sei denn Johannes der Täufer; der aber der Kleinste ist im Himmelreich, ist größer denn er.
 @12 Aber von den Tagen Johannes des Täufers bis hierher leidet das Himmelreich Gewalt, und die Gewalt tun, die reißen es an sich.
 @13 Denn alle Propheten und das Gesetz haben geweissagt bis auf Johannes.
 @14 Und (so ihr's wollt annehmen) er ist Elia, der da soll zukünftig sein.
@@ -450,7 +450,7 @@
 @30 Lasset beides miteinander wachsen bis zu der Ernte; und um der Ernte Zeit will ich zu den Schnittern sagen: Sammelt zuvor das Unkraut und bindet es in Bündlein, dass man es verbrenne; aber den Weizen sammelt mir in meine Scheuer.
 @31 Ein anderes Gleichnis legte er ihnen vor und sprach: Das Himmelreich ist gleich einem Senfkorn, das ein Mensch nahm und säte es auf seinen Acker;
 @32 welches das kleinste ist unter allem Samen; wenn es aber erwächst, so ist es das größte unter dem Kohl und wird ein Baum, dass die Vögel unter dem Himmel kommen und wohnen unter seinen Zweigen.
-@33 Ein anderes Gleichnis redete er zu ihnen: Das Himmelreich ist einem Sauerteig gleich, den ein Weib nahm und vermengte ihn unter drei Scheffel Mehl, bis dass es ganz durchsäuert ward.
+@33 Ein anderes Gleichnis redete er zu ihnen: Das Himmelreich ist einem Sauerteig gleich, den eine Frau nahm und vermengte ihn unter drei Scheffel Mehl, bis dass es ganz durchsäuert ward.
 @34 Solches alles redete Jesus durch Gleichnisse zu dem Volk, und ohne Gleichnis redete er nicht zu ihnen,
 @35 auf dass erfüllet würde, was gesagt ist durch den Propheten, der da spricht: Ich will meinen Mund auftun in Gleichnissen und will aussprechen die Heimlichkeiten von Anfang der Welt.
 @36 Da ließ Jesus das Volk von sich und kam heim. Und seine Jünger traten zu ihm und sprachen: Deute uns das Gleichnis vom Unkraut auf dem Acker.
@@ -480,8 +480,8 @@
 # 14
 @1 Zu der Zeit kam das Gerücht von Jesu vor den Vierfürsten Herodes.
 @2 Und er sprach zu seinen Knechten: Dieser ist Johannes der Täufer; er ist von den Toten auferstanden, darum tut er solche Taten.
-@3 Denn Herodes hatte Johannes gegriffen, gebunden und in das Gefängnis gelegt wegen der Herodias, seines Bruders Philippus Weib.
-@4 Denn Johannes hatte zu ihm gesagt: Es ist nicht recht, dass du sie habest.
+@3 Denn Herodes hatte Johannes gegriffen, gebunden und in das Gefängnis gelegt wegen der Herodias, seines Bruders Philippus Frau.
+@4 Denn Johannes hatte zu ihm gesagt: Es ist nicht recht, dass du sie hast.
 @5 Und er hätte ihn gern getötet, fürchtete sich aber vor dem Volk; denn sie hielten ihn für einen Propheten.
 @6 Da aber Herodes seinen Jahrestag beging, da tanzte die Tochter der Herodias vor ihnen. Das gefiel Herodes wohl.
 @7 Darum verhieß er ihr mit einem Eide, er wollte ihr geben, was sie fordern würde.
@@ -498,7 +498,7 @@
 @18 Und er sprach: Bringet sie mir her.
 @19 Und er hieß das Volk sich lagern auf das Gras und nahm die fünf Brote und die zwei Fische, sah auf gen Himmel und dankte und brach's und gab die Brote den Jüngern, und die Jünger gaben sie dem Volk.
 @20 Und sie aßen alle und wurden satt und hoben auf, was übrigblieb von Brocken, zwölf Körbe voll.
-@21 Die aber gegessen hatten waren, waren bei fünftausend Mann, ohne Weiber und Kinder.
+@21 Die aber gegessen hatten waren, waren bei fünftausend Mann, ohne Frauen und Kinder.
 @22 Und alsbald trieb Jesus seine Jünger, dass sie in das Schiff traten und vor ihm herüberfuhren, bis er das Volk von sich ließe.
 @23 Und da er das Volk von sich gelassen hatte, stieg er auf einen Berg allein, dass er betete. Und am Abend war er allein daselbst.
 @24 Und das Schiff war schon mitten auf dem Meer und litt Not von den Wellen; denn der Wind war ihnen zuwider.
@@ -537,13 +537,13 @@
 @19 Denn aus dem Herzen kommen arge Gedanken: Mord, Ehebruch, Hurerei, Dieberei, falsch Zeugnis, Lästerung.
 @20 Das sind die Stücke, die den Menschen verunreinigen. Aber mit ungewaschenen Händen essen verunreinigt den Menschen nicht.
 @21 Und Jesus ging aus von dannen und entwich in die Gegend von Tyrus und Sidon.
-@22 Und siehe, ein kanaanäisches Weib kam aus derselben Gegend und schrie ihm nach und sprach: Ach Herr, du Sohn Davids, erbarme dich mein! Meine Tochter wird vom Teufel übel geplagt.
+@22 Und siehe, eine kanaanäische Frau kam aus derselben Gegend und schrie ihm nach und sprach: Ach Herr, du Sohn Davids, erbarme dich mein! Meine Tochter wird von einem Dämon übel geplagt.
 @23 Und er antwortete ihr kein Wort. Da traten zu ihm seine Jünger, baten ihn und sprachen: Lass sie doch von dir, denn sie schreit uns nach.
 @24 Er antwortete aber und sprach: Ich bin nicht gesandt denn nur zu den verlorenen Schafen von dem Hause Israel.
 @25 Sie kam aber und fiel vor ihm nieder und sprach: Herr, hilf mir!
 @26 Aber er antwortete und sprach: Es ist nicht fein, dass man den Kindern ihr Brot nehme und werfe es vor die Hunde.
 @27 Sie sprach: Ja, Herr; aber doch essen die Hündlein von den Brosamen, die von ihrer Herren Tisch fallen.
-@28 Da antwortete Jesus und sprach zu ihr: O Weib, dein Glaube ist groß! Dir geschehe, wie du willst. Und ihre Tochter ward gesund zu derselben Stunde.
+@28 Da antwortete Jesus und sprach zu ihr: O Frau, dein Glaube ist groß! Dir geschehe, wie du willst. Und ihre Tochter ward gesund zu derselben Stunde.
 @29 Und Jesus ging von da weiter und kam an das Galiläische Meer und ging auf einen Berg und setzte sich allda.
 @30 Und es kam zu ihm viel Volks, die hatten mit sich Lahme, Blinde, Stumme, Krüppel und viele andere und warfen sie Jesu vor die Füße, und er heilte sie,
 @31 dass sich das Volk verwunderte, da sie sahen, dass die Stummen redeten, die Krüppel gesund waren, die Lahmen gingen, die Blinden sahen; und sie priesen den Gott Israels.
@@ -553,7 +553,7 @@
 @35 Und er hieß das Volk sich lagern auf die Erde
 @36 und nahm die sieben Brote und die Fische, dankte, brach sie und gab sie seinen Jüngern; und die Jünger gaben sie dem Volk.
 @37 Und sie aßen alle und wurden satt; und hoben auf, was übrig blieb von Brocken, sieben Körbe voll.
-@38 Und die da gegessen hatten, derer waren viertausend Mann, ausgenommen Weiber und Kinder.
+@38 Und die da gegessen hatten, derer waren viertausend Mann, ausgenommen Frauen und Kinder.
 @39 Und da er das Volk hatte von sich gelassen, trat er in ein Schiff und kam in das Gebiet Magdalas.
 
 # 16
@@ -640,7 +640,7 @@
 @22 Jesus sprach zu ihm: Ich sage dir: Nicht siebenmal, sondern siebzigmal siebenmal.
 @23 Darum ist das Himmelreich gleich einem König, der mit seinen Knechten rechnen wollte.
 @24 Und als er anfing zu rechnen, kam ihm einer vor, der war ihm zehntausend Pfund schuldig.
-@25 Da er's nun nicht hatte, zu bezahlen, hieß der Herr verkaufen ihn und sein Weib und seine Kinder und alles, was er hatte, und bezahlen.
+@25 Da er's nun nicht hatte, zu bezahlen, hieß der Herr verkaufen ihn und seine Frau und seine Kinder und alles, was er hatte, und bezahlen.
 @26 Da fiel der Knecht nieder und betete ihn an und sprach: Herr, habe Geduld mit mir, ich will dir's alles bezahlen.
 @27 Da jammerte den Herrn des Knechtes, und er ließ ihn los, und die Schuld erließ er ihm auch.
 @28 Da ging derselbe Knecht hinaus und fand einen seiner Mitknechte, der war ihm hundert Groschen schuldig; und er griff ihn an und würgte ihn und sprach: Bezahle mir, was du mir schuldig bist!
@@ -655,14 +655,14 @@
 # 19
 @1 Und es begab sich, da Jesus diese Reden vollendet hatte, erhob er sich aus Galiläa und kam in das Gebiet des jüdischen Landes jenseits des Jordans;
 @2 und es folgte ihm viel Volks nach, und er heilte sie daselbst.
-@3 Da traten zu ihm die Pharisäer, versuchten ihn und sprachen zu ihm: Ist's auch recht, dass sich ein Mann scheide von seinem Weibe um irgendeine Ursache?
-@4 Er antwortete aber und sprach zu ihnen: Habt ihr nicht gelesen, dass, der im Anfang den Menschen gemacht hat, der machte, dass ein Mann und ein Weib sein sollte,
-@5 und sprach: „Darum wird ein Mensch Vater und Mutter verlassen und an seinem Weibe hangen, und werden die zwei ein Fleisch sein“?
+@3 Da traten zu ihm die Pharisäer, versuchten ihn und sprachen zu ihm: Ist's auch recht, dass sich ein Mann scheide von seiner Frau um irgendeine Ursache?
+@4 Er antwortete aber und sprach zu ihnen: Habt ihr nicht gelesen, dass, der im Anfang den Menschen gemacht hat, der machte, dass sie ein Mann und eine Frau sein sollten,
+@5 und sprach: „Darum wird ein Mensch Vater und Mutter verlassen und an seiner Frau hangen, und werden die zwei ein Fleisch sein“?
 @6 So sind sie nun nicht zwei, sondern ein Fleisch. Was nun Gott zusammengefügt hat, das soll der Mensch nicht scheiden.
 @7 Da sprachen sie: Warum hat denn Mose geboten, einen Scheidebrief zu geben und sich von ihr zu scheiden?
-@8 Er sprach zu ihnen: Mose hat euch erlaubt zu scheiden von euren Weibern wegen eures Herzens Härtigkeit; von Anbeginn aber ist's nicht also gewesen.
-@9 Ich sage aber euch: Wer sich von seinem Weibe scheidet (es sei denn um der Hurerei willen) und freit eine andere, der bricht die Ehe; und wer die Abgeschiedene freit, der bricht auch die Ehe.
-@10 Da sprachen die Jünger zu ihm: Steht die Sache eines Mannes mit seinem Weibe also, so ist's nicht gut, ehelich werden.
+@8 Er sprach zu ihnen: Mose hat euch erlaubt zu scheiden von euren Frauen wegen eures Herzens Härtigkeit; von Anbeginn aber ist's nicht also gewesen.
+@9 Ich sage aber euch: Wer sich von seiner Frau scheidet (es sei denn um der Hurerei willen) und freit eine andere, der bricht die Ehe; und wer die Abgeschiedene freit, der bricht auch die Ehe.
+@10 Da sprachen die Jünger zu ihm: Steht die Sache eines Mannes mit seiner Frau also, so ist's nicht gut, ehelich werden.
 @11 Er sprach aber zu ihnen: Das Wort fasst nicht jedermann, sondern denen es gegeben ist.
 @12 Denn es sind etliche verschnitten, die sind aus Mutterleibe also geboren; und sind etliche verschnitten, die von Menschen verschnitten sind; und sind etliche verschnitten, die sich selbst verschnitten haben um des Himmelreiches willen. Wer es fassen kann, der fasse es!
 @13 Da wurden Kindlein zu ihm gebracht, dass er die Hände auf sie legte und betete. Die Jünger aber fuhren sie an.
@@ -681,7 +681,7 @@
 @26 Jesus aber sah sie an und sprach zu ihnen: Bei den Menschen ist's unmöglich; aber bei Gott sind alle Dinge möglich.
 @27 Da antwortete Petrus und sprach zu ihm: Siehe, wir haben alles verlassen und sind dir nachgefolgt; was wird uns dafür?
 @28 Jesus aber sprach zu ihnen: Wahrlich ich sage euch: Ihr, die ihr mir seid nachgefolgt, werdet in der Wiedergeburt, da des Menschen Sohn wird sitzen auf dem Stuhl seiner Herrlichkeit, auch sitzen auf zwölf Stühlen und richten die zwölf Geschlechter Israels.
-@29 Und wer verlässt Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Weib oder Kinder oder Äcker um meines Namens willen, der wird's hundertfältig nehmen und das ewige Leben ererben.
+@29 Und wer verlässt Häuser oder Brüder oder Schwestern oder Vater oder Mutter oder Frau oder Kinder oder Äcker um meines Namens willen, der wird's hundertfältig nehmen und das ewige Leben ererben.
 @30 Aber viele, die da sind die Ersten, werden die Letzten, und die Letzten werden die Ersten sein.
 
 # 20
@@ -792,11 +792,11 @@
 @21 Sie sprachen zu ihm: Des Kaisers. Da sprach er zu ihnen: So gebet dem Kaiser, was des Kaisers ist, und Gott, was Gottes ist!
 @22 Da sie das hörten, verwunderten sie sich und ließen ihn und gingen davon.
 @23 An dem Tage traten zu ihm die Sadduzäer, die da halten, es sei kein Auferstehen, und fragten ihn
-@24 und sprachen: Meister, Mose hat gesagt: So einer stirbt und hat nicht Kinder, so soll sein Bruder sein Weib freien und seinem Bruder Samen erwecken.
-@25 Nun sind bei uns gewesen sieben Brüder. Der erste freite und starb; und dieweil er nicht Samen hatte, ließ er sein Weib seinem Bruder;
+@24 und sprachen: Meister, Mose hat gesagt: So einer stirbt und hat nicht Kinder, so soll sein Bruder seine Frau freien und seinem Bruder Samen erwecken.
+@25 Nun sind bei uns gewesen sieben Brüder. Der erste freite und starb; und dieweil er nicht Samen hatte, ließ er seine Frau seinem Bruder;
 @26 desgleichen der andere und der dritte bis an den siebenten.
-@27 Zuletzt nach allen starb auch das Weib.
-@28 Nun in der Auferstehung, wes Weib wird sie sein unter den sieben? Sie haben sie ja alle gehabt.
+@27 Zuletzt nach allen starb auch die Frau.
+@28 Nun in der Auferstehung, wessen Frau wird sie sein unter den sieben? Sie haben sie ja alle gehabt.
 @29 Jesus aber antwortete und sprach zu ihnen: Ihr irret und wisset die Schrift nicht, noch die Kraft Gottes.
 @30 In der Auferstehung werden sie weder freien noch sich freien lassen, sondern sie sind gleichwie die Engel Gottes im Himmel.
 @31 Habt ihr aber nicht gelesen von der Toten Auferstehung, was euch gesagt ist von Gott, der da spricht:
@@ -965,10 +965,10 @@
 @4 und hielten Rat, wie sie Jesum mit List griffen und töteten.
 @5 Sie sprachen aber: Ja nicht auf das Fest, auf dass nicht ein Aufruhr werde im Volk!
 @6 Da nun Jesus war zu Bethanien im Hause Simons, des Aussätzigen,
-@7 da trat zu ihm ein Weib, das hatte ein Glas mit köstlichem Wasser und goss es auf sein Haupt, da er zu Tische saß.
+@7 da trat zu ihm eine Frau, die hatte ein alabasterne Flasche mit kostbarem Salböl und goss es auf sein Haupt, da er zu Tische saß.
 @8 Da das seine Jünger sahen, wurden sie unwillig und sprachen: Wozu dient diese Vergeudung?
 @9 Dieses Wasser hätte mögen teuer verkauft und den Armen gegeben werden.
-@10 Da das Jesus merkte, sprach er zu ihnen: Was bekümmert ihr das Weib? Sie hat ein gutes Werk an mir getan.
+@10 Da das Jesus merkte, sprach er zu ihnen: Was bekümmert ihr die Frau? Sie hat ein gutes Werk an mir getan.
 @11 Ihr habt allezeit Arme bei euch; mich aber habt ihr nicht allezeit.
 @12 Dass sie dies Wasser hat auf meinen Leib gegossen, hat sie getan, dass sie mich zum Grabe bereite.
 @13 Wahrlich ich sage euch: Wo dies Evangelium gepredigt wird in der ganzen Welt, da wird man auch sagen zu ihrem Gedächtnis, was sie getan hat.
@@ -1054,7 +1054,7 @@
 @16 Er hatte aber zu der Zeit einen Gefangenen, einen sonderlichen vor anderen, der hieß Barabbas.
 @17 Und da sie versammelt waren, sprach Pilatus zu ihnen: Welchen wollt ihr, dass ich euch losgebe? Barabbas oder Jesus, von dem gesagt wird, er sei Christus?
 @18 Denn er wusste wohl, dass sie ihn aus Neid überantwortet hatten.
-@19 Und da er auf dem Richtstuhl saß, schickte sein Weib zu ihm und ließ ihm sagen: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum seinetwegen.
+@19 Und da er auf dem Richtstuhl saß, schickte seine Frau zu ihm und ließ ihm sagen: Habe du nichts zu schaffen mit diesem Gerechten; ich habe heute viel erlitten im Traum seinetwegen.
 @20 Aber die Hohenpriester und die Ältesten überredeten das Volk, dass sie um Barabbas bitten sollten und Jesum umbrächten.
 @21 Da antwortete nun der Landpfleger und sprach zu ihnen: Welchen wollt ihr unter diesen zweien, den ich euch soll losgeben? Sie sprachen: Barabbas.
 @22 Pilatus sprach zu ihnen: Was soll ich denn machen mit Jesus, von dem gesagt wird, er sei Christus? Sie sprachen alle: Lass ihn kreuzigen!
@@ -1090,7 +1090,7 @@
 @52 Und die Erde erbebte, und die Felsen zerrissen, und die Gräber taten sich auf, und standen auf viele Leiber der Heiligen, die da schliefen,
 @53 und gingen aus den Gräbern nach seiner Auferstehung und kamen in die heilige Stadt und erschienen vielen.
 @54 Aber der Hauptmann und die bei ihm waren und bewahrten Jesum, da sie sahen das Erdbeben und was da geschah, erschraken sie sehr und sprachen: Wahrlich, dieser ist Gottes Sohn gewesen!
-@55 Und es waren viele Weiber da, die von ferne zusahen, die da Jesu waren nachgefolgt aus Galiläa und hatten ihm gedient;
+@55 Und es waren viele Frauen da, die von ferne zusahen, die da Jesu waren nachgefolgt aus Galiläa und hatten ihm gedient;
 @56 unter welchen war Maria Magdalena und Maria, die Mutter des Jakobus und Joses, und die Mutter der Kinder des Zebedäus.
 @57 Am Abend aber kam ein reicher Mann von Arimathia, der hieß Joseph, welcher auch ein Jünger Jesu war.
 @58 Der ging zu Pilatus und bat ihn um den Leib Jesu. Da befahl Pilatus man sollte ihm ihn geben.
@@ -1108,7 +1108,7 @@
 @2 Und siehe, es geschah ein großes Erdbeben. Denn der Engel des Herrn kam vom Himmel herab, trat hinzu und wälzte den Stein von der Tür und setzte sich darauf.
 @3 Und seine Gestalt war wie der Blitz und sein Kleid weiß wie Schnee.
 @4 Die Hüter aber erschraken vor Furcht und wurden, als wären sie tot.
-@5 Aber der Engel antwortete und sprach zu den Weibern: Fürchtet euch nicht! Ich weiß, dass ihr Jesum, den Gekreuzigten, suchet.
+@5 Aber der Engel antwortete und sprach zu den Frauen: Fürchtet euch nicht! Ich weiß, dass ihr Jesum, den Gekreuzigten, suchet.
 @6 Er ist nicht hier; er ist auferstanden, wie er gesagt hat. Kommet her und sehet die Stätte, da der Herr gelegen hat.
 @7 Und gehet eilend hin und saget es seinen Jüngern, dass er auferstanden sei von den Toten. Und siehe, er wird vor euch hingehen nach Galiläa; da werdet ihr ihn sehen. Siehe, ich habe es euch gesagt.
 @8 Und sie gingen eilend zum Grabe hinaus mit Furcht und großer Freude und liefen, dass sie es seinen Jüngern verkündigten. Und da sie gingen seinen Jüngern zu verkündigen,

@@ -55,7 +55,7 @@
 @1 Und am dritten Tage ward eine Hochzeit zu Kana in Galiläa; und die Mutter Jesu war da.
 @2 Jesus aber und seine Jünger wurden auch auf die Hochzeit geladen.
 @3 Und da es an Wein gebrach, spricht die Mutter Jesu zu ihm: Sie haben nicht Wein.
-@4 Jesus spricht zu ihr: Weib, was habe ich mit dir zu schaffen? Meine Stunde ist noch nicht gekommen.
+@4 Jesus spricht zu ihr: Frau, was habe ich mit dir zu schaffen? Meine Stunde ist noch nicht gekommen.
 @5 Seine Mutter spricht zu den Dienern: Was er euch sagt, das tut.
 @6 Es waren aber allda sechs steinerne Wasserkrüge gesetzt nach der Weise der jüdischen Reinigung, und ging in je einen zwei oder drei Maß.
 @7 Jesus spricht zu ihnen: Füllet die Wasserkrüge mit Wasser! Und sie füllten sie bis obenan.
@@ -123,28 +123,28 @@
 @4 Er musste aber durch Samaria reisen.
 @5 Da kam er in eine Stadt Samarias, die heißt Sichar, nahe bei dem Feld, das Jakob seinem Sohn Joseph gab.
 @6 Es war aber daselbst Jakobs Brunnen. Da nun Jesus müde war von der Reise, setzte er sich also auf den Brunnen; und es war um die sechste Stunde.
-@7 Da kommt ein Weib aus Samaria, Wasser zu schöpfen. Jesus spricht zu ihr: Gib mir zu trinken!
+@7 Da kommt eine Frau aus Samaria, Wasser zu schöpfen. Jesus spricht zu ihr: Gib mir zu trinken!
 @8 (Denn seine Jünger waren in die Stadt gegangen, dass sie Speise kauften.)
-@9 Spricht nun das samaritische Weib zu ihm: Wie bittest du von mir zu trinken, so du ein Jude bist, und ich ein samaritisch Weib? (Denn die Juden haben keine Gemeinschaft mit den Samaritern.)
+@9 Spricht nun die samaritische Frau zu ihm: Wie bittest du von mir zu trinken, so du ein Jude bist, und ich eine samaritisch Frau? (Denn die Juden haben keine Gemeinschaft mit den Samaritern.)
 @10 Jesus antwortete und sprach zu ihr: Wenn du erkenntest die Gabe Gottes und wer der ist, der zu dir sagt: „Gib mir zu trinken!“, du bätest ihn, und er gäbe dir lebendiges Wasser.
-@11 Spricht zu ihm das Weib: Herr, hast du doch nichts, womit du schöpfest, und der Brunnen ist tief; woher hast du denn lebendiges Wasser?
+@11 Spricht zu ihm die Frau: Herr, hast du doch nichts, womit du schöpfest, und der Brunnen ist tief; woher hast du denn lebendiges Wasser?
 @12 Bist du mehr denn unser Vater Jakob, der uns diesen Brunnen gegeben hat? Und er hat daraus getrunken und seine Kinder und sein Vieh.
 @13 Jesus antwortete und sprach zu ihr: Wer von diesem Wasser trinkt, den wird wieder dürsten;
 @14 wer aber von dem Wasser trinken wird, das ich ihm gebe, den wird ewiglich nicht dürsten; sondern das Wasser, das ich ihm geben werde, das wird in ihm ein Brunnen des Wassers werden, das in das ewige Leben quillt.
-@15 Spricht das Weib zu ihm: Herr, gib mir dieses Wasser, auf dass mich nicht dürste und ich nicht herkommen müsse, zu schöpfen!
+@15 Spricht die Frau zu ihm: Herr, gib mir dieses Wasser, auf dass mich nicht dürste und ich nicht herkommen müsse, zu schöpfen!
 @16 Jesus spricht zu ihr: Gehe hin, rufe deinen Mann und komm her!
-@17 Das Weib antwortete und sprach zu ihm: Ich habe keinen Mann. Jesus spricht zu ihr: Du hast recht gesagt: Ich habe keinen Mann.
+@17 Die Frau antwortete und sprach zu ihm: Ich habe keinen Mann. Jesus spricht zu ihr: Du hast recht gesagt: Ich habe keinen Mann.
 @18 Fünf Männer hast du gehabt, und den du nun hast, der ist nicht dein Mann; da hast du recht gesagt.
-@19 Das Weib spricht zu ihm: Herr, ich sehe, dass du ein Prophet bist.
+@19 Die Frau spricht zu ihm: Herr, ich sehe, dass du ein Prophet bist.
 @20 Unsere Väter haben auf diesem Berge angebetet, und ihr sagt, zu Jerusalem sei die Stätte, da man anbeten solle.
-@21 Jesus spricht zu ihr: Weib, glaube mir, es kommt die Zeit, dass ihr weder auf diesem Berge noch zu Jerusalem werdet den Vater anbeten.
+@21 Jesus spricht zu ihr: Frau, glaube mir, es kommt die Zeit, dass ihr weder auf diesem Berge noch zu Jerusalem werdet den Vater anbeten.
 @22 Ihr wisset nicht, was ihr anbetet; wir wissen aber, was wir anbeten, denn das Heil kommt von den Juden.
 @23 Aber es kommt die Zeit und ist schon jetzt, dass die wahrhaftigen Anbeter werden den Vater anbeten im Geist und in der Wahrheit; denn der Vater will haben, die ihn also anbeten.
 @24 Gott ist Geist, und die ihn anbeten, die müssen ihn im Geist und in der Wahrheit anbeten.
-@25 Spricht das Weib zu ihm: Ich weiß, dass der Messias kommt, der da Christus heißt. Wenn derselbe kommen wird, so wird er's uns alles verkündigen.
+@25 Spricht die Frau zu ihm: Ich weiß, dass der Messias kommt, der da Christus heißt. Wenn derselbe kommen wird, so wird er's uns alles verkündigen.
 @26 Jesus spricht zu ihr: Ich bin's, der mit dir redet.
-@27 Und über dem kamen seine Jünger, und es nahm sie wunder, dass er mit dem Weib redete. Doch sprach niemand: Was fragst du? oder: Was redest du mit ihr?
-@28 Da ließ das Weib ihren Krug stehen und ging hin in die Stadt und spricht zu den Leuten:
+@27 Und über dem kamen seine Jünger, und es nahm sie wunder, dass er mit dem Frau redete. Doch sprach niemand: Was fragst du? oder: Was redest du mit ihr?
+@28 Da ließ die Frau ihren Krug stehen und ging hin in die Stadt und spricht zu den Leuten:
 @29 Kommt, sehet einen Menschen, der mir gesagt hat alles, was ich getan habe, ob er nicht Christus sei!
 @30 Da gingen sie aus der Stadt und kamen zu ihm.
 @31 Indes aber ermahnten ihn die Jünger und sprachen: Rabbi, iss!
@@ -155,10 +155,10 @@
 @36 Und wer da schneidet, der empfängt Lohn und sammelt Frucht zum ewigen Leben, auf dass sich miteinander freuen, der da sät und der da schneidet.
 @37 Denn hier ist der Spruch wahr: Dieser sät, der andere schneidet.
 @38 Ich habe euch gesandt, zu schneiden, was ihr nicht gearbeitet habt; andere haben gearbeitet, und ihr seid in ihre Arbeit gekommen.
-@39 Es glaubten aber an ihn viele der Samariter aus der Stadt um des Weibes Rede willen, welches da zeugte: Er hat mir gesagt alles, was ich getan habe.
+@39 Es glaubten aber an ihn viele der Samariter aus der Stadt um der Frau Rede willen, welches da zeugte: Er hat mir gesagt alles, was ich getan habe.
 @40 Als nun die Samariter zu ihm kamen, baten sie ihn, dass er bei ihnen bliebe; und er blieb zwei Tage da.
 @41 Und viel mehr glaubten um seines Wortes willen
-@42 und sprachen zum Weibe: Wir glauben nun hinfort nicht um deiner Rede willen; wir haben selber gehört und erkannt, dass dieser ist wahrlich Christus, der Welt Heiland.
+@42 und sprachen zur Frau: Wir glauben nun hinfort nicht um deiner Rede willen; wir haben selber gehört und erkannt, dass dieser ist wahrlich Christus, der Welt Heiland.
 @43 Aber nach zwei Tagen zog er aus von dannen und zog nach Galiläa.
 @44 Denn er selber, Jesus, zeugte, dass ein Prophet daheim nichts gilt.
 @45 Da er nun nach Galiläa kam, nahmen ihn die Galiläer auf, die gesehen hatten alles, was er zu Jerusalem auf dem Fest getan hatte; denn sie waren auch zum Fest gekommen.
@@ -352,14 +352,14 @@
 # 8
 @1 Jesus aber ging an den Ölberg.
 @2 Und frühmorgens kam er wieder in den Tempel, und alles Volk kam zu ihm; und er setzte sich und lehrte sie.
-@3 Aber die Schriftgelehrten und Pharisäer brachten ein Weib zu ihm, im Ehebruch ergriffen, und stellten sie in die Mitte dar
-@4 und sprachen zu ihm: Meister, dies Weib ist ergriffen auf frischer Tat im Ehebruch.
+@3 Aber die Schriftgelehrten und Pharisäer brachten eine Frau zu ihm, im Ehebruch ergriffen, und stellten sie in die Mitte dar
+@4 und sprachen zu ihm: Meister, diese Frau ist ergriffen auf frischer Tat im Ehebruch.
 @5 Mose aber hat uns im Gesetz geboten, solche zu steinigen; was sagst du?
 @6 Das sprachen sie aber, ihn zu versuchen, auf dass sie eine Sache wider ihn hätten. Aber Jesus bückte sich nieder und schrieb mit dem Finger auf die Erde.
 @7 Als sie nun anhielten, ihn zu fragen, richtete er sich auf und sprach zu ihnen: Wer unter euch ohne Sünde ist, der werfe den ersten Stein auf sie.
 @8 Und bückte sich wieder nieder und schrieb auf die Erde.
-@9 Da sie aber das hörten, gingen sie hinaus (von ihrem Gewissen überführt), einer nach dem anderen, von den Ältesten an bis zu den Geringsten; und Jesus ward gelassen allein und das Weib in der Mitte stehend.
-@10 Jesus aber richtete sich auf; und da er niemand sah denn das Weib, sprach er zu ihr: Weib, wo sind sie, deine Verkläger? Hat dich niemand verdammt?
+@9 Da sie aber das hörten, gingen sie hinaus (von ihrem Gewissen überführt), einer nach dem anderen, von den Ältesten an bis zu den Geringsten; und Jesus ward gelassen allein und die Frau in der Mitte stehend.
+@10 Jesus aber richtete sich auf; und da er niemand sah denn die Frau, sprach er zu ihr: Frau, wo sind sie, deine Verkläger? Hat dich niemand verdammt?
 @11 Sie aber sprach: Herr, niemand. Jesus aber sprach: So verdamme ich dich auch nicht; gehe hin und sündige hinfort nicht mehr!
 @12 Da redete Jesus abermals zu ihnen und sprach: Ich bin das Licht der Welt; wer mir nachfolgt, der wird nicht wandeln in der Finsternis, sondern wird das Licht des Lebens haben.
 @13 Da sprachen die Pharisäer zu ihm: Du zeugst von dir selbst; dein Zeugnis ist nicht wahr.
@@ -731,7 +731,7 @@
 @18 Da sprachen sie: Was ist das, was er sagt: Über ein kleines? Wir wissen nicht, was er redet.
 @19 Da merkte Jesus, dass sie ihn fragen wollten, und sprach zu ihnen: Davon fraget ihr untereinander, dass ich gesagt habe: Über ein kleines, so werdet ihr mich nicht sehen; und aber über ein kleines, so werdet ihr mich sehen.
 @20 Wahrlich, wahrlich ich sage euch: Ihr werdet weinen und heulen, aber die Welt wird sich freuen; ihr aber werdet traurig sein; doch eure Traurigkeit soll in Freude verkehrt werden.
-@21 Ein Weib, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst um der Freude willen, dass der Mensch zur Welt geboren ist.
+@21 Eine Frau, wenn sie gebiert, so hat sie Traurigkeit; denn ihre Stunde ist gekommen. Wenn sie aber das Kind geboren hat, denkt sie nicht mehr an die Angst um der Freude willen, dass der Mensch zur Welt geboren ist.
 @22 Und ihr habt auch nun Traurigkeit; aber ich will euch wiedersehen, und euer Herz soll sich freuen, und eure Freude soll niemand von euch nehmen.
 @23 Und an dem Tage werdet ihr mich nichts fragen. Wahrlich, wahrlich ich sage euch: So ihr den Vater etwas bitten werdet in meinem Namen, so wird er's euch geben.
 @24 Bisher habt ihr nichts gebeten in meinem Namen. Bittet, so werdet ihr nehmen, dass eure Freude vollkommen sei.
@@ -840,8 +840,8 @@
 @22 Pilatus antwortete: Was ich geschrieben habe, das habe ich geschrieben.
 @23 Die Kriegsknechte aber, da sie Jesum gekreuzigt hatten, nahmen sie seine Kleider und machten vier Teile, einem jeglichen Kriegsknechte ein Teil, dazu auch den Rock. Der Rock aber war ungenäht, von obenan gewirkt durch und durch.
 @24 Da sprachen sie untereinander: Lasset uns den nicht zerteilen, sondern darum losen, wes er sein soll. (Auf dass erfüllet würde die Schrift, die da sagt: „Sie haben meine Kleider unter sich geteilt und haben über meinen Rock das Los geworfen.“) Solches taten die Kriegsknechte.
-@25 Es stand aber bei dem Kreuze Jesu seine Mutter und seiner Mutter Schwester, Maria, des Kleophas Weib, und Maria Magdalena.
-@26 Da nun Jesus seine Mutter sah und den Jünger dabeistehen, den er liebhatte, spricht er zu seiner Mutter: Weib, siehe, das ist dein Sohn!
+@25 Es stand aber bei dem Kreuze Jesu seine Mutter und seiner Mutter Schwester, Maria, des Kleophas Frau, und Maria Magdalena.
+@26 Da nun Jesus seine Mutter sah und den Jünger dabeistehen, den er liebhatte, spricht er zu seiner Mutter: Frau, siehe, das ist dein Sohn!
 @27 Darnach spricht er zu dem Jünger: Siehe, das ist deine Mutter! Und von der Stunde an nahm sie der Jünger zu sich.
 @28 Darnach, da Jesus wusste, dass schon alles vollbracht war, dass die Schrift erfüllt würde, spricht er: Mich dürstet!
 @29 Da stand ein Gefäß voll Essig. Sie aber füllten einen Schwamm mit Essig und legten ihn um einen Isop und hielten es ihm dar zum Munde.
@@ -872,9 +872,9 @@
 @10 Da gingen die Jünger wieder heim.
 @11 Maria aber stand vor dem Grabe und weinte draußen. Als sie nun weinte, guckte sie ins Grab
 @12 und sieht zwei Engel in weißen Kleidern sitzen, einen zu den Häupten und den anderen zu den Füßen, da sie den Leichnam Jesu hin gelegt hatten.
-@13 Und diese sprachen zu ihr: Weib, was weinest du? Sie spricht zu ihnen: Sie haben meinen Herrn weggenommen, und ich weiß nicht, wo sie ihn hin gelegt haben.
-@14 Und als sie das sagte, wandte sie sich zurück und sieht Jesum stehen und weiß nicht, dass es Jesus ist.
-@15 Spricht Jesus zu ihr: Weib, was weinest du? Wen suchest du? Sie meint, es sei der Gärtner, und spricht zu ihm: Herr, hast du ihn weggetragen, so sage mir, wo hast du ihn hin gelegt, so will ich ihn holen.
+@13 Und diese sprachen zu ihr: Frau, was weinest du? Sie spricht zu ihnen: Sie haben meinen Herrn weggenommen, und ich weiß nicht, wo sie ihn hin gelegt haben.
+@14 Und als sie das sagte, wandte sie sich zurück und sieht Jesus stehen und weiß nicht, dass es Jesus ist.
+@15 Spricht Jesus zu ihr: Frau, was weinst du? Wen suchest du? Sie meint, es sei der Gärtner, und spricht zu ihm: Herr, hast du ihn weggetragen, so sage mir, wo hast du ihn hin gelegt, so will ich ihn holen.
 @16 Spricht Jesus zu ihr: Maria! Da wandte sie sich um und spricht zu ihm: Rabbuni (das heißt: Meister)!
 @17 Spricht Jesus zu ihr: Rühre mich nicht an! denn ich bin noch nicht aufgefahren zu meinem Vater. Gehe aber hin zu meinen Brüdern und sage ihnen: Ich fahre auf zu meinem Vater und zu eurem Vater, zu meinem Gott und zu eurem Gott.
 @18 Maria Magdalena kommt und verkündigt den Jüngern: Ich habe den Herrn gesehen, und solches hat er zu mir gesagt.

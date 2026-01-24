@@ -72,8 +72,8 @@
 @15 Und der Friede Gottes regiere in euren Herzen, zu welchem ihr auch berufen seid in einem Leibe; und seid dankbar!
 @16 Lasset das Wort Christi unter euch reichlich wohnen in aller Weisheit; lehret und vermahnet euch selbst mit Psalmen und Lobgesängen und geistlichen lieblichen Liedern und singt dem Herrn in eurem Herzen.
 @17 Und alles, was ihr tut mit Worten oder mit Werken, das tut alles in dem Namen des Herrn Jesu, und danket Gott und dem Vater durch ihn.
-@18 Ihr Weiber, seid untertan euren Männern in dem Herrn, wie sich's gebührt.
-@19 Ihr Männer, liebet eure Weiber und seid nicht bitter gegen sie.
+@18 Ihr Frauen, seid untertan euren Männern in dem Herrn, wie sich's gebührt.
+@19 Ihr Männer, liebet eure Frauen und seid nicht bitter gegen sie.
 @20 Ihr Kinder, seid gehorsam euren Eltern in allen Dingen; denn das ist dem Herrn gefällig.
 @21 Ihr Väter, erbittert eure Kinder nicht, auf dass sie nicht scheu werden.
 @22 Ihr Knechte, seid gehorsam in allen Dingen euren leiblichen Herren, nicht mit Dienst vor Augen, als den Menschen zu gefallen, sondern mit Einfalt des Herzens und mit Gottesfurcht.

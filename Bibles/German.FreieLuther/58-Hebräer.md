@@ -262,7 +262,7 @@
 @32 Und was soll ich mehr sagen? Die Zeit würde mir zu kurz, wenn ich sollte erzählen von Gideon und Barak und Simson und Jephthah und David und Samuel und den Propheten,
 @33 welche haben durch den Glauben Königreiche bezwungen, Gerechtigkeit gewirkt, Verheißungen erlangt, der Löwen Rachen verstopft,
 @34 des Feuers Kraft ausgelöscht, sind des Schwertes Schärfe entronnen, sind kräftig geworden aus der Schwachheit, sind stark geworden im Streit, haben der Fremden Heere darniedergelegt.
-@35 Weiber haben ihre Toten durch Auferstehung wiederbekommen. Andere aber sind zerschlagen und haben keine Erlösung angenommen, auf dass sie die Auferstehung, die besser ist, erlangten.
+@35 Frauen haben ihre Toten durch Auferstehung wiederbekommen. Andere aber sind zerschlagen und haben keine Erlösung angenommen, auf dass sie die Auferstehung, die besser ist, erlangten.
 @36 Etliche haben Spott und Geißeln erlitten, dazu Bande und Gefängnis;
 @37 sie wurden gesteinigt, zerhackt, zerstochen, durchs Schwert getötet; sie sind umhergegangen in Schafpelzen und Ziegenfellen, mit Mangel, mit Trübsal, mit Ungemach
 @38 (deren die Welt nicht wert war), und sind im Elend umhergeirrt in den Wüsten, auf den Bergen und in den Klüften und Löchern der Erde.

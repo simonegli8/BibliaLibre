@@ -72,7 +72,7 @@
 @58 Aller Tempelknechte und Kinder der Knechte Salomos waren zusammen 392.
 @59 Und diese zogen auch mit herauf von Thel-Melah, Thel-Harsa, Cherub, Addon und Immer, aber sie konnten nicht anzeigen ihr Vaterhaus noch ihr Geschlecht, ob sie aus Israel wären:
 @60 die Kinder Delaja, die Kinder Tobia, die Kinder Nekoda, 652.
-@61 Und von den Kindern der Priester: die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, ein Weib nahm und ward unter ihren Namen genannt.
+@61 Und von den Kindern der Priester: die Kinder Habaja, die Kinder Hakkoz, die Kinder Barsillai, der aus den Töchtern Barsillais, des Gileaditers, eine Frau nahm und ward unter ihren Namen genannt.
 @62 Die suchten ihre Geburtsregister, und fanden keine; darum wurden sie untüchtig geachtet zum Priestertum.
 @63 Und der Landpfleger sprach zu ihnen, sie sollten nicht essen vom Hochheiligen, bis ein Priester aufstände mit dem Licht und Recht.
 @64 Der ganzen Gemeinde wie ein Mann waren 42.360,
@@ -152,7 +152,7 @@
 @6 So haltet euch nun fern von ihnen, du, Thathnai, Landpfleger jenseits des Wassers, und Sethar-Bosnai und ihr anderen des Rats, ihr von Apharsach, die ihr jenseits des Wassers seid.
 @7 Lasst sie arbeiten am Hause Gottes, dass der Juden Landpfleger und ihre Ältesten das Haus Gottes bauen an seine Stätte.
 @8 Auch ist von mir befohlen, was man den Ältesten der Juden tun soll, zu bauen das Haus Gottes: nämlich, dass man aus des Königs Gütern von den Renten jenseits des Wassers mit Fleiß nehme und gebe es den Leuten und dass man ihnen nicht wehre;
-@9 und wenn sie bedürfen junge Farren, Widder oder Lämmer zum Brandopfer dem Gott des Himmels, Weizen, Salz, Wein und Öl, nach dem Wort der Priester zu Jerusalem soll man ihnen geben jeglichen Tag seine Gebühr – und dass solches nicht lässig geschehe! –,
+@9 und wenn sie bedürfen junge Stiere, Widder oder Lämmer zum Brandopfer dem Gott des Himmels, Weizen, Salz, Wein und Öl, nach dem Wort der Priester zu Jerusalem soll man ihnen geben jeglichen Tag seine Gebühr – und dass solches nicht lässig geschehe! –,
 @10 dass sie opfern zum süßen Geruch dem Gott des Himmels und bitten für das Leben des Königs und seiner Kinder.
 @11 Von mir ist solcher Befehl geschehen. Und welcher Mensch diese Worte verändert, von des Hause soll man einen Balken nehmen und aufrichten und ihn daran hängen, und sein Haus soll dem Gericht verfallen sein um der Tat willen.
 @12 Der Gott aber, der seinen Namen daselbst wohnen lässt, bringe um alle Könige und jegliches Volk, das seine Hand ausreckt, daran zu ändern und zu brechen das Haus Gottes in Jerusalem. Ich, Darius, habe dies befohlen, dass es mit Fleiß getan werde.
@@ -160,7 +160,7 @@
 @14 Und die Ältesten der Juden bauten; und es ging vonstatten durch die Weissagung der Propheten Haggai und Sacharja, des Sohnes Iddos, und sie bauten und richteten auf nach dem Befehl des Gottes Israels und nach dem Befehl des Kores, Darius und Arthahsastha, der Könige in Persien,
 @15 und vollendeten das Haus bis an den dritten Tag des Monats Adar, das war das sechste Jahr des Königreichs des Königs Darius.
 @16 Und die Kinder Israel, die Priester, die Leviten und die anderen Kinder der Gefangenschaft hielten Einweihung des Hauses Gottes mit Freuden
-@17 und opferten auf die Einweihung des Hauses Gottes 100 Farren, 200 Widder, 400 Lämmer und zum Sündopfer für ganz Israel zwölf Ziegenböcke nach der Zahl der Stämme Israels
+@17 und opferten auf die Einweihung des Hauses Gottes 100 Stiere, 200 Widder, 400 Lämmer und zum Sündopfer für ganz Israel zwölf Ziegenböcke nach der Zahl der Stämme Israels
 @18 und bestellten die Priester und die Leviten in ihren Ordnungen, zu dienen Gott, der zu Jerusalem ist, wie es geschrieben steht im Buch Moses.
 @19 Und die Kinder der Gefangenschaft hielten Passah am vierzehnten Tage des ersten Monats;
 @20 Denn die Priester und Leviten hatten sich gereinigt wie ein Mann, dass sie alle rein waren, und schlachteten das Passah für alle Kinder der Gefangenschaft und für ihre Brüder, die Priester, und für sich.
@@ -184,7 +184,7 @@
 @14 dieweil du vom König und seinen sieben Ratsherren gesandt bist, zu besichtigen Juda und Jerusalem nach dem Gesetz Gottes, das unter deiner Hand ist,
 @15 und hinzubringen Silber und Gold, das der König und seine Ratsherren freiwillig geben dem Gott Israels, des Wohnung zu Jerusalem ist,
 @16 und allerlei Silber und Gold, das du finden kannst in der ganzen Landschaft Babel, mit dem, was das Volk und die Priester freiwillig geben zum Hause ihres Gottes zu Jerusalem.
-@17 Alles das nimm und kaufe mit Fleiß von dem Gelde Farren, Widder, Lämmer und die Speisopfer und Trankopfer dazu, dass man opfere auf dem Altar beim Hause eures Gottes zu Jerusalem.
+@17 Alles das nimm und kaufe mit Fleiß von dem Gelde Stiere, Widder, Lämmer und die Speisopfer und Trankopfer dazu, dass man opfere auf dem Altar beim Hause eures Gottes zu Jerusalem.
 @18 Dazu was dir und deinen Brüdern mit dem übrigen Gelde zu tun gefällt, das tut nach dem Willen eures Gottes.
 @19 Und die Gefäße, die dir gegeben sind zum Amt im Hause deines Gottes, überantworte vor Gott zu Jerusalem.
 @20 Auch was mehr not sein wird zum Hause deines Gottes, das dir vorfällt auszugeben, das lass geben aus der Kammer des Königs.
@@ -232,7 +232,7 @@
 @32 Und wir kamen gen Jerusalem und blieben daselbst drei Tage.
 @33 Aber am vierten Tage wurden dargewogen das Silber und Gold und die Gefäße ins Haus unseres Gottes unter die Hand des Priesters Meremoth, des Sohnes Urias, und mit ihm Eleasar, dem Sohn des Pinehas, und mit ihnen Josabad, dem Sohn Jesuas, und Noadja, dem Sohn Binnuis, den Leviten,
 @34 nach Zahl und Gewicht eines jeglichen; und das Gewicht ward zu der Zeit alles aufgeschrieben.
-@35 Und die Kinder der Gefangenschaft, die aus der Gefangenschaft gekommen waren, opferten Brandopfer dem Gott Israels: 12 Farren für das ganze Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles zum Brandopfer dem HErrn.
+@35 Und die Kinder der Gefangenschaft, die aus der Gefangenschaft gekommen waren, opferten Brandopfer dem Gott Israels: 12 Stiere für das ganze Israel, 96 Widder, 77 Lämmer, zwölf Böcke zum Sündopfer, alles zum Brandopfer dem HErrn.
 @36 Und sie überantworteten des Königs Befehle den Amtleuten des Königs und den Landpflegern diesseits des Wassers. Und diese halfen dem Volk und dem Hause Gottes.
 
 # 9
@@ -253,25 +253,25 @@
 @15 HErr, Gott Israels, du bist gerecht; denn wir sind übriggeblieben als Errettete, wie es heutigestages steht. Siehe, wir sind vor dir in unserer Schuld; denn um deswillen ist nicht zu bestehen vor dir.
 
 # 10
-@1 Und da Esra also betete und bekannte, weinte und vor dem Hause Gottes lag, sammelten sich zu ihm aus Israel eine sehr große Gemeinde von Männern und Weibern und Kindern; denn das Volk weinte sehr.
-@2 Und Sechanja, der Sohn Jehiels, aus den Kindern Elam, antwortete und sprach zu Esra: Wohlan, wir haben uns an unserem Gott vergriffen, dass wir fremde Weiber aus den Völkern des Landes genommen haben. Nun, es ist noch Hoffnung für Israel über dem.
-@3 So lasst uns nun einen Bund machen mit unserem Gott, dass wir alle Weiber und die von ihnen geboren sind, hinaustun nach dem Rat des HErrn und derer, die die Gebote unseres Gottes fürchten, dass man tue nach dem Gesetz.
+@1 Und da Esra also betete und bekannte, weinte und vor dem Hause Gottes lag, sammelten sich zu ihm aus Israel eine sehr große Gemeinde von Männern und Frauen und Kindern; denn das Volk weinte sehr.
+@2 Und Sechanja, der Sohn Jehiels, aus den Kindern Elam, antwortete und sprach zu Esra: Wohlan, wir haben uns an unserem Gott vergriffen, dass wir fremde Frauen aus den Völkern des Landes genommen haben. Nun, es ist noch Hoffnung für Israel über dem.
+@3 So lasst uns nun einen Bund machen mit unserem Gott, dass wir alle Frauen und die von ihnen geboren sind, hinaustun nach dem Rat des HErrn und derer, die die Gebote unseres Gottes fürchten, dass man tue nach dem Gesetz.
 @4 So mache dich auf! denn dir gebührt's; wir wollen mit dir sein. Sei getrost und tue es!
 @5 Da stand Esra auf und nahm einen Eid von den Obersten der Priester und Leviten und des ganzen Israels, dass sie nach diesem Wort tun sollten. Und sie schwuren.
 @6 Und Esra stand auf vor dem Hause Gottes und ging in die Kammer Johanans, des Sohnes Eljasibs. Und da er dahin kam, aß er kein Brot und trank kein Wasser; denn er trug Leid um die Vergreifung derer, die gefangen gewesen waren.
 @7 Und sie ließen ausrufen durch Juda und Jerusalem zu allen, die gefangen gewesen waren, dass sie sich gen Jerusalem versammelten.
 @8 Und welcher nicht käme in drei Tagen nach dem Rat der Obersten und Ältesten, des Habe sollte alle verbannt sein und er abgesondert von der Gemeinde der Gefangenen.
 @9 Da versammelten sich alle Männer Judas und Benjamins gen Jerusalem in drei Tagen, das ist am zwanzigsten Tage des neunten Monats. Und alles Volk saß auf der Straße vor dem Hause Gottes und zitterte um der Sache willen und vom Regen.
-@10 Und Esra, der Priester, stand auf und sprach zu ihnen: Ihr habt euch vergriffen, dass ihr fremde Weiber genommen habt, dass ihr der Schuld Israels noch mehr machtet.
-@11 So bekennt nun dem HErrn, eurer Väter Gott, und tut sein Wohlgefallen und scheidet euch von den Völkern des Landes und von den fremden Weibern.
+@10 Und Esra, der Priester, stand auf und sprach zu ihnen: Ihr habt euch vergriffen, dass ihr fremde Frauen genommen habt, dass ihr der Schuld Israels noch mehr machtet.
+@11 So bekennt nun dem HErrn, eurer Väter Gott, und tut sein Wohlgefallen und scheidet euch von den Völkern des Landes und von den fremden Frauen.
 @12 Da antwortete die ganze Gemeinde und sprach mit lauter Stimme: Es geschehe, wie du uns gesagt hast.
 @13 Aber des Volks ist viel, und Regenzeit, und man kann nicht draußen stehen; so ist's auch nicht eines oder zweier Tage Werk, denn wir haben viel gemacht solcher Übertretungen.
-@14 Lasst uns unsere Obersten bestellen für die ganze Gemeinde, dass alle, die in unseren Städten fremde Weiber genommen haben, zu bestimmten Zeiten kommen und die Ältesten einer jeglichen Stadt und ihre Richter mit ihnen, bis dass von uns gewendet werde der Zorn unseres Gottes um dieser Sache willen.
+@14 Lasst uns unsere Obersten bestellen für die ganze Gemeinde, dass alle, die in unseren Städten fremde Frauen genommen haben, zu bestimmten Zeiten kommen und die Ältesten einer jeglichen Stadt und ihre Richter mit ihnen, bis dass von uns gewendet werde der Zorn unseres Gottes um dieser Sache willen.
 @15 (Nur Jonathan, der Sohn Asahels, und Jahseja, der Sohn Tikwas, setzten sich dawider, und Mesullam und Sabthai, der Levit, halfen ihnen.)
 @16 Und die Kinder der Gefangenschaft taten also. Und der Priester Esra und Männer, welche die Häupter ihrer Vaterhäuser waren, alle mit Namen genannt, wurden ausgesondert und setzten sich am ersten Tage des zehnten Monats, zu erforschen diese Sache;
-@17 und sie richteten's aus an allen Männern, die fremde Weiber hatten, bis zum ersten Tage des ersten Monats.
-@18 Und es wurden gefunden unter den Kindern der Priester, die fremde Weiber genommen hatten, nämlich unter den Kindern Jesuas, des Sohnes Jozadaks, und seinen Brüdern: Maaseja, Elieser, Jarib und Gedalja
-@19 – und sie gaben ihre Hand darauf, dass sie die Weiber wollten ausstoßen und zu ihrem Schuldopfer einen Widder für ihre Schuld geben –;
+@17 und sie richteten's aus an allen Männern, die fremde Frauen hatten, bis zum ersten Tage des ersten Monats.
+@18 Und es wurden gefunden unter den Kindern der Priester, die fremde Frauen genommen hatten, nämlich unter den Kindern Jesuas, des Sohnes Jozadaks, und seinen Brüdern: Maaseja, Elieser, Jarib und Gedalja
+@19 – und sie gaben ihre Hand darauf, dass sie die Frauen wollten ausstoßen und zu ihrem Schuldopfer einen Widder für ihre Schuld geben –;
 @20 unter den Kindern Immer: Hanani und Sebadja;
 @21 unter den Kindern Harim: Maaseja, Elia, Semaja Jehiel und Usia;
 @22 unter den Kindern Pashur: Eljoenai, Maaseja, Ismael, Nathanael, Josabad und Eleasa;
@@ -296,4 +296,4 @@
 @41 Asareel, Selemja, Semarja,
 @42 Sallum, Amarja und Joseph;
 @43 unter den Kindern Nebo: Jeiel, Matthithja, Sabad, Sebina, Jaddai, Joel und Benaja.
-@44 Diese alle hatten fremde Weiber genommen; und waren etliche unter denselben Weibern, die Kinder getragen hatten.
+@44 Diese alle hatten fremde Frauen genommen; und waren etliche unter denselben Frauen, die Kinder getragen hatten.

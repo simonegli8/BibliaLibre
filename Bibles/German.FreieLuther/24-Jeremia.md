@@ -59,7 +59,7 @@
 @37 Denn du musst von dort auch wegziehen und deine Hände über dem Haupt zusammenschlagen; denn der HErr wird deine Hoffnung trügen lassen, und nichts wird dir bei ihnen gelingen.
 
 # 3
-@1 Und er spricht: Wenn sich ein Mann von seinem Weibe scheidet, und sie zieht von ihm und nimmt einen anderen Mann, darf er sie auch wieder annehmen? Ist's nicht also, dass das Land verunreinigt würde? Du aber hast mit vielen Buhlen gehurt; doch komm wieder zu mir; spricht der HErr.
+@1 Und er spricht: Wenn sich ein Mann von seiner Frau scheidet, und sie zieht von ihm und nimmt einen anderen Mann, darf er sie auch wieder annehmen? Ist's nicht also, dass das Land verunreinigt würde? Du aber hast mit vielen Buhlen gehurt; doch komm wieder zu mir; spricht der HErr.
 @2 Hebe deine Augen auf zu den Höhen und siehe, wie du allenthalben Hurerei treibst. An den Straßen sitzest du und lauerst auf sie wie ein Araber in der Wüste und verunreinigst das Land mit deiner Hurerei und Bosheit.
 @3 Darum muss auch der Frühregen ausbleiben und kein Spätregen kommen. Du hast eine Hurenstirn, du willst dich nicht mehr schämen
 @4 und schreist gleichwohl zu mir: „Lieber Vater, du Meister meiner Jugend!
@@ -78,7 +78,7 @@
 @17 sondern zur selben Zeit wird man Jerusalem heißen „des HErrn Thron“, und werden sich dahin sammeln alle Heiden um des Namens des HErrn willen zu Jerusalem und werden nicht mehr wandeln nach den Gedanken ihres bösen Herzens.
 @18 Zu der Zeit wird das Haus Juda gehen zum Hause Israel, und sie werden miteinander kommen von Mitternacht in das Land, das ich euren Vätern zum Erbe gegeben habe.
 @19 Und ich sagte dir zu: Wie will ich dir so viele Kinder geben und das liebe Land, das allerschönste Erbe unter den Völkern! Und ich sagte dir zu: Du wirst alsdann mich nennen „lieber Vater!“ und nicht von mir weichen.
-@20 Aber das Haus Israel achtete mich nicht, gleichwie ein Weib ihren Buhlen nicht mehr achtet, spricht der HErr.
+@20 Aber das Haus Israel achtete mich nicht, gleichwie eine Frau ihren Buhlen nicht mehr achtet, spricht der HErr.
 @21 Darum hört man ein klägliches Heulen und Weinen der Kinder Israel auf den Höhen, dafür dass sie übel getan und des HErrn, ihres Gottes, vergessen haben.
 @22 So kehret nun wieder, ihr abtrünnigen Kinder, so will ich euch heilen von eurem Ungehorsam. Siehe, wir kommen zu dir; denn du bist der HErr, unser Gott.
 @23 Wahrlich, es ist eitel Betrug mit Hügeln und mit allen Bergen. Wahrlich, es hat Israel keine Hilfe denn am HErrn, unserem Gott.
@@ -126,7 +126,7 @@
 @5 Ich will zu den Gewaltigen gehen und mit ihnen reden; die werden um des HErrn Weg und ihres Gottes Recht wissen. – Aber sie allesamt hatten das Joch zerbrochen und die Seile zerrissen.
 @6 Darum wird sie auch der Löwe, der aus dem Walde kommt, zerreißen, und der Wolf aus der Wüste wird sie verderben, und der Parder wird um ihre Städte lauern; alle, die daselbst herausgehen, wird er fressen. Denn ihrer Sünden sind zuviel, und sie bleiben verstockt in ihrem Ungehorsam.
 @7 Wie soll ich dir denn gnädig sein, weil mich deine Kinder verlassen und schwören bei dem, der nicht Gott ist? und nun ich ihnen vollauf gegeben habe, treiben sie Ehebruch und laufen ins Hurenhaus.
-@8 Ein jeglicher wiehert nach seines Nächsten Weibe wie die vollen, müßigen Hengste.
+@8 Ein jeglicher wiehert nach seines Nächsten Frau wie die vollen, müßigen Hengste.
 @9 Und ich sollte sie um solches nicht heimsuchen? spricht der HErr, und meine Seele sollte sich nicht rächen an solchem Volk, wie dies ist?
 @10 Stürmet ihre Mauern und werfet sie um, und macht's nicht gar aus! Führet ihre Reben weg, denn sie sind nicht des HErrn;
 @11 sondern sie verachten mich, beide, das Haus Israel und das Haus Juda, spricht der HErr.
@@ -162,8 +162,8 @@
 @8 Bessere dich, Jerusalem, ehe sich mein Herz von dir wende und ich dich zum wüsten Lande mache, darin niemand wohne!
 @9 So spricht der HErr Zebaoth: Was übriggeblieben ist von Israel, das muss nachgelesen werden wie am Weinstock. Der Weinleser wird eins nach dem anderen in die Butten werfen.
 @10 Ach, mit wem soll ich doch reden und zeugen? Dass doch jemand hören wollte! Aber ihre Ohren sind unbeschnitten; sie können's nicht hören. Siehe, sie halten des HErrn Wort für einen Spott und wollen es nicht.
-@11 Darum bin ich von des HErrn Drohen so voll, dass ich's nicht lassen kann. Schütte es aus über die Kinder auf der Gasse und über die Mannschaft im Rat miteinander; denn es sollen beide, Mann und Weib, Alte und der Wohlbetagte, gefangen werden.
-@12 Ihre Häuser sollen den Fremden zuteil werden samt den Äckern und Weibern; denn ich will meine Hand ausstrecken, spricht der HErr, über des Landes Einwohner.
+@11 Darum bin ich von des HErrn Drohen so voll, dass ich's nicht lassen kann. Schütte es aus über die Kinder auf der Gasse und über die Mannschaft im Rat miteinander; denn es sollen beide, Mann und Frau, Alte und der Wohlbetagte, gefangen werden.
+@12 Ihre Häuser sollen den Fremden zuteil werden samt den Äckern und Frauen; denn ich will meine Hand ausstrecken, spricht der HErr, über des Landes Einwohner.
 @13 Denn sie geizen allesamt, klein und groß; und beide, Propheten und Priester, gehen allesamt mit Lügen um
 @14 und trösten mein Volk in seinem Unglück, dass sie es gering achten sollen, und sagen: „Friede! Friede!“, und ist doch nicht Friede.
 @15 Darum werden sie mit Schanden bestehen, dass sie solche Gräuel treiben; wiewohl sie wollen ungeschändet sein und wollen sich nicht schämen. Darum müssen sie fallen auf einen Haufen; und wenn ich sie heimsuchen werde, sollen sie stürzen, spricht der HErr.
@@ -201,7 +201,7 @@
 @15 und will euch von meinem Angesicht wegwerfen, wie ich weggeworfen habe alle eure Brüder, den ganzen Samen Ephraims.
 @16 Und du sollst für dieses Volk nicht bitten und sollst für sie keine Klage noch Gebet vorbringen, auch nicht sie vertreten vor mir; denn ich will dich nicht hören.
 @17 Denn siehst du nicht, was sie tun in den Städten Judas und auf den Gassen zu Jerusalem?
-@18 Die Kinder lesen Holz, so zünden die Väter das Feuer an, und die Weiber kneten den Teig, dass sie der Himmelskönigin Kuchen backen, und geben Trankopfer den fremden Göttern, dass sie mir Verdruss tun.
+@18 Die Kinder lesen Holz, so zünden die Väter das Feuer an, und die Frauen kneten den Teig, dass sie der Himmelskönigin Kuchen backen, und geben Trankopfer den fremden Göttern, dass sie mir Verdruss tun.
 @19 Aber sie sollen nicht mir damit, spricht der HErr, sondern sich selbst Verdruss tun und müssen zu Schanden werden.
 @20 Darum spricht der Herr HErr: Siehe, mein Zorn und mein Grimm ist ausgeschüttet über diesen Ort, über Menschen und Vieh, über Bäume auf dem Felde und über die Früchte des Landes; und der soll brennen, dass niemand löschen kann.
 @21 So spricht der HErr Zebaoth, der Gott Israels: Tut eure Brandopfer und anderen Opfer zuhauf und esset Fleisch.
@@ -229,7 +229,7 @@
 @7 Ein Storch unter dem Himmel weiß seine Zeit, eine Turteltaube, Kranich und Schwalbe merken ihre Zeit, wann sie wiederkommen sollen, aber mein Volk will das Recht des HErrn nicht wissen.
 @8 Wie mögt ihr doch sagen: „Wir wissen, was recht ist, und haben die heilige Schrift vor uns“? Ist's doch eitel Lüge, was die Schriftgelehrten setzen.
 @9 Darum müssen solche Lehrer zu Schanden, erschreckt und gefangen werden; denn was können sie Gutes lehren, weil sie des HErrn Wort verwerfen?
-@10 Darum will ich ihre Weiber den Fremden geben und ihre Äcker denen, die sie verjagen werden. Denn sie geizen allesamt, beide, klein und groß; und beide, Priester und Propheten, gehen mit Lügen um
+@10 Darum will ich ihre Frauen den Fremden geben und ihre Äcker denen, die sie verjagen werden. Denn sie geizen allesamt, beide, klein und groß; und beide, Priester und Propheten, gehen mit Lügen um
 @11 und trösten mein Volk in ihrem Unglück, dass sie es gering achten sollen, und sagen: „Friede! Friede!“, und ist doch nicht Friede.
 @12 Darum werden sie mit Schanden bestehen, dass sie solche Gräuel treiben; wiewohl sie wollen ungeschändet sein und wollen sich nicht schämen. Darum müssen sie fallen auf einen Haufen; und wenn ich sie heimsuchen werde, sollen sie stürzen, spricht der HErr.
 @13 Ich will sie also ablesen, spricht der HErr, dass keine Trauben am Weinstock und keine Feigen am Feigenbaum bleiben, ja auch die Blätter wegfallen sollen; und was ich ihnen gegeben habe, das soll ihnen genommen werden.
@@ -263,7 +263,7 @@
 @16 So spricht der HErr Zebaoth: Schaffet und bestellet Klageweiber, dass sie kommen, und schickt nach denen, die es wohl können,
 @17 dass sie eilend um uns klagen, dass unsere Augen von Tränen rinnen und unsere Augenlider von Wasser fließen,
 @18 dass man ein klägliches Geschrei höre zu Zion: Ach, wie sind wir so gar verstört und zu Schanden geworden! Wir müssen das Land räumen; denn sie haben unsere Wohnungen geschleift.
-@19 So höret nun, ihr Weiber, des HErrn Wort und nehmet zu Ohren seines Mundes Rede; lehret eure Töchter weinen, und eine lehre die andere klagen:
+@19 So höret nun, ihr Frauen, des HErrn Wort und nehmet zu Ohren seines Mundes Rede; lehret eure Töchter weinen, und eine lehre die andere klagen:
 @20 Der Tod ist zu unseren Fenstern eingefallen und in unsere Paläste gekommen, die Kinder zu würgen auf der Gasse und die Jünglinge auf der Straße.
 @21 So spricht der HErr: Sage: Der Menschen Leichname sollen liegen wie der Mist auf dem Felde und wie Garben hinter dem Schnitter, die niemand sammelt.
 @22 So spricht der HErr: Ein Weiser rühme sich nicht seiner Weisheit, ein Starker rühme sich nicht seiner Stärke, ein Reicher rühme sich nicht seines Reichtums;
@@ -363,7 +363,7 @@
 @18 Sage dem König und der Königin: Setzt euch herunter; denn die Krone der Herrlichkeit ist euch von eurem Haupt gefallen.
 @19 Die Städte gegen Mittag sind verschlossen, und ist niemand, der sie auftue; das ganze Juda ist rein weggeführt.
 @20 Hebet eure Augen auf und sehet, wie sie von Mitternacht daherkommen. Wo ist nun die Herde, so dir befohlen war, deine herrliche Herde?
-@21 Was willst du sagen, wenn er dich so heimsuchen wird? Denn du hast sie so gewöhnt wider dich, dass sie Fürsten und Häupter sein wollen. Was gilt's? es wird dich Angst ankommen wie ein Weib in Kindsnöten.
+@21 Was willst du sagen, wenn er dich so heimsuchen wird? Denn du hast sie so gewöhnt wider dich, dass sie Fürsten und Häupter sein wollen. Was gilt's? Es wird dich Angst ankommen wie eine Frau in Kindsnöten.
 @22 Und wenn du in deinem Herzen sagen willst: „Warum begegnet doch mir solches?“ Um der Menge willen deiner Missetaten sind dir deine Säume aufgedeckt und ist deinen Fersen Gewalt geschehen.
 @23 Kann auch ein Mohr seine Haut wandeln oder ein Parder seine Flecken? So könnt ihr auch Gutes tun, die ihr des Bösen gewohnt seid.
 @24 Darum will ich sie zerstreuen wie Stoppeln, die vor dem Winde aus der Wüste verweht werden.
@@ -387,7 +387,7 @@
 @13 Da sprach ich: Ach Herr HErr, siehe, die Propheten sagen ihnen: Ihr werdet kein Schwert sehen und keine Teuerung bei euch haben; sondern ich will euch guten Frieden geben an diesem Ort.
 @14 Und der HErr sprach zu mir: Die Propheten weissagen falsch in meinem Namen; ich habe sie nicht gesandt und ihnen nichts befohlen und nichts mit ihnen geredet. Sie predigen euch falsche Gesichte, Deutungen, Abgötterei und ihres Herzens Trügerei.
 @15 Darum so spricht der HErr von den Propheten, die in meinem Namen weissagen, obwohl ich sie doch nicht gesandt habe, und die dennoch predigen, es werde kein Schwert noch Teuerung in dieses Land kommen: Solche Propheten sollen sterben durch Schwert und Hunger.
-@16 Und die Leute, denen sie weissagen, sollen vom Schwert und Hunger auf den Gassen zu Jerusalem hin und her liegen, dass sie niemand begraben wird, also auch ihre Weiber, Söhne und Töchter; und ich will ihre Bosheit über sie schütten.
+@16 Und die Leute, denen sie weissagen, sollen vom Schwert und Hunger auf den Gassen zu Jerusalem hin und her liegen, dass sie niemand begraben wird, also auch ihre Frauen, Söhne und Töchter; und ich will ihre Bosheit über sie schütten.
 @17 Und du sollst zu ihnen sagen dieses Wort: Meine Augen fließen von Tränen Tag und Nacht und hören nicht auf; denn die Jungfrau, die Tochter meines Volks, ist gräulich zerplagt und jämmerlich geschlagen.
 @18 Gehe ich hinaus aufs Feld, siehe, so liegen da Erschlagene mit dem Schwert; komme ich in die Stadt, so liegen da vor Hunger Verschmachtete. Denn es müssen auch die Propheten, dazu auch die Priester, in ein Land ziehen, das sie nicht kennen.
 @19 Hast du denn Juda verworfen, oder hat deine Seele einen Ekel an Zion? Warum hast du uns denn so geschlagen, dass uns niemand heilen kann? Wir hofften, es sollte Friede werden; so kommt nichts Gutes. Wir hofften, wir sollten heil werden; aber siehe, so ist mehr Schaden da.
@@ -420,7 +420,7 @@
 
 # 16
 @1 Und des HErrn Wort geschah zu mir und sprach:
-@2 Du sollst kein Weib nehmen und weder Söhne noch Töchter zeugen an diesem Ort.
+@2 Du sollst keine Frau nehmen und weder Söhne noch Töchter zeugen an diesem Ort.
 @3 Denn so spricht der HErr von den Söhnen und Töchtern, die an diesem Ort geboren werden, dazu von ihren Müttern, die sie gebären, und von ihren Vätern, die sie zeugen in diesem Lande:
 @4 Sie sollen an Krankheiten sterben und weder beklagt noch begraben werden, sondern sollen Dung werden auf dem Lande, dazu durch Schwert und Hunger umkommen, und ihre Leichname sollen der Vögel des Himmels und der Tiere auf Erden Speise sein.
 @5 Denn so spricht der HErr: Du sollst nicht zum Trauerhaus gehen und sollst auch nirgend hin zu klagen gehen noch Mitleiden über sie haben; denn ich habe meinen Frieden von diesem Volk weggenommen, spricht der HErr, samt meiner Gnade und Barmherzigkeit,
@@ -491,7 +491,7 @@
 @18 Aber sie sprechen: Kommt und lasst uns wider Jeremia ratschlagen; denn die Priester können nicht irren im Gesetz, und die Weisen können nicht fehlen mit Raten, und die Propheten können nicht unrecht lehren! Kommt her, lasst uns ihn mit der Zunge totschlagen und nichts geben auf alle seine Rede!
 @19 HErr, habe Acht auf mich und höre die Stimme meiner Widersacher!
 @20 Ist's recht, dass man Gutes mit Bösem vergilt? Denn sie haben meiner Seele eine Grube gegraben. Gedenke doch, wie ich vor dir gestanden bin, dass ich ihr Bestes redete und deinen Grimm von ihnen wendete.
-@21 So strafe nun ihre Kinder mit Hunger und lass sie ins Schwert fallen, dass ihre Weiber ohne Kinder und Witwen seien und ihre Männer zu Tode geschlagen und ihre junge Mannschaft im Streit durchs Schwert erwürgt werde;
+@21 So strafe nun ihre Kinder mit Hunger und lass sie ins Schwert fallen, dass ihre Frauen ohne Kinder und Witwen seien und ihre Männer zu Tode geschlagen und ihre junge Mannschaft im Streit durchs Schwert erwürgt werde;
 @22 dass ein Geschrei aus ihren Häusern gehört werde, wie du plötzlich habest Kriegsvolk über sie kommen lassen. Denn sie haben eine Grube gegraben, mich zu fangen, und meinen Füßen Stricke gelegt.
 @23 Und weil du, HErr, weißt alle ihre Anschläge wider mich, dass sie mich töten wollen, so vergib ihnen ihre Missetat nicht und lass ihre Sünde vor dir nicht ausgetilgt werden. Lass sie vor dir gestürzt werden und handle mit ihnen nach deinem Zorn.
 
@@ -749,7 +749,7 @@
 @3 durch Eleasa, den Sohn Saphans, und Gemarja, den Sohn Hilkias, welche Zedekia, der König Judas, sandte gen Babel zu Nebukadnezar, dem König zu Babel:
 @4 So spricht der HErr Zebaoth, der Gott Israels, zu allen Gefangenen, die ich habe von Jerusalem lassen wegführen gen Babel:
 @5 Bauet Häuser, darin ihr wohnen mögt, pflanzet Gärten, daraus ihr die Früchte essen mögt;
-@6 nehmet Weiber und zeuget Söhne und Töchter; nehmet euren Söhnen Weiber und gebet euren Töchtern Männern, dass sie Söhne und Töchter zeugen; mehret euch daselbst, dass euer nicht wenig sei.
+@6 nehmet Frauen und zeuget Söhne und Töchter; nehmet euren Söhnen Frauen und gebet euren Töchtern Männern, dass sie Söhne und Töchter zeugen; mehret euch daselbst, dass euer nicht wenig sei.
 @7 Suchet der Stadt Bestes, dahin ich euch habe lassen wegführen, und betet für sie zum HErrn; denn wenn's ihr wohl geht, so geht's euch auch wohl.
 @8 Denn so spricht der HErr Zebaoth, der Gott Israels: Lasst euch die Propheten, die bei euch sind, und die Wahrsager nicht betrügen und gehorcht euren Träumen nicht, die euch träumen.
 @9 Denn sie weissagen euch falsch in meinem Namen; ich habe sie nicht gesandt, spricht der HErr.
@@ -766,7 +766,7 @@
 @20 Ihr aber alle, die ihr gefangen seid weggeführt, die ich von Jerusalem habe gen Babel ziehen lassen, höret des HErrn Wort!
 @21 So spricht der HErr Zebaoth, der Gott Israels, wider Ahab, den Sohn Kolajas, und wider Zedekia, den Sohn Maasejas, die euch falsch weissagen in meinem Namen: Siehe, ich will sie geben in die Hände Nebukadnezars, des Königs zu Babel; der soll sie totschlagen lassen vor euren Augen,
 @22 dass man wird aus ihnen einen Fluch machen unter allen Gefangenen aus Juda, die zu Babel sind, und sagen: Der HErr tue dir wie Zedekia und Ahab, welche der König zu Babel auf Feuer braten ließ,
-@23 darum dass sie eine Torheit in Israel begingen und trieben Ehebruch mit ihrer Nächsten Weibern und predigten falsch in meinem Namen, was ich ihnen nicht befohlen hatte. Solches weiß ich und bezeuge es, spricht der HErr.
+@23 darum dass sie eine Torheit in Israel begingen und trieben Ehebruch mit ihrer Nächsten Frauen und predigten falsch in meinem Namen, was ich ihnen nicht befohlen hatte. Solches weiß ich und bezeuge es, spricht der HErr.
 @24 Und wider Semaja von Nehalam sollst du sagen:
 @25 So spricht der HErr Zebaoth, der Gott Israels: Darum dass du unter deinem Namen hast Briefe gesandt an alles Volk, das zu Jerusalem ist, und an den Priester Zephanja, den Sohn Maasejas, und an alle Priester und gesagt:
 @26 Der HErr hat dich zum Priester gesetzt anstatt des Priesters Jojada, dass ihr sollt Aufseher sein im Hause des HErrn über alle Wahnsinnigen und Weissager, dass du sie in den Kerker und Stock legest.
@@ -783,7 +783,7 @@
 @3 Denn siehe, es kommt die Zeit, spricht der HErr, dass ich das Gefängnis meines Volkes Israel und Juda wenden will, spricht der HErr, und will sie wiederbringen in das Land, das ich ihren Vätern gegeben habe, dass sie es besitzen sollen.
 @4 Dies sind aber die Worte, welche der HErr redet von Israel und Juda:
 @5 So spricht der HErr: Wir hören ein Geschrei des Schreckens; es ist eitel Furcht da und kein Friede.
-@6 Forschet doch und sehet, ob ein Mann gebären könne? Wie geht es denn zu, dass ich alle Männer sehe ihre Hände auf ihren Hüften haben wie Weiber in Kindsnöten und alle Angesichter so bleich sind?
+@6 Forschet doch und sehet, ob ein Mann gebären könne? Wie geht es denn zu, dass ich alle Männer sehe ihre Hände auf ihren Hüften haben wie Frauen in Kindsnöten und alle Angesichter so bleich sind?
 @7 Es ist ja ein großer Tag, und seinesgleichen ist nicht gewesen, und ist eine Zeit der Angst in Jakob; doch soll ihm daraus geholfen werden.
 @8 Es soll aber geschehen zu derselben Zeit, spricht der HErr Zebaoth, dass ich sein Joch von deinem Halse zerbrechen will und deine Bande zerreißen, dass er nicht mehr den Fremden dienen muss,
 @9 sondern sie werden dem HErrn, ihrem Gott, dienen und ihrem König David, welchen ich ihnen erwecken will.
@@ -825,7 +825,7 @@
 @19 Da ich bekehrt ward, tat ich Buße; denn nachdem ich gewitzigt bin, schlage ich mich auf die Hüfte. Ich bin zu Schanden geworden und stehe schamrot; denn ich muss leiden den Hohn meiner Jugend.“
 @20 Ist nicht Ephraim mein teurer Sohn und mein trautes Kind? Denn ich denke noch wohl daran, was ich ihm geredet habe; darum bricht mir mein Herz gegen ihn, dass ich mich sein erbarmen muss, spricht der HErr.
 @21 Richte dir Denkmale auf, setze dir Zeichen und richte dein Herz auf die gebahnte Straße, darauf du gewandelt hast; kehre wieder, Jungfrau Israel, kehre dich wieder zu diesen deinen Städten!
-@22 Wie lange willst du in der Irre gehen, du abtrünnige Tochter? Denn der HErr wird ein Neues im Lande erschaffen: das Weib wird den Mann umgeben.
+@22 Wie lange willst du in der Irre gehen, du abtrünnige Tochter? Denn der HErr wird ein Neues im Lande erschaffen: die Frau wird den Mann umgeben.
 @23 So spricht der HErr Zebaoth, der Gott Israels: Man wird noch dieses Wort wieder reden im Lande Juda und in seinen Städten, wenn ich ihr Gefängnis wenden werde: Der HErr segne dich, du Wohnung der Gerechtigkeit, du heiliger Berg!
 @24 Und Juda samt allen seinen Städten sollen darin wohnen, dazu Ackerleute und die mit Herden umherziehen;
 @25 denn ich will die müden Seelen erquicken und die bekümmerten Seelen sättigen.
@@ -951,7 +951,7 @@
 @5 Und ich setzte den Kindern von der Rechabiter Hause Becher voll Wein und Schalen vor und sprach zu ihnen: Trinkt Wein!
 @6 Sie aber antworteten: Wir trinken nicht Wein; denn unser Vater Jonadab, der Sohn Rechabs, hat uns geboten und gesagt: Ihr und eure Kinder sollt nimmermehr Wein trinken
 @7 und kein Haus bauen, keinen Samen säen, keinen Weinberg pflanzen noch haben, sondern sollt in Hütten wohnen euer Leben lang, auf dass ihr lange lebet in dem Lande, darin ihr wallet.
-@8 Also gehorchen wir der Stimme unseres Vaters Jonadab, des Sohnes Rechabs, in allem, was er uns geboten hat, dass wir keinen Wein trinken unser Leben lang, weder wir noch unsere Weiber noch Söhne noch Töchter,
+@8 Also gehorchen wir der Stimme unseres Vaters Jonadab, des Sohnes Rechabs, in allem, was er uns geboten hat, dass wir keinen Wein trinken unser Leben lang, weder wir noch unsere Frauen noch Söhne noch Töchter,
 @9 und bauen auch keine Häuser, darin wir wohnten, und haben weder Weinberge noch Äcker noch Samen,
 @10 sondern wohnen in Hütten und gehorchen und tun alles, wie unser Vater Jonadab geboten hat.
 @11 Als aber Nebukadnezar, der König zu Babel, herauf ins Land zog, sprachen wir: „Kommt, lasst uns gen Jerusalem ziehen vor dem Heer der Chaldäer und der Syrer!“ und sind also zu Jerusalem geblieben.
@@ -1043,8 +1043,8 @@
 @19 Der König Zedekia sprach zu Jeremia: Ich sorge mich aber, dass ich den Juden, so zu den Chaldäern gefallen sind, möchte übergeben werden, dass sie mein spotten.
 @20 Jeremia sprach: Man wird dich nicht übergeben. Gehorche doch der Stimme des HErrn, die ich dir sage, so wird dir's wohl gehen, und du wirst lebend bleiben.
 @21 Wirst du aber nicht hinausgehen, so ist dies das Wort, das mir der HErr gezeigt hat:
-@22 Siehe, alle Weiber, die noch vorhanden sind in dem Hause des Königs in Juda, werden hinaus müssen zu den Fürsten des Königs zu Babel; diese werden dann sagen: Ach deine Tröster haben dich überredet und verführt und in Schlamm geführt und lassen dich nun stecken.
-@23 Also werden dann alle deine Weiber und Kinder hinaus müssen zu den Chaldäern, und du selbst wirst ihren Händen nicht entgehen; sondern du wirst vom König zu Babel gegriffen, und diese Stadt wird mit Feuer verbrannt werden.
+@22 Siehe, alle Frauen, die noch vorhanden sind in dem Hause des Königs in Juda, werden hinaus müssen zu den Fürsten des Königs zu Babel; diese werden dann sagen: Ach deine Tröster haben dich überredet und verführt und in Schlamm geführt und lassen dich nun stecken.
+@23 Also werden dann alle deine Frauen und Kinder hinaus müssen zu den Chaldäern, und du selbst wirst ihren Händen nicht entgehen; sondern du wirst vom König zu Babel gegriffen, und diese Stadt wird mit Feuer verbrannt werden.
 @24 Und Zedekia sprach zu Jeremia: Siehe zu, dass niemand diese Rede erfahre, so wirst du nicht sterben.
 @25 Und wenn's die Fürsten erführen, dass ich mit dir geredet habe, und kämen zu dir und sprächen: Sage an, was hast du mit dem König geredet – leugne es uns nicht, so wollen wir dich nicht töten –, und was hat der König mit dir geredet?
 @26 so sprich: Ich habe den König gebeten, dass er mich nicht wiederum ließe in des Jonathan Haus führen; ich möchte daselbst sterben.
@@ -1078,7 +1078,7 @@
 @4 Und nun siehe, ich habe dich heute losgemacht von den Ketten, womit deine Hände gebunden waren. Gefällt dir's, mit mir gen Babel zu ziehen, so komm du sollst mir befohlen sein; gefällt dir's aber nicht, mit mir gen Babel zu ziehen, so lass es anstehen. Siehe, da hast du das ganze Land vor dir; wo dich's gut dünkt und dir gefällt, da zieh hin.
 @5 Denn weiter hinaus wird kein Wiederkehren sein. Darum magst du umkehren zu Gedalja, dem Sohn Ahikams, des Sohnes Saphans, welchen der König zu Babel gesetzt hat über die Städte in Juda, und bei ihm unter dem Volk bleiben; oder gehe, wohin dir's wohl gefällt. Und der Hauptmann gab ihm Zehrung und Geschenke und ließ ihn gehen.
 @6 Also kam Jeremia zu Gedalja, dem Sohn Ahikams, gen Mizpa und blieb bei ihm unter dem Volk, das im Lande noch übrig war.
-@7 Da nun die Hauptleute, die auf dem Felde sich hielten, samt ihren Leuten erfuhren, dass der König zu Babel hatte Gedalja, den Sohn Ahikams, über das Land gesetzt und über die Männer und Weiber, Kinder und die Geringen im Lande, welche nicht gen Babel geführt waren,
+@7 Da nun die Hauptleute, die auf dem Felde sich hielten, samt ihren Leuten erfuhren, dass der König zu Babel hatte Gedalja, den Sohn Ahikams, über das Land gesetzt und über die Männer und Frauen, Kinder und die Geringen im Lande, welche nicht gen Babel geführt waren,
 @8 kamen sie zu Gedalja gen Mizpa, nämlich Ismael, der Sohn Nethanjas, Johanan und Jonathan, die Söhne Kareahs, und Seraja, der Sohn Thanhumeths, und die Söhne Ephais von Netopha und Jesanja, der Sohn eines Maachathiters, samt ihren Männern.
 @9 Und Gedalja, der Sohn Ahikams, des Sohnes Saphans, tat ihnen und ihren Männern einen Eid und sprach: Fürchtet euch nicht, dass ihr den Chaldäern untertan sein sollt; bleibt im Lande und seid dem König zu Babel untertan, so wird's euch wohl gehen.
 @10 Siehe, ich wohne hier zu Mizpa, dass ich den Chaldäern diene, die zu uns kommen; darum so sammelt ein Wein und Feigen und Öl und legt's in eure Gefäße und wohnt in euren Städten, die ihr bekommen habt.
@@ -1105,7 +1105,7 @@
 @13 Da nun alles Volk, das bei Ismael war, sah den Johanan, den Sohn Kareahs, und alle die Hauptleute des Heeres, die bei ihm waren, wurden sie froh.
 @14 Und das ganze Volk, das Ismael hatte von Mizpa weggeführt, wandte sich um und kehrte wiederum zu Johanan, dem Sohne Kareahs.
 @15 Aber Ismael, der Sohn Nethanjas, entrann dem Johanan mit acht Männern und zog zu den Kindern Ammon.
-@16 Und Johanan, der Sohn Kareahs, samt allen Hauptleuten des Heeres, die bei ihm waren, nahmen all das übrige Volk, das sie wiedergebracht hatten von Ismael, dem Sohn Nethanjas, aus Mizpa zu sich (weil Gedalja, der Sohn Ahikams, erschlagen war), nämlich die Kriegsmänner, Weiber und Kinder und Kämmerer, die sie von Gibeon hatten wiedergebracht;
+@16 Und Johanan, der Sohn Kareahs, samt allen Hauptleuten des Heeres, die bei ihm waren, nahmen all das übrige Volk, das sie wiedergebracht hatten von Ismael, dem Sohn Nethanjas, aus Mizpa zu sich (weil Gedalja, der Sohn Ahikams, erschlagen war), nämlich die Kriegsmänner, Frauen und Kinder und Kämmerer, die sie von Gibeon hatten wiedergebracht;
 @17 und zogen hin und kehrten ein zur Herberge Chimhams, die bei Bethlehem war, und wollten nach Ägypten ziehen vor den Chaldäern.
 @18 Denn sie fürchteten sich vor ihnen, weil Ismael, der Sohn Nethanjas, Gedalja, den Sohn Ahikams, erschlagen hatte, den der König zu Babel über das Land gesetzt hatte.
 
@@ -1139,7 +1139,7 @@
 @3 sondern Baruch, der Sohn Nerias, beredet dich, uns zuwider, auf dass wir den Chaldäern übergeben werden, dass sie uns töten und gen Babel wegführen.
 @4 Also gehorchten Johanan, der Sohn Kareahs, und alle Hauptleute des Heeres samt dem ganzen Volk der Stimme des HErrn nicht, dass sie im Lande Juda wären geblieben;
 @5 sondern Johanan, der Sohn Kareahs, und alle Hauptleute des Heeres nahmen zu sich alle Übrigen aus Juda, die von allen Völkern, dahin sie geflohen, wiedergekommen waren, dass sie im Lande Juda wohnten,
-@6 nämlich Männer, Weiber und Kinder, dazu die Königstöchter und alle Seelen, die Nebusaradan, der Hauptmann, bei Gedalja, dem Sohn Ahikams, des Sohnes Saphans, hatte gelassen, auch den Propheten Jeremia und Baruch, den Sohn Nerias,
+@6 nämlich Männer, Frauen und Kinder, dazu die Königstöchter und alle Seelen, die Nebusaradan, der Hauptmann, bei Gedalja, dem Sohn Ahikams, des Sohnes Saphans, hatte gelassen, auch den Propheten Jeremia und Baruch, den Sohn Nerias,
 @7 und zogen nach Ägyptenland, denn sie wollten der Stimme des HErrn nicht gehorchen, und kamen nach Thachpanhes.
 @8 Und des HErrn Wort geschah zu Jeremia zu Thachpanhes und sprach:
 @9 Nimm große Steine und verscharre sie im Ziegelofen, der vor der Tür am Hause Pharaos ist zu Thachpanhes, dass die Männer aus Juda zusehen;
@@ -1155,25 +1155,25 @@
 @4 Und ich sandte stets zu euch alle meine Knechte, die Propheten, und ließ euch sagen: Tut doch nicht solche Gräuel, die ich hasse.
 @5 Aber sie gehorchten nicht, neigten auch ihre Ohren nicht, dass sie von ihrer Bosheit sich bekehrt und anderen Göttern nicht geräuchert hätten.
 @6 Darum ging auch mein Zorn und Grimm an und entbrannte über die Städte Judas und über die Gassen zu Jerusalem, dass sie zur Wüste und Öde geworden sind, wie es heutigestages steht.
-@7 Nun, so spricht der HErr, der Gott Zebaoth, der Gott Israels: Warum tut ihr doch so großes Übel wider euer eigen Leben, damit unter euch ausgerottet werden Mann und Weib, Kind und Säugling aus Juda, und nichts von euch übrigbleibe,
+@7 Nun, so spricht der HErr, der Gott Zebaoth, der Gott Israels: Warum tut ihr doch so großes Übel wider euer eigen Leben, damit unter euch ausgerottet werden Mann und Frau, Kind und Säugling aus Juda, und nichts von euch übrigbleibe,
 @8 und erzürnt mich so durch eurer Hände Werke und räuchert anderen Göttern in Ägyptenland, dahin ihr gezogen seid, daselbst zu herbergen, auf dass ihr ausgerottet und zum Fluch und zur Schmach werdet unter allen Heiden auf Erden?
-@9 Habt ihr vergessen das Unglück eurer Väter, das Unglück der Könige Judas, das Unglück ihrer Weiber, dazu euer eigenes Unglück und eurer Weiber Unglück, das euch begegnet ist im Lande Juda und auf den Gassen zu Jerusalem?
+@9 Habt ihr vergessen das Unglück eurer Väter, das Unglück der Könige Judas, das Unglück ihrer Frauen, dazu euer eigenes Unglück und eurer Frauen Unglück, das euch begegnet ist im Lande Juda und auf den Gassen zu Jerusalem?
 @10 Noch sind sie bis auf diesen Tag nicht gedemütigt, fürchten sich auch nicht und wandeln nicht in meinem Gesetz und den Rechten, die ich euch und euren Vätern vorgestellt habe.
 @11 Darum spricht der HErr Zebaoth, der Gott Israels, also: Siehe, ich will mein Angesicht wider euch richten zum Unglück, und ganz Juda soll ausgerottet werden.
 @12 Und ich will die Übrigen aus Juda nehmen, die ihr Angesicht gerichtet haben, nach Ägyptenland zu ziehen, dass sie daselbst herbergen; es soll ein Ende mit ihnen allen werden in Ägyptenland. Durchs Schwert sollen sie fallen, und durch Hunger umkommen, beide, klein und groß; sie sollen durch Schwert und Hunger sterben und sollen ein Schwur, Wunder, Fluch und Schmach werden.
 @13 Ich will auch die Einwohner in Ägyptenland mit Schwert, Hunger und Pestilenz heimsuchen, gleichwie ich zu Jerusalem getan habe,
 @14 dass aus den Übrigen Judas keiner soll entrinnen noch übrigbleiben, die doch darum hierher gekommen sind nach Ägyptenland zur Herberge, dass sie wiederum ins Land Juda kommen möchten, dahin sie gerne wollten wiederkommen und wohnen; aber es soll keiner wieder dahin kommen, außer, welche von hinnen fliehen.
-@15 Da antworteten dem Jeremia alle Männer, die da wohl wussten, dass ihre Weiber anderen Göttern räucherten, und alle Weiber, die in großem Haufen dastanden, samt allem Volk, die in Ägyptenland wohnten und in Pathros, und sprachen:
+@15 Da antworteten dem Jeremia alle Männer, die da wohl wussten, dass ihre Frauen anderen Göttern räucherten, und alle Frauen, die in großem Haufen dastanden, samt allem Volk, die in Ägyptenland wohnten und in Pathros, und sprachen:
 @16 Nach dem Wort, das du im Namen des HErrn uns sagest, wollen wir dir nicht gehorchen;
 @17 sondern wir wollen tun nach allem dem Wort, das aus unserem Munde geht, und wollen der Himmelskönigin räuchern und ihr Trankopfer opfern, wie wir und unsere Väter, unsere Könige und Fürsten getan haben in den Städten Judas und auf den Gassen zu Jerusalem. Da hatten wir auch Brot genug und ging uns wohl und sahen kein Unglück.
 @18 Seit der Zeit aber, dass wir haben abgelassen, der Himmelskönigin zu räuchern und Trankopfer zu opfern, haben wir allen Mangel gelitten und sind durch Schwert und Hunger umgekommen.
 @19 Auch wenn wir der Himmelskönigin räuchern und Trankopfer opfern, das tun wir ja nicht ohne unserer Männer Willen, dass wir ihr Kuchen backen und Trankopfer opfern, auf dass sie sich um uns bekümmere.
-@20 Da sprach Jeremia zum ganzen Volk, Männern und Weibern und allem Volk, die ihm so geantwortet hatten:
+@20 Da sprach Jeremia zum ganzen Volk, Männern und Frauen und allem Volk, die ihm so geantwortet hatten:
 @21 Ich meine ja, der HErr habe gedacht an das Räuchern, das ihr in den Städten Judas und auf den Gassen zu Jerusalem getrieben habt samt euren Vätern, Königen, Fürsten und allem Volk im Lande, und hat's zu Herzen genommen,
 @22 dass er nicht mehr leiden konnte euren bösen Wandel und die Gräuel, die ihr tatet; daher auch euer Land zur Wüste, zum Wunder und zum Fluch geworden ist, dass niemand darin wohnt, wie es heutigestages steht.
 @23 Darum, dass ihr geräuchert habt und wider den HErrn gesündigt und der Stimme des HErrn nicht gehorchtet und in seinem Gesetz, seinen Rechten und Zeugnissen nicht gewandelt habt, darum ist auch euch solches Unglück widerfahren, wie es heutigestages steht.
-@24 Und Jeremia sprach zu allem Volk und zu allen Weibern: Höret des HErrn Wort, alle ihr aus Juda, die in Ägyptenland sind.
-@25 So spricht der HErr Zebaoth, der Gott Israels: Ihr und eure Weiber habt mit eurem Munde geredet und mit euren Händen vollbracht, was ihr sagt: Wir wollen unsere Gelübde halten, die wir gelobt haben der Himmelskönigin, dass wir ihr räuchern und Trankopfer opfern. Wohlan, ihr habt eure Gelübde erfüllt und eure Gelübde gehalten.
+@24 Und Jeremia sprach zu allem Volk und zu allen Frauen: Höret des HErrn Wort, alle ihr aus Juda, die in Ägyptenland sind.
+@25 So spricht der HErr Zebaoth, der Gott Israels: Ihr und eure Frauen habt mit eurem Munde geredet und mit euren Händen vollbracht, was ihr sagt: Wir wollen unsere Gelübde halten, die wir gelobt haben der Himmelskönigin, dass wir ihr räuchern und Trankopfer opfern. Wohlan, ihr habt eure Gelübde erfüllt und eure Gelübde gehalten.
 @26 So höret nun des HErrn Wort, ihr alle aus Juda, die ihr in Ägyptenland wohnet: Siehe, ich schwöre bei meinem großen Namen, spricht der HErr, dass mein Name nicht mehr soll durch irgendeines Menschen Mund aus Juda genannt werden in ganz Ägyptenland, der da sagt: „So wahr der Herr HErr lebt!“
 @27 Siehe, ich will über sie wachen zum Unglück und zu keinem Guten, dass, wer aus Juda in Ägyptenland ist, soll durch Schwert und Hunger umkommen, bis es ein Ende mit ihnen habe.
 @28 Welche aber dem Schwert entrinnen, die werden aus Ägyptenland ins Land Juda wiederkommen müssen als ein geringer Haufe. Und also werden dann alle die Übrigen aus Juda, die nach Ägyptenland gezogen waren, dass sie daselbst herbergten, erfahren, wessen Wort wahr geworden sei, meines oder ihres.
@@ -1386,7 +1386,7 @@
 @19 Aber also ist der nicht, der Jakobs Schatz ist; sondern der alle Dinge schafft, der ist's, und Israel ist sein Erbteil. Er heißt HErr Zebaoth.
 @20 Du bist mein Hammer, meine Kriegswaffe; durch dich zerschmettere ich die Heiden und zerstöre die Königreiche;
 @21 durch dich zerschmettere ich Rosse und Reiter und zerschmettere Wagen und Fuhrmänner;
-@22 durch dich zerschmettere ich Männer und Weiber und zerschmettere Alte und Junge und zerschmettere Jünglinge und Jungfrauen;
+@22 durch dich zerschmettere ich Männer und Frauen und zerschmettere Alte und Junge und zerschmettere Jünglinge und Jungfrauen;
 @23 durch dich zerschmettere ich Hirten und Herden und zerschmettere Bauern und Joche und zerschmettere Fürsten und Herren.
 @24 Und ich will Babel und allen Einwohnern in Chaldäa vergelten alle ihre Bosheit, die sie an Zion begangen haben, vor euren Augen, spricht der HErr.
 @25 Siehe, ich will an dich, du schädlicher Berg, der du alle Welt verderbest, spricht der HErr; ich will meine Hand über dich strecken und dich von den Felsen herabwälzen und will einen verbrannten Berg aus dir machen,

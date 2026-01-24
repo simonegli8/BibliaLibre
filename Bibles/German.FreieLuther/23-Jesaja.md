@@ -9,7 +9,7 @@
 @8 Was aber noch übrig ist von der Tochter Zion, ist wie ein Häuslein im Weinberge, wie eine Nachthütte in den Kürbisgärten, wie eine verheerte Stadt.
 @9 Wenn uns der HErr Zebaoth nicht ein weniges ließe übrigbleiben, so wären wir wie Sodom und gleich wie Gomorra.
 @10 Höret des HErrn Wort, ihr Fürsten von Sodom! Nimm zu Ohren unseres Gottes Gesetz, du Volk von Gomorra!
-@11 Was soll mir die Menge eurer Opfer? spricht der HErr. Ich bin satt der Brandopfer von Widdern und des Fetten von den Gemästeten und habe keine Lust zum Blut der Farren, der Lämmer und Böcke.
+@11 Was soll mir die Menge eurer Opfer? spricht der HErr. Ich bin satt der Brandopfer von Widdern und des Fetten von den Gemästeten und habe keine Lust zum Blut der Stiere, der Lämmer und Böcke.
 @12 Wenn ihr hereinkommt, zu erscheinen vor mir, wer fordert solches von euren Händen, dass ihr auf meinen Vorhof tretet?
 @13 Bringt nicht mehr Speisopfer so vergeblich! das Räuchwerk ist mir ein Gräuel! Neumonde und Sabbate, da ihr zusammenkommt, Frevel und Festfeier mag ich nicht!
 @14 Meine Seele ist feind euren Neumonden und Jahrfesten; ich bin ihrer überdrüssig, ich bin's müde zu leiden.
@@ -67,7 +67,7 @@
 @9 Ihres Wesens haben sie kein Hehl und rühmen ihre Sünde wie die zu Sodom und verbergen sie nicht. Weh ihrer Seele! denn damit bringen sie sich selbst in alles Unglück.
 @10 Prediget von den Gerechten, dass sie es gut haben; denn sie werden die Frucht ihrer Werke essen.
 @11 Weh aber den Gottlosen! denn sie haben es übel, und es wird ihnen vergolten werden, wie sie es verdienen.
-@12 Kinder sind Gebieter meines Volkes, und Weiber herrschen über sie. Mein Volk, deine Leiter verführen dich und zerstören den Weg, da du gehen sollst.
+@12 Kinder sind Gebieter meines Volkes, und Frauen herrschen über sie. Mein Volk, deine Leiter verführen dich und zerstören den Weg, da du gehen sollst.
 @13 Aber der HErr steht da, zu rechten, und ist aufgetreten, die Völker zu richten.
 @14 Und der HErr geht ins Gericht mit den Ältesten seines Volks und mit seinen Fürsten: Denn ihr habt den Weinberg verderbt, und der Raub von den Armen ist in eurem Hause.
 @15 Warum zertretet ihr mein Volk und zerschlaget die Person der Elenden? spricht der Herr HErr Zebaoth.
@@ -84,7 +84,7 @@
 @26 Und ihre Tore werden trauern und klagen, und sie wird jämmerlich sitzen auf der Erde;
 
 # 4
-@1 dass sieben Weiber werden zu der Zeit einen Mann ergreifen und sprechen: Wir wollen uns selbst nähren und kleiden; lass uns nur nach deinem Namen heißen, dass unsere Schmach von uns genommen werde.
+@1 dass sieben Frauen werden zu der Zeit einen Mann ergreifen und sprechen: Wir wollen uns selbst nähren und kleiden; lass uns nur nach deinem Namen heißen, dass unsere Schmach von uns genommen werde.
 @2 In der Zeit wird des HErrn Zweig lieb und wert sein und die Frucht der Erde herrlich und schön bei denen, die erhalten werden in Israel.
 @3 Und wer da wird übrig sein zu Zion und übrigbleiben zu Jerusalem, der wird heilig heißen, ein jeglicher, der geschrieben ist unter die Lebendigen zu Jerusalem.
 @4 Dann wird der HErr den Unflat der Töchter Zions waschen und die Blutschulden Jerusalems vertreiben von ihr durch den Geist, der richten und ein Feuer anzünden wird.
@@ -290,7 +290,7 @@
 @13 Darum will ich den Himmel bewegen, dass die Erde beben soll von ihrer Stätte durch den Grimm des HErrn Zebaoth und durch den Tag seines Zorns.
 @14 Und sie sollen sein wie ein verscheuchtes Reh und wie eine Herde ohne Hirten, dass sich ein jeglicher zu seinem Volk kehren und ein jeglicher in sein Land fliehen wird,
 @15 darum dass, wer sich da finden lässt, erstochen wird, und wer dabei ist, durchs Schwert fallen wird.
-@16 Es sollen auch ihre Kinder vor ihren Augen zerschmettert, ihre Häuser geplündert und ihre Weiber geschändet werden.
+@16 Es sollen auch ihre Kinder vor ihren Augen zerschmettert, ihre Häuser geplündert und ihre Frauen geschändet werden.
 @17 Denn siehe, ich will die Meder über sie erwecken, die nicht Silber suchen oder nach Gold fragen,
 @18 sondern die Jünglinge mit Bogen erschießen und sich der Frucht des Leibes nicht erbarmen noch der Kinder schonen.
 @19 Also soll Babel, das schönste unter den Königreichen, die herrliche Pracht der Chaldäer, umgekehrt werden von Gott wie Sodom und Gomorra,
@@ -558,7 +558,7 @@
 @8 sondern mit Maßen richtest du sie und lässest sie los, wenn du sie betrübt hast mit deinem rauhen Sturm am Tage des Ostwinds.
 @9 Darum wird dadurch die Sünde Jakobs versöhnt werden; und der Nutzen davon, dass seine Sünden weggenommen werden, ist der, dass er alle Altarsteine macht wie zerstoßene Kalksteine, dass keine Ascherabilder noch Sonnensäulen mehr bleiben.
 @10 Denn die feste Stadt muss einsam werden, die schönen Häuser verödet und verlassen werden wie eine Wüste, dass Kälber daselbst weiden und ruhen und daselbst Reiser abfressen.
-@11 Ihre Zweige werden vor Dürre brechen, dass die Weiber kommen und Feuer damit machen werden; denn es ist ein unverständiges Volk. Darum wird sich auch ihrer nicht erbarmen, der sie gemacht hat; und der sie geschaffen hat, wird ihnen nicht gnädig sein.
+@11 Ihre Zweige werden vor Dürre brechen, dass die Frauen kommen und Feuer damit machen werden; denn es ist ein unverständiges Volk. Darum wird sich auch ihrer nicht erbarmen, der sie gemacht hat; und der sie geschaffen hat, wird ihnen nicht gnädig sein.
 @12 Zu der Zeit wird der HErr worfeln von dem Ufer des Stromes bis an den Bach Ägyptens; und ihr, Kinder Israel, werdet versammelt werden, einer nach dem anderen.
 @13 Zu der Zeit wird man mit einer großen Posaune blasen; so werden kommen die Verlorenen im Lande Assur und die Verstoßenen im Lande Ägypten und werden den HErrn anbeten auf dem heiligen Berge zu Jerusalem.
 
@@ -720,7 +720,7 @@
 @4 Und wird alles Heer des Himmels verfaulen, und der Himmel wird zusammengerollt werden wie ein Buch, und all sein Heer wird verwelken, wie ein Blatt verwelkt am Weinstock und wie ein dürres Blatt am Feigenbaum.
 @5 Denn mein Schwert ist trunken im Himmel; und siehe, es wird herniederfahren auf Edom und über das verbannte Volk zur Strafe.
 @6 Des HErrn Schwert ist voll Blut und dick von Fett, vom Blut der Lämmer und Böcke, von der Nieren Fett aus den Widdern; denn der HErr hält ein Schlachten zu Bozra und ein großes Würgen im Lande Edom.
-@7 Da werden die Einhörner samt ihnen herunter müssen und die Farren samt den gemästeten Ochsen. Denn ihr Land wird trunken werden von Blut und ihre Erde dick werden von Fett.
+@7 Da werden die Einhörner samt ihnen herunter müssen und die Stiere samt den gemästeten Ochsen. Denn ihr Land wird trunken werden von Blut und ihre Erde dick werden von Fett.
 @8 Denn es ist der Tag der Rache des HErrn und das Jahr der Vergeltung, zu rächen Zion.
 @9 Da werden Edoms Bäche zu Pech werden und seine Erde zu Schwefel; ja sein Land wird zu brennendem Pech werden,
 @10 das weder Tag noch Nacht verlöschen wird, sondern ewiglich wird Rauch von ihm aufgehen; und es wird für und für wüst sein, dass niemand dadurch gehen wird in Ewigkeit;
@@ -1003,7 +1003,7 @@
 @7 der ich das Licht mache und schaffe die Finsternis, der ich Frieden gebe und schaffe das Übel. Ich bin der HErr, der solches alles tut.
 @8 Träufelt, ihr Himmel, von oben, und die Wolken regnen Gerechtigkeit. Die Erde tue sich auf und bringe Heil, und Gerechtigkeit wachse mit zu. Ich, der HErr, schaffe es.
 @9 Weh dem, der mit seinem Schöpfer hadert, eine Scherbe wie andere irdene Scherben. Spricht auch der Ton zu seinem Töpfer: Was machst du? Du beweisest deine Hände nicht an deinem Werke.
-@10 Weh dem, der zum Vater sagt: Warum hast du mich gezeugt? und zum Weibe: Warum gebierst du?
+@10 Weh dem, der zum Vater sagt: Warum hast du mich gezeugt? und zur Frau: Warum gebierst du?
 @11 So spricht der HErr, der Heilige in Israel und ihr Meister: Fraget mich um das Zukünftige; weiset meine Kinder und das Werk meiner Hände zu mir!
 @12 Ich habe die Erde gemacht und den Menschen darauf geschaffen. Ich bin's, dessen Hände den Himmel ausgebreitet haben, und habe allem seinem Heer geboten.
 @13 Ich habe ihn erweckt in Gerechtigkeit, und alle seine Wege will ich eben machen. Er soll meine Stadt bauen und meine Gefangenen loslassen, nicht um Geld noch um Geschenke, spricht der HErr Zebaoth.
@@ -1091,7 +1091,7 @@
 @12 Siehe, diese werden von ferne kommen, und siehe, jene von Mitternacht und diese vom Meer und jene vom Lande Sinim.
 @13 Jauchzet, ihr Himmel, freue dich, Erde, lobet, ihr Berge, mit Jauchzen! Denn der HErr hat sein Volk getröstet und erbarmt sich seiner Elenden.
 @14 Zion aber spricht: Der HErr hat mich verlassen, der HErr hat mein vergessen.
-@15 Kann auch ein Weib ihres Kindleins vergessen, dass sie sich nicht erbarme über den Sohn ihres Leibes? Und ob sie desselben vergäße, so will ich doch dein nicht vergessen.
+@15 Kann auch eine Frau ihres Kindleins vergessen, dass sie sich nicht erbarme über den Sohn ihres Leibes? Und ob sie desselben vergäße, so will ich doch dein nicht vergessen.
 @16 Siehe, in die Hände habe ich dich gezeichnet; deine Mauern sind immerdar vor mir.
 @17 Deine Baumeister werden eilen; aber deine Zerbrecher und Verstörer werden sich davonmachen.
 @18 Hebe deine Augen auf umher und siehe: alle diese kommen versammelt zu dir. So wahr ich lebe, spricht der HErr, du sollst mit diesen allen wie mit einem Schmuck angetan werden und wirst sie um dich legen wie eine Braut.
@@ -1179,7 +1179,7 @@
 @3 Denn du wirst ausbrechen zur Rechten und zur Linken, und dein Same wird die Heiden erben und in den verwüsteten Städten wohnen.
 @4 Fürchte dich nicht, denn du sollst nicht zu Schanden werden; werde nicht blöde, denn du sollst nicht zu Spott werden; sondern du wirst der Schande deiner Jungfrauschaft vergessen und der Schmach deiner Witwenschaft nicht mehr gedenken.
 @5 Denn der dich gemacht hat, ist dein Mann – HErr Zebaoth heißt sein Name –, und dein Erlöser der Heilige in Israel, der aller Welt Gott genannt wird.
-@6 Denn der HErr hat dich zu sich gerufen wie ein verlassenes und von Herzen betrübtes Weib und wie ein junges Weib, das verstoßen ist, spricht dein Gott.
+@6 Denn der HErr hat dich zu sich gerufen wie eine verlassene und von Herzen betrübte Frau und wie eine junge Frau, die verstoßen ist, spricht dein Gott.
 @7 Ich habe dich einen kleinen Augenblick verlassen; aber mit großer Barmherzigkeit will ich dich sammeln.
 @8 Ich habe mein Angesicht im Augenblick des Zorns ein wenig vor dir verborgen, aber mit ewiger Gnade will ich mich dein erbarmen, spricht der HErr, dein Erlöser.
 @9 Denn solches soll mir sein wie das Wasser Noahs, da ich schwur, dass die Wasser Noahs sollten nicht mehr über den Erdboden gehen. Also habe ich geschworen, dass ich nicht über dich zürnen noch dich schelten will.
@@ -1324,8 +1324,8 @@
 @1 Um Zions willen will ich nicht schweigen, und um Jerusalems willen will ich nicht innehalten, bis dass ihre Gerechtigkeit aufgehe wie ein Glanz und ihr Heil entbrenne wie eine Fackel,
 @2 dass die Heiden sehen deine Gerechtigkeit und alle Könige deine Herrlichkeit; und du sollst mit einem neuen Namen genannt werden, welchen des HErrn Mund nennen wird.
 @3 Und du wirst sein eine schöne Krone in der Hand des HErrn und ein königlicher Hut in der Hand deines Gottes.
-@4 Man soll dich nicht mehr die Verlassene noch dein Land eine Verwüstung heißen; sondern du sollst „Meine Lust an ihr“ und dein Land „Liebes Weib“ heißen: denn der HErr hat Lust an dir und dein Land hat einen lieben Mann.
-@5 Denn wie ein Mann ein Weib liebhat, so werden dich deine Kinder liebhaben; und wie sich ein Bräutigam freut über die Braut, so wird sich dein Gott über dich freuen.
+@4 Man soll dich nicht mehr die Verlassene noch dein Land eine Verwüstung heißen; sondern du sollst „Meine Lust an ihr“ und dein Land „Liebe Frau“ heißen: denn der HErr hat Lust an dir und dein Land hat einen lieben Mann.
+@5 Denn wie ein Mann eine Frau liebhat, so werden dich deine Kinder liebhaben; und wie sich ein Bräutigam freut über die Braut, so wird sich dein Gott über dich freuen.
 @6 O Jerusalem, ich will Wächter auf deine Mauern bestellen, die den ganzen Tag und die ganze Nacht nimmer stillschweigen sollen und die des HErrn gedenken sollen, auf dass bei euch kein Schweigen sei
 @7 und ihr von ihm nicht schweiget, bis dass Jerusalem zugerichtet und gesetzt werde zum Lobe auf Erden.
 @8 Der HErr hat geschworen bei seiner Rechten und bei dem Arm seiner Macht: Ich will dein Getreide nicht mehr deinen Feinden zu essen geben, noch deinen Most, daran du gearbeitet hast, die Fremden trinken lassen;

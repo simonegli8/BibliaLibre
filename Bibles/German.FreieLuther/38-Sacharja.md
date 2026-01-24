@@ -71,9 +71,9 @@
 @4 Ich will ihn ausgehen lassen, spricht der HErr Zebaoth, dass er soll kommen über das Haus des Diebes und über das Haus derer, die bei meinem Namen falsch schwören; und er soll bleiben in ihrem Hause und soll's verzehren samt seinem Holz und Steinen.
 @5 Und der Engel, der mit mir redete, ging heraus und sprach zu mir: Hebe deine Augen auf und siehe! Was geht da heraus?
 @6 Und ich sprach: Was ist's? Er aber sprach: Ein Epha geht heraus, und sprach: Das ist ihre Gestalt im ganzen Lande.
-@7 Und siehe, es hob sich ein Zentner Blei; und da war ein Weib, das saß im Epha.
+@7 Und siehe, es hob sich ein Zentner Blei; und da war eine Frau, die saß im Epha.
 @8 Er aber sprach: Das ist die Gottlosigkeit. Und er warf sie in das Epha und warf den Klumpen Blei oben aufs Loch.
-@9 Und ich hob meine Augen auf und sah, und siehe, zwei Weiber gingen heraus und hatten Flügel, die der Wind trieb – es waren aber Flügel wie Storchflügel –; und sie führten das Epha zwischen Erde und Himmel.
+@9 Und ich hob meine Augen auf und sah, und siehe, zwei Frauen gingen heraus und hatten Flügel, die der Wind trieb – es waren aber Flügel wie Storchflügel –; und sie führten das Epha zwischen Erde und Himmel.
 @10 Und ich sprach zu dem Engel, der mit mir redete: Wo führen die das Epha hin?
 @11 Er aber sprach zu mir: Dass ihm ein Haus gebaut werde im Lande Sinear und bereitet und es daselbst gesetzt werde auf seinen Boden.
 
@@ -114,7 +114,7 @@
 @1 Und des HErrn Wort geschah zu mir und sprach:
 @2 So spricht der HErr Zebaoth: Ich eifere um Zion mit großem Eifer und eifere um sie in großem Zorn.
 @3 So spricht der HErr: Ich kehre mich wieder zu Zion und will zu Jerusalem wohnen, dass Jerusalem soll eine Stadt der Wahrheit heißen und der Berg des HErrn Zebaoth ein Berg der Heiligkeit.
-@4 So spricht der HErr Zebaoth: Es sollen noch fürder wohnen in den Gassen zu Jerusalem alte Männer und Weiber und die an Stecken gehen vor großem Alter;
+@4 So spricht der HErr Zebaoth: Es sollen noch fürder wohnen in den Gassen zu Jerusalem alte Männer und Frauen und die an Stecken gehen vor großem Alter;
 @5 und der Stadt Gassen sollen sein voll Knaben und Mädchen, die auf ihren Gassen spielen.
 @6 So spricht der HErr Zebaoth: Ist solches unmöglich vor den Augen dieses übrigen Volks zu dieser Zeit, sollte es darum auch unmöglich sein vor meinen Augen? spricht der HErr Zebaoth.
 @7 So spricht der HErr Zebaoth: Siehe, ich will mein Volk erlösen vom Lande gegen Aufgang und vom Lande gegen Niedergang der Sonne;
@@ -199,9 +199,9 @@
 @9 Und zu der Zeit werde ich gedenken, zu vertilgen alle Heiden, die wider Jerusalem gezogen sind.
 @10 Aber über das Haus David und über die Bürger zu Jerusalem will ich ausgießen den Geist der Gnade und des Gebets; und sie werden mich ansehen, welchen sie zerstochen haben, und werden um ihn klagen, wie man klagt um ein einziges Kind, und werden sich um ihn betrüben, wie man sich betrübt um ein erstes Kind.
 @11 Zu der Zeit wird große Klage sein zu Jerusalem, wie die war bei Hadad-Rimmon im Felde Megiddos.
-@12 Und das Land wird klagen, ein jegliches Geschlecht besonders: das Geschlecht des Hauses David besonders und ihre Weiber besonders; das Geschlecht des Hauses Nathan besonders und ihre Weiber besonders;
-@13 das Geschlecht des Hauses Levi besonders und ihre Weiber besonders; das Geschlecht Simeis besonders und ihre Weiber besonders;
-@14 also alle übrigen Geschlechter, ein jegliches besonders und ihre Weiber auch besonders.
+@12 Und das Land wird klagen, ein jegliches Geschlecht besonders: das Geschlecht des Hauses David besonders und ihre Frauen besonders; das Geschlecht des Hauses Nathan besonders und ihre Frauen besonders;
+@13 das Geschlecht des Hauses Levi besonders und ihre Frauen besonders; das Geschlecht Simeis besonders und ihre Frauen besonders;
+@14 also alle übrigen Geschlechter, ein jegliches besonders und ihre Frauen auch besonders.
 
 # 13
 @1 Zu der Zeit wird das Haus David und die Bürger zu Jerusalem einen freien, offenen Born haben wider die Sünde und Unreinigkeit.
@@ -216,7 +216,7 @@
 
 # 14
 @1 Siehe, es kommt dem HErrn die Zeit, dass man deinen Raub austeilen wird in dir.
-@2 Denn ich werde alle Heiden wider Jerusalem sammeln zum Streit. Und die Stadt wird gewonnen, die Häuser geplündert und die Weiber geschändet werden; und die Hälfte der Stadt wird gefangen weggeführt werden, und das übrige Volk wird nicht aus der Stadt ausgerottet werden.
+@2 Denn ich werde alle Heiden wider Jerusalem sammeln zum Streit. Und die Stadt wird gewonnen, die Häuser geplündert und die Frauen geschändet werden; und die Hälfte der Stadt wird gefangen weggeführt werden, und das übrige Volk wird nicht aus der Stadt ausgerottet werden.
 @3 Aber der HErr wird ausziehen und streiten wider die Heiden, gleichwie er zu streiten pflegt zur Zeit des Streites.
 @4 Und seine Füße werden stehen zu der Zeit auf dem Ölberge, der vor Jerusalem liegt gegen Morgen. Und der Ölberg wird sich mitten entzwei spalten, vom Aufgang bis zum Niedergang, sehr weit voneinander, dass sich eine Hälfte des Berges gegen Mitternacht und die andere gegen Mittag geben wird.
 @5 Und ihr werdet fliehen in solchem Tal zwischen meinen Bergen – denn das Tal zwischen den Bergen wird nahe heranreichen an Azel – und werdet fliehen, wie ihr vorzeiten flohet vor dem Erdbeben zur Zeit Usias, des Königs Judas. Da wird dann kommen der HErr, mein Gott, und alle Heiligen mit dir.

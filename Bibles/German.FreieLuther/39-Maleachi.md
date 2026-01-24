@@ -28,8 +28,8 @@
 @11 Denn Juda ist ein Verächter geworden, und in Israel und zu Jerusalem geschehen Gräuel. Denn Juda entheiligt, was dem HErrn heilig ist und was er liebhat, und buhlt mit eines fremden Gottes Tochter.
 @12 Aber der HErr wird den, der solches tut, ausrotten aus der Hütte Jakobs, beide, Meister und Schüler, samt dem, der dem HErrn Zebaoth Speisopfer bringt.
 @13 Weiter tut ihr auch das: ihr bedeckt den Altar des HErrn mit Tränen und Weinen und Seufzen, dass ich nicht mehr mag das Speisopfer ansehen noch etwas Angenehmes von euren Händen empfangen.
-@14 Und so sprecht ihr: „Warum das?“ Darum dass der HErr zwischen dir und dem Weib deiner Jugend Zeuge war, die du verachtest, obwohl sie doch deine Gesellin und ein Weib deines Bundes ist.
-@15 Also tat der Eine nicht, und war doch eines großen Geistes. Was tat aber der Eine? Er suchte den Samen, von Gott verheißen. Darum so sehet euch vor vor eurem Geist und verachte keiner das Weib seiner Jugend.
+@14 Und so sprecht ihr: „Warum das?“ Darum dass der HErr zwischen dir und der Frau deiner Jugend Zeuge war, die du verachtest, obwohl sie doch deine Gesellin und eine Frau deines Bundes ist.
+@15 Also tat der Eine nicht, und war doch eines großen Geistes. Was tat aber der Eine? Er suchte den Samen, von Gott verheißen. Darum so sehet euch vor vor eurem Geist und verachte keiner die Frau seiner Jugend.
 @16 Wer ihr aber gram ist und verstößt sie, spricht der HErr, der Gott Israels, der bedeckt mit Frevel sein Kleid, spricht der HErr Zebaoth. Darum so seht euch vor vor eurem Geist und verachtet sie nicht.
 @17 Ihr macht den HErrn unwillig durch eure Reden. So sprecht ihr: „Womit machen wir ihn unwillig?“ Damit dass ihr sprecht: „Wer Böses tut, der gefällt dem HErrn, und zu solchen hat er Lust“, oder: „Wo ist der Gott, der da strafe?“
 

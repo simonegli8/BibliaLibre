@@ -145,8 +145,8 @@
 
 # 5
 @1 König Belsazer machte ein herrliches Mahl seinen tausend Gewaltigen und soff sich voll mit ihnen.
-@2 Und da er trunken war, hieß er die goldenen und silbernen Gefäße herbringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem weggenommen hatte, dass der König mit seinen Gewaltigen, mit seinen Weibern und mit seinen Kebsweibern daraus tränken.
-@3 Also wurden hergebracht die goldenen Gefäße, die aus dem Tempel, aus dem Haus Gottes zu Jerusalem, genommen waren; und der König, seine Gewaltigen, seine Weiber und Kebsweiber tranken daraus.
+@2 Und da er trunken war, hieß er die goldenen und silbernen Gefäße herbringen, die sein Vater Nebukadnezar aus dem Tempel zu Jerusalem weggenommen hatte, dass der König mit seinen Gewaltigen, mit seinen Frauen und mit seinen Kebsweibern daraus tränken.
+@3 Also wurden hergebracht die goldenen Gefäße, die aus dem Tempel, aus dem Haus Gottes zu Jerusalem, genommen waren; und der König, seine Gewaltigen, seine Frauen und Kebsweiber tranken daraus.
 @4 Und da sie so soffen, lobten sie die goldenen, silbernen, ehernen, eisernen, hölzernen und steinernen Götter.
 @5 Eben zur selben Stunde gingen hervor Finger wie einer Menschenhand, die schrieben, gegenüber dem Leuchter, auf die getünchte Wand in dem königlichen Saal; und der König ward gewahr der Hand, die da schrieb.
 @6 Da entfärbte sich der König, und seine Gedanken erschreckten ihn, dass ihm die Lenden schütterten und die Beine zitterten.
@@ -166,7 +166,7 @@
 @20 Da sich aber sein Herz erhob und er stolz und hochmütig ward, ward er vom königlichen Stuhl gestoßen und verlor seine Ehre
 @21 und ward verstoßen von den Leuten hinweg, und sein Herz ward gleich den Tieren, und er musste bei dem Wild laufen und fraß Gras wie Ochsen, und sein Leib lag unter dem Tau des Himmels, und er ward nass, bis dass er lernte, dass Gott der Höchste Gewalt hat über der Menschen Königreiche und gibt sie, wem er will.
 @22 Und du, Belsazer, sein Sohn, hast dein Herz nicht gedemütigt, ob du wohl solches alles weißt,
-@23 sondern hast dich wider den HErrn des Himmels erhoben, und die Gefäße seines Hauses hat man vor dich bringen müssen, und du, deine Gewaltigen, deine Weiber und deine Kebsweiber habt daraus getrunken, dazu die silbernen, goldenen, ehernen, eisernen, hölzernen, steinernen Götter gelobt, die weder sehen noch hören noch fühlen; den Gott aber, der deinen Odem und alle deine Wege in seiner Hand hat, hast du nicht geehrt.
+@23 sondern hast dich wider den HErrn des Himmels erhoben, und die Gefäße seines Hauses hat man vor dich bringen müssen, und du, deine Gewaltigen, deine Frauen und deine Kebsweiber habt daraus getrunken, dazu die silbernen, goldenen, ehernen, eisernen, hölzernen, steinernen Götter gelobt, die weder sehen noch hören noch fühlen; den Gott aber, der deinen Odem und alle deine Wege in seiner Hand hat, hast du nicht geehrt.
 @24 Darum ist von ihm gesandt diese Hand und diese Schrift, die da verzeichnet steht.
 @25 Das aber ist die Schrift allda verzeichnet: Mene, mene, tekel, U-pharsin.
 @26 Und sie bedeutet dies: Mene, das ist: Gott hat dein Königreich gezählt und vollendet.
@@ -200,7 +200,7 @@
 @22 Daniel aber redete mit dem König: Der König lebe ewiglich!
 @23 Mein Gott hat seinen Engel gesandt, der den Löwen den Rachen zugehalten hat, dass sie mir kein Leid getan haben; denn vor ihm bin ich unschuldig erfunden; so habe ich auch wider dich, Herr König, nichts getan.
 @24 Da ward der König sehr froh und hieß Daniel aus dem Graben ziehen. Und sie zogen Daniel aus dem Graben, und man spürte keinen Schaden an ihm; denn er hatte seinem Gott vertraut.
-@25 Da hieß der König die Männer, die Daniel verklagt hatten, herbringen und zu den Löwen in den Graben werfen samt ihren Kindern und Weibern. Und ehe sie auf den Boden hinabkamen, ergriffen sie die Löwen und zermalmten alle ihre Gebeine.
+@25 Da hieß der König die Männer, die Daniel verklagt hatten, herbringen und zu den Löwen in den Graben werfen samt ihren Kindern und Frauen. Und ehe sie auf den Boden hinabkamen, ergriffen sie die Löwen und zermalmten alle ihre Gebeine.
 @26 Da ließ der König Darius schreiben allen Völkern, Leuten und Zungen auf der ganzen Erde: „Viel Friede zuvor!
 @27 Das ist mein Befehl, dass man in der ganzen Herrschaft meines Königreichs den Gott Daniels fürchten und scheuen soll. Denn er ist der lebendige Gott, der ewiglich bleibt, und sein Königreich ist unvergänglich, und seine Herrschaft hat kein Ende.
 @28 Er ist ein Erlöser und Nothelfer, und er tut Zeichen und Wunder im Himmel und auf Erden. Der hat Daniel von den Löwen erlöst.“
@@ -334,7 +334,7 @@
 @14 Und zur selben Zeit werden sich viele wider den König gegen Mittag setzen; auch werden sich Abtrünnige aus deinem Volk erheben und die Weissagung erfüllen, und werden fallen.
 @15 Also wird der König gegen Mitternacht daherziehen und einen Wall aufschütten und eine feste Stadt gewinnen; und die Mittagsheere werden's nicht können wehren, und sein bestes Volk wird nicht können widerstehen;
 @16 sondern der an ihn kommt, wird seinen Willen schaffen, und niemand wird ihm widerstehen können. Er wird auch in das werte Land kommen und wird's vollenden durch seine Hand.
-@17 Und wird sein Angesicht richten, dass er mit der Macht seines ganzen Königreichs komme. Aber er wird sich mit ihm vertragen und wird ihm seine Tochter zum Weibe geben, dass er ihn verderbe; aber es wird ihm nicht geraten und wird nichts daraus werden.
+@17 Und wird sein Angesicht richten, dass er mit der Macht seines ganzen Königreichs komme. Aber er wird sich mit ihm vertragen und wird ihm seine Tochter zur Frau geben, dass er ihn verderbe; aber es wird ihm nicht geraten und wird nichts daraus werden.
 @18 Darnach wird er sich kehren wider die Inseln und deren viele gewinnen. Aber ein Fürst wird ihn lehren aufhören mit Schmähen, dass er ihn nicht mehr schmähe.
 @19 Also wird er sich wiederum kehren zu den Festen seines Landes und wird sich stoßen und fallen, dass man ihn nirgend finden wird.
 @20 Und an seiner Statt wird einer aufkommen, der wird einen Schergen sein herrliches Reich durchziehen lassen; aber nach wenig Tagen wird er zerbrochen werden, doch weder durch Zorn noch durch Streit.

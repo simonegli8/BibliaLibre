@@ -12,7 +12,7 @@
 @11 welche auch sagten: Ihr Männer von Galiläa, was stehet ihr und sehet gen Himmel? Dieser Jesus, welcher von euch ist aufgenommen gen Himmel, wird kommen, wie ihr ihn gesehen habt gen Himmel fahren.
 @12 Da wandten sie um gen Jerusalem von dem Berge, der da heißt der Ölberg, welcher ist nahe bei Jerusalem und liegt einen Sabbatweg davon.
 @13 Und als sie hineinkamen, stiegen sie auf den Söller, da denn sich aufhielten Petrus und Jakobus, Johannes und Andreas, Philippus und Thomas, Bartholomäus und Matthäus, Jakobus, des Alphäus Sohn, und Simon Zelotes und Judas, des Jakobus Sohn.
-@14 Diese alle waren stets beieinander einmütig mit Beten und Flehen samt den Weibern und Maria, der Mutter Jesu, und seinen Brüdern.
+@14 Diese alle waren stets beieinander einmütig mit Beten und Flehen samt den Frauen und Maria, der Mutter Jesu, und seinen Brüdern.
 @15 Und in den Tagen trat auf Petrus unter die Jünger und sprach (es war aber eine Schar zuhauf bei hundertzwanzig Namen):
 @16 Ihr Männer und Brüder, es musste die Schrift erfüllet werden, welche zuvor gesagt hat der Heilige Geist durch den Mund Davids von Judas, der ein Führer war derer, die Jesus fingen;
 @17 denn er war zu uns gezählt und hatte dies Amt mit uns überkommen.
@@ -143,20 +143,20 @@
 @37 der hatte einen Acker und verkaufte ihn und brachte das Geld und legte es zu der Apostel Füßen.
 
 # 5
-@1 Ein Mann aber, mit Namen Ananias samt seinem Weibe Saphira verkaufte sein Gut
-@2 und entwandte etwas vom Gelde mit Wissen seines Weibes und brachte einen Teil und legte ihn zu der Apostel Füßen.
+@1 Ein Mann aber, mit Namen Ananias samt seiner Frau Saphira verkaufte sein Gut
+@2 und entwandte etwas vom Gelde mit Wissen seiner Frau und brachte einen Teil und legte ihn zu der Apostel Füßen.
 @3 Petrus aber sprach: Ananias, warum hat der Satan dein Herz erfüllt, dass du dem heiligen Geist lögest und entwendetest etwas vom Gelde des Ackers?
 @4 Hättest du ihn doch wohl mögen behalten, da du ihn hattest; und da er verkauft war, war es auch in deiner Gewalt. Warum hast du denn solches in deinem Herzen vorgenommen? Du hast nicht Menschen, sondern Gott gelogen.
 @5 Da Ananias aber diese Worte hörte, fiel er nieder und gab den Geist auf. Und es kam eine große Furcht über alle, die dies hörten.
 @6 Es standen aber die Jünglinge auf und taten ihn beiseite und trugen ihn hinaus und begruben ihn.
-@7 Und es begab sich über eine Weile, bei drei Stunden, dass sein Weib hineinkam und wusste nicht, was geschehen war.
+@7 Und es begab sich über eine Weile, bei drei Stunden, dass seine Frau hineinkam und wusste nicht, was geschehen war.
 @8 Aber Petrus antwortete ihr: Sage mir: Habt ihr den Acker so teuer verkauft? Sie sprach: Ja, so teuer.
 @9 Petrus aber sprach zu ihr: Warum seid ihr denn eins geworden, zu versuchen den Geist des Herrn? Siehe, die Füße derer, die deinen Mann begraben haben, sind vor der Tür und werden dich hinaustragen.
 @10 Und alsbald fiel sie zu seinen Füßen und gab den Geist auf. Da kamen die Jünglinge und fanden sie tot, trugen sie hinaus und begruben sie neben ihren Mann.
 @11 Und es kam eine große Furcht über die ganze Gemeinde und über alle, die solches hörten.
 @12 Es geschahen aber viel Zeichen und Wunder im Volk durch der Apostel Hände; und sie waren alle in der Halle Salomos einmütig.
 @13 Der anderen aber wagte keiner, sich zu ihnen zu tun, sondern das Volk hielt groß von ihnen.
-@14 Es wurden aber immer mehr hinzugetan, die da glaubten an den Herrn, eine Menge Männer und Weiber,
+@14 Es wurden aber immer mehr hinzugetan, die da glaubten an den Herrn, eine Menge Männer und Frauen,
 @15 also dass sie die Kranken auf die Gassen heraustrugen und legten sie auf Betten und Bahren, auf dass, wenn Petrus käme, sein Schatten ihrer etliche überschattete.
 @16 Es kamen auch herzu viele von den umliegenden Städten gen Jerusalem und brachten die Kranken und die von unsauberen Geistern gepeinigt waren; und wurden alle gesund.
 @17 Es stand aber auf der Hohepriester und alle, die mit ihm waren, welches ist die Sekte der Sadduzäer, und wurden voll Eifers
@@ -268,7 +268,7 @@
 # 8
 @1 Saulus aber hatte Wohlgefallen an seinem Tode. Es erhob sich aber zu der Zeit eine große Verfolgung über die Gemeinde zu Jerusalem; und sie zerstreuten sich alle in die Länder Judäa und Samarien, außer den Aposteln.
 @2 Es bestatteten aber Stephanus gottesfürchtige Männer und hielten eine große Klage über ihn.
-@3 Saulus aber verstörte die Gemeinde, ging hin und her in die Häuser und zog hervor Männer und Weiber und überantwortete sie ins Gefängnis.
+@3 Saulus aber verstörte die Gemeinde, ging hin und her in die Häuser und zog hervor Männer und Frauen und überantwortete sie ins Gefängnis.
 @4 Die nun zerstreut waren, gingen um und predigten das Wort.
 @5 Philippus aber kam hinab in eine Stadt in Samarien und predigte ihnen von Christo.
 @6 Das Volk aber hörte einmütig und fleißig zu, was Philippus sagte, und sah die Zeichen, die er tat.
@@ -277,7 +277,7 @@
 @9 Es war aber ein Mann, mit Namen Simon, der zuvor in der Stadt Zauberei trieb und bezauberte das samaritische Volk und gab vor, er wäre etwas Großes.
 @10 Und sie sahen alle auf ihn, beide, klein und groß, und sprachen: Der ist die Kraft Gottes, die da groß ist.
 @11 Sie sahen aber darum auf ihn, dass er sie lange Zeit mit seiner Zauberei bezaubert hatte.
-@12 Da sie aber den Predigten des Philippus glaubten vom Reich Gottes und von dem Namen Jesu Christi, ließen sich taufen Männer und Weiber.
+@12 Da sie aber den Predigten des Philippus glaubten vom Reich Gottes und von dem Namen Jesu Christi, ließen sich taufen Männer und Frauen.
 @13 Da ward auch Simon gläubig und ließ sich taufen und hielt sich zu Philippus. Und als er sah die Zeichen und Taten, die da geschahen, verwunderte er sich.
 @14 Da aber die Apostel hörten zu Jerusalem, dass Samarien das Wort Gottes angenommen hatte, sandten sie zu ihnen Petrus und Johannes,
 @15 welche, da sie hinabkamen, beteten sie über sie, dass sie den heiligen Geist empfingen.
@@ -309,7 +309,7 @@
 
 # 9
 @1 Saulus aber schnaubte noch mit Drohen und Morden wider die Jünger des Herrn und ging zum Hohenpriester
-@2 und bat ihn um Briefe gen Damaskus an die Schulen, auf dass, wenn er etliche dieses Weges fände, Männer und Weiber, er sie gebunden führte gen Jerusalem.
+@2 und bat ihn um Briefe gen Damaskus an die Schulen, auf dass, wenn er etliche dieses Weges fände, Männer und Frauen, er sie gebunden führte gen Jerusalem.
 @3 Und da er auf dem Wege war und nahe an Damaskus kam, umleuchtete ihn plötzlich ein Licht vom Himmel;
 @4 und er fiel auf die Erde und hörte eine Stimme, die sprach zu ihm: Saul, Saul, was verfolgst du mich?
 @5 Er aber sprach: Herr, wer bist du? Der Herr sprach: Ich bin Jesus, den du verfolgst. Es wird dir schwer werden, wider den Stachel zu lecken.
@@ -511,7 +511,7 @@
 @47 Denn also hat uns der Herr geboten: „Ich habe dich den Heiden zum Licht gesetzt, dass du das Heil seist bis an das Ende der Erde.“
 @48 Da es aber die Heiden hörten, wurden sie froh und priesen das Wort des Herrn und wurden gläubig, wie viele ihrer zum ewigen Leben verordnet waren.
 @49 Und das Wort des Herrn ward ausgebreitet durch die ganze Gegend.
-@50 Aber die Juden bewegten die andächtigen und ehrbaren Weiber und der Stadt Oberste und erweckten eine Verfolgung über Paulus und Barnabas und stießen sie zu ihren Grenzen hinaus.
+@50 Aber die Juden bewegten die andächtigen und ehrbaren Frauen und der Stadt Oberste und erweckten eine Verfolgung über Paulus und Barnabas und stießen sie zu ihren Grenzen hinaus.
 @51 Sie aber schüttelten den Staub von ihren Füßen über sie und kamen gen Ikonion.
 @52 Die Jünger aber wurden voll Freude und heiligen Geistes.
 
@@ -589,8 +589,8 @@
 @41 Er zog aber durch Syrien und Zilizien und stärkte die Gemeinden.
 
 # 16
-@1 Er kam aber gen Derbe und Lystra; und siehe, ein Jünger war daselbst mit Namen Timotheus, eines jüdischen Weibes Sohn, die war gläubig, aber eines griechischen Vaters.
-@2 Der hatte ein gut Gerücht bei den Brüdern unter den Lystranern und zu Ikonion.
+@1 Er kam aber gen Derbe und Lystra; und siehe, ein Jünger war daselbst mit Namen Timotheus, der Sohn einer jüdischen Frau, die gläubig war, aber eines griechischen Vaters.
+@2 Der hatte ein guten Ruf bei den Brüdern unter den Lystranern und zu Ikonion.
 @3 Diesen wollte Paulus mit sich ziehen lassen und nahm und beschnitt ihn um der Juden willen, die an den Orten waren; denn sie wussten alle, dass sein Vater war ein Grieche gewesen.
 @4 Wie sie aber durch die Städte zogen, überantworteten sie ihnen, zu halten den Spruch, welcher von den Aposteln und den Ältesten zu Jerusalem beschlossen war.
 @5 Da wurden die Gemeinden im Glauben befestigt und nahmen zu an der Zahl täglich.
@@ -601,8 +601,8 @@
 @10 Als er aber das Gesicht gesehen hatte, da trachteten wir alsobald, zu reisen nach Mazedonien, gewiss, dass uns der Herr dahin berufen hätte, ihnen das Evangelium zu predigen.
 @11 Da fuhren wir aus von Troas; und geradewegs kamen wir gen Samothrazien, des anderen Tages gen Neapolis
 @12 und von da gen Philippi, welches ist die Hauptstadt des Landes Mazedonien und eine Freistadt. Wir hatten aber in dieser Stadt unser Wesen etliche Tage.
-@13 Am Tage des Sabbats gingen wir hinaus vor die Stadt an das Wasser, da man pflegte zu beten, und setzten uns und redeten zu den Weibern, die da zusammenkamen.
-@14 Und ein gottesfürchtiges Weib mit Namen Lydia, eine Purpurkrämerin aus der Stadt der Thyatirer, hörte zu; dieser tat der Herr das Herz auf, dass sie darauf achthatte, was von Paulus geredet ward.
+@13 Am Tage des Sabbats gingen wir hinaus vor die Stadt an das Wasser, da man pflegte zu beten, und setzten uns und redeten zu den Frauen, die da zusammenkamen.
+@14 Und eine gottesfürchtige Frau mit Namen Lydia, eine Purpurkrämerin aus der Stadt der Thyatirer, hörte zu; dieser tat der Herr das Herz auf, dass sie darauf achthatte, was von Paulus geredet ward.
 @15 Als sie aber und ihr Haus getauft ward, ermahnte sie uns und sprach: So ihr mich achtet, dass ich gläubig bin an den Herrn, so kommt in mein Haus und bleibt allda. Und sie nötigte uns.
 @16 Es geschah aber, da wir zu dem Gebet gingen, dass eine Magd uns begegnete, die hatte einen Wahrsagergeist und trug ihren Herren viel Gewinst zu mit Wahrsagen.
 @17 Die folgte allenthalben Paulus und uns nach, schrie und sprach: Diese Menschen sind die Knechte Gottes des Allerhöchsten, die euch den Weg der Seligkeit verkündigen.
@@ -634,7 +634,7 @@
 @1 Nachdem sie aber durch Amphipolis und Apollonia gereist waren, kamen sie gen Thessalonich; da war eine Judenschule.
 @2 Wie nun Paulus gewohnt war, ging er zu ihnen hinein und redete mit ihnen an drei Sabbaten aus der Schrift,
 @3 tat sie ihnen auf und legte es ihnen vor, dass Christus musste leiden und auferstehen von den Toten und dass dieser Jesus, den ich (sprach er) euch verkündige, ist der Christus.
-@4 Und etliche unter ihnen fielen ihm zu und gesellten sich zu Paulus und Silas, auch der gottesfürchtigen Griechen eine große Menge, dazu der vornehmsten Weiber nicht wenige.
+@4 Und etliche unter ihnen fielen ihm zu und gesellten sich zu Paulus und Silas, auch der gottesfürchtigen Griechen eine große Menge, dazu der vornehmsten Frauen nicht wenige.
 @5 Aber die halsstarrigen Juden neideten und nahmen zu sich etliche boshafte Männer Pöbelvolks, machten eine Rotte und richteten einen Aufruhr in der Stadt an und traten vor das Haus Jasons und suchten sie zu führen vor das Volk.
 @6 Da sie aber sie nicht fanden, schleiften sie den Jason und etliche Brüder vor die Obersten der Stadt und schrien: Diese, die den ganzen Weltkreis erregen, sind auch hergekommen;
 @7 die herbergt Jason. Und diese alle handeln gegen des Kaisers Gebote, sagen, ein anderer sei der König, nämlich Jesus.
@@ -642,7 +642,7 @@
 @9 Und da ihnen Genüge von Jason und anderen geleistet war, ließen sie sie los.
 @10 Die Brüder aber fertigten alsobald ab bei der Nacht Paulus und Silas gen Beröa. Da sie dahin kamen, gingen sie in die Judenschule.
 @11 Diese aber waren edler denn die zu Thessalonich; die nahmen das Wort auf ganz willig und forschten täglich in der Schrift, ob sich's also verhielte.
-@12 So glaubten nun viele aus ihnen, auch der griechischen ehrbaren Weiber und Männer nicht wenige.
+@12 So glaubten nun viele aus ihnen, auch der griechischen ehrbaren Frauen und Männer nicht wenige.
 @13 Als aber die Juden von Thessalonich erfuhren, dass auch zu Beröa das Wort Gottes von Paulus verkündigt würde, kamen sie und bewegten auch allda das Volk.
 @14 Aber da fertigten die Brüder Paulus alsobald ab, dass er ginge bis an das Meer; Silas aber und Timotheus blieben da.
 @15 Die aber Paulus geleiteten, führten ihn bis gen Athen. Und nachdem sie Befehl empfangen an den Silas und Timotheus, dass sie aufs schnellste zu ihm kämen, zogen sie hin.
@@ -664,11 +664,11 @@
 @31 darum dass er einen Tag gesetzt hat, an welchem er richten will den Kreis des Erdbodens mit Gerechtigkeit durch einen Mann, in welchem er's beschlossen hat und jedermann vorhält den Glauben, nachdem er ihn hat von den Toten auferweckt.
 @32 Da sie hörten die Auferstehung der Toten, da hatten's etliche ihren Spott; etliche aber sprachen: Wir wollen dich davon weiter hören.
 @33 Also ging Paulus von ihnen.
-@34 Etliche Männer aber hingen ihm an und wurden gläubig, unter welchen war Dionysius, einer aus dem Rat, und ein Weib mit Namen Damaris und andere mit ihnen.
+@34 Etliche Männer aber hingen ihm an und wurden gläubig, unter welchen war Dionysius, einer aus dem Rat, und eine Frau mit Namen Damaris und andere mit ihnen.
 
 # 18
 @1 Darnach schied Paulus von Athen und kam gen Korinth
-@2 und fand einen Juden mit Namen Aquila, von Geburt aus Pontus, welcher war neulich aus Italien gekommen samt seinem Weibe Priscilla (darum dass der Kaiser Klaudius geboten hatte allen Juden, zu weichen aus Rom).
+@2 und fand einen Juden mit Namen Aquila, von Geburt aus Pontus, welcher war neulich aus Italien gekommen samt seiner Frau Priscilla (darum dass der Kaiser Klaudius geboten hatte allen Juden, zu weichen aus Rom).
 @3 Zu denen ging er ein; und dieweil er gleiches Handwerks war, blieb er bei ihnen und arbeitete. (Sie waren aber des Handwerks Teppichmacher).
 @4 Und er lehrte in der Schule an allen Sabbaten und beredete beide, Juden und Griechen.
 @5 Da aber Silas und Timotheus aus Mazedonien kamen, drang Paulus der Geist, zu bezeugen den Juden Jesum, dass er der Christus sei.
@@ -783,7 +783,7 @@
 @2 Und da wir ein Schiff fanden, das nach Phönizien fuhr, traten wir hinein und fuhren hin.
 @3 Als wir aber Zypern ansichtig wurden, ließen wir es zur linken Hand und schifften nach Syrien und kamen an zu Tyrus; denn daselbst sollte das Schiff die Ware niederlegen.
 @4 Und als wir Jünger fanden, blieben wir daselbst sieben Tage. Die sagten Paulus durch den Geist, er sollte nicht hinauf gen Jerusalem ziehen.
-@5 Und es geschah, da wir die Tage zugebracht hatten, zogen wir aus und reisten weiter. Und sie geleiteten uns alle mit Weib und Kindern bis hinaus vor die Stadt, und wir knieten nieder am Ufer und beteten.
+@5 Und es geschah, da wir die Tage zugebracht hatten, zogen wir aus und reisten weiter. Und sie geleiteten uns alle mit Frau und Kindern bis hinaus vor die Stadt, und wir knieten nieder am Ufer und beteten.
 @6 Und als wir einander gesegnet, traten wir ins Schiff; jene aber wandten sich wieder zu dem Ihren.
 @7 Wir aber vollzogen die Schifffahrt von Tyrus und kamen gen Ptolemais und grüßten die Brüder und blieben einen Tag bei ihnen.
 @8 Des anderen Tages zogen wir aus, die wir um Paulus waren, und kamen gen Cäsarea und gingen in das Haus Philippus des Evangelisten, der einer von den Sieben war, und blieben bei ihm.
@@ -824,7 +824,7 @@
 @1 Ihr Männer, liebe Brüder und Väter, höret mein Verantworten an euch.
 @2 Da sie aber hörten, dass er auf hebräisch zu ihnen redete, wurden sie noch stiller. Und er sprach:
 @3 Ich bin ein jüdischer Mann, geboren zu Tarsus in Zilizien und erzogen in dieser Stadt zu den Füßen Gamaliels, gelehrt mit allem Fleiß im väterlichen Gesetz, und war ein Eiferer um Gott, gleichwie ihr heute alle seid,
-@4 und habe diesen Weg verfolgt bis an den Tod. Ich band sie und überantwortete sie ins Gefängnis, Männer und Weiber;
+@4 und habe diesen Weg verfolgt bis an den Tod. Ich band sie und überantwortete sie ins Gefängnis, Männer und Frauen;
 @5 wie mir auch der Hohepriester und der ganze Haufe der Ältesten Zeugnis gibt, von welchen ich Briefe nahm an die Brüder und reiste gen Damaskus; dass ich, die daselbst waren, gebunden führte gen Jerusalem, dass sie bestraft würden.
 @6 Es geschah aber, da ich hinzog und nahe Damaskus kam, um den Mittag, umleuchtete mich schnell ein großes Licht vom Himmel.
 @7 Und ich fiel zum Erdboden und hörte eine Stimme, die sprach zu mir: Saul, Saul, was verfolgst du mich?
@@ -913,7 +913,7 @@
 @21 außer um des einzigen Wortes willen, da ich unter ihnen stand und rief: Über die Auferstehung der Toten werde ich von euch heute angeklagt.
 @22 Da aber Felix solches hörte, zog er sie hin; denn er wusste gar wohl um diesen Weg und sprach: Wenn Lysias, der Hauptmann, herabkommt, so will ich eure Sache erkunden.
 @23 Er befahl aber dem Unterhauptmann, Paulus zu behalten und lassen Ruhe haben und dass er niemand von den Seinen wehrte, ihm zu dienen oder zu ihm zu kommen.
-@24 Nach etlichen Tagen aber kam Felix mit seinem Weibe Drusilla, die eine Jüdin war, und forderte Paulus und hörte ihn von dem Glauben an Christum.
+@24 Nach etlichen Tagen aber kam Felix mit seiner Frau Drusilla, die eine Jüdin war, und forderte Paulus und hörte ihn von dem Glauben an Christum.
 @25 Da aber Paulus redete von der Gerechtigkeit und von der Keuschheit und von dem zukünftigen Gericht, erschrak Felix und antwortete: Gehe hin auf diesmal; wenn ich gelegene Zeit habe, will ich dich herrufen lassen.
 @26 Er hoffte aber daneben, dass ihm von Paulus sollte Geld gegeben werden, dass er ihn losgäbe; darum er ihn auch oft fordern ließ und besprach sich mit ihm.
 @27 Da aber zwei Jahre um waren, kam Porcius Festus an Felix Statt. Felix aber wollte den Juden eine Gunst erzeigen und ließ Paulus hinter sich gefangen.

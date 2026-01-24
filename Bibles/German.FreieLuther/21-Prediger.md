@@ -150,9 +150,9 @@
 @23 Solches alles habe ich versucht mit Weisheit. Ich gedachte, ich will weise sein; sie blieb aber ferne von mir.
 @24 Alles, was da ist, das ist ferne und ist sehr tief; wer will's finden?
 @25 Ich kehrte mein Herz, zu erfahren und erforschen und zu suchen Weisheit und Kunst, zu erfahren der Gottlosen Torheit und Irrtum der Tollen,
-@26 und fand, dass bitterer sei denn der Tod ein solches Weib, dessen Herz Netz und Strick ist und deren Hände Bande sind. Wer Gott gefällt, der wird ihr entrinnen; aber der Sünder wird durch sie gefangen.
+@26 und fand, dass bitterer sei denn der Tod eine solche Frau, dessen Herz Netz und Strick ist und deren Hände Bande sind. Wer Gott gefällt, der wird ihr entrinnen; aber der Sünder wird durch sie gefangen.
 @27 Schau, das habe ich gefunden, spricht der Prediger, eins nach dem anderen, dass ich Erkenntnis fände.
-@28 Und meine Seele sucht noch und hat's nicht gefunden: unter tausend habe ich einen Mann gefunden; aber ein Weib habe ich unter den allen nicht gefunden.
+@28 Und meine Seele sucht noch und hat's nicht gefunden: unter tausend habe ich einen Mann gefunden; aber eine Frau habe ich unter den allen nicht gefunden.
 @29 Allein schaue das: ich habe gefunden, dass Gott den Menschen hat aufrichtig gemacht; aber sie suchen viele Künste.
 
 # 8
@@ -183,7 +183,7 @@
 @6 dass man sie nicht mehr liebt noch hasst noch neidet – und haben kein Teil mehr auf der Welt an allem, was unter der Sonne geschieht.
 @7 So gehe hin und iss dein Brot mit Freuden, trink deinen Wein mit gutem Mut; denn dein Werk gefällt Gott.
 @8 Lass deine Kleider immer weiß sein und lass deinem Haupt Salbe nicht mangeln.
-@9 Brauche das Leben mit deinem Weibe, das du liebhast, solange du das eitle Leben hast, das dir Gott unter der Sonne gegeben hat, solange dein eitel Leben währt; denn das ist dein Teil im Leben und in deiner Arbeit, die du tust unter der Sonne.
+@9 Brauche das Leben mit deiner Frau, die du liebhast, solange du das eitle Leben hast, das dir Gott unter der Sonne gegeben hat, solange dein eitel Leben währt; denn das ist dein Teil im Leben und in deiner Arbeit, die du tust unter der Sonne.
 @10 Alles, was dir vor Handen kommt, zu tun, das tue frisch; denn bei den Toten, dahin du fährst, ist weder Werk, Kunst, Vernunft noch Weisheit.
 @11 Ich wandte mich und sah, wie es unter der Sonne zugeht, dass zum Laufen nicht hilft schnell zu sein, zum Streit hilft nicht stark sein, zur Nahrung hilft nicht geschickt sein, zum Reichtum hilft nicht klug sein; dass einer angenehm sei, dazu hilft nicht, dass er ein Ding wohl kann; sondern alles liegt an Zeit und Glück.
 @12 Auch weiß der Mensch seine Zeit nicht; sondern, wie die Fische gefangen werden mit einem verderblichen Haken, und wie die Vögel mit einem Strick gefangen werden, so werden auch die Menschen berückt zur bösen Zeit, wenn sie plötzlich über sie fällt.

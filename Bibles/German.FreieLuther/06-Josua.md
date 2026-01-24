@@ -12,7 +12,7 @@
 @11 Gehet durch das Lager und gebietet dem Volk und sprecht: Schaffet euch Vorrat; denn über drei Tage werdet ihr über diesen Jordan gehen, dass ihr hineinkommt und das Land einnehmt, dass euch der HErr, euer Gott, geben wird.
 @12 Und zu den Rubenitern, Gaditern und dem halben Stamm Manasse sprach Josua:
 @13 Gedenket an das Wort, das euch Mose, der Knecht des HErrn, sagte und sprach: Der HErr, euer Gott, hat euch zur Ruhe gebracht und dieses Land gegeben.
-@14 Eure Weiber und Kinder und Vieh lasst in dem Lande bleiben, das euch Mose gegeben hat, diesseits des Jordans; ihr aber sollt vor euren Brüdern her ziehen gerüstet, was streitbare Männer sind, und ihnen helfen,
+@14 Eure Frauen und Kinder und Vieh lasst in dem Lande bleiben, das euch Mose gegeben hat, diesseits des Jordans; ihr aber sollt vor euren Brüdern her ziehen gerüstet, was streitbare Männer sind, und ihnen helfen,
 @15 bis dass der HErr eure Brüder auch zur Ruhe bringt wie euch, dass sie auch einnehmen das Land, das ihnen der HErr, euer Gott, geben wird. Alsdann sollt ihr wieder umkehren in euer Land, das euch Mose, der Knecht des HErrn, gegeben hat zu besitzen diesseits des Jordans, gegen der Sonne Aufgang.
 @16 Und sie antworteten Josua und sprachen: Alles, was du uns geboten hast, das wollen wir tun; und wo du uns hin sendest, da wollen wir hin gehen.
 @17 Wie wir Mose gehorsam sind gewesen, so wollen wir dir auch gehorsam sein; allein, dass der HErr, dein Gott, nur mit dir sei, wie er mit Mose war.
@@ -22,7 +22,7 @@
 @1 Josua aber, der Sohn Nuns, hatte zwei Kundschafter heimlich ausgesandt von Sittim und ihnen gesagt: Gehet hin, besehet das Land und Jericho. Die gingen hin und kamen in das Haus einer Hure, die hieß Rahab, und kehrten zu ihr ein.
 @2 Da ward dem König zu Jericho gesagt: Siehe, es sind in dieser Nacht Männer hereingekommen von den Kindern Israel, das Land zu erkunden.
 @3 Da sandte der König zu Jericho zu Rahab und ließ ihr sagen: Gib die Männer heraus, die zu dir in dein Haus gekommen sind; denn sie sind gekommen, das ganze Land zu erkunden.
-@4 Aber das Weib verbarg die zwei Männer und sprach also: Es sind ja Männer zu mir hereingekommen; aber ich wusste nicht, woher sie waren.
+@4 Aber die Frau verbarg die zwei Männer und sprach also: Es sind ja Männer zu mir hereingekommen; aber ich wusste nicht, woher sie waren.
 @5 Und da man die Tore wollte zuschließen, da es finster war, gingen sie hinaus, dass ich nicht weiß, wo sie hin gegangen sind. Jagt ihnen eilend nach, denn ihr werdet sie ergreifen.
 @6 Sie aber ließ sie auf das Dach steigen und verdeckte sie unter die Flachsstengel, die sie auf dem Dache ausgebreitet hatte.
 @7 Aber die Männer jagten ihnen nach auf dem Wege zum Jordan bis an die Furt; und man schloss das Tor zu, da die hinaus waren, die ihnen nachjagten.
@@ -127,8 +127,8 @@
 @18 Allein hütet euch von dem Verbannten, dass ihr euch nicht verbannt, so ihr des Verbannten etwas nehmt, und macht das Lager Israel verbannt und bringt's in Unglück.
 @19 Aber alles Silber und Gold samt dem ehernen und eisernen Geräte soll dem HErrn geheiligt sein, dass es zu des HErrn Schatz komme.
 @20 Da machte das Volk ein Feldgeschrei, und man blies Posaunen. Denn als das Volk den Hall der Posaunen hörte, machte es ein großes Feldgeschrei. Und die Mauern fielen um, und das Volk erstieg die Stadt, ein jeglicher stracks vor sich. Also gewannen sie die Stadt
-@21 und verbannten alles, was in der Stadt war, mit der Schärfe des Schwerts: Mann und Weib, jung und alt, Ochsen, Schafe und Esel.
-@22 Aber Josua sprach zu den zwei Männern, die das Land ausgekundschaftet hatten: Gehet in das Haus der Hure und führet das Weib von dort heraus mit allem, was sie hat, wie ihr geschworen habt.
+@21 und verbannten alles, was in der Stadt war, mit der Schärfe des Schwerts: Mann und Frau, jung und alt, Ochsen, Schafe und Esel.
+@22 Aber Josua sprach zu den zwei Männern, die das Land ausgekundschaftet hatten: Gehet in das Haus der Hure und führet die Frau von dort heraus mit allem, was sie hat, wie ihr geschworen habt.
 @23 Da gingen die Jünglinge, die Kundschafter, hinein und führten Rahab heraus samt Vater und Mutter und Brüdern und alles, was sie hatte, und alle ihre Geschlechter und ließen sie draußen, außerhalb des Lagers Israels.
 @24 Aber die Stadt verbrannten sie mit Feuer und alles, was darin war. Allein das Silber und Gold und eherne und eiserne Geräte taten sie zum Schatz in das Haus des HErrn.
 @25 Rahab aber, die Hure, samt dem Hause ihres Vaters und alles, was sie hatte, ließ Josua leben. Und sie wohnt in Israel bis auf diesen Tag, darum dass sie die Boten verborgen hatte, die Josua auszukundschaften gesandt hatte gen Jericho.
@@ -188,7 +188,7 @@
 @22 Und die in der Stadt kamen auch heraus ihnen entgegen, dass sie mitten unter Israel kamen, von dorther und von hierher; und sie schlugen sie, bis dass niemand unter ihnen übrigblieb noch entrinnen konnte,
 @23 und griffen den König zu Ai lebendig und brachten ihn zu Josua.
 @24 Und da Israel alle Einwohner zu Ai erwürgt hatte auf dem Felde und in der Wüste, die ihnen nachgejagt hatten, und alle durch die Schärfe des Schwertes fielen, bis dass sie alle umkamen, da kehrte sich ganz Israel gegen Ai und schlugen es mit der Schärfe des Schwerts.
-@25 Und alle, die des Tages fielen, beide Männer und Weiber, der waren 12.000, alles Leute von Ai.
+@25 Und alle, die des Tages fielen, beide Männer und Frauen, der waren 12.000, alles Leute von Ai.
 @26 Josua aber zog nicht wieder zurück seine Hand, mit der er die Lanze ausgereckt hatte, bis dass verbannt wurden alle Einwohner Ais.
 @27 Nur das Vieh und den Raub der Stadt teilte Israel aus unter sich nach dem Wort des HErrn, das er Josua geboten hatte.
 @28 Und Josua brannte Ai aus und machte einen Haufen daraus ewiglich, der noch heute daliegt,
@@ -198,7 +198,7 @@
 @32 und schrieb daselbst auf die Steine das andere Gesetz, das Mose den Kindern Israel vorgeschrieben hatte.
 @33 Und das ganze Israel mit seinen Ältesten und Amtleuten und Richtern standen zu beiden Seiten der Lade, gegenüber den Priestern aus Levi, die die Lade des Bundes des HErrn trugen, die Fremdlinge sowohl als die Einheimischen, eine Hälfte neben dem Berge Garizim und die andere Hälfte neben dem Berge Ebal, wie Mose, der Knecht des HErrn, vormals geboten hatte zu segnen das Volk Israel.
 @34 Darnach ließ er ausrufen alle Worte des Gesetzes vom Segen und Fluch, wie es geschrieben steht im Gesetzbuch.
-@35 Es war kein Wort, das Mose geboten hatte, das Josua nicht hätte lassen ausrufen vor der ganzen Gemeinde Israel und vor den Weibern und Kindern und Fremdlingen, die unter ihnen wandelten.
+@35 Es war kein Wort, das Mose geboten hatte, das Josua nicht hätte lassen ausrufen vor der ganzen Gemeinde Israel und vor den Frauen und Kindern und Fremdlingen, die unter ihnen wandelten.
 
 # 9
 @1 Da nun das hörten alle Könige, die jenseits des Jordans waren auf den Gebirgen und in den Gründen und an allen Anfurten des großen Meers, auch die neben dem Berge Libanon waren, nämlich die Hethiter, Amoriter, Kanaaniter, Pheresiter, Heviter und Jebusiter,
@@ -393,8 +393,8 @@
 @13 Kaleb aber, dem Sohn Jephunnes, ward sein Teil gegeben unter den Kindern Juda, wie der HErr dem Josua befahl, nämlich die Stadt des Arba, des Vaters Enaks, das ist Hebron.
 @14 Und Kaleb vertrieb von da die drei Söhne Enaks: Sesai, Ahiman und Thalmai, geboren von Enak,
 @15 und zog von dort hinauf zu den Einwohnern Debirs. Debir aber hieß vorzeiten Kirjath-Sepher.
-@16 Und Kaleb sprach: Wer Kirjath-Sepher schlägt und gewinnt, dem will ich meine Tochter Achsa zum Weibe geben.
-@17 Da gewann es Othniel, der Sohn des Kenas, der Bruder Kalebs; und er gab ihm seine Tochter Achsa zum Weibe.
+@16 Und Kaleb sprach: Wer Kirjath-Sepher schlägt und gewinnt, dem will ich meine Tochter Achsa zur Frau geben.
+@17 Da gewann es Othniel, der Sohn des Kenas, der Bruder Kalebs; und er gab ihm seine Tochter Achsa zur Frau.
 @18 Und es begab sich, da sie einzog, beredete sie ihn, einen Acker zu fordern von ihrem Vater. Und sie stieg vom Esel; da sprach Kaleb zu ihr: Was ist dir?
 @19 Sie sprach: Gib mir einen Segen! Denn du hast mir ein Mittagsland gegeben; gib mir auch Wasserquellen! Da gab er ihr die Quellen von oben und unten.
 @20 Dies ist das Erbteil des Stammes der Kinder Juda nach ihren Geschlechtern.

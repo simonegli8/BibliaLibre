@@ -71,18 +71,18 @@
 @21 Wie? Ist denn das Gesetz wider Gottes Verheißungen? Das sei ferne! Wenn aber ein Gesetz gegeben wäre, das da könnte lebendig machen, so käme die Gerechtigkeit wahrhaftig aus dem Gesetz.
 @22 Aber die Schrift hat alles beschlossen unter die Sünde, auf dass die Verheißung käme durch den Glauben an Jesum Christum, gegeben denen, die da glauben.
 @23 Ehe denn aber der Glaube kam, wurden wir unter dem Gesetz verwahrt und verschlossen auf den Glauben, der da sollte offenbart werden.
-@24 Also ist das Gesetz unser Zuchtmeister gewesen auf Christum, dass wir durch den Glauben gerecht würden.
+@24 Also ist das Gesetz unser Zuchtmeister gewesen auf Christus, dass wir durch den Glauben gerecht würden.
 @25 Nun aber der Glaube gekommen ist, sind wir nicht mehr unter dem Zuchtmeister.
-@26 Denn ihr seid alle Gottes Kinder durch den Glauben an Christum Jesum.
-@27 Denn wieviel euer auf Christum getauft sind, die haben Christum angezogen.
-@28 Hier ist kein Jude noch Grieche, hier ist kein Knecht noch Freier, hier ist kein Mann noch Weib; denn ihr seid allzumal einer in Christo Jesu.
+@26 Denn ihr seid alle Gottes Kinder durch den Glauben an Christus Jesus.
+@27 Denn wieviel euer auf Christus getauft sind, die haben Christus angezogen.
+@28 Hier ist kein Jude noch Grieche, hier ist kein Knecht noch Freier, hier ist kein Mann noch Frau; denn ihr seid allzumal einer in Christus Jesus.
 @29 Seid ihr aber Christi, so seid ihr ja Abrahams Same und nach der Verheißung Erben.
 
 # 4
 @1 Ich sage aber: Solange der Erbe unmündig ist, so ist zwischen ihm und einem Knecht kein Unterschied, ob er wohl ein Herr ist aller Güter;
 @2 sondern er ist unter den Vormündern und Pflegern bis auf die Zeit, die der Vater bestimmt hat.
 @3 Also auch wir, da wir unmündig waren, waren wir gefangen unter den äußerlichen Satzungen.
-@4 Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einem Weibe und unter das Gesetz getan,
+@4 Da aber die Zeit erfüllet ward, sandte Gott seinen Sohn, geboren von einer Frau und unter das Gesetz getan,
 @5 auf dass er die, die unter dem Gesetz waren, erlöste, dass wir die Kindschaft empfingen.
 @6 Weil ihr denn Kinder seid, hat Gott gesandt den Geist seines Sohnes in eure Herzen, der schreit: Abba, lieber Vater!
 @7 Also ist nun hier kein Knecht mehr, sondern eitel Kinder; sind's aber Kinder, so sind's auch Erben Gottes durch Christum.

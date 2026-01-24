@@ -126,18 +126,18 @@
 @19 redet untereinander in Psalmen und Lobgesängen und geistlichen Liedern, singet und spielet dem Herrn in euren Herzen
 @20 und saget Dank allezeit für alles Gott und dem Vater in dem Namen unseres Herrn Jesu Christi,
 @21 und seid untereinander untertan in der Furcht Gottes.
-@22 Die Weiber seien untertan ihren Männern als dem Herrn.
-@23 Denn der Mann ist des Weibes Haupt, gleichwie auch Christus das Haupt ist der Gemeinde, und er ist seines Leibes Heiland.
-@24 Aber wie nun die Gemeinde ist Christo untertan, also auch die Weiber ihren Männern in allen Dingen.
-@25 Ihr Männer, liebet eure Weiber, gleichwie Christus auch geliebt hat die Gemeinde und hat sich selbst für sie gegeben,
+@22 Die Frauen seien untertan ihren Männern als dem Herrn.
+@23 Denn der Mann ist der Frau Haupt, gleichwie auch Christus das Haupt ist der Gemeinde, und er ist seines Leibes Heiland.
+@24 Aber wie nun die Gemeinde ist Christo untertan, also auch die Frauen ihren Männern in allen Dingen.
+@25 Ihr Männer, liebet eure Frauen, gleichwie Christus auch geliebt hat die Gemeinde und hat sich selbst für sie gegeben,
 @26 auf dass er sie heiligte, und hat sie gereinigt durch das Wasserbad im Wort,
 @27 auf dass er sie sich selbst darstellte als eine Gemeinde, die herrlich sei, die nicht habe einen Flecken oder Runzel oder des etwas, sondern dass sie heilig sei und unsträflich.
-@28 Also sollen auch die Männer ihre Weiber lieben wie ihre eigenen Leiber. Wer sein Weib liebt, der liebt sich selbst.
+@28 Also sollen auch die Männer ihre Frauen lieben wie ihre eigenen Leiber. Wer seine Frau liebt, der liebt sich selbst.
 @29 Denn niemand hat jemals sein eigen Fleisch gehasst; sondern er nährt es und pflegt sein, gleichwie auch der Herr die Gemeinde.
 @30 Denn wir sind die Glieder seines Leibes, von seinem Fleisch und von seinem Gebein.
-@31 „Um deswillen wird ein Mensch verlassen Vater und Mutter und seinem Weibe anhangen, und werden die zwei ein Fleisch sein.“
+@31 „Um deswillen wird ein Mensch verlassen Vater und Mutter und seiner Frau anhangen, und werden die zwei ein Fleisch sein.“
 @32 Das Geheimnis ist groß; ich sage aber von Christo und der Gemeinde.
-@33 Doch auch ihr, ja ein jeglicher habe lieb sein Weib als sich selbst; das Weib aber fürchte den Mann.
+@33 Doch auch ihr, ja ein jeglicher habe lieb seine Frau als sich selbst; die Frau aber fürchte den Mann.
 
 # 6
 @1 Ihr Kinder, seid gehorsam euren Eltern in dem Herrn, denn das ist billig.

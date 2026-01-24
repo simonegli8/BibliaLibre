@@ -331,7 +331,7 @@
 @10 Denn du hast mich aus meiner Mutter Leibe gezogen; du warst meine Zuversicht, da ich noch an meiner Mutter Brüsten war.
 @11 Auf dich bin ich geworfen von Mutterleib an; du bist mein Gott von meiner Mutter Schoß an.
 @12 Sei nicht ferne von mir, denn Angst ist nahe; denn es ist hier kein Helfer.
-@13 Große Farren haben mich umgeben, gewaltige Stiere haben mich umringt.
+@13 Große Stiere haben mich umgeben, gewaltige Ochsen von Baschan haben mich umringt.
 @14 Ihren Rachen sperren sie auf gegen mich wie ein brüllender und reißender Löwe.
 @15 Ich bin ausgeschüttet wie Wasser, alle meine Gebeine haben sich zertrennt; mein Herz ist in meinem Leibe wie zerschmolzen Wachs.
 @16 Meine Kräfte sind vertrocknet wie eine Scherbe, und meine Zunge klebt an meinem Gaumen, und du legst mich in des Todes Staub.
@@ -863,7 +863,7 @@
 @6 Und die Himmel werden seine Gerechtigkeit verkündigen; denn Gott ist Richter. (Sela.)
 @7 „Höre, mein Volk, lass mich reden; Israel, lass mich unter dir zeugen: Ich, Gott, bin dein Gott.
 @8 Deines Opfers halber strafe ich dich nicht, sind doch deine Brandopfer immer vor mir.
-@9 Ich will nicht von deinem Hause Farren nehmen noch Böcke aus deinen Ställen.
+@9 Ich will nicht von deinem Hause Stiere nehmen noch Böcke aus deinen Ställen.
 @10 Denn alle Tiere im Walde sind mein und das Vieh auf den Bergen, da sie bei tausend gehen.
 @11 Ich kenne alle Vögel auf den Bergen, und allerlei Tier auf dem Feld ist vor mir.
 @12 Wo mich hungerte, wollte ich dir nicht davon sagen; denn der Erdboden ist mein und alles, was darinnen ist.
@@ -900,7 +900,7 @@
 @18 Denn du hast nicht Lust zum Opfer – ich wollte dir's sonst wohl geben –, und Brandopfer gefallen dir nicht.
 @19 Die Opfer, die Gott gefallen, sind ein geängsteter Geist; ein geängstet und zerschlagen Herz wirst du, Gott, nicht verachten.
 @20 Tue wohl an Zion nach deiner Gnade; baue die Mauern zu Jerusalem.
-@21 Dann werden dir gefallen die Opfer der Gerechtigkeit, die Brandopfer und ganzen Opfer; dann wird man Farren auf deinem Altar opfern.
+@21 Dann werden dir gefallen die Opfer der Gerechtigkeit, die Brandopfer und ganzen Opfer; dann wird man Stiere auf deinem Altar opfern.
 
 # 52
 @1 Eine Unterweisung Davids, vorzusingen;
@@ -1000,7 +1000,7 @@
 @6 dass sie nicht höre die Stimme des Zauberers, des Beschwörers, der wohl beschwören kann.
 @7 Gott, zerbrich ihre Zähne in ihrem Maul; zerstoße, HErr, das Gebiss der jungen Löwen!
 @8 Sie werden zergehen wie Wasser, das dahinfließt. Sie zielen mit ihren Pfeilen; aber dieselben zerbrechen.
-@9 Sie vergehen wie die Schnecke verschmachtet; wie eine unzeitige Geburt eines Weibes sehen sie die Sonne nicht.
+@9 Sie vergehen wie die Schnecke verschmachtet; wie eine unzeitige Geburt einer Frau sehen sie die Sonne nicht.
 @10 Ehe eure Dornen reif werden am Dornstrauch, wird sie ein Zorn so frisch wegreißen.
 @11 Der Gerechte wird sich freuen, wenn er solche Rache sieht, und wird seine Füße baden in des Gottlosen Blut,
 @12 dass die Leute werden sagen: Der Gerechte wird ja seiner Frucht genießen; es ist ja noch Gott Richter auf Erden.
@@ -1212,7 +1212,7 @@
 @29 Tilge sie aus dem Buch der Lebendigen, dass sie mit den Gerechten nicht angeschrieben werden.
 @30 Ich aber bin elend, und mir ist wehe. Gott, deine Hilfe schütze mich!
 @31 Ich will den Namen Gottes loben mit einem Lied und will ihn hoch ehren mit Dank.
-@32 Das wird dem HErrn besser gefallen denn ein Farre, der Hörner und Klauen hat.
+@32 Das wird dem HErrn besser gefallen denn ein Stier, der Hörner und Klauen hat.
 @33 Die Elenden sehen's und freuen sich; und die Gott suchen, denen wird das Herz leben.
 @34 Denn der HErr hört die Armen und verachtet seine Gefangenen nicht.
 @35 Es lobe ihn Himmel, Erde und Meer und alles, was sich darin regt.
@@ -2104,7 +2104,7 @@
 @6 Setze Gottlose über ihn; und der Satan müsse stehen zu seiner Rechten.
 @7 Wenn er gerichtet wird, müsse er verdammt ausgehen, und sein Gebet müsse Sünde sein.
 @8 Seiner Tage müssen wenige werden, und sein Amt müsse ein anderer empfangen.
-@9 Seine Kinder müssen Waisen werden und sein Weib eine Witwe.
+@9 Seine Kinder müssen Waisen werden und seine Frau eine Witwe.
 @10 Seine Kinder müssen in der Irre gehen und betteln und suchen, als die verdorben sind.
 @11 Es müsse der Wucherer aussaugen alles, was er hat; und Fremde müssen seine Güter rauben.
 @12 Und niemand müsse ihm Gutes tun, und niemand erbarme sich seiner Waisen.
@@ -2507,7 +2507,7 @@
 # 128
 @1 Ein Lied im höhern Chor. Wohl dem, der den HErrn fürchtet und auf seinen Wegen geht!
 @2 Du wirst dich nähren (von) deiner Hände Arbeit; wohl dir, du hast es gut.
-@3 Dein Weib wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her.
+@3 Deine Frau wird sein wie ein fruchtbarer Weinstock drinnen in deinem Hause, deine Kinder wie Ölzweige um deinen Tisch her.
 @4 Siehe, also wird gesegnet der Mann, der den HErrn fürchtet.
 @5 Der HErr wird dich segnen aus Zion, dass du sehest das Glück Jerusalems dein Leben lang
 @6 und sehest deiner Kinder Kinder. Friede über Israel!
