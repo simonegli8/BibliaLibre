@@ -13,7 +13,7 @@ Bible Markdown is normal pandoc Markdown with the following extensions:
 
 # Installing BibleMarkdown
 
-You can install bibmark on Windows, Linux and MacOS. You need to have [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) installed. Then you can execute the following commands in a shell:
+You can install bibmark on Windows, Linux and MacOS. You need to have [.NET 10 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/10.0) installed. Then you can execute the following command in a shell:
 
 ```
 dotnet tool install -g BibleMarkdown
