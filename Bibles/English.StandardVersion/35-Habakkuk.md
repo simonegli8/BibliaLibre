@@ -18,45 +18,45 @@
 @17 Is he then to keep on emptying his net and mercilessly killing nations forever?
 
 # 2
-@18 I will take my stand at my watchpost and station myself on the tower, and look out to see what he will say to me, and what I will answer concerning my complaint.
-@19 And the Lord answered me: Write the vision; make it plain on tablets, so he may run who reads it.
-@20 For still the vision awaits its appointed time; it hastens to the end —it will not lie. If it seems slow, wait for it; it will surely come ; it will not delay.
-@21 Behold , his soul is puffed up ; it is not upright within him, but the righteous shall live by his faith.
-@22 Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol; like death he has never enough. He gathers for himself all nations and collects as his own all peoples.
-@23 Shall not all these take up their taunt against him, with scoffing and riddles for him, and say, Woe to him who heaps up what is not his own— for how long?— and loads himself with pledges!
-@24 Will not your debtors suddenly arise, and those awake who will make you tremble? Then you will be spoil for them.
-@25 Because you have plundered many nations, all the remnant of the peoples shall plunder you, for the blood of man and violence to the earth, to cities and all who dwell in them.
-@26 Woe to him who gets evil gain for his house, to set his nest on high, to be safe from the reach of harm!
-@27 You have devised shame for your house by cutting off many peoples; you have forfeited your life.
-@28 For the stone will cry out from the wall, and the beam from the woodwork respond.
-@29 Woe to him who builds a town with blood and founds a city on iniquity!
-@30 Behold , is it not from the Lord of hosts that peoples labor merely for fire, and nations weary themselves for nothing?
-@31 For the earth will be filled with the knowledge of the glory of the Lord as the waters cover the sea.
-@32 Woe to him who makes his neighbors drink — you pour out your wrath and make them drunk, in order to gaze at their nakedness!
-@33 You will have your of shame instead of glory. Drink , yourself, and show your uncircumcision! The cup in the Lord ’s right hand will come around to you, and utter shame will come upon your glory!
-@34 The violence done to Lebanon will overwhelm you, as will the destruction of the beasts that terrified them, for the blood of man and violence to the earth, to cities and all who dwell in them.
-@35 What profit is an idol when its maker has shaped it, a metal image, a teacher of lies? For its maker trusts in his own creation when he makes speechless idols!
-@36 Woe to him who says to a wooden thing, Awake; to a silent stone, Arise! Can this teach? Behold , it is overlaid with gold and silver, and there is no breath at all in it.
-@37 But the Lord is in his holy temple; let all the earth keep silence before him.
+@1 I will take my stand at my watchpost and station myself on the tower, and look out to see what he will say to me, and what I will answer concerning my complaint.
+@2 And the Lord answered me: Write the vision; make it plain on tablets, so he may run who reads it.
+@3 For still the vision awaits its appointed time; it hastens to the end —it will not lie. If it seems slow, wait for it; it will surely come ; it will not delay.
+@4 Behold , his soul is puffed up ; it is not upright within him, but the righteous shall live by his faith.
+@5 Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol; like death he has never enough. He gathers for himself all nations and collects as his own all peoples.
+@6 Shall not all these take up their taunt against him, with scoffing and riddles for him, and say, Woe to him who heaps up what is not his own— for how long?— and loads himself with pledges!
+@7 Will not your debtors suddenly arise, and those awake who will make you tremble? Then you will be spoil for them.
+@8 Because you have plundered many nations, all the remnant of the peoples shall plunder you, for the blood of man and violence to the earth, to cities and all who dwell in them.
+@9 Woe to him who gets evil gain for his house, to set his nest on high, to be safe from the reach of harm!
+@10 You have devised shame for your house by cutting off many peoples; you have forfeited your life.
+@11 For the stone will cry out from the wall, and the beam from the woodwork respond.
+@12 Woe to him who builds a town with blood and founds a city on iniquity!
+@13 Behold , is it not from the Lord of hosts that peoples labor merely for fire, and nations weary themselves for nothing?
+@14 For the earth will be filled with the knowledge of the glory of the Lord as the waters cover the sea.
+@15 Woe to him who makes his neighbors drink — you pour out your wrath and make them drunk, in order to gaze at their nakedness!
+@16 You will have your of shame instead of glory. Drink , yourself, and show your uncircumcision! The cup in the Lord ’s right hand will come around to you, and utter shame will come upon your glory!
+@17 The violence done to Lebanon will overwhelm you, as will the destruction of the beasts that terrified them, for the blood of man and violence to the earth, to cities and all who dwell in them.
+@18 What profit is an idol when its maker has shaped it, a metal image, a teacher of lies? For its maker trusts in his own creation when he makes speechless idols!
+@19 Woe to him who says to a wooden thing, Awake; to a silent stone, Arise! Can this teach? Behold , it is overlaid with gold and silver, and there is no breath at all in it.
+@20 But the Lord is in his holy temple; let all the earth keep silence before him.
 
 # 3
-@38 A prayer of Habakkuk the prophet , according to Shigionoth.
-@39 O Lord, I have heard the report of you, and your work, O Lord , do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy.
-@40 God came from Teman, and the Holy One from Mount Paran. Selah His splendor covered the heavens, and the earth was full of his praise.
-@41 His brightness was like the light; rays flashed from his hand; and there he veiled his power.
-@42 Before him went pestilence, and plague followed at his heels.
-@43 He stood and measured the earth; he looked and shook the nations; then the eternal mountains were scattered; the everlasting hills sank low. His were the everlasting ways.
-@44 I saw the tents of Cushan in affliction; the curtains of the land of Midian did tremble.
-@45 Was your wrath against the rivers , O Lord? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation?
-@46 You stripped the sheath from your bow, calling for many arrows. Selah You split the earth with rivers.
-@47 The mountains saw you and writhed; the raging waters swept on; the deep gave forth its voice; it lifted its hands on high.
-@48 The sun and moon stood still in their place at the light of your arrows as they sped, at the flash of your glittering spear.
-@49 You marched through the earth in fury; you threshed the nations in anger.
-@50 You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. Selah
-@51 You pierced with his own arrows the heads of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret.
-@52 You trampled the sea with your horses, the surging of mighty waters.
-@53 I hear , and my body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us.
-@54 Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,
-@55 yet I will rejoice in the Lord; I will take joy in the God of my salvation.
-@56 God , the Lord , is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster : with stringed instruments.
+@1 A prayer of Habakkuk the prophet , according to Shigionoth.
+@2 O Lord, I have heard the report of you, and your work, O Lord , do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy.
+@3 God came from Teman, and the Holy One from Mount Paran. Selah His splendor covered the heavens, and the earth was full of his praise.
+@4 His brightness was like the light; rays flashed from his hand; and there he veiled his power.
+@5 Before him went pestilence, and plague followed at his heels.
+@6 He stood and measured the earth; he looked and shook the nations; then the eternal mountains were scattered; the everlasting hills sank low. His were the everlasting ways.
+@7 I saw the tents of Cushan in affliction; the curtains of the land of Midian did tremble.
+@8 Was your wrath against the rivers , O Lord? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation?
+@9 You stripped the sheath from your bow, calling for many arrows. Selah You split the earth with rivers.
+@10 The mountains saw you and writhed; the raging waters swept on; the deep gave forth its voice; it lifted its hands on high.
+@11 The sun and moon stood still in their place at the light of your arrows as they sped, at the flash of your glittering spear.
+@12 You marched through the earth in fury; you threshed the nations in anger.
+@13 You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. Selah
+@14 You pierced with his own arrows the heads of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret.
+@15 You trampled the sea with your horses, the surging of mighty waters.
+@16 I hear , and my body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us.
+@17 Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,
+@18 yet I will rejoice in the Lord; I will take joy in the God of my salvation.
+@19 God , the Lord , is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster : with stringed instruments.
 

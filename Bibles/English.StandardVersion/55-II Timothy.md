@@ -19,73 +19,73 @@
 @18 may the Lord grant him to find mercy from the Lord on that Day !— and you well know all the service he rendered at Ephesus.
 
 # 2
-@19 You then, my child, be strengthened by the grace that is in Christ Jesus,
-@20 and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also.
-@21 Share in suffering as a good soldier of Christ Jesus.
-@22 No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him.
-@23 An athlete is not crowned unless he competes according to the rules.
-@24 It is the hard-working farmer who ought to have the first share of the crops.
-@25 Think over what I say, for the Lord will give you understanding in everything.
-@26 Remember Jesus Christ, risen from the dead , the offspring of David, as preached in my gospel,
-@27 for which I am suffering, bound with chains as a criminal. But the word of God is not bound!
-@28 Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory.
-@29 The saying is trustworthy, for: If we have died with him, we will also live with him;
-@30 if we endure , we will also reign with him; if we deny him, he also will deny us;
-@31 if we are faithless, he remains faithful — for he cannot deny himself.
-@32 Remind them of these things , and charge them before God not to quarrel about words, which does no good, but only ruins the hearers.
-@33 Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.
-@34 But avoid irreverent babble, for it will lead people into more and more ungodliness,
-@35 and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
-@36 who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some.
-@37 But God’s firm foundation stands, bearing this seal: The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity.
-@38 Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable.
-@39 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use , set apart as holy, useful to the master of the house, ready for every good work.
-@40 So flee youthful passions and pursue righteousness, faith, love , and peace , along with those who call on the Lord from a pure heart.
-@41 Have nothing to do with foolish, ignorant controversies ; you know that they breed quarrels.
-@42 And the Lord’s servant must not be quarrelsome but kind to everyone, able to teach , patiently enduring evil,
-@43 correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth,
-@44 and they may come to their senses and escape from the snare of the devil , after being captured by him to do his will.
+@1 You then, my child, be strengthened by the grace that is in Christ Jesus,
+@2 and what you have heard from me in the presence of many witnesses entrust to faithful men who will be able to teach others also.
+@3 Share in suffering as a good soldier of Christ Jesus.
+@4 No soldier gets entangled in civilian pursuits, since his aim is to please the one who enlisted him.
+@5 An athlete is not crowned unless he competes according to the rules.
+@6 It is the hard-working farmer who ought to have the first share of the crops.
+@7 Think over what I say, for the Lord will give you understanding in everything.
+@8 Remember Jesus Christ, risen from the dead , the offspring of David, as preached in my gospel,
+@9 for which I am suffering, bound with chains as a criminal. But the word of God is not bound!
+@10 Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory.
+@11 The saying is trustworthy, for: If we have died with him, we will also live with him;
+@12 if we endure , we will also reign with him; if we deny him, he also will deny us;
+@13 if we are faithless, he remains faithful — for he cannot deny himself.
+@14 Remind them of these things , and charge them before God not to quarrel about words, which does no good, but only ruins the hearers.
+@15 Do your best to present yourself to God as one approved, a worker who has no need to be ashamed, rightly handling the word of truth.
+@16 But avoid irreverent babble, for it will lead people into more and more ungodliness,
+@17 and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
+@18 who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some.
+@19 But God’s firm foundation stands, bearing this seal: The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity.
+@20 Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable.
+@21 Therefore, if anyone cleanses himself from what is dishonorable, he will be a vessel for honorable use , set apart as holy, useful to the master of the house, ready for every good work.
+@22 So flee youthful passions and pursue righteousness, faith, love , and peace , along with those who call on the Lord from a pure heart.
+@23 Have nothing to do with foolish, ignorant controversies ; you know that they breed quarrels.
+@24 And the Lord’s servant must not be quarrelsome but kind to everyone, able to teach , patiently enduring evil,
+@25 correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth,
+@26 and they may come to their senses and escape from the snare of the devil , after being captured by him to do his will.
 
 # 3
-@45 But understand this, that in the last days there will come times of difficulty.
-@46 For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,
-@47 heartless, unappeasable, slanderous , without self-control, brutal, not loving good,
-@48 treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,
-@49 having the appearance of godliness, but denying its power. Avoid such people.
-@50 For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,
-@51 always learning and never able to arrive at a knowledge of the truth.
-@52 Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.
-@53 But they will not get very far, for their folly will be plain to all, as was that of those two men.
-@54 You, however , have followed my teaching , my conduct , my aim in life , my faith , my patience , my love , my steadfastness,
-@55 my persecutions and sufferings that happened to me at Antioch, at Iconium , and at Lystra — which persecutions I endured; yet from them all the Lord rescued me.
-@56 Indeed, all who desire to live a godly life in Christ Jesus will be persecuted,
-@57 while evil people and impostors will go on from bad to worse, deceiving and being deceived.
-@58 But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it
-@59 and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus.
-@60 All Scripture is breathed out by God and profitable for teaching, for reproof, for correction , and for training in righteousness,
-@61 that the man of God may be complete, equipped for every good work.
+@1 But understand this, that in the last days there will come times of difficulty.
+@2 For people will be lovers of self, lovers of money, proud, arrogant, abusive, disobedient to their parents, ungrateful, unholy,
+@3 heartless, unappeasable, slanderous , without self-control, brutal, not loving good,
+@4 treacherous, reckless, swollen with conceit, lovers of pleasure rather than lovers of God,
+@5 having the appearance of godliness, but denying its power. Avoid such people.
+@6 For among them are those who creep into households and capture weak women, burdened with sins and led astray by various passions,
+@7 always learning and never able to arrive at a knowledge of the truth.
+@8 Just as Jannes and Jambres opposed Moses, so these men also oppose the truth, men corrupted in mind and disqualified regarding the faith.
+@9 But they will not get very far, for their folly will be plain to all, as was that of those two men.
+@10 You, however , have followed my teaching , my conduct , my aim in life , my faith , my patience , my love , my steadfastness,
+@11 my persecutions and sufferings that happened to me at Antioch, at Iconium , and at Lystra — which persecutions I endured; yet from them all the Lord rescued me.
+@12 Indeed, all who desire to live a godly life in Christ Jesus will be persecuted,
+@13 while evil people and impostors will go on from bad to worse, deceiving and being deceived.
+@14 But as for you, continue in what you have learned and have firmly believed, knowing from whom you learned it
+@15 and how from childhood you have been acquainted with the sacred writings, which are able to make you wise for salvation through faith in Christ Jesus.
+@16 All Scripture is breathed out by God and profitable for teaching, for reproof, for correction , and for training in righteousness,
+@17 that the man of God may be complete, equipped for every good work.
 
 # 4
-@62 I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead , and by his appearing and his kingdom:
-@63 preach the word ; be ready in season and out of season; reprove, rebuke , and exhort, with complete patience and teaching.
-@64 For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,
-@65 and will turn away from listening to the truth and wander off into myths.
-@66 As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
-@67 For I am already being poured out as a drink offering, and the time of my departure has come.
-@68 I have fought the good fight, I have finished the race , I have kept the faith.
-@69 Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge , will award to me on that Day, and not only to me but also to all who have loved his appearing.
-@70 Do your best to come to me soon.
-@71 For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.
-@72 Luke alone is with me. Get Mark and bring him with you, for he is very useful to me for ministry.
-@73 Tychicus I have sent to Ephesus.
-@74 When you come, bring the cloak that I left with Carpus at Troas, also the books , and above all the parchments.
-@75 Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds.
-@76 Beware of him yourself, for he strongly opposed our message.
-@77 At my first defense no one came to stand by me, but all deserted me. May it not be charged against them!
-@78 But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion’s mouth.
-@79 The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.
-@80 Greet Prisca and Aquila, and the household of Onesiphorus.
-@81 Erastus remained at Corinth, and I left Trophimus , who was ill, at Miletus.
-@82 Do your best to come before winter. Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers.
-@83 The Lord be with your spirit. Grace be with you.
+@1 I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead , and by his appearing and his kingdom:
+@2 preach the word ; be ready in season and out of season; reprove, rebuke , and exhort, with complete patience and teaching.
+@3 For the time is coming when people will not endure sound teaching, but having itching ears they will accumulate for themselves teachers to suit their own passions,
+@4 and will turn away from listening to the truth and wander off into myths.
+@5 As for you, always be sober-minded, endure suffering, do the work of an evangelist, fulfill your ministry.
+@6 For I am already being poured out as a drink offering, and the time of my departure has come.
+@7 I have fought the good fight, I have finished the race , I have kept the faith.
+@8 Henceforth there is laid up for me the crown of righteousness, which the Lord, the righteous judge , will award to me on that Day, and not only to me but also to all who have loved his appearing.
+@9 Do your best to come to me soon.
+@10 For Demas, in love with this present world, has deserted me and gone to Thessalonica. Crescens has gone to Galatia, Titus to Dalmatia.
+@11 Luke alone is with me. Get Mark and bring him with you, for he is very useful to me for ministry.
+@12 Tychicus I have sent to Ephesus.
+@13 When you come, bring the cloak that I left with Carpus at Troas, also the books , and above all the parchments.
+@14 Alexander the coppersmith did me great harm; the Lord will repay him according to his deeds.
+@15 Beware of him yourself, for he strongly opposed our message.
+@16 At my first defense no one came to stand by me, but all deserted me. May it not be charged against them!
+@17 But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion’s mouth.
+@18 The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen.
+@19 Greet Prisca and Aquila, and the household of Onesiphorus.
+@20 Erastus remained at Corinth, and I left Trophimus , who was ill, at Miletus.
+@21 Do your best to come before winter. Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers.
+@22 The Lord be with your spirit. Grace be with you.
 

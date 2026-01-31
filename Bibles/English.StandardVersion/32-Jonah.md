@@ -18,39 +18,39 @@
 @17 And the Lord appointed a great fish to swallow up Jonah. And Jonah was in the belly of the fish three days and three nights.
 
 # 2
-@18 Then Jonah prayed to the Lord his God from the belly of the fish,
-@19 saying, I called out to the Lord , out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice.
-@20 For you cast me into the deep, into the heart of the seas, and the flood surrounded me; all your waves and your billows passed over me.
-@21 Then I said, I am driven away from your sight; yet I shall again look upon your holy temple.
-@22 The waters closed in over me to take my life; the deep surrounded me; weeds were wrapped about my head
-@23 at the roots of the mountains. I went down to the land whose bars closed upon me forever; yet you brought up my life from the pit, O Lord my God.
-@24 When my life was fainting away, I remembered the Lord, and my prayer came to you, into your holy temple.
-@25 Those who pay regard to vain idols forsake their hope of steadfast love.
-@26 But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the Lord!
-@27 And the Lord spoke to the fish , and it vomited Jonah out upon the dry land.
+@1 Then Jonah prayed to the Lord his God from the belly of the fish,
+@2 saying, I called out to the Lord , out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice.
+@3 For you cast me into the deep, into the heart of the seas, and the flood surrounded me; all your waves and your billows passed over me.
+@4 Then I said, I am driven away from your sight; yet I shall again look upon your holy temple.
+@5 The waters closed in over me to take my life; the deep surrounded me; weeds were wrapped about my head
+@6 at the roots of the mountains. I went down to the land whose bars closed upon me forever; yet you brought up my life from the pit, O Lord my God.
+@7 When my life was fainting away, I remembered the Lord, and my prayer came to you, into your holy temple.
+@8 Those who pay regard to vain idols forsake their hope of steadfast love.
+@9 But I with the voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the Lord!
+@10 And the Lord spoke to the fish , and it vomited Jonah out upon the dry land.
 
 # 3
-@28 Then the word of the Lord came to Jonah the second time, saying,
-@29 Arise, go to Nineveh , that great city , and call out against it the message that I tell you.
-@30 So Jonah arose and went to Nineveh , according to the word of the Lord . Now Nineveh was an exceedingly great city, three days ’ journey in breadth.
-@31 Jonah began to go into the city, going a day’s journey . And he called out, Yet forty days , and Nineveh shall be overthrown!
-@32 And the people of Nineveh believed God. They called for a fast and put on sackcloth , from the greatest of them to the least of them.
-@33 The word reached the king of Nineveh , and he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes.
-@34 And he issued a proclamation and published through Nineveh, By the decree of the king and his nobles : Let neither man nor beast, herd nor flock, taste anything . Let them not feed or drink water,
-@35 but let man and beast be covered with sackcloth , and let them call out mightily to God. Let everyone turn from his evil way and from the violence that is in his hands.
-@36 Who knows? God may turn and relent and turn from his fierce anger , so that we may not perish.
-@37 When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.
+@1 Then the word of the Lord came to Jonah the second time, saying,
+@2 Arise, go to Nineveh , that great city , and call out against it the message that I tell you.
+@3 So Jonah arose and went to Nineveh , according to the word of the Lord . Now Nineveh was an exceedingly great city, three days ’ journey in breadth.
+@4 Jonah began to go into the city, going a day’s journey . And he called out, Yet forty days , and Nineveh shall be overthrown!
+@5 And the people of Nineveh believed God. They called for a fast and put on sackcloth , from the greatest of them to the least of them.
+@6 The word reached the king of Nineveh , and he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes.
+@7 And he issued a proclamation and published through Nineveh, By the decree of the king and his nobles : Let neither man nor beast, herd nor flock, taste anything . Let them not feed or drink water,
+@8 but let man and beast be covered with sackcloth , and let them call out mightily to God. Let everyone turn from his evil way and from the violence that is in his hands.
+@9 Who knows? God may turn and relent and turn from his fierce anger , so that we may not perish.
+@10 When God saw what they did, how they turned from their evil way, God relented of the disaster that he had said he would do to them, and he did not do it.
 
 # 4
-@38 But it displeased Jonah exceedingly, and he was angry.
-@39 And he prayed to the Lord and said, O Lord , is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you gracious God and merciful, slow to anger and abounding in steadfast love , and relenting from disaster.
-@40 Therefore now , O Lord, please take my life from me, for it is better for me to die than to live.
-@41 And the Lord said, Do you do well to be angry?
-@42 Jonah went out of the city and sat to the east of the city and made a booth for himself there . He sat under it in the shade, till he should see what would become of the city.
-@43 Now the Lord God appointed a plant and made it come up over Jonah , that it might be a shade over his head , to save him from his discomfort. So Jonah was exceedingly glad because of the plant.
-@44 But when dawn came up the next day, God appointed a worm that attacked the plant , so that it withered.
-@45 When the sun rose, God appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint . And he asked that he might die and said, It is better for me to die than to live.
-@46 But God said to Jonah, Do you do well to be angry for the plant? And he said, Yes, I do well to be angry , angry enough to die.
-@47 And the Lord said, You pity the plant, for which you did not labor, nor did you make it grow , which came into being in a night and perished in a night.
-@48 And should not I pity Nineveh , that great city , in which there are more than 120,000 persons who do not know their right hand from their left , and also much cattle?
+@1 But it displeased Jonah exceedingly, and he was angry.
+@2 And he prayed to the Lord and said, O Lord , is not this what I said when I was yet in my country? That is why I made haste to flee to Tarshish; for I knew that you gracious God and merciful, slow to anger and abounding in steadfast love , and relenting from disaster.
+@3 Therefore now , O Lord, please take my life from me, for it is better for me to die than to live.
+@4 And the Lord said, Do you do well to be angry?
+@5 Jonah went out of the city and sat to the east of the city and made a booth for himself there . He sat under it in the shade, till he should see what would become of the city.
+@6 Now the Lord God appointed a plant and made it come up over Jonah , that it might be a shade over his head , to save him from his discomfort. So Jonah was exceedingly glad because of the plant.
+@7 But when dawn came up the next day, God appointed a worm that attacked the plant , so that it withered.
+@8 When the sun rose, God appointed a scorching east wind, and the sun beat down on the head of Jonah so that he was faint . And he asked that he might die and said, It is better for me to die than to live.
+@9 But God said to Jonah, Do you do well to be angry for the plant? And he said, Yes, I do well to be angry , angry enough to die.
+@10 And the Lord said, You pity the plant, for which you did not labor, nor did you make it grow , which came into being in a night and perished in a night.
+@11 And should not I pity Nineveh , that great city , in which there are more than 120,000 persons who do not know their right hand from their left , and also much cattle?
 

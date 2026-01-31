@@ -17,36 +17,36 @@
 @16 They profess to know God, but they deny him by their works . They are detestable, disobedient, unfit for any good work.
 
 # 2
-@17 But as for you, teach what accords with sound doctrine.
-@18 Older men are to be sober-minded, dignified, self-controlled, sound in faith , in love , and in steadfastness.
-@19 Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine . They are to teach what is good,
-@20 and so train the young women to love their husbands and children,
-@21 to be self-controlled, pure, working at home, kind , and submissive to their own husbands, that the word of God may not be reviled.
-@22 Likewise, urge the younger men to be self-controlled.
-@23 Show yourself in all respects to be a model of good works , and in your teaching show integrity, dignity,
-@24 and sound speech that cannot be condemned, so that an opponent may be put to shame, having nothing evil to say about us.
-@25 Bondservants are to be submissive to their own masters in everything ; they are to be well-pleasing, not argumentative,
-@26 not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.
-@27 For the grace of God has appeared, bringing salvation for all people,
-@28 training us to renounce ungodliness and worldly passions , and to live self-controlled, upright, and godly lives in the present age,
-@29 waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,
-@30 who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.
-@31 Declare these things; exhort and rebuke with all authority. Let no one disregard you.
+@1 But as for you, teach what accords with sound doctrine.
+@2 Older men are to be sober-minded, dignified, self-controlled, sound in faith , in love , and in steadfastness.
+@3 Older women likewise are to be reverent in behavior, not slanderers or slaves to much wine . They are to teach what is good,
+@4 and so train the young women to love their husbands and children,
+@5 to be self-controlled, pure, working at home, kind , and submissive to their own husbands, that the word of God may not be reviled.
+@6 Likewise, urge the younger men to be self-controlled.
+@7 Show yourself in all respects to be a model of good works , and in your teaching show integrity, dignity,
+@8 and sound speech that cannot be condemned, so that an opponent may be put to shame, having nothing evil to say about us.
+@9 Bondservants are to be submissive to their own masters in everything ; they are to be well-pleasing, not argumentative,
+@10 not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior.
+@11 For the grace of God has appeared, bringing salvation for all people,
+@12 training us to renounce ungodliness and worldly passions , and to live self-controlled, upright, and godly lives in the present age,
+@13 waiting for our blessed hope, the appearing of the glory of our great God and Savior Jesus Christ,
+@14 who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works.
+@15 Declare these things; exhort and rebuke with all authority. Let no one disregard you.
 
 # 3
-@32 Remind them to be submissive to rulers and authorities, to be obedient , to be ready for every good work,
-@33 to speak evil of no one, to avoid quarreling , to be gentle , and to show perfect courtesy toward all people.
-@34 For we ourselves were once foolish, disobedient , led astray, slaves to various passions and pleasures , passing our days in malice and envy, hated by others and hating one another.
-@35 But when the goodness and loving kindness of God our Savior appeared,
-@36 he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,
-@37 whom he poured out on us richly through Jesus Christ our Savior,
-@38 so that being justified by his grace we might become heirs according to the hope of eternal life.
-@39 The saying is trustworthy, and I want you to insist on these things, so that those who have believed in God may be careful to devote themselves to good works. These things are excellent and profitable for people.
-@40 But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.
-@41 As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,
-@42 knowing that such a person is warped and sinful ; he is self-condemned.
-@43 When I send Artemas or Tychicus to you , do your best to come to me at Nicopolis, for I have decided to spend the winter there.
-@44 Do your best to speed Zenas the lawyer and Apollos on their way ; see that they lack nothing.
-@45 And let our people learn to devote themselves to good works , so as to help cases of urgent need, and not be unfruitful.
-@46 All who are with me send greetings to you. Greet those who love us in the faith. Grace be with you all.
+@1 Remind them to be submissive to rulers and authorities, to be obedient , to be ready for every good work,
+@2 to speak evil of no one, to avoid quarreling , to be gentle , and to show perfect courtesy toward all people.
+@3 For we ourselves were once foolish, disobedient , led astray, slaves to various passions and pleasures , passing our days in malice and envy, hated by others and hating one another.
+@4 But when the goodness and loving kindness of God our Savior appeared,
+@5 he saved us, not because of works done by us in righteousness, but according to his own mercy, by the washing of regeneration and renewal of the Holy Spirit,
+@6 whom he poured out on us richly through Jesus Christ our Savior,
+@7 so that being justified by his grace we might become heirs according to the hope of eternal life.
+@8 The saying is trustworthy, and I want you to insist on these things, so that those who have believed in God may be careful to devote themselves to good works. These things are excellent and profitable for people.
+@9 But avoid foolish controversies, genealogies, dissensions, and quarrels about the law, for they are unprofitable and worthless.
+@10 As for a person who stirs up division, after warning him once and then twice, have nothing more to do with him,
+@11 knowing that such a person is warped and sinful ; he is self-condemned.
+@12 When I send Artemas or Tychicus to you , do your best to come to me at Nicopolis, for I have decided to spend the winter there.
+@13 Do your best to speed Zenas the lawyer and Apollos on their way ; see that they lack nothing.
+@14 And let our people learn to devote themselves to good works , so as to help cases of urgent need, and not be unfruitful.
+@15 All who are with me send greetings to you. Greet those who love us in the faith. Grace be with you all.
 

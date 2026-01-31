@@ -22,46 +22,46 @@
 @21 For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
 
 # 2
-@22 But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction.
-@23 And many will follow their sensuality , and because of them the way of truth will be blasphemed.
-@24 And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep.
-@25 For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment;
-@26 if he did not spare the ancient world, but preserved Noah , a herald of righteousness , with seven others, when he brought a flood upon the world of the ungodly;
-@27 if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction, making them an example of what is going to happen to the ungodly;
-@28 and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked
-@29 (for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard );
-@30 then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment,
-@31 and especially those who indulge in the lust of defiling passion and despise authority. Bold and willful , they do not tremble as they blaspheme the glorious ones,
-@32 whereas angels, though greater in might and power , do not pronounce a blasphemous judgment against them before the Lord.
-@33 But these, like irrational animals, creatures of instinct, born to be caught and destroyed, blaspheming about matters of which they are ignorant , will also be destroyed in their destruction,
-@34 suffering wrong as the wage for their wrongdoing . They count it pleasure to revel in the daytime . They are blots and blemishes, reveling in their deceptions, while they feast with you.
-@35 They have eyes full of adultery, insatiable for sin . They entice unsteady souls . They have hearts trained in greed. Accursed children!
-@36 Forsaking the right way, they have gone astray . They have followed the way of Balaam , the son of Beor, who loved gain from wrongdoing,
-@37 but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet’s madness.
-@38 These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved.
-@39 For, speaking loud boasts of folly , they entice by sensual passions of the flesh those who are escaping from those who live in error.
-@40 They promise them freedom, but they themselves are slaves of corruption. For whatever overcomes a person , to that he is enslaved.
-@41 For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ , they are again entangled in them and overcome, the last state has become worse for them than the first.
-@42 For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them.
-@43 What the true proverb says has happened to them: The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire.
+@1 But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction.
+@2 And many will follow their sensuality , and because of them the way of truth will be blasphemed.
+@3 And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep.
+@4 For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment;
+@5 if he did not spare the ancient world, but preserved Noah , a herald of righteousness , with seven others, when he brought a flood upon the world of the ungodly;
+@6 if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction, making them an example of what is going to happen to the ungodly;
+@7 and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked
+@8 (for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard );
+@9 then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment,
+@10 and especially those who indulge in the lust of defiling passion and despise authority. Bold and willful , they do not tremble as they blaspheme the glorious ones,
+@11 whereas angels, though greater in might and power , do not pronounce a blasphemous judgment against them before the Lord.
+@12 But these, like irrational animals, creatures of instinct, born to be caught and destroyed, blaspheming about matters of which they are ignorant , will also be destroyed in their destruction,
+@13 suffering wrong as the wage for their wrongdoing . They count it pleasure to revel in the daytime . They are blots and blemishes, reveling in their deceptions, while they feast with you.
+@14 They have eyes full of adultery, insatiable for sin . They entice unsteady souls . They have hearts trained in greed. Accursed children!
+@15 Forsaking the right way, they have gone astray . They have followed the way of Balaam , the son of Beor, who loved gain from wrongdoing,
+@16 but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet’s madness.
+@17 These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved.
+@18 For, speaking loud boasts of folly , they entice by sensual passions of the flesh those who are escaping from those who live in error.
+@19 They promise them freedom, but they themselves are slaves of corruption. For whatever overcomes a person , to that he is enslaved.
+@20 For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ , they are again entangled in them and overcome, the last state has become worse for them than the first.
+@21 For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them.
+@22 What the true proverb says has happened to them: The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire.
 
 # 3
-@44 This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder,
-@45 that you should remember the predictions of the holy prophets and the commandment of the Lord and Savior through your apostles,
-@46 knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires.
-@47 They will say, Where is the promise of his coming? For ever since the fathers fell asleep , all things are continuing as they were from the beginning of creation.
-@48 For they deliberately overlook this fact , that the heavens existed long ago, and the earth was formed out of water and through water by the word of God,
-@49 and that by means of these the world that then existed was deluged with water and perished.
-@50 But by the same word the heavens and earth that now exist are stored up for fire , being kept until the day of judgment and destruction of the ungodly.
-@51 But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day.
-@52 The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
-@53 But the day of the Lord will come like a thief , and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed.
-@54 Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness,
-@55 waiting for and hastening the coming of the day of God , because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn!
-@56 But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.
-@57 Therefore, beloved , since you are waiting for these , be diligent to be found by him without spot or blemish , and at peace.
-@58 And count the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him,
-@59 as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.
-@60 You therefore, beloved, knowing this beforehand, take care that you are not carried away with the error of lawless people and lose your own stability.
-@61 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
+@1 This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder,
+@2 that you should remember the predictions of the holy prophets and the commandment of the Lord and Savior through your apostles,
+@3 knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires.
+@4 They will say, Where is the promise of his coming? For ever since the fathers fell asleep , all things are continuing as they were from the beginning of creation.
+@5 For they deliberately overlook this fact , that the heavens existed long ago, and the earth was formed out of water and through water by the word of God,
+@6 and that by means of these the world that then existed was deluged with water and perished.
+@7 But by the same word the heavens and earth that now exist are stored up for fire , being kept until the day of judgment and destruction of the ungodly.
+@8 But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day.
+@9 The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.
+@10 But the day of the Lord will come like a thief , and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed.
+@11 Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness,
+@12 waiting for and hastening the coming of the day of God , because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn!
+@13 But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.
+@14 Therefore, beloved , since you are waiting for these , be diligent to be found by him without spot or blemish , and at peace.
+@15 And count the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him,
+@16 as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.
+@17 You therefore, beloved, knowing this beforehand, take care that you are not carried away with the error of lawless people and lose your own stability.
+@18 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
 
