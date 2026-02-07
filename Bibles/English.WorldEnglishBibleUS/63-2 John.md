@@ -16,7 +16,6 @@
 @10 If anyone comes to you and doesn’t bring this teaching, don’t receive him into your house, and don’t welcome him, 
 @11 for he who welcomes him participates in his evil deeds.
 
-## Closing letter; Cheers
-
+## Closing letter; Cheers
 @12 Having many things to write to you, I don’t want to do so with paper and ink, but I hope to come to you and to speak face to face, that our joy may be made full. 
 @13 The children of your chosen sister greet you. Amen. 

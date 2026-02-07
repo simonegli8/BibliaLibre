@@ -1528,7 +1528,6 @@ Then Paul stretched out his hand, and made his defense.
 @29 When he had said these words, the Jews departed, having a great dispute among themselves.^a^ 
 ^a^[**28:29** NU omits verse 29.]
 
-## Paul's two-year ministry in captivity in Rome
-
+## Paul's two-year ministry in captivity in Rome
 @30 Paul stayed two whole years in his own rented house and received all who were coming to him, 
 @31 preaching God’s Kingdom and teaching the things concerning the Lord Jesus Christ with all boldness, without hindrance. 

@@ -276,7 +276,7 @@ The king said, “Hang him on it!”
 @32 The commandment of Esther confirmed these matters of Purim; and it was written in the book. 
 
 # 10 
-## Position of power and services of Mardochai for the welfare of the Jews
+## Position of power and services of Mardochai for the welfare of the Jews
 @1 King Ahasuerus laid a tribute on the land and on the islands of the sea. 
 @2 Aren’t all the acts of his power and of his might, and the full account of the greatness of Mordecai, to which the king advanced him, written in the book of the chronicles of the kings of Media and Persia? 
 @3 For Mordecai the Jew was next to King Ahasuerus, and great among the Jews and accepted by the multitude of his brothers, seeking the good of his people and speaking peace to all his descendants. 

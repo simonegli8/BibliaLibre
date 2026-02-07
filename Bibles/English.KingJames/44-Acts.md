@@ -62,7 +62,7 @@
 @31 He seeing this before spake of the resurrection of Christ, that his soul was not left in hell, neither his flesh did see corruption. 
 @32 This Jesus hath God raised up, whereof we all are witnesses. 
 @33 Therefore being by the right hand of God exalted, and having received of the Father the promise of the Holy Ghost, he hath shed forth this, which ye now see and hear. 
-@34 For David is not ascended into the heavens: but he saith himself, The [LORD]{.smallcaps} said unto my Lord, Sit thou on my right hand, 
+@34 For David is not ascended into the heavens: but he saith himself, The LORD said unto my Lord, Sit thou on my right hand, 
 @35 Until I make thy foes thy footstool. 
 @36 Therefore let all the house of Israel know assuredly, that God hath made that same Jesus, whom ye have crucified, both Lord and Christ. 
 

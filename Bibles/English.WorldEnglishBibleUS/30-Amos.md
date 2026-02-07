@@ -248,8 +248,7 @@ Then Yahweh said to me, “The end has come on my people Israel. I will not agai
 @11 In that day I will raise up the tent of David who is fallen and close up its breaches, and I will raise up its ruins, and I will build it as in the days of old, 
 @12 that they may possess the remnant of Edom and all the nations who are called by my name,” says Yahweh who does this.
 
-## The glory of the future dispensation
- 
+## The glory of the future dispensation
 @13 “Behold, the days come,” says Yahweh, “that the plowman shall overtake the reaper, and the one treading grapes him who sows seed; and sweet wine will drip from the mountains, and flow from the hills. 
 @14 I will bring my people Israel back from captivity, and they will rebuild the ruined cities, and inhabit them; and they will plant vineyards, and drink wine from them. They shall also make gardens, and eat their fruit. 
 @15 I will plant them on their land, and they will no more be plucked up out of their land which I have given them,” says Yahweh your God. 

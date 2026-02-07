@@ -277,8 +277,7 @@ Then he said to him, “Call her name Lo-Ruhamah,^a^ for I will no longer have m
 @3 Assyria can’t save us. We won’t ride on horses; neither will we say any more to the work of our hands, ‘Our gods!’ for in you the fatherless finds mercy.” 
 @4 “I will heal their waywardness. I will love them freely; for my anger is turned away from them.
 
-## God's promise of salvation
- 
+## God's promise of salvation
 @5 I will be like the dew to Israel. He will blossom like the lily, and send down his roots like Lebanon. 
 @6 His branches will spread, and his beauty will be like the olive tree, and his fragrance like Lebanon. 
 @7 Men will dwell in his shade. They will revive like the grain, and blossom like the vine. Their fragrance will be like the wine of Lebanon. 

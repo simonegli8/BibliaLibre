@@ -12,12 +12,12 @@
 ^a^[**1:4** How…: Heb. What was, etc] ^b^[**1:7** Here…: Heb. Behold me] ^c^[**1:9** anguish…: or, my coat of mail (or, my embroidered coat) hindereth me, that my, etc]
 
 @11 Then David took hold on his clothes, and rent them; and likewise all the men that were with him: 
-@12 And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the [LORD]{.smallcaps}, and for the house of Israel; because they were fallen by the sword. 
+@12 And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the LORD, and for the house of Israel; because they were fallen by the sword. 
 
 @13 And David said unto the young man that told him, Whence art thou? And he answered, I am the son of a stranger, an Amalekite. 
-@14 And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the [LORD’s]{.smallcaps} anointed? 
+@14 And David said unto him, How wast thou not afraid to stretch forth thine hand to destroy the LORD’S anointed? 
 @15 And David called one of the young men, and said, Go near, and fall upon him. And he smote him that he died. 
-@16 And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the [LORD’s]{.smallcaps} anointed. 
+@16 And David said unto him, Thy blood be upon thy head; for thy mouth hath testified against thee, saying, I have slain the LORD’S anointed. 
 
 @17 And David lamented with this lamentation over Saul and over Jonathan his son: 
 @18 (Also he bade them teach the children of Judah the use of the bow: behold, it is written in the book of Jasher.)^a^ 
@@ -33,13 +33,13 @@
 ^a^[**1:18** of Jasher: or, of the upright] ^b^[**1:23** pleasant: or, sweet] 
 
 # 2 
-@1 And it came to pass after this, that David enquired of the [LORD]{.smallcaps}, saying, Shall I go up into any of the cities of Judah? And the [LORD]{.smallcaps} said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron. 
+@1 And it came to pass after this, that David enquired of the LORD, saying, Shall I go up into any of the cities of Judah? And the LORD said unto him, Go up. And David said, Whither shall I go up? And he said, Unto Hebron. 
 @2 So David went up thither, and his two wives also, Ahinoam the Jezreelitess, and Abigail Nabal’s wife the Carmelite. 
 @3 And his men that were with him did David bring up, every man with his household: and they dwelt in the cities of Hebron. 
 @4 And the men of Judah came, and there they anointed David king over the house of Judah. And they told David, saying, That the men of Jabesh-gilead were they that buried Saul. 
 
-@5 And David sent messengers unto the men of Jabesh-gilead, and said unto them, Blessed be ye of the [LORD]{.smallcaps}, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him. 
-@6 And now the [LORD]{.smallcaps} shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing. 
+@5 And David sent messengers unto the men of Jabesh-gilead, and said unto them, Blessed be ye of the LORD, that ye have shewed this kindness unto your lord, even unto Saul, and have buried him. 
+@6 And now the LORD shew kindness and truth unto you: and I also will requite you this kindness, because ye have done this thing. 
 @7 Therefore now let your hands be strengthened, and be ye valiant: for your master Saul is dead, and also the house of Judah have anointed me king over them.^a^ 
 ^a^[**2:7** be ye…: Heb. be ye the sons of valour]
 
@@ -90,7 +90,7 @@
 
 @7 And Saul had a concubine, whose name was Rizpah, the daughter of Aiah: and Ish-bosheth said to Abner, Wherefore hast thou gone in unto my father’s concubine? 
 @8 Then was Abner very wroth for the words of Ish-bosheth, and said, Am I a dog’s head, which against Judah do shew kindness this day unto the house of Saul thy father, to his brethren, and to his friends, and have not delivered thee into the hand of David, that thou chargest me to day with a fault concerning this woman? 
-@9 So do God to Abner, and more also, except, as the [LORD]{.smallcaps} hath sworn to David, even so I do to him; 
+@9 So do God to Abner, and more also, except, as the LORD hath sworn to David, even so I do to him; 
 @10 To translate the kingdom from the house of Saul, and to set up the throne of David over Israel and over Judah, from Dan even to Beer-sheba. 
 @11 And he could not answer Abner a word again, because he feared him. 
 
@@ -103,7 +103,7 @@
 ^a^[**3:13** that is: Heb. saying] ^b^[**3:15** Phaltiel: also called, Phalti] ^c^[**3:16** along…: Heb. going and weeping]
 
 @17 And Abner had communication with the elders of Israel, saying, Ye sought for David in times past to be king over you:^a^ 
-@18 Now then do it: for the [LORD]{.smallcaps} hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies. 
+@18 Now then do it: for the LORD hath spoken of David, saying, By the hand of my servant David I will save my people Israel out of the hand of the Philistines, and out of the hand of all their enemies. 
 @19 And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin. 
 @20 So Abner came to David to Hebron, and twenty men with him. And David made Abner and the men that were with him a feast. 
 @21 And Abner said unto David, I will arise and go, and will gather all Israel unto my lord the king, that they may make a league with thee, and that thou mayest reign over all that thine heart desireth. And David sent Abner away; and he went in peace. 
@@ -117,7 +117,7 @@
 @27 And when Abner was returned to Hebron, Joab took him aside in the gate to speak with him quietly, and smote him there under the fifth rib, that he died, for the blood of Asahel his brother.^a^ 
 ^a^[**3:27** quietly: or, peaceably]
 
-@28 And afterward when David heard it, he said, I and my kingdom are guiltless before the [LORD]{.smallcaps} for ever from the blood of Abner the son of Ner:^a^ 
+@28 And afterward when David heard it, he said, I and my kingdom are guiltless before the LORD for ever from the blood of Abner the son of Ner:^a^ 
 @29 Let it rest on the head of Joab, and on all his father’s house; and let there not fail from the house of Joab one that hath an issue, or that is a leper, or that leaneth on a staff, or that falleth on the sword, or that lacketh bread.^b^ 
 @30 So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle. 
 ^a^[**3:28** blood: Heb. bloods] ^b^[**3:29** fail: Heb. be cut off]
@@ -130,7 +130,7 @@
 @36 And all the people took notice of it, and it pleased them: as whatsoever the king did pleased all the people.^c^ 
 @37 For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner. 
 @38 And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel? 
-@39 And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the [LORD]{.smallcaps} shall reward the doer of evil according to his wickedness.^d^
+@39 And I am this day weak, though anointed king; and these men the sons of Zeruiah be too hard for me: the LORD shall reward the doer of evil according to his wickedness.^d^
 ^a^[**3:31** bier: Heb. bed] ^b^[**3:34** wicked…: Heb. children of iniquity] ^c^[**3:36** pleased them: Heb. was good in their eyes] ^d^[**3:39** weak: Heb. tender] 
 
 # 4 
@@ -141,10 +141,10 @@
 @5 And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ish-bosheth, who lay on a bed at noon. 
 @6 And they came thither into the midst of the house, as though they would have fetched wheat; and they smote him under the fifth rib: and Rechab and Baanah his brother escaped. 
 @7 For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night. 
-@8 And they brought the head of Ish-bosheth unto David to Hebron, and said to the king, Behold the head of Ish-bosheth the son of Saul thine enemy, which sought thy life; and the [LORD]{.smallcaps} hath avenged my lord the king this day of Saul, and of his seed. 
+@8 And they brought the head of Ish-bosheth unto David to Hebron, and said to the king, Behold the head of Ish-bosheth the son of Saul thine enemy, which sought thy life; and the LORD hath avenged my lord the king this day of Saul, and of his seed. 
 ^a^[**4:2** other: Heb. second] ^b^[**4:4** Mephibosheth: or, Merib-baal]
 
-@9 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the [LORD]{.smallcaps} liveth, who hath redeemed my soul out of all adversity, 
+@9 And David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite, and said unto them, As the LORD liveth, who hath redeemed my soul out of all adversity, 
 @10 When one told me, saying, Behold, Saul is dead, thinking to have brought good tidings, I took hold of him, and slew him in Ziklag, who thought that I would have given him a reward for his tidings:^a^ ^b^ 
 @11 How much more, when wicked men have slain a righteous person in his own house upon his bed? shall I not therefore now require his blood of your hand, and take you away from the earth? 
 @12 And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish-bosheth, and buried it in the sepulchre of Abner in Hebron.
@@ -152,8 +152,8 @@
 
 # 5 
 @1 Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh. 
-@2 Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the [LORD]{.smallcaps} said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel. 
-@3 So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the [LORD]{.smallcaps}: and they anointed David king over Israel. 
+@2 Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel. 
+@3 So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel. 
 
 @4 David was thirty years old when he began to reign, and he reigned forty years. 
 @5 In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah. 
@@ -162,11 +162,11 @@
 @7 Nevertheless David took the strong hold of Zion: the same is the city of David. 
 @8 And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house.^b^ 
 @9 So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward. 
-@10 And David went on, and grew great, and the [LORD]{.smallcaps} God of hosts was with him.^c^ 
+@10 And David went on, and grew great, and the LORD God of hosts was with him.^c^ 
 ^a^[**5:6** thinking…: or, saying David shall not, etc] ^b^[**5:8** Wherefore…: or, Because they had said, even the blind and the lame, He shall not] ^c^[**5:10** went…: Heb. went, going and growing]
 
 @11 And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house.^a^ 
-@12 And David perceived that the [LORD]{.smallcaps} had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake. 
+@12 And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake. 
 ^a^[**5:11** masons: Heb. hewers of the stone of the wall]
 
 @13 And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David. 
@@ -176,63 +176,63 @@
 
 @17 But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold. 
 @18 The Philistines also came and spread themselves in the valley of Rephaim. 
-@19 And David enquired of the [LORD]{.smallcaps}, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the [LORD]{.smallcaps} said unto David, Go up: for I will doubtless deliver the Philistines into thine hand. 
-@20 And David came to Baal-perazim, and David smote them there, and said, The [LORD]{.smallcaps} hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.^a^ 
+@19 And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand. 
+@20 And David came to Baal-perazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baal-perazim.^a^ 
 @21 And there they left their images, and David and his men burned them.^b^ 
 ^a^[**5:20** Baal-perazim: that is, the plain of breaches] ^b^[**5:21** burned…: or, took them away]
 
 @22 And the Philistines came up yet again, and spread themselves in the valley of Rephaim. 
-@23 And when David enquired of the [LORD]{.smallcaps}, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees. 
-@24 And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the [LORD]{.smallcaps} go out before thee, to smite the host of the Philistines. 
-@25 And David did so, as the [LORD]{.smallcaps} had commanded him; and smote the Philistines from Geba until thou come to Gazer.^a^
+@23 And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees. 
+@24 And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines. 
+@25 And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer.^a^
 ^a^[**5:25** Geba: also called, Gibeon] 
 
 # 6 
 @1 Again, David gathered together all the chosen men of Israel, thirty thousand. 
-@2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the [LORD]{.smallcaps} of hosts that dwelleth between the cherubims.^a^ ^b^ 
+@2 And David arose, and went with all the people that were with him from Baale of Judah, to bring up from thence the ark of God, whose name is called by the name of the LORD of hosts that dwelleth between the cherubims.^a^ ^b^ 
 @3 And they set the ark of God upon a new cart, and brought it out of the house of Abinadab that was in Gibeah: and Uzzah and Ahio, the sons of Abinadab, drave the new cart.^c^ ^d^ 
 @4 And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.^e^ 
-@5 And David and all the house of Israel played before the [LORD]{.smallcaps} on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. 
+@5 And David and all the house of Israel played before the LORD on all manner of instruments made of fir wood, even on harps, and on psalteries, and on timbrels, and on cornets, and on cymbals. 
 ^a^[**6:2** Baale: or, Baalah, that is, Kirjath-jearim] ^b^[**6:2** whose name…: or, at which the name, even the name of the LORD of hosts, was called upon] ^c^[**6:3** set: Heb. made to ride] ^d^[**6:3** Gibeah: or, the hill] ^e^[**6:4** accompanying: Heb. with]
 
 @6 And when they came to Nachon’s threshingfloor, Uzzah put forth his hand to the ark of God, and took hold of it; for the oxen shook it.^a^ ^b^ 
-@7 And the anger of the [LORD]{.smallcaps} was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.^c^ 
-@8 And David was displeased, because the [LORD]{.smallcaps} had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day.^d^ ^e^ 
-@9 And David was afraid of the [LORD]{.smallcaps} that day, and said, How shall the ark of the [LORD]{.smallcaps} come to me? 
-@10 So David would not remove the ark of the [LORD]{.smallcaps} unto him into the city of David: but David carried it aside into the house of Obed-edom the Gittite. 
-@11 And the ark of the [LORD]{.smallcaps} continued in the house of Obed-edom the Gittite three months: and the [LORD]{.smallcaps} blessed Obed-edom, and all his household. 
+@7 And the anger of the LORD was kindled against Uzzah; and God smote him there for his error; and there he died by the ark of God.^c^ 
+@8 And David was displeased, because the LORD had made a breach upon Uzzah: and he called the name of the place Perez-uzzah to this day.^d^ ^e^ 
+@9 And David was afraid of the LORD that day, and said, How shall the ark of the LORD come to me? 
+@10 So David would not remove the ark of the LORD unto him into the city of David: but David carried it aside into the house of Obed-edom the Gittite. 
+@11 And the ark of the LORD continued in the house of Obed-edom the Gittite three months: and the LORD blessed Obed-edom, and all his household. 
 ^a^[**6:6** Nachon: also called Chidon] ^b^[**6:6** shook it: or, stumbled] ^c^[**6:7** error: or, rashness] ^d^[**6:8** made: Heb. broken] ^e^[**6:8** Perez-uzzah: that is, the breach of Uzzah]
 
-@12 And it was told king David, saying, The [LORD]{.smallcaps} hath blessed the house of Obed-edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness. 
-@13 And it was so, that when they that bare the ark of the [LORD]{.smallcaps} had gone six paces, he sacrificed oxen and fatlings. 
-@14 And David danced before the [LORD]{.smallcaps} with all his might; and David was girded with a linen ephod. 
-@15 So David and all the house of Israel brought up the ark of the [LORD]{.smallcaps} with shouting, and with the sound of the trumpet. 
-@16 And as the ark of the [LORD]{.smallcaps} came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the [LORD]{.smallcaps}; and she despised him in her heart. 
+@12 And it was told king David, saying, The LORD hath blessed the house of Obed-edom, and all that pertaineth unto him, because of the ark of God. So David went and brought up the ark of God from the house of Obed-edom into the city of David with gladness. 
+@13 And it was so, that when they that bare the ark of the LORD had gone six paces, he sacrificed oxen and fatlings. 
+@14 And David danced before the LORD with all his might; and David was girded with a linen ephod. 
+@15 So David and all the house of Israel brought up the ark of the LORD with shouting, and with the sound of the trumpet. 
+@16 And as the ark of the LORD came into the city of David, Michal Saul’s daughter looked through a window, and saw king David leaping and dancing before the LORD; and she despised him in her heart. 
 
-@17 And they brought in the ark of the [LORD]{.smallcaps}, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the [LORD]{.smallcaps}.^a^ 
-@18 And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the [LORD]{.smallcaps} of hosts. 
+@17 And they brought in the ark of the LORD, and set it in his place, in the midst of the tabernacle that David had pitched for it: and David offered burnt offerings and peace offerings before the LORD.^a^ 
+@18 And as soon as David had made an end of offering burnt offerings and peace offerings, he blessed the people in the name of the LORD of hosts. 
 @19 And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house. 
 ^a^[**6:17** pitched: Heb. stretched]
 
 @20 Then David returned to bless his household. And Michal the daughter of Saul came out to meet David, and said, How glorious was the king of Israel to day, who uncovered himself to day in the eyes of the handmaids of his servants, as one of the vain fellows shamelessly uncovereth himself!^a^ 
-@21 And David said unto Michal, It was before the [LORD]{.smallcaps}, which chose me before thy father, and before all his house, to appoint me ruler over the people of the [LORD]{.smallcaps}, over Israel: therefore will I play before the [LORD]{.smallcaps}. 
+@21 And David said unto Michal, It was before the LORD, which chose me before thy father, and before all his house, to appoint me ruler over the people of the LORD, over Israel: therefore will I play before the LORD. 
 @22 And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.^b^ 
 @23 Therefore Michal the daughter of Saul had no child unto the day of her death.
 ^a^[**6:20** shamelessly: or, openly] ^b^[**6:22** of the…: or, of the handmaids of my servants] 
 
 # 7 
-@1 And it came to pass, when the king sat in his house, and the [LORD]{.smallcaps} had given him rest round about from all his enemies; 
+@1 And it came to pass, when the king sat in his house, and the LORD had given him rest round about from all his enemies; 
 @2 That the king said unto Nathan the prophet, See now, I dwell in an house of cedar, but the ark of God dwelleth within curtains. 
-@3 And Nathan said to the king, Go, do all that is in thine heart; for the [LORD]{.smallcaps} is with thee. 
+@3 And Nathan said to the king, Go, do all that is in thine heart; for the LORD is with thee. 
 
-@4 And it came to pass that night, that the word of the [LORD]{.smallcaps} came unto Nathan, saying, 
-@5 Go and tell my servant David, Thus saith the [LORD]{.smallcaps}, Shalt thou build me an house for me to dwell in?^a^ 
+@4 And it came to pass that night, that the word of the LORD came unto Nathan, saying, 
+@5 Go and tell my servant David, Thus saith the LORD, Shalt thou build me an house for me to dwell in?^a^ 
 @6 Whereas I have not dwelt in any house since the time that I brought up the children of Israel out of Egypt, even to this day, but have walked in a tent and in a tabernacle. 
 @7 In all the places wherein I have walked with all the children of Israel spake I a word with any of the tribes of Israel, whom I commanded to feed my people Israel, saying, Why build ye not me an house of cedar?^b^ 
-@8 Now therefore so shalt thou say unto my servant David, Thus saith the [LORD]{.smallcaps} of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:^c^ 
+@8 Now therefore so shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, from following the sheep, to be ruler over my people, over Israel:^c^ 
 @9 And I was with thee whithersoever thou wentest, and have cut off all thine enemies out of thy sight, and have made thee a great name, like unto the name of the great men that are in the earth.^d^ 
 @10 Moreover I will appoint a place for my people Israel, and will plant them, that they may dwell in a place of their own, and move no more; neither shall the children of wickedness afflict them any more, as beforetime, 
-@11 And as since the time that I commanded judges to be over my people Israel, and have caused thee to rest from all thine enemies. Also the [LORD]{.smallcaps} telleth thee that he will make thee an house. 
+@11 And as since the time that I commanded judges to be over my people Israel, and have caused thee to rest from all thine enemies. Also the LORD telleth thee that he will make thee an house. 
 ^a^[**7:5** my servant…: Heb. to my servant, to David] ^b^[**7:7** any of…: any of the judges] ^c^[**7:8** from following: Heb. from after] ^d^[**7:9** out of…: Heb. from thy face]
 
 @12 And when thy days be fulfilled, and thou shalt sleep with thy fathers, I will set up thy seed after thee, which shall proceed out of thy bowels, and I will establish his kingdom. 
@@ -242,18 +242,18 @@
 @16 And thine house and thy kingdom shall be established for ever before thee: thy throne shall be established for ever. 
 @17 According to all these words, and according to all this vision, so did Nathan speak unto David. 
 
-@18 Then went king David in, and sat before the [LORD]{.smallcaps}, and he said, Who am I, O Lord [GOD]{.smallcaps}? and what is my house, that thou hast brought me hitherto? 
-@19 And this was yet a small thing in thy sight, O Lord [GOD]{.smallcaps}; but thou hast spoken also of thy servant’s house for a great while to come. And is this the manner of man, O Lord [GOD]{.smallcaps}?^a^ 
-@20 And what can David say more unto thee? for thou, Lord [GOD]{.smallcaps}, knowest thy servant. 
+@18 Then went king David in, and sat before the LORD, and he said, Who am I, O Lord GOD? and what is my house, that thou hast brought me hitherto? 
+@19 And this was yet a small thing in thy sight, O Lord GOD; but thou hast spoken also of thy servant’s house for a great while to come. And is this the manner of man, O Lord GOD?^a^ 
+@20 And what can David say more unto thee? for thou, Lord GOD, knowest thy servant. 
 @21 For thy word’s sake, and according to thine own heart, hast thou done all these great things, to make thy servant know them. 
-@22 Wherefore thou art great, O [LORD]{.smallcaps} God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears. 
+@22 Wherefore thou art great, O LORD God: for there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears. 
 @23 And what one nation in the earth is like thy people, even like Israel, whom God went to redeem for a people to himself, and to make him a name, and to do for you great things and terrible, for thy land, before thy people, which thou redeemedst to thee from Egypt, from the nations and their gods? 
-@24 For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever: and thou, [LORD]{.smallcaps}, art become their God. 
-@25 And now, O [LORD]{.smallcaps} God, the word that thou hast spoken concerning thy servant, and concerning his house, establish it for ever, and do as thou hast said. 
-@26 And let thy name be magnified for ever, saying, The [LORD]{.smallcaps} of hosts is the God over Israel: and let the house of thy servant David be established before thee. 
-@27 For thou, O [LORD]{.smallcaps} of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.^b^ 
-@28 And now, O Lord [GOD]{.smallcaps}, thou art that God, and thy words be true, and thou hast promised this goodness unto thy servant: 
-@29 Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord [GOD]{.smallcaps}, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever.^c^
+@24 For thou hast confirmed to thyself thy people Israel to be a people unto thee for ever: and thou, LORD, art become their God. 
+@25 And now, O LORD God, the word that thou hast spoken concerning thy servant, and concerning his house, establish it for ever, and do as thou hast said. 
+@26 And let thy name be magnified for ever, saying, The LORD of hosts is the God over Israel: and let the house of thy servant David be established before thee. 
+@27 For thou, O LORD of hosts, God of Israel, hast revealed to thy servant, saying, I will build thee an house: therefore hath thy servant found in his heart to pray this prayer unto thee.^b^ 
+@28 And now, O Lord GOD, thou art that God, and thy words be true, and thou hast promised this goodness unto thy servant: 
+@29 Therefore now let it please thee to bless the house of thy servant, that it may continue for ever before thee: for thou, O Lord GOD, hast spoken it: and with thy blessing let the house of thy servant be blessed for ever.^c^
 ^a^[**7:19** manner: Heb. law] ^b^[**7:27** revealed: Heb. opened the ear] ^c^[**7:29** let it…: Heb. be thou pleased and bless] 
 
 # 8 
@@ -264,19 +264,19 @@
 @3 David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates.^a^ 
 @4 And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots.^b^ 
 @5 And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men. 
-@6 Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the [LORD]{.smallcaps} preserved David whithersoever he went. 
+@6 Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went. 
 @7 And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem. 
 @8 And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass. 
 ^a^[**8:3** Hadadezer: or, Hadarezer] ^b^[**8:4** from…: or, of his chariots]
 
 @9 When Toi king of Hamath heard that David had smitten all the host of Hadadezer, 
 @10 Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:^a^ ^b^ ^c^ ^d^ 
-@11 Which also king David did dedicate unto the [LORD]{.smallcaps}, with the silver and gold that he had dedicated of all nations which he subdued; 
+@11 Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued; 
 @12 Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah. 
 @13 And David gat him a name when he returned from smiting of the Syrians in the valley of salt, being eighteen thousand men.^e^ 
 ^a^[**8:10** Joram: also called, Hadoram] ^b^[**8:10** salute…: Heb. ask him of peace] ^c^[**8:10** had wars…: Heb. was a man of wars with] ^d^[**8:10** brought…: Heb. in his hand were] ^e^[**8:13** smiting: Heb. his smiting]
 
-@14 And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the [LORD]{.smallcaps} preserved David whithersoever he went. 
+@14 And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the LORD preserved David whithersoever he went. 
 
 @15 And David reigned over all Israel; and David executed judgment and justice unto all his people. 
 @16 And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;^a^ 
@@ -317,7 +317,7 @@
 @9 When Joab saw that the front of the battle was against him before and behind, he chose of all the choice men of Israel, and put them in array against the Syrians: 
 @10 And the rest of the people he delivered into the hand of Abishai his brother, that he might put them in array against the children of Ammon. 
 @11 And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will come and help thee. 
-@12 Be of good courage, and let us play the men for our people, and for the cities of our God: and the [LORD]{.smallcaps} do that which seemeth him good. 
+@12 Be of good courage, and let us play the men for our people, and for the cities of our God: and the LORD do that which seemeth him good. 
 @13 And Joab drew nigh, and the people that were with him, unto the battle against the Syrians: and they fled before him. 
 @14 And when the children of Ammon saw that the Syrians were fled, then fled they also before Abishai, and entered into the city. So Joab returned from the children of Ammon, and came to Jerusalem. 
 ^a^[**10:6** Ish-tob: or, the men of Tob]
@@ -368,40 +368,40 @@
 ^a^[**11:25** displease…: Heb. be evil in thine eyes] ^b^[**11:25** one…: Heb. so and such]
 
 @26 And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband. 
-@27 And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the [LORD]{.smallcaps}.^a^
+@27 And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD.^a^
 ^a^[**11:27** displeased: Heb. was evil in the eyes of] 
 
 # 12 
-@1 And the [LORD]{.smallcaps} sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor. 
+@1 And the LORD sent Nathan unto David. And he came unto him, and said unto him, There were two men in one city; the one rich, and the other poor. 
 @2 The rich man had exceeding many flocks and herds: 
 @3 But the poor man had nothing, save one little ewe lamb, which he had bought and nourished up: and it grew up together with him, and with his children; it did eat of his own meat, and drank of his own cup, and lay in his bosom, and was unto him as a daughter.^a^ 
 @4 And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him; but took the poor man’s lamb, and dressed it for the man that was come to him. 
-@5 And David’s anger was greatly kindled against the man; and he said to Nathan, As the [LORD]{.smallcaps} liveth, the man that hath done this thing shall surely die:^b^ 
+@5 And David’s anger was greatly kindled against the man; and he said to Nathan, As the LORD liveth, the man that hath done this thing shall surely die:^b^ 
 @6 And he shall restore the lamb fourfold, because he did this thing, and because he had no pity. 
 ^a^[**12:3** meat: Heb. morsel] ^b^[**12:5** shall…: or, is worthy to die, or, is a son of death]
 
-@7 And Nathan said to David, Thou art the man. Thus saith the [LORD]{.smallcaps} God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul; 
+@7 And Nathan said to David, Thou art the man. Thus saith the LORD God of Israel, I anointed thee king over Israel, and I delivered thee out of the hand of Saul; 
 @8 And I gave thee thy master’s house, and thy master’s wives into thy bosom, and gave thee the house of Israel and of Judah; and if that had been too little, I would moreover have given unto thee such and such things. 
-@9 Wherefore hast thou despised the commandment of the [LORD]{.smallcaps}, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon. 
+@9 Wherefore hast thou despised the commandment of the LORD, to do evil in his sight? thou hast killed Uriah the Hittite with the sword, and hast taken his wife to be thy wife, and hast slain him with the sword of the children of Ammon. 
 @10 Now therefore the sword shall never depart from thine house; because thou hast despised me, and hast taken the wife of Uriah the Hittite to be thy wife. 
-@11 Thus saith the [LORD]{.smallcaps}, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun. 
+@11 Thus saith the LORD, Behold, I will raise up evil against thee out of thine own house, and I will take thy wives before thine eyes, and give them unto thy neighbour, and he shall lie with thy wives in the sight of this sun. 
 @12 For thou didst it secretly: but I will do this thing before all Israel, and before the sun. 
-@13 And David said unto Nathan, I have sinned against the [LORD]{.smallcaps}. And Nathan said unto David, The [LORD]{.smallcaps} also hath put away thy sin; thou shalt not die. 
-@14 Howbeit, because by this deed thou hast given great occasion to the enemies of the [LORD]{.smallcaps} to blaspheme, the child also that is born unto thee shall surely die. 
+@13 And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath put away thy sin; thou shalt not die. 
+@14 Howbeit, because by this deed thou hast given great occasion to the enemies of the LORD to blaspheme, the child also that is born unto thee shall surely die. 
 
-@15 And Nathan departed unto his house. And the [LORD]{.smallcaps} struck the child that Uriah’s wife bare unto David, and it was very sick. 
+@15 And Nathan departed unto his house. And the LORD struck the child that Uriah’s wife bare unto David, and it was very sick. 
 @16 David therefore besought God for the child; and David fasted, and went in, and lay all night upon the earth.^a^ 
 @17 And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them. 
 @18 And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?^b^ 
 @19 But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead. 
-@20 Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the [LORD]{.smallcaps}, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat. 
+@20 Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the LORD, and worshipped: then he came to his own house; and when he required, they set bread before him, and he did eat. 
 @21 Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread. 
-@22 And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether [GOD]{.smallcaps} will be gracious to me, that the child may live? 
+@22 And he said, While the child was yet alive, I fasted and wept: for I said, Who can tell whether GOD will be gracious to me, that the child may live? 
 @23 But now he is dead, wherefore should I fast? can I bring him back again? I shall go to him, but he shall not return to me. 
 ^a^[**12:16** fasted: Heb. fasted a fast] ^b^[**12:18** vex: Heb. do hurt]
 
-@24 And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the [LORD]{.smallcaps} loved him. 
-@25 And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the [LORD]{.smallcaps}.^a^ 
+@24 And David comforted Bath-sheba his wife, and went in unto her, and lay with her: and she bare a son, and he called his name Solomon: and the LORD loved him. 
+@25 And he sent by the hand of Nathan the prophet; and he called his name Jedidiah, because of the LORD.^a^ 
 ^a^[**12:25** Jedidiah: that is, Beloved of the LORD]
 
 @26 And Joab fought against Rabbah of the children of Ammon, and took the royal city. 
@@ -480,13 +480,13 @@
 @8 And the king said unto the woman, Go to thine house, and I will give charge concerning thee. 
 @9 And the woman of Tekoah said unto the king, My lord, O king, the iniquity be on me, and on my father’s house: and the king and his throne be guiltless. 
 @10 And the king said, Whosoever saith ought unto thee, bring him to me, and he shall not touch thee any more. 
-@11 Then said she, I pray thee, let the king remember the [LORD]{.smallcaps} thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the [LORD]{.smallcaps} liveth, there shall not one hair of thy son fall to the earth.^d^ 
+@11 Then said she, I pray thee, let the king remember the LORD thy God, that thou wouldest not suffer the revengers of blood to destroy any more, lest they destroy my son. And he said, As the LORD liveth, there shall not one hair of thy son fall to the earth.^d^ 
 @12 Then the woman said, Let thine handmaid, I pray thee, speak one word unto my lord the king. And he said, Say on. 
 @13 And the woman said, Wherefore then hast thou thought such a thing against the people of God? for the king doth speak this thing as one which is faulty, in that the king doth not fetch home again his banished. 
 @14 For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person: yet doth he devise means, that his banished be not expelled from him.^e^ 
 @15 Now therefore that I am come to speak of this thing unto my lord the king, it is because the people have made me afraid: and thy handmaid said, I will now speak unto the king; it may be that the king will perform the request of his handmaid. 
 @16 For the king will hear, to deliver his handmaid out of the hand of the man that would destroy me and my son together out of the inheritance of God. 
-@17 Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the [LORD]{.smallcaps} thy God will be with thee.^f^ ^g^ 
+@17 Then thine handmaid said, The word of my lord the king shall now be comfortable: for as an angel of God, so is my lord the king to discern good and bad: therefore the LORD thy God will be with thee.^f^ ^g^ 
 @18 Then the king answered and said unto the woman, Hide not from me, I pray thee, the thing that I shall ask thee. And the woman said, Let my lord the king now speak. 
 @19 And the king said, Is not the hand of Joab with thee in all this? And the woman answered and said, As thy soul liveth, my lord the king, none can turn to the right hand or to the left from ought that my lord the king hath spoken: for thy servant Joab, he bade me, and he put all these words in the mouth of thine handmaid: 
 @20 To fetch about this form of speech hath thy servant Joab done this thing: and my lord is wise, according to the wisdom of an angel of God, to know all things that are in the earth. 
@@ -520,8 +520,8 @@
 @6 And on this manner did Absalom to all Israel that came to the king for judgment: so Absalom stole the hearts of the men of Israel. 
 ^a^[**15:2** came: Heb. to come] ^b^[**15:3** there…: or, none will hear thee from the king downward]
 
-@7 And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the [LORD]{.smallcaps}, in Hebron. 
-@8 For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the [LORD]{.smallcaps} shall bring me again indeed to Jerusalem, then I will serve the [LORD]{.smallcaps}. 
+@7 And it came to pass after forty years, that Absalom said unto the king, I pray thee, let me go and pay my vow, which I have vowed unto the LORD, in Hebron. 
+@8 For thy servant vowed a vow while I abode at Geshur in Syria, saying, If the LORD shall bring me again indeed to Jerusalem, then I will serve the LORD. 
 @9 And the king said unto him, Go in peace. So he arose, and went to Hebron. 
 
 @10 But Absalom sent spies throughout all the tribes of Israel, saying, As soon as ye hear the sound of the trumpet, then ye shall say, Absalom reigneth in Hebron. 
@@ -538,13 +538,13 @@
 
 @19 Then said the king to Ittai the Gittite, Wherefore goest thou also with us? return to thy place, and abide with the king: for thou art a stranger, and also an exile. 
 @20 Whereas thou camest but yesterday, should I this day make thee go up and down with us? seeing I go whither I may, return thou, and take back thy brethren: mercy and truth be with thee.^a^ 
-@21 And Ittai answered the king, and said, As the [LORD]{.smallcaps} liveth, and as my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be. 
+@21 And Ittai answered the king, and said, As the LORD liveth, and as my lord the king liveth, surely in what place my lord the king shall be, whether in death or life, even there also will thy servant be. 
 @22 And David said to Ittai, Go and pass over. And Ittai the Gittite passed over, and all his men, and all the little ones that were with him. 
 @23 And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.^b^ 
 ^a^[**15:20** go up…: Heb. wander in going] ^b^[**15:23** Kidron: Gr. Cedron]
 
 @24 And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city. 
-@25 And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the [LORD]{.smallcaps}, he will bring me again, and shew me both it, and his habitation: 
+@25 And the king said unto Zadok, Carry back the ark of God into the city: if I shall find favour in the eyes of the LORD, he will bring me again, and shew me both it, and his habitation: 
 @26 But if he thus say, I have no delight in thee; behold, here am I, let him do to me as seemeth good unto him. 
 @27 The king said also unto Zadok the priest, Art not thou a seer? return into the city in peace, and your two sons with you, Ahimaaz thy son, and Jonathan the son of Abiathar. 
 @28 See, I will tarry in the plain of the wilderness, until there come word from you to certify me. 
@@ -553,7 +553,7 @@
 @30 And David went up by the ascent of mount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up, weeping as they went up.^a^ 
 ^a^[**15:30** and wept…: Heb. going up and weeping]
 
-@31 And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O [LORD]{.smallcaps}, I pray thee, turn the counsel of Ahithophel into foolishness. 
+@31 And one told David, saying, Ahithophel is among the conspirators with Absalom. And David said, O LORD, I pray thee, turn the counsel of Ahithophel into foolishness. 
 
 @32 And it came to pass, that when David was come to the top of the mount, where he worshipped God, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head: 
 @33 Unto whom David said, If thou passest on with me, then thou shalt be a burden unto me: 
@@ -572,13 +572,13 @@
 @5 And when king David came to Bahurim, behold, thence came out a man of the family of the house of Saul, whose name was Shimei, the son of Gera: he came forth, and cursed still as he came.^a^ 
 @6 And he cast stones at David, and at all the servants of king David: and all the people and all the mighty men were on his right hand and on his left. 
 @7 And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:^b^ 
-@8 The [LORD]{.smallcaps} hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the [LORD]{.smallcaps} hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.^c^ 
+@8 The LORD hath returned upon thee all the blood of the house of Saul, in whose stead thou hast reigned; and the LORD hath delivered the kingdom into the hand of Absalom thy son: and, behold, thou art taken in thy mischief, because thou art a bloody man.^c^ 
 ^a^[**16:5** he came forth…: or, he still came forth and cursed] ^b^[**16:7** bloody…: Heb. man of blood] ^c^[**16:8** behold…: Heb. behold thee in thy evil]
 
 @9 Then said Abishai the son of Zeruiah unto the king, Why should this dead dog curse my lord the king? let me go over, I pray thee, and take off his head. 
-@10 And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the [LORD]{.smallcaps} hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so? 
-@11 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the [LORD]{.smallcaps} hath bidden him. 
-@12 It may be that the [LORD]{.smallcaps} will look on mine affliction, and that the [LORD]{.smallcaps} will requite me good for his cursing this day.^a^ 
+@10 And the king said, What have I to do with you, ye sons of Zeruiah? so let him curse, because the LORD hath said unto him, Curse David. Who shall then say, Wherefore hast thou done so? 
+@11 And David said to Abishai, and to all his servants, Behold, my son, which came forth of my bowels, seeketh my life: how much more now may this Benjamite do it? let him alone, and let him curse; for the LORD hath bidden him. 
+@12 It may be that the LORD will look on mine affliction, and that the LORD will requite me good for his cursing this day.^a^ 
 @13 And as David and his men went by the way, Shimei went along on the hill’s side over against him, and cursed as he went, and threw stones at him, and cast dust.^b^ 
 @14 And the king, and all the people that were with him, came weary, and refreshed themselves there. 
 ^a^[**16:12** affliction: or, tears: Heb. eye] ^b^[**16:13** cast…: Heb. dusted him with dust]
@@ -586,7 +586,7 @@
 @15 And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him. 
 @16 And it came to pass, when Hushai the Archite, David’s friend, was come unto Absalom, that Hushai said unto Absalom, God save the king, God save the king.^a^ 
 @17 And Absalom said to Hushai, Is this thy kindness to thy friend? why wentest thou not with thy friend? 
-@18 And Hushai said unto Absalom, Nay; but whom the [LORD]{.smallcaps}, and this people, and all the men of Israel, choose, his will I be, and with him will I abide. 
+@18 And Hushai said unto Absalom, Nay; but whom the LORD, and this people, and all the men of Israel, choose, his will I be, and with him will I abide. 
 @19 And again, whom should I serve? should I not serve in the presence of his son? as I have served in thy father’s presence, so will I be in thy presence. 
 ^a^[**16:16** God…: Heb. Let the king live]
 
@@ -610,7 +610,7 @@
 @11 Therefore I counsel that all Israel be generally gathered unto thee, from Dan even to Beer-sheba, as the sand that is by the sea for multitude; and that thou go to battle in thine own person.^g^ 
 @12 So shall we come upon him in some place where he shall be found, and we will light upon him as the dew falleth on the ground: and of him and of all the men that are with him there shall not be left so much as one. 
 @13 Moreover, if he be gotten into a city, then shall all Israel bring ropes to that city, and we will draw it into the river, until there be not one small stone found there. 
-@14 And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the [LORD]{.smallcaps} had appointed to defeat the good counsel of Ahithophel, to the intent that the [LORD]{.smallcaps} might bring evil upon Absalom.^h^ 
+@14 And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the LORD had appointed to defeat the good counsel of Ahithophel, to the intent that the LORD might bring evil upon Absalom.^h^ 
 ^a^[**17:4** pleased…: Heb. was right in the eyes of, etc] ^b^[**17:5** what…: Heb. what is in his mouth] ^c^[**17:6** his saying: Heb. his word] ^d^[**17:7** given: Heb. counselled] ^e^[**17:8** chafed…: Heb. bitter of soul] ^f^[**17:9** overthrown: Heb. fallen] ^g^[**17:11** that thou…: Heb. that thy face, or, presence go, etc] ^h^[**17:14** appointed: Heb. commanded]
 
 @15 Then said Hushai unto Zadok and to Abiathar the priests, Thus and thus did Ahithophel counsel Absalom and the elders of Israel; and thus and thus have I counselled. 
@@ -662,7 +662,7 @@
 
 @18 Now Absalom in his lifetime had taken and reared up for himself a pillar, which is in the king’s dale: for he said, I have no son to keep my name in remembrance: and he called the pillar after his own name: and it is called unto this day, Absalom’s place. 
 
-@19 Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the [LORD]{.smallcaps} hath avenged him of his enemies.^a^ 
+@19 Then said Ahimaaz the son of Zadok, Let me now run, and bear the king tidings, how that the LORD hath avenged him of his enemies.^a^ 
 @20 And Joab said unto him, Thou shalt not bear tidings this day, but thou shalt bear tidings another day: but this day thou shalt bear no tidings, because the king’s son is dead.^b^ 
 @21 Then said Joab to Cushi, Go tell the king what thou hast seen. And Cushi bowed himself unto Joab, and ran. 
 @22 Then said Ahimaaz the son of Zadok yet again to Joab, But howsoever, let me, I pray thee, also run after Cushi. And Joab said, Wherefore wilt thou run, my son, seeing that thou hast no tidings ready?^c^ ^d^ 
@@ -671,10 +671,10 @@
 @25 And the watchman cried, and told the king. And the king said, If he be alone, there is tidings in his mouth. And he came apace, and drew near. 
 @26 And the watchman saw another man running: and the watchman called unto the porter, and said, Behold another man running alone. And the king said, He also bringeth tidings. 
 @27 And the watchman said, Me thinketh the running of the foremost is like the running of Ahimaaz the son of Zadok. And the king said, He is a good man, and cometh with good tidings.^e^ 
-@28 And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the [LORD]{.smallcaps} thy God, which hath delivered up the men that lifted up their hand against my lord the king.^f^ ^g^ 
+@28 And Ahimaaz called, and said unto the king, All is well. And he fell down to the earth upon his face before the king, and said, Blessed be the LORD thy God, which hath delivered up the men that lifted up their hand against my lord the king.^f^ ^g^ 
 @29 And the king said, Is the young man Absalom safe? And Ahimaaz answered, When Joab sent the king’s servant, and me thy servant, I saw a great tumult, but I knew not what it was.^h^ 
 @30 And the king said unto him, Turn aside, and stand here. And he turned aside, and stood still. 
-@31 And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the [LORD]{.smallcaps} hath avenged thee this day of all them that rose up against thee.^i^ 
+@31 And, behold, Cushi came; and Cushi said, Tidings, my lord the king: for the LORD hath avenged thee this day of all them that rose up against thee.^i^ 
 @32 And the king said unto Cushi, Is the young man Absalom safe? And Cushi answered, The enemies of my lord the king, and all that rise against thee to do thee hurt, be as that young man is. 
 ^a^[**18:19** avenged…: Heb. judged him from the hand, etc] ^b^[**18:20** bear tidings this: Heb. be a man of tidings, etc] ^c^[**18:22** howsoever: Heb. be what may] ^d^[**18:22** ready: or, convenient] ^e^[**18:27** Me…: Heb. I see the running] ^f^[**18:28** All…: or, Peace be to thee: Heb. Peace] ^g^[**18:28** delivered…: Heb. shut up] ^h^[**18:29** Is…: Heb. Is there peace?] ^i^[**18:31** Tidings: Heb. Tidings is brought]
 
@@ -687,7 +687,7 @@
 @4 But the king covered his face, and the king cried with a loud voice, O my son Absalom, O Absalom, my son, my son! 
 @5 And Joab came into the house to the king, and said, Thou hast shamed this day the faces of all thy servants, which this day have saved thy life, and the lives of thy sons and of thy daughters, and the lives of thy wives, and the lives of thy concubines; 
 @6 In that thou lovest thine enemies, and hatest thy friends. For thou hast declared this day, that thou regardest neither princes nor servants: for this day I perceive, that if Absalom had lived, and all we had died this day, then it had pleased thee well.^b^ ^c^ 
-@7 Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the [LORD]{.smallcaps}, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.^d^ 
+@7 Now therefore arise, go forth, and speak comfortably unto thy servants: for I swear by the LORD, if thou go not forth, there will not tarry one with thee this night: and that will be worse unto thee than all the evil that befell thee from thy youth until now.^d^ 
 @8 Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king doth sit in the gate. And all the people came before the king: for Israel had fled every man to his tent. 
 ^a^[**19:2** victory: Heb. salvation, or, deliverance] ^b^[**19:6** In…: Heb. By loving, etc] ^c^[**19:6** that thou regardest…: Heb. that princes or servants are not to thee] ^d^[**19:7** comfortably…: Heb. to the heart of thy servants]
 
@@ -706,7 +706,7 @@
 @18 And there went over a ferry boat to carry over the king’s household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;^a^ 
 @19 And said unto the king, Let not my lord impute iniquity unto me, neither do thou remember that which thy servant did perversely the day that my lord the king went out of Jerusalem, that the king should take it to his heart. 
 @20 For thy servant doth know that I have sinned: therefore, behold, I am come the first this day of all the house of Joseph to go down to meet my lord the king. 
-@21 But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the [LORD’s]{.smallcaps} anointed? 
+@21 But Abishai the son of Zeruiah answered and said, Shall not Shimei be put to death for this, because he cursed the LORD’S anointed? 
 @22 And David said, What have I to do with you, ye sons of Zeruiah, that ye should this day be adversaries unto me? shall there any man be put to death this day in Israel? for do not I know that I am this day king over Israel? 
 @23 Therefore the king said unto Shimei, Thou shalt not die. And the king sware unto him. 
 ^a^[**19:18** what…: Heb. the good in his eyes]
@@ -765,7 +765,7 @@
 @16 Then cried a wise woman out of the city, Hear, hear; say, I pray you, unto Joab, Come near hither, that I may speak with thee. 
 @17 And when he was come near unto her, the woman said, Art thou Joab? And he answered, I am he. Then she said unto him, Hear the words of thine handmaid. And he answered, I do hear. 
 @18 Then she spake, saying, They were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter.^a^ 
-@19 I am one of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the [LORD]{.smallcaps}? 
+@19 I am one of them that are peaceable and faithful in Israel: thou seekest to destroy a city and a mother in Israel: why wilt thou swallow up the inheritance of the LORD? 
 @20 And Joab answered and said, Far be it, far be it from me, that I should swallow up or destroy. 
 @21 The matter is not so: but a man of mount Ephraim, Sheba the son of Bichri by name, hath lifted up his hand against the king, even against David: deliver him only, and I will depart from the city. And the woman said unto Joab, Behold, his head shall be thrown to thee over the wall.^b^ 
 @22 Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast it out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.^c^ 
@@ -778,15 +778,15 @@
 ^a^[**20:24** recorder: or, remembrancer] ^b^[**20:26** a chief…: or, a prince] 
 
 # 21 
-@1 Then there was a famine in the days of David three years, year after year; and David enquired of the [LORD]{.smallcaps}. And the [LORD]{.smallcaps} answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.^a^ 
+@1 Then there was a famine in the days of David three years, year after year; and David enquired of the LORD. And the LORD answered, It is for Saul, and for his bloody house, because he slew the Gibeonites.^a^ 
 @2 And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.) 
-@3 Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the [LORD]{.smallcaps}? 
+@3 Wherefore David said unto the Gibeonites, What shall I do for you? and wherewith shall I make the atonement, that ye may bless the inheritance of the LORD? 
 @4 And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you.^b^ 
 @5 And they answered the king, The man that consumed us, and that devised against us that we should be destroyed from remaining in any of the coasts of Israel,^c^ 
-@6 Let seven men of his sons be delivered unto us, and we will hang them up unto the [LORD]{.smallcaps} in Gibeah of Saul, whom the [LORD]{.smallcaps} did choose. And the king said, I will give them.^d^ 
-@7 But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the [LORD’s]{.smallcaps} oath that was between them, between David and Jonathan the son of Saul. 
+@6 Let seven men of his sons be delivered unto us, and we will hang them up unto the LORD in Gibeah of Saul, whom the LORD did choose. And the king said, I will give them.^d^ 
+@7 But the king spared Mephibosheth, the son of Jonathan the son of Saul, because of the LORD’S oath that was between them, between David and Jonathan the son of Saul. 
 @8 But the king took the two sons of Rizpah the daughter of Aiah, whom she bare unto Saul, Armoni and Mephibosheth; and the five sons of Michal the daughter of Saul, whom she brought up for Adriel the son of Barzillai the Meholathite:^e^ ^f^ 
-@9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the [LORD]{.smallcaps}: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. 
+@9 And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the LORD: and they fell all seven together, and were put to death in the days of harvest, in the first days, in the beginning of barley harvest. 
 ^a^[**21:1** enquired…: Heb. sought the face, etc] ^b^[**21:4** We will…: or, It is not silver nor gold that we have to do with Saul or his house, neither pertains it to us to kill, etc] ^c^[**21:5** devised…: or, cut us off] ^d^[**21:6** whom…: or, chosen of the LORD] ^e^[**21:8** Michal: or, Michal’s sister] ^f^[**21:8** brought…: Heb. bear to Adriel]
 
 @10 And Rizpah the daughter of Aiah took sackcloth, and spread it for her upon the rock, from the beginning of harvest until water dropped upon them out of heaven, and suffered neither the birds of the air to rest on them by day, nor the beasts of the field by night. 
@@ -807,39 +807,39 @@
 ^a^[**21:16** the giant: or, Rapha] ^b^[**21:16** spear: Heb. the staff, or, the head] ^c^[**21:17** light: Heb. candle, or, lamp] ^d^[**21:18** the giant: or, Rapha] ^e^[**21:18** Saph: or, Sippai] ^f^[**21:19** Jaare-oregim: or, Jair] ^g^[**21:20** the giant: or, Rapha] ^h^[**21:21** defied: or, reproached] ^i^[**21:21** Shimea: also called, Shammah] 
 
 # 22 
-@1 And David spake unto the [LORD]{.smallcaps} the words of this song in the day that the [LORD]{.smallcaps} had delivered him out of the hand of all his enemies, and out of the hand of Saul: 
+@1 And David spake unto the LORD the words of this song in the day that the LORD had delivered him out of the hand of all his enemies, and out of the hand of Saul: 
 
-@2 And he said, The [LORD]{.smallcaps} is my rock, and my fortress, and my deliverer; 
+@2 And he said, The LORD is my rock, and my fortress, and my deliverer; 
 @3 The God of my rock; in him will I trust: he is my shield, and the horn of my salvation, my high tower, and my refuge, my saviour; thou savest me from violence. 
-@4 I will call on the [LORD]{.smallcaps}, who is worthy to be praised: so shall I be saved from mine enemies. 
+@4 I will call on the LORD, who is worthy to be praised: so shall I be saved from mine enemies. 
 @5 When the waves of death compassed me, the floods of ungodly men made me afraid;^a^ ^b^ 
 @6 The sorrows of hell compassed me about; the snares of death prevented me;^c^ 
-@7 In my distress I called upon the [LORD]{.smallcaps}, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears. 
+@7 In my distress I called upon the LORD, and cried to my God: and he did hear my voice out of his temple, and my cry did enter into his ears. 
 @8 Then the earth shook and trembled; the foundations of heaven moved and shook, because he was wroth. 
 @9 There went up a smoke out of his nostrils, and fire out of his mouth devoured: coals were kindled by it.^d^ 
 @10 He bowed the heavens also, and came down; and darkness was under his feet. 
 @11 And he rode upon a cherub, and did fly: and he was seen upon the wings of the wind. 
 @12 And he made darkness pavilions round about him, dark waters, and thick clouds of the skies.^e^ 
 @13 Through the brightness before him were coals of fire kindled. 
-@14 The [LORD]{.smallcaps} thundered from heaven, and the most High uttered his voice. 
+@14 The LORD thundered from heaven, and the most High uttered his voice. 
 @15 And he sent out arrows, and scattered them; lightning, and discomfited them. 
-@16 And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the [LORD]{.smallcaps}, at the blast of the breath of his nostrils. 
+@16 And the channels of the sea appeared, the foundations of the world were discovered, at the rebuking of the LORD, at the blast of the breath of his nostrils. 
 @17 He sent from above, he took me; he drew me out of many waters;^f^ 
 @18 He delivered me from my strong enemy, and from them that hated me: for they were too strong for me. 
-@19 They prevented me in the day of my calamity: but the [LORD]{.smallcaps} was my stay. 
+@19 They prevented me in the day of my calamity: but the LORD was my stay. 
 @20 He brought me forth also into a large place: he delivered me, because he delighted in me. 
-@21 The [LORD]{.smallcaps} rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me. 
-@22 For I have kept the ways of the [LORD]{.smallcaps}, and have not wickedly departed from my God. 
+@21 The LORD rewarded me according to my righteousness: according to the cleanness of my hands hath he recompensed me. 
+@22 For I have kept the ways of the LORD, and have not wickedly departed from my God. 
 @23 For all his judgments were before me: and as for his statutes, I did not depart from them. 
 @24 I was also upright before him, and have kept myself from mine iniquity.^g^ 
-@25 Therefore the [LORD]{.smallcaps} hath recompensed me according to my righteousness; according to my cleanness in his eye sight.^h^ 
+@25 Therefore the LORD hath recompensed me according to my righteousness; according to my cleanness in his eye sight.^h^ 
 @26 With the merciful thou wilt shew thyself merciful, and with the upright man thou wilt shew thyself upright. 
 @27 With the pure thou wilt shew thyself pure; and with the froward thou wilt shew thyself unsavoury.^i^ 
 @28 And the afflicted people thou wilt save: but thine eyes are upon the haughty, that thou mayest bring them down. 
-@29 For thou art my lamp, O [LORD]{.smallcaps}: and the [LORD]{.smallcaps} will lighten my darkness.^j^ 
+@29 For thou art my lamp, O LORD: and the LORD will lighten my darkness.^j^ 
 @30 For by thee I have run through a troop: by my God have I leaped over a wall.^k^ 
-@31 As for God, his way is perfect; the word of the [LORD]{.smallcaps} is tried: he is a buckler to all them that trust in him.^l^ 
-@32 For who is God, save the [LORD]{.smallcaps}? and who is a rock, save our God? 
+@31 As for God, his way is perfect; the word of the LORD is tried: he is a buckler to all them that trust in him.^l^ 
+@32 For who is God, save the LORD? and who is a rock, save our God? 
 @33 God is my strength and power: and he maketh my way perfect.^m^ 
 @34 He maketh my feet like hinds’ feet: and setteth me upon my high places.^n^ 
 @35 He teacheth my hands to war; so that a bow of steel is broken by mine arms.^o^ 
@@ -849,21 +849,21 @@
 @39 And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet. 
 @40 For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me.^r^ 
 @41 Thou hast also given me the necks of mine enemies, that I might destroy them that hate me. 
-@42 They looked, but there was none to save; even unto the [LORD]{.smallcaps}, but he answered them not. 
+@42 They looked, but there was none to save; even unto the LORD, but he answered them not. 
 @43 Then did I beat them as small as the dust of the earth, I did stamp them as the mire of the street, and did spread them abroad. 
 @44 Thou also hast delivered me from the strivings of my people, thou hast kept me to be head of the heathen: a people which I knew not shall serve me. 
 @45 Strangers shall submit themselves unto me: as soon as they hear, they shall be obedient unto me.^s^ ^t^ 
 @46 Strangers shall fade away, and they shall be afraid out of their close places. 
-@47 The [LORD]{.smallcaps} liveth; and blessed be my rock; and exalted be the God of the rock of my salvation. 
+@47 The LORD liveth; and blessed be my rock; and exalted be the God of the rock of my salvation. 
 @48 It is God that avengeth me, and that bringeth down the people under me,^u^ 
 @49 And that bringeth me forth from mine enemies: thou also hast lifted me up on high above them that rose up against me: thou hast delivered me from the violent man. 
-@50 Therefore I will give thanks unto thee, O [LORD]{.smallcaps}, among the heathen, and I will sing praises unto thy name. 
+@50 Therefore I will give thanks unto thee, O LORD, among the heathen, and I will sing praises unto thy name. 
 @51 He is the tower of salvation for his king: and sheweth mercy to his anointed, unto David, and to his seed for evermore.
 ^a^[**22:5** waves: or, pangs] ^b^[**22:5** ungodly…: Heb. Belial] ^c^[**22:6** sorrows: or, cords] ^d^[**22:9** out of his nostrils: Heb. by, etc] ^e^[**22:12** dark…: Heb. binding of waters] ^f^[**22:17** many: or, great] ^g^[**22:24** before: Heb. to] ^h^[**22:25** in…: Heb. before his eyes] ^i^[**22:27** shew thyself unsavoury: or, wrestle] ^j^[**22:29** lamp: or, candle] ^k^[**22:30** run: or, broken] ^l^[**22:31** tried: or, refined] ^m^[**22:33** maketh: Heb. riddeth, or, looseth] ^n^[**22:34** maketh: Heb. equalleth] ^o^[**22:35** to war: Heb. for the war] ^p^[**22:36** made…: Heb. multiplied me] ^q^[**22:37** feet: Heb. ankles] ^r^[**22:40** subdued: Heb. caused to bow] ^s^[**22:45** Strangers: Heb. Sons of the stranger] ^t^[**22:45** submit…: or, yield feigned obedience: Heb. lie] ^u^[**22:48** avengeth: Heb. giveth avengement for] 
 
 # 23 
 @1 Now these be the last words of David. David the son of Jesse said, and the man who was raised up on high, the anointed of the God of Jacob, and the sweet psalmist of Israel, said, 
-@2 The Spirit of the [LORD]{.smallcaps} spake by me, and his word was in my tongue. 
+@2 The Spirit of the LORD spake by me, and his word was in my tongue. 
 @3 The God of Israel said, the Rock of Israel spake to me, He that ruleth over men must be just, ruling in the fear of God.^a^ 
 @4 And he shall be as the light of the morning, when the sun riseth, even a morning without clouds; as the tender grass springing out of the earth by clear shining after rain. 
 @5 Although my house be not so with God; yet he hath made with me an everlasting covenant, ordered in all things, and sure: for this is all my salvation, and all my desire, although he make it not to grow. 
@@ -875,14 +875,14 @@
 
 @8 These be the names of the mighty men whom David had: The Tachmonite that sat in the seat, chief among the captains; the same was Adino the Eznite: he lift up his spear against eight hundred, whom he slew at one time.^a^ ^b^ ^c^ 
 @9 And after him was Eleazar the son of Dodo the Ahohite, one of the three mighty men with David, when they defied the Philistines that were there gathered together to battle, and the men of Israel were gone away: 
-@10 He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the [LORD]{.smallcaps} wrought a great victory that day; and the people returned after him only to spoil. 
+@10 He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the LORD wrought a great victory that day; and the people returned after him only to spoil. 
 @11 And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.^d^ 
-@12 But he stood in the midst of the ground, and defended it, and slew the Philistines: and the [LORD]{.smallcaps} wrought a great victory. 
+@12 But he stood in the midst of the ground, and defended it, and slew the Philistines: and the LORD wrought a great victory. 
 @13 And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.^e^ 
 @14 And David was then in an hold, and the garrison of the Philistines was then in Beth-lehem. 
 @15 And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, which is by the gate! 
-@16 And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the [LORD]{.smallcaps}. 
-@17 And he said, Be it far from me, O [LORD]{.smallcaps}, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men. 
+@16 And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the LORD. 
+@17 And he said, Be it far from me, O LORD, that I should do this: is not this the blood of the men that went in jeopardy of their lives? therefore he would not drink it. These things did these three mighty men. 
 @18 And Abishai, the brother of Joab, the son of Zeruiah, was chief among three. And he lifted up his spear against three hundred, and slew them, and had the name among three.^f^ 
 @19 Was he not most honourable of three? therefore he was their captain: howbeit he attained not unto the first three. 
 @20 And Benaiah the son of Jehoiada, the son of a valiant man, of Kabzeel, who had done many acts, he slew two lionlike men of Moab: he went down also and slew a lion in the midst of a pit in time of snow:^g^ ^h^ 
@@ -908,9 +908,9 @@
 ^a^[**23:8** The Tachmonite…: or, Joshebbassebet the Tachmonite, head of the three] ^b^[**23:8** whom he…: Heb. slain] ^c^[**23:8** 1ch 11:11 he lift…: from whom he…: Heb. slain] ^d^[**23:11** into…: or, for foraging] ^e^[**23:13** three…: or, the three captains over the thirty] ^f^[**23:18** and slew them: Heb. slain] ^g^[**23:20** who…: Heb. great of acts] ^h^[**23:20** lionlike…: Heb. lion of God] ^i^[**23:21** a goodly…: Heb. a man of countenance, or, sight: also called, a man of great stature] ^j^[**23:23** more…: or, honourable among the thirty] ^k^[**23:23** guard: or, council: Heb. at his command] ^l^[**23:30** brooks: or, valleys] 
 
 # 24 
-@1 And again the anger of the [LORD]{.smallcaps} was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah. 
+@1 And again the anger of the LORD was kindled against Israel, and he moved David against them to say, Go, number Israel and Judah. 
 @2 For the king said to Joab the captain of the host, which was with him, Go now through all the tribes of Israel, from Dan even to Beer-sheba, and number ye the people, that I may know the number of the people.^a^ 
-@3 And Joab said unto the king, Now the [LORD]{.smallcaps} thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing? 
+@3 And Joab said unto the king, Now the LORD thy God add unto the people, how many soever they be, an hundredfold, and that the eyes of my lord the king may see it: but why doth my lord the king delight in this thing? 
 @4 Notwithstanding the king’s word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel. 
 ^a^[**24:2** Go: or, Compass]
 
@@ -921,24 +921,24 @@
 @9 And Joab gave up the sum of the number of the people unto the king: and there were in Israel eight hundred thousand valiant men that drew the sword; and the men of Judah were five hundred thousand men. 
 ^a^[**24:5** river: or, valley] ^b^[**24:6** land of Tahtim-hodshi: or, nether land newly inhabited]
 
-@10 And David’s heart smote him after that he had numbered the people. And David said unto the [LORD]{.smallcaps}, I have sinned greatly in that I have done: and now, I beseech thee, O [LORD]{.smallcaps}, take away the iniquity of thy servant; for I have done very foolishly. 
-@11 For when David was up in the morning, the word of the [LORD]{.smallcaps} came unto the prophet Gad, David’s seer, saying, 
-@12 Go and say unto David, Thus saith the [LORD]{.smallcaps}, I offer thee three things; choose thee one of them, that I may do it unto thee. 
+@10 And David’s heart smote him after that he had numbered the people. And David said unto the LORD, I have sinned greatly in that I have done: and now, I beseech thee, O LORD, take away the iniquity of thy servant; for I have done very foolishly. 
+@11 For when David was up in the morning, the word of the LORD came unto the prophet Gad, David’s seer, saying, 
+@12 Go and say unto David, Thus saith the LORD, I offer thee three things; choose thee one of them, that I may do it unto thee. 
 @13 So Gad came to David, and told him, and said unto him, Shall seven years of famine come unto thee in thy land? or wilt thou flee three months before thine enemies, while they pursue thee? or that there be three days’ pestilence in thy land? now advise, and see what answer I shall return to him that sent me. 
-@14 And David said unto Gad, I am in a great strait: let us fall now into the hand of the [LORD]{.smallcaps}; for his mercies are great: and let me not fall into the hand of man.^a^ 
+@14 And David said unto Gad, I am in a great strait: let us fall now into the hand of the LORD; for his mercies are great: and let me not fall into the hand of man.^a^ 
 ^a^[**24:14** are great: or, are many]
 
-@15 So the [LORD]{.smallcaps} sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beer-sheba seventy thousand men. 
-@16 And when the angel stretched out his hand upon Jerusalem to destroy it, the [LORD]{.smallcaps} repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the [LORD]{.smallcaps} was by the threshingplace of Araunah the Jebusite.^a^ 
-@17 And David spake unto the [LORD]{.smallcaps} when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house. 
+@15 So the LORD sent a pestilence upon Israel from the morning even to the time appointed: and there died of the people from Dan even to Beer-sheba seventy thousand men. 
+@16 And when the angel stretched out his hand upon Jerusalem to destroy it, the LORD repented him of the evil, and said to the angel that destroyed the people, It is enough: stay now thine hand. And the angel of the LORD was by the threshingplace of Araunah the Jebusite.^a^ 
+@17 And David spake unto the LORD when he saw the angel that smote the people, and said, Lo, I have sinned, and I have done wickedly: but these sheep, what have they done? let thine hand, I pray thee, be against me, and against my father’s house. 
 ^a^[**24:16** Araunah: also called, Ornan]
 
-@18 And Gad came that day to David, and said unto him, Go up, rear an altar unto the [LORD]{.smallcaps} in the threshingfloor of Araunah the Jebusite.^a^ 
-@19 And David, according to the saying of Gad, went up as the [LORD]{.smallcaps} commanded. 
+@18 And Gad came that day to David, and said unto him, Go up, rear an altar unto the LORD in the threshingfloor of Araunah the Jebusite.^a^ 
+@19 And David, according to the saying of Gad, went up as the LORD commanded. 
 @20 And Araunah looked, and saw the king and his servants coming on toward him: and Araunah went out, and bowed himself before the king on his face upon the ground. 
-@21 And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the [LORD]{.smallcaps}, that the plague may be stayed from the people. 
+@21 And Araunah said, Wherefore is my lord the king come to his servant? And David said, To buy the threshingfloor of thee, to build an altar unto the LORD, that the plague may be stayed from the people. 
 @22 And Araunah said unto David, Let my lord the king take and offer up what seemeth good unto him: behold, here be oxen for burnt sacrifice, and threshing instruments and other instruments of the oxen for wood. 
-@23 All these things did Araunah, as a king, give unto the king. And Araunah said unto the king, The [LORD]{.smallcaps} thy God accept thee. 
-@24 And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the [LORD]{.smallcaps} my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver. 
-@25 And David built there an altar unto the [LORD]{.smallcaps}, and offered burnt offerings and peace offerings. So the [LORD]{.smallcaps} was intreated for the land, and the plague was stayed from Israel. 
+@23 All these things did Araunah, as a king, give unto the king. And Araunah said unto the king, The LORD thy God accept thee. 
+@24 And the king said unto Araunah, Nay; but I will surely buy it of thee at a price: neither will I offer burnt offerings unto the LORD my God of that which doth cost me nothing. So David bought the threshingfloor and the oxen for fifty shekels of silver. 
+@25 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings. So the LORD was intreated for the land, and the plague was stayed from Israel. 
 ^a^[**24:18** Araunah: Heb. Araniah]

@@ -1,6 +1,6 @@
 # 1 
 @1 The burden which Habakkuk the prophet did see. 
-@2 O [LORD]{.smallcaps}, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save! 
+@2 O LORD, how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save! 
 @3 Why dost thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention. 
 @4 Therefore the law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.^a^ 
 ^a^[**1:4** wrong: or, wrested]
@@ -14,7 +14,7 @@
 @11 Then shall his mind change, and he shall pass over, and offend, imputing this his power unto his god. 
 ^a^[**1:6** breadth: Heb. breadths] ^b^[**1:7** their judgment…: or, from them shall proceed the judgment of these, and the captivity of these] ^c^[**1:8** fierce: Heb. sharp] ^d^[**1:9** their…: or, the supping up of their faces, etc: or, their faces shall look (Heb. the opposition of their faces) toward the east]
 
-@12 Art thou not from everlasting, O [LORD]{.smallcaps} my God, mine Holy One? we shall not die. O [LORD]{.smallcaps}, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.^a^ ^b^ 
+@12 Art thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.^a^ ^b^ 
 @13 Thou art of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?^c^ 
 @14 And makest men as the fishes of the sea, as the creeping things, that have no ruler over them?^d^ 
 @15 They take up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.^e^ 
@@ -24,7 +24,7 @@
 
 # 2 
 @1 I will stand upon my watch, and set me upon the tower, and will watch to see what he will say unto me, and what I shall answer when I am reproved.^a^ ^b^ ^c^ 
-@2 And the [LORD]{.smallcaps} answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. 
+@2 And the LORD answered me, and said, Write the vision, and make it plain upon tables, that he may run that readeth it. 
 @3 For the vision is yet for an appointed time, but at the end it shall speak, and not lie: though it tarry, wait for it; because it will surely come, it will not tarry. 
 @4 Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith. 
 ^a^[**2:1** tower: Heb. fenced place] ^b^[**2:1** unto me: or, in me] ^c^[**2:1** when…: or, when I am argued with: Heb. upon my reproof, or, arguing]
@@ -41,23 +41,23 @@
 ^a^[**2:9** coveteth…: or, gaineth and evil gain] ^b^[**2:9** power…: Heb. palm of the hand] ^c^[**2:11** beam: or, piece, or, fastening] ^d^[**2:11** answer it: or, witness against it]
 
 @12 Woe to him that buildeth a town with blood, and stablisheth a city by iniquity!^a^ 
-@13 Behold, is it not of the [LORD]{.smallcaps} of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?^b^ 
-@14 For the earth shall be filled with the knowledge of the glory of the [LORD]{.smallcaps}, as the waters cover the sea.^c^ 
+@13 Behold, is it not of the LORD of hosts that the people shall labour in the very fire, and the people shall weary themselves for very vanity?^b^ 
+@14 For the earth shall be filled with the knowledge of the glory of the LORD, as the waters cover the sea.^c^ 
 ^a^[**2:12** blood: Heb. bloods] ^b^[**2:13** for…: or, in vain?] ^c^[**2:14** with…: or, by knowing the glory]
 
 @15 Woe unto him that giveth his neighbour drink, that puttest thy bottle to him, and makest him drunken also, that thou mayest look on their nakedness! 
-@16 Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the [LORD’s]{.smallcaps} right hand shall be turned unto thee, and shameful spewing shall be on thy glory.^a^ 
+@16 Thou art filled with shame for glory: drink thou also, and let thy foreskin be uncovered: the cup of the LORD’S right hand shall be turned unto thee, and shameful spewing shall be on thy glory.^a^ 
 @17 For the violence of Lebanon shall cover thee, and the spoil of beasts, which made them afraid, because of men’s blood, and for the violence of the land, of the city, and of all that dwell therein. 
 ^a^[**2:16** with…: or, more with shame than with glory]
 
 @18 What profiteth the graven image that the maker thereof hath graven it; the molten image, and a teacher of lies, that the maker of his work trusteth therein, to make dumb idols?^a^ 
 @19 Woe unto him that saith to the wood, Awake; to the dumb stone, Arise, it shall teach! Behold, it is laid over with gold and silver, and there is no breath at all in the midst of it. 
-@20 But the [LORD]{.smallcaps} is in his holy temple: let all the earth keep silence before him.^b^
+@20 But the LORD is in his holy temple: let all the earth keep silence before him.^b^
 ^a^[**2:18** maker of…: Heb. fashioner of his fashion] ^b^[**2:20** let…: Heb. be silent all the earth before him] 
 
 # 3 
 @1 A prayer of Habakkuk the prophet upon Shigionoth.^a^ 
-@2 O [LORD]{.smallcaps}, I have heard thy speech, and was afraid: O [LORD]{.smallcaps}, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.^b^ ^c^ 
+@2 O LORD, I have heard thy speech, and was afraid: O LORD, revive thy work in the midst of the years, in the midst of the years make known; in wrath remember mercy.^b^ ^c^ 
 ^a^[**3:1** upon…: or, according to variable songs, or, tunes, called in Hebrew, Shigionoth] ^b^[**3:2** speech: Heb. report, or, hearing] ^c^[**3:2** revive: or, preserve alive]
 
 @3 God came from Teman, and the Holy One from mount Paran. Selah. His glory covered the heavens, and the earth was full of his praise.^a^ 
@@ -65,7 +65,7 @@
 @5 Before him went the pestilence, and burning coals went forth at his feet.^c^ 
 @6 He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting. 
 @7 I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.^d^ ^e^ 
-@8 Was the [LORD]{.smallcaps} displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?^f^ 
+@8 Was the LORD displeased against the rivers? was thine anger against the rivers? was thy wrath against the sea, that thou didst ride upon thine horses and thy chariots of salvation?^f^ 
 @9 Thy bow was made quite naked, according to the oaths of the tribes, even thy word. Selah. Thou didst cleave the earth with rivers.^g^ 
 @10 The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high. 
 @11 The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.^h^ 
@@ -79,6 +79,6 @@
 ^a^[**3:16** invade…: or, cut them in pieces]
 
 @17 Although the fig tree shall not blossom, neither shall fruit be in the vines; the labour of the olive shall fail, and the fields shall yield no meat; the flock shall be cut off from the fold, and there shall be no herd in the stalls:^a^ 
-@18 Yet I will rejoice in the [LORD]{.smallcaps}, I will joy in the God of my salvation. 
-@19 The [LORD]{.smallcaps} God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.^b^ ^c^ 
+@18 Yet I will rejoice in the LORD, I will joy in the God of my salvation. 
+@19 The LORD God is my strength, and he will make my feet like hinds’ feet, and he will make me to walk upon mine high places. To the chief singer on my stringed instruments.^b^ ^c^ 
 ^a^[**3:17** fail: Heb. lie] ^b^[**3:19** chief…: or, overseer] ^c^[**3:19** stringed…: Heb. Neginoth]

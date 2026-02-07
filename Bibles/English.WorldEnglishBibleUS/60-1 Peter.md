@@ -162,8 +162,7 @@ For they stumble at the word, being disobedient, to which also they were appoint
 @10 But may the God of all grace, who called you to his eternal glory by Christ Jesus, after you have suffered a little while, perfect, establish, strengthen, and settle you. 
 @11 To him be the glory and the power forever and ever. Amen.
 
-## End of letter; Greetings and blessings
-
+## End of letter; Greetings and blessings
 @12 Through Silvanus, our faithful brother, as I consider him, I have written to you briefly, exhorting and testifying that this is the true grace of God in which you stand. 
 @13 She who is in Babylon, chosen together with you, greets you. So does Mark, my son. 
 @14 Greet one another with a kiss of love. 

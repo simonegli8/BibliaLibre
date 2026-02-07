@@ -8,13 +8,13 @@
 @5 And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.^a^ 
 ^a^[**1:5** continually: Heb. all the days]
 
-@6 Now there was a day when the sons of God came to present themselves before the [LORD]{.smallcaps}, and Satan came also among them.^a^ ^b^ 
-@7 And the [LORD]{.smallcaps} said unto Satan, Whence comest thou? Then Satan answered the [LORD]{.smallcaps}, and said, From going to and fro in the earth, and from walking up and down in it. 
-@8 And the [LORD]{.smallcaps} said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?^c^ 
-@9 Then Satan answered the [LORD]{.smallcaps}, and said, Doth Job fear God for nought? 
+@6 Now there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them.^a^ ^b^ 
+@7 And the LORD said unto Satan, Whence comest thou? Then Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it. 
+@8 And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil?^c^ 
+@9 Then Satan answered the LORD, and said, Doth Job fear God for nought? 
 @10 Hast not thou made an hedge about him, and about his house, and about all that he hath on every side? thou hast blessed the work of his hands, and his substance is increased in the land.^d^ 
 @11 But put forth thine hand now, and touch all that he hath, and he will curse thee to thy face.^e^ 
-@12 And the [LORD]{.smallcaps} said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the [LORD]{.smallcaps}.^f^ 
+@12 And the LORD said unto Satan, Behold, all that he hath is in thy power; only upon himself put not forth thine hand. So Satan went forth from the presence of the LORD.^f^ 
 ^a^[**1:6** Satan: Heb. the adversary] ^b^[**1:6** among: Heb. in the midst of] ^c^[**1:8** considered: Heb. set thy heart on] ^d^[**1:10** substance: or, cattle] ^e^[**1:11** and he…: Heb. if he curse thee not to thy face] ^f^[**1:12** power: Heb. hand]
 
 @13 And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother’s house: 
@@ -27,20 +27,20 @@
 ^a^[**1:16** The fire…: or, A great fire] ^b^[**1:17** fell: Heb. rushed] ^c^[**1:19** from…: Heb. from aside, etc]
 
 @20 Then Job arose, and rent his mantle, and shaved his head, and fell down upon the ground, and worshipped,^a^ 
-@21 And said, Naked came I out of my mother’s womb, and naked shall I return thither: the [LORD]{.smallcaps} gave, and the [LORD]{.smallcaps} hath taken away; blessed be the name of the [LORD]{.smallcaps}. 
+@21 And said, Naked came I out of my mother’s womb, and naked shall I return thither: the LORD gave, and the LORD hath taken away; blessed be the name of the LORD. 
 @22 In all this Job sinned not, nor charged God foolishly.^b^
 ^a^[**1:20** mantle: or, robe] ^b^[**1:22** charged…: or, attributed folly to God] 
 
 # 2 
-@1 Again there was a day when the sons of God came to present themselves before the [LORD]{.smallcaps}, and Satan came also among them to present himself before the [LORD]{.smallcaps}. 
-@2 And the [LORD]{.smallcaps} said unto Satan, From whence comest thou? And Satan answered the [LORD]{.smallcaps}, and said, From going to and fro in the earth, and from walking up and down in it. 
-@3 And the [LORD]{.smallcaps} said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.^a^ 
-@4 And Satan answered the [LORD]{.smallcaps}, and said, Skin for skin, yea, all that a man hath will he give for his life. 
+@1 Again there was a day when the sons of God came to present themselves before the LORD, and Satan came also among them to present himself before the LORD. 
+@2 And the LORD said unto Satan, From whence comest thou? And Satan answered the LORD, and said, From going to and fro in the earth, and from walking up and down in it. 
+@3 And the LORD said unto Satan, Hast thou considered my servant Job, that there is none like him in the earth, a perfect and an upright man, one that feareth God, and escheweth evil? and still he holdeth fast his integrity, although thou movedst me against him, to destroy him without cause.^a^ 
+@4 And Satan answered the LORD, and said, Skin for skin, yea, all that a man hath will he give for his life. 
 @5 But put forth thine hand now, and touch his bone and his flesh, and he will curse thee to thy face. 
-@6 And the [LORD]{.smallcaps} said unto Satan, Behold, he is in thine hand; but save his life.^b^ 
+@6 And the LORD said unto Satan, Behold, he is in thine hand; but save his life.^b^ 
 ^a^[**2:3** to destroy…: Heb. to swallow him up] ^b^[**2:6** but: or, only]
 
-@7 So went Satan forth from the presence of the [LORD]{.smallcaps}, and smote Job with sore boils from the sole of his foot unto his crown. 
+@7 So went Satan forth from the presence of the LORD, and smote Job with sore boils from the sole of his foot unto his crown. 
 @8 And he took him a potsherd to scrape himself withal; and he sat down among the ashes. 
 
 @9 Then said his wife unto him, Dost thou still retain thine integrity? curse God, and die. 
@@ -349,7 +349,7 @@
 @6 The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly. 
 @7 But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee: 
 @8 Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee. 
-@9 Who knoweth not in all these that the hand of the [LORD]{.smallcaps} hath wrought this? 
+@9 Who knoweth not in all these that the hand of the LORD hath wrought this? 
 @10 In whose hand is the soul of every living thing, and the breath of all mankind.^a^ ^b^ 
 @11 Doth not the ear try words? and the mouth taste his meat?^c^ 
 ^a^[**12:10** soul: or, life] ^b^[**12:10** all…: Heb. all flesh of man] ^c^[**12:11** mouth: Heb. palate]
@@ -1185,7 +1185,7 @@
 ^a^[**37:22** Fair…: Heb. Gold] 
 
 # 38 
-@1 Then the [LORD]{.smallcaps} answered Job out of the whirlwind, and said, 
+@1 Then the LORD answered Job out of the whirlwind, and said, 
 @2 Who is this that darkeneth counsel by words without knowledge? 
 @3 Gird up now thy loins like a man; for I will demand of thee, and answer thou me.^a^ 
 ^a^[**38:3** answer…: Heb. make me know]
@@ -1274,14 +1274,14 @@
 ^a^[**39:27** at…: Heb. by thy mouth] 
 
 # 40 
-@1 Moreover the [LORD]{.smallcaps} answered Job, and said, 
+@1 Moreover the LORD answered Job, and said, 
 @2 Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it. 
 
-@3 Then Job answered the [LORD]{.smallcaps}, and said, 
+@3 Then Job answered the LORD, and said, 
 @4 Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth. 
 @5 Once have I spoken; but I will not answer: yea, twice; but I will proceed no further. 
 
-@6 Then answered the [LORD]{.smallcaps} unto Job out of the whirlwind, and said, 
+@6 Then answered the LORD unto Job out of the whirlwind, and said, 
 @7 Gird up thy loins now like a man: I will demand of thee, and declare thou unto me. 
 @8 Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous? 
 @9 Hast thou an arm like God? or canst thou thunder with a voice like him? 
@@ -1343,7 +1343,7 @@
 ^a^[**41:13** with: or, within] ^b^[**41:15** scales: Heb. strong pieces of shields] ^c^[**41:22** is turned into joy: Heb. rejoiceth] ^d^[**41:23** flakes: Heb. fallings] ^e^[**41:26** habergeon: or, breastplate] ^f^[**41:30** Sharp stones: Heb. Sharp pieces of potsherd] ^g^[**41:33** is made without fear: or, behave themselves without fear] 
 
 # 42 
-@1 Then Job answered the [LORD]{.smallcaps}, and said, 
+@1 Then Job answered the LORD, and said, 
 @2 I know that thou canst do every thing, and that no thought can be withholden from thee.^a^ 
 @3 Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not. 
 @4 Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me. 
@@ -1351,14 +1351,14 @@
 @6 Wherefore I abhor myself, and repent in dust and ashes. 
 ^a^[**42:2** no thought can be…: or, no thought of thine can be hindered]
 
-@7 And it was so, that after the [LORD]{.smallcaps} had spoken these words unto Job, the [LORD]{.smallcaps} said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath. 
+@7 And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath. 
 @8 Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.^a^ 
-@9 So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the [LORD]{.smallcaps} commanded them: the [LORD]{.smallcaps} also accepted Job.^b^ 
+@9 So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.^b^ 
 ^a^[**42:8** him: Heb. his face, or, person] ^b^[**42:9** Job: Heb. the face of Job]
 
-@10 And the [LORD]{.smallcaps} turned the captivity of Job, when he prayed for his friends: also the [LORD]{.smallcaps} gave Job twice as much as he had before.^a^ 
-@11 Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the [LORD]{.smallcaps} had brought upon him: every man also gave him a piece of money, and every one an earring of gold. 
-@12 So the [LORD]{.smallcaps} blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses. 
+@10 And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.^a^ 
+@11 Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold. 
+@12 So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses. 
 @13 He had also seven sons and three daughters. 
 @14 And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Keren-happuch. 
 @15 And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren. 

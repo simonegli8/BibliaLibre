@@ -56,8 +56,7 @@ The priests answered, “It will be unclean.”
 @18 ‘Consider, please, from this day and backward, from the twenty-fourth day of the ninth month, since the day that the foundation of Yahweh’s temple was laid, consider it. 
 @19 Is the seed yet in the barn? Yes, the vine, the fig tree, the pomegranate, and the olive tree haven’t produced. From today I will bless you.’”
 
-## The fall of pagan kingdoms and the promise of Zerubbabel's exaltation
-
+## The fall of pagan kingdoms and the promise of Zerubbabel's exaltation
 @20 Yahweh’s word came the second time to Haggai in the twenty-fourth day of the month, saying, 
 @21 “Speak to Zerubbabel, governor of Judah, saying, ‘I will shake the heavens and the earth. 
 @22 I will overthrow the throne of kingdoms. I will destroy the strength of the kingdoms of the nations. I will overthrow the chariots and those who ride in them. The horses and their riders will come down, everyone by the sword of his brother. 

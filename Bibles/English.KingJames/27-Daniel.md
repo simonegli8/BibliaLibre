@@ -335,22 +335,22 @@
 
 # 9 
 @1 In the first year of Darius the son of Ahasuerus, of the seed of the Medes, which was made king over the realm of the Chaldeans;^a^ 
-@2 In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the [LORD]{.smallcaps} came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem. 
+@2 In the first year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem. 
 ^a^[**9:1** which: or, in which he]
 
 @3 And I set my face unto the Lord God, to seek by prayer and supplications, with fasting, and sackcloth, and ashes: 
 
-@4 And I prayed unto the [LORD]{.smallcaps} my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments; 
+@4 And I prayed unto the LORD my God, and made my confession, and said, O Lord, the great and dreadful God, keeping the covenant and mercy to them that love him, and to them that keep his commandments; 
 @5 We have sinned, and have committed iniquity, and have done wickedly, and have rebelled, even by departing from thy precepts and from thy judgments: 
 @6 Neither have we hearkened unto thy servants the prophets, which spake in thy name to our kings, our princes, and our fathers, and to all the people of the land. 
 @7 O Lord, righteousness belongeth unto thee, but unto us confusion of faces, as at this day; to the men of Judah, and to the inhabitants of Jerusalem, and unto all Israel, that are near, and that are far off, through all the countries whither thou hast driven them, because of their trespass that they have trespassed against thee.^a^ 
 @8 O Lord, to us belongeth confusion of face, to our kings, to our princes, and to our fathers, because we have sinned against thee. 
 @9 To the Lord our God belong mercies and forgivenesses, though we have rebelled against him; 
-@10 Neither have we obeyed the voice of the [LORD]{.smallcaps} our God, to walk in his laws, which he set before us by his servants the prophets. 
+@10 Neither have we obeyed the voice of the LORD our God, to walk in his laws, which he set before us by his servants the prophets. 
 @11 Yea, all Israel have transgressed thy law, even by departing, that they might not obey thy voice; therefore the curse is poured upon us, and the oath that is written in the law of Moses the servant of God, because we have sinned against him. 
 @12 And he hath confirmed his words, which he spake against us, and against our judges that judged us, by bringing upon us a great evil: for under the whole heaven hath not been done as hath been done upon Jerusalem. 
-@13 As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the [LORD]{.smallcaps} our God, that we might turn from our iniquities, and understand thy truth.^b^ 
-@14 Therefore hath the [LORD]{.smallcaps} watched upon the evil, and brought it upon us: for the [LORD]{.smallcaps} our God is righteous in all his works which he doeth: for we obeyed not his voice. 
+@13 As it is written in the law of Moses, all this evil is come upon us: yet made we not our prayer before the LORD our God, that we might turn from our iniquities, and understand thy truth.^b^ 
+@14 Therefore hath the LORD watched upon the evil, and brought it upon us: for the LORD our God is righteous in all his works which he doeth: for we obeyed not his voice. 
 @15 And now, O Lord our God, that hast brought thy people forth out of the land of Egypt with a mighty hand, and hast gotten thee renown, as at this day; we have sinned, we have done wickedly.^c^ 
 ^a^[**9:7** belongeth…: or, thou hast] ^b^[**9:13** made…: Heb. intreated we not the face of the, etc] ^c^[**9:15** gotten…: Heb. made thee a name]
 
@@ -360,7 +360,7 @@
 @19 O Lord, hear; O Lord, forgive; O Lord, hearken and do; defer not, for thine own sake, O my God: for thy city and thy people are called by thy name. 
 ^a^[**9:18** which…: Heb. whereupon thy name is called] ^b^[**9:18** present: Heb. cause to fall]
 
-@20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the [LORD]{.smallcaps} my God for the holy mountain of my God; 
+@20 And whiles I was speaking, and praying, and confessing my sin and the sin of my people Israel, and presenting my supplication before the LORD my God for the holy mountain of my God; 
 @21 Yea, whiles I was speaking in prayer, even the man Gabriel, whom I had seen in the vision at the beginning, being caused to fly swiftly, touched me about the time of the evening oblation.^a^ 
 @22 And he informed me, and talked with me, and said, O Daniel, I am now come forth to give thee skill and understanding.^b^ 
 @23 At the beginning of thy supplications the commandment came forth, and I am come to shew thee; for thou art greatly beloved: therefore understand the matter, and consider the vision.^c^ ^d^ 

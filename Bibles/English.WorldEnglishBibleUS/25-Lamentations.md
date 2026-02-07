@@ -179,8 +179,7 @@
 @17 For this our heart is faint. For these things our eyes are dim: 
 @18 for the mountain of Zion, which is desolate. The foxes walk on it.
 
-## Ask for new grace
- 
+## Ask for new grace
 @19 You, Yahweh, remain forever. Your throne is from generation to generation. 
 @20 Why do you forget us forever, and forsake us for so long a time? 
 @21 Turn us to yourself, Yahweh, and we will be turned. Renew our days as of old. 

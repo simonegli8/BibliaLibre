@@ -586,7 +586,6 @@ All the people answered, “Amen, Amen,” with the lifting up of their hands. T
 @28 One of the sons of Joiada, the son of Eliashib the high priest, was son-in-law to Sanballat the Horonite; therefore I chased him from me. 
 @29 Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and of the Levites.
 
-## End of memo
-
+## End of memo
 @30 Thus I cleansed them from all foreigners and appointed duties for the priests and for the Levites, everyone in his work; 
 @31 and for the wood offering, at appointed times, and for the first fruits. Remember me, my God, for good. 

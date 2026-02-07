@@ -1850,8 +1850,7 @@ He went in to stay with them.
 @48 [You are witnesses of these things.]{.wj} 
 @49 [Behold, I send out the promise of my Father on you. But wait in the city of Jerusalem until you are clothed with power from on high.”]{.wj}
 
-## Ascension of Jesus
-
+## Ascension of Jesus
 @50 He led them out as far as Bethany, and he lifted up his hands and blessed them. 
 @51 While he blessed them, he withdrew from them and was carried up into heaven. 
 @52 They worshiped him and returned to Jerusalem with great joy, 

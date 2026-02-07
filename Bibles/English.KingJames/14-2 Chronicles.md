@@ -1,15 +1,15 @@
 # 1 
-@1 And Solomon the son of David was strengthened in his kingdom, and the [LORD]{.smallcaps} his God was with him, and magnified him exceedingly. 
+@1 And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly. 
 @2 Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers. 
-@3 So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the [LORD]{.smallcaps} had made in the wilderness. 
+@3 So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness. 
 @4 But the ark of God had David brought up from Kirjath-jearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem. 
-@5 Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the [LORD]{.smallcaps}: and Solomon and the congregation sought unto it.^a^ 
-@6 And Solomon went up thither to the brasen altar before the [LORD]{.smallcaps}, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it. 
+@5 Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it.^a^ 
+@6 And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it. 
 ^a^[**1:5** he put: or, was there]
 
 @7 In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee. 
 @8 And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead. 
-@9 Now, O [LORD]{.smallcaps} God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.^a^ 
+@9 Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude.^a^ 
 @10 Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, that is so great? 
 @11 And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king: 
 @12 Wisdom and knowledge is granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that have been before thee, neither shall there any after thee have the like. 
@@ -23,11 +23,11 @@
 ^a^[**1:15** made: Heb. gave] ^b^[**1:16** Solomon…: Heb. the going forth of the horses which was Solomon’s] ^c^[**1:17** means: Heb. hand] 
 
 # 2 
-@1 And Solomon determined to build an house for the name of the [LORD]{.smallcaps}, and an house for his kingdom. 
+@1 And Solomon determined to build an house for the name of the LORD, and an house for his kingdom. 
 @2 And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them. 
 
 @3 And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me.^a^ 
-@4 Behold, I build an house to the name of the [LORD]{.smallcaps} my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the [LORD]{.smallcaps} our God. This is an ordinance for ever to Israel.^b^ 
+@4 Behold, I build an house to the name of the LORD my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This is an ordinance for ever to Israel.^b^ 
 @5 And the house which I build is great: for great is our God above all gods. 
 @6 But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who am I then, that I should build him an house, save only to burn sacrifice before him?^c^ 
 @7 Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, whom David my father did provide.^d^ 
@@ -36,8 +36,8 @@
 @10 And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil. 
 ^a^[**2:3** Huram: or, Hiram] ^b^[**2:4** sweet…: Heb. incense of spices] ^c^[**2:6** is able: Heb. hath retained, or, obtained strength] ^d^[**2:7** to grave: Heb. to grave gravings] ^e^[**2:8** algum: also called, almuggim] ^f^[**2:9** wonderful…: Heb. great and wonderful]
 
-@11 Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the [LORD]{.smallcaps} hath loved his people, he hath made thee king over them. 
-@12 Huram said moreover, Blessed be the [LORD]{.smallcaps} God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the [LORD]{.smallcaps}, and an house for his kingdom.^a^ 
+@11 Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them. 
+@12 Huram said moreover, Blessed be the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom.^a^ 
 @13 And now I have sent a cunning man, endued with understanding, of Huram my father’s, 
 @14 The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father. 
 @15 Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants: 
@@ -49,7 +49,7 @@
 ^a^[**2:17** the strangers: Heb. the men the strangers] 
 
 # 3 
-@1 Then Solomon began to build the house of the [LORD]{.smallcaps} at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.^a^ ^b^ 
+@1 Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite.^a^ ^b^ 
 @2 And he began to build in the second day of the second month, in the fourth year of his reign. 
 ^a^[**3:1** where…: or, which was seen of David his father] ^b^[**3:1** Ornan: also called, Araunah]
 
@@ -98,7 +98,7 @@
 @13 And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the chapiters which were upon the pillars.^c^ 
 @14 He made also bases, and lavers made he upon the bases;^d^ 
 @15 One sea, and twelve oxen under it. 
-@16 The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the [LORD]{.smallcaps} of bright brass.^e^ 
+@16 The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass.^e^ 
 @17 In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah.^f^ 
 @18 Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out. 
 ^a^[**4:11** basons: or, bowls] ^b^[**4:11** finished: Heb. finished to make] ^c^[**4:13** upon: Heb. upon the face of] ^d^[**4:14** lavers: or, caldrons] ^e^[**4:16** bright: Heb. made bright, or, scoured] ^f^[**4:17** clay…: Heb. thicknesses of the ground]
@@ -110,46 +110,46 @@
 ^a^[**4:21** perfect…: Heb. perfections of gold] ^b^[**4:22** basons: or, bowls] 
 
 # 5 
-@1 Thus all the work that Solomon made for the house of the [LORD]{.smallcaps} was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God. 
+@1 Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God. 
 
-@2 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the [LORD]{.smallcaps} out of the city of David, which is Zion. 
+@2 Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion. 
 @3 Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month. 
 @4 And all the elders of Israel came; and the Levites took up the ark. 
 @5 And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, these did the priests and the Levites bring up. 
 @6 Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude. 
-@7 And the priests brought in the ark of the covenant of the [LORD]{.smallcaps} unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims: 
+@7 And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims: 
 @8 For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above. 
 @9 And they drew out the staves of the ark, that the ends of the staves were seen from the ark before the oracle; but they were not seen without. And there it is unto this day.^a^ 
-@10 There was nothing in the ark save the two tables which Moses put therein at Horeb, when the [LORD]{.smallcaps} made a covenant with the children of Israel, when they came out of Egypt.^b^ 
+@10 There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt.^b^ 
 ^a^[**5:9** there…: or, they are there] ^b^[**5:10** when the LORD: or, where, etc]
 
 @11 And it came to pass, when the priests were come out of the holy place: (for all the priests that were present were sanctified, and did not then wait by course:^a^ 
 @12 Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:) 
-@13 It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the [LORD]{.smallcaps}; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the [LORD]{.smallcaps}, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the [LORD]{.smallcaps}; 
-@14 So that the priests could not stand to minister by reason of the cloud: for the glory of the [LORD]{.smallcaps} had filled the house of God.
+@13 It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the LORD, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the LORD; 
+@14 So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God.
 ^a^[**5:11** present: Heb. found] 
 
 # 6 
-@1 Then said Solomon, The [LORD]{.smallcaps} hath said that he would dwell in the thick darkness. 
+@1 Then said Solomon, The LORD hath said that he would dwell in the thick darkness. 
 @2 But I have built an house of habitation for thee, and a place for thy dwelling for ever. 
 @3 And the king turned his face, and blessed the whole congregation of Israel: and all the congregation of Israel stood. 
-@4 And he said, Blessed be the [LORD]{.smallcaps} God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying, 
+@4 And he said, Blessed be the LORD God of Israel, who hath with his hands fulfilled that which he spake with his mouth to my father David, saying, 
 @5 Since the day that I brought forth my people out of the land of Egypt I chose no city among all the tribes of Israel to build an house in, that my name might be there; neither chose I any man to be a ruler over my people Israel: 
 @6 But I have chosen Jerusalem, that my name might be there; and have chosen David to be over my people Israel. 
-@7 Now it was in the heart of David my father to build an house for the name of the [LORD]{.smallcaps} God of Israel. 
-@8 But the [LORD]{.smallcaps} said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart: 
+@7 Now it was in the heart of David my father to build an house for the name of the LORD God of Israel. 
+@8 But the LORD said to David my father, Forasmuch as it was in thine heart to build an house for my name, thou didst well in that it was in thine heart: 
 @9 Notwithstanding thou shalt not build the house; but thy son which shall come forth out of thy loins, he shall build the house for my name. 
-@10 The [LORD]{.smallcaps} therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the [LORD]{.smallcaps} promised, and have built the house for the name of the [LORD]{.smallcaps} God of Israel. 
-@11 And in it have I put the ark, wherein is the covenant of the [LORD]{.smallcaps}, that he made with the children of Israel. 
+@10 The LORD therefore hath performed his word that he hath spoken: for I am risen up in the room of David my father, and am set on the throne of Israel, as the LORD promised, and have built the house for the name of the LORD God of Israel. 
+@11 And in it have I put the ark, wherein is the covenant of the LORD, that he made with the children of Israel. 
 
-@12 And he stood before the altar of the [LORD]{.smallcaps} in the presence of all the congregation of Israel, and spread forth his hands: 
+@12 And he stood before the altar of the LORD in the presence of all the congregation of Israel, and spread forth his hands: 
 @13 For Solomon had made a brasen scaffold, of five cubits long, and five cubits broad, and three cubits high, and had set it in the midst of the court: and upon it he stood, and kneeled down upon his knees before all the congregation of Israel, and spread forth his hands toward heaven,^a^ 
-@14 And said, O [LORD]{.smallcaps} God of Israel, there is no God like thee in the heaven, nor in the earth; which keepest covenant, and shewest mercy unto thy servants, that walk before thee with all their hearts: 
+@14 And said, O LORD God of Israel, there is no God like thee in the heaven, nor in the earth; which keepest covenant, and shewest mercy unto thy servants, that walk before thee with all their hearts: 
 @15 Thou which hast kept with thy servant David my father that which thou hast promised him; and spakest with thy mouth, and hast fulfilled it with thine hand, as it is this day. 
-@16 Now therefore, O [LORD]{.smallcaps} God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.^b^ 
-@17 Now then, O [LORD]{.smallcaps} God of Israel, let thy word be verified, which thou hast spoken unto thy servant David. 
+@16 Now therefore, O LORD God of Israel, keep with thy servant David my father that which thou hast promised him, saying, There shall not fail thee a man in my sight to sit upon the throne of Israel; yet so that thy children take heed to their way to walk in my law, as thou hast walked before me.^b^ 
+@17 Now then, O LORD God of Israel, let thy word be verified, which thou hast spoken unto thy servant David. 
 @18 But will God in very deed dwell with men on the earth? behold, heaven and the heaven of heavens cannot contain thee; how much less this house which I have built! 
-@19 Have respect therefore to the prayer of thy servant, and to his supplication, O [LORD]{.smallcaps} my God, to hearken unto the cry and the prayer which thy servant prayeth before thee: 
+@19 Have respect therefore to the prayer of thy servant, and to his supplication, O LORD my God, to hearken unto the cry and the prayer which thy servant prayeth before thee: 
 @20 That thine eyes may be open upon this house day and night, upon the place whereof thou hast said that thou wouldest put thy name there; to hearken unto the prayer which thy servant prayeth toward this place.^c^ 
 @21 Hearken therefore unto the supplications of thy servant, and of thy people Israel, which they shall make toward this place: hear thou from thy dwelling place, even from heaven; and when thou hearest, forgive.^d^ ^e^ 
 ^a^[**6:13** long…: Heb. the length thereof, etc] ^b^[**6:16** There…: Heb. There shall not a man be cut off] ^c^[**6:20** toward…: or, in this place] ^d^[**6:21** make: Heb. pray] ^e^[**6:21** toward…: or, in this place]
@@ -181,28 +181,28 @@
 @38 If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and toward the city which thou hast chosen, and toward the house which I have built for thy name: 
 @39 Then hear thou from the heavens, even from thy dwelling place, their prayer and their supplications, and maintain their cause, and forgive thy people which have sinned against thee.^f^ 
 @40 Now, my God, let, I beseech thee, thine eyes be open, and let thine ears be attent unto the prayer that is made in this place.^g^ 
-@41 Now therefore arise, O [LORD]{.smallcaps} God, into thy resting place, thou, and the ark of thy strength: let thy priests, O [LORD]{.smallcaps} God, be clothed with salvation, and let thy saints rejoice in goodness. 
-@42 O [LORD]{.smallcaps} God, turn not away the face of thine anointed: remember the mercies of David thy servant.
+@41 Now therefore arise, O LORD God, into thy resting place, thou, and the ark of thy strength: let thy priests, O LORD God, be clothed with salvation, and let thy saints rejoice in goodness. 
+@42 O LORD God, turn not away the face of thine anointed: remember the mercies of David thy servant.
 ^a^[**6:32** toward…: or, in this place] ^b^[**6:33** this…: Heb. thy name is called upon this house] ^c^[**6:35** cause: or, right] ^d^[**6:36** they carry them away captives: Heb. they that take them captives carry them away] ^e^[**6:37** bethink…: Heb. bring back to their heart] ^f^[**6:39** cause: or, right] ^g^[**6:40** unto…: Heb. to the prayer of this place] 
 
 # 7 
-@1 Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the [LORD]{.smallcaps} filled the house. 
-@2 And the priests could not enter into the house of the [LORD]{.smallcaps}, because the glory of the [LORD]{.smallcaps} had filled the [LORD’s]{.smallcaps} house. 
-@3 And when all the children of Israel saw how the fire came down, and the glory of the [LORD]{.smallcaps} upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the [LORD]{.smallcaps}, saying, For he is good; for his mercy endureth for ever. 
+@1 Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house. 
+@2 And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’S house. 
+@3 And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, saying, For he is good; for his mercy endureth for ever. 
 
-@4 Then the king and all the people offered sacrifices before the [LORD]{.smallcaps}. 
+@4 Then the king and all the people offered sacrifices before the LORD. 
 @5 And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God. 
-@6 And the priests waited on their offices: the Levites also with instruments of musick of the [LORD]{.smallcaps}, which David the king had made to praise the [LORD]{.smallcaps}, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.^a^ 
-@7 Moreover Solomon hallowed the middle of the court that was before the house of the [LORD]{.smallcaps}: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat. 
+@6 And the priests waited on their offices: the Levites also with instruments of musick of the LORD, which David the king had made to praise the LORD, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood.^a^ 
+@7 Moreover Solomon hallowed the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat. 
 ^a^[**7:6** by their…: Heb. by their hand]
 
 @8 Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt. 
 @9 And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.^a^ 
-@10 And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the [LORD]{.smallcaps} had shewed unto David, and to Solomon, and to Israel his people. 
-@11 Thus Solomon finished the house of the [LORD]{.smallcaps}, and the king’s house: and all that came into Solomon’s heart to make in the house of the [LORD]{.smallcaps}, and in his own house, he prosperously effected. 
+@10 And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people. 
+@11 Thus Solomon finished the house of the LORD, and the king’s house: and all that came into Solomon’s heart to make in the house of the LORD, and in his own house, he prosperously effected. 
 ^a^[**7:9** a solemn…: Heb. a restraint]
 
-@12 And the [LORD]{.smallcaps} appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice. 
+@12 And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice. 
 @13 If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people; 
 @14 If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.^a^ 
 @15 Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place.^b^ 
@@ -211,12 +211,12 @@
 @18 Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel.^c^ 
 @19 But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them; 
 @20 Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations. 
-@21 And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the [LORD]{.smallcaps} done thus unto this land, and unto this house? 
-@22 And it shall be answered, Because they forsook the [LORD]{.smallcaps} God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.
+@21 And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the LORD done thus unto this land, and unto this house? 
+@22 And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them.
 ^a^[**7:14** which…: Heb. upon whom my name is called] ^b^[**7:15** unto…: Heb. to the prayer of this place] ^c^[**7:18** There…: Heb. There shall not be cut off to thee] 
 
 # 8 
-@1 And it came to pass at the end of twenty years, wherein Solomon had built the house of the [LORD]{.smallcaps}, and his own house, 
+@1 And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house, 
 @2 That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there. 
 @3 And Solomon went to Hamath-zobah, and prevailed against it. 
 @4 And he built Tadmor in the wilderness, and all the store cities, which he built in Hamath. 
@@ -229,15 +229,15 @@
 @9 But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and captains of his chariots and horsemen. 
 @10 And these were the chief of king Solomon’s officers, even two hundred and fifty, that bare rule over the people. 
 
-@11 And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the [LORD]{.smallcaps} hath come.^a^ 
+@11 And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the LORD hath come.^a^ 
 ^a^[**8:11** holy: Heb. holiness]
 
-@12 Then Solomon offered burnt offerings unto the [LORD]{.smallcaps} on the altar of the [LORD]{.smallcaps}, which he had built before the porch, 
+@12 Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch, 
 @13 Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles. 
 
 @14 And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded.^a^ 
 @15 And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures. 
-@16 Now all the work of Solomon was prepared unto the day of the foundation of the house of the [LORD]{.smallcaps}, and until it was finished. So the house of the [LORD]{.smallcaps} was perfected. 
+@16 Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was perfected. 
 ^a^[**8:14** so had David…: Heb. so was the commandment of David the man of God]
 
 @17 Then went Solomon to Ezion-geber, and to Eloth, at the sea side in the land of Edom.^a^ 
@@ -248,14 +248,14 @@
 @1 And when the queen of Sheba heard of the fame of Solomon, she came to prove Solomon with hard questions at Jerusalem, with a very great company, and camels that bare spices, and gold in abundance, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart. 
 @2 And Solomon told her all her questions: and there was nothing hid from Solomon which he told her not. 
 @3 And when the queen of Sheba had seen the wisdom of Solomon, and the house that he had built, 
-@4 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the [LORD]{.smallcaps}; there was no more spirit in her.^a^ 
+@4 And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel; his cupbearers also, and their apparel; and his ascent by which he went up into the house of the LORD; there was no more spirit in her.^a^ 
 @5 And she said to the king, It was a true report which I heard in mine own land of thine acts, and of thy wisdom:^b^ ^c^ 
 @6 Howbeit I believed not their words, until I came, and mine eyes had seen it: and, behold, the one half of the greatness of thy wisdom was not told me: for thou exceedest the fame that I heard. 
 @7 Happy are thy men, and happy are these thy servants, which stand continually before thee, and hear thy wisdom. 
-@8 Blessed be the [LORD]{.smallcaps} thy God, which delighted in thee to set thee on his throne, to be king for the [LORD]{.smallcaps} thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice. 
+@8 Blessed be the LORD thy God, which delighted in thee to set thee on his throne, to be king for the LORD thy God: because thy God loved Israel, to establish them for ever, therefore made he thee king over them, to do judgment and justice. 
 @9 And she gave the king an hundred and twenty talents of gold, and of spices great abundance, and precious stones: neither was there any such spice as the queen of Sheba gave king Solomon. 
 @10 And the servants also of Huram, and the servants of Solomon, which brought gold from Ophir, brought algum trees and precious stones.^d^ 
-@11 And the king made of the algum trees terraces to the house of the [LORD]{.smallcaps}, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.^e^ 
+@11 And the king made of the algum trees terraces to the house of the LORD, and to the king’s palace, and harps and psalteries for singers: and there were none such seen before in the land of Judah.^e^ 
 @12 And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, beside that which she had brought unto the king. So she turned, and went away to her own land, she and her servants. 
 ^a^[**9:4** cupbearers: or, butlers] ^b^[**9:5** report: Heb. word] ^c^[**9:5** acts: or, sayings] ^d^[**9:10** algum…: also called, almug trees] ^e^[**9:11** terraces: or, stairs: Heb. highways]
 
@@ -308,7 +308,7 @@
 @12 So Jeroboam and all the people came to Rehoboam on the third day, as the king bade, saying, Come again to me on the third day. 
 @13 And the king answered them roughly; and king Rehoboam forsook the counsel of the old men, 
 @14 And answered them after the advice of the young men, saying, My father made your yoke heavy, but I will add thereto: my father chastised you with whips, but I will chastise you with scorpions. 
-@15 So the king hearkened not unto the people: for the cause was of God, that the [LORD]{.smallcaps} might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat. 
+@15 So the king hearkened not unto the people: for the cause was of God, that the LORD might perform his word, which he spake by the hand of Ahijah the Shilonite to Jeroboam the son of Nebat. 
 
 @16 And when all Israel saw that the king would not hearken unto them, the people answered the king, saying, What portion have we in David? and we have none inheritance in the son of Jesse: every man to your tents, O Israel: and now, David, see to thine own house. So all Israel went to their tents. 
 @17 But as for the children of Israel that dwelt in the cities of Judah, Rehoboam reigned over them. 
@@ -318,9 +318,9 @@
 
 # 11 
 @1 And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam. 
-@2 But the word of the [LORD]{.smallcaps} came to Shemaiah the man of God, saying, 
+@2 But the word of the LORD came to Shemaiah the man of God, saying, 
 @3 Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying, 
-@4 Thus saith the [LORD]{.smallcaps}, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the [LORD]{.smallcaps}, and returned from going against Jeroboam. 
+@4 Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam. 
 
 @5 And Rehoboam dwelt in Jerusalem, and built cities for defence in Judah. 
 @6 He built even Beth-lehem, and Etam, and Tekoa, 
@@ -332,9 +332,9 @@
 @12 And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side. 
 
 @13 And the priests and the Levites that were in all Israel resorted to him out of all their coasts.^a^ 
-@14 For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the [LORD]{.smallcaps}: 
+@14 For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD: 
 @15 And he ordained him priests for the high places, and for the devils, and for the calves which he had made. 
-@16 And after them out of all the tribes of Israel such as set their hearts to seek the [LORD]{.smallcaps} God of Israel came to Jerusalem, to sacrifice unto the [LORD]{.smallcaps} God of their fathers. 
+@16 And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers. 
 @17 So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon. 
 ^a^[**11:13** resorted…: Heb. presented themselves to him]
 
@@ -347,23 +347,23 @@
 ^a^[**11:20** Maachah: she is also called Michaiah the daughter of Uriel] ^b^[**11:23** many wives: Heb. a multitude of wives] 
 
 # 12 
-@1 And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the [LORD]{.smallcaps}, and all Israel with him. 
-@2 And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the [LORD]{.smallcaps}, 
+@1 And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him. 
+@2 And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD, 
 @3 With twelve hundred chariots, and threescore thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians. 
 @4 And he took the fenced cities which pertained to Judah, and came to Jerusalem. 
 
-@5 Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the [LORD]{.smallcaps}, Ye have forsaken me, and therefore have I also left you in the hand of Shishak. 
-@6 Whereupon the princes of Israel and the king humbled themselves; and they said, The [LORD]{.smallcaps} is righteous. 
-@7 And when the [LORD]{.smallcaps} saw that they humbled themselves, the word of the [LORD]{.smallcaps} came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.^a^ 
+@5 Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak. 
+@6 Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD is righteous. 
+@7 And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.^a^ 
 @8 Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries. 
-@9 So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the [LORD]{.smallcaps}, and the treasures of the king’s house; he took all: he carried away also the shields of gold which Solomon had made. 
+@9 So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king’s house; he took all: he carried away also the shields of gold which Solomon had made. 
 @10 Instead of which king Rehoboam made shields of brass, and committed them to the hands of the chief of the guard, that kept the entrance of the king’s house. 
-@11 And when the king entered into the house of the [LORD]{.smallcaps}, the guard came and fetched them, and brought them again into the guard chamber. 
-@12 And when he humbled himself, the wrath of the [LORD]{.smallcaps} turned from him, that he would not destroy him altogether: and also in Judah things went well.^b^ 
+@11 And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber. 
+@12 And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well.^b^ 
 ^a^[**12:7** some: or, a little while] ^b^[**12:12** and also…: or, and yet in Judah there were good things]
 
-@13 So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the [LORD]{.smallcaps} had chosen out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess. 
-@14 And he did evil, because he prepared not his heart to seek the [LORD]{.smallcaps}.^a^ 
+@13 So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess. 
+@14 And he did evil, because he prepared not his heart to seek the LORD.^a^ 
 @15 Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually.^b^ 
 @16 And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.^c^
 ^a^[**12:14** prepared: or, fixed] ^b^[**12:15** book: Heb. words] ^c^[**12:16** Abijah: also called, Abijam] 
@@ -375,67 +375,67 @@
 ^a^[**13:3** Abijah set: Heb. Abijah bound together]
 
 @4 And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel; 
-@5 Ought ye not to know that the [LORD]{.smallcaps} God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt? 
+@5 Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt? 
 @6 Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord. 
 @7 And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them. 
-@8 And now ye think to withstand the kingdom of the [LORD]{.smallcaps} in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods. 
-@9 Have ye not cast out the priests of the [LORD]{.smallcaps}, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods.^a^ 
-@10 But as for us, the [LORD]{.smallcaps} is our God, and we have not forsaken him; and the priests, which minister unto the [LORD]{.smallcaps}, are the sons of Aaron, and the Levites wait upon their business: 
-@11 And they burn unto the [LORD]{.smallcaps} every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the [LORD]{.smallcaps} our God; but ye have forsaken him. 
-@12 And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the [LORD]{.smallcaps} God of your fathers; for ye shall not prosper. 
+@8 And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods. 
+@9 Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods.^a^ 
+@10 But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business: 
+@11 And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him. 
+@12 And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper. 
 ^a^[**13:9** to consecrate…: Heb. to fill his hand]
 
 @13 But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them. 
-@14 And when Judah looked back, behold, the battle was before and behind: and they cried unto the [LORD]{.smallcaps}, and the priests sounded with the trumpets. 
+@14 And when Judah looked back, behold, the battle was before and behind: and they cried unto the LORD, and the priests sounded with the trumpets. 
 @15 Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah. 
 @16 And the children of Israel fled before Judah: and God delivered them into their hand. 
 @17 And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men. 
-@18 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the [LORD]{.smallcaps} God of their fathers. 
+@18 Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers. 
 @19 And Abijah pursued after Jeroboam, and took cities from him, Beth-el with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof. 
-@20 Neither did Jeroboam recover strength again in the days of Abijah: and the [LORD]{.smallcaps} struck him, and he died. 
+@20 Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died. 
 
 @21 But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters. 
 @22 And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo. 
 
 # 14 
 @1 So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years. 
-@2 And Asa did that which was good and right in the eyes of the [LORD]{.smallcaps} his God: 
+@2 And Asa did that which was good and right in the eyes of the LORD his God: 
 @3 For he took away the altars of the strange gods, and the high places, and brake down the images, and cut down the groves:^a^ 
-@4 And commanded Judah to seek the [LORD]{.smallcaps} God of their fathers, and to do the law and the commandment. 
+@4 And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment. 
 @5 Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him.^b^ 
 ^a^[**14:3** images: Heb. statues] ^b^[**14:5** images: Heb. sun images]
 
-@6 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the [LORD]{.smallcaps} had given him rest. 
-@7 Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the [LORD]{.smallcaps} our God, we have sought him, and he hath given us rest on every side. So they built and prospered. 
+@6 And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest. 
+@7 Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the LORD our God, we have sought him, and he hath given us rest on every side. So they built and prospered. 
 @8 And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valour. 
 
 @9 And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah. 
 @10 Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah. 
-@11 And Asa cried unto the [LORD]{.smallcaps} his God, and said, [LORD]{.smallcaps}, it is nothing with thee to help, whether with many, or with them that have no power: help us, O [LORD]{.smallcaps} our God; for we rest on thee, and in thy name we go against this multitude. O [LORD]{.smallcaps}, thou art our God; let not man prevail against thee.^a^ 
-@12 So the [LORD]{.smallcaps} smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled. 
-@13 And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the [LORD]{.smallcaps}, and before his host; and they carried away very much spoil.^b^ 
-@14 And they smote all the cities round about Gerar; for the fear of the [LORD]{.smallcaps} came upon them: and they spoiled all the cities; for there was exceeding much spoil in them. 
+@11 And Asa cried unto the LORD his God, and said, LORD, it is nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou art our God; let not man prevail against thee.^a^ 
+@12 So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled. 
+@13 And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much spoil.^b^ 
+@14 And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them. 
 @15 They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem.
 ^a^[**14:11** man: or, mortal man] ^b^[**14:13** destroyed: Heb. broken] 
 
 # 15 
 @1 And the Spirit of God came upon Azariah the son of Oded: 
-@2 And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The [LORD]{.smallcaps} is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.^a^ 
+@2 And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you.^a^ 
 @3 Now for a long season Israel hath been without the true God, and without a teaching priest, and without law. 
-@4 But when they in their trouble did turn unto the [LORD]{.smallcaps} God of Israel, and sought him, he was found of them. 
+@4 But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them. 
 @5 And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries. 
 @6 And nation was destroyed of nation, and city of city: for God did vex them with all adversity.^b^ 
 @7 Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded. 
 ^a^[**15:2** to meet…: Heb. before Asa] ^b^[**15:6** destroyed: Heb. beaten in pieces]
 
-@8 And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the [LORD]{.smallcaps}, that was before the porch of the [LORD]{.smallcaps}.^a^ 
-@9 And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the [LORD]{.smallcaps} his God was with him. 
+@8 And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD.^a^ 
+@9 And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God was with him. 
 @10 So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa. 
-@11 And they offered unto the [LORD]{.smallcaps} the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep.^b^ 
-@12 And they entered into a covenant to seek the [LORD]{.smallcaps} God of their fathers with all their heart and with all their soul; 
-@13 That whosoever would not seek the [LORD]{.smallcaps} God of Israel should be put to death, whether small or great, whether man or woman. 
-@14 And they sware unto the [LORD]{.smallcaps} with a loud voice, and with shouting, and with trumpets, and with cornets. 
-@15 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the [LORD]{.smallcaps} gave them rest round about. 
+@11 And they offered unto the LORD the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep.^b^ 
+@12 And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul; 
+@13 That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman. 
+@14 And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets. 
+@15 And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about. 
 ^a^[**15:8** abominable…: Heb. abominations] ^b^[**15:11** the same…: Heb. in that day]
 
 @16 And also concerning Maachah the mother of Asa the king, he removed her from being queen, because she had made an idol in a grove: and Asa cut down her idol, and stamped it, and burnt it at the brook Kidron.^a^ ^b^ 
@@ -447,21 +447,21 @@
 
 # 16 
 @1 In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah. 
-@2 Then Asa brought out silver and gold out of the treasures of the house of the [LORD]{.smallcaps} and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying,^a^ 
+@2 Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Ben-hadad king of Syria, that dwelt at Damascus, saying,^a^ 
 @3 There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me. 
 @4 And Ben-hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel-maim, and all the store cities of Naphtali.^b^ 
 @5 And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease. 
 @6 Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah. 
 ^a^[**16:2** Damascus: Heb. Darmesek] ^b^[**16:4** his: Heb. which were his]
 
-@7 And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the [LORD]{.smallcaps} thy God, therefore is the host of the king of Syria escaped out of thine hand. 
-@8 Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the [LORD]{.smallcaps}, he delivered them into thine hand.^a^ 
-@9 For the eyes of the [LORD]{.smallcaps} run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.^b^ 
+@7 And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand. 
+@8 Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand.^a^ 
+@9 For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars.^b^ 
 @10 Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time.^c^ 
 ^a^[**16:8** a huge: Heb. in abundance] ^b^[**16:9** to shew…: or, strongly to hold with them, etc] ^c^[**16:10** oppressed: Heb. crushed]
 
 @11 And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel. 
-@12 And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the [LORD]{.smallcaps}, but to the physicians. 
+@12 And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians. 
 
 @13 And Asa slept with his fathers, and died in the one and fortieth year of his reign. 
 @14 And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him.^a^
@@ -470,17 +470,17 @@
 # 17 
 @1 And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel. 
 @2 And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken. 
-@3 And the [LORD]{.smallcaps} was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;^a^ 
+@3 And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;^a^ 
 @4 But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel. 
-@5 Therefore the [LORD]{.smallcaps} stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.^b^ 
-@6 And his heart was lifted up in the ways of the [LORD]{.smallcaps}: moreover he took away the high places and groves out of Judah.^c^ 
+@5 Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance.^b^ 
+@6 And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah.^c^ 
 ^a^[**17:3** of…: or, of his father, and of David] ^b^[**17:5** brought: Heb. gave] ^c^[**17:6** was…: that is, was encouraged]
 
 @7 Also in the third year of his reign he sent to his princes, even to Ben-hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah. 
 @8 And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tob-adonijah, Levites; and with them Elishama and Jehoram, priests. 
-@9 And they taught in Judah, and had the book of the law of the [LORD]{.smallcaps} with them, and went about throughout all the cities of Judah, and taught the people. 
+@9 And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people. 
 
-@10 And the fear of the [LORD]{.smallcaps} fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.^a^ 
+@10 And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.^a^ 
 @11 Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats. 
 ^a^[**17:10** fell: Heb. was]
 
@@ -488,7 +488,7 @@
 @13 And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem. 
 @14 And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand. 
 @15 And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand.^b^ 
-@16 And next him was Amasiah the son of Zichri, who willingly offered himself unto the [LORD]{.smallcaps}; and with him two hundred thousand mighty men of valour. 
+@16 And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour. 
 @17 And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand. 
 @18 And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war. 
 @19 These waited on the king, beside those whom the king put in the fenced cities throughout all Judah.
@@ -500,36 +500,36 @@
 @3 And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramoth-gilead? And he answered him, I am as thou art, and my people as thy people; and we will be with thee in the war. 
 ^a^[**18:2** after…: Heb. at the end of years]
 
-@4 And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the [LORD]{.smallcaps} to day. 
+@4 And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day. 
 @5 Therefore the king of Israel gathered together of prophets four hundred men, and said unto them, Shall we go to Ramoth-gilead to battle, or shall I forbear? And they said, Go up; for God will deliver it into the king’s hand. 
-@6 But Jehoshaphat said, Is there not here a prophet of the [LORD]{.smallcaps} besides, that we might enquire of him?^a^ 
-@7 And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the [LORD]{.smallcaps}: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so. 
+@6 But Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?^a^ 
+@7 And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so. 
 @8 And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla.^b^ ^c^ 
 @9 And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in their robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them.^d^ 
-@10 And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the [LORD]{.smallcaps}, With these thou shalt push Syria until they be consumed.^e^ 
-@11 And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the [LORD]{.smallcaps} shall deliver it into the hand of the king. 
+@10 And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed.^e^ 
+@11 And all the prophets prophesied so, saying, Go up to Ramoth-gilead, and prosper: for the LORD shall deliver it into the hand of the king. 
 @12 And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets declare good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good.^f^ 
-@13 And Micaiah said, As the [LORD]{.smallcaps} liveth, even what my God saith, that will I speak. 
+@13 And Micaiah said, As the LORD liveth, even what my God saith, that will I speak. 
 @14 And when he was come to the king, the king said unto him, Micaiah, shall we go to Ramoth-gilead to battle, or shall I forbear? And he said, Go ye up, and prosper, and they shall be delivered into your hand. 
-@15 And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of the [LORD]{.smallcaps}? 
-@16 Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the [LORD]{.smallcaps} said, These have no master; let them return therefore every man to his house in peace. 
+@15 And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of the LORD? 
+@16 Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return therefore every man to his house in peace. 
 @17 And the king of Israel said to Jehoshaphat, Did I not tell thee that he would not prophesy good unto me, but evil?^g^ 
-@18 Again he said, Therefore hear the word of the [LORD]{.smallcaps}; I saw the [LORD]{.smallcaps} sitting upon his throne, and all the host of heaven standing on his right hand and on his left. 
-@19 And the [LORD]{.smallcaps} said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramoth-gilead? And one spake saying after this manner, and another saying after that manner. 
-@20 Then there came out a spirit, and stood before the [LORD]{.smallcaps}, and said, I will entice him. And the [LORD]{.smallcaps} said unto him, Wherewith? 
+@18 Again he said, Therefore hear the word of the LORD; I saw the LORD sitting upon his throne, and all the host of heaven standing on his right hand and on his left. 
+@19 And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramoth-gilead? And one spake saying after this manner, and another saying after that manner. 
+@20 Then there came out a spirit, and stood before the LORD, and said, I will entice him. And the LORD said unto him, Wherewith? 
 @21 And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And the Lord said, Thou shalt entice him, and thou shalt also prevail: go out, and do even so. 
-@22 Now therefore, behold, the [LORD]{.smallcaps} hath put a lying spirit in the mouth of these thy prophets, and the [LORD]{.smallcaps} hath spoken evil against thee. 
-@23 Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the [LORD]{.smallcaps} from me to speak unto thee? 
+@22 Now therefore, behold, the LORD hath put a lying spirit in the mouth of these thy prophets, and the LORD hath spoken evil against thee. 
+@23 Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee? 
 @24 And Micaiah said, Behold, thou shalt see on that day when thou shalt go into an inner chamber to hide thyself.^h^ 
 @25 Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son; 
 @26 And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace. 
-@27 And Micaiah said, If thou certainly return in peace, then hath not the [LORD]{.smallcaps} spoken by me. And he said, Hearken, all ye people. 
+@27 And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people. 
 ^a^[**18:6** besides: Heb. yet, or, more] ^b^[**18:8** officers: or, eunuchs] ^c^[**18:8** Fetch…: Heb. Hasten] ^d^[**18:9** void…: or, floor] ^e^[**18:10** they…: Heb. thou consume them] ^f^[**18:12** with…: Heb. with one mouth] ^g^[**18:17** but evil: or, but for evil] ^h^[**18:24** into…: or, from chamber to chamber: Heb. a chamber in a chamber]
 
 @28 So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth-gilead. 
 @29 And the king of Israel said unto Jehoshaphat, I will disguise myself, and will go to the battle; but put thou on thy robes. So the king of Israel disguised himself; and they went to the battle. 
 @30 Now the king of Syria had commanded the captains of the chariots that were with him, saying, Fight ye not with small or great, save only with the king of Israel. 
-@31 And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the [LORD]{.smallcaps} helped him; and God moved them to depart from him. 
+@31 And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him. 
 @32 For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him.^a^ 
 @33 And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: therefore he said to his chariot man, Turn thine hand, that thou mayest carry me out of the host; for I am wounded.^b^ ^c^ ^d^ 
 @34 And the battle increased that day: howbeit the king of Israel stayed himself up in his chariot against the Syrians until the even: and about the time of the sun going down he died.
@@ -537,74 +537,74 @@
 
 # 19 
 @1 And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem. 
-@2 And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the [LORD]{.smallcaps}? therefore is wrath upon thee from before the [LORD]{.smallcaps}. 
+@2 And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD. 
 @3 Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God. 
-@4 And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the [LORD]{.smallcaps} God of their fathers.^a^ 
+@4 And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the LORD God of their fathers.^a^ 
 ^a^[**19:4** he went…: Heb. he returned and went out]
 
 @5 And he set judges in the land throughout all the fenced cities of Judah, city by city, 
-@6 And said to the judges, Take heed what ye do: for ye judge not for man, but for the [LORD]{.smallcaps}, who is with you in the judgment.^a^ 
-@7 Wherefore now let the fear of the [LORD]{.smallcaps} be upon you; take heed and do it: for there is no iniquity with the [LORD]{.smallcaps} our God, nor respect of persons, nor taking of gifts. 
+@6 And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment.^a^ 
+@7 Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts. 
 ^a^[**19:6** in…: Heb. in the matter of judgment]
 
-@8 Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the [LORD]{.smallcaps}, and for controversies, when they returned to Jerusalem. 
-@9 And he charged them, saying, Thus shall ye do in the fear of the [LORD]{.smallcaps}, faithfully, and with a perfect heart. 
-@10 And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the [LORD]{.smallcaps}, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass. 
-@11 And, behold, Amariah the chief priest is over you in all matters of the [LORD]{.smallcaps}; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the [LORD]{.smallcaps} shall be with the good.^a^
+@8 Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem. 
+@9 And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart. 
+@10 And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass. 
+@11 And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good.^a^
 ^a^[**19:11** Deal…: Heb. Take courage and do] 
 
 # 20 
 @1 It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle. 
 @2 Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazon-tamar, which is En-gedi. 
-@3 And Jehoshaphat feared, and set himself to seek the [LORD]{.smallcaps}, and proclaimed a fast throughout all Judah.^a^ 
-@4 And Judah gathered themselves together, to ask help of the [LORD]{.smallcaps}: even out of all the cities of Judah they came to seek the [LORD]{.smallcaps}. 
+@3 And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah.^a^ 
+@4 And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD. 
 ^a^[**20:3** himself: Heb. his face]
 
-@5 And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the [LORD]{.smallcaps}, before the new court, 
-@6 And said, O [LORD]{.smallcaps} God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee? 
+@5 And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court, 
+@6 And said, O LORD God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee? 
 @7 Art not thou our God, who didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?^a^ 
 @8 And they dwelt therein, and have built thee a sanctuary therein for thy name, saying, 
 @9 If, when evil cometh upon us, as the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name is in this house,) and cry unto thee in our affliction, then thou wilt hear and help. 
 @10 And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not; 
 @11 Behold, I say, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit. 
 @12 O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee. 
-@13 And all Judah stood before the [LORD]{.smallcaps}, with their little ones, their wives, and their children. 
+@13 And all Judah stood before the LORD, with their little ones, their wives, and their children. 
 ^a^[**20:7** who: Heb. thou]
 
-@14 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the [LORD]{.smallcaps} in the midst of the congregation; 
-@15 And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the [LORD]{.smallcaps} unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s. 
+@14 Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation; 
+@15 And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s. 
 @16 To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.^a^ ^b^ 
-@17 Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the [LORD]{.smallcaps} with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the [LORD]{.smallcaps} will be with you. 
-@18 And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the [LORD]{.smallcaps}, worshipping the [LORD]{.smallcaps}. 
-@19 And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the [LORD]{.smallcaps} God of Israel with a loud voice on high. 
+@17 Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD will be with you. 
+@18 And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD. 
+@19 And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high. 
 ^a^[**20:16** cliff: Heb. ascent] ^b^[**20:16** brook: or, valley]
 
-@20 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the [LORD]{.smallcaps} your God, so shall ye be established; believe his prophets, so shall ye prosper. 
-@21 And when he had consulted with the people, he appointed singers unto the [LORD]{.smallcaps}, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the [LORD]{.smallcaps}; for his mercy endureth for ever.^a^ 
+@20 And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper. 
+@21 And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever.^a^ 
 ^a^[**20:21** that…: Heb. praisers]
 
-@22 And when they began to sing and to praise, the [LORD]{.smallcaps} set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.^a^ ^b^ ^c^ 
+@22 And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten.^a^ ^b^ ^c^ 
 @23 For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.^d^ 
 @24 And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they were dead bodies fallen to the earth, and none escaped.^e^ 
 @25 And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much. 
 ^a^[**20:22** And when…: Heb. And in the time that they, etc] ^b^[**20:22** to sing…: Heb. in singing and praise] ^c^[**20:22** they were…: or, they smote one another] ^d^[**20:23** to destroy: Heb. for the destruction] ^e^[**20:24** none…: Heb. there was not an escaping]
 
-@26 And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the [LORD]{.smallcaps}: therefore the name of the same place was called, The valley of Berachah, unto this day.^a^ 
-@27 Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the [LORD]{.smallcaps} had made them to rejoice over their enemies.^b^ 
-@28 And they came to Jerusalem with psalteries and harps and trumpets unto the house of the [LORD]{.smallcaps}. 
-@29 And the fear of God was on all the kingdoms of those countries, when they had heard that the [LORD]{.smallcaps} fought against the enemies of Israel. 
+@26 And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day.^a^ 
+@27 Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies.^b^ 
+@28 And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD. 
+@29 And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel. 
 @30 So the realm of Jehoshaphat was quiet: for his God gave him rest round about. 
 ^a^[**20:26** Berachah: that is, blessing] ^b^[**20:27** forefront: Heb. head]
 
 @31 And Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi. 
-@32 And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the [LORD]{.smallcaps}. 
+@32 And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the LORD. 
 @33 Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers. 
 @34 Now the rest of the acts of Jehoshaphat, first and last, behold, they are written in the book of Jehu the son of Hanani, who is mentioned in the book of the kings of Israel.^a^ ^b^ 
 ^a^[**20:34** book of Jehu: Heb. words, etc] ^b^[**20:34** is mentioned: Heb. was made to ascend]
 
 @35 And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly: 
 @36 And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion-geber. 
-@37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the [LORD]{.smallcaps} hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
+@37 Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish. 
 
 # 21 
 @1 Now Jehoshaphat slept with his fathers, and was buried with his fathers in the city of David. And Jehoram his son reigned in his stead. 
@@ -613,27 +613,27 @@
 @4 Now when Jehoram was risen up to the kingdom of his father, he strengthened himself, and slew all his brethren with the sword, and divers also of the princes of Israel. 
 
 @5 Jehoram was thirty and two years old when he began to reign, and he reigned eight years in Jerusalem. 
-@6 And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought that which was evil in the eyes of the [LORD]{.smallcaps}. 
-@7 Howbeit the [LORD]{.smallcaps} would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.^a^ 
+@6 And he walked in the way of the kings of Israel, like as did the house of Ahab: for he had the daughter of Ahab to wife: and he wrought that which was evil in the eyes of the LORD. 
+@7 Howbeit the LORD would not destroy the house of David, because of the covenant that he had made with David, and as he promised to give a light to him and to his sons for ever.^a^ 
 ^a^[**21:7** light: Heb. lamp, or, candle]
 
 @8 In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.^a^ 
 @9 Then Jehoram went forth with his princes, and all his chariots with him: and he rose up by night, and smote the Edomites which compassed him in, and the captains of the chariots. 
-@10 So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken the [LORD]{.smallcaps} God of his fathers. 
+@10 So the Edomites revolted from under the hand of Judah unto this day. The same time also did Libnah revolt from under his hand; because he had forsaken the LORD God of his fathers. 
 @11 Moreover he made high places in the mountains of Judah, and caused the inhabitants of Jerusalem to commit fornication, and compelled Judah thereto. 
 ^a^[**21:8** dominion: Heb. hand]
 
-@12 And there came a writing to him from Elijah the prophet, saying, Thus saith the [LORD]{.smallcaps} God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah, 
+@12 And there came a writing to him from Elijah the prophet, saying, Thus saith the LORD God of David thy father, Because thou hast not walked in the ways of Jehoshaphat thy father, nor in the ways of Asa king of Judah, 
 @13 But hast walked in the way of the kings of Israel, and hast made Judah and the inhabitants of Jerusalem to go a whoring, like to the whoredoms of the house of Ahab, and also hast slain thy brethren of thy father’s house, which were better than thyself: 
-@14 Behold, with a great plague will the [LORD]{.smallcaps} smite thy people, and thy children, and thy wives, and all thy goods:^a^ 
+@14 Behold, with a great plague will the LORD smite thy people, and thy children, and thy wives, and all thy goods:^a^ 
 @15 And thou shalt have great sickness by disease of thy bowels, until thy bowels fall out by reason of the sickness day by day. 
 ^a^[**21:14** a great…: Heb. a great stroke]
 
-@16 Moreover the [LORD]{.smallcaps} stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians: 
+@16 Moreover the LORD stirred up against Jehoram the spirit of the Philistines, and of the Arabians, that were near the Ethiopians: 
 @17 And they came up into Judah, and brake into it, and carried away all the substance that was found in the king’s house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.^a^ ^b^ 
 ^a^[**21:17** carried…: Heb. carried captive] ^b^[**21:17** Jehoahaz: also called, Ahaziah, or, Azariah]
 
-@18 And after all this the [LORD]{.smallcaps} smote him in his bowels with an incurable disease. 
+@18 And after all this the LORD smote him in his bowels with an incurable disease. 
 @19 And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers. 
 @20 Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.^a^
 ^a^[**21:20** without…: Heb. without desire] 
@@ -642,13 +642,13 @@
 @1 And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned. 
 @2 Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also was Athaliah the daughter of Omri. 
 @3 He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly. 
-@4 Wherefore he did evil in the sight of the [LORD]{.smallcaps} like the house of Ahab: for they were his counsellors after the death of his father to his destruction. 
+@4 Wherefore he did evil in the sight of the LORD like the house of Ahab: for they were his counsellors after the death of his father to his destruction. 
 
 @5 He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth-gilead: and the Syrians smote Joram. 
 @6 And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.^a^ ^b^ 
-@7 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the [LORD]{.smallcaps} had anointed to cut off the house of Ahab.^c^ 
+@7 And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab.^c^ 
 @8 And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them. 
-@9 And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the [LORD]{.smallcaps} with all his heart. So the house of Ahaziah had no power to keep still the kingdom. 
+@9 And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom. 
 ^a^[**22:6** which…: Heb. wherewith they wounded him] ^b^[**22:6** Azariah: also called, Ahaziah, or, Jehoahaz] ^c^[**22:7** destruction: Heb. treading down]
 
 @10 But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah. 
@@ -659,10 +659,10 @@
 # 23 
 @1 And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him. 
 @2 And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem. 
-@3 And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the [LORD]{.smallcaps} hath said of the sons of David. 
+@3 And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David. 
 @4 This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;^a^ 
-@5 And a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the [LORD]{.smallcaps}. 
-@6 But let none come into the house of the [LORD]{.smallcaps}, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the [LORD]{.smallcaps}. 
+@5 And a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD. 
+@6 But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD. 
 @7 And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out. 
 @8 So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses. 
 @9 Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David’s, which were in the house of God. 
@@ -670,50 +670,50 @@
 @11 Then they brought out the king’s son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.^d^ 
 ^a^[**23:4** doors: Heb. thresholds] ^b^[**23:10** side: Heb. shoulder] ^c^[**23:10** temple: Heb. house] ^d^[**23:11** God…: Heb. Let the king live]
 
-@12 Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the [LORD]{.smallcaps}: 
+@12 Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD: 
 @13 And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.^a^ 
-@14 Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the [LORD]{.smallcaps}. 
+@14 Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD. 
 @15 So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there. 
 ^a^[**23:13** Treason: Heb. Conspiracy]
 
-@16 And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the [LORD’s]{.smallcaps} people. 
+@16 And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’S people. 
 @17 Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars. 
-@18 Also Jehoiada appointed the offices of the house of the [LORD]{.smallcaps} by the hand of the priests the Levites, whom David had distributed in the house of the [LORD]{.smallcaps}, to offer the burnt offerings of the [LORD]{.smallcaps}, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.^a^ 
-@19 And he set the porters at the gates of the house of the [LORD]{.smallcaps}, that none which was unclean in any thing should enter in. 
-@20 And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the [LORD]{.smallcaps}: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom. 
+@18 Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David.^a^ 
+@19 And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in. 
+@20 And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom. 
 @21 And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword.
 ^a^[**23:18** as it was…: Heb. by the hands of David] 
 
 # 24 
 @1 Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name also was Zibiah of Beer-sheba. 
-@2 And Joash did that which was right in the sight of the [LORD]{.smallcaps} all the days of Jehoiada the priest. 
+@2 And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest. 
 @3 And Jehoiada took for him two wives; and he begat sons and daughters. 
 
-@4 And it came to pass after this, that Joash was minded to repair the house of the [LORD]{.smallcaps}.^a^ 
+@4 And it came to pass after this, that Joash was minded to repair the house of the LORD.^a^ 
 @5 And he gathered together the priests and the Levites, and said to them, Go out unto the cities of Judah, and gather of all Israel money to repair the house of your God from year to year, and see that ye hasten the matter. Howbeit the Levites hastened it not. 
-@6 And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the [LORD]{.smallcaps}, and of the congregation of Israel, for the tabernacle of witness? 
-@7 For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the [LORD]{.smallcaps} did they bestow upon Baalim. 
-@8 And at the king’s commandment they made a chest, and set it without at the gate of the house of the [LORD]{.smallcaps}. 
-@9 And they made a proclamation through Judah and Jerusalem, to bring in to the [LORD]{.smallcaps} the collection that Moses the servant of God laid upon Israel in the wilderness.^b^ 
+@6 And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness? 
+@7 For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim. 
+@8 And at the king’s commandment they made a chest, and set it without at the gate of the house of the LORD. 
+@9 And they made a proclamation through Judah and Jerusalem, to bring in to the LORD the collection that Moses the servant of God laid upon Israel in the wilderness.^b^ 
 @10 And all the princes and all the people rejoiced, and brought in, and cast into the chest, until they had made an end. 
 @11 Now it came to pass, that at what time the chest was brought unto the king’s office by the hand of the Levites, and when they saw that there was much money, the king’s scribe and the high priest’s officer came and emptied the chest, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance. 
-@12 And the king and Jehoiada gave it to such as did the work of the service of the house of the [LORD]{.smallcaps}, and hired masons and carpenters to repair the house of the [LORD]{.smallcaps}, and also such as wrought iron and brass to mend the house of the [LORD]{.smallcaps}. 
+@12 And the king and Jehoiada gave it to such as did the work of the service of the house of the LORD, and hired masons and carpenters to repair the house of the LORD, and also such as wrought iron and brass to mend the house of the LORD. 
 @13 So the workmen wrought, and the work was perfected by them, and they set the house of God in his state, and strengthened it.^c^ 
-@14 And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the [LORD]{.smallcaps}, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the [LORD]{.smallcaps} continually all the days of Jehoiada.^d^ 
+@14 And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada.^d^ 
 ^a^[**24:4** to repair: Heb. to renew] ^b^[**24:9** a proclamation: Heb. a voice] ^c^[**24:13** the work…: Heb. the healing went up upon the work] ^d^[**24:14** to offer…: or, pestils]
 
 @15 But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died. 
 @16 And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house. 
 @17 Now after the death of Jehoiada came the princes of Judah, and made obeisance to the king. Then the king hearkened unto them. 
-@18 And they left the house of the [LORD]{.smallcaps} God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass. 
-@19 Yet he sent prophets to them, to bring them again unto the [LORD]{.smallcaps}; and they testified against them: but they would not give ear. 
-@20 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the [LORD]{.smallcaps}, that ye cannot prosper? because ye have forsaken the [LORD]{.smallcaps}, he hath also forsaken you.^a^ 
-@21 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the [LORD]{.smallcaps}. 
-@22 Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The [LORD]{.smallcaps} look upon it, and require it. 
+@18 And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass. 
+@19 Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear. 
+@20 And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you.^a^ 
+@21 And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD. 
+@22 Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it. 
 ^a^[**24:20** came…: Heb. clothed]
 
 @23 And it came to pass at the end of the year, that the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus.^a^ ^b^ 
-@24 For the army of the Syrians came with a small company of men, and the [LORD]{.smallcaps} delivered a very great host into their hand, because they had forsaken the [LORD]{.smallcaps} God of their fathers. So they executed judgment against Joash. 
+@24 For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash. 
 @25 And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings. 
 @26 And these are they that conspired against him; Zabad the son of Shimeath an Ammonitess, and Jehozabad the son of Shimrith a Moabitess.^c^ ^d^ 
 ^a^[**24:23** at the…: Heb. in the revolution of the year] ^b^[**24:23** Damascus: Heb. Darmesek] ^c^[**24:26** Zabad: or, Jozacher] ^d^[**24:26** Shimrith: or, Shomer]
@@ -723,17 +723,17 @@
 
 # 25 
 @1 Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem. 
-@2 And he did that which was right in the sight of the [LORD]{.smallcaps}, but not with a perfect heart. 
+@2 And he did that which was right in the sight of the LORD, but not with a perfect heart. 
 
 @3 Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father.^a^ 
-@4 But he slew not their children, but did as it is written in the law in the book of Moses, where the [LORD]{.smallcaps} commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin. 
+@4 But he slew not their children, but did as it is written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin. 
 ^a^[**25:3** established…: Heb. confirmed upon him]
 
 @5 Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of their fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice men, able to go forth to war, that could handle spear and shield. 
 @6 He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver. 
-@7 But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the [LORD]{.smallcaps} is not with Israel, to wit, with all the children of Ephraim. 
+@7 But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD is not with Israel, to wit, with all the children of Ephraim. 
 @8 But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down. 
-@9 And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The [LORD]{.smallcaps} is able to give thee much more than this.^a^ 
+@9 And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this.^a^ 
 @10 Then Amaziah separated them, to wit, the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger.^b^ ^c^ 
 ^a^[**25:9** army: Heb. band] ^b^[**25:10** home again: Heb. to their place] ^c^[**25:10** in great…: Heb. in heat of anger]
 
@@ -744,7 +744,7 @@
 ^a^[**25:13** the soldiers…: Heb. the sons of the band]
 
 @14 Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them. 
-@15 Wherefore the anger of the [LORD]{.smallcaps} was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand? 
+@15 Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand? 
 @16 And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.^a^ 
 ^a^[**25:16** determined: Heb. counselled]
 
@@ -761,7 +761,7 @@
 @25 And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years. 
 @26 Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel? 
 
-@27 Now after the time that Amaziah did turn away from following the [LORD]{.smallcaps} they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.^a^ ^b^ 
+@27 Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there.^a^ ^b^ 
 @28 And they brought him upon horses, and buried him with his fathers in the city of Judah.^c^
 ^a^[**25:27** from…: Heb. from after] ^b^[**25:27** made…: Heb. conspired a conspiracy] ^c^[**25:28** Judah: that is, the city of David] 
 
@@ -769,8 +769,8 @@
 @1 Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.^a^ 
 @2 He built Eloth, and restored it to Judah, after that the king slept with his fathers. 
 @3 Sixteen years old was Uzziah when he began to reign, and he reigned fifty and two years in Jerusalem. His mother’s name also was Jecoliah of Jerusalem. 
-@4 And he did that which was right in the sight of the [LORD]{.smallcaps}, according to all that his father Amaziah did. 
-@5 And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the [LORD]{.smallcaps}, God made him to prosper.^b^ 
+@4 And he did that which was right in the sight of the LORD, according to all that his father Amaziah did. 
+@5 And he sought God in the days of Zechariah, who had understanding in the visions of God: and as long as he sought the LORD, God made him to prosper.^b^ 
 @6 And he went forth and warred against the Philistines, and brake down the wall of Gath, and the wall of Jabneh, and the wall of Ashdod, and built cities about Ashdod, and among the Philistines.^c^ 
 @7 And God helped him against the Philistines, and against the Arabians that dwelt in Gur-baal, and the Mehunims. 
 @8 And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly.^d^ 
@@ -783,12 +783,12 @@
 @15 And he made in Jerusalem engines, invented by cunning men, to be on the towers and upon the bulwarks, to shoot arrows and great stones withal. And his name spread far abroad; for he was marvellously helped, till he was strong.^k^ 
 ^a^[**26:1** Uzziah: or, Azariah] ^b^[**26:5** in the visions…: Heb. in the seeing of God] ^c^[**26:6** about…: or, in the country of Ashdod] ^d^[**26:8** spread…: Heb. went] ^e^[**26:9** fortified: or, repaired] ^f^[**26:10** digged…: or, cut out many cisterns] ^g^[**26:10** Carmel: or, fruitful fields] ^h^[**26:10** husbandry: Heb. ground] ^i^[**26:13** an army: Heb. the power of an army] ^j^[**26:14** slings…: Heb. stones of slings] ^k^[**26:15** spread: Heb. went forth]
 
-@16 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the [LORD]{.smallcaps} his God, and went into the temple of the [LORD]{.smallcaps} to burn incense upon the altar of incense. 
-@17 And Azariah the priest went in after him, and with him fourscore priests of the [LORD]{.smallcaps}, that were valiant men: 
-@18 And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the [LORD]{.smallcaps}, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the [LORD]{.smallcaps} God. 
-@19 Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the [LORD]{.smallcaps}, from beside the incense altar. 
-@20 And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the [LORD]{.smallcaps} had smitten him. 
-@21 And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the [LORD]{.smallcaps}: and Jotham his son was over the king’s house, judging the people of the land.^a^ 
+@16 But when he was strong, his heart was lifted up to his destruction: for he transgressed against the LORD his God, and went into the temple of the LORD to burn incense upon the altar of incense. 
+@17 And Azariah the priest went in after him, and with him fourscore priests of the LORD, that were valiant men: 
+@18 And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the LORD, but to the priests the sons of Aaron, that are consecrated to burn incense: go out of the sanctuary; for thou hast trespassed; neither shall it be for thine honour from the LORD God. 
+@19 Then Uzziah was wroth, and had a censer in his hand to burn incense: and while he was wroth with the priests, the leprosy even rose up in his forehead before the priests in the house of the LORD, from beside the incense altar. 
+@20 And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the LORD had smitten him. 
+@21 And Uzziah the king was a leper unto the day of his death, and dwelt in a several house, being a leper; for he was cut off from the house of the LORD: and Jotham his son was over the king’s house, judging the people of the land.^a^ 
 ^a^[**26:21** several: Heb. free]
 
 @22 Now the rest of the acts of Uzziah, first and last, did Isaiah the prophet, the son of Amoz, write. 
@@ -796,13 +796,13 @@
 
 # 27 
 @1 Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also was Jerushah, the daughter of Zadok. 
-@2 And he did that which was right in the sight of the [LORD]{.smallcaps}, according to all that his father Uzziah did: howbeit he entered not into the temple of the [LORD]{.smallcaps}. And the people did yet corruptly. 
-@3 He built the high gate of the house of the [LORD]{.smallcaps}, and on the wall of Ophel he built much.^a^ 
+@2 And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly. 
+@3 He built the high gate of the house of the LORD, and on the wall of Ophel he built much.^a^ 
 @4 Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers. 
 ^a^[**27:3** Ophel: or, the tower]
 
 @5 He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.^a^ 
-@6 So Jotham became mighty, because he prepared his ways before the [LORD]{.smallcaps} his God.^b^ 
+@6 So Jotham became mighty, because he prepared his ways before the LORD his God.^b^ 
 ^a^[**27:5** So…: Heb. This] ^b^[**27:6** prepared: or, established]
 
 @7 Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah. 
@@ -811,21 +811,21 @@
 @9 And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead. 
 
 # 28 
-@1 Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the [LORD]{.smallcaps}, like David his father: 
+@1 Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father: 
 @2 For he walked in the ways of the kings of Israel, and made also molten images for Baalim. 
-@3 Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the [LORD]{.smallcaps} had cast out before the children of Israel.^a^ 
+@3 Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel.^a^ 
 @4 He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree. 
-@5 Wherefore the [LORD]{.smallcaps} his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.^b^ 
+@5 Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter.^b^ 
 ^a^[**28:3** burnt…: or, offered sacrifice] ^b^[**28:5** Damascus: Heb. Darmesek]
 
-@6 For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the [LORD]{.smallcaps} God of their fathers.^a^ 
+@6 For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the LORD God of their fathers.^a^ 
 @7 And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the governor of the house, and Elkanah that was next to the king.^b^ 
 @8 And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria. 
-@9 But a prophet of the [LORD]{.smallcaps} was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the [LORD]{.smallcaps} God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven. 
-@10 And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the [LORD]{.smallcaps} your God? 
-@11 Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the [LORD]{.smallcaps} is upon you. 
+@9 But a prophet of the LORD was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven. 
+@10 And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the LORD your God? 
+@11 Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you. 
 @12 Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war, 
-@13 And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the [LORD]{.smallcaps} already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel. 
+@13 And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel. 
 @14 So the armed men left the captives and the spoil before the princes and all the congregation. 
 @15 And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria. 
 ^a^[**28:6** valiant…: Heb. sons of valour] ^b^[**28:7** next…: Heb. the second to the king]
@@ -833,15 +833,15 @@
 @16 At that time did king Ahaz send unto the kings of Assyria to help him. 
 @17 For again the Edomites had come and smitten Judah, and carried away captives.^a^ 
 @18 The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Beth-shemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there. 
-@19 For the [LORD]{.smallcaps} brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the [LORD]{.smallcaps}. 
+@19 For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD. 
 @20 And Tilgath-pilneser king of Assyria came unto him, and distressed him, but strengthened him not. 
-@21 For Ahaz took away a portion out of the house of the [LORD]{.smallcaps}, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not. 
+@21 For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not. 
 ^a^[**28:17** captives: Heb. a captivity]
 
-@22 And in the time of his distress did he trespass yet more against the [LORD]{.smallcaps}: this is that king Ahaz. 
+@22 And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz. 
 @23 For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel.^a^ 
-@24 And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the [LORD]{.smallcaps}, and he made him altars in every corner of Jerusalem. 
-@25 And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the [LORD]{.smallcaps} God of his fathers.^b^ 
+@24 And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem. 
+@25 And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers.^b^ 
 ^a^[**28:23** Damascus: Heb. Darmesek] ^b^[**28:25** to burn: or, to offer]
 
 @26 Now the rest of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel. 
@@ -849,75 +849,75 @@
 
 # 29 
 @1 Hezekiah began to reign when he was five and twenty years old, and he reigned nine and twenty years in Jerusalem. And his mother’s name was Abijah, the daughter of Zechariah. 
-@2 And he did that which was right in the sight of the [LORD]{.smallcaps}, according to all that David his father had done. 
+@2 And he did that which was right in the sight of the LORD, according to all that David his father had done. 
 
-@3 He in the first year of his reign, in the first month, opened the doors of the house of the [LORD]{.smallcaps}, and repaired them. 
+@3 He in the first year of his reign, in the first month, opened the doors of the house of the LORD, and repaired them. 
 @4 And he brought in the priests and the Levites, and gathered them together into the east street, 
-@5 And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the [LORD]{.smallcaps} God of your fathers, and carry forth the filthiness out of the holy place. 
-@6 For our fathers have trespassed, and done that which was evil in the eyes of the [LORD]{.smallcaps} our God, and have forsaken him, and have turned away their faces from the habitation of the [LORD]{.smallcaps}, and turned their backs.^a^ 
+@5 And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the LORD God of your fathers, and carry forth the filthiness out of the holy place. 
+@6 For our fathers have trespassed, and done that which was evil in the eyes of the LORD our God, and have forsaken him, and have turned away their faces from the habitation of the LORD, and turned their backs.^a^ 
 @7 Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place unto the God of Israel. 
-@8 Wherefore the wrath of the [LORD]{.smallcaps} was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.^b^ 
+@8 Wherefore the wrath of the LORD was upon Judah and Jerusalem, and he hath delivered them to trouble, to astonishment, and to hissing, as ye see with your eyes.^b^ 
 @9 For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this. 
-@10 Now it is in mine heart to make a covenant with the [LORD]{.smallcaps} God of Israel, that his fierce wrath may turn away from us. 
-@11 My sons, be not now negligent: for the [LORD]{.smallcaps} hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense.^c^ ^d^ 
+@10 Now it is in mine heart to make a covenant with the LORD God of Israel, that his fierce wrath may turn away from us. 
+@11 My sons, be not now negligent: for the LORD hath chosen you to stand before him, to serve him, and that ye should minister unto him, and burn incense.^c^ ^d^ 
 ^a^[**29:6** turned their…: Heb. given the neck] ^b^[**29:8** trouble: Heb. commotion] ^c^[**29:11** be not…: or, be not now deceived] ^d^[**29:11** burn…: or, offer sacrifice]
 
 @12 Then the Levites arose, Mahath the son of Amasai, and Joel the son of Azariah, of the sons of the Kohathites: and of the sons of Merari, Kish the son of Abdi, and Azariah the son of Jehalelel: and of the Gershonites; Joah the son of Zimmah, and Eden the son of Joah: 
 @13 And of the sons of Elizaphan; Shimri, and Jeiel: and of the sons of Asaph; Zechariah, and Mattaniah: 
 @14 And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel. 
-@15 And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the [LORD]{.smallcaps}, to cleanse the house of the [LORD]{.smallcaps}.^a^ 
-@16 And the priests went into the inner part of the house of the [LORD]{.smallcaps}, to cleanse it, and brought out all the uncleanness that they found in the temple of the [LORD]{.smallcaps} into the court of the house of the [LORD]{.smallcaps}. And the Levites took it, to carry it out abroad into the brook Kidron. 
-@17 Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the [LORD]{.smallcaps}: so they sanctified the house of the [LORD]{.smallcaps} in eight days; and in the sixteenth day of the first month they made an end. 
-@18 Then they went in to Hezekiah the king, and said, We have cleansed all the house of the [LORD]{.smallcaps}, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof. 
-@19 Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the [LORD]{.smallcaps}. 
+@15 And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the LORD, to cleanse the house of the LORD.^a^ 
+@16 And the priests went into the inner part of the house of the LORD, to cleanse it, and brought out all the uncleanness that they found in the temple of the LORD into the court of the house of the LORD. And the Levites took it, to carry it out abroad into the brook Kidron. 
+@17 Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the LORD: so they sanctified the house of the LORD in eight days; and in the sixteenth day of the first month they made an end. 
+@18 Then they went in to Hezekiah the king, and said, We have cleansed all the house of the LORD, and the altar of burnt offering, with all the vessels thereof, and the shewbread table, with all the vessels thereof. 
+@19 Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the LORD. 
 ^a^[**29:15** by the words…: or, in the business of the LORD]
 
-@20 Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the [LORD]{.smallcaps}. 
-@21 And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the [LORD]{.smallcaps}. 
+@20 Then Hezekiah the king rose early, and gathered the rulers of the city, and went up to the house of the LORD. 
+@21 And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the LORD. 
 @22 So they killed the bullocks, and the priests received the blood, and sprinkled it on the altar: likewise, when they had killed the rams, they sprinkled the blood upon the altar: they killed also the lambs, and they sprinkled the blood upon the altar. 
 @23 And they brought forth the he goats for the sin offering before the king and the congregation; and they laid their hands upon them:^a^ 
 @24 And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel. 
-@25 And he set the Levites in the house of the [LORD]{.smallcaps} with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet: for so was the commandment of the [LORD]{.smallcaps} by his prophets.^b^ ^c^ 
+@25 And he set the Levites in the house of the LORD with cymbals, with psalteries, and with harps, according to the commandment of David, and of Gad the king’s seer, and Nathan the prophet: for so was the commandment of the LORD by his prophets.^b^ ^c^ 
 @26 And the Levites stood with the instruments of David, and the priests with the trumpets. 
-@27 And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the [LORD]{.smallcaps} began also with the trumpets, and with the instruments ordained by David king of Israel.^d^ ^e^ 
+@27 And Hezekiah commanded to offer the burnt offering upon the altar. And when the burnt offering began, the song of the LORD began also with the trumpets, and with the instruments ordained by David king of Israel.^d^ ^e^ 
 @28 And all the congregation worshipped, and the singers sang, and the trumpeters sounded: and all this continued until the burnt offering was finished.^f^ 
 @29 And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.^g^ 
-@30 Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the [LORD]{.smallcaps} with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped. 
-@31 Then Hezekiah answered and said, Now ye have consecrated yourselves unto the [LORD]{.smallcaps}, come near and bring sacrifices and thank offerings into the house of the [LORD]{.smallcaps}. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.^h^ 
-@32 And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the [LORD]{.smallcaps}. 
+@30 Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the LORD with the words of David, and of Asaph the seer. And they sang praises with gladness, and they bowed their heads and worshipped. 
+@31 Then Hezekiah answered and said, Now ye have consecrated yourselves unto the LORD, come near and bring sacrifices and thank offerings into the house of the LORD. And the congregation brought in sacrifices and thank offerings; and as many as were of a free heart burnt offerings.^h^ 
+@32 And the number of the burnt offerings, which the congregation brought, was threescore and ten bullocks, an hundred rams, and two hundred lambs: all these were for a burnt offering to the LORD. 
 @33 And the consecrated things were six hundred oxen and three thousand sheep. 
 @34 But the priests were too few, so that they could not flay all the burnt offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the other priests had sanctified themselves: for the Levites were more upright in heart to sanctify themselves than the priests.^i^ 
-@35 And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the [LORD]{.smallcaps} was set in order. 
+@35 And also the burnt offerings were in abundance, with the fat of the peace offerings, and the drink offerings for every burnt offering. So the service of the house of the LORD was set in order. 
 @36 And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly.
 ^a^[**29:23** forth: Heb. near] ^b^[**29:25** commandment of the LORD: Heb. commandment by the hand of the LORD] ^c^[**29:25** by: Heb. by the hand of] ^d^[**29:27** when: Heb. in the time] ^e^[**29:27** the instruments: Heb. hands of instruments] ^f^[**29:28** singers: Heb. song] ^g^[**29:29** present: Heb. found] ^h^[**29:31** consecrated…: or, filled your hand] ^i^[**29:34** did help…: Heb. strengthened them] 
 
 # 30 
-@1 And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the [LORD]{.smallcaps} at Jerusalem, to keep the passover unto the [LORD]{.smallcaps} God of Israel. 
+@1 And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel. 
 @2 For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month. 
 @3 For they could not keep it at that time, because the priests had not sanctified themselves sufficiently, neither had the people gathered themselves together to Jerusalem. 
 @4 And the thing pleased the king and all the congregation.^a^ 
-@5 So they established a decree to make proclamation throughout all Israel, from Beer-sheba even to Dan, that they should come to keep the passover unto the [LORD]{.smallcaps} God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written. 
-@6 So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the [LORD]{.smallcaps} God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.^b^ 
-@7 And be not ye like your fathers, and like your brethren, which trespassed against the [LORD]{.smallcaps} God of their fathers, who therefore gave them up to desolation, as ye see. 
-@8 Now be ye not stiffnecked, as your fathers were, but yield yourselves unto the [LORD]{.smallcaps}, and enter into his sanctuary, which he hath sanctified for ever: and serve the [LORD]{.smallcaps} your God, that the fierceness of his wrath may turn away from you.^c^ ^d^ 
-@9 For if ye turn again unto the [LORD]{.smallcaps}, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the [LORD]{.smallcaps} your God is gracious and merciful, and will not turn away his face from you, if ye return unto him. 
+@5 So they established a decree to make proclamation throughout all Israel, from Beer-sheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written. 
+@6 So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria.^b^ 
+@7 And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, who therefore gave them up to desolation, as ye see. 
+@8 Now be ye not stiffnecked, as your fathers were, but yield yourselves unto the LORD, and enter into his sanctuary, which he hath sanctified for ever: and serve the LORD your God, that the fierceness of his wrath may turn away from you.^c^ ^d^ 
+@9 For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him. 
 @10 So the posts passed from city to city through the country of Ephraim and Manasseh even unto Zebulun: but they laughed them to scorn, and mocked them. 
 @11 Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem. 
-@12 Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the [LORD]{.smallcaps}. 
+@12 Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD. 
 ^a^[**30:4** pleased…: Heb. was right in the eyes of the king] ^b^[**30:6** from: Heb. from the hand] ^c^[**30:8** be ye…: Heb. harden not your necks] ^d^[**30:8** yield…: Heb. give the hand]
 
 @13 And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation. 
 @14 And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron. 
-@15 Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the [LORD]{.smallcaps}. 
+@15 Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD. 
 @16 And they stood in their place after their manner, according to the law of Moses the man of God: the priests sprinkled the blood, which they received of the hand of the Levites.^a^ 
-@17 For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the [LORD]{.smallcaps}. 
-@18 For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good [LORD]{.smallcaps} pardon every one 
-@19 That prepareth his heart to seek God, the [LORD]{.smallcaps} God of his fathers, though he be not cleansed according to the purification of the sanctuary. 
-@20 And the [LORD]{.smallcaps} hearkened to Hezekiah, and healed the people. 
+@17 For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the LORD. 
+@18 For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one 
+@19 That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary. 
+@20 And the LORD hearkened to Hezekiah, and healed the people. 
 ^a^[**30:16** their place: Heb. their standing]
 
-@21 And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the [LORD]{.smallcaps} day by day, singing with loud instruments unto the [LORD]{.smallcaps}.^a^ ^b^ 
-@22 And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the [LORD]{.smallcaps}: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the [LORD]{.smallcaps} God of their fathers.^c^ 
+@21 And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD.^a^ ^b^ 
+@22 And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers.^c^ 
 @23 And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness. 
 @24 For Hezekiah king of Judah did give to the congregation a thousand bullocks and seven thousand sheep; and the princes gave to the congregation a thousand bullocks and ten thousand sheep: and a great number of priests sanctified themselves.^d^ ^e^ 
 @25 And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced. 
@@ -931,30 +931,30 @@
 @1 Now when all this was finished, all Israel that were present went out to the cities of Judah, and brake the images in pieces, and cut down the groves, and threw down the high places and the altars out of all Judah and Benjamin, in Ephraim also and Manasseh, until they had utterly destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.^a^ ^b^ ^c^ 
 ^a^[**31:1** present: Heb. found] ^b^[**31:1** images: Heb. statues] ^c^[**31:1** until…: Heb. until to make an end]
 
-@2 And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the [LORD]{.smallcaps}. 
-@3 He appointed also the king’s portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the [LORD]{.smallcaps}. 
-@4 Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the [LORD]{.smallcaps}. 
+@2 And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the LORD. 
+@3 He appointed also the king’s portion of his substance for the burnt offerings, to wit, for the morning and evening burnt offerings, and the burnt offerings for the sabbaths, and for the new moons, and for the set feasts, as it is written in the law of the LORD. 
+@4 Moreover he commanded the people that dwelt in Jerusalem to give the portion of the priests and the Levites, that they might be encouraged in the law of the LORD. 
 
 @5 And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of corn, wine, and oil, and honey, and of all the increase of the field; and the tithe of all things brought they in abundantly.^a^ ^b^ 
-@6 And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the [LORD]{.smallcaps} their God, and laid them by heaps.^c^ 
+@6 And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the LORD their God, and laid them by heaps.^c^ 
 @7 In the third month they began to lay the foundation of the heaps, and finished them in the seventh month. 
-@8 And when Hezekiah and the princes came and saw the heaps, they blessed the [LORD]{.smallcaps}, and his people Israel. 
+@8 And when Hezekiah and the princes came and saw the heaps, they blessed the LORD, and his people Israel. 
 @9 Then Hezekiah questioned with the priests and the Levites concerning the heaps. 
-@10 And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the [LORD]{.smallcaps}, we have had enough to eat, and have left plenty: for the [LORD]{.smallcaps} hath blessed his people; and that which is left is this great store. 
+@10 And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the LORD, we have had enough to eat, and have left plenty: for the LORD hath blessed his people; and that which is left is this great store. 
 ^a^[**31:5** came…: Heb. brake forth] ^b^[**31:5** honey: or, dates] ^c^[**31:6** by heaps: Heb. heaps, heaps]
 
-@11 Then Hezekiah commanded to prepare chambers in the house of the [LORD]{.smallcaps}; and they prepared them,^a^ 
+@11 Then Hezekiah commanded to prepare chambers in the house of the LORD; and they prepared them,^a^ 
 @12 And brought in the offerings and the tithes and the dedicated things faithfully: over which Cononiah the Levite was ruler, and Shimei his brother was the next. 
 @13 And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.^b^ 
-@14 And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the [LORD]{.smallcaps}, and the most holy things. 
+@14 And Kore the son of Imnah the Levite, the porter toward the east, was over the freewill offerings of God, to distribute the oblations of the LORD, and the most holy things. 
 @15 And next him were Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their set office, to give to their brethren by courses, as well to the great as to the small:^c^ ^d^ 
-@16 Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of the [LORD]{.smallcaps}, his daily portion for their service in their charges according to their courses; 
+@16 Beside their genealogy of males, from three years old and upward, even unto every one that entereth into the house of the LORD, his daily portion for their service in their charges according to their courses; 
 @17 Both to the genealogy of the priests by the house of their fathers, and the Levites from twenty years old and upward, in their charges by their courses; 
 @18 And to the genealogy of all their little ones, their wives, and their sons, and their daughters, through all the congregation: for in their set office they sanctified themselves in holiness:^e^ 
 @19 Also of the sons of Aaron the priests, which were in the fields of the suburbs of their cities, in every several city, the men that were expressed by name, to give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites. 
 ^a^[**31:11** chambers: or, storehouses] ^b^[**31:13** under…: Heb. at the hand] ^c^[**31:15** next…: Heb. at his hand] ^d^[**31:15** set…: or, trust] ^e^[**31:18** set…: or, trust]
 
-@20 And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before the [LORD]{.smallcaps} his God. 
+@20 And thus did Hezekiah throughout all Judah, and wrought that which was good and right and truth before the LORD his God. 
 @21 And in every work that he began in the service of the house of God, and in the law, and in the commandments, to seek his God, he did it with all his heart, and prospered. 
 
 # 32 
@@ -965,31 +965,31 @@
 @5 Also he strengthened himself, and built up all the wall that was broken, and raised it up to the towers, and another wall without, and repaired Millo in the city of David, and made darts and shields in abundance.^d^ 
 @6 And he set captains of war over the people, and gathered them together to him in the street of the gate of the city, and spake comfortably to them, saying,^e^ 
 @7 Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that is with him: for there be more with us than with him: 
-@8 With him is an arm of flesh; but with us is the [LORD]{.smallcaps} our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.^f^ 
+@8 With him is an arm of flesh; but with us is the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah.^f^ 
 ^a^[**32:1** to win…: Heb. to break them up] ^b^[**32:2** he was…: Heb. his face was to war] ^c^[**32:4** ran: Heb. overflowed] ^d^[**32:5** darts: or, swords, or, weapons] ^e^[**32:6** spake…: Heb. he spoke to their heart] ^f^[**32:8** rested…: Heb. leaned]
 
 @9 After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he himself laid siege against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that were at Jerusalem, saying,^a^ 
 @10 Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?^b^ 
-@11 Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The [LORD]{.smallcaps} our God shall deliver us out of the hand of the king of Assyria? 
+@11 Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria? 
 @12 Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it? 
 @13 Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand? 
 @14 Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand? 
 @15 Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand? 
-@16 And his servants spake yet more against the [LORD]{.smallcaps} God, and against his servant Hezekiah. 
-@17 He wrote also letters to rail on the [LORD]{.smallcaps} God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand. 
+@16 And his servants spake yet more against the LORD God, and against his servant Hezekiah. 
+@17 He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand. 
 @18 Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that were on the wall, to affright them, and to trouble them; that they might take the city. 
 @19 And they spake against the God of Jerusalem, as against the gods of the people of the earth, which were the work of the hands of man. 
 @20 And for this cause Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven. 
 ^a^[**32:9** power: Heb. dominion] ^b^[**32:10** siege: or, strong hold]
 
-@21 And the [LORD]{.smallcaps} sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword.^a^ 
-@22 Thus the [LORD]{.smallcaps} saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side. 
-@23 And many brought gifts unto the [LORD]{.smallcaps} to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.^b^ 
+@21 And the LORD sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword.^a^ 
+@22 Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side. 
+@23 And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth.^b^ 
 ^a^[**32:21** slew…: Heb. made him fall] ^b^[**32:23** presents: Heb. precious things]
 
-@24 In those days Hezekiah was sick to the death, and prayed unto the [LORD]{.smallcaps}: and he spake unto him, and he gave him a sign.^a^ 
+@24 In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign.^a^ 
 @25 But Hezekiah rendered not again according to the benefit done unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem. 
-@26 Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the [LORD]{.smallcaps} came not upon them in the days of Hezekiah.^b^ 
+@26 Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah.^b^ 
 ^a^[**32:24** gave…: or, wrought a miracle for him] ^b^[**32:26** pride: Heb. lifting up]
 
 @27 And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;^a^ 
@@ -1007,36 +1007,36 @@
 
 # 33 
 @1 Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem: 
-@2 But did that which was evil in the sight of the [LORD]{.smallcaps}, like unto the abominations of the heathen, whom the [LORD]{.smallcaps} had cast out before the children of Israel. 
+@2 But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel. 
 
 @3 For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them.^a^ 
-@4 Also he built altars in the house of the [LORD]{.smallcaps}, whereof the [LORD]{.smallcaps} had said, In Jerusalem shall my name be for ever. 
-@5 And he built altars for all the host of heaven in the two courts of the house of the [LORD]{.smallcaps}. 
-@6 And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the [LORD]{.smallcaps}, to provoke him to anger. 
+@4 Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever. 
+@5 And he built altars for all the host of heaven in the two courts of the house of the LORD. 
+@6 And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger. 
 @7 And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever: 
 @8 Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses. 
-@9 So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the [LORD]{.smallcaps} had destroyed before the children of Israel. 
-@10 And the [LORD]{.smallcaps} spake to Manasseh, and to his people: but they would not hearken. 
+@9 So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the LORD had destroyed before the children of Israel. 
+@10 And the LORD spake to Manasseh, and to his people: but they would not hearken. 
 ^a^[**33:3** he built…: Heb. he returned and built]
 
-@11 Wherefore the [LORD]{.smallcaps} brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.^a^ ^b^ 
-@12 And when he was in affliction, he besought the [LORD]{.smallcaps} his God, and humbled himself greatly before the God of his fathers, 
-@13 And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the [LORD]{.smallcaps} he was God. 
+@11 Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon.^a^ ^b^ 
+@12 And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers, 
+@13 And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he was God. 
 @14 Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah.^c^ 
-@15 And he took away the strange gods, and the idol out of the house of the [LORD]{.smallcaps}, and all the altars that he had built in the mount of the house of the [LORD]{.smallcaps}, and in Jerusalem, and cast them out of the city. 
-@16 And he repaired the altar of the [LORD]{.smallcaps}, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the [LORD]{.smallcaps} God of Israel. 
-@17 Nevertheless the people did sacrifice still in the high places, yet unto the [LORD]{.smallcaps} their God only. 
+@15 And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast them out of the city. 
+@16 And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel. 
+@17 Nevertheless the people did sacrifice still in the high places, yet unto the LORD their God only. 
 ^a^[**33:11** of the king: Heb. which were the king’s] ^b^[**33:11** fetters: or, chains] ^c^[**33:14** Ophel: or, the tower]
 
-@18 Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the [LORD]{.smallcaps} God of Israel, behold, they are written in the book of the kings of Israel. 
+@18 Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel. 
 @19 His prayer also, and how God was intreated of him, and all his sin, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers.^a^ 
 ^a^[**33:19** the seers: or, Hosai]
 
 @20 So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead. 
 
 @21 Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem. 
-@22 But he did that which was evil in the sight of the [LORD]{.smallcaps}, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them; 
-@23 And humbled not himself before the [LORD]{.smallcaps}, as Manasseh his father had humbled himself; but Amon trespassed more and more.^a^ 
+@22 But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them; 
+@23 And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more.^a^ 
 @24 And his servants conspired against him, and slew him in his own house. 
 ^a^[**33:23** trespassed more and more: Heb. multiplied trespass]
 
@@ -1044,7 +1044,7 @@
 
 # 34 
 @1 Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years. 
-@2 And he did that which was right in the sight of the [LORD]{.smallcaps}, and walked in the ways of David his father, and declined neither to the right hand, nor to the left. 
+@2 And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left. 
 
 @3 For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images. 
 @4 And they brake down the altars of Baalim in his presence; and the images, that were on high above them, he cut down; and the groves, and the carved images, and the molten images, he brake in pieces, and made dust of them, and strowed it upon the graves of them that had sacrificed unto them.^a^ ^b^ 
@@ -1053,56 +1053,56 @@
 @7 And when he had broken down the altars and the groves, and had beaten the graven images into powder, and cut down all the idols throughout all the land of Israel, he returned to Jerusalem.^d^ 
 ^a^[**34:4** the images: or, the sun images] ^b^[**34:4** graves: Heb. face of the graves] ^c^[**34:6** mattocks: or, mauls] ^d^[**34:7** into…: Heb. to make powder]
 
-@8 Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the [LORD]{.smallcaps} his God. 
+@8 Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God. 
 @9 And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem. 
-@10 And they put it in the hand of the workmen that had the oversight of the house of the [LORD]{.smallcaps}, and they gave it to the workmen that wrought in the house of the [LORD]{.smallcaps}, to repair and amend the house: 
+@10 And they put it in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house: 
 @11 Even to the artificers and builders gave they it, to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed.^a^ 
 @12 And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick. 
 @13 Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters. 
 ^a^[**34:11** to floor: or, to rafter]
 
-@14 And when they brought out the money that was brought into the house of the [LORD]{.smallcaps}, Hilkiah the priest found a book of the law of the [LORD]{.smallcaps} given by Moses.^a^ 
-@15 And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the [LORD]{.smallcaps}. And Hilkiah delivered the book to Shaphan. 
+@14 And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses.^a^ 
+@15 And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan. 
 @16 And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it.^b^ 
-@17 And they have gathered together the money that was found in the house of the [LORD]{.smallcaps}, and have delivered it into the hand of the overseers, and to the hand of the workmen.^c^ 
+@17 And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen.^c^ 
 @18 Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king.^d^ 
 @19 And it came to pass, when the king had heard the words of the law, that he rent his clothes. 
 @20 And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king’s, saying,^e^ 
-@21 Go, enquire of the [LORD]{.smallcaps} for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the [LORD]{.smallcaps} that is poured out upon us, because our fathers have not kept the word of the [LORD]{.smallcaps}, to do after all that is written in this book. 
+@21 Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book. 
 @22 And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect.^f^ ^g^ ^h^ 
 ^a^[**34:14** by: Heb. by the hand of] ^b^[**34:16** to thy…: Heb. to the hand of, etc] ^c^[**34:17** gathered together: Heb. poured out, or, melted] ^d^[**34:18** it: Heb. in it] ^e^[**34:20** Abdon: or, Achbor] ^f^[**34:22** Hasrah: also called, Harhas] ^g^[**34:22** wardrobe: Heb. garments] ^h^[**34:22** in the college: or, in the school, or, in the second part]
 
-@23 And she answered them, Thus saith the [LORD]{.smallcaps} God of Israel, Tell ye the man that sent you to me, 
-@24 Thus saith the [LORD]{.smallcaps}, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah: 
+@23 And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me, 
+@24 Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah: 
 @25 Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched. 
-@26 And as for the king of Judah, who sent you to enquire of the [LORD]{.smallcaps}, so shall ye say unto him, Thus saith the [LORD]{.smallcaps} God of Israel concerning the words which thou hast heard; 
-@27 Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the [LORD]{.smallcaps}. 
+@26 And as for the king of Judah, who sent you to enquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel concerning the words which thou hast heard; 
+@27 Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD. 
 @28 Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again. 
 
 @29 Then the king sent and gathered together all the elders of Judah and Jerusalem. 
-@30 And the king went up into the house of the [LORD]{.smallcaps}, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the [LORD]{.smallcaps}.^a^ 
-@31 And the king stood in his place, and made a covenant before the [LORD]{.smallcaps}, to walk after the [LORD]{.smallcaps}, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book. 
+@30 And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD.^a^ 
+@31 And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book. 
 @32 And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.^b^ 
-@33 And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the [LORD]{.smallcaps} their God. And all his days they departed not from following the [LORD]{.smallcaps}, the God of their fathers.^c^ ^d^
+@33 And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers.^c^ ^d^
 ^a^[**34:30** great…: Heb. from great even to small] ^b^[**34:32** present: Heb. found] ^c^[**34:33** present: Heb. found] ^d^[**34:33** from…: Heb. from after] 
 
 # 35 
-@1 Moreover Josiah kept a passover unto the [LORD]{.smallcaps} in Jerusalem: and they killed the passover on the fourteenth day of the first month. 
-@2 And he set the priests in their charges, and encouraged them to the service of the house of the [LORD]{.smallcaps}, 
-@3 And said unto the Levites that taught all Israel, which were holy unto the [LORD]{.smallcaps}, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the [LORD]{.smallcaps} your God, and his people Israel, 
+@1 Moreover Josiah kept a passover unto the LORD in Jerusalem: and they killed the passover on the fourteenth day of the first month. 
+@2 And he set the priests in their charges, and encouraged them to the service of the house of the LORD, 
+@3 And said unto the Levites that taught all Israel, which were holy unto the LORD, Put the holy ark in the house which Solomon the son of David king of Israel did build; it shall not be a burden upon your shoulders: serve now the LORD your God, and his people Israel, 
 @4 And prepare yourselves by the houses of your fathers, after your courses, according to the writing of David king of Israel, and according to the writing of Solomon his son. 
 @5 And stand in the holy place according to the divisions of the families of the fathers of your brethren the people, and after the division of the families of the Levites.^a^ ^b^ 
-@6 So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the [LORD]{.smallcaps} by the hand of Moses. 
+@6 So kill the passover, and sanctify yourselves, and prepare your brethren, that they may do according to the word of the LORD by the hand of Moses. 
 @7 And Josiah gave to the people, of the flock, lambs and kids, all for the passover offerings, for all that were present, to the number of thirty thousand, and three thousand bullocks: these were of the king’s substance.^c^ 
 @8 And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings two thousand and six hundred small cattle, and three hundred oxen.^d^ 
 @9 Conaniah also, and Shemaiah and Nethaneel, his brethren, and Hashabiah and Jeiel and Jozabad, chief of the Levites, gave unto the Levites for passover offerings five thousand small cattle, and five hundred oxen.^e^ 
 @10 So the service was prepared, and the priests stood in their place, and the Levites in their courses, according to the king’s commandment. 
 @11 And they killed the passover, and the priests sprinkled the blood from their hands, and the Levites flayed them. 
-@12 And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the [LORD]{.smallcaps}, as it is written in the book of Moses. And so did they with the oxen. 
+@12 And they removed the burnt offerings, that they might give according to the divisions of the families of the people, to offer unto the LORD, as it is written in the book of Moses. And so did they with the oxen. 
 @13 And they roasted the passover with fire according to the ordinance: but the other holy offerings sod they in pots, and in caldrons, and in pans, and divided them speedily among all the people.^f^ 
 @14 And afterward they made ready for themselves, and for the priests: because the priests the sons of Aaron were busied in offering of burnt offerings and the fat until night; therefore the Levites prepared for themselves, and for the priests the sons of Aaron. 
 @15 And the singers the sons of Asaph were in their place, according to the commandment of David, and Asaph, and Heman, and Jeduthun the king’s seer; and the porters waited at every gate; they might not depart from their service; for their brethren the Levites prepared for them.^g^ 
-@16 So all the service of the [LORD]{.smallcaps} was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the [LORD]{.smallcaps}, according to the commandment of king Josiah. 
+@16 So all the service of the LORD was prepared the same day, to keep the passover, and to offer burnt offerings upon the altar of the LORD, according to the commandment of king Josiah. 
 @17 And the children of Israel that were present kept the passover at that time, and the feast of unleavened bread seven days.^h^ 
 @18 And there was no passover like to that kept in Israel from the days of Samuel the prophet; neither did all the kings of Israel keep such a passover as Josiah kept, and the priests, and the Levites, and all Judah and Israel that were present, and the inhabitants of Jerusalem.^i^ 
 @19 In the eighteenth year of the reign of Josiah was this passover kept. 
@@ -1116,7 +1116,7 @@
 ^a^[**35:20** temple: Heb. house] ^b^[**35:21** the house…: Heb. the house of my war] ^c^[**35:23** wounded: Heb. made sick] ^d^[**35:24** in one…: or, among the sepulchres]
 
 @25 And Jeremiah lamented for Josiah: and all the singing men and the singing women spake of Josiah in their lamentations to this day, and made them an ordinance in Israel: and, behold, they are written in the lamentations. 
-@26 Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the [LORD]{.smallcaps},^a^ 
+@26 Now the rest of the acts of Josiah, and his goodness, according to that which was written in the law of the LORD,^a^ 
 @27 And his deeds, first and last, behold, they are written in the book of the kings of Israel and Judah.
 ^a^[**35:26** goodness: Heb. kindnesses] 
 
@@ -1127,29 +1127,29 @@
 @4 And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt. 
 ^a^[**36:3** put…: Heb. removed him]
 
-@5 Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the [LORD]{.smallcaps} his God. 
+@5 Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God. 
 @6 Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon.^a^ 
-@7 Nebuchadnezzar also carried of the vessels of the house of the [LORD]{.smallcaps} to Babylon, and put them in his temple at Babylon. 
+@7 Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon. 
 @8 Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead.^b^ 
 ^a^[**36:6** fetters: or, chains] ^b^[**36:8** Jehoiachin: also called, Jeconiah, or, Coniah]
 
-@9 Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the [LORD]{.smallcaps}. 
-@10 And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the [LORD]{.smallcaps}, and made Zedekiah his brother king over Judah and Jerusalem.^a^ ^b^ ^c^ 
+@9 Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD. 
+@10 And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem.^a^ ^b^ ^c^ 
 ^a^[**36:10** when…: Heb. at the return of the year] ^b^[**36:10** goodly…: Heb. vessels of desire] ^c^[**36:10** Zedekiah…: or, Mattaniah, his father’s brother]
 
 @11 Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem. 
-@12 And he did that which was evil in the sight of the [LORD]{.smallcaps} his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the [LORD]{.smallcaps}. 
-@13 And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the [LORD]{.smallcaps} God of Israel. 
+@12 And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD. 
+@13 And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel. 
 
-@14 Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the [LORD]{.smallcaps} which he had hallowed in Jerusalem. 
-@15 And the [LORD]{.smallcaps} God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:^a^ ^b^ 
-@16 But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the [LORD]{.smallcaps} arose against his people, till there was no remedy.^c^ 
+@14 Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem. 
+@15 And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:^a^ ^b^ 
+@16 But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy.^c^ 
 @17 Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand. 
-@18 And all the vessels of the house of God, great and small, and the treasures of the house of the [LORD]{.smallcaps}, and the treasures of the king, and of his princes; all these he brought to Babylon. 
+@18 And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon. 
 @19 And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof. 
 @20 And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:^d^ 
-@21 To fulfil the word of the [LORD]{.smallcaps} by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years. 
+@21 To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years. 
 ^a^[**36:15** by: Heb. by the hand of] ^b^[**36:15** betimes: that is, continually and carefully] ^c^[**36:16** remedy: Heb. healing] ^d^[**36:20** them…: Heb. the remainder from the sword]
 
-@22 Now in the first year of Cyrus king of Persia, that the word of the [LORD]{.smallcaps} spoken by the mouth of Jeremiah might be accomplished, the [LORD]{.smallcaps} stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
-@23 Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the [LORD]{.smallcaps} God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The [LORD]{.smallcaps} his God be with him, and let him go up. 
+@22 Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
+@23 Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up. 

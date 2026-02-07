@@ -1271,8 +1271,7 @@ Then Zedekiah rebelled against the king of Babylon.
 @25 But in the seventh month, Ishmael the son of Nethaniah, the son of Elishama, of the royal offspring came, and ten men with him, and struck Gedaliah so that he died, with the Jews and the Chaldeans that were with him at Mizpah. 
 @26 All the people, both small and great, and the captains of the forces arose and came to Egypt; for they were afraid of the Chaldeans.
 
-## Johachín pardoned after thirty-seven years in prison
- 
+## Johachín pardoned after thirty-seven years in prison
 @27 In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evilmerodach king of Babylon, in the year that he began to reign, released Jehoiachin king of Judah out of prison, 
 @28 and he spoke kindly to him and set his throne above the throne of the kings who were with him in Babylon, 
 @29 and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life; 

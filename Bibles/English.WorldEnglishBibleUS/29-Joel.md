@@ -88,8 +88,7 @@
 @16 Yahweh will roar from Zion, and thunder from Jerusalem; and the heavens and the earth will shake; but Yahweh will be a refuge to his people, and a stronghold to the children of Israel. 
 @17 “So you will know that I am Yahweh, your God, dwelling in Zion, my holy mountain. Then Jerusalem will be holy, and no strangers will pass through her any more.
 
-## The time of blessing for Judah
- 
+## The time of blessing for Judah
 @18 It will happen in that day, that the mountains will drop down sweet wine, the hills will flow with milk, all the brooks of Judah will flow with waters; and a fountain will flow out from Yahweh’s house, and will water the valley of Shittim. 
 @19 Egypt will be a desolation and Edom will be a desolate wilderness, for the violence done to the children of Judah, because they have shed innocent blood in their land. 
 @20 But Judah will be inhabited forever, and Jerusalem from generation to generation. 

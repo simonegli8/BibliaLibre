@@ -74,7 +74,7 @@
 @2 Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher. 
 ^a^[**2:1** Israel: or, Jacob]
 
-@3 The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the [LORD]{.smallcaps}; and he slew him. 
+@3 The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the LORD; and he slew him. 
 @4 And Tamar his daughter in law bare him Pharez and Zerah. All the sons of Judah were five. 
 @5 The sons of Pharez; Hezron, and Hamul. 
 @6 And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.^a^ ^b^ 
@@ -278,7 +278,7 @@
 @12 And Ahitub begat Zadok, and Zadok begat Shallum,^b^ 
 @13 And Shallum begat Hilkiah, and Hilkiah begat Azariah, 
 @14 And Azariah begat Seraiah, and Seraiah begat Jehozadak, 
-@15 And Jehozadak went into captivity, when the [LORD]{.smallcaps} carried away Judah and Jerusalem by the hand of Nebuchadnezzar. 
+@15 And Jehozadak went into captivity, when the LORD carried away Judah and Jerusalem by the hand of Nebuchadnezzar. 
 ^a^[**6:10** in the temple: Heb. in the house] ^b^[**6:12** Shallum: or, Meshullam]
 
 @16 The sons of Levi; Gershom, Kohath, and Merari.^a^ 
@@ -298,8 +298,8 @@
 @30 Shimea his son, Haggiah his son, Asaiah his son. 
 ^a^[**6:16** Gershom: or, Gershon] ^b^[**6:21** Joah: or, Ethan] ^c^[**6:21** Iddo: or, Adaiah] ^d^[**6:21** Jeaterai: also called, Ethni] ^e^[**6:22** Amminadab: or, Izhar] ^f^[**6:26** Zophai: or, Zuph] ^g^[**6:28** Vashni: called also Joel]
 
-@31 And these are they whom David set over the service of song in the house of the [LORD]{.smallcaps}, after that the ark had rest. 
-@32 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the [LORD]{.smallcaps} in Jerusalem: and then they waited on their office according to their order. 
+@31 And these are they whom David set over the service of song in the house of the LORD, after that the ark had rest. 
+@32 And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the LORD in Jerusalem: and then they waited on their office according to their order. 
 @33 And these are they that waited with their children. Of the sons of the Kohathites: Heman a singer, the son of Joel, the son of Shemuel,^a^ 
 @34 The son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah, 
 @35 The son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai, 
@@ -475,11 +475,11 @@
 @16 And Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun, and Berechiah the son of Asa, the son of Elkanah, that dwelt in the villages of the Netophathites. 
 @17 And the porters were, Shallum, and Akkub, and Talmon, and Ahiman, and their brethren: Shallum was the chief; 
 @18 Who hitherto waited in the king’s gate eastward: they were porters in the companies of the children of Levi. 
-@19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the [LORD]{.smallcaps}, were keepers of the entry.^a^ 
-@20 And Phinehas the son of Eleazar was the ruler over them in time past, and the [LORD]{.smallcaps} was with him. 
+@19 And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the LORD, were keepers of the entry.^a^ 
+@20 And Phinehas the son of Eleazar was the ruler over them in time past, and the LORD was with him. 
 @21 And Zechariah the son of Meshelemiah was porter of the door of the tabernacle of the congregation. 
 @22 All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.^b^ ^c^ 
-@23 So they and their children had the oversight of the gates of the house of the [LORD]{.smallcaps}, namely, the house of the tabernacle, by wards. 
+@23 So they and their children had the oversight of the gates of the house of the LORD, namely, the house of the tabernacle, by wards. 
 @24 In four quarters were the porters, toward the east, west, north, and south. 
 @25 And their brethren, which were in their villages, were to come after seven days from time to time with them. 
 @26 For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God.^d^ ^e^ 
@@ -523,14 +523,14 @@
 @11 And when all Jabesh-gilead heard all that the Philistines had done to Saul, 
 @12 They arose, all the valiant men, and took away the body of Saul, and the bodies of his sons, and brought them to Jabesh, and buried their bones under the oak in Jabesh, and fasted seven days. 
 
-@13 So Saul died for his transgression which he committed against the [LORD]{.smallcaps}, even against the word of the [LORD]{.smallcaps}, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;^a^ 
-@14 And enquired not of the [LORD]{.smallcaps}: therefore he slew him, and turned the kingdom unto David the son of Jesse.^b^
+@13 So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it;^a^ 
+@14 And enquired not of the LORD: therefore he slew him, and turned the kingdom unto David the son of Jesse.^b^
 ^a^[**10:13** committed: Heb. transgressed] ^b^[**10:14** Jesse: Heb. Isai] 
 
 # 11 
 @1 Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh. 
-@2 And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the [LORD]{.smallcaps} thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.^a^ ^b^ 
-@3 Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the [LORD]{.smallcaps}; and they anointed David king over Israel, according to the word of the [LORD]{.smallcaps} by Samuel.^c^ 
+@2 And moreover in time past, even when Saul was king, thou wast he that leddest out and broughtest in Israel: and the LORD thy God said unto thee, Thou shalt feed my people Israel, and thou shalt be ruler over my people Israel.^a^ ^b^ 
+@3 Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the LORD; and they anointed David king over Israel, according to the word of the LORD by Samuel.^c^ 
 ^a^[**11:2** in time…: Heb. both yesterday and the third day] ^b^[**11:2** feed: or, rule] ^c^[**11:3** by: Heb. by the hand of]
 
 @4 And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land. 
@@ -538,20 +538,20 @@
 @6 And David said, Whosoever smiteth the Jebusites first shall be chief and captain. So Joab the son of Zeruiah went first up, and was chief.^a^ 
 @7 And David dwelt in the castle; therefore they called it the city of David.^b^ 
 @8 And he built the city round about, even from Millo round about: and Joab repaired the rest of the city.^c^ 
-@9 So David waxed greater and greater: for the [LORD]{.smallcaps} of hosts was with him.^d^ 
+@9 So David waxed greater and greater: for the LORD of hosts was with him.^d^ 
 ^a^[**11:6** chief: Heb. head] ^b^[**11:7** it: that is, Zion] ^c^[**11:8** repaired: Heb. revived] ^d^[**11:9** waxed…: Heb. went in going and increasing]
 
-@10 These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the [LORD]{.smallcaps} concerning Israel.^a^ 
+@10 These also are the chief of the mighty men whom David had, who strengthened themselves with him in his kingdom, and with all Israel, to make him king, according to the word of the LORD concerning Israel.^a^ 
 @11 And this is the number of the mighty men whom David had; Jashobeam, an Hachmonite, the chief of the captains: he lifted up his spear against three hundred slain by him at one time.^b^ 
 @12 And after him was Eleazar the son of Dodo, the Ahohite, who was one of the three mighties. 
 @13 He was with David at Pas-dammim, and there the Philistines were gathered together to battle, where was a parcel of ground full of barley; and the people fled from before the Philistines.^c^ 
-@14 And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the [LORD]{.smallcaps} saved them by a great deliverance.^d^ ^e^ 
+@14 And they set themselves in the midst of that parcel, and delivered it, and slew the Philistines; and the LORD saved them by a great deliverance.^d^ ^e^ 
 ^a^[**11:10** strengthened…: or, held strongly with him] ^b^[**11:11** an Hachmonite: or, son of Hachmoni] ^c^[**11:13** Pas-dammim: also called, Ephes-dammim] ^d^[**11:14** set…: or, stood] ^e^[**11:14** deliverance: or, salvation]
 
 @15 Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.^a^ 
 @16 And David was then in the hold, and the Philistines’ garrison was then at Beth-lehem. 
 @17 And David longed, and said, Oh that one would give me drink of the water of the well of Beth-lehem, that is at the gate! 
-@18 And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the [LORD]{.smallcaps}, 
+@18 And the three brake through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the LORD, 
 @19 And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.^b^ 
 ^a^[**11:15** three…: or, three captains over the thirty] ^b^[**11:19** that have…: Heb. with their lives?]
 
@@ -612,7 +612,7 @@
 @22 For at that time day by day there came to David to help him, until it was a great host, like the host of God. 
 ^a^[**12:1** while…: Heb. being yet shut up] ^b^[**12:3** Shemaah: or, Hasmaah] ^c^[**12:8** of war: Heb. of the host] ^d^[**12:8** as swift…: Heb. as the roes upon the mountains to make haste] ^e^[**12:14** one…: or, one that was least could resist an hundred, and the greatest a thousand] ^f^[**12:15** overflown: Heb. filled over] ^g^[**12:17** to meet…: Heb. before them] ^h^[**12:17** be knit: Heb. be one] ^i^[**12:17** wrong: or, violence] ^j^[**12:18** came…: Heb. clothed] ^k^[**12:19** to the…: Heb. on our heads] ^l^[**12:21** against…: or, with a band]
 
-@23 And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the [LORD]{.smallcaps}.^a^ 
+@23 And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the LORD.^a^ 
 @24 The children of Judah that bare shield and spear were six thousand and eight hundred, ready armed to the war.^b^ 
 @25 Of the children of Simeon, mighty men of valour for the war, seven thousand and one hundred. 
 @26 Of the children of Levi four thousand and six hundred. 
@@ -634,26 +634,26 @@
 
 # 13 
 @1 And David consulted with the captains of thousands and hundreds, and with every leader. 
-@2 And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the [LORD]{.smallcaps} our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:^a^ ^b^ 
+@2 And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the LORD our God, let us send abroad unto our brethren every where, that are left in all the land of Israel, and with them also to the priests and Levites which are in their cities and suburbs, that they may gather themselves unto us:^a^ ^b^ 
 @3 And let us bring again the ark of our God to us: for we enquired not at it in the days of Saul.^c^ 
 @4 And all the congregation said that they would do so: for the thing was right in the eyes of all the people. 
 @5 So David gathered all Israel together, from Shihor of Egypt even unto the entering of Hemath, to bring the ark of God from Kirjath-jearim. 
-@6 And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the [LORD]{.smallcaps}, that dwelleth between the cherubims, whose name is called on it. 
+@6 And David went up, and all Israel, to Baalah, that is, to Kirjath-jearim, which belonged to Judah, to bring up thence the ark of God the LORD, that dwelleth between the cherubims, whose name is called on it. 
 @7 And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.^d^ 
 @8 And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.^e^ 
 ^a^[**13:2** send…: Heb. break forth and send] ^b^[**13:2** in their…: Heb. in the cities of their suburbs] ^c^[**13:3** bring…: Heb. bring about] ^d^[**13:7** carried…: Heb. made the ark to ride] ^e^[**13:8** singing: Heb. songs]
 
 @9 And when they came unto the threshingfloor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.^a^ ^b^ 
-@10 And the anger of the [LORD]{.smallcaps} was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God. 
-@11 And David was displeased, because the [LORD]{.smallcaps} had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.^c^ 
+@10 And the anger of the LORD was kindled against Uzza, and he smote him, because he put his hand to the ark: and there he died before God. 
+@11 And David was displeased, because the LORD had made a breach upon Uzza: wherefore that place is called Perez-uzza to this day.^c^ 
 @12 And David was afraid of God that day, saying, How shall I bring the ark of God home to me? 
 @13 So David brought not the ark home to himself to the city of David, but carried it aside into the house of Obed-edom the Gittite.^d^ 
-@14 And the ark of God remained with the family of Obed-edom in his house three months. And the [LORD]{.smallcaps} blessed the house of Obed-edom, and all that he had.
+@14 And the ark of God remained with the family of Obed-edom in his house three months. And the LORD blessed the house of Obed-edom, and all that he had.
 ^a^[**13:9** Chidon: also called Nachon] ^b^[**13:9** stumbled: or, shook it] ^c^[**13:11** Perez-uzza: that is, The breach of Uzza] ^d^[**13:13** brought: Heb. removed] 
 
 # 14 
 @1 Now Hiram king of Tyre sent messengers to David, and timber of cedars, with masons and carpenters, to build him an house. 
-@2 And David perceived that the [LORD]{.smallcaps} had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel. 
+@2 And David perceived that the LORD had confirmed him king over Israel, for his kingdom was lifted up on high, because of his people Israel. 
 
 @3 And David took more wives at Jerusalem: and David begat more sons and daughters.^a^ 
 @4 Now these are the names of his children which he had in Jerusalem; Shammua, and Shobab, Nathan, and Solomon, 
@@ -664,20 +664,20 @@
 
 @8 And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them. 
 @9 And the Philistines came and spread themselves in the valley of Rephaim. 
-@10 And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the [LORD]{.smallcaps} said unto him, Go up; for I will deliver them into thine hand. 
+@10 And David enquired of God, saying, Shall I go up against the Philistines? and wilt thou deliver them into mine hand? And the LORD said unto him, Go up; for I will deliver them into thine hand. 
 @11 So they came up to Baal-perazim; and David smote them there. Then David said, God hath broken in upon mine enemies by mine hand like the breaking forth of waters: therefore they called the name of that place Baal-perazim.^a^ 
 @12 And when they had left their gods there, David gave a commandment, and they were burned with fire. 
 @13 And the Philistines yet again spread themselves abroad in the valley. 
 @14 Therefore David enquired again of God; and God said unto him, Go not up after them; turn away from them, and come upon them over against the mulberry trees. 
 @15 And it shall be, when thou shalt hear a sound of going in the tops of the mulberry trees, that then thou shalt go out to battle: for God is gone forth before thee to smite the host of the Philistines. 
 @16 David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gazer.^b^ 
-@17 And the fame of David went out into all lands; and the [LORD]{.smallcaps} brought the fear of him upon all nations.
+@17 And the fame of David went out into all lands; and the LORD brought the fear of him upon all nations.
 ^a^[**14:11** Baal-perazim: that is, A place of breaches] ^b^[**14:16** Gibeon: also called, Geba] 
 
 # 15 
 @1 And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent. 
-@2 Then David said, None ought to carry the ark of God but the Levites: for them hath the [LORD]{.smallcaps} chosen to carry the ark of God, and to minister unto him for ever.^a^ 
-@3 And David gathered all Israel together to Jerusalem, to bring up the ark of the [LORD]{.smallcaps} unto his place, which he had prepared for it. 
+@2 Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever.^a^ 
+@3 And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it. 
 @4 And David assembled the children of Aaron, and the Levites: 
 @5 Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:^b^ 
 @6 Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty: 
@@ -686,10 +686,10 @@
 @9 Of the sons of Hebron; Eliel the chief, and his brethren fourscore: 
 @10 Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve. 
 @11 And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab, 
-@12 And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the [LORD]{.smallcaps} God of Israel unto the place that I have prepared for it. 
-@13 For because ye did it not at the first, the [LORD]{.smallcaps} our God made a breach upon us, for that we sought him not after the due order. 
-@14 So the priests and the Levites sanctified themselves to bring up the ark of the [LORD]{.smallcaps} God of Israel. 
-@15 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the [LORD]{.smallcaps}. 
+@12 And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it. 
+@13 For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order. 
+@14 So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel. 
+@15 And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD. 
 @16 And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy. 
 @17 So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah; 
 @18 And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obed-edom, and Jeiel, the porters. 
@@ -701,32 +701,32 @@
 @24 And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obed-edom and Jehiah were doorkeepers for the ark. 
 ^a^[**15:2** None…: Heb. It is not to carry the ark of God, but for the Levites] ^b^[**15:5** brethren: or, kinsmen] ^c^[**15:21** on the…: or, on the eighth to oversee] ^d^[**15:22** was for…: or, was for the carriage: he instructed about the carriage] ^e^[**15:22** song: Heb. lifting up]
 
-@25 So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the [LORD]{.smallcaps} out of the house of Obed-edom with joy. 
-@26 And it came to pass, when God helped the Levites that bare the ark of the covenant of the [LORD]{.smallcaps}, that they offered seven bullocks and seven rams. 
+@25 So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obed-edom with joy. 
+@26 And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams. 
 @27 And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen.^a^ 
-@28 Thus all Israel brought up the ark of the covenant of the [LORD]{.smallcaps} with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps. 
+@28 Thus all Israel brought up the ark of the covenant of the LORD with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps. 
 ^a^[**15:27** song: or, carriage]
 
-@29 And it came to pass, as the ark of the covenant of the [LORD]{.smallcaps} came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart. 
+@29 And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart. 
 
 # 16 
 @1 So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God. 
-@2 And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the [LORD]{.smallcaps}. 
+@2 And when David had made an end of offering the burnt offerings and the peace offerings, he blessed the people in the name of the LORD. 
 @3 And he dealt to every one of Israel, both man and woman, to every one a loaf of bread, and a good piece of flesh, and a flagon of wine. 
 
-@4 And he appointed certain of the Levites to minister before the ark of the [LORD]{.smallcaps}, and to record, and to thank and praise the [LORD]{.smallcaps} God of Israel: 
+@4 And he appointed certain of the Levites to minister before the ark of the LORD, and to record, and to thank and praise the LORD God of Israel: 
 @5 Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed-edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;^a^ 
 @6 Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God. 
 ^a^[**16:5** with psalteries…: Heb. with instruments of psalteries and harps]
 
-@7 Then on that day David delivered first this psalm to thank the [LORD]{.smallcaps} into the hand of Asaph and his brethren. 
-@8 Give thanks unto the [LORD]{.smallcaps}, call upon his name, make known his deeds among the people. 
+@7 Then on that day David delivered first this psalm to thank the LORD into the hand of Asaph and his brethren. 
+@8 Give thanks unto the LORD, call upon his name, make known his deeds among the people. 
 @9 Sing unto him, sing psalms unto him, talk ye of all his wondrous works. 
-@10 Glory ye in his holy name: let the heart of them rejoice that seek the [LORD]{.smallcaps}. 
-@11 Seek the [LORD]{.smallcaps} and his strength, seek his face continually. 
+@10 Glory ye in his holy name: let the heart of them rejoice that seek the LORD. 
+@11 Seek the LORD and his strength, seek his face continually. 
 @12 Remember his marvellous works that he hath done, his wonders, and the judgments of his mouth; 
 @13 O ye seed of Israel his servant, ye children of Jacob, his chosen ones. 
-@14 He is the [LORD]{.smallcaps} our God; his judgments are in all the earth. 
+@14 He is the LORD our God; his judgments are in all the earth. 
 @15 Be ye mindful always of his covenant; the word which he commanded to a thousand generations; 
 @16 Even of the covenant which he made with Abraham, and of his oath unto Isaac; 
 @17 And hath confirmed the same to Jacob for a law, and to Israel for an everlasting covenant, 
@@ -735,43 +735,43 @@
 @20 And when they went from nation to nation, and from one kingdom to another people; 
 @21 He suffered no man to do them wrong: yea, he reproved kings for their sakes, 
 @22 Saying, Touch not mine anointed, and do my prophets no harm. 
-@23 Sing unto the [LORD]{.smallcaps}, all the earth; shew forth from day to day his salvation. 
+@23 Sing unto the LORD, all the earth; shew forth from day to day his salvation. 
 @24 Declare his glory among the heathen; his marvellous works among all nations. 
-@25 For great is the [LORD]{.smallcaps}, and greatly to be praised: he also is to be feared above all gods. 
-@26 For all the gods of the people are idols: but the [LORD]{.smallcaps} made the heavens. 
+@25 For great is the LORD, and greatly to be praised: he also is to be feared above all gods. 
+@26 For all the gods of the people are idols: but the LORD made the heavens. 
 @27 Glory and honour are in his presence; strength and gladness are in his place. 
-@28 Give unto the [LORD]{.smallcaps}, ye kindreds of the people, give unto the [LORD]{.smallcaps} glory and strength. 
-@29 Give unto the [LORD]{.smallcaps} the glory due unto his name: bring an offering, and come before him: worship the [LORD]{.smallcaps} in the beauty of holiness. 
+@28 Give unto the LORD, ye kindreds of the people, give unto the LORD glory and strength. 
+@29 Give unto the LORD the glory due unto his name: bring an offering, and come before him: worship the LORD in the beauty of holiness. 
 @30 Fear before him, all the earth: the world also shall be stable, that it be not moved. 
-@31 Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The [LORD]{.smallcaps} reigneth. 
+@31 Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The LORD reigneth. 
 @32 Let the sea roar, and the fulness thereof: let the fields rejoice, and all that is therein. 
-@33 Then shall the trees of the wood sing out at the presence of the [LORD]{.smallcaps}, because he cometh to judge the earth. 
-@34 O give thanks unto the [LORD]{.smallcaps}; for he is good; for his mercy endureth for ever. 
+@33 Then shall the trees of the wood sing out at the presence of the LORD, because he cometh to judge the earth. 
+@34 O give thanks unto the LORD; for he is good; for his mercy endureth for ever. 
 @35 And say ye, Save us, O God of our salvation, and gather us together, and deliver us from the heathen, that we may give thanks to thy holy name, and glory in thy praise. 
-@36 Blessed be the [LORD]{.smallcaps} God of Israel for ever and ever. And all the people said, Amen, and praised the [LORD]{.smallcaps}. 
+@36 Blessed be the LORD God of Israel for ever and ever. And all the people said, Amen, and praised the LORD. 
 ^a^[**16:18** the lot: Heb. the cord] ^b^[**16:19** few, even: Heb. men of number, etc]
 
-@37 So he left there before the ark of the covenant of the [LORD]{.smallcaps} Asaph and his brethren, to minister before the ark continually, as every day’s work required: 
+@37 So he left there before the ark of the covenant of the LORD Asaph and his brethren, to minister before the ark continually, as every day’s work required: 
 @38 And Obed-edom with their brethren, threescore and eight; Obed-edom also the son of Jeduthun and Hosah to be porters: 
-@39 And Zadok the priest, and his brethren the priests, before the tabernacle of the [LORD]{.smallcaps} in the high place that was at Gibeon, 
-@40 To offer burnt offerings unto the [LORD]{.smallcaps} upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the [LORD]{.smallcaps}, which he commanded Israel;^a^ 
-@41 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the [LORD]{.smallcaps}, because his mercy endureth for ever; 
+@39 And Zadok the priest, and his brethren the priests, before the tabernacle of the LORD in the high place that was at Gibeon, 
+@40 To offer burnt offerings unto the LORD upon the altar of the burnt offering continually morning and evening, and to do according to all that is written in the law of the LORD, which he commanded Israel;^a^ 
+@41 And with them Heman and Jeduthun, and the rest that were chosen, who were expressed by name, to give thanks to the LORD, because his mercy endureth for ever; 
 @42 And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.^b^ 
 @43 And all the people departed every man to his house: and David returned to bless his house.
 ^a^[**16:40** morning…: Heb. in the morning, and in the evening] ^b^[**16:42** porters: Heb. for the gate] 
 
 # 17 
-@1 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the [LORD]{.smallcaps} remaineth under curtains. 
+@1 Now it came to pass, as David sat in his house, that David said to Nathan the prophet, Lo, I dwell in an house of cedars, but the ark of the covenant of the LORD remaineth under curtains. 
 @2 Then Nathan said unto David, Do all that is in thine heart; for God is with thee. 
 
 @3 And it came to pass the same night, that the word of God came to Nathan, saying, 
-@4 Go and tell David my servant, Thus saith the [LORD]{.smallcaps}, Thou shalt not build me an house to dwell in: 
+@4 Go and tell David my servant, Thus saith the LORD, Thou shalt not build me an house to dwell in: 
 @5 For I have not dwelt in an house since the day that I brought up Israel unto this day; but have gone from tent to tent, and from one tabernacle to another.^a^ 
 @6 Wheresoever I have walked with all Israel, spake I a word to any of the judges of Israel, whom I commanded to feed my people, saying, Why have ye not built me an house of cedars? 
-@7 Now therefore thus shalt thou say unto my servant David, Thus saith the [LORD]{.smallcaps} of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:^b^ 
+@7 Now therefore thus shalt thou say unto my servant David, Thus saith the LORD of hosts, I took thee from the sheepcote, even from following the sheep, that thou shouldest be ruler over my people Israel:^b^ 
 @8 And I have been with thee whithersoever thou hast walked, and have cut off all thine enemies from before thee, and have made thee a name like the name of the great men that are in the earth. 
 @9 Also I will ordain a place for my people Israel, and will plant them, and they shall dwell in their place, and shall be moved no more; neither shall the children of wickedness waste them any more, as at the beginning, 
-@10 And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the [LORD]{.smallcaps} will build thee an house. 
+@10 And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the LORD will build thee an house. 
 ^a^[**17:5** have gone: Heb. have been] ^b^[**17:7** from following: Heb. from after]
 
 @11 And it shall come to pass, when thy days be expired that thou must go to be with thy fathers, that I will raise up thy seed after thee, which shall be of thy sons; and I will establish his kingdom. 
@@ -780,18 +780,18 @@
 @14 But I will settle him in mine house and in my kingdom for ever: and his throne shall be established for evermore. 
 @15 According to all these words, and according to all this vision, so did Nathan speak unto David. 
 
-@16 And David the king came and sat before the [LORD]{.smallcaps}, and said, Who am I, O [LORD]{.smallcaps} God, and what is mine house, that thou hast brought me hitherto? 
-@17 And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O [LORD]{.smallcaps} God. 
+@16 And David the king came and sat before the LORD, and said, Who am I, O LORD God, and what is mine house, that thou hast brought me hitherto? 
+@17 And yet this was a small thing in thine eyes, O God; for thou hast also spoken of thy servant’s house for a great while to come, and hast regarded me according to the estate of a man of high degree, O LORD God. 
 @18 What can David speak more to thee for the honour of thy servant? for thou knowest thy servant. 
-@19 O [LORD]{.smallcaps}, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things.^a^ 
-@20 O [LORD]{.smallcaps}, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears. 
+@19 O LORD, for thy servant’s sake, and according to thine own heart, hast thou done all this greatness, in making known all these great things.^a^ 
+@20 O LORD, there is none like thee, neither is there any God beside thee, according to all that we have heard with our ears. 
 @21 And what one nation in the earth is like thy people Israel, whom God went to redeem to be his own people, to make thee a name of greatness and terribleness, by driving out nations from before thy people, whom thou hast redeemed out of Egypt? 
-@22 For thy people Israel didst thou make thine own people for ever; and thou, [LORD]{.smallcaps}, becamest their God. 
-@23 Therefore now, [LORD]{.smallcaps}, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said. 
-@24 Let it even be established, that thy name may be magnified for ever, saying, The [LORD]{.smallcaps} of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee. 
+@22 For thy people Israel didst thou make thine own people for ever; and thou, LORD, becamest their God. 
+@23 Therefore now, LORD, let the thing that thou hast spoken concerning thy servant and concerning his house be established for ever, and do as thou hast said. 
+@24 Let it even be established, that thy name may be magnified for ever, saying, The LORD of hosts is the God of Israel, even a God to Israel: and let the house of David thy servant be established before thee. 
 @25 For thou, O my God, hast told thy servant that thou wilt build him an house: therefore thy servant hath found in his heart to pray before thee.^b^ 
-@26 And now, [LORD]{.smallcaps}, thou art God, and hast promised this goodness unto thy servant: 
-@27 Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O [LORD]{.smallcaps}, and it shall be blessed for ever.^c^
+@26 And now, LORD, thou art God, and hast promised this goodness unto thy servant: 
+@27 Now therefore let it please thee to bless the house of thy servant, that it may be before thee for ever: for thou blessest, O LORD, and it shall be blessed for ever.^c^
 ^a^[**17:19** great…: Heb. greatnesses] ^b^[**17:25** hast…: Heb. hast revealed the ear of thy servant] ^c^[**17:27** let…: or, it hath pleased thee] 
 
 # 18 
@@ -801,7 +801,7 @@
 @3 And David smote Hadarezer king of Zobah unto Hamath, as he went to stablish his dominion by the river Euphrates.^a^ 
 @4 And David took from him a thousand chariots, and seven thousand horsemen, and twenty thousand footmen: David also houghed all the chariot horses, but reserved of them an hundred chariots.^b^ 
 @5 And when the Syrians of Damascus came to help Hadarezer king of Zobah, David slew of the Syrians two and twenty thousand men.^c^ 
-@6 Then David put garrisons in Syria-damascus; and the Syrians became David’s servants, and brought gifts. Thus the [LORD]{.smallcaps} preserved David whithersoever he went. 
+@6 Then David put garrisons in Syria-damascus; and the Syrians became David’s servants, and brought gifts. Thus the LORD preserved David whithersoever he went. 
 @7 And David took the shields of gold that were on the servants of Hadarezer, and brought them to Jerusalem. 
 @8 Likewise from Tibhath, and from Chun, cities of Hadarezer, brought David very much brass, wherewith Solomon made the brasen sea, and the pillars, and the vessels of brass.^d^ 
 ^a^[**18:3** Hadarezer: or, Hadadezer] ^b^[**18:4** seven…: or, seven hundred] ^c^[**18:5** Damascus: Heb. Darmesek] ^d^[**18:8** Tibhath…: called in the book of Samuel Betah, and Berothai]
@@ -810,11 +810,11 @@
 @10 He sent Hadoram his son to king David, to enquire of his welfare, and to congratulate him, because he had fought against Hadarezer, and smitten him; (for Hadarezer had war with Tou;) and with him all manner of vessels of gold and silver and brass.^b^ ^c^ ^d^ ^e^ 
 ^a^[**18:9** Tou: also called, Toi] ^b^[**18:10** Hadoram: also called, Joram] ^c^[**18:10** to enquire…: or, to salute] ^d^[**18:10** to congratulate: Heb. to bless] ^e^[**18:10** had war: Heb. was the man of wars]
 
-@11 Them also king David dedicated unto the [LORD]{.smallcaps}, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek. 
+@11 Them also king David dedicated unto the LORD, with the silver and the gold that he brought from all these nations; from Edom, and from Moab, and from the children of Ammon, and from the Philistines, and from Amalek. 
 @12 Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt eighteen thousand.^a^ 
 ^a^[**18:12** Abishai: Heb. Abshai]
 
-@13 And he put garrisons in Edom; and all the Edomites became David’s servants. Thus the [LORD]{.smallcaps} preserved David whithersoever he went. 
+@13 And he put garrisons in Edom; and all the Edomites became David’s servants. Thus the LORD preserved David whithersoever he went. 
 
 @14 So David reigned over all Israel, and executed judgment and justice among all his people. 
 @15 And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud, recorder.^a^ 
@@ -837,7 +837,7 @@
 @10 Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians.^b^ ^c^ 
 @11 And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon.^d^ 
 @12 And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee. 
-@13 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the [LORD]{.smallcaps} do that which is good in his sight. 
+@13 Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight. 
 @14 So Joab and the people that were with him drew nigh before the Syrians unto the battle; and they fled before him. 
 @15 And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem. 
 ^a^[**19:6** odious: Heb. to stink] ^b^[**19:10** the battle…: Heb. the face of the battle was] ^c^[**19:10** choice: or, young men] ^d^[**19:11** Abishai: Heb. Abshai]
@@ -864,7 +864,7 @@
 # 21 
 @1 And Satan stood up against Israel, and provoked David to number Israel. 
 @2 And David said to Joab and to the rulers of the people, Go, number Israel from Beer-sheba even to Dan; and bring the number of them to me, that I may know it. 
-@3 And Joab answered, The [LORD]{.smallcaps} make his people an hundred times so many more as they be: but, my lord the king, are they not all my lord’s servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel? 
+@3 And Joab answered, The LORD make his people an hundred times so many more as they be: but, my lord the king, are they not all my lord’s servants? why then doth my lord require this thing? why will he be a cause of trespass to Israel? 
 @4 Nevertheless the king’s word prevailed against Joab. Wherefore Joab departed, and went throughout all Israel, and came to Jerusalem. 
 
 @5 And Joab gave the sum of the number of the people unto David. And all they of Israel were a thousand thousand and an hundred thousand men that drew sword: and Judah was four hundred threescore and ten thousand men that drew sword. 
@@ -874,66 +874,66 @@
 @8 And David said unto God, I have sinned greatly, because I have done this thing: but now, I beseech thee, do away the iniquity of thy servant; for I have done very foolishly. 
 ^a^[**21:7** And…: Heb. And it was evil in the eyes of the LORD concerning this thing]
 
-@9 And the [LORD]{.smallcaps} spake unto Gad, David’s seer, saying, 
-@10 Go and tell David, saying, Thus saith the [LORD]{.smallcaps}, I offer thee three things: choose thee one of them, that I may do it unto thee.^a^ 
-@11 So Gad came to David, and said unto him, Thus saith the [LORD]{.smallcaps}, Choose thee^b^ 
-@12 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the [LORD]{.smallcaps}, even the pestilence, in the land, and the angel of the [LORD]{.smallcaps} destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me. 
-@13 And David said unto Gad, I am in a great strait: let me fall now into the hand of the [LORD]{.smallcaps}; for very great are his mercies: but let me not fall into the hand of man.^c^ 
+@9 And the LORD spake unto Gad, David’s seer, saying, 
+@10 Go and tell David, saying, Thus saith the LORD, I offer thee three things: choose thee one of them, that I may do it unto thee.^a^ 
+@11 So Gad came to David, and said unto him, Thus saith the LORD, Choose thee^b^ 
+@12 Either three years’ famine; or three months to be destroyed before thy foes, while that the sword of thine enemies overtaketh thee; or else three days the sword of the LORD, even the pestilence, in the land, and the angel of the LORD destroying throughout all the coasts of Israel. Now therefore advise thyself what word I shall bring again to him that sent me. 
+@13 And David said unto Gad, I am in a great strait: let me fall now into the hand of the LORD; for very great are his mercies: but let me not fall into the hand of man.^c^ 
 ^a^[**21:10** offer: Heb. stretch out] ^b^[**21:11** Choose…: Heb. Take to thee] ^c^[**21:13** very great: or, very many]
 
-@14 So the [LORD]{.smallcaps} sent pestilence upon Israel: and there fell of Israel seventy thousand men. 
-@15 And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the [LORD]{.smallcaps} beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the [LORD]{.smallcaps} stood by the threshingfloor of Ornan the Jebusite.^a^ 
-@16 And David lifted up his eyes, and saw the angel of the [LORD]{.smallcaps} stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces. 
-@17 And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O [LORD]{.smallcaps} my God, be on me, and on my father’s house; but not on thy people, that they should be plagued. 
+@14 So the LORD sent pestilence upon Israel: and there fell of Israel seventy thousand men. 
+@15 And God sent an angel unto Jerusalem to destroy it: and as he was destroying, the LORD beheld, and he repented him of the evil, and said to the angel that destroyed, It is enough, stay now thine hand. And the angel of the LORD stood by the threshingfloor of Ornan the Jebusite.^a^ 
+@16 And David lifted up his eyes, and saw the angel of the LORD stand between the earth and the heaven, having a drawn sword in his hand stretched out over Jerusalem. Then David and the elders of Israel, who were clothed in sackcloth, fell upon their faces. 
+@17 And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O LORD my God, be on me, and on my father’s house; but not on thy people, that they should be plagued. 
 ^a^[**21:15** Ornan: also called, Araunah]
 
-@18 Then the angel of the [LORD]{.smallcaps} commanded Gad to say to David, that David should go up, and set up an altar unto the [LORD]{.smallcaps} in the threshingfloor of Ornan the Jebusite. 
-@19 And David went up at the saying of Gad, which he spake in the name of the [LORD]{.smallcaps}. 
+@18 Then the angel of the LORD commanded Gad to say to David, that David should go up, and set up an altar unto the LORD in the threshingfloor of Ornan the Jebusite. 
+@19 And David went up at the saying of Gad, which he spake in the name of the LORD. 
 @20 And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.^a^ 
 @21 And as David came to Ornan, Ornan looked and saw David, and went out of the threshingfloor, and bowed himself to David with his face to the ground. 
-@22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the [LORD]{.smallcaps}: thou shalt grant it me for the full price: that the plague may be stayed from the people.^b^ 
+@22 Then David said to Ornan, Grant me the place of this threshingfloor, that I may build an altar therein unto the LORD: thou shalt grant it me for the full price: that the plague may be stayed from the people.^b^ 
 @23 And Ornan said unto David, Take it to thee, and let my lord the king do that which is good in his eyes: lo, I give thee the oxen also for burnt offerings, and the threshing instruments for wood, and the wheat for the meat offering; I give it all. 
-@24 And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for the [LORD]{.smallcaps}, nor offer burnt offerings without cost. 
+@24 And king David said to Ornan, Nay; but I will verily buy it for the full price: for I will not take that which is thine for the LORD, nor offer burnt offerings without cost. 
 @25 So David gave to Ornan for the place six hundred shekels of gold by weight. 
-@26 And David built there an altar unto the [LORD]{.smallcaps}, and offered burnt offerings and peace offerings, and called upon the [LORD]{.smallcaps}; and he answered him from heaven by fire upon the altar of burnt offering. 
-@27 And the [LORD]{.smallcaps} commanded the angel; and he put up his sword again into the sheath thereof. 
+@26 And David built there an altar unto the LORD, and offered burnt offerings and peace offerings, and called upon the LORD; and he answered him from heaven by fire upon the altar of burnt offering. 
+@27 And the LORD commanded the angel; and he put up his sword again into the sheath thereof. 
 ^a^[**21:20** And Ornan…: or, When Ornan turned back and saw the angel, then he and his four sons with him hid themselves] ^b^[**21:22** Grant: Heb. Give]
 
-@28 At that time when David saw that the [LORD]{.smallcaps} had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there. 
-@29 For the tabernacle of the [LORD]{.smallcaps}, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon. 
-@30 But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the [LORD]{.smallcaps}. 
+@28 At that time when David saw that the LORD had answered him in the threshingfloor of Ornan the Jebusite, then he sacrificed there. 
+@29 For the tabernacle of the LORD, which Moses made in the wilderness, and the altar of the burnt offering, were at that season in the high place at Gibeon. 
+@30 But David could not go before it to enquire of God: for he was afraid because of the sword of the angel of the LORD. 
 
 # 22 
-@1 Then David said, This is the house of the [LORD]{.smallcaps} God, and this is the altar of the burnt offering for Israel. 
+@1 Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel. 
 @2 And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God. 
 @3 And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight; 
 @4 Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David. 
-@5 And David said, Solomon my son is young and tender, and the house that is to be builded for the [LORD]{.smallcaps} must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death. 
+@5 And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death. 
 
-@6 Then he called for Solomon his son, and charged him to build an house for the [LORD]{.smallcaps} God of Israel. 
-@7 And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the [LORD]{.smallcaps} my God: 
-@8 But the word of the [LORD]{.smallcaps} came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight. 
+@6 Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel. 
+@7 And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God: 
+@8 But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight. 
 @9 Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days.^a^ 
 @10 He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever. 
-@11 Now, my son, the [LORD]{.smallcaps} be with thee; and prosper thou, and build the house of the [LORD]{.smallcaps} thy God, as he hath said of thee. 
-@12 Only the [LORD]{.smallcaps} give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the [LORD]{.smallcaps} thy God. 
-@13 Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the [LORD]{.smallcaps} charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed. 
-@14 Now, behold, in my trouble I have prepared for the house of the [LORD]{.smallcaps} an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.^b^ 
+@11 Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee. 
+@12 Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the LORD thy God. 
+@13 Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed. 
+@14 Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto.^b^ 
 @15 Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work.^c^ 
-@16 Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the [LORD]{.smallcaps} be with thee. 
+@16 Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee. 
 ^a^[**22:9** Solomon: that is, Peaceable] ^b^[**22:14** trouble: or, poverty] ^c^[**22:15** workers…: that is, masons and carpenters]
 
 @17 David also commanded all the princes of Israel to help Solomon his son, saying, 
-@18 Is not the [LORD]{.smallcaps} your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the [LORD]{.smallcaps}, and before his people. 
-@19 Now set your heart and your soul to seek the [LORD]{.smallcaps} your God; arise therefore, and build ye the sanctuary of the [LORD]{.smallcaps} God, to bring the ark of the covenant of the [LORD]{.smallcaps}, and the holy vessels of God, into the house that is to be built to the name of the [LORD]{.smallcaps}. 
+@18 Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people. 
+@19 Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD. 
 
 # 23 
 @1 So when David was old and full of days, he made Solomon his son king over Israel. 
 
 @2 And he gathered together all the princes of Israel, with the priests and the Levites. 
 @3 Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand. 
-@4 Of which, twenty and four thousand were to set forward the work of the house of the [LORD]{.smallcaps}; and six thousand were officers and judges:^a^ 
-@5 Moreover four thousand were porters; and four thousand praised the [LORD]{.smallcaps} with the instruments which I made, said David, to praise therewith. 
+@4 Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:^a^ 
+@5 Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith. 
 @6 And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.^b^ 
 ^a^[**23:4** set…: or, oversee] ^b^[**23:6** courses: Heb. divisions]
 
@@ -945,7 +945,7 @@
 ^a^[**23:7** Laadan: or, Libni] ^b^[**23:10** Zina: or, Zizah] ^c^[**23:11** had…: Heb. did not multiply sons]
 
 @12 The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four. 
-@13 The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the [LORD]{.smallcaps}, to minister unto him, and to bless in his name for ever. 
+@13 The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever. 
 @14 Now concerning Moses the man of God, his sons were named of the tribe of Levi. 
 @15 The sons of Moses were, Gershom, and Eliezer. 
 @16 Of the sons of Gershom, Shebuel was the chief.^a^ 
@@ -960,15 +960,15 @@
 @23 The sons of Mushi; Mahli, and Eder, and Jeremoth, three. 
 ^a^[**23:22** brethren: or, kinsmen]
 
-@24 These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the [LORD]{.smallcaps}, from the age of twenty years and upward. 
-@25 For David said, The [LORD]{.smallcaps} God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:^a^ 
+@24 These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward. 
+@25 For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:^a^ 
 @26 And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof. 
 @27 For by the last words of David the Levites were numbered from twenty years old and above:^b^ 
-@28 Because their office was to wait on the sons of Aaron for the service of the house of the [LORD]{.smallcaps}, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;^c^ 
+@28 Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;^c^ 
 @29 Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;^d^ 
-@30 And to stand every morning to thank and praise the [LORD]{.smallcaps}, and likewise at even; 
-@31 And to offer all burnt sacrifices unto the [LORD]{.smallcaps} in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the [LORD]{.smallcaps}: 
-@32 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the [LORD]{.smallcaps}.
+@30 And to stand every morning to thank and praise the LORD, and likewise at even; 
+@31 And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD: 
+@32 And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD.
 ^a^[**23:25** that…: or, and he dwelleth in Jerusalem, etc] ^b^[**23:27** numbered: Heb. number] ^c^[**23:28** their…: Heb. their station was at the hand of the sons of Aaron] ^d^[**23:29** pan: or, flat plate] 
 
 # 24 
@@ -990,7 +990,7 @@
 @16 The nineteenth to Pethahiah, the twentieth to Jehezekel, 
 @17 The one and twentieth to Jachin, the two and twentieth to Gamul, 
 @18 The three and twentieth to Delaiah, the four and twentieth to Maaziah. 
-@19 These were the orderings of them in their service to come into the house of the [LORD]{.smallcaps}, according to their manner, under Aaron their father, as the [LORD]{.smallcaps} God of Israel had commanded him. 
+@19 These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him. 
 ^a^[**24:6** principal…: Heb. house of the father]
 
 @20 And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah.^a^ 
@@ -1011,11 +1011,11 @@
 # 25 
 @1 Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was: 
 @2 Of the sons of Asaph; Zaccur, and Joseph, and Nethaniah, and Asarelah, the sons of Asaph under the hands of Asaph, which prophesied according to the order of the king.^a^ ^b^ 
-@3 Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the [LORD]{.smallcaps}.^c^ 
+@3 Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the LORD.^c^ 
 @4 Of Heman: the sons of Heman; Bukkiah, Mattaniah, Uzziel, Shebuel, and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, and Mahazioth:^d^ ^e^ 
 @5 All these were the sons of Heman the king’s seer in the words of God, to lift up the horn. And God gave to Heman fourteen sons and three daughters.^f^ 
-@6 All these were under the hands of their father for song in the house of the [LORD]{.smallcaps}, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.^g^ 
-@7 So the number of them, with their brethren that were instructed in the songs of the [LORD]{.smallcaps}, even all that were cunning, was two hundred fourscore and eight. 
+@6 All these were under the hands of their father for song in the house of the LORD, with cymbals, psalteries, and harps, for the service of the house of God, according to the king’s order to Asaph, Jeduthun, and Heman.^g^ 
+@7 So the number of them, with their brethren that were instructed in the songs of the LORD, even all that were cunning, was two hundred fourscore and eight. 
 ^a^[**25:2** Asarelah: otherwise called Jesharelah] ^b^[**25:2** according…: Heb. by the hands of the king] ^c^[**25:3** Zeri: or, Izri] ^d^[**25:4** Uzziel: also called, Azareel] ^e^[**25:4** Shebuel: also called, Shubael] ^f^[**25:5** words: or, matters] ^g^[**25:6** according…: Heb. by the hands of the king]
 
 @8 And they cast lots, ward against ward, as well the small as the great, the teacher as the scholar. 
@@ -1055,7 +1055,7 @@
 @9 And Meshelemiah had sons and brethren, strong men, eighteen. 
 @10 Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;) 
 @11 Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen. 
-@12 Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the [LORD]{.smallcaps}. 
+@12 Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the LORD. 
 ^a^[**26:1** Meshelemiah: also called, Shelemiah] ^b^[**26:1** Asaph: also called, Ebiasaph] ^c^[**26:5** him: that is, Obed-edom]
 
 @13 And they cast lots, as well the small as the great, according to the house of their fathers, for every gate.^a^ 
@@ -1069,17 +1069,17 @@
 
 @20 And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things.^a^ 
 @21 As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli.^b^ ^c^ 
-@22 The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the [LORD]{.smallcaps}. 
+@22 The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD. 
 @23 Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites: 
 @24 And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures. 
 @25 And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son. 
 @26 Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated. 
-@27 Out of the spoils won in battles did they dedicate to maintain the house of the [LORD]{.smallcaps}.^d^ 
+@27 Out of the spoils won in battles did they dedicate to maintain the house of the LORD.^d^ 
 @28 And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren. 
 ^a^[**26:20** dedicated…: Heb. holy things] ^b^[**26:21** Laadan: also called, Libni] ^c^[**26:21** Jehieli: also called, Jehiel] ^d^[**26:27** spoils…: Heb. battles and spoils]
 
 @29 Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges. 
-@30 And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the [LORD]{.smallcaps}, and in the service of the king.^a^ 
+@30 And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.^a^ 
 @31 Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead. 
 @32 And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.^b^
 ^a^[**26:30** officers…: Heb. over the charge] ^b^[**26:32** affairs: Heb. thing] 
@@ -1111,7 +1111,7 @@
 @22 Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel. 
 ^a^[**27:18** Elihu: also called, Eliab]
 
-@23 But David took not the number of them from twenty years old and under: because the [LORD]{.smallcaps} had said he would increase Israel like to the stars of the heavens. 
+@23 But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens. 
 @24 Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David.^a^ 
 ^a^[**27:24** was: Heb. ascended]
 
@@ -1129,63 +1129,63 @@
 
 # 28 
 @1 And David assembled all the princes of Israel, the princes of the tribes, and the captains of the companies that ministered to the king by course, and the captains over the thousands, and captains over the hundreds, and the stewards over all the substance and possession of the king, and of his sons, with the officers, and with the mighty men, and with all the valiant men, unto Jerusalem.^a^ ^b^ ^c^ 
-@2 Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the [LORD]{.smallcaps}, and for the footstool of our God, and had made ready for the building: 
+@2 Then David the king stood up upon his feet, and said, Hear me, my brethren, and my people: As for me, I had in mine heart to build an house of rest for the ark of the covenant of the LORD, and for the footstool of our God, and had made ready for the building: 
 @3 But God said unto me, Thou shalt not build an house for my name, because thou hast been a man of war, and hast shed blood.^d^ 
-@4 Howbeit the [LORD]{.smallcaps} God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel: 
-@5 And of all my sons, (for the [LORD]{.smallcaps} hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the [LORD]{.smallcaps} over Israel. 
+@4 Howbeit the LORD God of Israel chose me before all the house of my father to be king over Israel for ever: for he hath chosen Judah to be the ruler; and of the house of Judah, the house of my father; and among the sons of my father he liked me to make me king over all Israel: 
+@5 And of all my sons, (for the LORD hath given me many sons,) he hath chosen Solomon my son to sit upon the throne of the kingdom of the LORD over Israel. 
 @6 And he said unto me, Solomon thy son, he shall build my house and my courts: for I have chosen him to be my son, and I will be his father. 
 @7 Moreover I will establish his kingdom for ever, if he be constant to do my commandments and my judgments, as at this day.^e^ 
-@8 Now therefore in the sight of all Israel the congregation of the [LORD]{.smallcaps}, and in the audience of our God, keep and seek for all the commandments of the [LORD]{.smallcaps} your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever. 
+@8 Now therefore in the sight of all Israel the congregation of the LORD, and in the audience of our God, keep and seek for all the commandments of the LORD your God: that ye may possess this good land, and leave it for an inheritance for your children after you for ever. 
 ^a^[**28:1** possession: or, cattle] ^b^[**28:1** and of…: or, and his sons] ^c^[**28:1** officers: or, eunuchs] ^d^[**28:3** blood: Heb. bloods] ^e^[**28:7** constant: Heb. strong]
 
-@9 And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the [LORD]{.smallcaps} searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. 
-@10 Take heed now; for the [LORD]{.smallcaps} hath chosen thee to build an house for the sanctuary: be strong, and do it. 
+@9 And thou, Solomon my son, know thou the God of thy father, and serve him with a perfect heart and with a willing mind: for the LORD searcheth all hearts, and understandeth all the imaginations of the thoughts: if thou seek him, he will be found of thee; but if thou forsake him, he will cast thee off for ever. 
+@10 Take heed now; for the LORD hath chosen thee to build an house for the sanctuary: be strong, and do it. 
 
 @11 Then David gave to Solomon his son the pattern of the porch, and of the houses thereof, and of the treasuries thereof, and of the upper chambers thereof, and of the inner parlours thereof, and of the place of the mercy seat, 
-@12 And the pattern of all that he had by the spirit, of the courts of the house of the [LORD]{.smallcaps}, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:^a^ 
-@13 Also for the courses of the priests and the Levites, and for all the work of the service of the house of the [LORD]{.smallcaps}, and for all the vessels of service in the house of the [LORD]{.smallcaps}. 
+@12 And the pattern of all that he had by the spirit, of the courts of the house of the LORD, and of all the chambers round about, of the treasuries of the house of God, and of the treasuries of the dedicated things:^a^ 
+@13 Also for the courses of the priests and the Levites, and for all the work of the service of the house of the LORD, and for all the vessels of service in the house of the LORD. 
 @14 He gave of gold by weight for things of gold, for all instruments of all manner of service; silver also for all instruments of silver by weight, for all instruments of every kind of service: 
 @15 Even the weight for the candlesticks of gold, and for their lamps of gold, by weight for every candlestick, and for the lamps thereof: and for the candlesticks of silver by weight, both for the candlestick, and also for the lamps thereof, according to the use of every candlestick. 
 @16 And by weight he gave gold for the tables of shewbread, for every table; and likewise silver for the tables of silver: 
 @17 Also pure gold for the fleshhooks, and the bowls, and the cups: and for the golden basons he gave gold by weight for every bason; and likewise silver by weight for every bason of silver: 
-@18 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the [LORD]{.smallcaps}. 
-@19 All this, said David, the [LORD]{.smallcaps} made me understand in writing by his hand upon me, even all the works of this pattern. 
-@20 And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the [LORD]{.smallcaps} God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the [LORD]{.smallcaps}. 
+@18 And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the LORD. 
+@19 All this, said David, the LORD made me understand in writing by his hand upon me, even all the works of this pattern. 
+@20 And David said to Solomon his son, Be strong and of good courage, and do it: fear not, nor be dismayed: for the LORD God, even my God, will be with thee; he will not fail thee, nor forsake thee, until thou hast finished all the work for the service of the house of the LORD. 
 @21 And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment.
 ^a^[**28:12** of all that…: Heb. of all that was with him] 
 
 # 29 
-@1 Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the [LORD]{.smallcaps} God. 
+@1 Furthermore David the king said unto all the congregation, Solomon my son, whom alone God hath chosen, is yet young and tender, and the work is great: for the palace is not for man, but for the LORD God. 
 @2 Now I have prepared with all my might for the house of my God the gold for things to be made of gold, and the silver for things of silver, and the brass for things of brass, the iron for things of iron, and wood for things of wood; onyx stones, and stones to be set, glistering stones, and of divers colours, and all manner of precious stones, and marble stones in abundance. 
 @3 Moreover, because I have set my affection to the house of my God, I have of mine own proper good, of gold and silver, which I have given to the house of my God, over and above all that I have prepared for the holy house, 
 @4 Even three thousand talents of gold, of the gold of Ophir, and seven thousand talents of refined silver, to overlay the walls of the houses withal: 
-@5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the [LORD]{.smallcaps}?^a^ 
+@5 The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the LORD?^a^ 
 ^a^[**29:5** consecrate his service: Heb. fill his hand]
 
 @6 Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king’s work, offered willingly, 
 @7 And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron. 
-@8 And they with whom precious stones were found gave them to the treasure of the house of the [LORD]{.smallcaps}, by the hand of Jehiel the Gershonite. 
-@9 Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the [LORD]{.smallcaps}: and David the king also rejoiced with great joy. 
+@8 And they with whom precious stones were found gave them to the treasure of the house of the LORD, by the hand of Jehiel the Gershonite. 
+@9 Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the LORD: and David the king also rejoiced with great joy. 
 
-@10 Wherefore David blessed the [LORD]{.smallcaps} before all the congregation: and David said, Blessed be thou, [LORD]{.smallcaps} God of Israel our father, for ever and ever. 
-@11 Thine, O [LORD]{.smallcaps}, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O [LORD]{.smallcaps}, and thou art exalted as head above all. 
+@10 Wherefore David blessed the LORD before all the congregation: and David said, Blessed be thou, LORD God of Israel our father, for ever and ever. 
+@11 Thine, O LORD, is the greatness, and the power, and the glory, and the victory, and the majesty: for all that is in the heaven and in the earth is thine; thine is the kingdom, O LORD, and thou art exalted as head above all. 
 @12 Both riches and honour come of thee, and thou reignest over all; and in thine hand is power and might; and in thine hand it is to make great, and to give strength unto all. 
 @13 Now therefore, our God, we thank thee, and praise thy glorious name. 
 @14 But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee.^a^ ^b^ 
 @15 For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.^c^ 
-@16 O [LORD]{.smallcaps} our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own. 
+@16 O LORD our God, all this store that we have prepared to build thee an house for thine holy name cometh of thine hand, and is all thine own. 
 @17 I know also, my God, that thou triest the heart, and hast pleasure in uprightness. As for me, in the uprightness of mine heart I have willingly offered all these things: and now have I seen with joy thy people, which are present here, to offer willingly unto thee.^d^ 
-@18 O [LORD]{.smallcaps} God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:^e^ 
+@18 O LORD God of Abraham, Isaac, and of Israel, our fathers, keep this for ever in the imagination of the thoughts of the heart of thy people, and prepare their heart unto thee:^e^ 
 @19 And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for the which I have made provision. 
 ^a^[**29:14** be able: Heb. retain, or, obtain strength] ^b^[**29:14** of thine…: Heb. of thine hand] ^c^[**29:15** abiding: Heb. expectation] ^d^[**29:17** present: Heb. found] ^e^[**29:18** prepare: or, stablish]
 
-@20 And David said to all the congregation, Now bless the [LORD]{.smallcaps} your God. And all the congregation blessed the [LORD]{.smallcaps} God of their fathers, and bowed down their heads, and worshipped the [LORD]{.smallcaps}, and the king. 
-@21 And they sacrificed sacrifices unto the [LORD]{.smallcaps}, and offered burnt offerings unto the [LORD]{.smallcaps}, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel: 
-@22 And did eat and drink before the [LORD]{.smallcaps} on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the [LORD]{.smallcaps} to be the chief governor, and Zadok to be priest. 
+@20 And David said to all the congregation, Now bless the LORD your God. And all the congregation blessed the LORD God of their fathers, and bowed down their heads, and worshipped the LORD, and the king. 
+@21 And they sacrificed sacrifices unto the LORD, and offered burnt offerings unto the LORD, on the morrow after that day, even a thousand bullocks, a thousand rams, and a thousand lambs, with their drink offerings, and sacrifices in abundance for all Israel: 
+@22 And did eat and drink before the LORD on that day with great gladness. And they made Solomon the son of David king the second time, and anointed him unto the LORD to be the chief governor, and Zadok to be priest. 
 
-@23 Then Solomon sat on the throne of the [LORD]{.smallcaps} as king instead of David his father, and prospered; and all Israel obeyed him. 
+@23 Then Solomon sat on the throne of the LORD as king instead of David his father, and prospered; and all Israel obeyed him. 
 @24 And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.^a^ 
-@25 And the [LORD]{.smallcaps} magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel. 
+@25 And the LORD magnified Solomon exceedingly in the sight of all Israel, and bestowed upon him such royal majesty as had not been on any king before him in Israel. 
 ^a^[**29:24** submitted…: Heb. gave the hand under Solomon]
 
 @26 Thus David the son of Jesse reigned over all Israel. 

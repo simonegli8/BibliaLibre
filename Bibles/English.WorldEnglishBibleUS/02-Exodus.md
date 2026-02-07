@@ -1789,8 +1789,7 @@ All the sons of Levi gathered themselves together to him.
 @32 When they went into the Tent of Meeting, and when they came near to the altar, they washed, as Yahweh commanded Moses. 
 @33 He raised up the court around the tabernacle and the altar, and set up the screen of the gate of the court. So Moses finished the work.
 
-## The glory of the Lord takes possession of the dwelling
-
+## The glory of the Lord takes possession of the dwelling
 @34 Then the cloud covered the Tent of Meeting, and Yahweh’s glory filled the tabernacle. 
 @35 Moses wasn’t able to enter into the Tent of Meeting, because the cloud stayed on it, and Yahweh’s glory filled the tabernacle. 
 @36 When the cloud was taken up from over the tabernacle, the children of Israel went onward, throughout all their journeys; 

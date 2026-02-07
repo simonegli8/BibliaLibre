@@ -3106,7 +3106,7 @@ A praise psalm by David.^a^
 @9 to execute on them the written judgment. All his saints have this honor. Praise Yah! 
 
 # 150 
-## All that breathes, praise the Lord!
+## All that breathes, praise the Lord!
 @1 Praise Yah! Praise God in his sanctuary! Praise him in his heavens for his acts of power! 
 @2 Praise him for his mighty acts! Praise him according to his excellent greatness! 
 @3 Praise him with the sounding of the trumpet! Praise him with harp and lyre! 

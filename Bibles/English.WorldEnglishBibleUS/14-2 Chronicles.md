@@ -1291,7 +1291,6 @@ They brought back this message to the king.
 @20 He carried those who had escaped from the sword away to Babylon, and they were servants to him and his sons until the reign of the kingdom of Persia, 
 @21 to fulfill Yahweh’s word by Jeremiah’s mouth, until the land had enjoyed its Sabbaths. As long as it lay desolate, it kept Sabbath, to fulfill seventy years.
 
-## Permission to return home from Persian King Cyrus
-
+## Permission to return home from Persian King Cyrus
 @22 Now in the first year of Cyrus king of Persia, that Yahweh’s word by the mouth of Jeremiah might be accomplished, Yahweh stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and put it also in writing, saying, 
 @23 “Cyrus king of Persia says, ‘Yahweh, the God of heaven, has given all the kingdoms of the earth to me; and he has commanded me to build him a house in Jerusalem, which is in Judah. Whoever there is among you of all his people, Yahweh his God be with him, and let him go up.’” 

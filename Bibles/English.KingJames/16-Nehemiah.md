@@ -5,7 +5,7 @@
 
 @4 And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven, 
 
-@5 And said, I beseech thee, O [LORD]{.smallcaps} God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments: 
+@5 And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments: 
 @6 Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned. 
 @7 We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses. 
 @8 Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations: 
@@ -122,7 +122,7 @@
 @10 I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury. 
 @11 Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them. 
 @12 Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise. 
-@13 Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the [LORD]{.smallcaps}. And the people did according to this promise.^b^ 
+@13 Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise.^b^ 
 ^a^[**5:7** I consulted…: Heb. my heart consulted in me] ^b^[**5:13** emptied: Heb. empty, or, void]
 
 @14 Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor. 
@@ -250,24 +250,24 @@
 ^a^[**7:70** some: Heb. part.] ^b^[**7:70** The Tirshatha: or, the governor] 
 
 # 8 
-@1 And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the [LORD]{.smallcaps} had commanded to Israel. 
+@1 And all the people gathered themselves together as one man into the street that was before the water gate; and they spake unto Ezra the scribe to bring the book of the law of Moses, which the LORD had commanded to Israel. 
 @2 And Ezra the priest brought the law before the congregation both of men and women, and all that could hear with understanding, upon the first day of the seventh month.^a^ 
 @3 And he read therein before the street that was before the water gate from the morning until midday, before the men and the women, and those that could understand; and the ears of all the people were attentive unto the book of the law.^b^ 
 @4 And Ezra the scribe stood upon a pulpit of wood, which they had made for the purpose; and beside him stood Mattithiah, and Shema, and Anaiah, and Urijah, and Hilkiah, and Maaseiah, on his right hand; and on his left hand, Pedaiah, and Mishael, and Malchiah, and Hashum, and Hashbadana, Zechariah, and Meshullam.^c^ 
 @5 And Ezra opened the book in the sight of all the people; (for he was above all the people;) and when he opened it, all the people stood up:^d^ 
-@6 And Ezra blessed the [LORD]{.smallcaps}, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the [LORD]{.smallcaps} with their faces to the ground. 
+@6 And Ezra blessed the LORD, the great God. And all the people answered, Amen, Amen, with lifting up their hands: and they bowed their heads, and worshipped the LORD with their faces to the ground. 
 @7 Also Jeshua, and Bani, and Sherebiah, Jamin, Akkub, Shabbethai, Hodijah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, and the Levites, caused the people to understand the law: and the people stood in their place. 
 @8 So they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading. 
 ^a^[**8:2** that…: Heb. that understood in hearing] ^b^[**8:3** from…: Heb. from the light] ^c^[**8:4** pulpit…: Heb. tower of wood] ^d^[**8:5** sight: Heb. eyes]
 
-@9 And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the [LORD]{.smallcaps} your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.^a^ 
-@10 Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the [LORD]{.smallcaps} is your strength. 
+@9 And Nehemiah, which is the Tirshatha, and Ezra the priest the scribe, and the Levites that taught the people, said unto all the people, This day is holy unto the LORD your God; mourn not, nor weep. For all the people wept, when they heard the words of the law.^a^ 
+@10 Then he said unto them, Go your way, eat the fat, and drink the sweet, and send portions unto them for whom nothing is prepared: for this day is holy unto our Lord: neither be ye sorry; for the joy of the LORD is your strength. 
 @11 So the Levites stilled all the people, saying, Hold your peace, for the day is holy; neither be ye grieved. 
 @12 And all the people went their way to eat, and to drink, and to send portions, and to make great mirth, because they had understood the words that were declared unto them. 
 ^a^[**8:9** the Tirshatha: or, the governor]
 
 @13 And on the second day were gathered together the chief of the fathers of all the people, the priests, and the Levites, unto Ezra the scribe, even to understand the words of the law.^a^ 
-@14 And they found written in the law which the [LORD]{.smallcaps} had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:^b^ 
+@14 And they found written in the law which the LORD had commanded by Moses, that the children of Israel should dwell in booths in the feast of the seventh month:^b^ 
 @15 And that they should publish and proclaim in all their cities, and in Jerusalem, saying, Go forth unto the mount, and fetch olive branches, and pine branches, and myrtle branches, and palm branches, and branches of thick trees, to make booths, as it is written. 
 ^a^[**8:13** to understand…: or, that they might instruct in the words of the law] ^b^[**8:14** by: Heb. by the hand of]
 
@@ -279,13 +279,13 @@
 # 9 
 @1 Now in the twenty and fourth day of this month the children of Israel were assembled with fasting, and with sackclothes, and earth upon them. 
 @2 And the seed of Israel separated themselves from all strangers, and stood and confessed their sins, and the iniquities of their fathers.^a^ 
-@3 And they stood up in their place, and read in the book of the law of the [LORD]{.smallcaps} their God one fourth part of the day; and another fourth part they confessed, and worshipped the [LORD]{.smallcaps} their God. 
+@3 And they stood up in their place, and read in the book of the law of the LORD their God one fourth part of the day; and another fourth part they confessed, and worshipped the LORD their God. 
 ^a^[**9:2** strangers: Heb. strange children]
 
-@4 Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the [LORD]{.smallcaps} their God.^a^ 
-@5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the [LORD]{.smallcaps} your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise. 
-@6 Thou, even thou, art [LORD]{.smallcaps} alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee. 
-@7 Thou art the [LORD]{.smallcaps} the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham; 
+@4 Then stood up upon the stairs, of the Levites, Jeshua, and Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani, and cried with a loud voice unto the LORD their God.^a^ 
+@5 Then the Levites, Jeshua, and Kadmiel, Bani, Hashabniah, Sherebiah, Hodijah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God for ever and ever: and blessed be thy glorious name, which is exalted above all blessing and praise. 
+@6 Thou, even thou, art LORD alone; thou hast made heaven, the heaven of heavens, with all their host, the earth, and all things that are therein, the seas, and all that is therein, and thou preservest them all; and the host of heaven worshippeth thee. 
+@7 Thou art the LORD the God, who didst choose Abram, and broughtest him forth out of Ur of the Chaldees, and gavest him the name of Abraham; 
 @8 And foundest his heart faithful before thee, and madest a covenant with him to give the land of the Canaanites, the Hittites, the Amorites, and the Perizzites, and the Jebusites, and the Girgashites, to give it, I say, to his seed, and hast performed thy words; for thou art righteous: 
 @9 And didst see the affliction of our fathers in Egypt, and heardest their cry by the Red sea; 
 @10 And shewedst signs and wonders upon Pharaoh, and on all his servants, and on all the people of his land: for thou knewest that they dealt proudly against them. So didst thou get thee a name, as it is this day. 
@@ -350,15 +350,15 @@
 ^a^[**10:1** those…: Heb. at the sealings] ^b^[**10:1** the Tirshatha: or, the governor]
 
 @28 And the rest of the people, the priests, the Levites, the porters, the singers, the Nethinims, and all they that had separated themselves from the people of the lands unto the law of God, their wives, their sons, and their daughters, every one having knowledge, and having understanding; 
-@29 They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the [LORD]{.smallcaps} our Lord, and his judgments and his statutes;^a^ 
+@29 They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God’s law, which was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord, and his judgments and his statutes;^a^ 
 @30 And that we would not give our daughters unto the people of the land, nor take their daughters for our sons: 
 @31 And if the people of the land bring ware or any victuals on the sabbath day to sell, that we would not buy it of them on the sabbath, or on the holy day: and that we would leave the seventh year, and the exaction of every debt.^b^ 
 ^a^[**10:29** by: Heb. by the hand of] ^b^[**10:31** every…: Heb. every hand]
 
 @32 Also we made ordinances for us, to charge ourselves yearly with the third part of a shekel for the service of the house of our God; 
 @33 For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God. 
-@34 And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the [LORD]{.smallcaps} our God, as it is written in the law: 
-@35 And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the [LORD]{.smallcaps}: 
+@34 And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the LORD our God, as it is written in the law: 
+@35 And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the LORD: 
 @36 Also the firstborn of our sons, and of our cattle, as it is written in the law, and the firstlings of our herds and of our flocks, to bring to the house of our God, unto the priests that minister in the house of our God: 
 @37 And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage. 
 @38 And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house. 

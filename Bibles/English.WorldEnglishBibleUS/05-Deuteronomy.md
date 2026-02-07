@@ -1351,8 +1351,7 @@ Moses and Joshua went, and presented themselves in the Tent of Meeting.
 @8 The children of Israel wept for Moses in the plains of Moab thirty days, until the days of weeping in the mourning for Moses were ended. 
 @9 Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. The children of Israel listened to him, and did as Yahweh commanded Moses.
 
-## Appreciation of the greatness and importance of Moses
- 
+## Appreciation of the greatness and importance of Moses
 @10 Since then, there has not arisen a prophet in Israel like Moses, whom Yahweh knew face to face, 
 @11 in all the signs and the wonders which Yahweh sent him to do in the land of Egypt, to Pharaoh, and to all his servants, and to all his land, 
 @12 and in all the mighty hand, and in all the awesome deeds, which Moses did in the sight of all Israel. 

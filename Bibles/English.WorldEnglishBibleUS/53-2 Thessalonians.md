@@ -66,7 +66,6 @@
 
 @16 Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.
 
-## Personal greeting and blessing from Pablo
-
+## Personal greeting and blessing from Pablo
 @17 I, Paul, write this greeting with my own hand, which is the sign in every letter. This is how I write. 
 @18 The grace of our Lord Jesus Christ be with you all. Amen. 

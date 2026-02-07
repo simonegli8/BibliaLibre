@@ -9,25 +9,30 @@ using System.Text.RegularExpressions;
 // Epub.TableOfContentsPage = "ch001.xhtml";
 
 Epub.OmitParagraphs = false;
-Epub.Page = book => {
-    book = book+3;
+Epub.Page = book =>
+{
+    book = book + 3;
     return $"ch{book:d3}.xhtml";
 };
 Program.Language = "english";
 Program.Replace = "/LORD/[Lord]{.smallcaps}";
 // replace uppercase words with smallcaps
-Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m => {
+Program.Preprocess = txt => Regex.Replace(txt, @"[A-ZÑÓÍÉÁÚ][A-ZÑÓÍÉÁÚ]+", m =>
+{
 
-        if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline)) {
-            // is roman number
-            return m.Value;
-        }
-        var str = new StringBuilder("[");
-        str.Append(m.Value[0]);
-        for (int i = 1; i < m.Value.Length; i++) str.Append(Char.ToLower(m.Value[i]));
-        str.Append("]{.smallcaps}");
-        return str.ToString();
-    });
+    if (Regex.IsMatch(m.Value, "^[IVXCD]+$", RegexOptions.Singleline))
+    {
+        // is roman number
+        return m.Value;
+    }
+    var str = new StringBuilder("[");
+    str.Append(m.Value[0]);
+    for (int i = 1; i < m.Value.Length; i++) str.Append(Char.ToLower(m.Value[i]));
+    str.Append("]{.smallcaps}");
+    return str.ToString();
+});
 Program.EachVerseOnNewLine = true;
 
 Program.Log("Added epub rule.");
+
+//Program.ImportStrongs = true;

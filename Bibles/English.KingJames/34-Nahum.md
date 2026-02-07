@@ -1,27 +1,27 @@
 # 1 
 @1 The burden of Nineveh. The book of the vision of Nahum the Elkoshite. 
 
-@2 God is jealous, and the [LORD]{.smallcaps} revengeth; the [LORD]{.smallcaps} revengeth, and is furious; the [LORD]{.smallcaps} will take vengeance on his adversaries, and he reserveth wrath for his enemies.^a^ ^b^ 
-@3 The [LORD]{.smallcaps} is slow to anger, and great in power, and will not at all acquit the wicked: the [LORD]{.smallcaps} hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet. 
+@2 God is jealous, and the LORD revengeth; the LORD revengeth, and is furious; the LORD will take vengeance on his adversaries, and he reserveth wrath for his enemies.^a^ ^b^ 
+@3 The LORD is slow to anger, and great in power, and will not at all acquit the wicked: the LORD hath his way in the whirlwind and in the storm, and the clouds are the dust of his feet. 
 @4 He rebuketh the sea, and maketh it dry, and drieth up all the rivers: Bashan languisheth, and Carmel, and the flower of Lebanon languisheth. 
 @5 The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein. 
 @6 Who can stand before his indignation? and who can abide in the fierceness of his anger? his fury is poured out like fire, and the rocks are thrown down by him.^c^ 
-@7 The [LORD]{.smallcaps} is good, a strong hold in the day of trouble; and he knoweth them that trust in him.^d^ 
+@7 The LORD is good, a strong hold in the day of trouble; and he knoweth them that trust in him.^d^ 
 @8 But with an overrunning flood he will make an utter end of the place thereof, and darkness shall pursue his enemies. 
 ^a^[**1:2** God…: or, The LORD is a jealous God, and a revenger, etc] ^b^[**1:2** is furious: Heb. that hath fury] ^c^[**1:6** abide: Heb. stand up] ^d^[**1:7** strong hold: or, strength]
 
-@9 What do ye imagine against the [LORD]{.smallcaps}? he will make an utter end: affliction shall not rise up the second time. 
+@9 What do ye imagine against the LORD? he will make an utter end: affliction shall not rise up the second time. 
 @10 For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry. 
-@11 There is one come out of thee, that imagineth evil against the [LORD]{.smallcaps}, a wicked counsellor.^a^ 
-@12 Thus saith the [LORD]{.smallcaps}; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.^b^ ^c^ 
+@11 There is one come out of thee, that imagineth evil against the LORD, a wicked counsellor.^a^ 
+@12 Thus saith the LORD; Though they be quiet, and likewise many, yet thus shall they be cut down, when he shall pass through. Though I have afflicted thee, I will afflict thee no more.^b^ ^c^ 
 @13 For now will I break his yoke from off thee, and will burst thy bonds in sunder. 
-@14 And the [LORD]{.smallcaps} hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile. 
+@14 And the LORD hath given a commandment concerning thee, that no more of thy name be sown: out of the house of thy gods will I cut off the graven image and the molten image: I will make thy grave; for thou art vile. 
 @15 Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.^d^ ^e^
 ^a^[**1:11** a wicked…: Heb. a counsellor of Belial] ^b^[**1:12** Though…: or, If they would have been at peace, so should they have been many, and so should they have been shorn, and he should have passed away] ^c^[**1:12** cut down: Heb. shorn] ^d^[**1:15** keep…: Heb. feast] ^e^[**1:15** the wicked: Heb. Belial] 
 
 # 2 
 @1 He that dasheth in pieces is come up before thy face: keep the munition, watch the way, make thy loins strong, fortify thy power mightily.^a^ 
-@2 For the [LORD]{.smallcaps} hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.^b^ 
+@2 For the LORD hath turned away the excellency of Jacob, as the excellency of Israel: for the emptiers have emptied them out, and marred their vine branches.^b^ 
 @3 The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.^c^ ^d^ 
 @4 The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings.^e^ 
 @5 He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.^f^ ^g^ 
@@ -34,14 +34,14 @@
 
 @11 Where is the dwelling of the lions, and the feedingplace of the young lions, where the lion, even the old lion, walked, and the lion’s whelp, and none made them afraid? 
 @12 The lion did tear in pieces enough for his whelps, and strangled for his lionesses, and filled his holes with prey, and his dens with ravin. 
-@13 Behold, I am against thee, saith the [LORD]{.smallcaps} of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard. 
+@13 Behold, I am against thee, saith the LORD of hosts, and I will burn her chariots in the smoke, and the sword shall devour thy young lions: and I will cut off thy prey from the earth, and the voice of thy messengers shall no more be heard. 
 
 # 3 
 @1 Woe to the bloody city! it is all full of lies and robbery; the prey departeth not;^a^ 
 @2 The noise of a whip, and the noise of the rattling of the wheels, and of the pransing horses, and of the jumping chariots. 
 @3 The horseman lifteth up both the bright sword and the glittering spear: and there is a multitude of slain, and a great number of carcases; and there is none end of their corpses; they stumble upon their corpses:^b^ 
 @4 Because of the multitude of the whoredoms of the wellfavoured harlot, the mistress of witchcrafts, that selleth nations through her whoredoms, and families through her witchcrafts. 
-@5 Behold, I am against thee, saith the [LORD]{.smallcaps} of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame. 
+@5 Behold, I am against thee, saith the LORD of hosts; and I will discover thy skirts upon thy face, and I will shew the nations thy nakedness, and the kingdoms thy shame. 
 @6 And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock. 
 @7 And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee? 
 ^a^[**3:1** bloody…: Heb. city of bloods] ^b^[**3:3** the bright…: Heb. the flame of the sword, and the lightning of the spear]

@@ -1425,8 +1425,7 @@ He said, “Swear to me by God that you will not kill me and not deliver me up i
 
 @7 When the men of Israel who were on the other side of the valley, and those who were beyond the Jordan, saw that the men of Israel fled and that Saul and his sons were dead, they abandoned the cities and fled; and the Philistines came and lived in them.
 
-## The fate of the corpses of Saul and his sons
- 
+## The fate of the corpses of Saul and his sons
 @8 On the next day, when the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa. 
 @9 They cut off his head, stripped off his armor, and sent into the land of the Philistines all around, to carry the news to the house of their idols and to the people. 
 @10 They put his armor in the house of the Ashtaroth, and they fastened his body to the wall of Beth Shan. 

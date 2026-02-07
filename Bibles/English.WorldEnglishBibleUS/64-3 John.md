@@ -20,8 +20,7 @@
 @11 Beloved, don’t imitate that which is evil, but that which is good. He who does good is of God. He who does evil hasn’t seen God. 
 @12 Demetrius has the testimony of all, and of the truth itself; yes, we also testify, and you know that our testimony is true.
 
-## Closing letter; Cheers
-
+## Closing letter; Cheers
 @13 I had many things to write to you, but I am unwilling to write to you with ink and pen; 
 @14 but I hope to see you soon. Then we will speak face to face. 
 

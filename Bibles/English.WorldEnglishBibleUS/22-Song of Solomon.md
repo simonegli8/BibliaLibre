@@ -228,8 +228,7 @@
  
 @10 I am a wall, and my breasts like towers, then I was in his eyes like one who found peace.
 
-## Song of the two vineyards
- 
+## Song of the two vineyards
 @11 Solomon had a vineyard at Baal Hamon. He leased out the vineyard to keepers. Each was to bring a thousand shekels^c^ of silver for its fruit. 
 @12 My own vineyard is before me. The thousand are for you, Solomon, two hundred for those who tend its fruit. \
 *Lover* \

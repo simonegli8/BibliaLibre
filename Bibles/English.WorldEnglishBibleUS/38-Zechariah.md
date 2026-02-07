@@ -364,8 +364,7 @@ He said, “This is the ephah^a^ basket that is appearing.” He said moreover, 
 @18 If the family of Egypt doesn’t go up and doesn’t come, neither will it rain on them. This will be the plague with which Yahweh will strike the nations that don’t go up to keep the feast of booths. 
 @19 This will be the punishment of Egypt and the punishment of all the nations that don’t go up to keep the feast of booths.
 
-## In Judah and Jerusalem, even the most common objects of use will be sanctified
-
+## In Judah and Jerusalem, even the most common objects of use will be sanctified
 @20 In that day there will be inscribed on the bells of the horses, “HOLY TO YAHWEH”; and the pots in Yahweh’s house will be like the bowls before the altar. 
 @21 Yes, every pot in Jerusalem and in Judah will be holy to Yahweh of Armies; and all those who sacrifice will come and take of them, and cook in them. In that day there will no longer be a Canaanite^a^ in the house of Yahweh of Armies. 
 ^a^[**14:21** or, merchant]

@@ -2058,8 +2058,7 @@ So Judah was carried away captive out of his land.
 @29 in the eighteenth year of Nebuchadnezzar, he carried away captive from Jerusalem eight hundred thirty-two persons; 
 @30 in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the guard carried away captive of the Jews seven hundred forty-five people. All the people numbered four thousand six hundred.
 
-## Johachín pardoned after thirty-seven years in prison
-
+## Johachín pardoned after thirty-seven years in prison
 @31 In the thirty-seventh year of the captivity of Jehoiachin king of Judah, in the twelfth month, in the twenty-fifth day of the month, Evilmerodach king of Babylon, in the first year of his reign, lifted up the head of Jehoiachin king of Judah, and released him from prison. 
 @32 He spoke kindly to him, and set his throne above the throne of the kings who were with him in Babylon, 
 @33 and changed his prison garments. Jehoiachin ate bread before him continually all the days of his life. 

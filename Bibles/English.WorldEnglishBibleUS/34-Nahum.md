@@ -64,7 +64,6 @@
 @16 You have increased your merchants more than the stars of the skies. The grasshopper strips and flees away. 
 @17 Your guards are like the locusts, and your officials like the swarms of locusts, which settle on the walls on a cold day, but when the sun appears, they flee away, and their place is not known where they are.
 
-## A dirge in Nineveh
-
+## A dirge in Nineveh
 @18 Your shepherds slumber, king of Assyria. Your nobles lie down. Your people are scattered on the mountains, and there is no one to gather them. 
 @19 There is no healing your wound, for your injury is fatal. All who hear the report of you clap their hands over you, for who hasn’t felt your endless cruelty? 

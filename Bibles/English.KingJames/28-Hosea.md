@@ -1,14 +1,14 @@
 # 1 
-@1 The word of the [LORD]{.smallcaps} that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. 
+@1 The word of the LORD that came unto Hosea, the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel. 
 
-@2 The beginning of the word of the [LORD]{.smallcaps} by Hosea. And the [LORD]{.smallcaps} said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the [LORD]{.smallcaps}. 
+@2 The beginning of the word of the LORD by Hosea. And the LORD said to Hosea, Go, take unto thee a wife of whoredoms and children of whoredoms: for the land hath committed great whoredom, departing from the LORD. 
 @3 So he went and took Gomer the daughter of Diblaim; which conceived, and bare him a son. 
-@4 And the [LORD]{.smallcaps} said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.^a^ 
+@4 And the LORD said unto him, Call his name Jezreel; for yet a little while, and I will avenge the blood of Jezreel upon the house of Jehu, and will cause to cease the kingdom of the house of Israel.^a^ 
 @5 And it shall come to pass at that day, that I will break the bow of Israel in the valley of Jezreel. 
 ^a^[**1:4** avenge: Heb. visit]
 
 @6 And she conceived again, and bare a daughter. And God said unto him, Call her name Lo-ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.^a^ ^b^ ^c^ 
-@7 But I will have mercy upon the house of Judah, and will save them by the [LORD]{.smallcaps} their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. 
+@7 But I will have mercy upon the house of Judah, and will save them by the LORD their God, and will not save them by bow, nor by sword, nor by battle, by horses, nor by horsemen. 
 ^a^[**1:6** Lo-ruhamah: that is, Not having obtained mercy] ^b^[**1:6** no…: Heb. not add any more to] ^c^[**1:6** but…: or, that I should altogether pardon them]
 
 @8 Now when she had weaned Lo-ruhamah, she conceived, and bare a son. 
@@ -34,31 +34,31 @@
 @10 And now will I discover her lewdness in the sight of her lovers, and none shall deliver her out of mine hand.^e^ 
 @11 I will also cause all her mirth to cease, her feast days, her new moons, and her sabbaths, and all her solemn feasts. 
 @12 And I will destroy her vines and her fig trees, whereof she hath said, These are my rewards that my lovers have given me: and I will make them a forest, and the beasts of the field shall eat them.^f^ 
-@13 And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the [LORD]{.smallcaps}. 
+@13 And I will visit upon her the days of Baalim, wherein she burned incense to them, and she decked herself with her earrings and her jewels, and she went after her lovers, and forgat me, saith the LORD. 
 ^a^[**2:6** make…: Heb. wall a wall] ^b^[**2:8** wine: Heb. new wine] ^c^[**2:8** which…: or, wherewith they made Baal] ^d^[**2:9** recover: or, take away] ^e^[**2:10** lewdness: Heb. folly, or, villany] ^f^[**2:12** destroy: Heb. make desolate]
 
 @14 Therefore, behold, I will allure her, and bring her into the wilderness, and speak comfortably unto her.^a^ 
 @15 And I will give her her vineyards from thence, and the valley of Achor for a door of hope: and she shall sing there, as in the days of her youth, and as in the day when she came up out of the land of Egypt. 
-@16 And it shall be at that day, saith the [LORD]{.smallcaps}, that thou shalt call me Ishi; and shalt call me no more Baali.^b^ ^c^ 
+@16 And it shall be at that day, saith the LORD, that thou shalt call me Ishi; and shalt call me no more Baali.^b^ ^c^ 
 @17 For I will take away the names of Baalim out of her mouth, and they shall no more be remembered by their name. 
 @18 And in that day will I make a covenant for them with the beasts of the field, and with the fowls of heaven, and with the creeping things of the ground: and I will break the bow and the sword and the battle out of the earth, and will make them to lie down safely. 
 @19 And I will betroth thee unto me for ever; yea, I will betroth thee unto me in righteousness, and in judgment, and in lovingkindness, and in mercies. 
-@20 I will even betroth thee unto me in faithfulness: and thou shalt know the [LORD]{.smallcaps}. 
-@21 And it shall come to pass in that day, I will hear, saith the [LORD]{.smallcaps}, I will hear the heavens, and they shall hear the earth; 
+@20 I will even betroth thee unto me in faithfulness: and thou shalt know the LORD. 
+@21 And it shall come to pass in that day, I will hear, saith the LORD, I will hear the heavens, and they shall hear the earth; 
 @22 And the earth shall hear the corn, and the wine, and the oil; and they shall hear Jezreel. 
 @23 And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.
 ^a^[**2:14** comfortably: or, friendly: Heb. to her heart] ^b^[**2:16** Ishi: that is, My husband] ^c^[**2:16** Baali: that is, My lord] 
 
 # 3 
-@1 Then said the [LORD]{.smallcaps} unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the [LORD]{.smallcaps} toward the children of Israel, who look to other gods, and love flagons of wine.^a^ 
+@1 Then said the LORD unto me, Go yet, love a woman beloved of her friend, yet an adulteress, according to the love of the LORD toward the children of Israel, who look to other gods, and love flagons of wine.^a^ 
 @2 So I bought her to me for fifteen pieces of silver, and for an homer of barley, and an half homer of barley:^b^ 
 @3 And I said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be for another man: so will I also be for thee. 
 @4 For the children of Israel shall abide many days without a king, and without a prince, and without a sacrifice, and without an image, and without an ephod, and without teraphim:^c^ 
-@5 Afterward shall the children of Israel return, and seek the [LORD]{.smallcaps} their God, and David their king; and shall fear the [LORD]{.smallcaps} and his goodness in the latter days.
+@5 Afterward shall the children of Israel return, and seek the LORD their God, and David their king; and shall fear the LORD and his goodness in the latter days.
 ^a^[**3:1** of wine: Heb. of grapes] ^b^[**3:2** half…: Heb. lethech] ^c^[**3:4** image: Heb. a standing, or, statue, or, pillar] 
 
 # 4 
-@1 Hear the word of the [LORD]{.smallcaps}, ye children of Israel: for the [LORD]{.smallcaps} hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. 
+@1 Hear the word of the LORD, ye children of Israel: for the LORD hath a controversy with the inhabitants of the land, because there is no truth, nor mercy, nor knowledge of God in the land. 
 @2 By swearing, and lying, and killing, and stealing, and committing adultery, they break out, and blood toucheth blood.^a^ 
 @3 Therefore shall the land mourn, and every one that dwelleth therein shall languish, with the beasts of the field, and with the fowls of heaven; yea, the fishes of the sea also shall be taken away. 
 @4 Yet let no man strive, nor reprove another: for thy people are as they that strive with the priest. 
@@ -69,7 +69,7 @@
 @7 As they were increased, so they sinned against me: therefore will I change their glory into shame. 
 @8 They eat up the sin of my people, and they set their heart on their iniquity.^b^ 
 @9 And there shall be, like people, like priest: and I will punish them for their ways, and reward them their doings.^c^ ^d^ 
-@10 For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the [LORD]{.smallcaps}. 
+@10 For they shall eat, and not have enough: they shall commit whoredom, and shall not increase: because they have left off to take heed to the LORD. 
 @11 Whoredom and wine and new wine take away the heart. 
 ^a^[**4:6** destroyed: Heb. cut off] ^b^[**4:8** set…: Heb. lift up their soul to] ^c^[**4:9** punish: Heb. visit upon] ^d^[**4:9** reward: Heb. cause to return]
 
@@ -78,8 +78,8 @@
 @14 I will not punish your daughters when they commit whoredom, nor your spouses when they commit adultery: for themselves are separated with whores, and they sacrifice with harlots: therefore the people that doth not understand shall fall.^a^ ^b^ 
 ^a^[**4:14** I will not: or, Shall I not] ^b^[**4:14** fall: or, be punished]
 
-@15 Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The [LORD]{.smallcaps} liveth. 
-@16 For Israel slideth back as a backsliding heifer: now the [LORD]{.smallcaps} will feed them as a lamb in a large place. 
+@15 Though thou, Israel, play the harlot, yet let not Judah offend; and come not ye unto Gilgal, neither go ye up to Beth-aven, nor swear, The LORD liveth. 
+@16 For Israel slideth back as a backsliding heifer: now the LORD will feed them as a lamb in a large place. 
 @17 Ephraim is joined to idols: let him alone. 
 @18 Their drink is sour: they have committed whoredom continually: her rulers with shame do love, Give ye.^a^ ^b^ 
 @19 The wind hath bound her up in her wings, and they shall be ashamed because of their sacrifices.
@@ -89,10 +89,10 @@
 @1 Hear ye this, O priests; and hearken, ye house of Israel; and give ye ear, O house of the king; for judgment is toward you, because ye have been a snare on Mizpah, and a net spread upon Tabor. 
 @2 And the revolters are profound to make slaughter, though I have been a rebuker of them all.^a^ ^b^ 
 @3 I know Ephraim, and Israel is not hid from me: for now, O Ephraim, thou committest whoredom, and Israel is defiled. 
-@4 They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the [LORD]{.smallcaps}.^c^ ^d^ 
+@4 They will not frame their doings to turn unto their God: for the spirit of whoredoms is in the midst of them, and they have not known the LORD.^c^ ^d^ 
 @5 And the pride of Israel doth testify to his face: therefore shall Israel and Ephraim fall in their iniquity; Judah also shall fall with them. 
-@6 They shall go with their flocks and with their herds to seek the [LORD]{.smallcaps}; but they shall not find him; he hath withdrawn himself from them. 
-@7 They have dealt treacherously against the [LORD]{.smallcaps}: for they have begotten strange children: now shall a month devour them with their portions. 
+@6 They shall go with their flocks and with their herds to seek the LORD; but they shall not find him; he hath withdrawn himself from them. 
+@7 They have dealt treacherously against the LORD: for they have begotten strange children: now shall a month devour them with their portions. 
 ^a^[**5:2** though: or, and] ^b^[**5:2** a rebuker: Heb. a correction] ^c^[**5:4** They will…: or, Their doings will not suffer them] ^d^[**5:4** frame: Heb. give]
 
 @8 Blow ye the cornet in Gibeah, and the trumpet in Ramah: cry aloud at Beth-aven, after thee, O Benjamin. 
@@ -108,9 +108,9 @@
 ^a^[**5:15** acknowledge…: Heb. be guilty] 
 
 # 6 
-@1 Come, and let us return unto the [LORD]{.smallcaps}: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. 
+@1 Come, and let us return unto the LORD: for he hath torn, and he will heal us; he hath smitten, and he will bind us up. 
 @2 After two days will he revive us: in the third day he will raise us up, and we shall live in his sight. 
-@3 Then shall we know, if we follow on to know the [LORD]{.smallcaps}: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth. 
+@3 Then shall we know, if we follow on to know the LORD: his going forth is prepared as the morning; and he shall come unto us as the rain, as the latter and former rain unto the earth. 
 
 @4 O Ephraim, what shall I do unto thee? O Judah, what shall I do unto thee? for your goodness is as a morning cloud, and as the early dew it goeth away.^a^ 
 @5 Therefore have I hewed them by the prophets; I have slain them by the words of my mouth: and thy judgments are as the light that goeth forth.^b^ 
@@ -134,7 +134,7 @@
 
 @8 Ephraim, he hath mixed himself among the people; Ephraim is a cake not turned. 
 @9 Strangers have devoured his strength, and he knoweth it not: yea, gray hairs are here and there upon him, yet he knoweth not.^a^ 
-@10 And the pride of Israel testifieth to his face: and they do not return to the [LORD]{.smallcaps} their God, nor seek him for all this. 
+@10 And the pride of Israel testifieth to his face: and they do not return to the LORD their God, nor seek him for all this. 
 ^a^[**7:9** here…: Heb. sprinkled]
 
 @11 Ephraim also is like a silly dove without heart: they call to Egypt, they go to Assyria. 
@@ -146,7 +146,7 @@
 ^a^[**7:13** destruction: Heb. spoil] ^b^[**7:15** have…: or, chastened] 
 
 # 8 
-@1 Set the trumpet to thy mouth. He shall come as an eagle against the house of the [LORD]{.smallcaps}, because they have transgressed my covenant, and trespassed against my law.^a^ 
+@1 Set the trumpet to thy mouth. He shall come as an eagle against the house of the LORD, because they have transgressed my covenant, and trespassed against my law.^a^ 
 @2 Israel shall cry unto me, My God, we know thee. 
 @3 Israel hath cast off the thing that is good: the enemy shall pursue him. 
 @4 They have set up kings, but not by me: they have made princes, and I knew it not: of their silver and their gold have they made them idols, that they may be cut off. 
@@ -162,16 +162,16 @@
 @10 Yea, though they have hired among the nations, now will I gather them, and they shall sorrow a little for the burden of the king of princes.^b^ ^c^ 
 @11 Because Ephraim hath made many altars to sin, altars shall be unto him to sin. 
 @12 I have written to him the great things of my law, but they were counted as a strange thing. 
-@13 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the [LORD]{.smallcaps} accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.^d^ 
+@13 They sacrifice flesh for the sacrifices of mine offerings, and eat it; but the LORD accepteth them not; now will he remember their iniquity, and visit their sins: they shall return to Egypt.^d^ 
 @14 For Israel hath forgotten his Maker, and buildeth temples; and Judah hath multiplied fenced cities: but I will send a fire upon his cities, and it shall devour the palaces thereof.
 ^a^[**8:9** lovers: Heb. loves] ^b^[**8:10** sorrow: or, begin] ^c^[**8:10** a…: or, in a little while] ^d^[**8:13** They sacrifice…: or, In the sacrifices of mine offerings they, etc] 
 
 # 9 
 @1 Rejoice not, O Israel, for joy, as other people: for thou hast gone a whoring from thy God, thou hast loved a reward upon every cornfloor.^a^ 
 @2 The floor and the winepress shall not feed them, and the new wine shall fail in her.^b^ 
-@3 They shall not dwell in the [LORD’s]{.smallcaps} land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria. 
-@4 They shall not offer wine offerings to the [LORD]{.smallcaps}, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the [LORD]{.smallcaps}. 
-@5 What will ye do in the solemn day, and in the day of the feast of the [LORD]{.smallcaps}? 
+@3 They shall not dwell in the LORD’S land; but Ephraim shall return to Egypt, and they shall eat unclean things in Assyria. 
+@4 They shall not offer wine offerings to the LORD, neither shall they be pleasing unto him: their sacrifices shall be unto them as the bread of mourners; all that eat thereof shall be polluted: for their bread for their soul shall not come into the house of the LORD. 
+@5 What will ye do in the solemn day, and in the day of the feast of the LORD? 
 @6 For, lo, they are gone because of destruction: Egypt shall gather them up, Memphis shall bury them: the pleasant places for their silver, nettles shall possess them: thorns shall be in their tabernacles.^c^ ^d^ 
 ^a^[**9:1** upon: or, in, etc] ^b^[**9:2** winepress: or, winefat] ^c^[**9:6** destruction: Heb. spoil] ^d^[**9:6** the…: or, their silver shall be desired, the nettle, etc.: Heb. the desire]
 
@@ -184,7 +184,7 @@
 @11 As for Ephraim, their glory shall fly away like a bird, from the birth, and from the womb, and from the conception. 
 @12 Though they bring up their children, yet will I bereave them, that there shall not be a man left: yea, woe also to them when I depart from them! 
 @13 Ephraim, as I saw Tyrus, is planted in a pleasant place: but Ephraim shall bring forth his children to the murderer. 
-@14 Give them, O [LORD]{.smallcaps}: what wilt thou give? give them a miscarrying womb and dry breasts.^a^ 
+@14 Give them, O LORD: what wilt thou give? give them a miscarrying womb and dry breasts.^a^ 
 @15 All their wickedness is in Gilgal: for there I hated them: for the wickedness of their doings I will drive them out of mine house, I will love them no more: all their princes are revolters. 
 @16 Ephraim is smitten, their root is dried up, they shall bear no fruit: yea, though they bring forth, yet will I slay even the beloved fruit of their womb.^b^ 
 @17 My God will cast them away, because they did not hearken unto him: and they shall be wanderers among the nations.
@@ -193,7 +193,7 @@
 # 10 
 @1 Israel is an empty vine, he bringeth forth fruit unto himself: according to the multitude of his fruit he hath increased the altars; according to the goodness of his land they have made goodly images.^a^ ^b^ 
 @2 Their heart is divided; now shall they be found faulty: he shall break down their altars, he shall spoil their images.^c^ ^d^ ^e^ 
-@3 For now they shall say, We have no king, because we feared not the [LORD]{.smallcaps}; what then should a king do to us? 
+@3 For now they shall say, We have no king, because we feared not the LORD; what then should a king do to us? 
 @4 They have spoken words, swearing falsely in making a covenant: thus judgment springeth up as hemlock in the furrows of the field. 
 @5 The inhabitants of Samaria shall fear because of the calves of Beth-aven: for the people thereof shall mourn over it, and the priests thereof that rejoiced on it, for the glory thereof, because it is departed from it.^f^ 
 @6 It shall be also carried unto Assyria for a present to king Jareb: Ephraim shall receive shame, and Israel shall be ashamed of his own counsel. 
@@ -204,7 +204,7 @@
 @9 O Israel, thou hast sinned from the days of Gibeah: there they stood: the battle in Gibeah against the children of iniquity did not overtake them. 
 @10 It is in my desire that I should chastise them; and the people shall be gathered against them, when they shall bind themselves in their two furrows.^a^ 
 @11 And Ephraim is as an heifer that is taught, and loveth to tread out the corn; but I passed over upon her fair neck: I will make Ephraim to ride; Judah shall plow, and Jacob shall break his clods.^b^ 
-@12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the [LORD]{.smallcaps}, till he come and rain righteousness upon you. 
+@12 Sow to yourselves in righteousness, reap in mercy; break up your fallow ground: for it is time to seek the LORD, till he come and rain righteousness upon you. 
 @13 Ye have plowed wickedness, ye have reaped iniquity; ye have eaten the fruit of lies: because thou didst trust in thy way, in the multitude of thy mighty men. 
 @14 Therefore shall a tumult arise among thy people, and all thy fortresses shall be spoiled, as Shalman spoiled Beth-arbel in the day of battle: the mother was dashed in pieces upon her children. 
 @15 So shall Beth-el do unto you because of your great wickedness: in a morning shall the king of Israel utterly be cut off.^c^
@@ -224,29 +224,29 @@
 
 @8 How shall I give thee up, Ephraim? how shall I deliver thee, Israel? how shall I make thee as Admah? how shall I set thee as Zeboim? mine heart is turned within me, my repentings are kindled together. 
 @9 I will not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee: and I will not enter into the city. 
-@10 They shall walk after the [LORD]{.smallcaps}: he shall roar like a lion: when he shall roar, then the children shall tremble from the west. 
-@11 They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the [LORD]{.smallcaps}. 
+@10 They shall walk after the LORD: he shall roar like a lion: when he shall roar, then the children shall tremble from the west. 
+@11 They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the LORD. 
 @12 Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.^a^
 ^a^[**11:12** saints: or, most holy] 
 
 # 12 
 @1 Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt. 
-@2 The [LORD]{.smallcaps} hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.^a^ 
+@2 The LORD hath also a controversy with Judah, and will punish Jacob according to his ways; according to his doings will he recompense him.^a^ 
 ^a^[**12:2** punish: Heb. visit upon]
 
 @3 He took his brother by the heel in the womb, and by his strength he had power with God:^a^ 
 @4 Yea, he had power over the angel, and prevailed: he wept, and made supplication unto him: he found him in Beth-el, and there he spake with us; 
-@5 Even the [LORD]{.smallcaps} God of hosts; the [LORD]{.smallcaps} is his memorial. 
+@5 Even the LORD God of hosts; the LORD is his memorial. 
 @6 Therefore turn thou to thy God: keep mercy and judgment, and wait on thy God continually. 
 ^a^[**12:3** had…: Heb. was a prince, or, behaved himself princely]
 
 @7 He is a merchant, the balances of deceit are in his hand: he loveth to oppress.^a^ ^b^ 
 @8 And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.^c^ ^d^ 
-@9 And I that am the [LORD]{.smallcaps} thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast. 
+@9 And I that am the LORD thy God from the land of Egypt will yet make thee to dwell in tabernacles, as in the days of the solemn feast. 
 @10 I have also spoken by the prophets, and I have multiplied visions, and used similitudes, by the ministry of the prophets.^e^ 
 @11 Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields. 
 @12 And Jacob fled into the country of Syria, and Israel served for a wife, and for a wife he kept sheep. 
-@13 And by a prophet the [LORD]{.smallcaps} brought Israel out of Egypt, and by a prophet was he preserved. 
+@13 And by a prophet the LORD brought Israel out of Egypt, and by a prophet was he preserved. 
 @14 Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.^f^ ^g^
 ^a^[**12:7** a merchant: or, Canaan] ^b^[**12:7** oppress: or, deceive] ^c^[**12:8** in all…: or, all my labours suffice me not: he shall have punishment of iniquity in whom is sin] ^d^[**12:8** that: Heb. which] ^e^[**12:10** ministry: Heb. hand] ^f^[**12:14** most…: Heb. with bitternesses] ^g^[**12:14** blood: Heb. bloods] 
 
@@ -254,7 +254,7 @@
 @1 When Ephraim spake trembling, he exalted himself in Israel; but when he offended in Baal, he died. 
 @2 And now they sin more and more, and have made them molten images of their silver, and idols according to their own understanding, all of it the work of the craftsmen: they say of them, Let the men that sacrifice kiss the calves.^a^ ^b^ 
 @3 Therefore they shall be as the morning cloud, and as the early dew that passeth away, as the chaff that is driven with the whirlwind out of the floor, and as the smoke out of the chimney. 
-@4 Yet I am the [LORD]{.smallcaps} thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me. 
+@4 Yet I am the LORD thy God from the land of Egypt, and thou shalt know no god but me: for there is no saviour beside me. 
 ^a^[**13:2** they sin…: Heb. they add to sin] ^b^[**13:2** the men…: or, the sacrificers of men]
 
 @5 I did know thee in the wilderness, in the land of great drought.^a^ 
@@ -271,13 +271,13 @@
 @14 I will ransom them from the power of the grave; I will redeem them from death: O death, I will be thy plagues; O grave, I will be thy destruction: repentance shall be hid from mine eyes.^d^ 
 ^a^[**13:9** is…: Heb. in thy help] ^b^[**13:10** I will…: rather, Where is thy king?] ^c^[**13:13** long: Heb. a time] ^d^[**13:14** power: Heb. hand]
 
-@15 Though he be fruitful among his brethren, an east wind shall come, the wind of the [LORD]{.smallcaps} shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.^a^ 
+@15 Though he be fruitful among his brethren, an east wind shall come, the wind of the LORD shall come up from the wilderness, and his spring shall become dry, and his fountain shall be dried up: he shall spoil the treasure of all pleasant vessels.^a^ 
 @16 Samaria shall become desolate; for she hath rebelled against her God: they shall fall by the sword: their infants shall be dashed in pieces, and their women with child shall be ripped up.
 ^a^[**13:15** pleasant…: Heb. vessels of desire] 
 
 # 14 
-@1 O Israel, return unto the [LORD]{.smallcaps} thy God; for thou hast fallen by thine iniquity. 
-@2 Take with you words, and turn to the [LORD]{.smallcaps}: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.^a^ 
+@1 O Israel, return unto the LORD thy God; for thou hast fallen by thine iniquity. 
+@2 Take with you words, and turn to the LORD: say unto him, Take away all iniquity, and receive us graciously: so will we render the calves of our lips.^a^ 
 @3 Asshur shall not save us; we will not ride upon horses: neither will we say any more to the work of our hands, Ye are our gods: for in thee the fatherless findeth mercy. 
 ^a^[**14:2** receive…: or, give good]
 
@@ -288,4 +288,4 @@
 ^a^[**14:5** grow: or, blossom] ^b^[**14:5** cast…: Heb. strike] ^c^[**14:6** spread: Heb. go] ^d^[**14:7** grow: or, blossom] ^e^[**14:7** scent: or, memorial]
 
 @8 Ephraim shall say, What have I to do any more with idols? I have heard him, and observed him: I am like a green fir tree. From me is thy fruit found. 
-@9 Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the [LORD]{.smallcaps} are right, and the just shall walk in them: but the transgressors shall fall therein. 
+@9 Who is wise, and he shall understand these things? prudent, and he shall know them? for the ways of the LORD are right, and the just shall walk in them: but the transgressors shall fall therein. 

@@ -1294,8 +1294,7 @@ All the assembly blessed Yahweh, the God of their fathers, and bowed down their 
 @24 All the princes, the mighty men, and also all of the sons of King David submitted themselves to Solomon the king. 
 @25 Yahweh magnified Solomon exceedingly in the sight of all Israel, and gave to him such royal majesty as had not been on any king before him in Israel.
 
-## The end of David and the sources of his story
-
+## The end of David and the sources of his story
 @26 Now David the son of Jesse reigned over all Israel. 
 @27 The time that he reigned over Israel was forty years; he reigned seven years in Hebron, and he reigned thirty-three years in Jerusalem. 
 @28 He died at a good old age, full of days, riches, and honor; and Solomon his son reigned in his place. 
