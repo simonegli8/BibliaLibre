@@ -1,14 +1,21 @@
-\documentclass[10pt, a5paper, twoside]{extbook}
+\documentclass[9pt, a5paper, twoside]{extbook}
 \usepackage[spanish]{babel}
 \usepackage[twoside, bindingoffset=7mm, verbose, marginratio={4:3,1:1},
-  textwidth=118.3mm, height=180.6mm, nofoot]{geometry}
-
+  textwidth=118.3mm, height=180.6mm, nofoot, showframe]{geometry}
+\usepackage{layout}
 \input{../../../tex/preamble.tex}
+
+\setmainfont{BibleRoman Condensed}
+            [UprightFont = *,
+             BoldFont = *Bold,
+             ItalicFont = *Italic,
+             Ligatures=TeX]
 
 \renewcommand{\baselinestretch}{1.1} % line spacing
 
 \begin{document}
 
+\layout
 %\includepdf{HardCover.pdf}
 
 \null\vfill
@@ -25,6 +32,6 @@
 %\end{center}
 %\newpage
 
-\input{Biblia-Test.tex}
+\input{Biblia.A5.tex}
 
 \end{document}
