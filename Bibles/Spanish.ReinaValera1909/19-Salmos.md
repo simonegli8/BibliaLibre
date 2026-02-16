@@ -2943,7 +2943,6 @@
 
 # 150 
 ## ¡Todo lo que respira, alabado sea el Señor!
-@
 @1 Aleluya. Alabad á Dios en su santuario: alabadle en la extensión de su fortaleza. 
 @2 Alabadle por sus proezas: alabadle conforme á la muchedumbre de su grandeza. 
 @3 Alabadle á son de bocina: alabadle con salterio y arpa. 

@@ -124,7 +124,7 @@
 @11 Y dijeron todos los del pueblo que estaban á la puerta con los ancianos: Testigos somos. Jehová haga á la mujer que entra en tu casa como á Rachêl y á Lea, las cuales dos edificaron la casa de Israel; y tú seas ilustre en Ephrata, y tengas nombradía en Beth-lehem; 
 @12 Y de la simiente que Jehová te diere de aquesta moza, sea tu casa como la casa de Phares, al que parió Thamar á Judá.
 
-## El matrimonio de Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
+## El matrimonio de Des Booz con Rut se completó y fue bendecido con el nacimiento de Obed; Índice de género de Pérez a David
 @13 Booz pues tomó á Ruth, y ella fué su mujer; y luego que entró á ella, Jehová le dió que concibiese y pariese un hijo. 
 @14 Y las mujeres decían á Noemi: Loado sea Jehová, que hizo que no te faltase hoy pariente, cuyo nombre será nombrado en Israel. 
 @15 El cual será restaurador de tu alma, y el que sustentará tu vejez; pues que tu nuera, la cual te ama y te vale más que siete hijos, le ha parido. 
