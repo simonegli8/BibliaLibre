@@ -1,21 +1,26 @@
-\documentclass[9pt, a5paper, twoside]{extbook}
+\documentclass[11pt, a5paper, twoside]{extbook}
 \usepackage[spanish]{babel}
 \usepackage[twoside, bindingoffset=7mm, verbose, marginratio={4:3,1:1},
-  textwidth=118.3mm, height=180.6mm, nofoot, showframe]{geometry}
-\usepackage{layout}
+  textwidth=125mm, height=194mm, headsep=2mm, top=10mm, nofoot]{geometry}
+%\usepackage{layout}
+\usepackage{setspace}
+
 \input{../../../tex/preamble.tex}
 
-\setmainfont{BibleRoman Condensed}
+\setmainfont{BibleRomanCondensed}
             [UprightFont = *,
              BoldFont = *Bold,
              ItalicFont = *Italic,
              Ligatures=TeX]
 
-\renewcommand{\baselinestretch}{1.1} % line spacing
-
+\setstretch{0.8} % line spacing
+\setlength{\lineskip}{0pt}
+\setlength{\lineskiplimit}{0pt} % line spacing
+%\linespread{0.4} % line spacing
+\setlength{\parindent}{3mm}
 \begin{document}
 
-\layout
+%\layout
 %\includepdf{HardCover.pdf}
 
 \null\vfill
