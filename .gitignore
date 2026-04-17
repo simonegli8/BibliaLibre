@@ -9,6 +9,8 @@
 **/out/pdf/
 **/out/html/
 **/out/epub/
+**/out/osis/
+**/out/sword/
 
 # User-specific files
 *.rsuser
