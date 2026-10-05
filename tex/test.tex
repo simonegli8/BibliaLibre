@@ -6,13 +6,13 @@ textwidth=143.3mm,height=218.6mm, nofoot, showframe]{geometry}
 
 \begin{document}
 
-\includepdf{FrontCover.pdf}
+\includepdf{../Bibles/Spanish.ReinaValera1909/tex/HardCover.pdf}
 
 \null\vfill
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{Titulo.pdf}
+  \includegraphics{../Bibles/Spanish.ReinaValera1909/tex/Titulo.pdf}
   \end{center}
 \end{minipage}
 \end{center}
@@ -58,7 +58,7 @@ Imprenta: Imprenta Jigatsa, Managua, Nicaragua\\
 \newpage
 
 \titleformat{\section}[hang]{\bfseries\huge}{}{0ex}{}[]
-\input{tex/00-prefacio.tex}
+\input{../Bibles/Spanish.ReinaValera1909/out/tex/00.2-prefacio.tex}
 \titleformat{\section}[wrap]{\bfseries\huge}{}{0ex}{}[]
 
 \tableofcontents
@@ -68,7 +68,7 @@ Imprenta: Imprenta Jigatsa, Managua, Nicaragua\\
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{AntiguoTestamentoTitulo.pdf}
+  \includegraphics{../Bibles/Spanish.ReinaValera1909/tex/AntiguoTestamentoTitulo.pdf}
   \end{center}
 \end{minipage}
 \end{center}
@@ -82,17 +82,19 @@ Imprenta: Imprenta Jigatsa, Managua, Nicaragua\\
 
 \chapter{Génesis}
 \begin{multicols}{2}
-  \input{tex/01-Génesis.tex}
+  \input{../Bibles/Spanish.ReinaValera1909/out/tex/01-Génesis.tex}
 \end{multicols}
 
-\chapter{Salmos}
+\newpage
+
 \begin{multicols}{2}
-  \input{tex/19-Salmos.tex}
+  \chapter{Salmos}
+  \input{../Bibles/Spanish.ReinaValera1909/out/tex/19-Salmos.tex}
 \end{multicols}
 
 \chapter{Proverbios}
 \begin{multicols}{2}
-  \input{tex/20-Proverbios.tex}
+  \input{../Bibles/Spanish.ReinaValera1909/out/tex/20-Proverbios.tex}
 \end{multicols}
 \newpage
 
@@ -102,7 +104,7 @@ Imprenta: Imprenta Jigatsa, Managua, Nicaragua\\
 \begin{center}
 \begin{minipage}[c]{\textwidth}
   \begin{center}
-  \includegraphics{NuevoTestamentoTitulo.pdf}
+  \includegraphics{../Bibles/Spanish.ReinaValera1909/tex/NuevoTestamentoTitulo.pdf}
   \end{center}
 \end{minipage}
 \end{center}

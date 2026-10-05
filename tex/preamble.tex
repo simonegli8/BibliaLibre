@@ -21,7 +21,26 @@
 \usepackage[x-1a]{pdfx}
 %\usepackage{bidi}
 \usepackage{multicol}
-\titlespacing*{\chapter}{0mm}{0mm}{0mm}
+\usepackage{wrapfig}
+\usepackage{xparse}
+
+% Do not start a chapter on a new page: extbook's \chapter begins with \cleardoublepage (\clearpage with
+% openany) and \thispagestyle{plain}; the latter would also strip the header from the page the chapter
+% starts on. Patching \chapter itself leaves \newpage/\clearpage working everywhere else. To get the
+% default behaviour back for a book, delete this block.
+\makeatletter
+\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{\PackageWarning{preamble}{could not patch \string\chapter\space (page break)}}
+\patchcmd{\chapter}{\thispagestyle{plain}}{}{}{\PackageWarning{preamble}{could not patch \string\chapter\space (page style)}}
+\makeatother
+
+% space above a chapter title; negative = tighter (\multicolsep above/below the columns is unchanged)
+\pretocmd{\chapter}{%
+  \ifnum\value{chapter}>0
+    \titlespacing*{\chapter}{0mm}{3mm}{0mm}%
+  \else
+    \titlespacing*{\chapter}{0mm}{-6mm}{0mm}%
+  \fi
+}{}{}
 
 \extrafloats{100}
 \maxdeadcycles=200
@@ -115,3 +134,58 @@
 
 \newcommand{\biblebeginparacol}{\begin{paracol}{2}}
 \newcommand{\bibleendparacol}{\end{paracol}}
+
+\let\oldsection\section
+\let\oldchapter\chapter
+
+\newlength{\sectionnumberwidth}
+\newlength{\sectionnumberheight}
+\newlength{\sectiontextwidth}
+
+% \biblechapter{N} is called as \section{N}, followed by a blank line and then the text of the chapter,
+% i.e. *before* the paragraph that holds the text, so it cannot typeset anything itself. It only
+% remembers the number; \bibleverse (which always opens that paragraph) then puts the number in the
+% left margin and indents the first two lines around it. This is deliberately not done with \everypar:
+% hyperref's \hypertarget (the generated .tex wraps every \section in one) starts a paragraph of its own
+% inside a group with \everypar cleared, so a hook is skipped or its \hangindent is thrown away when
+% that group closes.
+\newcommand{\biblechapter@number}{}
+\newcommand{\biblechapter@pending}{}
+
+\newcommand{\biblechapter@begin}{%
+  \let\biblechapter@number\biblechapter@pending
+  \gdef\biblechapter@pending{}%
+  \noindent
+  \settowidth{\sectionnumberwidth}{\textbf{\Huge \biblechapter@number}}%
+  \addtolength{\sectionnumberwidth}{.5em}%
+  \hangindent=\sectionnumberwidth
+  \hangafter=-2
+  % Line 1 itself starts at \hangindent, so the box is pushed back to the margin with \llap.
+  % \smash keeps the large number from changing the line height; it is lowered to sit across both lines.
+  \llap{\hbox to \sectionnumberwidth{\smash{\raisebox{-0.7\baselineskip}{\textbf{\Huge \biblechapter@number}}}\hss}}%
+}
+
+\newcommand{\biblechapter}[1]{%
+  \par
+  % \biblechapter replaces \section for numeric titles, so it must do the counting itself (the page
+  % header prints \thesection). Step to exactly N so the counter follows the number in the text even
+  % if a chapter is skipped, and so \label gets the right \@currentlabel and anchor.
+  \setcounter{section}{\numexpr#1-1\relax}%
+  \refstepcounter{section}%
+  \gdef\biblechapter@pending{#1}%
+}
+
+\renewcommand{\bibleverse}[1]{%
+  \ifx\biblechapter@pending\@empty\else\biblechapter@begin\fi
+  {\bfseries{#1}}%
+}
+\ExplSyntaxOn
+
+\RenewDocumentCommand{\section}{m}
+ {
+   \regex_match:nnTF { \A \d+ \Z } { #1 }
+     { \biblechapter{#1} }
+     { \oldsection{#1} }
+ }
+
+\ExplSyntaxOff
