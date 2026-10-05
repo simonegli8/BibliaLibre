@@ -1,0 +1,161 @@
+%% Creator: Inkscape 1.4.4 (dcaf3e7, 2026-05-05), www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'viajes-de-pablo.plain_svg-tex.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \newcommand*\fsize{\dimexpr\f@size pt\relax}%
+  \newcommand*\lineheight[1]{\fontsize{\fsize}{#1\fsize}\selectfont}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{1350bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.67)%
+    \lineheight{1}%
+    \setlength\tabcolsep{0pt}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.5634674,0.17644429){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Mediterráneo}}\end{tabular}}}}%
+    \put(0.49788943,0.2982624){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Egeo}}\end{tabular}}}}%
+    \put(0.26635874,0.37359386){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Jónico}}\end{tabular}}}}%
+    \put(0.18774895,0.58955277){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Adriático}}\end{tabular}}}}%
+    \put(0.07174109,0.45098463){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Tirreno}}\end{tabular}}}}%
+    \put(0.8438794,0.62544424){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{\textit{Mar Negro}}\end{tabular}}}}%
+    \put(0.07487598,0.62796898){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{ITALIA}\end{tabular}}}}%
+    \put(0.35230528,0.46491396){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{GRECIA}\end{tabular}}}}%
+    \put(0.81366188,0.44669925){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{ASIA MINOR}\end{tabular}}}}%
+    \put(0.95385761,0.24363277){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{SIRIA}\end{tabular}}}}%
+    \put(0.80459531,0.27033487){\color[rgb]{0,0,0}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{CHIPRE}\end{tabular}}}}%
+    \put(0.4987683,0.27495381){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{CRETA}\end{tabular}}}}%
+    \put(0.67890123,0.03033971){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{EGIPTO}\end{tabular}}}}%
+    \put(0.41624327,0.06941109){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{LIBIA}\end{tabular}}}}%
+    \put(0.88480237,0.06836334){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{JUDEA}\end{tabular}}}}%
+    \put(0.09878966,0.36867764){\color[rgb]{0.22745098,0.2,0.13333333}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{SICILIA}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.88637415,0.09466127){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Jerusalén}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.85958428,0.13561586){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Cesarea}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.86620474,0.15547728){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Tolemaida}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.87105466,0.17118169){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Tiro}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.8772902,0.18457658){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Sidón}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.92625092,0.18149729){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Damasco}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.81181936,0.3101711){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Antioquía}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.91100849,0.29281371){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Seleucia}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.8603541,0.33053504){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Tarso}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.83618164,0.2501655){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Salamina}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.76843727,0.23076596){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Pafos}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.71054657,0.33238261){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Perge}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.72309467,0.40813318){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Antioquía de Pisidia}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.78414163,0.39212087){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Iconio}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.76666668,0.36255965){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Listra}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.81585839,0.35116628){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Derbe}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.53795226,0.4763395){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Troas}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.53947382,0.46163815){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Asos}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.55698504,0.44881609){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Mitylene}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.58029252,0.39304465){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Éfeso}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.56706068,0.37118621){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Mileto}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.5792148,0.33761739){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Cos}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.61316397,0.30528483){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Rodas}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.65488838,0.29312164){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Patara}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.68999229,0.29928022){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Mira}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.58300274,0.31875901){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Cnido}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.49430329,0.23553887){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Buenos Puertos}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.11177829,0.28265204){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[t]{\lineheight{1.25}\smash{\begin{tabular}[t]{c}\textbf{Malta}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=30]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.1504234,0.3459315){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Siracusa}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=31]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.16374134,0.39396844){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Regio}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=32]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.10723634,0.51375288){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Puteoli}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=33]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.05063296,0.5785976){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Roma}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=34]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.48321787,0.53592379){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Filipos}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=35]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.41878368,0.51929561){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Tesalónica}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=36]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.39145497,0.50528483){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Berea}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=37]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.43897109,0.40622453){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Atenas}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=38]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.41760113,0.37386967){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[rt]{\lineheight{1.25}\smash{\begin{tabular}[t]{r}\textbf{Corinto}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=39]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.29544634,0.64304036){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Los viajes del apóstol Pablo}\end{tabular}}}}%
+    \put(0.29544634,0.61909659){\color[rgb]{0.33333333,0.33333333,0.33333333}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textit{Hechos de los Apóstoles, c. 34 – 60 d. C.}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=40]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.02845565,0.1515513){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}\textbf{Leyenda}\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=41]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.08031066,0.11877401){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Primer viaje (c. 46–48 d. C.)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=42]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.08028462,0.09099272){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Segundo viaje (c. 49–52 d. C.)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=43]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.08097038,0.06321139){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Tercer viaje (c. 53–57 d. C.)\end{tabular}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=44]{viajes-de-pablo.plain_svg-tex.pdf}}%
+    \put(0.08143046,0.0354301){\color[rgb]{0.16862745,0.16862745,0.16862745}\makebox(0,0)[lt]{\lineheight{1.25}\smash{\begin{tabular}[t]{l}Viaje a Roma (c. 59–60 d. C.)\end{tabular}}}}%
+  \end{picture}%
+\endgroup%
