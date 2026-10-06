@@ -5,7 +5,6 @@
 ^a^[**1:1** When rendered in ALL CAPITAL LETTERS, “LORD” or “GOD” is the translation of God’s Proper Name.]
 
 ## Livestock holocausts
-
 @3 “‘If his offering is a burnt offering from the herd, he shall offer a male without defect. He shall offer it at the door of the Tent of Meeting, that he may be accepted before the LORD. 
 @4 He shall lay his hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him. 
 @5 He shall kill the bull before the LORD. Aaron’s sons, the priests, shall present the blood and sprinkle the blood around on the altar that is at the door of the Tent of Meeting. 
@@ -15,14 +14,12 @@
 @9 but he shall wash its innards and its legs with water. The priest shall burn all of it on the altar, for a burnt offering, an offering made by fire, of a pleasant aroma to the LORD.
 
 ## Herd holocausts
-
 @10 “‘If his offering is from the flock, from the sheep or from the goats, for a burnt offering, he shall offer a male without defect. 
 @11 He shall kill it on the north side of the altar before the LORD. Aaron’s sons, the priests, shall sprinkle its blood around on the altar. 
 @12 He shall cut it into its pieces, with its head and its fat. The priest shall lay them in order on the wood that is on the fire which is on the altar, 
 @13 but the innards and the legs he shall wash with water. The priest shall offer the whole, and burn it on the altar. It is a burnt offering, an offering made by fire, of a pleasant aroma to the LORD.
 
 ## Holocausts of birds
-
 @14 “‘If his offering to the LORD is a burnt offering of birds, then he shall offer his offering from turtledoves or of young pigeons. 
 @15 The priest shall bring it to the altar, and wring off its head, and burn it on the altar; and its blood shall be drained out on the side of the altar; 
 @16 and he shall take away its crop and its feathers, and cast it beside the altar on the east part, in the place of the ashes. 
@@ -50,7 +47,6 @@
 ^a^[**2:13** The Hebrew word rendered “God” is “אֱלֹהִ֑ים” (Elohim).]
 
 ## Cereal Firstfruits Meal Offering
-
 @14 “‘If you offer a meal offering of first fruits to the LORD, you shall offer for the meal offering of your first fruits fresh heads of grain parched with fire and crushed. 
 @15 You shall put oil on it and lay frankincense on it. It is a meal offering. 
 @16 The priest shall burn as its memorial part of its crushed grain and part of its oil, along with all its frankincense. It is an offering made by fire to the LORD. 
@@ -64,7 +60,6 @@
 @5 Aaron’s sons shall burn it on the altar on the burnt offering, which is on the wood that is on the fire: it is an offering made by fire, of a pleasant aroma to the LORD.
 
 ## Herd Salvation Offerings
-
 @6 “‘If his offering for a sacrifice of peace offerings to the LORD is from the flock, either male or female, he shall offer it without defect. 
 @7 If he offers a lamb for his offering, then he shall offer it before the LORD; 
 @8 and he shall lay his hand on the head of his offering, and kill it before the Tent of Meeting. Aaron’s sons shall sprinkle its blood around on the altar. 
@@ -98,7 +93,6 @@
 @12 —all the rest of the bull—outside of the camp to a clean place where the ashes are poured out, and burn it on wood with fire. It shall be burnt where the ashes are poured out.
 
 ## Sacrifice for the sin of the whole church
-
 @13 “‘If the whole congregation of Israel sins, and the thing is hidden from the eyes of the assembly, and they have done any of the things which the LORD has commanded not to be done, and are guilty; 
 @14 when the sin in which they have sinned is known, then the assembly shall offer a young bull for a sin offering, and bring it before the Tent of Meeting. 
 @15 The elders of the congregation shall lay their hands on the head of the bull before the LORD; and the bull shall be killed before the LORD. 

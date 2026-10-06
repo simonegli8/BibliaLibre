@@ -156,29 +156,15 @@
 \newlength{\sectionnumberheight}
 \newlength{\sectiontextwidth}
 
-% \biblechapter{N} is called as \section{N}, followed by a blank line and then the text of the chapter,
-% i.e. *before* the paragraph that holds the text, so it cannot typeset anything itself. It only
-% remembers the number; \bibleverse (which always opens that paragraph) then puts the number in the
-% left margin and indents the first two lines around it. This is deliberately not done with \everypar:
-% hyperref's \hypertarget (the generated .tex wraps every \section in one) starts a paragraph of its own
-% inside a group with \everypar cleared, so a hook is skipped or its \hangindent is thrown away when
-% that group closes.
-\newcommand{\biblechapter@number}{}
-\newcommand{\biblechapter@pending}{}
-
-\newcommand{\biblechapter@begin}{%
-  \let\biblechapter@number\biblechapter@pending
-  \gdef\biblechapter@pending{}%
-  \noindent
-  \settowidth{\sectionnumberwidth}{\textbf{\Huge \biblechapter@number}}%
-  \addtolength{\sectionnumberwidth}{.5em}%
-  \hangindent=\sectionnumberwidth
-  \hangafter=-2
-  % Line 1 itself starts at \hangindent, so the box is pushed back to the margin with \llap.
-  % \smash keeps the large number from changing the line height; it is lowered to sit across both lines.
-  \llap{\hbox to \sectionnumberwidth{\smash{\raisebox{-0.7\baselineskip}{\textbf{\Huge \biblechapter@number}}}\hss}}%
-}
-
+% Section numbers (the numbers of the chapters of a Bible book). The generated .tex has, for each one,
+%     \hypertarget{...}{% \section{N}\label{...}}          <- \section{N} reaches \biblechapter below
+%     \subsection{...}                                      <- optional headings
+%     \sectionnumber \bibleverse{1} ...                     <- first paragraph of the section
+% \biblechapter (called by \section for numeric titles) sets the \section counter to N. \sectionnumber
+% always prints the current value of that counter (\thesection, never the \chapter number): it puts it in
+% the left margin of the paragraph that starts there and indents the first two lines around it.
+% \hangindent/\hangafter are set \global so the effect cannot be lost to a closing group; TeX resets
+% them itself at the end of the paragraph.
 \newcommand{\biblechapter}[1]{%
   \par
   % \biblechapter replaces \section for numeric titles, so it must do the counting itself (the page
@@ -186,13 +172,21 @@
   % if a chapter is skipped, and so \label gets the right \@currentlabel and anchor.
   \setcounter{section}{\numexpr#1-1\relax}%
   \refstepcounter{section}%
-  \gdef\biblechapter@pending{#1}%
 }
 
-\renewcommand{\bibleverse}[1]{%
-  \ifx\biblechapter@pending\@empty\else\biblechapter@begin\fi
-  {\bfseries{#1}}%
+\newcommand{\sectionnumber}{%
+  \ifnum\value{section}>\z@
+    \noindent
+    \settowidth{\sectionnumberwidth}{\textbf{\Huge \thesection}}%
+    \addtolength{\sectionnumberwidth}{.5em}%
+    \global\hangindent=\sectionnumberwidth
+    \global\hangafter=-2
+    % Line 1 itself starts at \hangindent, so the box is pushed back to the margin with \llap.
+    % \smash keeps the large number from changing the line height; it is lowered to sit across both lines.
+    \llap{\hbox to \sectionnumberwidth{\smash{\raisebox{-0.7\baselineskip}{\textbf{\Huge \thesection}}}\hss}}%
+  \fi
 }
+
 \ExplSyntaxOn
 
 \RenewDocumentCommand{\section}{m}
